@@ -24,7 +24,6 @@ def dg2rss(key):
         for article in div.find_all('div', attrs = {'class' : 'issueArticle'}):
             for resultTitle in article.find_all("div", "resultTitle"):
                 link = f"https://{hostname}{resultTitle.a.get('href')}"
-                #link = resultTitle.a.get('href')
                 title = resultTitle.h2.text.strip()
                 items.append({
                     'title' : title,
@@ -55,3 +54,4 @@ with open('dg_journals.csv', 'r') as IN:
     for r in reader:
         key = r.get('key')
         dg2rss(key)
+        
