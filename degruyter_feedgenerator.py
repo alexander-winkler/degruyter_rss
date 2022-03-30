@@ -71,6 +71,6 @@ for index,row in filtered_df.iterrows():
     except Exception as e:
         print(e)
         filtered_df.drop([index])
-    time.sleep(0.7)
+    time.sleep(0.4)
 
 filtered_df.to_csv("feed_list.csv", index=None)
