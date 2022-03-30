@@ -49,9 +49,27 @@ def dg2rss(key):
     tree.write(f'feed/{key}.xml', pretty_print=True, xml_declaration=True,   encoding="UTF-8", standalone = True)
     print(f"{key} done!")
 
-with open('dg_journals.csv', 'r') as IN:
-    reader = csv.DictReader(IN)
-    for r in reader:
-        key = r.get('key')
-        dg2rss(key)
+# with open('dg_journals.csv', 'r') as IN:
+#     reader = csv.DictReader(IN)
+#     for r in reader:
+#         key = r.get('key')
+#         dg2rss(key)
         
+
+import pandas as pd
+import time
+
+fileurl = r'https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/titlelists/DG_Journals_2022_Paid_Access_EUR.xlsx'
+
+df = pd.read_excel(fileurl, skiprows=3)
+filtered_df = df[["Object", "Title", "Print - ISSN", "Online - ISSN", "Subject(s)", "DOI or URL"]]
+filtered_df["key"] = filtered_df["DOI or URL"].str.replace('http\S+/','', regex = True).str.strip()
+for key in filtered_df["key"]:
+    try:
+        dg2rss(key)
+        filtered_df["rss_feed"] = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml"
+    except Exception as e:
+        print(e)
+    time.sleep(0.7)
+
+filtered_df.to_csv("feed_list.csv", index=None)
