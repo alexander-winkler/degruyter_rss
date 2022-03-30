@@ -70,7 +70,6 @@ for index,row in filtered_df.iterrows():
         filtered_df.loc[index, "rss_feed"] = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{row['key']}.xml"
     except Exception as e:
         print(e)
-        filtered_df.drop([index])
     time.sleep(0.4)
 
 filtered_df.to_csv("feed_list.csv", index=None)
