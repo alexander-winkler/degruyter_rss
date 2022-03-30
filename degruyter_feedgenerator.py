@@ -64,10 +64,10 @@ fileurl = r'https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/titleli
 df = pd.read_excel(fileurl, skiprows=3)
 filtered_df = df[["Object", "Title", "Print - ISSN", "Online - ISSN", "Subject(s)", "DOI or URL"]]
 filtered_df["key"] = filtered_df["DOI or URL"].str.replace('http\S+/','', regex = True).str.strip()
-for key in filtered_df["key"]:
+for index,row in filtered_df.iterrows():
     try:
-        dg2rss(key)
-        filtered_df["rss_feed"] = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml"
+        dg2rss(row["key"])
+        filtered_df.loc[index, "rss_feed"] = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{row['key']}.xml"
     except Exception as e:
         print(e)
     time.sleep(0.7)
