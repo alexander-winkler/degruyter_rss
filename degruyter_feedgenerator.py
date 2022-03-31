@@ -27,7 +27,7 @@ def dg2rss(key:str):
     # Download journal website
     page = requests.get(url)
     hostname = urlparse(url).hostname
-    soup = BeautifulSoup(page.content)
+    soup = BeautifulSoup(page.content, features = 'html.parser')
     
     # Timestamp
     last_change = soup.find("h3","latestIssuePubDate").text.strip()
@@ -87,7 +87,7 @@ fileurl = r'https://degruyter-live-craftcms-assets.s3.amazonaws.com/docs/titleli
 df = pd.read_excel(fileurl, skiprows=3)
 filtered_df = df[["Object", "Title", "Print - ISSN", "Online - ISSN", "Subject(s)", "DOI or URL"]]
 # keys are implicit in the url present in the spreadsheet
-filtered_df["key"] = filtered_df["DOI or URL"].str.replace('http\S+/','', regex = True).str.strip()
+filtered_df.loc[:, "key"] = filtered_df["DOI or URL"].str.replace('http\S+/','', regex = True).str.strip()
 
 # run function on keys
 for index,row in filtered_df.iterrows():
