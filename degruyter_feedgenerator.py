@@ -101,3 +101,16 @@ for index,row in filtered_df.iterrows():
 # Finally, write a csv list of feeds generated
 
 filtered_df.to_csv("feed_list.csv", index=None)
+
+# Some keys apparently are not contained in the 'filurl` file above.
+# Therefore, add a simple key list file in `additional_keys.csv` to be added.
+
+try:
+    with open('additional_keys.csv', 'r') as IN:
+        print("additional keys found with following keys:")
+        for key in IN.read().split('\n'):
+            key = key.strip()
+            print(f"\t- {key}")
+            dg2rss(key)
+except Exception as e:
+    print(e)
