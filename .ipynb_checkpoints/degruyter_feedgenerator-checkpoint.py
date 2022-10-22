@@ -47,6 +47,7 @@ def dg2rss(key:str):
         for article in div.find_all('div', attrs = {'class' : 'issueArticle'}):
             for resultTitle in article.find_all("div", "resultTitle"):
                 link = f"https://{hostname}{resultTitle.a.get('href')}"
+                print(link)
                 title = resultTitle.h4.text.strip()
                 items.append({
                     'title' : title,
