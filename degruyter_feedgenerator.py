@@ -30,7 +30,7 @@ def dg2rss(key:str):
     soup = BeautifulSoup(page.content, features = 'html.parser')
     
     # Timestamp
-    last_change = soup.find("h3","latestIssuePubDate").text.strip()
+    last_change = soup.find("div","latestIssuePubDate").text.strip()
     last_change = datetime.strptime(last_change, '%B %Y').ctime()
     
     # Journal titel (will become channel title in rss)
@@ -47,11 +47,14 @@ def dg2rss(key:str):
         for article in div.find_all('div', attrs = {'class' : 'issueArticle'}):
             for resultTitle in article.find_all("div", "resultTitle"):
                 link = f"https://{hostname}{resultTitle.a.get('href')}"
-                title = resultTitle.h4.text.strip()
+                title = resultTitle.a.h4.text.strip()
                 items.append({
                     'title' : title,
                     'link' : link
                 })
+
+
+                #html body.search_plugin_added main#main.language_de.px-0.min-vh-100 div.row.no-theme-gutter-x div#journalContent.content.offset-lg-1.col-lg-8.py-5.px-4 div.row div.col.px-2.pe-md-5 nav.px-2.px-lg-0 div.tab-content div#latestIssue.tab-pane.mt-5.mb-4.active div.issueToc div#issue-subject-group-i articles.issueSubjectGroup.mb-4 div.groupArticles.ps-4 div.issueArticle div.searchResult.p-3.mb-2 div.searchResultContent.w-100 div.resultTitle a.issueContentsArticleLink.linkHoverDark.d-inline-block h4.titleSearchPageResult.mb-0
 
     # Create rss feed
     root = etree.Element("rss", version = "2.0")
