@@ -1,53 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Practical Metallography</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Practical Metallography</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Contents</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-frontmatter11/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-frontmatter11</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0073/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0073</description>
     </item>
     <item>
       <title>Imaging of microcrack propagation in 3D nanostructures applying laboratory nano-XCT</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0074/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0074/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0074</description>
     </item>
     <item>
       <title>Specimen preparation for atom probe tomography</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0075/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0075/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0075</description>
     </item>
     <item>
       <title>FIB/SEM serial sectioning as a versatile tool for microstructural analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0076/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0076/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0076</description>
     </item>
     <item>
       <title>Fatigue dimples? – Fractured bulkhead ring bolts in a large gas turbine engine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0077/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0077/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0077</description>
     </item>
     <item>
       <title>Picture of the Month</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0078/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0078/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0078</description>
     </item>
     <item>
       <title>Interview with Prof. Ehrenfried Zschech</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0079/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0079/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0079</description>
     </item>
     <item>
       <title>Sicherheit, Effizienz und Nachhaltigkeit in der Wasserstoffwirtschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0080/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0080/html</guid>
+      <description>Article by 
+
+                Page range: 894-897
+            
+ DOI: https://doi.org/10.1515/pm-2024-0080</description>
     </item>
   </channel>
 </rss>

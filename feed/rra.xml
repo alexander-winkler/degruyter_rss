@@ -1,88 +1,170 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>ReiseRecht aktuell</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in ReiseRecht aktuell</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rra.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-frontmatter3205/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-frontmatter3205/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-frontmatter3205</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-toc3205/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-toc3205/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-toc3205</description>
     </item>
     <item>
       <title>Editorial — Die reiserechtliche fünfte Jahreszeit, Glasfaserkabel, Tahiti und Flugtaxis</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320501/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320501/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320501</description>
     </item>
     <item>
       <title>Der Vorschlag der Kommission zur Änderung der Passagierrechte-Verordnungen und für eine Verordnung über Passagierrechte bei multimodalen Reisen</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320502/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320502/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320502</description>
     </item>
     <item>
       <title>„Wenn mich das Reisebüro nicht vermittelt hätt’...“ – Kommissionsvorschlag zur Änderung der Fluggastrechte-VO in Bezug auf die Buchung über einen Vermittler</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320503/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320503/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320503</description>
     </item>
     <item>
       <title>Fluggastrechte: Dienstqualitätsnormen und einheitliches Formular</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320504/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320504/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320504</description>
     </item>
     <item>
       <title>Neuerungen für nationale Durchsetzungsstellen in Fluggastsachen</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320505/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320505/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320505</description>
     </item>
     <item>
       <title>Kommissionsvorschlag zu den Fahrgastrechten im multimodalen Verkehr</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320506/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320506/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320506</description>
     </item>
     <item>
       <title>Verordnung (EU) Nr. 1215/2012 / Unechte Inlandsfälle / Zuständigkeit</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320507/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320507/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320507</description>
     </item>
     <item>
       <title>Insolvenz des Reiseveranstalters / Absicherung / Erstattungsansprüche</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320508/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320508/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320508</description>
     </item>
     <item>
       <title>Verordnung (EG) Nr. 261/2004 / Verspätung / Außergewöhnliche Umstände</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320509/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320509/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320509</description>
     </item>
     <item>
       <title>Verordnung (EG) Nr. 261/2004 / Ausgleichszahlungen / Verjährungsfrist</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320510/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320510/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320510</description>
     </item>
     <item>
       <title>Corona-Pandemie / Rücktritt / Einreiseverbot</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320511/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320511/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320511</description>
     </item>
     <item>
       <title>Verordnung (EG) Nr. 261/2004 / Flugannullierung / Ausnahmetatbestand</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320512/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320512/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320512</description>
     </item>
     <item>
       <title>Wettbewerbsrecht / Wettbewerbsverhältnis</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320513/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320513/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320513</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.9785/rra-2024-320514/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/rra-2024-320514/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/rra-2024-320514</description>
     </item>
   </channel>
 </rss>

@@ -1,63 +1,120 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>UmsatzsteuerRundschau</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in UmsatzsteuerRundschau</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-frontmatter7321/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-frontmatter7321/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-frontmatter7321</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-toc7321/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-toc7321/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-toc7321</description>
     </item>
     <item>
       <title>Defizitäre Tätigkeiten und Zuschüsse in der Umsatzsteuer</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732101/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732101</description>
     </item>
     <item>
       <title>Ergänzende Vertragsauslegung im Verhältnis des leistenden Bauunternehmers zum Leistungsempfänger (Bauträger), wenn es nicht zu einer Steuerfestsetzung kommen wird</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732102/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732102</description>
     </item>
     <item>
       <title>Vorsteuerabzug bei Lieferung von Mieterstrom</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732103/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732103</description>
     </item>
     <item>
       <title>Preisnachlass nach Bewirkung des Umsatzes – Beiträge, die ein pharmazeutisches Unternehmen an den staatlichen Krankenversicherungsträger leistet – Nationale Steuerregelung, nach der Beiträge, die ein pharmazeutisches Unternehmen aufgrund einer gesetzlichen Verpflichtung an den öffentlichen Krankenversicherungsträger zahlt, von der Verminderung der Steuerbemessungsgrundlage ausgeschlossen sind</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732104/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732104</description>
     </item>
     <item>
       <title>Verfahren der Aufspaltung von Zahlungen – Mehrwertsteuerkonto eines insolventen Steuerpflichtigen – Überweisung der auf diesem Konto angesammelten Mittel auf Antrag des Insolvenzverwalters</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732105/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732105</description>
     </item>
     <item>
       <title>Umsatzsteuerrechtliche Beurteilung von Kartellschadensersatz</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732106/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732106</description>
     </item>
     <item>
       <title>Einführung der obligatorischen elektronischen Rechnung bei Umsätzen zwischen inländischen Unternehmern ab dem 1.1.2025</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732107/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732107</description>
     </item>
     <item>
       <title>Umsatzsteuer-Umrechnungskurse für den Monat September 2024</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732108/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732108</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732109/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732109/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/ur-2024-732109</description>
     </item>
   </channel>
 </rss>

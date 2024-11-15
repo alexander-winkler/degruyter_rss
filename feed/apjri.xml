@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Asia-Pacific Journal of Risk and Insurance</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Asia-Pacific Journal of Risk and Insurance</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apjri.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apjri-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apjri-2024-frontmatter1/html</guid>
+      <description>Article by Michelle Dong, Aaron Bruhn, Han Lin Shang, Francis Hui DOI: https://doi.org/10.1515/apjri-2024-frontmatter1</description>
     </item>
     <item>
       <title>A Strategy for Rolling out Climate De-risk Insurance through Regional Collaboration</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0063/html</guid>
+      <description>Article by Michelle Dong, Aaron Bruhn, Han Lin Shang, Francis Hui DOI: https://doi.org/10.1515/apjri-2023-0063</description>
     </item>
     <item>
       <title>Multidimensional Barriers to Entry in the Insurance Industry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0026/html</guid>
+      <description>Article by Michelle Dong, Aaron Bruhn, Han Lin Shang, Francis Hui DOI: https://doi.org/10.1515/apjri-2023-0026</description>
     </item>
     <item>
       <title>Estimating Risk Relativity of Driving Records using Generalized Additive Models: A Statistical Approach for Auto Insurance Rate Regulation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0032/html</guid>
+      <description>Article by Michelle Dong, Aaron Bruhn, Han Lin Shang, Francis Hui DOI: https://doi.org/10.1515/apjri-2023-0032</description>
     </item>
     <item>
       <title>Assessing the Impact of Climate Risk Stresses on Life Insurance Portfolios</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apjri-2023-0010/html</guid>
+      <description>Article by Michelle Dong, Aaron Bruhn, Han Lin Shang, Francis Hui DOI: https://doi.org/10.1515/apjri-2023-0010</description>
     </item>
   </channel>
 </rss>

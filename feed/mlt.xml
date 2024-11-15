@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Multicultural Learning and Teaching</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Multicultural Learning and Teaching</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mlt.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2024-frontmatter2/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2024-frontmatter2</description>
     </item>
     <item>
       <title>Executive editor’s comments: diversity, equity, and inclusion (DEI): valuing humanity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2024-2002/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2024-2002</description>
     </item>
     <item>
       <title>Achieving a more diverse special education teacher workforce: guiding questions for researchers and policymakers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0007/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0007</description>
     </item>
     <item>
       <title>A brief synopsis of the psychosocial educational practices in the Arab higher education institutions: a first person’s viewpoint</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0025/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0025</description>
     </item>
     <item>
       <title>Diversity in geology and geophysics degree programs in Historically Black Colleges and Universities (HBCUs)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0012/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2023-0012</description>
     </item>
     <item>
       <title>Cultural competency training for the social service professions: A systematic literature review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0024/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0024</description>
     </item>
     <item>
       <title>Beyond fraudulent multiculturalism in higher education: moving forward</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0001/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2023-0001</description>
     </item>
     <item>
       <title>Preparing culturally responsive teachers: a systematic review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0004/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2023-0004</description>
     </item>
     <item>
       <title>Preservice teachers’ reflections on teacher self-identities through a multicultural children’s literature project</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0021/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0021</description>
     </item>
     <item>
       <title>Investigating the needs, expectations, problems and experiences of international students in the process of distance education</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0022/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0022</description>
     </item>
     <item>
       <title>Parenting in a new land: the influence of English language proficiency on immigrant parents’ experiences with intergenerational challenges</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0008/html</guid>
+      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0008</description>
     </item>
   </channel>
 </rss>

@@ -1,58 +1,70 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Early Modern Christianity</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Early Modern Christianity</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jemc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-frontmatter1/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-frontmatter1</description>
     </item>
     <item>
       <title>Concerning the Defamation and Execution of the “Radical” Ludwig Hätzer (1500–1529): An Attempt at Using Social Network Analysis on Small Samples</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2001/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2001</description>
     </item>
     <item>
       <title>Framing Religious Leadership in Dutch Nationalist Confessional Historiography: Anabaptism on the Lower Rhine in the 1540s–1550s</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2002/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2002</description>
     </item>
     <item>
       <title>Hope from the Ashes: Juan Pérez de Pineda’s Mystical Body beyond Neoplatonic Consolation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2003/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2003</description>
     </item>
     <item>
       <title>True Worship in the Spirit: Martin Chemnitz and the Minor Role of the Body in Worship</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2004/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2004</description>
     </item>
     <item>
       <title>The Duke of Olyka and the Saint: The Meeting between Mikołaj Krzysztof Radziwiłł and Pope Pius V (1566)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2005/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2005</description>
     </item>
     <item>
       <title>The Post-Tridentine Controversies at the Louvain Faculty of Theology: The Correspondence between Judocus Tiletanus and Michael Baius (1568)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2006/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2006</description>
     </item>
     <item>
       <title>Between Jerusalem and Babylon: Catholic Discourses of Israel and National Identity in Elizabethan and Jacobean England (ca. 1560–1625)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2007/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2007</description>
     </item>
     <item>
       <title>Enfance, martyre et mission dans L’Histoire des martyrs du Japon de Nicolas Trigault (1624)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2008/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2008</description>
     </item>
     <item>
       <title>Critical Independence versus Christian Catholicity in Hugo Grotius’s Annotations on Matthew 23:2–3</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2009/html</guid>
+      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2009</description>
     </item>
   </channel>
 </rss>

@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Literary Semantics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Literary Semantics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlse.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-frontmatter2/html</guid>
+      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-frontmatter2</description>
     </item>
     <item>
       <title>Comic timing in prose fiction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2007/html</guid>
+      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2007</description>
     </item>
     <item>
       <title>The pragmatics of black–white conversations: Richard Wright’s representation of the African American experience</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2008/html</guid>
+      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2008</description>
     </item>
     <item>
       <title>Paul Dawson: The Story of Fictional Truth: Realism from the Death to the Rise of the Novel</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2006/html</guid>
+      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2006</description>
     </item>
     <item>
       <title>Virginie Iché and Sandrine Sorlin: The Rhetoric of Literary Communication: From Classical English Novels to Contemporary Digital Fiction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2009/html</guid>
+      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2009</description>
     </item>
   </channel>
 </rss>

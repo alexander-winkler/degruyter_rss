@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Biosecurity, Biosafety and Biodefense Law</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Biosecurity, Biosafety and Biodefense Law</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbbbl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-frontmatter1/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-frontmatter1</description>
     </item>
     <item>
       <title>Introduction to Volume XV</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2001/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2001</description>
     </item>
     <item>
       <title>The Rise of Bionanotechnology as a Tool for Saving the Planet and Destroying the World</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2002/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2002</description>
     </item>
     <item>
       <title>Threat of Biowarfare from Recent Genome Editing Advancements</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2003/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2003</description>
     </item>
     <item>
       <title>Make Love Not War: The Possibility of Gaseous Hormones Against Civilians in Conflict Situations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2004/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2004</description>
     </item>
     <item>
       <title>The Environment Can Save the Country: How Advancing Environmental Justice Can Improve Biosecurity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2005/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2005</description>
     </item>
     <item>
       <title>Balancing Biosafety and Innovation: Navigating Legislative Landscapes in AI-driven Biohacking</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2006/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2006</description>
     </item>
     <item>
       <title>The Urgent Need for a Carve Out Exception in the United Nations Security Council Veto Power</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbbbl-2024-2007/html</guid>
+      <description>Article by Kevin Johnson DOI: https://doi.org/10.1515/jbbbl-2024-2007</description>
     </item>
   </channel>
 </rss>

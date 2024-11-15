@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Physikalische Chemie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Physikalische Chemie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpch.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2024-frontmatter11/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2024-frontmatter11</description>
     </item>
     <item>
       <title>Unveiling the role of rare earth dopant in metal molybdate nanocomposites via facile microwave-combustion strategy and their effect on antibacterial activity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0403/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0403/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0403</description>
     </item>
     <item>
       <title>Effect of lanthanum (La) substitution on the magnetic and electrical properties of nickel ferrites: an investigation of its doping concentrations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0485/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0485/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0485</description>
     </item>
     <item>
       <title>The relationship between environmental factors and dust accumulation by machine learning</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0479/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0479/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0479</description>
     </item>
     <item>
       <title>Facile formation of STO/gC3N4 hybrid composite to effectively degrade the dye and antibiotic under white light</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0398/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0398/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0398</description>
     </item>
     <item>
       <title>Investigation of the composition and morphology of raw materials from the Aral Sea region</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0401/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0401/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0401</description>
     </item>
     <item>
       <title>Chemical state and atomic structure in stoichiovariants photochromic oxidized yttrium hydride thin films</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0507/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0507/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0507</description>
     </item>
     <item>
       <title>Single crystal of barium bis para-nitrophenolate para-nitrophenol tetrahydrate for NLO applications: crystal growth and DFT analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0503/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0503/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0503</description>
     </item>
     <item>
       <title>Characterization of single-crystal phenothiazine synthesized using the vertical Bridgman method</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0491/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0491/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0491</description>
     </item>
     <item>
       <title>Amidoxime functionalized mesoporous silica nanoparticles for pH-responsive delivery of anticancer drug</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0488/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0488/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0488</description>
     </item>
     <item>
       <title>Exploring optical and electrochemical studies on thulium selenite (TmSeO3)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0404/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpch-2023-0404/html</guid>
+      <description>Article by Ariponnammal Shanmuga Sundaram, Basil Ralph Nesam Gregory, Shanmugha Soundare Sivakumar DOI: https://doi.org/10.1515/zpch-2023-0404</description>
     </item>
   </channel>
 </rss>

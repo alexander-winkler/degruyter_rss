@@ -1,88 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Medizinische Genetik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Medizinische Genetik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/medgen.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-frontmatter3/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-frontmatter3</description>
     </item>
     <item>
       <title>Reproduction, genetics, and health – a topic with implications far beyond infertility</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2037/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2037</description>
     </item>
     <item>
       <title>Genetics of female and male infertility</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2040/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2040</description>
     </item>
     <item>
       <title>Psychological aspects of infertility</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2029/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2029</description>
     </item>
     <item>
       <title>Reproductive genetics and health</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2036/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2036</description>
     </item>
     <item>
       <title>Nicht-invasiver Pränataltest (NIPT): Aktuelle gesundheitspolitische Initiativen und inhaltliche Missverständnisse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2043/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2043</description>
     </item>
     <item>
       <title>Heidelberg: PD Dr. rer. nat. Sandra Hoffmann – Leiterin der Forschungsgruppe Kardiogenetik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2041/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2041</description>
     </item>
     <item>
       <title>„Wir gründeten die Zeitschrift medizinischegenetik, weil die Humangenetiker ein Forum für ihr Fach brauchten“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2033/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2033</description>
     </item>
     <item>
       <title>Verleihung der GfH-Ehrenmitgliedschaft 2024 an Prof. Dr. med. Klaus Zerres</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2034/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2034</description>
     </item>
     <item>
       <title>Verleihung der GfH-Ehrenmedaille 2024 an Dr. rer. nat. Holger Prokisch</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2035/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2035</description>
     </item>
     <item>
       <title>Umsetzung der In-vitro-Diagnostik Verordnung (IVDR) in medizinischen Diagnostik-Einrichtungen: Dringende Maßnahmen zur Entlastung sind notwendig, um die in-vitro Diagnostik aufrecht zu erhalten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2042/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2042</description>
     </item>
     <item>
       <title>GfH-Promotionspreise 2024</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2031/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2031</description>
     </item>
     <item>
       <title>Protokoll der 36. ordentlichen Mitgliederversammlung der Deutschen Gesellschaft für Humangenetik am 02.06.2024 anlässlich der ESHG-Jahrestagung vom 01.–04. Juni 2024 in Berlin</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2039/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2039</description>
     </item>
     <item>
       <title>37. Tumorgenetische Arbeitstagung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2030/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2030</description>
     </item>
     <item>
       <title>10 Years of International Albinism Awareness</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2032/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2032</description>
     </item>
     <item>
       <title>Institut für Humangenetik der Medizinischen Universität Innsbruck feiert seine 60-jährige Geschichte und gibt Ausblicke in die Zukunft der Genomischen Medizin</title>
       <link>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/medgen-2024-2038/html</guid>
+      <description>Article by Beatrix Mühlegger, Johannes Zschocke DOI: https://doi.org/10.1515/medgen-2024-2038</description>
     </item>
   </channel>
 </rss>

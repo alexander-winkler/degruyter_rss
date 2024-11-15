@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Bankrecht und Bankwirtschaft</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Bankrecht und Bankwirtschaft</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zbb.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cover</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-frontmatter5/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-frontmatter5</description>
     </item>
     <item>
       <title>Inhaltsverzeichnis</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0501/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0501/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0501</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0502/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0502/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0502</description>
     </item>
     <item>
       <title>Änderung und Einbeziehung von Anlagebedingungen im Investmentrecht – unionsrechtlich korrekturbedürftige Fehlentwicklungen in der Rechtsprechung zu § 305 Abs. 2 BGB</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0503/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0503/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0503</description>
     </item>
     <item>
       <title>Kreditzweitmarktgesetz – Aufsichtsrechtliche Analyse und Herausforderungen für die Restrukturierungspraxis</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0504/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0504/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0504</description>
     </item>
     <item>
       <title>Neue Perspektiven des Sparkassenrechts</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0505/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0505/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0505</description>
     </item>
     <item>
       <title>Entscheidungen in Leitsätzen</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0506/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0506/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0506</description>
     </item>
     <item>
       <title>Report from Brussels: overview of pending and completed legislative initiatives in the area of financial services in the EU – content and state of play</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0507/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0507/html</guid>
+      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0507</description>
     </item>
   </channel>
 </rss>

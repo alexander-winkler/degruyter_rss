@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>ICL Journal</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in ICL Journal</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/icl-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/icl-2024-frontmatter3/html</guid>
+      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2024-frontmatter3</description>
     </item>
     <item>
       <title>Interesting Times in Mexico: Constitutional Demise was Not on the Ballot</title>
       <link>https://www.degruyter.com/document/doi/10.1515/icl-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/icl-2024-0030/html</guid>
+      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2024-0030</description>
     </item>
     <item>
       <title>The Emerging Civil Right to Counsel in India: On ‘Enforceable’ Directive Principles</title>
       <link>https://www.degruyter.com/document/doi/10.1515/icl-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/icl-2023-0012/html</guid>
+      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2023-0012</description>
     </item>
     <item>
       <title>Chinese Constitutonal Performance Unveiled: Text Mining Insights in Civil Litigations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/icl-2023-0052/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/icl-2023-0052/html</guid>
+      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2023-0052</description>
     </item>
     <item>
       <title>Deepening the Case for Egalitarianism in the International Order: A Comparative Perspective</title>
       <link>https://www.degruyter.com/document/doi/10.1515/icl-2023-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/icl-2023-0051/html</guid>
+      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2023-0051</description>
     </item>
   </channel>
 </rss>

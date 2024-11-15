@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Lodz Papers in Pragmatics </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Lodz Papers in Pragmatics </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lpp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-frontmatter1/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-frontmatter1</description>
     </item>
     <item>
       <title>Writer and participant visibility in quantitative and qualitative research: a corpus-assisted study of human agent verbs in health science publications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2009/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2009</description>
     </item>
     <item>
       <title>Speaker positioning in academic instruction: insights from corpus analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2003/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2003</description>
     </item>
     <item>
       <title>The most common graphicons in Mexican Spanish speaking WhatsApp communities composed of school parents</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2010/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2010</description>
     </item>
     <item>
       <title>A multimodal contrastive analysis of regulations and instructions during the COVID-19 lockdown in the context of the Island of Madeira and the United Kingdom</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2008/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2008</description>
     </item>
     <item>
       <title>Conative “kisses” in human-to-animal communication</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2001/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2001</description>
     </item>
     <item>
       <title>Ecological discourse analysis and meaning interpretation of BBC news reports on 2019 Australian bushfires from the perspective of transitivity system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2007/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2007</description>
     </item>
     <item>
       <title>‘Where there is a will there is a way’: figurative language use and its pragmatic functions in political discourse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2002/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2002</description>
     </item>
     <item>
       <title>Undergraduate and postgraduate students’ emails to faculty members: an impoliteness perspective</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2006/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2006</description>
     </item>
     <item>
       <title>Apology strategies in Tashelhit: linguistic realization and religious influence</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2005/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2005</description>
     </item>
     <item>
       <title>Al-Ḥajjāj’s rhetoric of intimidation and humiliation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lpp-2024-2004/html</guid>
+      <description>Article by Aadel Shakkour DOI: https://doi.org/10.1515/lpp-2024-2004</description>
     </item>
   </channel>
 </rss>

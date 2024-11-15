@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für die gesamte Strafrechtswissenschaft      </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für die gesamte Strafrechtswissenschaft      </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zstw.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-frontmatter3/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-frontmatter3</description>
     </item>
     <item>
       <title>Mysterium nachträgliche Sicherungsverwahrung nach § 66b StGB</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0015/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0015</description>
     </item>
     <item>
       <title>Von dunklen und hellen Seiten des Strafrechts – Für eine differenzierte Haltung der Strafrechtswissenschaft zur Kriminalpolitik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0016/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0016</description>
     </item>
     <item>
       <title>25 Jahre Brandstiftungsdelikte als „gemeingefährliche Straftaten“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0017/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0017</description>
     </item>
     <item>
       <title>Die Strafbarkeit der „Einziehungsvereitelung“ gem. § 258 StGB</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0018/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0018</description>
     </item>
     <item>
       <title>Die Wiederaufnahme des Verfahrens zuungunsten des Freigesprochenen gemäß § 362 Nr. 5 StPO</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0019/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0019</description>
     </item>
     <item>
       <title>Der über Art. 103 Abs. 3 GG proklamierte partielle Vorrang des Friedens im Recht in seinem vorkonstitutionellen Gewand</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0020/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0020</description>
     </item>
     <item>
       <title>Kleine Worte, große Wirkung? – Die Entschuldigung aus der Sicht des Strafrechts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0021/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0021</description>
     </item>
     <item>
       <title>Weg von den Hürden, hin zu den Möglichkeiten: KI in Polizei und Straftatverfolgung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zstw-2024-0022/html</guid>
+      <description>Article by Liane Wörner DOI: https://doi.org/10.1515/zstw-2024-0022</description>
     </item>
   </channel>
 </rss>

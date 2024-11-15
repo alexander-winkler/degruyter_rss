@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Restaurator. International Journal for the Preservation of Library and Archival Material</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Restaurator. International Journal for the Preservation of Library and Archival Material</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rest.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2024-frontmatter2-3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2024-frontmatter2-3/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2024-frontmatter2-3</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2024-0022/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2024-0022</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2024-0019/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2024-0019</description>
     </item>
     <item>
       <title>Treating Brown Inks: Investigation into the Effects of Aqueous Treatment Methods on the Colour Stability of Bister, Sepia, Iron Gall and Logwood Inks</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0024/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0024</description>
     </item>
     <item>
       <title>Characterization of Historical and Modern Leathers Using FTIR, XRD, SEM-EDX, and Thermal Techniques</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0030/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0030</description>
     </item>
     <item>
       <title>Material Characterisation of 19–20th Century Manuscripts from Northern Thailand</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0028/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0028</description>
     </item>
     <item>
       <title>Proteomics to Study Parchment Degradation – From Bulk to Spatial Analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2024-0003/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2024-0003</description>
     </item>
     <item>
       <title>The Dagulf Psalter (Austrian National Library Cod. 1861): A Multi-Analytical Approach to Study Inks, Dyes, and Pigments of this Early Carolingian Manuscript</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0026/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0026</description>
     </item>
     <item>
       <title>Copper Complexes in Verdigris Painting Mixtures: An Electron Paramagnetic Resonance Characterization</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0016/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0016</description>
     </item>
     <item>
       <title>Restoration of the Information on De-colourized Architectural Cyanotypes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0022/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0022</description>
     </item>
     <item>
       <title>Study on the Material Properties and Deterioration Mechanism of Palm Leaves</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0021/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0021</description>
     </item>
     <item>
       <title>Analysis of Two Different Inks and Application Techniques on Palm Leaf Manuscripts Through Non-Invasive Analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/res-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/res-2023-0018/html</guid>
+      <description>Article by Chen Yu, Meifang Zhang, Xin Song DOI: https://doi.org/10.1515/res-2023-0018</description>
     </item>
   </channel>
 </rss>

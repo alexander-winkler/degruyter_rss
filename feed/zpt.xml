@@ -1,83 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Pädagogik und Theologie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Pädagogik und Theologie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpt.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-frontmatter4/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-frontmatter4</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2035/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2035</description>
     </item>
     <item>
       <title>Erkenntnistransfer und Transferforschung als Aufgabe von Fachdidaktiken – Blick über den Zaun</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2036/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2036</description>
     </item>
     <item>
       <title>Das Projekt „Qualität und Qualitätsentwicklung im Religionsunterricht“ (QUIRU) – Bedeutung für die Praxis und das Theorie-Praxis-Problem empirischer Unterrichtsforschung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2037/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2037</description>
     </item>
     <item>
       <title>Die Praxis des konfessionell-kooperativen Religionsunterrichts. Eine Bilanz vorliegender empirischer Erkenntnisse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2038/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2038</description>
     </item>
     <item>
       <title>Bridging the Gap – Religionsdidaktische Unterrichtsforschung und -entwicklung im Design-Based Research (DBR)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2039/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2039</description>
     </item>
     <item>
       <title>Praxeologie als Brücke zwischen religionspädagogischer Unterrichtsforschung und Praxis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2040/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2040</description>
     </item>
     <item>
       <title>Die Studie „Praxis Religionsunterricht“ und ihr vielschichtiges Verhältnis zur Praxis des Religionsunterrichts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2041/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2041</description>
     </item>
     <item>
       <title>Empirische Forschung als Beitrag zur Qualitätsentwicklung non-formaler religiöser Bildung. Befunde und Impulse aus der 3. Studie zur Konfi-Arbeit in Deutschland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2042/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2042</description>
     </item>
     <item>
       <title>How can Research on Teaching and Teaching Religious Education Come Together? Experiences from England</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2043/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2043</description>
     </item>
     <item>
       <title>Friedrich Schweitzer: Lernen im Religionsunterricht. Was der RU leisten kann und wie er seine Ziele erreicht. Göttingen: Vandenhoeck &amp; Ruprecht 2024, 314 S., € 25,00.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2044/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2044</description>
     </item>
     <item>
       <title>Andrea Schulte: Sprache im Fachunterricht Religion. Ein Studien- und Arbeitsbuch. (utb 6205). Waxmann: Münster – New York 2024, 208 S., € 29,90</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2045/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2045</description>
     </item>
     <item>
       <title>Felicitas Held: Tod, Sterben und Trauer als Themen der Konfirmandenarbeit. Eine Studie zur Deutung und Bewältigung von Krisen- und Verlusterfahrungen im Jugendalter. (Praktische Theologie heute, Band 199), Stuttgart: Kohlhammer 2024, 400 S., € 69,00</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2046/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2046/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2046</description>
     </item>
     <item>
       <title>Saskia Eisenhardt, Silja Leinung, Uta Pohl-Patalong: Religionsunterricht gestalten in der digitalisierten Welt. Unter Mitarbeit von Antonia Lüdtke. Vandenhoeck &amp; Ruprecht Göttingen 2024. 220 S. 29.00 €.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2047/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2047</description>
     </item>
     <item>
       <title>Marie Hecke/Katharina Kammeyer/Anne Neumann (Hg.): Andere Geschichten erzählen: Ebenbildlichkeit, Heilung und die Rede von Gott in disabilitysensibler Theologie. Stuttgart: Kohlhammer 2024. ISBN 978-3-17-044504-8 [pdf-Datei zum Download] 167 S., 49,00 €.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zpt-2024-2048/html</guid>
+      <description>Article by Wolfhard Schweiker DOI: https://doi.org/10.1515/zpt-2024-2048</description>
     </item>
   </channel>
 </rss>

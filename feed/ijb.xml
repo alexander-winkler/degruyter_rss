@@ -1,98 +1,118 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The International Journal of Biostatistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in The International Journal of Biostatistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijb.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2024-frontmatter1/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2024-frontmatter1</description>
     </item>
     <item>
       <title>Survival analysis using deep learning with medical imaging</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0113/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0113/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0113</description>
     </item>
     <item>
       <title>Using a population-based Kalman estimator to model the COVID-19 epidemic in France: estimating associations between disease transmission and non-pharmaceutical interventions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0087/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0087/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0087</description>
     </item>
     <item>
       <title>Approximate reciprocal relationship between two cause-specific hazard ratios in COVID-19 data with mutually exclusive events</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0083/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0083/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0083</description>
     </item>
     <item>
       <title>Sensitivity of estimands in clinical trials with imperfect compliance</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0105/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0105</description>
     </item>
     <item>
       <title>Highly robust causal semiparametric U-statistic with applications in biomedical studies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0047/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0047</description>
     </item>
     <item>
       <title>Hierarchical Bayesian bootstrap for heterogeneous treatment effect estimation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0051/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0051</description>
     </item>
     <item>
       <title>Penalized logistic regression with prior information for microarray gene expression classification</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0025/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0025</description>
     </item>
     <item>
       <title>Bayesian learners in gradient boosting for linear mixed models</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0029/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0029</description>
     </item>
     <item>
       <title>Unequal allocation of sample/event sizes with considerations of sampling cost for testing equality, non-inferiority/superiority, and equivalence of two Poisson rates</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0039/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0039</description>
     </item>
     <item>
       <title>HiPerMAb: a tool for judging the potential of small sample size biomarker pilot studies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0063/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0063</description>
     </item>
     <item>
       <title>Heterogeneity in meta-analysis: a comprehensive overview</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0070/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0070</description>
     </item>
     <item>
       <title>On stochastic dynamic modeling of incidence data</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2021-0134/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2021-0134/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2021-0134</description>
     </item>
     <item>
       <title>Power of testing for exposure effects under incomplete mediation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0106/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0106</description>
     </item>
     <item>
       <title>Exact correction factor for estimating the OR in the presence of sparse data with a zero cell in 2 × 2 tables</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0040/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0040</description>
     </item>
     <item>
       <title>Right-censored partially linear regression model with error in variables: application with carotid endarterectomy dataset</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2022-0044/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2022-0044</description>
     </item>
     <item>
       <title>Assessing HIV-infected patient retention in a program of differentiated care in sub-Saharan Africa: a G-estimation approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2023-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2023-0031/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2023-0031</description>
     </item>
     <item>
       <title>Prediction-based variable selection for component-wise gradient boosting</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijb-2023-0052/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijb-2023-0052/html</guid>
+      <description>Article by Sophie Potts, Elisabeth Bergherr, Constantin Reinke, Colin Griesbach DOI: https://doi.org/10.1515/ijb-2023-0052</description>
     </item>
   </channel>
 </rss>

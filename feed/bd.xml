@@ -1,123 +1,240 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Bibliotheksdienst</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Bibliotheksdienst</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bd.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-frontmatter11/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-frontmatter11</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0079/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0079/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0079</description>
     </item>
     <item>
       <title>Bibliotheken sichern das kulturelle Erbe</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0080/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0080/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0080</description>
     </item>
     <item>
       <title>Kindersoftwarepreis TOMMI: Kinderjury in Bibliotheken gestartet</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0081/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0081/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0081</description>
     </item>
     <item>
       <title>Emerging Library Leaders’ Summer School for Asia-Pacific</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0082/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0082/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0082</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in der Deutschen Nationalbibliothek</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0083/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0083/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0083</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Baden-Württemberg</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0084/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0084</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Bayern</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0085/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0085/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0085</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Berlin</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0086/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0086/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0086</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Brandenburg</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0087/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0087/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0087</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Bremen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0088/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0088/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0088</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Hamburg</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0089/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0089/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0089</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Hessen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0090/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0090/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0090</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Mecklenburg-Vorpommern</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0091/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0091/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0091</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Niedersachsen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0092/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0092/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0092</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Nordrhein-Westfalen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0093/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0093/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0093</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Rheinland-Pfalz</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0094/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0094/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0094</description>
     </item>
     <item>
       <title>Das Pflichtexemplar im Saarland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0095/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0095</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Sachsen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0096/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0096/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0096</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Sachsen-Anhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0097/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0097/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0097</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Schleswig-Holstein</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0098/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0098/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0098</description>
     </item>
     <item>
       <title>Das Pflichtexemplar in Thüringen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0099/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0099/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0099</description>
     </item>
     <item>
       <title>Bauen für die Ewigkeit. Preisträger*innen des Architekturwettbewerbs zur Realisierung des Erweiterungsbaus der Deutschen Nationalbibliothek stehen fest</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bd-2024-0100/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bd-2024-0100/html</guid>
+      <description>Article by 
+
+                Page range: 684-687
+            
+ DOI: https://doi.org/10.1515/bd-2024-0100</description>
     </item>
   </channel>
 </rss>

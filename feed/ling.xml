@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ling.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2024-frontmatter6/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2024-frontmatter6/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2024-frontmatter6</description>
     </item>
     <item>
       <title>Processing Chinese object-topicalization structures in simple and complex sentences</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2022-0118/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2022-0118/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2022-0118</description>
     </item>
     <item>
       <title>Competing constructions in Kaqchikel focus contexts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2020-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2020-0016/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2020-0016</description>
     </item>
     <item>
       <title>A cross-linguistic study of lexical and derived antonymy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2023-0140/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2023-0140/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2023-0140</description>
     </item>
     <item>
       <title>Placeholders in crosslinguistic perspective: abilities, preferences, and usage motives</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2023-0068/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2023-0068/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2023-0068</description>
     </item>
     <item>
       <title>From gesture to Sign? An exploration of the effects of communicative pressure, interaction, and time on the process of conventionalisation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2023-0121/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2023-0121/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2023-0121</description>
     </item>
     <item>
       <title>Dialect separation and cross-dialectal influence: a study on the grammatical gender of Oromo</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2022-0119/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2022-0119/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2022-0119</description>
     </item>
     <item>
       <title>Morphosyntactic stereotypes of speakers with different genders and sexual orientations: an experimental investigation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ling-2022-0143/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ling-2022-0143/html</guid>
+      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2022-0143</description>
     </item>
   </channel>
 </rss>

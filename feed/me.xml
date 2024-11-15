@@ -1,23 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Man and the Economy</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Man and the Economy</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/me.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/me-2023-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/me-2023-frontmatter1/html</guid>
+      <description>Article by Hong Sheng DOI: https://doi.org/10.1515/me-2023-frontmatter1</description>
     </item>
     <item>
       <title>Analysing the Role of Globalisation in Environmental Degradation of West African Countries: A Method of Moments Quantile Regression Approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/me-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/me-2023-0003/html</guid>
+      <description>Article by Hong Sheng DOI: https://doi.org/10.1515/me-2023-0003</description>
     </item>
     <item>
       <title>Filial Piety, Longevity and the Start of Humanity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/me-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/me-2024-2001/html</guid>
+      <description>Article by Hong Sheng DOI: https://doi.org/10.1515/me-2024-2001</description>
     </item>
   </channel>
 </rss>

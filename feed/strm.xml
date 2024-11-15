@@ -1,23 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Statistics &amp; Risk Modeling</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Statistics &amp; Risk Modeling</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/strm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/strm-2024-frontmatter3-4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/strm-2024-frontmatter3-4/html</guid>
+      <description>Article by Yuri Kabanov, Aleksei Kozhevnikov DOI: https://doi.org/10.1515/strm-2024-frontmatter3-4</description>
     </item>
     <item>
       <title>Reassessing the evidence on factor and portfolio premia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/strm-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/strm-2023-0018/html</guid>
+      <description>Article by Yuri Kabanov, Aleksei Kozhevnikov DOI: https://doi.org/10.1515/strm-2023-0018</description>
     </item>
     <item>
       <title>Optimal pair trading: Consumption-investment problem with finite and infinite horizon</title>
       <link>https://www.degruyter.com/document/doi/10.1515/strm-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/strm-2024-0027/html</guid>
+      <description>Article by Yuri Kabanov, Aleksei Kozhevnikov DOI: https://doi.org/10.1515/strm-2024-0027</description>
     </item>
   </channel>
 </rss>

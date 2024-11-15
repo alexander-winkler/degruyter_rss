@@ -1,123 +1,148 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Der Islam</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Der Islam</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/islm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-frontmatter2/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-frontmatter2</description>
     </item>
     <item>
       <title>The Ark of the Covenant’s Spelling Controversy: A Historical Linguistic Perspective</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0017/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0017</description>
     </item>
     <item>
       <title>In Search of a Sinful Pun: A Granular Analysis of Q 2:58–59</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0018/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0018</description>
     </item>
     <item>
       <title>On the Sound of Qurʾān: Nasalization (ghunna) as Ornamentation and Accentuation in Recitation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0019/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0019</description>
     </item>
     <item>
       <title>“Superiority is due to us, and the king should come from among us”: The Arab Conquests and Conflicts of the Early Umayyad Era in a 7th-Century Syriac Universal History of Yoḥannān bar Penkāyē</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0020/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0020</description>
     </item>
     <item>
       <title>The Time of the Chancery: Normative and Discretionary Dating in 7th–8th-century Arabic Epistolography</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0021/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0021</description>
     </item>
     <item>
       <title>Rayḥāna “The Mad”: Her Persona and Poetry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0022/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0022</description>
     </item>
     <item>
       <title>Binding and Unbinding: The Knotted Serpents on the Lining of the So-called Mantle of Roger II (528/1133–4)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0023/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0023</description>
     </item>
     <item>
       <title>Delegation of Authority to Human Beings: A Late Safavid Theologian’s Account on the Legislative Meaning of Tafwīḍ</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0024/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0024</description>
     </item>
     <item>
       <title>The Challenges of a Purchase by the Berlin Papyrus Collection in 1926</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0025/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0025</description>
     </item>
     <item>
       <title>Annotated Bibliography “Arabic Papyrology: Gender, Conversions, and Book Culture”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0026/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0026</description>
     </item>
     <item>
       <title>Cyrille Aillet, L’archipel Ibāḍīte. Une histoire des marges du Maghreb médiéval, Lyon, CIHAM Éditions, 2022 (Mondes médiévaux). 592 p. ISBN: 978-2-9568426-4-4.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0027/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0027</description>
     </item>
     <item>
       <title>Hassan Ansari und Sabine Schmidtke, Al-Šarīf al-Murtaḍā’s Oeuvre and Thought in Context. An Archaeological Inquiry into Texts and their Transmission. Part I: Study. Part II: Illustrations. Córdoba: UCO Press, Cordoba University Press, CNERU, Córdoba Near Eastern Research Unit, – IAS, Institute for Advanced Study, Princeton, 2022. 852 + 806 fig., Serie Arabo-Islamica, vol. 4. ISBN 978-84-9927-702-8.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0028/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0028</description>
     </item>
     <item>
       <title>Eleazar Birnbaum, Arabic and Persian Manuscripts in the Birnbaum Collection, Toronto: A Brief Catalogue, Islamic Manuscripts and Books, vol. 18, Leiden: Brill, 2019, 226 pp., ISBN 978-90-04-38821-5.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0029/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0029</description>
     </item>
     <item>
       <title>Olivier Bouquet, Vie et mort d’un grand vizir: Halil Hamid Pacha (1736–1785) – Biographie de l’Empire ottoman, Paris: Les Belles Lettres, 2022, 633 pp., ISBN: 978-2-251-45243-2.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0030/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0030</description>
     </item>
     <item>
       <title>Peter Jackson, From Genghis Khan to Tamerlane. The Reawakening of Mongol Asia, New Haven/London (Yale University Press) 2023. xxiv, 720 pp, mit sechs Karten und acht genealogischen Tafeln. Hardcover ISBN 978-300-25112-8.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0031/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0031</description>
     </item>
     <item>
       <title>Michael Muhammad Knight, Muhammad’s Body: Baraka Networks and the Prophetic Assemblage, Chapel Hill: University of North Carolina Press, 2020, 214 pp., notes, bibl., index, ISBN: 978-1-4696-5891-9 (Paperback), 978-1-4696-5890-2 (Hardcover).</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0032/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0032</description>
     </item>
     <item>
       <title>Maryam Moazzen, The Formation of a Religious Landscape. Shiʿi Higher Learning in Safavid Iran, Leiden: Brill, 2017 (hb), xiii+290 pp., appendix, bibliography, index, ISBN: 9789004355293.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0033/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0033</description>
     </item>
     <item>
       <title>Virginie Prevost, Les mosquées ibadites du Djebel Nafūsa. Architecture, histoire et religions du nord-ouest de la Libye (VIIIe–XIIIe siècle), Monograph 10, London: Society for Libyan Studies, 2016, 232 pp., ISBN 978 1 900971 41 6.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0034/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0034</description>
     </item>
     <item>
       <title>Kristina Richardson, Roma in the Medieval Islamic World: Literacy, Culture, and Migration, London: I.B. Tauris, 2022, 239 + viii pages, index, illustrations; ISBN: 978-1-7845-3731-9.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0035/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0035</description>
     </item>
     <item>
       <title>Nuryogdi Toshov, Po sledam dvortsovoi biblioteki: Rukopisnaya kul’tura v Khorezme pri Kongratakh, Wien: Austrian Academy of Sciences, 2023 (Österreichische Akademie der Wissenschaften, Philosophisch-historische Klasse: Sitzungsberichte, 928. Band; Veröffentlichungen zur Iranistik, herausgegeben von Christine Noelle-Karimi und Florian Schwarz, Nr. 89; Studies and Texts on Central Asia, herausgegeben von Florian Schwarz, Band 4), 352 pp., ISBN 978-3-7001-8375-4.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0036/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0036</description>
     </item>
     <item>
       <title>Jo van Steenbergen, ed., Trajectories of State Formation across Fifteenth-Century Islamic West-Asia: Eurasian Parallels, Connections and Divergences (Rulers &amp; Elites: Comparative Studies in Governance, 18), Leiden: Brill, 2020, xii + 361 pp. incl. index, ISBN 978-90-04-43130-0.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0037/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0037</description>
     </item>
     <item>
       <title>Jo Van Steenbergen and Maya Termonia, eds., New Readings in Arabic Historiography from Late Medieval Egypt and Syria: Proceedings of the Themed Day of the Fifth Conference of the School of Mamluk Studies, Brill, 2021, 507 pp., ISBN: 978-90-04-45890-1, ISBN: 978-90-04-44702-8.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/islam-2024-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/islam-2024-0038/html</guid>
+      <description>Article by Amina Elbendary DOI: https://doi.org/10.1515/islam-2024-0038</description>
     </item>
   </channel>
 </rss>

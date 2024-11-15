@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Helia</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Helia</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/helia.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-frontmatter79/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-frontmatter79/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-frontmatter79</description>
     </item>
     <item>
       <title>The top Bulgarian contributions to sunflower breeding</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2022-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2022-0015/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2022-0015</description>
     </item>
     <item>
       <title>Bioprospecting for improved floral fragrance in wild sunflowers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-0008/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-0008</description>
     </item>
     <item>
       <title>Genetic diversity of broomrape (Orobanche cumana Wallr.) populations from different geographical origins assessed by ISSR markers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-0014/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-0014</description>
     </item>
     <item>
       <title>Genotype-environment interaction in the variability of yield associated indices under stress conditions in sunflower</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-0016/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-0016</description>
     </item>
     <item>
       <title>Correlations of confectionary seed traits in different head zones sunflower</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-0012/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-0012</description>
     </item>
     <item>
       <title>Biotechnological methods of growing sunflower in different fertilizer systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-0011/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-0011</description>
     </item>
     <item>
       <title>Sunflower hybrids productivity depending on the rates of mineral fertilizers in the south of Ukraine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/helia-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/helia-2023-0010/html</guid>
+      <description>Article by Olena Sydiakina, Mykola Ivaniv DOI: https://doi.org/10.1515/helia-2023-0010</description>
     </item>
   </channel>
 </rss>

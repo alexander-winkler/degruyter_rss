@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Asian Journal of Law and Economics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Asian Journal of Law and Economics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ajle.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2024-frontmatter2/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2024-frontmatter2</description>
     </item>
     <item>
       <title>What Do Judges Want? How to Model Judicial Preferences</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0142/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0142/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2023-0142</description>
     </item>
     <item>
       <title>On the Impossibility of a Purely Objective Economic Theory of Crime</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0135/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0135/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2023-0135</description>
     </item>
     <item>
       <title>Why Sentencing Codification Could be More Complex than Anticipated</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0173/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0173/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2023-0173</description>
     </item>
     <item>
       <title>Second, But Not Last: Competition with Positive Spillovers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0178/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0178/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2023-0178</description>
     </item>
     <item>
       <title>n-Defendant Litigation and Settlement: The Impact of Joint and Several Liability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0144/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2023-0144/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2023-0144</description>
     </item>
     <item>
       <title>The Places We’ll Go</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ajle-2024-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ajle-2024-0043/html</guid>
+      <description>Article by Thomas S. Ulen DOI: https://doi.org/10.1515/ajle-2024-0043</description>
     </item>
   </channel>
 </rss>

@@ -1,48 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Internationale SteuerRundschau</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Internationale SteuerRundschau</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/isr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-frontmatter1309/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-frontmatter1309/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-frontmatter1309</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-toc1309/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-toc1309/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-toc1309</description>
     </item>
     <item>
       <title>Einkunftsquellen von Influencern und deren Besteuerung bei Wohnsitz im Ausland</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130901/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130901/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-130901</description>
     </item>
     <item>
       <title>Hybride Gestaltungen: Der Entwurf eines BMF-Schreibens v. 13.7.2023 zu § 4k EStG</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130902/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130902/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-130902</description>
     </item>
     <item>
       <title>Finanzierungspersonengesellschaft, -kapitalgesellschaft: Steuerliche Risiken und Gestaltungschancen bei der konzerninternen Finanzierung von Mitunternehmerschaften</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130903/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130903/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-130903</description>
     </item>
     <item>
       <title>Frontex-Einsätze: Inländische Steuerpflicht von EU-Geldern im Rahmen von Frontex- Einsätzen</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130904/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130904/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-130904</description>
     </item>
     <item>
       <title>Hinzurechnungsbesteuerung: Zum Tatbestandsmerkmal „Schädliche Mitwirkung“ in der Hinzurechnungsbesteuerung</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130905/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130905/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-130905</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130906/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130906/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/isr-2024-130906</description>
     </item>
   </channel>
 </rss>

@@ -1,88 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für romanische Philologie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für romanische Philologie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrph.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-frontmatter2/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-frontmatter2</description>
     </item>
     <item>
       <title>À la recherche du neutre protoroman. Réflexions à partir de l’expérience de rédaction et de révision de l’article */'ram‑u/ s.n. ‘branche ; branchage’ du DÉRom</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0017/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0017</description>
     </item>
     <item>
       <title>Senior domno Orbita confirmat. Evolución sociopragmática de los tratamientos don y señor en el iberorromance primitivo</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0018/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0018</description>
     </item>
     <item>
       <title>Aproximación estadística al reparto de &lt;b&gt; y &lt;v&gt; en manuscritos latinos de autores hispanos</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0019/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0019</description>
     </item>
     <item>
       <title>A ver (si): diacronía de un marcador del discurso en español</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0020/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0020</description>
     </item>
     <item>
       <title>Exclamativas encubiertas en español</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0021/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0021</description>
     </item>
     <item>
       <title>Más las oigo, mejor me parecen: comparativas proporcionales idiolectales</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0022/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0022</description>
     </item>
     <item>
       <title>Differential marking of direct objects in Monastirli džudezmu: a case study in Judeo-Spanish morphosyntax</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0023/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0023</description>
     </item>
     <item>
       <title>Penitencia cuaresmal como medicina del alma. Nueva edición de un sermón de Cuaresma de San Vicente Ferrer</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0024/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0024</description>
     </item>
     <item>
       <title>Amor y diálogo en la trama trovadoresca</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0025/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0025</description>
     </item>
     <item>
       <title>Origine dell’it. anche e dei suoi correlati romanzi</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0026/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0026</description>
     </item>
     <item>
       <title>Die Wortgeschichte von fr. banqueroute, dt. Bankrott und it. bancarotta</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0027/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0027</description>
     </item>
     <item>
       <title>Délocutifs français d’origine bretonne</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0028/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0028</description>
     </item>
     <item>
       <title>Elena Liverani/Alessandro Parenti, Il dizionario spagnolo-italiano di Nicolao Landucci (1562), Biblioteca dell’Archivum Romanicum, Serie 2: Linguistica, vol. 64, Firenze, Olschki, 2022, VI + 352 p.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0029/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0029</description>
     </item>
     <item>
       <title>Josephine Klingebeil, Codex oblitus. Curtius Rufus in der italienischen Übersetzung von Lodrisio Crivelli: Analyse zur Edition des Mscr.Dresd.Ob.47 (Beihefte zur Zeitschrift für romanische Philologie, 464), Berlin/Boston, De Gruyter, 2022, XVIII + 338 p.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0030/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0030</description>
     </item>
     <item>
       <title>Il manoscritto Saibante-Hamilton 390, Edizione critica diretta da Maria Luisa Meneghetti, coordinamento editoriale di Roberto Tagliani, Roma, Salerno Editrice, 2019, CCXVI + 616 p.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0031/html</guid>
+      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0031</description>
     </item>
   </channel>
 </rss>

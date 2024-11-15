@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Poznan Studies in Contemporary Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Poznan Studies in Contemporary Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psicl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psicl-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psicl-2024-frontmatter3/html</guid>
+      <description>Article by Opangienla Kechu, Bidisha Som, Luis Benites, Rocío Maehara DOI: https://doi.org/10.1515/psicl-2024-frontmatter3</description>
     </item>
     <item>
       <title>Shedding new light on English loanwords in Croatian: computational-linguistic and corpus linguistic perspectives</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psicl-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psicl-2024-0034/html</guid>
+      <description>Article by Opangienla Kechu, Bidisha Som, Luis Benites, Rocío Maehara DOI: https://doi.org/10.1515/psicl-2024-0034</description>
     </item>
     <item>
       <title>Factors influencing vowel adaptation in English loanwords in Korean</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psicl-2023-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psicl-2023-0047/html</guid>
+      <description>Article by Opangienla Kechu, Bidisha Som, Luis Benites, Rocío Maehara DOI: https://doi.org/10.1515/psicl-2023-0047</description>
     </item>
     <item>
       <title>From ‘low-class’ and ‘talentless’ to ‘narcissist and pathological liar’: a functional-pragmatic approach to Meghan Markle’s negative evaluation on X</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psicl-2023-0068/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psicl-2023-0068/html</guid>
+      <description>Article by Opangienla Kechu, Bidisha Som, Luis Benites, Rocío Maehara DOI: https://doi.org/10.1515/psicl-2023-0068</description>
     </item>
     <item>
       <title>Can cultural distance be a factor in bilingual processing? Report from primed translation recognition task of Rongmei–Meitei bilinguals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psicl-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psicl-2023-0015/html</guid>
+      <description>Article by Opangienla Kechu, Bidisha Som, Luis Benites, Rocío Maehara DOI: https://doi.org/10.1515/psicl-2023-0015</description>
     </item>
   </channel>
 </rss>

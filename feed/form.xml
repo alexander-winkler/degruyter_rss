@@ -1,93 +1,112 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Forum Mathematicum </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Forum Mathematicum </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/form.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2024-frontmatter6/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2024-frontmatter6/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2024-frontmatter6</description>
     </item>
     <item>
       <title>Regularity of fractional heat semigroups associated with Schrödinger operators on Heisenberg groups</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0285/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0285/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0285</description>
     </item>
     <item>
       <title>Generalized orthogonal measures on the space of unital completely positive maps</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0330/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0330/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0330</description>
     </item>
     <item>
       <title>Multiplicity of solutions for a singular system with sign-changing potential</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0345/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0345/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0345</description>
     </item>
     <item>
       <title>Enochs’ conjecture for cotorsion pairs and more</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0220/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0220/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0220</description>
     </item>
     <item>
       <title>A fixed point theorem for isometries on a metric space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0193/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0193/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0193</description>
     </item>
     <item>
       <title>Topological embeddings into transformation monoids</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0230/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0230/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0230</description>
     </item>
     <item>
       <title>Two curious q-supercongruences and their extensions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0164/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0164/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0164</description>
     </item>
     <item>
       <title>Wells-type exact sequence and crossed extensions of algebras with bracket</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0355/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0355/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0355</description>
     </item>
     <item>
       <title>What conjugate phase retrieval complex vectors can do in quaternion Euclidean spaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0389/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0389/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0389</description>
     </item>
     <item>
       <title>Hardy inequalities on metric measure spaces, IV: The case p=1</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0319/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0319/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0319</description>
     </item>
     <item>
       <title>Cellular covers of divisible uniserial modules over valuation domains</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0351/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0351/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0351</description>
     </item>
     <item>
       <title>Bi-parameter and bilinear Calderón–Vaillancourt theorem with critical order</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0458/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0458/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0458</description>
     </item>
     <item>
       <title>Algebraic results on rngs of singular functions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0445/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0445/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0445</description>
     </item>
     <item>
       <title>Degrees of generalized Kloosterman sums</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0295/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0295/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0295</description>
     </item>
     <item>
       <title>Normalized solutions for the fractional Schrödinger equation with combined nonlinearities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0424/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0424/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0424</description>
     </item>
     <item>
       <title>On 𝐿𝑝 boundedness of rough Fourier integral operators</title>
       <link>https://www.degruyter.com/document/doi/10.1515/forum-2023-0443/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/forum-2023-0443/html</guid>
+      <description>Article by Guoning Wu, Jie Yang DOI: https://doi.org/10.1515/forum-2023-0443</description>
     </item>
   </channel>
 </rss>

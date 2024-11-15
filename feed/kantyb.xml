@@ -1,48 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Kant Yearbook</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Kant Yearbook</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kantyb.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-frontmatter1/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-frontmatter1</description>
     </item>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-frontmatter2/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-frontmatter2</description>
     </item>
     <item>
       <title>On Kant’s Schema of Reality</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0001/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-0001</description>
     </item>
     <item>
       <title>Kant’s Prize Essay and Nineteenth Century Formalism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0002/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-0002</description>
     </item>
     <item>
       <title>Reflections on Kant on Reflections</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0003/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-0003</description>
     </item>
     <item>
       <title>Magnitude, Matter, and Kant’s Principle of Mechanism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0004/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-0004</description>
     </item>
     <item>
       <title>The Impossible Biangle and the Possibility of Geometry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0005/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-0005</description>
     </item>
     <item>
       <title>Topics of the Kant Yearbook 2025, 2026 and 2027</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kantyb-2024-0006/html</guid>
+      <description>Article by 
+
+                Page range: 145-145
+            
+ DOI: https://doi.org/10.1515/kantyb-2024-0006</description>
     </item>
   </channel>
 </rss>

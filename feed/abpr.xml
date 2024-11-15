@@ -1,23 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The African Book Publishing Record</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in The African Book Publishing Record</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abpr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/abpr-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/abpr-2024-frontmatter3/html</guid>
+      <description>Article by 
+
+                Page range: 224-306
+            
+ DOI: https://doi.org/10.1515/abpr-2024-frontmatter3</description>
     </item>
     <item>
       <title>Notes and News</title>
       <link>https://www.degruyter.com/document/doi/10.1515/abpr-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/abpr-2024-0006/html</guid>
+      <description>Article by 
+
+                Page range: 224-306
+            
+ DOI: https://doi.org/10.1515/abpr-2024-0006</description>
     </item>
     <item>
       <title>Bibliography</title>
       <link>https://www.degruyter.com/document/doi/10.1515/abpr-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/abpr-2024-0007/html</guid>
+      <description>Article by 
+
+                Page range: 224-306
+            
+ DOI: https://doi.org/10.1515/abpr-2024-0007</description>
     </item>
   </channel>
 </rss>

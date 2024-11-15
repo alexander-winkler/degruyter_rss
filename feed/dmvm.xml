@@ -1,113 +1,220 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Mitteilungen der Deutschen Mathematiker-Vereinigung</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Mitteilungen der Deutschen Mathematiker-Vereinigung</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmvm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Gesamtheft 32(3)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-3203/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-3203/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-3203</description>
     </item>
     <item>
       <title>Grußwort des Präsidenten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0047/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0047</description>
     </item>
     <item>
       <title>News, Tipps und Termine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0048/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0048</description>
     </item>
     <item>
       <title>Rundgespräch ,Angewandte Mathematik‘</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0049/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0049</description>
     </item>
     <item>
       <title>Lehramtspreis für Katja Hoeffer</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0050/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0050</description>
     </item>
     <item>
       <title>Spieltheoretische Modellierung der Madman-Theorie in der Politik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0051/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0051</description>
     </item>
     <item>
       <title>Sternstunden für Späteinsteiger</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0052/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0052/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0052</description>
     </item>
     <item>
       <title>Fun with fish tiles</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0053/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0053/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0053</description>
     </item>
     <item>
       <title>Mathe studiert – und dann?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0054/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0054/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0054</description>
     </item>
     <item>
       <title>VM4K: Mathematik fördern, Innovation in der Kfz-Versicherung vorantreiben</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0055/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0055/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0055</description>
     </item>
     <item>
       <title>„Geschichten aus der Mathematik“ – Mathe anders erzählt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0056/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0056/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0056</description>
     </item>
     <item>
       <title>European Women in Mathematics Worum geht’s?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0057/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0057/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0057</description>
     </item>
     <item>
       <title>EMS-Preis für Jessica Fintzen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0058/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0058/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0058</description>
     </item>
     <item>
       <title>Logbuch Mathematik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0059/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0059</description>
     </item>
     <item>
       <title>Dem MINT-Lehrkräftemangel begegnen – Impulse, Strategien, Effekte</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0060/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0060/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0060</description>
     </item>
     <item>
       <title>Computer generation keeps on writing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0061/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0061/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0061</description>
     </item>
     <item>
       <title>Verein zur Förderung des Mathematischen Forschungsinstituts Oberwolfach e.V.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0062/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0062</description>
     </item>
     <item>
       <title>Münster mathematisch entdecken</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0063/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0063</description>
     </item>
     <item>
       <title>Wie viele Zacken hat Dein Stern?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0064/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0064</description>
     </item>
     <item>
       <title>Einladung zur Mitgliederversammlung der DMV</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0065/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0065/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0065</description>
     </item>
     <item>
       <title>Neue Mitglieder und Todesfälle Promotionen, Die DMV und Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0066/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dmvm-2024-0066/html</guid>
+      <description>Article by 
+
+                Page range: 199-200
+            
+ DOI: https://doi.org/10.1515/dmvm-2024-0066</description>
     </item>
   </channel>
 </rss>

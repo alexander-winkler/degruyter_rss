@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Sozialer Sinn</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Sozialer Sinn</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sosi.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-frontmatter2/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-frontmatter2</description>
     </item>
     <item>
       <title>Einleitung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0008/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0008</description>
     </item>
     <item>
       <title>„Das Hoffen lernen“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0009/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0009</description>
     </item>
     <item>
       <title>Krisenerfahrung, Hoffnung und der utopische Raum transformatorischer Bildung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0010/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0010</description>
     </item>
     <item>
       <title>Hoffnung und Prozessmaterie</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0011/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0011</description>
     </item>
     <item>
       <title>„Nun haben wir zu beginnen.“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0012/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0012</description>
     </item>
     <item>
       <title>Empirisch widerlegt, nicht anschlussfähig, unzeitgemäß… Fehlt der Soziologie psychischer Störungen ein Paradigma?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0013/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0013</description>
     </item>
     <item>
       <title>Wenn aus Routinen Krisen werden</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosi-2024-0014/html</guid>
+      <description>Article by Uwe Raven DOI: https://doi.org/10.1515/sosi-2024-0014</description>
     </item>
   </channel>
 </rss>

@@ -1,93 +1,112 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Praktische Theologie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Praktische Theologie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prth.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-frontmatter5904/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-frontmatter5904/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-frontmatter5904</description>
     </item>
     <item>
       <title>Inhaltsverzeichnis</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-toc5904/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-toc5904/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-toc5904</description>
     </item>
     <item>
       <title>Religiöse Podcasts boomen</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590401/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590401/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590401</description>
     </item>
     <item>
       <title>Eine Landkarte religionsbezogener Podcasts</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590402/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590402/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590402</description>
     </item>
     <item>
       <title>Spiritualität im digitalen Zeitalter</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590403/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590403/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590403</description>
     </item>
     <item>
       <title>Eines ist sicher: Der Bibel-Podcast wird enden. Aber wann?</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590404/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590404/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590404</description>
     </item>
     <item>
       <title>Erfolgreiche religiöse Podcasts: Was zeichnet sie aus und was können sie bewegen?</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590405/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590405/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590405</description>
     </item>
     <item>
       <title>Podcast-Communities</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590406/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590406/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590406</description>
     </item>
     <item>
       <title>Resonanz der Stimme und des Dialogs beim Hören von Podcasts</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590407/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590407/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590407</description>
     </item>
     <item>
       <title>Synodale Inszenierung des allgemeinen Priestertums</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590408/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590408/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590408</description>
     </item>
     <item>
       <title>Dreh- und Angelpunkt für die Seelsorge: Was verstehen wir unter Seele?</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590409/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590409/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590409</description>
     </item>
     <item>
       <title>Starkes Plädoyer für partizipatives Predigen</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590410/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590410/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590410</description>
     </item>
     <item>
       <title>Selbst-bewusste Handhabe professioneller Subjektivität</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590411/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590411/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590411</description>
     </item>
     <item>
       <title>Alter, das nicht jung sein will</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590412/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590412/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590412</description>
     </item>
     <item>
       <title>Chiara Bertoglios Oratorios at the Piano</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590413/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590413/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590413</description>
     </item>
     <item>
       <title>Über das Verschwiegene schreiben: Spätwirkungen lutherischer Übersee-Mission</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590414/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590414/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590414</description>
     </item>
     <item>
       <title>Von Menschen und anderen Tieren</title>
       <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590415/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590415/html</guid>
+      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590415</description>
     </item>
   </channel>
 </rss>

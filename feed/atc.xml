@@ -1,53 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>architectura</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in architectura</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/atc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2001/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2001</description>
     </item>
     <item>
       <title>»Non è altro lo edificare se none un piacere uolunptario …«</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2002/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2002</description>
     </item>
     <item>
       <title>Salomonische Architektur in den Niederlanden</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2003/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2003</description>
     </item>
     <item>
       <title>Fritz Beblo und das Straßburger Hochbauamt 1903–1918</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2004/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2004</description>
     </item>
     <item>
       <title>Forget and rewrite</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2005/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2005</description>
     </item>
     <item>
       <title>Richard Meiers Jubiläumskirche</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2006/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2006</description>
     </item>
     <item>
       <title>Planen und Bauen unter Leopold III. Friedrich Franz von Anhalt-Dessau (1758–1817)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2007/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2007</description>
     </item>
     <item>
       <title>Der Prediger. Geschichte eines Gmünder Bauwerks durch die Jahrhunderte. Museum im Prediger Schwäbisch Gmünd (Museumspublikation 64)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2008/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2008</description>
     </item>
     <item>
       <title>Kurzbiographien der Autorinnen und Autoren</title>
       <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2009/html</guid>
+      <description>Article by 
+
+                Page range: 255-256
+            
+ DOI: https://doi.org/10.1515/atc-2021-2009</description>
     </item>
   </channel>
 </rss>

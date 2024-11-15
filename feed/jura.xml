@@ -1,118 +1,142 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>JURA - Juristische Ausbildung</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in JURA - Juristische Ausbildung</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jura.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-frontmatter11/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-frontmatter11</description>
     </item>
     <item>
       <title>JURA INFO</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2171/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2171/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2171</description>
     </item>
     <item>
       <title>Der lange Einfluss des amerikanischen Rechtsdenkens auf die Verfassungsgebung in Deutschland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2134/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2134/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2134</description>
     </item>
     <item>
       <title>Eine Einführung in das Recht der privaten Pfandleihhäuser – ein Gewerbe mit Tradition</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2035/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2035</description>
     </item>
     <item>
       <title>Minderjährige im Datenschuldrecht (Teil 1)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2128/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2128/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2128</description>
     </item>
     <item>
       <title>Parteien- und Politikfinanzierung unter dem Grundgesetz</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2166/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2166/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2166</description>
     </item>
     <item>
       <title>Einführung in das Datenwirtschaftsrecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2167/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2167/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2167</description>
     </item>
     <item>
       <title>Examensklausur zum Seehandelsrecht und Seevölkerrecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2114/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2114/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2114</description>
     </item>
     <item>
       <title>ZR-Anfängerklausur im Delikts- und Vertragsrecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2163/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2163/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2163</description>
     </item>
     <item>
       <title>ZR-Examensklausur zum allgemeinen Schuldrecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2044/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2044</description>
     </item>
     <item>
       <title>ÖR-Anfängerhausarbeit zum Verfassungsrecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2074/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2074/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2074</description>
     </item>
     <item>
       <title>ÖR-Examensklausur zum Versammlungsrecht und Polizeirecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2050/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2050</description>
     </item>
     <item>
       <title>Digitale »protestatio facto contraria«</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2173/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2173/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2173</description>
     </item>
     <item>
       <title>BGH: Geltendmachung rückständigen Unterhaltsmehrbedarfs des Kindes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2144/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2144/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2144</description>
     </item>
     <item>
       <title>Unterlassungsanspruch bei Verletzung nachvertraglicher Rücksichtnahmepflichten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2145/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2145/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2145</description>
     </item>
     <item>
       <title>Exklusivität von Diebstahl und Betrug</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2158/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2158/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2158</description>
     </item>
     <item>
       <title>Voraussetzungen des Verbotsirrtums bei Information im Internet</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2172/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2172/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2172</description>
     </item>
     <item>
       <title>Beleidigung einer Person des öffentlichen Lebens</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2178/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2178/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2178</description>
     </item>
     <item>
       <title>Kein presserechtlicher Informationsanspruch über die Ausübung des Gnadenrechts durch den Bundespräsidenten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2142/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2142/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2142</description>
     </item>
     <item>
       <title>Untersagung einer kritischen Äußerung über die Bundesregierung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2143/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2143/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2143</description>
     </item>
     <item>
       <title>Fortsetzungsfeststellungsinteresse: qualifizierter Grundrechtseingriff und/oder kurzfristige Erledigung?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2164/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2164/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2164</description>
     </item>
     <item>
       <title>Polizei(rechts)festigkeit des Versammlungsrechts: verfassungsrechtlich vorgegeben?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jura-2024-2165/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jura-2024-2165/html</guid>
+      <description>Article by B.J. Hartmann DOI: https://doi.org/10.1515/jura-2024-2165</description>
     </item>
   </channel>
 </rss>

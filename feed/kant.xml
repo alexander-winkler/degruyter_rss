@@ -1,58 +1,110 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Kant-Studien</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Kant-Studien</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kant.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-frontmatter3/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-frontmatter3</description>
     </item>
     <item>
       <title>Geistersehen innerhalb der Grenzen der bloßen Vernunft: Kant über die Aufklärung dunkler Vorstellungen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2023/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2023</description>
     </item>
     <item>
       <title>The Derivation of the Categories of Quantity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2025/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2025</description>
     </item>
     <item>
       <title>Statuiert Kants theoretische Philosophie eine radikale negative Theologie? Anmerkungen zu einer These aus der jüngeren Forschung im Lichte von Kants regulativem Deismus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2024/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2024</description>
     </item>
     <item>
       <title>Proaktives, reaktives und reziprokes Wohlwollen. Kants System der Liebespflichten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2026/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2026</description>
     </item>
     <item>
       <title>The Moral Law as an A Priori Principle. Kleingeld and Willaschek on Autonomy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2027/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2027</description>
     </item>
     <item>
       <title>Zwei Nachweise der beiden Ausdrücke „Feuerschätze“ und „Phönix der Natur“ in Kants Allgemeiner Naturgeschichte und Theorie des Himmels</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2022/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2022</description>
     </item>
     <item>
       <title>Daniel Sutherland: Kant’s Mathematical World. Mathematics, Cognition, and Experience. Cambridge: Cambridge University Press 2022. ISBN 9781108429962.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2028/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2028</description>
     </item>
     <item>
       <title>Martin Welsch: Anfangsgründe der Volkssouveränität. Immanuel Kants ‚Staatsrecht‘ in der „Metaphysik der Sitten“. Frankfurt am Main: Verlag Vittorio Klostermann, 2021. 473 Seiten. ISBN 978-3-465-04575-5</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2029/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2029</description>
     </item>
     <item>
       <title>Mitgliederversammlung der Kant-Gesellschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2030/html</guid>
+      <description>Article by 
+
+                Page range: 406-406
+            
+ DOI: https://doi.org/10.1515/kant-2024-2030</description>
     </item>
   </channel>
 </rss>

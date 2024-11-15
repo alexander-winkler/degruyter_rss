@@ -1,95 +1,114 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Georgian Mathematical Journal</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Georgian Mathematical Journal</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gmj.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-frontmatter5/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-frontmatter5</description>
     </item>
     <item>
       <title>Numerical approaches for solution of hyperbolic difference equations on circle</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2103/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2103</description>
     </item>
     <item>
       <title>A note on b-generalized (α,β)-derivations in prime rings</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2121/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2121/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2121</description>
     </item>
     <item>
       <title>Analytic solution to functional differential equations via Bell’s polynomials</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2005/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-2005</description>
     </item>
     <item>
       <title>Floquet theory and stability for a class of first order differential equations with delays</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2119/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2119/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2119</description>
     </item>
     <item>
       <title>Representations of a number in an arbitrary base with unbounded digits</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2118/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2118/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2118</description>
     </item>
     <item>
       <title>V_a
 -deformed free convolution and variance function</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2004/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-2004</description>
     </item>
     <item>
       <title>Generalized essential spectra involving the class of g-g-Riesz operators</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2002/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-2002</description>
     </item>
     <item>
       <title>On perturbation of continuous frames in Hilbert C
 *-modules</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2111/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2111/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2111</description>
     </item>
     <item>
       <title>Almost measurable functions on probability spaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2120/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2120/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2120</description>
     </item>
     <item>
       <title>On φ-u-S-flat modules and nonnil-u-S-injective modules</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2117/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2117/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2117</description>
     </item>
     <item>
       <title>Busemann--Petty-type problem for μ-intersection bodies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2009/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-2009</description>
     </item>
     <item>
       <title>On the representation of solution for the perturbed quasi-linear controlled neutral functional-differential equation with the discontinuous initial condition</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2122/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2122/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2122</description>
     </item>
     <item>
       <title>A generalization of Hardy’s inequality to infinite tensors</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2006/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-2006</description>
     </item>
     <item>
       <title>A note on maximal estimate for an oscillatory operator</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2115/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2115/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2115</description>
     </item>
     <item>
       <title>Some summation theorems and transformations for hypergeometric functions of Kampé de Fériet and Srivastava</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2114/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2023-2114/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2023-2114</description>
     </item>
     <item>
       <title>On the correspondence between periodic solutions of differential and dynamic equations on periodic time scales</title>
       <link>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/gmj-2024-2003/html</guid>
+      <description>Article by Viktoriia Tsan, Oleksandr Stanzhytskyi, Olha Martynyuk DOI: https://doi.org/10.1515/gmj-2024-2003</description>
     </item>
   </channel>
 </rss>

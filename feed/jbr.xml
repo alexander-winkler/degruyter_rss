@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of the Bible and its Reception</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of the Bible and its Reception</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2024-frontmatter2/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2024-frontmatter2</description>
     </item>
     <item>
       <title>Introduction: New Perspectives on Biblical Drama</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2024-0011/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2024-0011</description>
     </item>
     <item>
       <title>Biblical Stories on the Medieval and Early Modern Stage: A Transnational Approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0014/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0014</description>
     </item>
     <item>
       <title>The Merchant Scene of Biblical Drama: Rehabilitating the Female Input</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0022/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0022</description>
     </item>
     <item>
       <title>Biblical Drama and Politically Incorrect Ideas in the Dutch Reformation Era</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0016/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0016</description>
     </item>
     <item>
       <title>Ruins of Empire or Tears of Joy? An Intersection of History and the Bible in Lope de Vega’s Religious Comedias</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0013/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0013</description>
     </item>
     <item>
       <title>The Biblical History Play: Turning Seventeenth-Century Joseph Plays into Political Drama</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0010/html</guid>
+      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0010</description>
     </item>
   </channel>
 </rss>

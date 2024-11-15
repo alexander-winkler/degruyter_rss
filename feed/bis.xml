@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Basic Income Studies</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Basic Income Studies</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bis.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2024-frontmatter1/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2024-frontmatter1</description>
     </item>
     <item>
       <title>The Introduction of Basic Income is a Pillar of a Socio-cultural Revolution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2023-0012/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2023-0012</description>
     </item>
     <item>
       <title>Functional Finance and the Sustainability of Universal Basic Income</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2023-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2023-0024/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2023-0024</description>
     </item>
     <item>
       <title>Monitoring Public Interest and Sentiment on Basic Income: Using Google and Twitter Data in the U.S.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2023-0002/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2023-0002</description>
     </item>
     <item>
       <title>Universal Basic Income Universally Welcomed? – Relevance of Socio-Demographic and Psychological Variables for Acceptance in Germany</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2023-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2023-0023/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2023-0023</description>
     </item>
     <item>
       <title>Basic Income and Violence Against Women: A Review of Cash Transfer Experiments</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2022-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2022-0032/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2022-0032</description>
     </item>
     <item>
       <title>Are the UN Sustainable Development Goals a Valuable Platform for Advancing a Basic Income? A Critical Historical Studies Account</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2022-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2022-0026/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2022-0026</description>
     </item>
     <item>
       <title>Karl Widerquist: The Problem of Property. Taking the Freedom of Nonowners Seriously</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bis-2023-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bis-2023-0034/html</guid>
+      <description>Article by Tijs Laenen DOI: https://doi.org/10.1515/bis-2023-0034</description>
     </item>
   </channel>
 </rss>

@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Text &amp; Talk</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Text &amp; Talk</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/text.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2024-frontmatter6/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2024-frontmatter6/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2024-frontmatter6</description>
     </item>
     <item>
       <title>National discourses in (de)legitimations of the Swedish COVID-19 strategy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2022-0100/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2022-0100/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2022-0100</description>
     </item>
     <item>
       <title>Recontextualization of the arguments of ‘innocence’ by a football club on Turkish newsprint media</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2022-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2022-0048/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2022-0048</description>
     </item>
     <item>
       <title>Insincerity in lawyers’ questioning strategies in Malawian criminal courtroom discourse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2022-0083/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2022-0083/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2022-0083</description>
     </item>
     <item>
       <title>Masking directions: teacher instructions and COVID-19 protocols</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2022-0118/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2022-0118/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2022-0118</description>
     </item>
     <item>
       <title>How pandemic detective narratives potentiate and debilitate trust</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2022-0080/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2022-0080/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2022-0080</description>
     </item>
     <item>
       <title>The discursive legitimation of corporate ecological identity in Chinese sustainability discourse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/text-2022-0053/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/text-2022-0053/html</guid>
+      <description>Article by Ke Li, Lise Fontaine DOI: https://doi.org/10.1515/text-2022-0053</description>
     </item>
   </channel>
 </rss>

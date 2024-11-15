@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Kadmos</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Kadmos</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kadm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-frontmatter631-2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-frontmatter631-2/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-frontmatter631-2</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-toc631-2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-toc631-2/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-toc631-2</description>
     </item>
     <item>
       <title>Haghia Triada = da-wo or pa-i-to?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0001/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0001</description>
     </item>
     <item>
       <title>An Eteocypriot-Greek bilingual inscription and the meaning of Cypriot eupatridai</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0002/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0002</description>
     </item>
     <item>
       <title>A pithos with Carian inscription from Mengefe settlement, north of the ancient city of Keramos, Caria</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0003/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0003</description>
     </item>
     <item>
       <title>Le mot carien pour ‘chef’, une nouvelle racine anatolienne et un changement phonétique carien-grec</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0004/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0004</description>
     </item>
     <item>
       <title>The Phrygian inscription W-03 on the Arslan Kaya monument</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0005/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0005</description>
     </item>
     <item>
       <title>A misidentified Old Phrygian parietal graffito from Salihler</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0006/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0006</description>
     </item>
     <item>
       <title>Lydian o-vocalism and the word for ‘rite, cult supply’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0007/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0007</description>
     </item>
     <item>
       <title>“Initial-a-final”, Luwian low vowels, and language contact in the Syro-Anatolian world</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0008/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0008</description>
     </item>
     <item>
       <title>Epigraphische Mitteilungen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/kadmos-2024-0009/html</guid>
+      <description>Article by Markus Egetmeyer DOI: https://doi.org/10.1515/kadmos-2024-0009</description>
     </item>
   </channel>
 </rss>

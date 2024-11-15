@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Frequenz</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Frequenz</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-frontmatter11-12/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-frontmatter11-12/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-frontmatter11-12</description>
     </item>
     <item>
       <title>Bidirectional triple-band truly incident angle insensitive polarization converter using graphene-based transmissive metasurface for terahertz frequency</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0065/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0065/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0065</description>
     </item>
     <item>
       <title>Wideband circularly polarized reconfigurable metasurface antenna for 5G applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2023-0216/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2023-0216/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2023-0216</description>
     </item>
     <item>
       <title>Wide angle wide band polarization insensitive metamaterial absorber for C, X and Ku band application with hexagonal packaging</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0050/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0050</description>
     </item>
     <item>
       <title>A new technique for improving performance of conventional CRLH resonators using IDC/UISs with enhanced harmonic suppression in balanced dual-band BPFs</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2023-0409/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2023-0409/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2023-0409</description>
     </item>
     <item>
       <title>A super-compact wideband bandpass filter using capacitor-loaded coupled lines</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0055/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0055/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0055</description>
     </item>
     <item>
       <title>A novel design of a Wilkinson power divider based on the circular-shape resonator</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0005/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0005</description>
     </item>
     <item>
       <title>Compact circular Wilkinson power divider for wireless applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0034/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0034</description>
     </item>
     <item>
       <title>An AMC-based low-RCS conformal phased array design</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0054/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0054/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0054</description>
     </item>
     <item>
       <title>A wideband folded reflectarray antenna with a 3-D printed circularly polarized converter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0027/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0027</description>
     </item>
     <item>
       <title>Compact and flexible EBG backed ultra-wide band antenna for on-body communications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0025/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0025</description>
     </item>
     <item>
       <title>Designing an ultra-wideband directional antipodal Vivaldi antenna with U-slots for biomedical applications using an optimized attention network</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0063/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0063</description>
     </item>
     <item>
       <title>Improved tag estimation method for TDMA anticollision protocols using CA-CFAR technique</title>
       <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0037/html</guid>
+      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0037</description>
     </item>
   </channel>
 </rss>

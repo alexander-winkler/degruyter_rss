@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Econometric Methods</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Econometric Methods</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jem.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jem-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jem-2024-frontmatter2/html</guid>
+      <description>Article by Nicholas L. Brown DOI: https://doi.org/10.1515/jem-2024-frontmatter2</description>
     </item>
     <item>
       <title>Estimating Social Effects with Randomized and Observational Network Data</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jem-2023-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jem-2023-0043/html</guid>
+      <description>Article by Nicholas L. Brown DOI: https://doi.org/10.1515/jem-2023-0043</description>
     </item>
     <item>
       <title>Dynamic Bunching Estimation with Panel Data</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jem-2022-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jem-2022-0031/html</guid>
+      <description>Article by Nicholas L. Brown DOI: https://doi.org/10.1515/jem-2022-0031</description>
     </item>
     <item>
       <title>Shrinkage Estimation and Forecasting in Dynamic Regression Models Under Structural Instability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jem-2023-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jem-2023-0036/html</guid>
+      <description>Article by Nicholas L. Brown DOI: https://doi.org/10.1515/jem-2023-0036</description>
     </item>
     <item>
       <title>An Application of the Dagum Type III Model to Measure Household Net Wealth Inequality in Indonesia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jem-2022-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jem-2022-0026/html</guid>
+      <description>Article by Nicholas L. Brown DOI: https://doi.org/10.1515/jem-2022-0026</description>
     </item>
     <item>
       <title>Moment-Based Estimation of Linear Panel Data Models with Factor-Augmented Errors</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jem-2023-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jem-2023-0050/html</guid>
+      <description>Article by Nicholas L. Brown DOI: https://doi.org/10.1515/jem-2023-0050</description>
     </item>
   </channel>
 </rss>

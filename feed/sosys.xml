@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Soziale Systeme</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Soziale Systeme</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sosys.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-frontmatter2/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-frontmatter2</description>
     </item>
     <item>
       <title>Einleitung: Der Krieg in der Ukraine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0010/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0010</description>
     </item>
     <item>
       <title>Asymmetrie und Resilienz. Eine gesellschaftstheoretische Einordnung von Eskalation und Strukturbildung im Krieg Russlands gegen die Ukraine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0017/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0017</description>
     </item>
     <item>
       <title>Symmetrical and complementary escalation: Understanding the dynamics of the Ukraine war</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0011/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0011</description>
     </item>
     <item>
       <title>Können wir dem Völkerrecht (noch) trauen? Die russische Aggression gegen die Ukraine und die diskursive Autorität internationaler Normen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0012/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0012</description>
     </item>
     <item>
       <title>Kants Theorie des demokratischen Friedens und der Krieg in der Ukraine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0018/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0018</description>
     </item>
     <item>
       <title>The social organization of war: Ukrainian and Russian societies mobilized for war</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0013/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0013</description>
     </item>
     <item>
       <title>Russische Kriegssemantik zwischen GULAG-Trauma und Antiamerikanismus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0014/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0014</description>
     </item>
     <item>
       <title>Denis Pushilin: Case study of a separatist leader in the Ukraine conflict (2018–2022)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0015/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0015</description>
     </item>
     <item>
       <title>Die Herstellung von Adressabilität. Medialität und Praxis der Kommunikationsanbahnung am Beispiel der neurologischen Intensivstation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0016/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0016</description>
     </item>
     <item>
       <title>Die Konzentration in der zeitgenössischen Gesellschaft: Die chilenische Krise aus soziologischer Perspektive</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sosys-2023-0019/html</guid>
+      <description>Article by Rafael Alvear DOI: https://doi.org/10.1515/sosys-2023-0019</description>
     </item>
   </channel>
 </rss>

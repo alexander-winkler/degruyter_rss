@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Kunstgeschichte</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Kunstgeschichte</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkg.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3001/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3001</description>
     </item>
     <item>
       <title>Befristung unbefristet? Zu den Arbeitsbedingungen unserer Postdoc-Kolleg:innen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3002/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3002</description>
     </item>
     <item>
       <title>Spilled Wine, Spilled Blood: Spilling the Secrets of the Covered Cup from the Chungul Kurgan</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3003/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3003</description>
     </item>
     <item>
       <title>Neapoli commorantes: chiese nazionali e comunità forestiere nel viceregno spagnolo tra Cinque e Seicento</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3004/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3004</description>
     </item>
     <item>
       <title>Resemblance as a Passing Quality: Liotard, La Tour, and the Question of Le Faire in Eighteenth-Century Portraiture</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3005/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3005</description>
     </item>
     <item>
       <title>Augsburg Takes Center Stage</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3006/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3006</description>
     </item>
     <item>
       <title>Galanterie und Kolonialismus im Zeitalter Watteaus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3007/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3007</description>
     </item>
     <item>
       <title>Forschungen zu Kunst und Kunstgeschichte im Nationalsozialismus: Die Reihe Brüche und Kontinuitäten, Bde. 1–10</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3008/html</guid>
+      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3008</description>
     </item>
   </channel>
 </rss>

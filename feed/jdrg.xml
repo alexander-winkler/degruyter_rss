@@ -1,63 +1,120 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Jahrbuch der Raabe-Gesellschaft</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Jahrbuch der Raabe-Gesellschaft</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdrg.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-frontmatter1/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-frontmatter1</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-8000/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-8000/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-8000</description>
     </item>
     <item>
       <title>Vorbemerkung der Herausgeber</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0000/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0000/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0000</description>
     </item>
     <item>
       <title>Verzeichnis der Siglen, Verweise und Zeichen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-9000/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-9000/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-9000</description>
     </item>
     <item>
       <title>A. Das literarische Werk</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0001/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0001</description>
     </item>
     <item>
       <title>B. Briefe</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0002/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0002</description>
     </item>
     <item>
       <title>A. Hilfsmittel und Periodika</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0003/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0003</description>
     </item>
     <item>
       <title>B. Leben und Werk</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0004/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0004</description>
     </item>
     <item>
       <title>C. Werk</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0005/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0005</description>
     </item>
     <item>
       <title>D. Rezeption</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0006/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0006</description>
     </item>
     <item>
       <title>Namenregister</title>
       <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0007/html</guid>
+      <description>Article by 
+
+                Page range: 909-936
+            
+ DOI: https://doi.org/10.1515/raabe-2023-0007</description>
     </item>
   </channel>
 </rss>

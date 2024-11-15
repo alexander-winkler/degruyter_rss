@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Naturforschung A</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Naturforschung A</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zna.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zna-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zna-2024-frontmatter11/html</guid>
+      <description>Article by Zainab Malik DOI: https://doi.org/10.1515/zna-2024-frontmatter11</description>
     </item>
     <item>
       <title>Global stability analysis of an extended SUC epidemic mathematical model</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zna-2024-0152/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zna-2024-0152/html</guid>
+      <description>Article by Zainab Malik DOI: https://doi.org/10.1515/zna-2024-0152</description>
     </item>
     <item>
       <title>Nonlinear electrodynamics and its possible connection to relativistic superconductivity: an example</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zna-2024-0136/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zna-2024-0136/html</guid>
+      <description>Article by Zainab Malik DOI: https://doi.org/10.1515/zna-2024-0136</description>
     </item>
     <item>
       <title>Exploring arteriolar atherosclerosis: laminar blood flow across stenosis with fluid-structure interaction and gravitational effects</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zna-2024-0096/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zna-2024-0096/html</guid>
+      <description>Article by Zainab Malik DOI: https://doi.org/10.1515/zna-2024-0096</description>
     </item>
     <item>
       <title>Quasinormal modes of the Mannheim–Kazanas black holes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zna-2024-0153/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zna-2024-0153/html</guid>
+      <description>Article by Zainab Malik DOI: https://doi.org/10.1515/zna-2024-0153</description>
     </item>
   </channel>
 </rss>

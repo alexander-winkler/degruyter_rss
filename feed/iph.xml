@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Public History</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Public History</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iph.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-frontmatter1/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-frontmatter1</description>
     </item>
     <item>
       <title>Decolonizing Through Public History – Introduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2004/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2004</description>
     </item>
     <item>
       <title>Public History and Emancipatory Politics in Transition: From the Anti-Apartheid Struggle to Democracy in South Africa</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2003/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2003</description>
     </item>
     <item>
       <title>Decolonizing Canadian Archival Practice Through a Public History Lens</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2006/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2006</description>
     </item>
     <item>
       <title>Counter-Colonial Aspects in and Through Public History in Brazil: Participatory Research, Oral History and Corporeality – Embodied Ways of Storytelling</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2007/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2007</description>
     </item>
     <item>
       <title>Where is the Seeker Who Searches for Another? Decolonial Approaches to Digital Public History</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2005/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2005</description>
     </item>
     <item>
       <title>Can It Be a Gamechanger? Interrogating the Prospects of Decolonization Through Public History in Japan</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2001/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2001</description>
     </item>
     <item>
       <title>Doing History at the Edge of the Map: The “Digital Thrace” Research Project</title>
       <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2002/html</guid>
+      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2002</description>
     </item>
   </channel>
 </rss>

@@ -1,58 +1,70 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Biomedical Engineering / Biomedizinische Technik </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Biomedical Engineering / Biomedizinische Technik </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2024-frontmatter5/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2024-frontmatter5</description>
     </item>
     <item>
       <title>Sparse-view CT reconstruction based on group-based sparse representation using weighted guided image filtering</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0581/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0581/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0581</description>
     </item>
     <item>
       <title>Comparative evaluation of volumetry estimation from plain and contrast enhanced computed tomography liver images</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2022-0349/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2022-0349/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2022-0349</description>
     </item>
     <item>
       <title>Vein segmentation and visualization of upper and lower extremities using convolution neural network</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0331/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0331/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0331</description>
     </item>
     <item>
       <title>STF-Net: sparsification transformer coding guided network for subcortical brain structure segmentation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0121/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0121/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0121</description>
     </item>
     <item>
       <title>Machine learning based endothelial cell image analysis of patients undergoing descemet membrane endothelial keratoplasty surgery</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0126/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0126/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0126</description>
     </item>
     <item>
       <title>AML leukocyte classification method for small samples based on ACGAN</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0028/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2024-0028</description>
     </item>
     <item>
       <title>Deep learning classification of EEG-based BCI monitoring of the attempted arm and hand movements</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0356/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0356/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0356</description>
     </item>
     <item>
       <title>Hybrid method for noise rejection from breath sound using transient artifact reduction algorithm and spectral subtraction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0426/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0426/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0426</description>
     </item>
     <item>
       <title>Optimized Schlieren imaging for real-time visualization of high-intensity focused ultrasound waves</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0002/html</guid>
+      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2024-0002</description>
     </item>
   </channel>
 </rss>

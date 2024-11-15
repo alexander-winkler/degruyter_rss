@@ -1,68 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Aschkenas</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Aschkenas</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asch.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-frontmatter2/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-frontmatter2</description>
     </item>
     <item>
       <title>Kabbalistic Afterlives: Copies, Reproductions, and Textual Circulation in the Making of Postmedieval Kabbalah in Eastern and Central Europe (Ashkenaz)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2019/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2019</description>
     </item>
     <item>
       <title>Sefer Razi’el ha-Mal’akh – A Conduit of Medieval Ashkenazi Culture</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2017/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2017</description>
     </item>
     <item>
       <title>Tradition of Crisis: Kabbalistic Transmission in Early Modern Kraków</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2012/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2012</description>
     </item>
     <item>
       <title>Compiling Kabbalistic Secrets after the Spanish Expulsion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2013/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2013</description>
     </item>
     <item>
       <title>Praying with Moses Cordovero: Adopting and Adapting Spanish Kabbalah in Italy and East-Central Europe</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2014/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2014</description>
     </item>
     <item>
       <title>Interpretation, Rewriting, and Editing: The Copyists of Sefer ha-Temunah in Ashkenaz</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2018/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2018</description>
     </item>
     <item>
       <title>Hokhmat ha-Nefesh: Soul and Dream, from Eleazar of Worms to Renaissance Italy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2020/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2020</description>
     </item>
     <item>
       <title>Translating, Editing and Printing Tikkunim in Old Yiddish</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2015/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2015</description>
     </item>
     <item>
       <title>Christian Knorr von Rosenroth’s Translation of a Lurianic Dissertation: Liber Druschim, or the Dissertation on Two Inquiries of the Kabbalists</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2016/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2016</description>
     </item>
     <item>
       <title>Joseph Jacob Gumprecht, ein jüdischer Mediziner im Zeitalter der Aufklärung: blockierte Universitätskarriere, geöffnete Zivilgesellschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-2011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-2011/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-2011</description>
     </item>
     <item>
       <title>Personen- und Ortsregister</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asch-2024-9999/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asch-2024-9999/html</guid>
+      <description>Article by 
+
+                Page range: 469-478
+            
+ DOI: https://doi.org/10.1515/asch-2024-9999</description>
     </item>
   </channel>
 </rss>

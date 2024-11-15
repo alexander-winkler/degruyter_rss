@@ -1,123 +1,220 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Etruscan and Italic Studies</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Etruscan and Italic Studies</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/etst.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-frontmatter1-2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-frontmatter1-2/html</guid>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-frontmatter1-2/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-frontmatter1-2/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-frontmatter1-2</description>
     </item>
     <item>
       <title>Letter from the Editor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-2001/html</guid>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-2005/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-2005/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-2005</description>
     </item>
     <item>
-      <title>Frankincense Fragrances and Winged Serpents in Etruria: Notes on a Tarquinian Sarcophagus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2022-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2022-0009/html</guid>
+      <title>An Ivory Writing Tablet from Poggio Civitate (Murlo)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0016/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0016/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0016</description>
     </item>
     <item>
-      <title>A “Spurinas Group” Bowl in the Getty Collection</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2022-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2022-0011/html</guid>
+      <title>A Re-Evaluation of the Iconography of the Etruscan Bronze Lamp of Cortona</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0019/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0019/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0019</description>
     </item>
     <item>
-      <title>Paint Pigment on Epigraphic Squeezes: A Case-Study from the Etruscological Collections of Olof August Danielsson</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2022-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2022-0017/html</guid>
+      <title>An Etruscan Inscription Rediscovered</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0026/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0026/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0026</description>
     </item>
     <item>
-      <title>Demons and Forgetting in Etruscan Homeric Art</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0001/html</guid>
+      <title>Weaving in the Ager Faliscus: A Contextual Approach to the Analysis of Loom Weights from the Sites of Falerii, Narce, Vignanello, Corchiano and Grotta Porciosa</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0023/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0023/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0023</description>
     </item>
     <item>
-      <title>A Digital Concordance of Etruscan, Faliscan, and Early Latin Inscriptions from Etruria</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0007/html</guid>
+      <title>The Etruscan Kiss and Embrace: A Mirror at the British Museum and a Lifetime in a Gesture</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0004/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0004/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0004</description>
     </item>
     <item>
-      <title>Excavations at Poggio Civitate (Murlo): The 2022 Field Season</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0014/html</guid>
+      <title>Excavations at Poggio Civitate (Murlo): The 2023 Field Season</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0006/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0006/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0006</description>
     </item>
     <item>
-      <title>An Early Etruscan Toddler’s Grave in the Transitional Trench Tomb Cemetery of San Simone, San Giuliano (VT): Wealth, Status, and the Hopes of a Family</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0015/html</guid>
+      <title>The Tomb of the Rings and the Tomb of the Linen. New Data for a Late Etruscan Community in the Middle Valley of the Ombrone River (Civitella Paganico – Italy)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0010/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0010/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0010</description>
     </item>
     <item>
-      <title>Massimo Osanna and Stéphane Verger, eds. Tota Italia: Alle origini di una nazione, IV secolo a.C. – I secolo d.C</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2022-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2022-0018/html</guid>
+      <title>Archeologia svelata a Sesto Fiorentino. Momenti di vita nella piana prima, durante e dopo gli Etruschi, Sesto Fiorentino, Biblioteca Ernesto Ragionieri, September 29, 2023–July 31, 2024, curated by Valentina Leonini and Barbara Arbeid.</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0013/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0013/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0013</description>
     </item>
     <item>
-      <title>Fondazione Luigi Rovati, ed. Immaginare l’Unità d’Italia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0005/html</guid>
+      <title>Laura Banducci and Anna Gallone: A Cemetery and Quarry from Imperial Gabii (Gabii Project Reports Series 2)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0020/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0020/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0020</description>
     </item>
     <item>
-      <title>Szilvia Lakatos: Korinthisierende figürliche Keramik aus Etrurien</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0006/html</guid>
+      <title>Jorma Kaimio: The Funerary Inscriptions of Hellenistic Perusia (Acta Instituti Romani Finlandiae 50)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0021/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0021/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0021</description>
     </item>
     <item>
-      <title>John North Hopkins, Sarah Kielt Costello, Paul R. Davis: Object Biographies: Collaborative Approaches to Ancient Mediterranean Art</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0002/html</guid>
+      <title>Giulio Paolucci: Viaggio archeologico nell’antica Etruria By Wilhelm Dorow</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0022/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0022/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0022</description>
     </item>
     <item>
-      <title>Maria Chiara Bettini: Chiusi Villanoviana</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0003/html</guid>
+      <title>Claudia Carlucci: Terrecotte architettoniche etrusco-laziali: I sistemi decorativi della II fase iniziale (Supplementi e monografie della rivista Archeologia Classica 17)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0025/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0025/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2023-0025</description>
     </item>
     <item>
-      <title>Corinna Riva: A Short History of the Etruscans</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0004/html</guid>
+      <title>F. Fabiani and G. Gattiglia: Paesaggi urbani e rurali in trasformazione. Contesti e dinamiche dell’insediamento letti alla luce della fonte archeologica</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0001/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0001/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0001</description>
     </item>
     <item>
-      <title>Deborah Kamen and C. W. Marshall: Slavery and Sexuality in Classical Antiquity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0009/html</guid>
+      <title>Alessandro Sebastiani and Carolina Megale: Archaeological Landscapes of Roman Etruria. Research and Field Papers (MediTo – Archaeological and Historical Landscapes of Mediterranean Central Italy 1)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0002/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0002/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0002</description>
     </item>
     <item>
-      <title>Anthony Tuck: Poggio Civitate (Murlo). Cities and Communities of the Etruscans (4)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0008/html</guid>
+      <title>Maurizio Sannibale: Principi etruschi in Laboratorio. La tomba Regolini-Galassi analizzata</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0003/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0003/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0003</description>
     </item>
     <item>
-      <title>Francesco Belfiori: Mare Superum: Romani, Latini e l’Italia adriatica di mezzo (sviluppi culturali e fenomenologia religiosa, secoli III-I a.C.)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0012/html</guid>
+      <title>Lisa Pieraccini and Laurel Taylor: Consumption, Ritual, Art, and Society. Interpretive Approaches and Recent Discoveries of Food and Drink in Etruria. New approaches in Archaeology 2</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0014/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0014/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0014</description>
     </item>
     <item>
-      <title>Tamar Hodos: The Archaeology of the Mediterranean Iron Age: A Globalising World c. 1100–600 BCE</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0010/html</guid>
+      <title>Carmen Sánchez Fernández and Jorge Tomás García: La cerámica ática fuera del Ática. Contextos, usos y miradas (Studia Archaeologica 256)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0011/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0011/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0011</description>
     </item>
     <item>
-      <title>Luz Neira Jimenez, ed., Mosaicos romanos en el espacio rural: investigación y puesta en valor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0011/html</guid>
+      <title>Charlotte R. Potts: Architecture in Ancient Central Italy: Connections in Etruscan and Early Roman Building (British School at Rome Studies)</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2024-0015/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2024-0015/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2024-0015</description>
     </item>
     <item>
-      <title>Dimosthenis Kosmopoulos: Architettura templare italica in epoca ellenistica</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0013/html</guid>
-    </item>
-    <item>
-      <title>Simon Stoddart: Power and Place in Etruria: The Spatial Dynamics of a Mediterranean Civilization, 1200–500 BC</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-0018/html</guid>
-    </item>
-    <item>
-      <title>2023 Research Fellowships</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/etst-2023-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2023-2002/html</guid>
+      <title>2024 Fellowship Award Recipients</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/etst-2022-2003/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/etst-2022-2003/html</guid>
+      <description>Article by 
+
+                Page range: 276-277
+            
+ DOI: https://doi.org/10.1515/etst-2022-2003</description>
     </item>
   </channel>
 </rss>

@@ -1,128 +1,250 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Chemistry International</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Chemistry International</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ci.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Masthead - Full issue pdf</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0400/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0400/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0400</description>
     </item>
     <item>
       <title>Shaping Tomorrow’s Chemistry: Reflections and Goals from IUPAC’s Vice President</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0401/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0401/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0401</description>
     </item>
     <item>
       <title>Spotlight on IUPAC Young Observers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0402/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0402/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0402</description>
     </item>
     <item>
       <title>IUPAC’s 2024 Top Ten Emerging Technologies in Chemistry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0403/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0403/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0403</description>
     </item>
     <item>
       <title>Digital IUPAC Ten Years On</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0404/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0404/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0404</description>
     </item>
     <item>
       <title>IUPAC Announces the 2024 Top Ten Emerging Technologies in Chemistry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0405/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0405/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0405</description>
     </item>
     <item>
       <title>Winners of the 2024 IUPAC-Solvay International Award for Young Chemists</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0406/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0406/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0406</description>
     </item>
     <item>
       <title>Hanwha-TotalEnergies IUPAC Young Polymer Scientist Award 2024</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0407/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0407/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0407</description>
     </item>
     <item>
       <title>2025 IUPAC Awards in Analytical Chemistry—Call for nominations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0408/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0408/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0408</description>
     </item>
     <item>
       <title>IUPAC Elections for the 2026–2027 Term</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0409/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0409/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0409</description>
     </item>
     <item>
       <title>InChI 1.07 available on GitHub</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0410/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0410/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0410</description>
     </item>
     <item>
       <title>The International Year of Quantum Science and Technology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0411/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0411/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0411</description>
     </item>
     <item>
       <title>Pure and Applied Chemistry Special Issues—Call for Papers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0412/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0412/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0412</description>
     </item>
     <item>
       <title>Chemistry Education Awards 2024</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0413/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0413/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0413</description>
     </item>
     <item>
       <title>IUPAC Subcommittee on Structure and Properties of Commercial Polymers—East Asia Research Meeting</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0414/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0414/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0414</description>
     </item>
     <item>
       <title>Bioavailability of Endocrine Substances in Aquatic Ecosystems, Emerging Contaminants (ECs) and Impact on Agricultural Water Reuse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0415/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0415/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0415</description>
     </item>
     <item>
       <title>Learning about e-waste</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0416/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0416/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0416</description>
     </item>
     <item>
       <title>The global scenario and challenges of radioactive waste in the marine environment</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0417/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0417/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0417</description>
     </item>
     <item>
       <title>POLY-CHAR 2024 MADRID—“Polymers for our Future”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0418/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0418/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0418</description>
     </item>
     <item>
       <title>Applications of Nanotechnology in Agriculture and Food Systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0419/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0419/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0419</description>
     </item>
     <item>
       <title>Metal-Organic Frameworks for Medicine, Energy and Water Treatment</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0420/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0420/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0420</description>
     </item>
     <item>
       <title>Grand Challenges for Biotechnology: Health, Food Security, and Global Warming</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0421/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0421/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0421</description>
     </item>
     <item>
       <title>Global Women’s Breakfast (GWB)—The Impact of the (GWB) at the University of Duhok</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0422/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0422/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0422</description>
     </item>
     <item>
       <title>Mark Your Calendar</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ci-2024-0423/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ci-2024-0423/html</guid>
+      <description>Article by 
+
+                Page range: 49-49
+            
+ DOI: https://doi.org/10.1515/ci-2024-0423</description>
     </item>
   </channel>
 </rss>

@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Linguistic Typology </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Linguistic Typology </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lity.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2024-frontmatter3/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2024-frontmatter3</description>
     </item>
     <item>
       <title>Objects as human bodies: cross-linguistic colexifications between words for body parts and objects</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0032/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0032</description>
     </item>
     <item>
       <title>Word formation patterns in the perception domain: a typological study of cross-modal semantic associations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0038/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0038</description>
     </item>
     <item>
       <title>Headless relative clauses with a gap: a typological trait of Mesoamerican languages</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2022-0080/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2022-0080/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2022-0080</description>
     </item>
     <item>
       <title>All about ablaut: a typology of ablaut reduplicative structures</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0018/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0018</description>
     </item>
     <item>
       <title>Gender, number and person: a three-way interaction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0025/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0025</description>
     </item>
     <item>
       <title>Review of: Polinsky, Maria (ed.). 2021. Oxford handbook of the languages of the Caucasus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2024-0036/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2024-0036</description>
     </item>
     <item>
       <title>Grammar Highlights 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingty-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2024-2001/html</guid>
+      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2024-2001</description>
     </item>
   </channel>
 </rss>

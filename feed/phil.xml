@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Philologus</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Philologus</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phil.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2024-frontmatter1/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2024-frontmatter1</description>
     </item>
     <item>
       <title>ΛΥΣΙΜΕΛΗΣ: Überlegungen zu existenzieller Körperlichkeit und literarischen Strategien von Homer bis Platon</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0064/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0064</description>
     </item>
     <item>
       <title>On a Newly Discovered Acrostic in Virgil (Ecl. 4.9–11): The ‘Tenth’ Age</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0020/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0020</description>
     </item>
     <item>
       <title>Unpublished Conjectures by Nicolaus Heinsius on Ovid’s Metamorphoses 1–4</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0024/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0024</description>
     </item>
     <item>
       <title>Come lavorava Lucano? Su possibili varianti d’autore nel Bellum civile</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0070/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0070</description>
     </item>
     <item>
       <title>Juvencus’ Präsenz im Proömium des Cento Probae: ein bisher unbemerkter Fall akustischer Imitation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0028/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0028</description>
     </item>
     <item>
       <title>Due note al testo di Marziale (1.55.4, 4.56.5)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0027/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0027</description>
     </item>
     <item>
       <title>Could Agrippina Be the Snake? An Interpretation of unam omnino anguem in Tac. Ann. 11.11.3</title>
       <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0011/html</guid>
+      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0011</description>
     </item>
   </channel>
 </rss>

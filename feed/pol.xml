@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Pólemos</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Pólemos</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pol.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-frontmatter2/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-frontmatter2</description>
     </item>
     <item>
       <title>Possession</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2022/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2022</description>
     </item>
     <item>
       <title>Introduction: Nomos, Theos and Cultures of Violence</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2013/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2013</description>
     </item>
     <item>
       <title>State Violence, Divine Abuse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2014/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2014</description>
     </item>
     <item>
       <title>Inoperativity and Destituent Power in Benjamin, Agamben and Spinoza</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2015/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2015</description>
     </item>
     <item>
       <title>On the (Im)possible Relation Between the Universal and the Relative: The Aporia of Community</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2016/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2016</description>
     </item>
     <item>
       <title>Violent México: The War on Drugs, the Persistence of Oligarchies, and Gender Issues</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2017/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2017</description>
     </item>
     <item>
       <title>Want to Build a Death Camp? Call in the Lawyers: Obtaining Legal Title to the Land for the Killing Camp at Auschwitz</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2018/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2018</description>
     </item>
     <item>
       <title>“I Want to Judge! I Have to Judge!”: Judg-mentaility and the Theopolitics of the Apocalypse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2019/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2019</description>
     </item>
     <item>
       <title>“She Would Get all of Them. Every Last One”: Carrie and the Jouissance of Revenge</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2023/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2023</description>
     </item>
     <item>
       <title>Matteo Nicolini: Legal Geography, Comparative Law and the Production of Space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pol-2024-2021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pol-2024-2021/html</guid>
+      <description>Article by Cristina Poncibò DOI: https://doi.org/10.1515/pol-2024-2021</description>
     </item>
   </channel>
 </rss>

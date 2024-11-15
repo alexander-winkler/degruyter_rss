@@ -1,113 +1,136 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Klio</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Klio</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/klio.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-frontmatter2/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-frontmatter2</description>
     </item>
     <item>
       <title>Die Pferde von Amnisos. Ein Wendepunkt in der Geschichte des bronzezeitlichen Kreta?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0021/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0021</description>
     </item>
     <item>
       <title>Revolts and the Persian Great Kings: Active Involvement or Careful Abstention?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2023-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2023-0030/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2023-0030</description>
     </item>
     <item>
       <title>Die Trilingue vom Letoon und das lykische Geldsystem</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0009/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0009</description>
     </item>
     <item>
       <title>Frammenti di storia assira nei Persikà di Ellanico di Lesbo e nella storiografia greca</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0024/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0024</description>
     </item>
     <item>
       <title>Gli Oreioi, Pseudo-Scilace e la Creta sud-occidentale</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0007/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0007</description>
     </item>
     <item>
       <title>Who Owned the Slaves in Lysias 1.42? The Role of Slavery in Agriculture and Criminal Violence in Classical Athens</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0018/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0018</description>
     </item>
     <item>
       <title>Living by the Clock II: The Diffusion of Clock Time in the Early Hellenistic Period</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2023-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2023-0036/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2023-0036</description>
     </item>
     <item>
       <title>Συνθήκη, δόγμα und decretum: Zum Ratifizierungsprozess und zur nachträglichen Erweiterung des Friedensvertrags von 197/6 v. Chr. zwischen König Philipp V. von Makedonien und Rom</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0003/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0003</description>
     </item>
     <item>
       <title>Rhetorische Kompendien im klassischen Griechenland und spätrepublikanischen Rom: Die Rhetorica ad Alexandrum und die Rhetorica ad Herennium im historischen Vergleich</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0006/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0006</description>
     </item>
     <item>
       <title>Envisioning the Panoply of the Roman Torturer</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2023-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2023-0033/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2023-0033</description>
     </item>
     <item>
       <title>Zur Frage der Lokalisierung des sasanidischen Vizekönigtums Gēlān im 3. Jhd. n. Chr.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-0022/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-0022</description>
     </item>
     <item>
       <title>Challenging the Significance of the LALIA and the Justinianic Plague: A Reanalysis of the Archaeological Record</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2023-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2023-0031/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2023-0031</description>
     </item>
     <item>
       <title>Benjamin Allgaier, Embedded Inscriptions in Herodotus and Thucydides, Wiesbaden (Harrassowitz Verlag) 2022 (Philippika 157), VIII, 198 S., ISBN 978-3-447-11791-3 (brosch.), € 49,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2028/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2028</description>
     </item>
     <item>
       <title>Stefan Distler, Bauern und Banausen. Darstellungen des Handwerks und der Landwirtschaft in der griechischen Vasenmalerei, Wiesbaden (Reichert Verlag) 2022, 240 S., ISBN 978-3-95490-321-4 (geb.), € 110,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2024/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2024</description>
     </item>
     <item>
       <title>Markus Sachs, Betriebswirtschaftliches Denken und Handeln im antiken Rom, Wiesbaden (Harrassowitz Verlag) 2022 (Philippika 161), 343 S., ISBN 978-3-447-11870-5 (geb.), € 89,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2029/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2029</description>
     </item>
     <item>
       <title>Martin T. Dinter – Charles Guérin (Hgg.), Cultural Memory in Republican and Augustan Rome, Cambridge (Cambridge University Press) 2023, XV, 400 S., 15 Abb., ISBN 978-1-009-32775-6 (geb.), £ 115,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2026/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2026</description>
     </item>
     <item>
       <title>Mika Kajava, Naming Gods. An Onomastic Study of Divine Epithets Derived from Roman Anthroponyms, Helsinki (Societas Scientiarum Fennica) 2022 (Commentationes Humanarum Litterarum 144), 159 S., ISBN 978-951-653-490-2 (brosch.), € 25,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2022/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2022</description>
     </item>
     <item>
       <title>Jean-Yves Strasser, Mémoires de champions. Corpus des palmarès, d’Octavien à Valentinien Ier, Athen (École française d’Athènes) 2021 (Bibliothèque des Écoles françaises d’Athènes et de Rome 395), VIII, 840 S., 81 Abb., ISBN 978-2-86958-553-9, € 65,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2023/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2023</description>
     </item>
     <item>
       <title>Hansjoachim Andres, Bruderzwist. Strukturen und Methoden der Diplomatie zwischen Rom und Iran von der Teilung Armeniens bis zum Fünfzigjährigen Frieden, Stuttgart (Franz Steiner Verlag) 2022 (Oriens et Occidens 40), 559 S., ISBN 978-3-515-13363-0 (geb.), € 104,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2027/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2027</description>
     </item>
     <item>
       <title>Hartmut Leppin, Paradoxe der Parrhesie. Eine antike Wortgeschichte, Tübingen (Mohr Siebeck) 2022 (Tria Corda 14), VIII, 263 S., ISBN 978-3-16-157550-1 (brosch.), € 29,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/klio-2024-2025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/klio-2024-2025/html</guid>
+      <description>Article by Matthias Becker DOI: https://doi.org/10.1515/klio-2024-2025</description>
     </item>
   </channel>
 </rss>

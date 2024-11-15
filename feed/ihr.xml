@@ -1,58 +1,110 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Internationales Handelsrecht</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Internationales Handelsrecht</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ihr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-frontmatter2405/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-frontmatter2405/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-frontmatter2405</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-toc2405/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-toc2405/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-toc2405</description>
     </item>
     <item>
       <title>Die Bedeutung ethischer Produkte im Normregime des UN-Kaufrechts</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240501/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240501/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240501</description>
     </item>
     <item>
       <title>Verkäufer muss Vertragsmäßigkeit beweisen, wenn Käufer Mangel bei Anlieferung sofort rügt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240502/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240502/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240502</description>
     </item>
     <item>
       <title>Übergabe an den Frachtführer kein Inverkehrbringen weder bei CIP noch bei DAP</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240503/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240503/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240503</description>
     </item>
     <item>
       <title>Wirksamkeit einer Gerichtsstandsvereinbarung in dem Gründungsvertrag eines Handelsgewerbes</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240504/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240504/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240504</description>
     </item>
     <item>
       <title>Buchauszug umfasst auch Sondervereinbarungen zwischen Unternehmer und Versicherungsnehmer</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240505/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240505/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240505</description>
     </item>
     <item>
       <title>Einbeziehung von AGB durch Verweis auf Webseite</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240506/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240506/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240506</description>
     </item>
     <item>
       <title>CISG Advisory Council Opinion No. 23 — Mistake, fraud, misrepresentation and initial impossibility in CISG contracts</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240507/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240507/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240507</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240508/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/ihr-2024-240508/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/ihr-2024-240508</description>
     </item>
   </channel>
 </rss>

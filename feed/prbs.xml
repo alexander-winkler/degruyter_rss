@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Probus</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Probus</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prbs.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-frontmatter2/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-frontmatter2</description>
     </item>
     <item>
       <title>A brief introduction to Comparative syntax across grammars and structures, the second issue of Probus 36 dedicated to Mary A. Kato on her 90th anniversary</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-2009/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-2009</description>
     </item>
     <item>
       <title>D-features or ellipsis in null subject licensing? Evidence from Brazilian and European Portuguese</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-2010/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-2010</description>
     </item>
     <item>
       <title>Agree, agreement dissociation and subject ellipsis. Towards a new characterization of the Null Subject Parameter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-2011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-2011/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-2011</description>
     </item>
     <item>
       <title>Null objects, null nominal anaphora and antilogophoricity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-2012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-2012/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-2012</description>
     </item>
     <item>
       <title>A gradient typology of gerund clauses: revisiting the internal and external syntax of Portuguese gerund clauses</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-2013/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-2013</description>
     </item>
     <item>
       <title>Nondeictic accusative and dative clitics and their variant forms in European and Brazilian Portuguese</title>
       <link>https://www.degruyter.com/document/doi/10.1515/probus-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/probus-2024-2014/html</guid>
+      <description>Article by Maria Eugenia L. Duarte DOI: https://doi.org/10.1515/probus-2024-2014</description>
     </item>
   </channel>
 </rss>

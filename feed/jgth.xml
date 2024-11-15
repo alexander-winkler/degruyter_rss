@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Group Theory</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Group Theory</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgth.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-frontmatter6/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-frontmatter6/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-frontmatter6</description>
     </item>
     <item>
       <title>Open mappings of locally compact groups</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0017/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0017</description>
     </item>
     <item>
       <title>Groups of profinite type and profinite rigidity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0228/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0228/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0228</description>
     </item>
     <item>
       <title>On conjugate separability of nilpotent subgroups</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0023/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0023</description>
     </item>
     <item>
       <title>Groups whose proper subgroups of infinite rank have a permutability transitive relation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0296/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0296/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0296</description>
     </item>
     <item>
       <title>A generalization of the Brauer–Fowler theorem</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0041/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0041</description>
     </item>
     <item>
       <title>On groups with large verbal quotients</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0088/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0088/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0088</description>
     </item>
     <item>
       <title>Conjugacy class numbers and nilpotent  subgroups of finite groups</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0263/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0263/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0263</description>
     </item>
     <item>
       <title>On the common transversal probability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0030/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0030</description>
     </item>
     <item>
       <title>Classifying primitive solvable  permutation groups of rank 5 and 6</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0205/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0205/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0205</description>
     </item>
     <item>
       <title>Tuple regularity and 𝑘-ultrahomogeneity for finite groups</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0106/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0106</description>
     </item>
     <item>
       <title>Skew-morphisms of elementary abelian 𝑝-groups</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2022-0092/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2022-0092/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2022-0092</description>
     </item>
     <item>
       <title>On algebraic normalisers of maximal tori  in simple groups of Lie type</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0070/html</guid>
+      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0070</description>
     </item>
   </channel>
 </rss>

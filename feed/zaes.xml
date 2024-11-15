@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Ägyptische Sprache und Altertumskunde</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Ägyptische Sprache und Altertumskunde</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaes.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2024-frontmatter2/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2024-frontmatter2</description>
     </item>
     <item>
       <title>An Unedited Hieratic Docket Regarding the Travel Expenses of Tutankhamun’s Funeral Procession (Carter 270b)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0018/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0018</description>
     </item>
     <item>
       <title>The Cartonnage of Paysetjenfy (SMDAN 1353) Found in Dra Abu el-Naga</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2022-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2022-0027/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2022-0027</description>
     </item>
     <item>
       <title>n.j ỉt=f “of his father”: A Qualification in the Old and New Kingdoms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0002/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0002</description>
     </item>
     <item>
       <title>Not a Temple but a Tomb: The Architectural Drawings on Pap. Berlin P 15781 and 15782A + B</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0022/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0022</description>
     </item>
     <item>
       <title>An Excellent Scribe and Servant of the Great Goddess</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0014/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0014</description>
     </item>
     <item>
       <title>A Prayer to Horus Praising Edfu</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0008/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0008</description>
     </item>
     <item>
       <title>Possible Representations of Aker in Heb-sed Scenes Adorning Temple Entryways and their Cosmic Significance</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0001/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0001</description>
     </item>
     <item>
       <title>Boston MFA 38-2-5: A Limestone Fragment with a Hieratic Inscription Presumably from the Reign of Khufu</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2022-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2022-0026/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2022-0026</description>
     </item>
     <item>
       <title>Literati or Demolition Men? References to Thoth in New Kingdom Epigraphy from the Precinct of Senwosret III at Dahshur</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0006/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0006</description>
     </item>
     <item>
       <title>Mariette’s Newly Released Documents and the Chronology of the Apis Bulls</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2023-0016/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2023-0016</description>
     </item>
     <item>
       <title>Identifying mïmï  as ‘Linseed’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaes-2022-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaes-2022-0025/html</guid>
+      <description>Article by Jonny Russell DOI: https://doi.org/10.1515/zaes-2022-0025</description>
     </item>
   </channel>
 </rss>

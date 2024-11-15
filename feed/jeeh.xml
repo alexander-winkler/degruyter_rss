@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal des Économistes et des Études Humaines</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal des Économistes et des Études Humaines</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jeeh.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-frontmatter1/html</guid>
+      <description>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh DOI: https://doi.org/10.1515/jeeh-2023-frontmatter1</description>
     </item>
     <item>
       <title>Legitimate Tax Structures: Lessons from the Past</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jeeh-2022-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jeeh-2022-0008/html</guid>
+      <description>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh DOI: https://doi.org/10.1515/jeeh-2022-0008</description>
     </item>
     <item>
       <title>The Poverty of Radical Ecological Economics: A Critique of Clive Spash from the Viewpoint of the Austrian School</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-0018/html</guid>
+      <description>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh DOI: https://doi.org/10.1515/jeeh-2023-0018</description>
     </item>
     <item>
       <title>The Poverty of Radical Ecological Economics: A Supportive Comment</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-0021/html</guid>
+      <description>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh DOI: https://doi.org/10.1515/jeeh-2023-0021</description>
     </item>
     <item>
       <title>Clarifying the Analysis of Deadweight Loss from Taxation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jeeh-2023-0020/html</guid>
+      <description>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh DOI: https://doi.org/10.1515/jeeh-2023-0020</description>
     </item>
     <item>
       <title>The School of Salamanca on Value of Money: A Reassessment</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jeeh-2022-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jeeh-2022-0013/html</guid>
+      <description>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh DOI: https://doi.org/10.1515/jeeh-2022-0013</description>
     </item>
   </channel>
 </rss>

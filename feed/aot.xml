@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Advanced Optical Technologies</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Advanced Optical Technologies</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/aot.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-frontmatter5-6/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-frontmatter5-6/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-frontmatter5-6</description>
     </item>
     <item>
       <title>Making impact</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0035/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0035</description>
     </item>
     <item>
       <title>EOS annual meeting EOSAM 2022</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0036/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0036</description>
     </item>
     <item>
       <title>Polarimetric techniques for the structural studies and diagnosis of brain</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0015/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0015</description>
     </item>
     <item>
       <title>Combination of a global-search method with model selection criteria for the ellipsometric data evaluation of DLC coatings</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0014/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0014</description>
     </item>
     <item>
       <title>Ellipsometry study of the infrared-active phonon modes in strained SrMnO3 thin films</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0009/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0009</description>
     </item>
     <item>
       <title>A generalised thermal LED-model and its applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0017/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0017</description>
     </item>
     <item>
       <title>Novel procedure for the identification of a starting point for the CMP</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aot-2022-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aot-2022-0022/html</guid>
+      <description>Article by Christian Trum, Sebastian Sitzberger, Rolf Rascher DOI: https://doi.org/10.1515/aot-2022-0022</description>
     </item>
   </channel>
 </rss>

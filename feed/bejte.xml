@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The B.E. Journal of Theoretical Economics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in The B.E. Journal of Theoretical Economics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejte.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2024-frontmatter1/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2024-frontmatter1</description>
     </item>
     <item>
       <title>Screening with Privacy on (Im)persistency</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0118/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0118/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0118</description>
     </item>
     <item>
       <title>Quality, Shelf Life, and Demand Uncertainty</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0013/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2023-0013</description>
     </item>
     <item>
       <title>Transfers and Resilience in Economic Networks</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2021-0152/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2021-0152/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2021-0152</description>
     </item>
     <item>
       <title>Technology Adoption under Negative External Effects</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0089/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0089/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0089</description>
     </item>
     <item>
       <title>Management Centrality in Sequential Bargaining: Implications for Strategic Delegation, Welfare, and Stakeholder Conflict</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0076/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0076/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0076</description>
     </item>
     <item>
       <title>Financial and Operational Creditors in Bankruptcy Resolution: A General Equilibrium Approach Under Three Game-Theoretic Division Rules with an Application to India</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0031/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2023-0031</description>
     </item>
     <item>
       <title>Product Differentiation and Trade</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0016/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2023-0016</description>
     </item>
     <item>
       <title>A Theoretical Analysis of Collusion Involving Technology Licensing Under Diseconomies of Scale</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0148/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0148/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0148</description>
     </item>
     <item>
       <title>Product Quality and Product Compatibility in Network Industries</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0014/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2023-0014</description>
     </item>
     <item>
       <title>How the Future Shapes Consumption with Time-Inconsistent Preferences</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0115/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0115/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0115</description>
     </item>
     <item>
       <title>The Strategic Adoption of Environmental Corporate Social Responsibility with Network Externalities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0136/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0136/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0136</description>
     </item>
     <item>
       <title>Strategic Environmental Corporate Social Responsibility (ECSR) Certification and Endogenous Market Structure</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0139/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2022-0139/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2022-0139</description>
     </item>
     <item>
       <title>A Note on a Moment Inequality</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bejte-2023-0045/html</guid>
+      <description>Article by Seungwon (Eugene) Jeong DOI: https://doi.org/10.1515/bejte-2023-0045</description>
     </item>
   </channel>
 </rss>

@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Sociolinguistica</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Sociolinguistica</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soci.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-frontmatter2/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-frontmatter2</description>
     </item>
     <item>
       <title>Current trends in Icelandic sociolinguistics: An introduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0041/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0041</description>
     </item>
     <item>
       <title>Perceived threats to the future of Icelandic and the importance of language acquisition research</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0029/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0029</description>
     </item>
     <item>
       <title>Folk perceptions and evaluations of L2-accented Icelandic with regard to pleasantness and correctness</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0027/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0027</description>
     </item>
     <item>
       <title>Icelandic on Facebook: Linguistic practices in an informal communication space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0030/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0030</description>
     </item>
     <item>
       <title>Young Icelanders and popular culture: An empirical study of Anglicisms in conversation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0031/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0031</description>
     </item>
     <item>
       <title>Language change across the lifespan: The changing status of a local variant</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0032/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0032</description>
     </item>
     <item>
       <title>Icelandic regional pronunciation, attitudes and real-time change: Latest developments</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0028/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0028</description>
     </item>
     <item>
       <title>Icelandic in late modernity: On language policy discourses, stylistic variation, and the fate of purism and standard language ideology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0026/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0026</description>
     </item>
     <item>
       <title>An interview with Ernst Håkon Jahr</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0035/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0035</description>
     </item>
     <item>
       <title>An interview with Leena Huss</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0033/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0033</description>
     </item>
     <item>
       <title>Arnbjörnsdóttir, Birna, Höskuldur Thráinsson &amp; Úlfar Bragason (eds.) (2023): Icelandic heritage in North America. Winnipeg: University of Manitoba Press. 313 p.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/soci-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/soci-2024-0036/html</guid>
+      <description>Article by Ari Páll Kristinsson DOI: https://doi.org/10.1515/soci-2024-0036</description>
     </item>
   </channel>
 </rss>

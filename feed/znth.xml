@@ -1,93 +1,112 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/znth.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-frontmatter1/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-frontmatter1</description>
     </item>
     <item>
       <title>„Freiheit in Besonnenheit“. Dieter Henrich zum Gedenken</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0001/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0001</description>
     </item>
     <item>
       <title>A Republican of Faith: Adolf von Harnack’s Public and Intellectual Activity, 1914–1930</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0002/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0002</description>
     </item>
     <item>
       <title>Karl Rahner’s Theology of the Diaconate: A Reappraisal</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0003/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0003</description>
     </item>
     <item>
       <title>Über die aktuelle Bedeutung des liberalen Kulturprotestantismus. Ein Vortrag in Tokyo 2019</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0004/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0004</description>
     </item>
     <item>
       <title>Paul Tillichs Bundesverdienstorden</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0005/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0005</description>
     </item>
     <item>
       <title>Jesus in Geschichte, Erzählung und Idee. Perspektiven der Jesusrezeption in der Bibelwissenschaft der Aufklärung, der Romantik und des Idealismus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0006/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0006</description>
     </item>
     <item>
       <title>Freigeister und Pragmatiker. Die preußischen Feldprediger 1750–1806</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0007/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0007</description>
     </item>
     <item>
       <title>Ethik. Fünfte Auflage 1913, Neudruck 1921</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0008/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0008</description>
     </item>
     <item>
       <title>Einigkeit – Recht – Freiheit. Die liberale Studentenkorporation Freie Wissenschaftliche Vereinigung 1881–1933. Eine Textedition. Nebst Anmerkungen zu Otto Dibelius und einem Aufsatz über Georg Friedrich Nicolai und Kurt Hiller</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0009/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0009</description>
     </item>
     <item>
       <title>Predigten 1912</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0010/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0010</description>
     </item>
     <item>
       <title>Deutsche Theologie im Dienste der Kriegspropaganda. Umdeutung von Bibel, Gesangbuch und Liturgie 1914–1918</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0011/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0011</description>
     </item>
     <item>
       <title>Theologie und Religionsphilosophie in der frühen Weimarer Republik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0012/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0012</description>
     </item>
     <item>
       <title>Die Goldenen Zwanziger. Zwischen den Zeiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0013/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0013</description>
     </item>
     <item>
       <title>Otto Piper. Biographische, kirchliche und ethische Konstellationen zwischen den Welten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0014/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0014</description>
     </item>
     <item>
       <title>Selbstsein und Anerkennung. Theologisch-philosophische Erkundungsgänge im Spannungsfeld von Ich, Wir und Gott</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0015/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0015</description>
     </item>
     <item>
       <title>Atheistisch glauben. Ein theologischer Essay</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znth-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znth-2024-0016/html</guid>
+      <description>Article by Karl Tetzlaff DOI: https://doi.org/10.1515/znth-2024-0016</description>
     </item>
   </channel>
 </rss>

@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Archiv für Geschichte der Philosophie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Archiv für Geschichte der Philosophie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/agph.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2024-frontmatter4/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2024-frontmatter4</description>
     </item>
     <item>
       <title>Aristotle on Perception and Perception-like Appearance: De Anima 3.3, 428b10–29a9</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2021-0139/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2021-0139/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2021-0139</description>
     </item>
     <item>
       <title>How many gods and how many spheres? Aristotle misunderstood as a monotheist and an astronomer in Metaphysics Λ 8</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2022-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2022-0064/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2022-0064</description>
     </item>
     <item>
       <title>Aristotle on Non-substantial Particulars, Fundamentality, and Change</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2023-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2023-0027/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2023-0027</description>
     </item>
     <item>
       <title>Epicurean Feelings (pathē) as Criteria</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2021-0079/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2021-0079/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2021-0079</description>
     </item>
     <item>
       <title>The Stoic Distinction between Syllogisms and Subsyllogisms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2022-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2022-0018/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2022-0018</description>
     </item>
     <item>
       <title>Foucher’s Old-school Skepticism: Representation, Resemblance, and the Causal Likeness Principle</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2023-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2023-0023/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2023-0023</description>
     </item>
     <item>
       <title>Kant’s Rationalist Account of Hope</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2022-0057/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2022-0057/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2022-0057</description>
     </item>
     <item>
       <title>Bergson’s Arguments for Matter as Images in Matter and Memory</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2022-0127/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2022-0127/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2022-0127</description>
     </item>
     <item>
       <title>Carl Stumpf and the Curious Incident of Music in Wittgenstein’s Tractatus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2021-0141/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2021-0141/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2021-0141</description>
     </item>
     <item>
       <title>Mathematics First: Russell’s Methodological Response to Bradley</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2022-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2022-0017/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2022-0017</description>
     </item>
     <item>
       <title>Lane, Melissa. Of Rule and Office: Plato’s Ideas of the Political. Princeton: Princeton University Press 2023, xi + 480 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2024-0002/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2024-0002</description>
     </item>
     <item>
       <title>Deslauriers, Marguerite. Aristotle on Sexual Difference: Metaphysics, Biology, Politics. New York / Oxford: Oxford University Press 2022, xvi + 354 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/agph-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/agph-2024-0004/html</guid>
+      <description>Article by Karen Margrethe Nielsen DOI: https://doi.org/10.1515/agph-2024-0004</description>
     </item>
   </channel>
 </rss>

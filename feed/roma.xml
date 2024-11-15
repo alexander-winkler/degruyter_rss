@@ -1,103 +1,124 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Romanistisches Jahrbuch</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Romanistisches Jahrbuch</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roma.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-frontmatter1/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-frontmatter1</description>
     </item>
     <item>
       <title>In Memoriam Christian Schmitt (1944–2022)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0001/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0001</description>
     </item>
     <item>
       <title>In Memoriam Harald Weinrich (1927–2022)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0002/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0002</description>
     </item>
     <item>
       <title>Chronik 2022</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0003/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0003</description>
     </item>
     <item>
       <title>Humanness, pronoun types, and orphan prepositions in French</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0004/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0004</description>
     </item>
     <item>
       <title>Elaborazione e cambio linguistico: considerazioni sulle ‘lingue minori’ sull’esempio della scritturalità friulana</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0005/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0005</description>
     </item>
     <item>
       <title>The epistemic future in exported grammars: a comparison between two Italo-Romance speech communities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0006/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0006</description>
     </item>
     <item>
       <title>Pietro Aretino e Luciano di Samosata. Paradosso e parrhesia tra parola e immagine</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0007/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0007</description>
     </item>
     <item>
       <title>Machiavellis Kriegskunst: Die Lehren des Libro dell’arte della guerra</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0008/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0008</description>
     </item>
     <item>
       <title>Wendy Ayres-Bennett/John Bellamy (eds.), The Cambridge Handbook of Language Standardization. Cambridge, Cambridge University Press, 2021 (Cambridge Handbooks in Language and Linguistics). XVI+802 Seiten.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0009/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0009</description>
     </item>
     <item>
       <title>Elissa Pustka, Französische Sprachwissenschaft. Eine Einführung, Tübingen, Narr Francke Attempto, 2022 (Narr Studienbücher). 290 Seiten.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0010/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0010</description>
     </item>
     <item>
       <title>Considerazioni intorno a un recente contributo della critica mariniana Clizia Carminati: Tradizione, imitazione, modernità. Tasso e Marino visti dal Seicento. Pisa, ETS, 2020 (Res litteraria 18). 178 pagine.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0011/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0011</description>
     </item>
     <item>
       <title>Jenny Haase: Vitale Mystik. Formen und Rezeptionen mystischen Schreibens in der Lyrik von Anna de Noailles, Ernestina de Champourcin und Antonia Pozzi, Berlin/Boston, De Gruyter, 2022. 545 Seiten.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0012/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0012</description>
     </item>
     <item>
       <title>Claudia Jacobi: Mythopoétiques dantesques: une étude intermédiale sur la France, l’Espagne et l’Italie (1766–1897), Strasbourg, ELiPhi, 2021. 417 Seiten.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0013/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0013</description>
     </item>
     <item>
       <title>Gerhard Regn: Poetik des Aufschubs. Augustinus, Dante und die antiken Klassiker in Petrarcas Canzoniere, Heidelberg, Universitätsverlag Winter, 2022 (Neues Forum für allgemeine und vergleichende Literaturwissenschaft, Bd. 60). 597 Seiten.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0014/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0014</description>
     </item>
     <item>
       <title>The romance in Hispano-Jewish Communities (Tenth to Thirteenth Centuries)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0015/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0015</description>
     </item>
     <item>
       <title>Citación, relaciones textuales y tradicionalidad en el discurso preeconómico español</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0016/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0016</description>
     </item>
     <item>
       <title>Perspectiva teatral y simbólica de la figura del emperador Carlos V en los dramas históricos renacentistas: de la Égloga real (1518) a la Comedia del saco de Roma (1579)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0017/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0017</description>
     </item>
     <item>
       <title>Ziel und Zweck als Ursachen im Siglo de Oro</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0018/html</guid>
+      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0018</description>
     </item>
   </channel>
 </rss>

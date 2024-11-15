@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Stochastics and Quality Control </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Stochastics and Quality Control </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eqc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eqc-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eqc-2024-frontmatter2/html</guid>
+      <description>Article by Parvathy Sobhanan, E. I. Abdul Sathar DOI: https://doi.org/10.1515/eqc-2024-frontmatter2</description>
     </item>
     <item>
       <title>A Bayesian Extended Exponentially Weighted Moving Average Control Chart</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eqc-2023-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eqc-2023-0021/html</guid>
+      <description>Article by Parvathy Sobhanan, E. I. Abdul Sathar DOI: https://doi.org/10.1515/eqc-2023-0021</description>
     </item>
     <item>
       <title>Assessment of Reliability of Power Systems Under Adverse Weather Condition Using Markov System Dynamic Method</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eqc-2023-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eqc-2023-0022/html</guid>
+      <description>Article by Parvathy Sobhanan, E. I. Abdul Sathar DOI: https://doi.org/10.1515/eqc-2023-0022</description>
     </item>
     <item>
       <title>Time Truncated Attribute Median Control Charts for Logistic-Exponential Process Distribution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eqc-2023-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eqc-2023-0040/html</guid>
+      <description>Article by Parvathy Sobhanan, E. I. Abdul Sathar DOI: https://doi.org/10.1515/eqc-2023-0040</description>
     </item>
     <item>
       <title>Ageing Concepts for Bivariate Copulas</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eqc-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eqc-2024-0012/html</guid>
+      <description>Article by Parvathy Sobhanan, E. I. Abdul Sathar DOI: https://doi.org/10.1515/eqc-2024-0012</description>
     </item>
     <item>
       <title>Estimation of Bonferroni Curve and Bonferroni Index of the Pareto Distribution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eqc-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eqc-2024-0015/html</guid>
+      <description>Article by Parvathy Sobhanan, E. I. Abdul Sathar DOI: https://doi.org/10.1515/eqc-2024-0015</description>
     </item>
   </channel>
 </rss>

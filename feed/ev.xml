@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The Economists’ Voice</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in The Economists’ Voice</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ev.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-frontmatter1/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-frontmatter1</description>
     </item>
     <item>
       <title>Economic Policy Making Under Hardening Fiscal Constraints</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-2001/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-2001</description>
     </item>
     <item>
       <title>A Latticework of Inflation Models</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0028/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0028</description>
     </item>
     <item>
       <title>A Comparative Evaluation of Fiscal Stabilization Strategies during the Covid-19 Pandemic with Germany as a Reference Point</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0019/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0019</description>
     </item>
     <item>
       <title>The Relationship Between the German Current Account and Financial Account: Evidence from the Toda-Yamamoto Causality Approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0023/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0023</description>
     </item>
     <item>
       <title>The Tax Attractiveness of EU Locations for Corporate Investments: A Stocktaking of Past Developments and Recent Reforms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2023-0066/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2023-0066/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2023-0066</description>
     </item>
     <item>
       <title>Aid in Conflict: Determinants of International Aid Allocation to Ukraine During the 2022 Russian Invasion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2023-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2023-0049/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2023-0049</description>
     </item>
     <item>
       <title>Public Debt Ratios Will Increase For Some Time. We Must Make Sure That They Do Not Explode</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0014/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0014</description>
     </item>
     <item>
       <title>An EU Fund to Incentivise Public Investments with Positive Externalities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0016/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0016</description>
     </item>
     <item>
       <title>The Case for Putting a Public Investment Clause into the German Debt Brake</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0010/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0010</description>
     </item>
     <item>
       <title>EU Debt Instruments and Fiscal Transparency: The Case of the EU Recovery Fund</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0012/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0012</description>
     </item>
     <item>
       <title>Explaining the Divergence in German and French Public Finances</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0018/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0018</description>
     </item>
     <item>
       <title>Fiscal Prospects for Italy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0015/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0015</description>
     </item>
     <item>
       <title>The Swiss Debt Brake Is Democratic, Strict, Transparent, and Binding. A Model to Follow?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ev-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ev-2024-0021/html</guid>
+      <description>Article by Martin Mosler, Christoph Schaltegger DOI: https://doi.org/10.1515/ev-2024-0021</description>
     </item>
   </channel>
 </rss>

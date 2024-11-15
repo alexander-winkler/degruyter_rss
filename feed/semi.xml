@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Semiotica</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Semiotica</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/semi.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2024-frontmatter259/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2024-frontmatter259/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2024-frontmatter259</description>
     </item>
     <item>
       <title>Pour une reconnaissance des signes éthiques : les formes de l’ethos et ses implications sociologiques</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0136/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0136/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0136</description>
     </item>
     <item>
       <title>Chemical formalisms: toward a semiotic typology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2022-0110/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2022-0110/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2022-0110</description>
     </item>
     <item>
       <title>Cultural semiotics for mathematical discourses</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0030/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0030</description>
     </item>
     <item>
       <title>Défis sémiotiques de l’écriture du mort dans la littérature de la tombe</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0045/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0045</description>
     </item>
     <item>
       <title>Conflicting modalities in feature film: from contrapuntal editing to internal diegetic sound</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0068/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0068/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0068</description>
     </item>
     <item>
       <title>Competition among visual, verbal, and auditory modalities: a socio-semiotic perspective</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2022-0060/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2022-0060/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2022-0060</description>
     </item>
     <item>
       <title>Pre-structuralist semiology: materiality of language in Ferdinand de Saussure</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0114/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0114/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0114</description>
     </item>
     <item>
       <title>An edusemiotic approach to teaching intonation in the context of English language teacher education</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0203/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0203/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0203</description>
     </item>
     <item>
       <title>Constructing cultural identities through new media: a multimodal appraisal analysis of Chinese web-based ink and wash cartoons</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2022-0098/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2022-0098/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2022-0098</description>
     </item>
     <item>
       <title>Cultivating critical language awareness: unraveling populism in Trump’s inaugural address</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0162/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0162/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0162</description>
     </item>
     <item>
       <title>Cassirer’s path to the “symbolic animal”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sem-2021-0141/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sem-2021-0141/html</guid>
+      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2021-0141</description>
     </item>
   </channel>
 </rss>

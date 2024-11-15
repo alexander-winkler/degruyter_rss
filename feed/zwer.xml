@@ -1,43 +1,80 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Wettbewerbsrecht</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Wettbewerbsrecht</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwer.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Cover</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-frontmatter3/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-frontmatter3</description>
     </item>
     <item>
       <title>Inhaltsverzeichnis</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0301/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0301/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-0301</description>
     </item>
     <item>
       <title>Veranstaltungshinweise</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0302/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0302/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-0302</description>
     </item>
     <item>
       <title>Der sportkartellrechtliche Dreisprung des EuGH – European Superleague, International Skating Union und SA Royal Antwerp Football Club</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0303/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0303/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-0303</description>
     </item>
     <item>
       <title>Brauchen wir ein (sektorspezifisches) Monopolisierungsverbot? – Eine kritische Analyse des Anwendungsbereichs und der konzeptionellen Grundlagen der „Anti-Tipping“-Regelung des § 20 Abs. 3a GWB</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0304/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0304/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-0304</description>
     </item>
     <item>
       <title>Nachhaltigkeitskooperationen von Unternehmen: Zur Bewertung von Wohlfahrtseffekten und der angemessenen Verbraucherbeteiligung</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0305/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0305/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-0305</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0306/html</link>
       <guid>https://www.degruyter.com/document/doi/10.15375/zwer-2024-0306/html</guid>
+      <description>Article by 
+
+                Page range: III-IV
+            
+ DOI: https://doi.org/10.15375/zwer-2024-0306</description>
     </item>
   </channel>
 </rss>

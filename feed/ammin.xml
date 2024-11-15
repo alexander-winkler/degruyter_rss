@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>American Mineralogist</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in American Mineralogist</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ammin.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Tetrahedral aluminum in tourmaline from a spinel-pargasite-metamorphosed mafic-ultramafic rock</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9170/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9170/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9170</description>
     </item>
     <item>
       <title>Lorenz number and transport properties of Fe: Implications to the thermal conductivity at Earth’s core-mantle boundary</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9246/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9246/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9246</description>
     </item>
     <item>
       <title>Structure and equation of state of Ti-bearing davemaoite: New insights into the chemical heterogeneity in the lower mantle</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9104/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9104</description>
     </item>
     <item>
       <title>Solfataric alteration at the South Sulfur Bank, Kilauea, Hawaii, as a mechanism for the formation of sulfates, phyllosilicates, and silica on Mars</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9153/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9153/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9153</description>
     </item>
     <item>
       <title>Plastic deformation and trace element mobility in sphalerite</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9215/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9215/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9215</description>
     </item>
     <item>
       <title>Crystallographic insights into monovalent thallium incorporation: Exploring hydropyrochlore structure for environmental remediation</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9289/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9289/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9289</description>
     </item>
     <item>
       <title>Distribution of REE between amphibole and pyroxenes in the lithospheric mantle: An assessment from the lattice strain model</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2022-8831/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2022-8831/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2022-8831</description>
     </item>
     <item>
       <title>Elastic anomalies across the P21nm→Pnnm structural phase transition in δ-(Al,Fe)OOH</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9129/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9129/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9129</description>
     </item>
     <item>
       <title>Hyper-enrichment of heavy rare earth elements in highly evolved granites through multiple hydrothermal mobilizations</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9117/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9117/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9117</description>
     </item>
     <item>
       <title>In-situ zircon and cassiterite LA-ICP-MS geochronology and implications for granite-hosted Sn deposit models and exploration: Insights from the Cameroon Line</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9174/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9174/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9174</description>
     </item>
     <item>
       <title>Compressibility, thermal expansion, and Raman spectroscopy of synthetic whitlockite Ca9Mg(PO3OH)(PO4)6 at high pressures and high temperatures</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9084/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9084</description>
     </item>
     <item>
       <title>Experimental determination of tin partitioning between titanite, ilmenite, and granitic melts using improved capsule designs</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9232/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9232/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9232</description>
     </item>
     <item>
       <title>Low-temperature crystallization of kumdykolite, a polymorph of albite, during mineral carbonation within fluid inclusions in hornblendite from the Dabie orogen, central China</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9169/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9169/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9169</description>
     </item>
     <item>
       <title>Louisfuchsite, Ca2(Mg4Ti2)(Al4Si2)O20, a new rhönite-type mineral from the NWA 4964 CK meteorite: A refractory phase from the solar nebula</title>
       <link>https://www.degruyter.com/document/doi/10.2138/am-2023-9283/html</link>
       <guid>https://www.degruyter.com/document/doi/10.2138/am-2023-9283/html</guid>
+      <description>Article by Chi Ma, Alexander N. Krot, Kazuhide Nagashima, Tasha Dunn DOI: https://doi.org/10.2138/am-2023-9283</description>
     </item>
   </channel>
 </rss>

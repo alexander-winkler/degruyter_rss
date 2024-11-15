@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Theoretical Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Theoretical Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/thli.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-frontmatter3-4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-frontmatter3-4/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-frontmatter3-4</description>
     </item>
     <item>
       <title>Speaker judgments alone cannot diagnose syllable structure</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2013/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2013</description>
     </item>
     <item>
       <title>Dismantling the universal prosodic hierarchy with possible evidence for the absence of syllables</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2014/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2014</description>
     </item>
     <item>
       <title>Elicitation tasks, language contact, and syllable structure in Budai Rukai</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2015/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2015</description>
     </item>
     <item>
       <title>‘Direct’ elicitation and phonological argumentation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2016/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2016</description>
     </item>
     <item>
       <title>Causes and effects of misreported syllable structures</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2017/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2017</description>
     </item>
     <item>
       <title>Intuition, intonation, inconsistency, and innateness</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2018/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2018</description>
     </item>
     <item>
       <title>The reality of Rukai Glides</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2019/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2019</description>
     </item>
     <item>
       <title>Native speakers and syllable structure</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2020/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2020</description>
     </item>
     <item>
       <title>Three worlds of variables to control in linguistics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2021/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2021</description>
     </item>
     <item>
       <title>Issues in systematizing the elicitation and analysis of syllable structure</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tl-2024-2023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tl-2024-2023/html</guid>
+      <description>Article by Benjamin Macaulay DOI: https://doi.org/10.1515/tl-2024-2023</description>
     </item>
   </channel>
 </rss>

@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Review of Middle East Economics and Finance</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Review of Middle East Economics and Finance</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rmeef.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rmeef-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rmeef-2024-frontmatter2/html</guid>
+      <description>Article by Abdullah Alesmaiel, Suzanne G. M. Fifield, Justin Hof DOI: https://doi.org/10.1515/rmeef-2024-frontmatter2</description>
     </item>
     <item>
       <title>The Impact of the Corporate Governance Mechanisms on Insurance Risk: Perspective from Insurance Industry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rmeef-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rmeef-2024-0010/html</guid>
+      <description>Article by Abdullah Alesmaiel, Suzanne G. M. Fifield, Justin Hof DOI: https://doi.org/10.1515/rmeef-2024-0010</description>
     </item>
     <item>
       <title>Perceptions of Stakeholders on the Financial and Economic Crisis in Lebanon: An In-depth Analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rmeef-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rmeef-2023-0014/html</guid>
+      <description>Article by Abdullah Alesmaiel, Suzanne G. M. Fifield, Justin Hof DOI: https://doi.org/10.1515/rmeef-2023-0014</description>
     </item>
     <item>
       <title>The Predictive Ability and Profitability of Moving Average Rules in the Saudi Stock Market</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rmeef-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rmeef-2024-0014/html</guid>
+      <description>Article by Abdullah Alesmaiel, Suzanne G. M. Fifield, Justin Hof DOI: https://doi.org/10.1515/rmeef-2024-0014</description>
     </item>
   </channel>
 </rss>

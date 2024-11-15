@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Monatsschrift für Kriminologie und Strafrechtsreform</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Monatsschrift für Kriminologie und Strafrechtsreform</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mks.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-frontmatter4/html</guid>
+      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-frontmatter4</description>
     </item>
     <item>
       <title>Die Verbreitung antisemitischer Ressentiments unter Jugendlichen und Heranwachsenden in Deutschland: Zusammenhänge mit Migration und Religion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0022/html</guid>
+      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0022</description>
     </item>
     <item>
       <title>Inwiefern beeinflussen die Vorbeziehung und das Geschlecht von Täterin/Täter und Opfer die Beurteilung der Notwendigkeit rechtlicher und polizeilicher Maßnahmen bei Stalking? Eine experimentelle Studie an (angehenden) Polizeibeamtinnen/-beamten und Juristinnen/Juristen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0019/html</guid>
+      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0019</description>
     </item>
     <item>
       <title>Abweichendes Verhalten und Kriminalisierung im Kontext der Klimabewegung. Ein systematischer Literaturüberblick</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0015/html</guid>
+      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0015</description>
     </item>
     <item>
       <title>Polizei: Vertrauen ist gut, Kontrolle auch</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0021/html</guid>
+      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0021</description>
     </item>
     <item>
       <title>59. Kolloquium der Südwestdeutschen und Schweizerischen Kriminologischen Institute und Lehrstühle – Tagungsbericht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0026/html</guid>
+      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0026</description>
     </item>
   </channel>
 </rss>

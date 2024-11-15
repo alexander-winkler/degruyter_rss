@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Rechtssoziologie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Rechtssoziologie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfrs.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-frontmatter1/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-frontmatter1</description>
     </item>
     <item>
       <title>Introduction on “Society’s Constitutions”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1011/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-1011</description>
     </item>
     <item>
       <title>“But his sense of justice turned him into a brigand and a murderer.” On Gunther Teubner’s “Self-subversive Justice: Contingency or Transcendence Formula of Law?”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1007/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2023-1007</description>
     </item>
     <item>
       <title>The Best of All Possible Worlds: Gunther Teubner’s Theodicy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1008/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-1008</description>
     </item>
     <item>
       <title>‘Global Bukovina’: Gunther Teubner’s Homage to Eugen Ehrlich</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1005/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-1005</description>
     </item>
     <item>
       <title>The Anthropocenic Cupola</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1004/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2023-1004</description>
     </item>
     <item>
       <title>Restoration of gender inequalities through anti-abortion reforms: Can Teubner’s “anonymous matrix of communications” help feminists?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1001/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-1001</description>
     </item>
     <item>
       <title>When Gorillas Strike: Constitutional Protection of Non-Market-Institutions in Labor Law</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1002/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2023-1002</description>
     </item>
     <item>
       <title>We Accept: Bit-by-bit Constitution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-1009/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-1009</description>
     </item>
     <item>
       <title>My Numerous Detours – Toward Private Law as Society’s Constitution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2023-1006/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2023-1006</description>
     </item>
     <item>
       <title>Der Rechtsbegriff des lebenden Rechts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-2003/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-2003</description>
     </item>
     <item>
       <title>Jonas Bens, The Sentimental Court. The Affective Life of International Criminal Justice, Cambridge, Cambridge University Press, 2022, 266 Seiten, ISBN-978-1-316-51287-6, 87,53 €.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfrs-2024-2002/html</guid>
+      <description>Article by Stephanie Schmidt DOI: https://doi.org/10.1515/zfrs-2024-2002</description>
     </item>
   </channel>
 </rss>

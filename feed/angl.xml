@@ -1,98 +1,118 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Anglia</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Anglia</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/angl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-frontmatter3/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-frontmatter3</description>
     </item>
     <item>
       <title>Introduction: Touching Troy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0037/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0037</description>
     </item>
     <item>
       <title>Touching the Franks Casket: Global History and the Trojan Past on an Early Medieval English Object</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0038/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0038</description>
     </item>
     <item>
       <title>Touch and Temporality in Selected Manuscripts of the Roman de Troie and the Roman d’Eneas</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0039/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0039</description>
     </item>
     <item>
       <title>The Hand that Touched Troy: Using Maniculae in Latin and French Manuscripts (Benoît de Sainte-Maure’s Roman de Troie, Guido delle Colonne’s Historia and their Respective Prose Versions)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0040/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0040</description>
     </item>
     <item>
       <title>Trojan Nobodies: Uncarnal Knowledge in Troilus and Criseyde</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0041/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0041</description>
     </item>
     <item>
       <title>Getting in Touch with Troy in Fifteenth-Century France: The First Prose Version of the Roman de Troie in the Manuscript F°26 of the Abbey of Maredsous</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0042/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0042</description>
     </item>
     <item>
       <title>Touching the Shield of Achilles: Ekphrasis and/as Re-Mediation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0043/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0043</description>
     </item>
     <item>
       <title>The Traumas of Troy and the Elizabethan Schoolboy in Marlowe’s Dido, Queene of Carthage</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0044/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0044</description>
     </item>
     <item>
       <title>Defacing Troy: From Shakespeare’s The Rape of Lucrece to Medieval Manuscripts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0045/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0045</description>
     </item>
     <item>
       <title>Hans Sauer and Alessia Bauer (eds.). 2023. To Instruct and To Entertain – Medieval Didactic Dialogues: The Old English Prose Solomon and Saturn, the Middle English Master of Oxford’s Catechism and their Reconstructed Latin Source; the Old English Adrian and Ritheus, and the Old Icelandic Dialogue between a Pupil and his Master. Middle English Texts 67. Heidelberg: Winter Universitätverlag, lv + 144 pp., 10 figures, € 46,00.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0046/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0046/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0046</description>
     </item>
     <item>
       <title>Nicholas Orme. 2023. Tudor Children. New Haven and London: Yale University Press, 288 pp., $ 22,00 Paperback / E-book | $ 30,00 Hardcover.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0047/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0047</description>
     </item>
     <item>
       <title>Hartmann, Jan-Peer and Andrew James Johnston (eds.). 2021. Material Remains: Reading the Past in Medieval and Early Modern British Literature. Interventions: New Studies in Medieval Culture. Columbus, OH: Ohio State University Press, 302 pp., 27 illustr., $99.95/£87.95.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0048/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0048</description>
     </item>
     <item>
       <title>Dominique Goy-Blanquet. 2023. From the Domesday Book to Shakespeare’s Globe: The Legal and Political Heritage of Elizabethan Drama. Warwick Studies in Renaissance Thought and Culture 1. Turnhout: Brepols, 456 pp., 1 illustr., € 120.00.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0049/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0049</description>
     </item>
     <item>
       <title>Meg Dobbins. 2022. Queer Economic Dissonance and Victorian Literature. Columbus, OH: Ohio State University Press, 204 pp., $69.95.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0050/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0050</description>
     </item>
     <item>
       <title>Stefanie Schäfer. 2021. Yankee Yarns: Storytelling and the Invention of the National Body in Nineteenth-Century American Culture. Edinburgh: Edinburgh University Press, 324 pp., 17 illustr., £95.00.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0051/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0051</description>
     </item>
     <item>
       <title>John Guillory. 2022. Professing Criticism: Essays on the Organization of Literary Study. Chicago: University of Chicago Press, xvi + 407 pp., $ 29.00.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0052/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0052/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0052</description>
     </item>
     <item>
       <title>Ronald Schleifer. 2022. Literary Studies and Well-Being: Structures of Experience in the Worldly Work of Literature and Healthcare. London: Bloomsbury Academic, xi + 268 pp., £65.00/$81.00.Tiao Wang and Ronald Schleifer. 2022. Modernist Poetics in China: Consumerist Economics and Chinese Literary Modernism. Cham: Palgrave Macmillan, xviii + 260 pp., CHF 59.00.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0053/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0053/html</guid>
+      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0053</description>
     </item>
   </channel>
 </rss>

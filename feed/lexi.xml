@@ -1,108 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Lexicographica</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Lexicographica</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lexi.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-frontmatter1/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-frontmatter1</description>
     </item>
     <item>
       <title>Introduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0001/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0001</description>
     </item>
     <item>
       <title>Proverbs as an agent of cultural wisdom and identity among the Xhosa speaking people</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0002/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0002</description>
     </item>
     <item>
       <title>The lexicon and culture – culture and the lexicon</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0003/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0003</description>
     </item>
     <item>
       <title>Culture in the OED online Phrases and Quotations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0004/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0004</description>
     </item>
     <item>
       <title>Representation of culture-bound items in a culture dictionary for German readers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0005/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0005</description>
     </item>
     <item>
       <title>Unpacking colonialist and racist ideologies in historical German lexicons: A critical analysis of the Afrika Hand-Lexikon (1885) and similar reference books</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0006/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0006</description>
     </item>
     <item>
       <title>Women in Lexicography: a collaborative citizens project</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0007/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0007</description>
     </item>
     <item>
       <title>Specialised language and conceptual knowledge in lexicographic portals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0008/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0008</description>
     </item>
     <item>
       <title>The anatomy of specialized knowledge: Comparing experts and non-experts through associations, frames and language models</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0009/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0009</description>
     </item>
     <item>
       <title>The multifunctional LBC-Corpora: different aims depending on the user</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0010/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0010</description>
     </item>
     <item>
       <title>A novel way of extracting full-fledged terminologies from multilingual texts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0011/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0011</description>
     </item>
     <item>
       <title>Creating specialised dictionaries using LexO</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0012/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0012</description>
     </item>
     <item>
       <title>Theoretical Considerations on AI-based Business Models for Lexicography</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0013/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0013</description>
     </item>
     <item>
       <title>From Great Britain to the Spanish Philippines via British India… and back</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0014/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0014</description>
     </item>
     <item>
       <title>„Als Ziel gilt, den Wortinhalt allseits auszuleuchten, auch kleinste Facetten sichtbar zu machen“ – Funktionswörter im Schweizerischen Idiotikon / Wörterbuch der schweizerdeutschen Sprache</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0015/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0015</description>
     </item>
     <item>
       <title>„Ein Mann, ein Wort, viele EMLexler, ein Wörterbuch“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0016/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0016</description>
     </item>
     <item>
       <title>“Dictionaries and Society” – Conference Report about XX EURALEX in Mannheim</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0017/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0017</description>
     </item>
     <item>
       <title>Dictionnaire Poche Larousse 2023, 76 000 définitions, noms communs, noms propres. Paris: Larousse Dictionnaires, 2022, 1095 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0018/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0018</description>
     </item>
     <item>
       <title>The Bloomsbury Handbook of Lexicography. Second Edition. Edited by Howard Jackson. London/New York/Oxford/New Delhi/Sydney: Bloomsbury Academic, 2022, XXIII + 473 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lex-2023-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lex-2023-0019/html</guid>
+      <description>Article by Zita Hollós DOI: https://doi.org/10.1515/lex-2023-0019</description>
     </item>
   </channel>
 </rss>

@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Kultur- und Kollektivwissenschaft</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Kultur- und Kollektivwissenschaft</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkkw.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-frontmatter1001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-frontmatter1001/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-frontmatter1001</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-toc1001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-toc1001/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-toc1001</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100101/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100101</description>
     </item>
     <item>
       <title>Kollektive aus Menschen und Nichtmenschen</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100102/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100102</description>
     </item>
     <item>
       <title>Kollektive der Verletzbarkeit am Beispiel von Bezugsgruppen, Buddys und Awareness-Team im Klimaaktivismus</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100103/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100103</description>
     </item>
     <item>
       <title>Gruppen als symbolisch abgegrenzte Netzwerkphänomene</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100104/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100104</description>
     </item>
     <item>
       <title>Die Schulklasse als Kollektiv</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100105/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100105</description>
     </item>
     <item>
       <title>Ereigniskollektive</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100106/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100106</description>
     </item>
     <item>
       <title>Improvisation als ‚Handeln im Kollektiv‘</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100107/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100107</description>
     </item>
     <item>
       <title>Das Imaginäre des Kollektivs</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100108/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100108</description>
     </item>
     <item>
       <title>Kollektivität, Tertiarität, Alterität, Identität</title>
       <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100109/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100109/html</guid>
+      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100109</description>
     </item>
   </channel>
 </rss>

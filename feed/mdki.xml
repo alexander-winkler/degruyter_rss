@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Materialdienst</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Materialdienst</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdki.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-frontmatter3/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-frontmatter3</description>
     </item>
     <item>
       <title>Täuferische Kirchen in der Ökumene</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0019/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0019</description>
     </item>
     <item>
       <title>Last und Lust der Täufergeschichte – vom Konflikt zur Koinonia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0020/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0020</description>
     </item>
     <item>
       <title>Heilung der Erinnerungen – Prozesse und Perspektiven</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0021/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0021</description>
     </item>
     <item>
       <title>Römisch-katholische Perspektiven auf die Heilung der Erinnerungen mit den täuferischen Kirchen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0022/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0022</description>
     </item>
     <item>
       <title>Beobachtungen zum trilateralen internationalen mennonitisch-lutherisch-römisch-katholischen Dialog zur Taufe (2012–2017)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0023/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0023</description>
     </item>
     <item>
       <title>Baptism and the Process of Christian Initiation Reconsidered</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0024/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0024</description>
     </item>
     <item>
       <title>Kirchengemeinschaft auf dem Weg</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0025/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0025</description>
     </item>
     <item>
       <title>„Kirche im Defekt“ – „Kirche im Exzess“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0026/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0026</description>
     </item>
     <item>
       <title>Kulturelle und konfessionelle Diversität als Herausforderung für die verfassten Kirchen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0027/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0027</description>
     </item>
     <item>
       <title>„Heilung der Erinnerungen – Das Verhältnis der evangelischen Frei- und Landeskirchen im 19. Jahrhundert“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0028/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0028</description>
     </item>
     <item>
       <title>Burkhard Neumann und Jürgen Stolze, Hg., Jesus Christus – Sohn Gottes und Erlöser. Freikirchliche und römisch-katholische Perspektiven (Paderborn: Bonifatius; Göttingen: Edition Ruprecht, 2021), 268 S., EUR 20,00, ISBN 978-3-89710-895-0.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0029/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0029</description>
     </item>
     <item>
       <title>Rüdiger Halder, Ich bin da für dich! Gedanken zur Lehre über Gottvater, Systematisch-theologische Beiträge 2 (Erzhausen: Forum Theologie &amp; Gemeinde des Bundes Freikirchlicher Pfingstgemeinden, 2023), 201 S., EUR 20,00 (E-Book EUR 11,99), ISBN 978-3-942001-86-1.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0030/html</guid>
+      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0030</description>
     </item>
   </channel>
 </rss>

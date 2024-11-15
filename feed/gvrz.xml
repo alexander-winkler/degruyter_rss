@@ -1,48 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für das gesamte Verfahrensrecht – GVRZ</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für das gesamte Verfahrensrecht – GVRZ</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gvrz.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Die Politisierung des Verfahrens(rechts) 2.0</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070201/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070201/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070201</description>
     </item>
     <item>
       <title>Die Politisierung des Zivilverfahrens durch strategische Prozessführung</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070202/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070202/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070202</description>
     </item>
     <item>
       <title>Der Richter und sein Lenker</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070203/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070203/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070203</description>
     </item>
     <item>
       <title>Zwischen objektiver Verfassungssicherung und Individualrechtsschutz – Politisierungspotential im Verfassungsbeschwerdeverfahren</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070204/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070204/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070204</description>
     </item>
     <item>
       <title>Der lange Schatten des Unionsrechts auf dem Zivilverfahrensrecht</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070205/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070205/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070205</description>
     </item>
     <item>
       <title>Die Politisierung des Strafverfahrensrechts während des war on drugs</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070206/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070206/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070206</description>
     </item>
     <item>
       <title>Die Abhängigkeit von den Feststellungszielen im Kapitalanleger-Musterverfahren</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070207/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070207/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070207</description>
     </item>
     <item>
       <title>Dokumentation</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070208/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070208/html</guid>
+      <description>Article by 
+
+                Page range: 54-57
+            
+ DOI: https://doi.org/10.9785/gvrz-2024-070208</description>
     </item>
   </channel>
 </rss>

@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Perspektiven der Wirtschaftspolitik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Perspektiven der Wirtschaftspolitik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pwp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2024-frontmatter2/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2024-frontmatter2</description>
     </item>
     <item>
       <title>Eine Brücke von den Wirtschaftswissenschaften zu Politik und Öffentlichkeit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0024/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2024-0024</description>
     </item>
     <item>
       <title>„Es gibt einen klaren Mismatch in der medizinischen Regulatorik“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0016/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2024-0016</description>
     </item>
     <item>
       <title>Gert G. Wagner:  Forscher, Datenpapst, Politikberater</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0019/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2024-0019</description>
     </item>
     <item>
       <title>Historisches Erbe regionaler Innovationstätigkeit – der Fall Ost- und Westdeutschland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2023-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2023-0025/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2023-0025</description>
     </item>
     <item>
       <title>Die Zukunftsquote: ein neuer Kompass für den Bundeshaushalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0008/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2024-0008</description>
     </item>
     <item>
       <title>Wie Roboter die Welt (und das Wirtschaften) verändern: Ein Überblick über Daten, Forschungsergebnisse und wirtschaftspolitische Strategien</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pwp-2024-0007/html</guid>
+      <description>Article by Anne Jurkat, Rainer Klump, Florian Schneider DOI: https://doi.org/10.1515/pwp-2024-0007</description>
     </item>
   </channel>
 </rss>

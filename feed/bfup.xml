@@ -1,163 +1,196 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Bibliothek Forschung und Praxis</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Bibliothek Forschung und Praxis</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bfup.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-frontmatter2/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-frontmatter2</description>
     </item>
     <item>
       <title>Editorial: Bibliotheken und Politik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0045/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0045</description>
     </item>
     <item>
       <title>Engagement für Bibliotheken fördern und sichtbar machen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0029/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0029</description>
     </item>
     <item>
       <title>Politische Interessenvertretung für Bibliotheken: Themen, Forderungen, Methoden</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0037/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0037</description>
     </item>
     <item>
       <title>WEITER WISSEN. Mit uns! Mit der Kampagne WEITER WISSEN machen wissenschaftliche Bibliotheken ihre Leistungen für eine offene Wissenschaft und Forschung sichtbar</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0009/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0009</description>
     </item>
     <item>
       <title>„Es ist die Aufgabe der Verwaltung, das sachlich Notwendige möglich zu machen.“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0044/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0044</description>
     </item>
     <item>
       <title>„Hexenjagd im Bayern-Staat“: Die Universitätsbibliothek der LMU München und die Holzer-Affäre 1974</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0081/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0081/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0081</description>
     </item>
     <item>
       <title>Eine Chronik laufender Ereignisse – Über die Bibliothek der ukrainischen Literatur in Moskau</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0022/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0022</description>
     </item>
     <item>
       <title>Interview mit Boryano Rickum über die rechtsextremen Vorfälle in der Bezirkszentralbibliothek Tempelhof in Berlin und welche Konsequenzen daraus zu ziehen sind</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0038/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0038</description>
     </item>
     <item>
       <title>Über Bibliotheken als Werkstätten der Demokratie</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0026/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0026</description>
     </item>
     <item>
       <title>Argumente gegen Stammtischparolen – auch für Bibliothekarinnen und Bibliothekare</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0012/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0012</description>
     </item>
     <item>
       <title>Bibliotheken: Die fünfte Gewalt im Staat?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0033/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0033</description>
     </item>
     <item>
       <title>Bibliotheken aus systemtheoretischer Sicht. Eine Skizze</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0015/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0015</description>
     </item>
     <item>
       <title>Kommunal geschützt? – Trägerschaftsmodelle schwedischer Öffentlicher Bibliotheken auf dem Prüfstand. Einblicke in eine Debatte</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0051/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0051</description>
     </item>
     <item>
       <title>Kulturgutschutz und Bekämpfung von Desinformation – Aufgaben internationaler Bibliothekskooperation in Zeiten des Krieges</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0036/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0036</description>
     </item>
     <item>
       <title>Decolonising the Library – in Deutschland?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2022-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2022-0029/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2022-0029</description>
     </item>
     <item>
       <title>Koloniale Kontexte in der Bibliothek. Vernetzen, Erschließen, Bereitstellen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0036/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0036</description>
     </item>
     <item>
       <title>Subprime Impact Crisis. Bibliotheken, Politik und digitale Souveränität</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0008/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0008</description>
     </item>
     <item>
       <title>Thesen zur Zukunft des wissenschaftsgeleiteten Open-Access-Publizierens – Entwicklung und Diskussion in einem partizipativen Prozess</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0027/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0027</description>
     </item>
     <item>
       <title>Sie stehlen unsere Aufmerksamkeit!</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0006/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0006</description>
     </item>
     <item>
       <title>Was ist eine wissenschaftliche Bibliothek heute?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0021/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0021</description>
     </item>
     <item>
       <title>Serendipität und Open Data. Richtlinien für die Implementierung von Empfehlungssystemen auf Entdeckungsplattformen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0059/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0059</description>
     </item>
     <item>
       <title>Analyse der Abdeckung wissenschaftlicher  Publikationen auf Semantic Scholar im Kontext von Open Access</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0057/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0057/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0057</description>
     </item>
     <item>
       <title>Chancen und Herausforderungen der E-Preferred-Strategie für die monografische Erwerbung in wissenschaftlichen Bibliotheken</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0076/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0076/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0076</description>
     </item>
     <item>
       <title>Der Berg ruft und ein Reiseunternehmen will geführt sein, wo steckt der Fehlerteufel? Ein Interview mit Markus Walter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0025/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0025</description>
     </item>
     <item>
       <title>Pettegree, Andrew: The Book at War. Libraries and Readers in a Time of Conflict. London: Profile Books, 2023. 474 S., s/w-Abb. im Text, 31 Farbabb., ISBN: 978-1-80081-493-6, eISBN: 978-1-80081-495-0. Hardcover ₤ 30, Paperback ₤ 12,99</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0010/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0010</description>
     </item>
     <item>
       <title>Anne Baillot: From Handwriting to Footprinting: Text and Heritage in the Age of Climate Crisis. Cambridge: Open Book Publishers, 2023, 179 Seiten, ISBN 978-1-80511-089-7, https://doi.org/10.11647/OBP.0355</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0024/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0024</description>
     </item>
     <item>
       <title>Hassan Soilihi Mzé: Geöffnet – Gelenkt – Umgebaut. Universitätsbibliothek Leipzig, Deutsche Bücherei und Leipziger Stadtbibliothek zwischen institutioneller Reorganisation und politischer Instrumentalisierung (1945–1968/69). Leipzig: Leipziger Universitätsverlag, 2023. 266 S., ISBN 978-3-96023-555-2. Hardcover € 33,–</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0032/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0032</description>
     </item>
     <item>
       <title>Madeleine C. Fombad, Collence Takaingenhamo Chisita, Omwoyo Bosire Onyancha und Mabel K. Minishi-Majanja (Hrsg.): Information Services for a Sustainable Society: Current Developments in an Era of Information Disorder. Berlin, Boston: Walter de Gruyter, 2023. VII, 369 Seiten: Illustrationen, 129,00 €, ISBN 978-3-11-077268-5. Auch als PDF &amp; EPUB</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0017/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0017</description>
     </item>
     <item>
       <title>Stefan Alker-Windbichler, Axel Kuhn, Benedikt Lodes, Günther Stocker (Hrsg.): Akademisches Lesen. Medien, Praktiken, Bibliotheken. Göttingen: Vandenhoeck &amp; Ruprecht, V&amp;R unipress 2022. 370 S.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2023-0045/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2023-0045</description>
     </item>
     <item>
       <title>Verena-Christin Schmidt: Digitale und hybride Lernraumgestaltung in Wissenschaftlichen Bibliotheken, Wiesbaden: b.i.t. verlag gmbh, 2023, 118 Seiten, 24,50 €, ISBN 978-3-9824425-5-6</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bfp-2024-0001/html</guid>
+      <description>Article by Richard Stang DOI: https://doi.org/10.1515/bfp-2024-0001</description>
     </item>
   </channel>
 </rss>

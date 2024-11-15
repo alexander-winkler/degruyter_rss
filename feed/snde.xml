@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Studies in Nonlinear Dynamics &amp; Econometrics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Studies in Nonlinear Dynamics &amp; Econometrics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2024-frontmatter4/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2024-frontmatter4</description>
     </item>
     <item>
       <title>Age and gender differentials in unemployment and hysteresis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0068/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0068/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0068</description>
     </item>
     <item>
       <title>Estimation and testing of the factor-augmented panel regression models with missing data</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0042/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0042</description>
     </item>
     <item>
       <title>Multi-kernel property in high-frequency price dynamics under Hawkes model</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0049/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0049</description>
     </item>
     <item>
       <title>Causal relationships between cryptocurrencies: the effects of sampling interval and sample size</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0054/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0054/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0054</description>
     </item>
     <item>
       <title>Panel threshold model with covariate-dependent thresholds and its application to the cash flow/investment relationship</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0035/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0035</description>
     </item>
     <item>
       <title>HPX filter: a hybrid of Hodrick–Prescott filter and multiple regression</title>
       <link>https://www.degruyter.com/document/doi/10.1515/snde-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/snde-2023-0004/html</guid>
+      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2023-0004</description>
     </item>
   </channel>
 </rss>

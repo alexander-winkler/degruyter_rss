@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Metaphysica</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Metaphysica</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2024-frontmatter2/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2024-frontmatter2</description>
     </item>
     <item>
       <title>There are More, or Fewer, Things than Most of us Think</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0035/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0035</description>
     </item>
     <item>
       <title>Elucidating Divine Atemporality</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2024-0016/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2024-0016</description>
     </item>
     <item>
       <title>On the Reality and Evidential Status of Temporal Passage Phenomenology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0054/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0054/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0054</description>
     </item>
     <item>
       <title>Selfhood Beyond Death</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0053/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0053/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0053</description>
     </item>
     <item>
       <title>The Nominalist Limit of Kim’s Ontological Physicalism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0049/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0049</description>
     </item>
     <item>
       <title>On Individualistic Facts and Haecceitism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mp-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mp-2024-0012/html</guid>
+      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2024-0012</description>
     </item>
   </channel>
 </rss>

@@ -1,58 +1,70 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Journal of Legal Discourse</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Journal of Legal Discourse</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijld.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-frontmatter1/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-frontmatter1</description>
     </item>
     <item>
       <title>A bibliometric study of research trends in cross-border cybercrime</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2001/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2001</description>
     </item>
     <item>
       <title>Repair in Ghanaian judicial discourse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2002/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2002</description>
     </item>
     <item>
       <title>The de-legitimation of Machine Learning Algorithms (MLAs) in “The Social Dilemma” (2020): a post-digital cognitive-stylistic approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2003/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2003</description>
     </item>
     <item>
       <title>Discourse patterning and recursion in the EU case law</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2004/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2004</description>
     </item>
     <item>
       <title>That-complement clauses signalling stance in Nigerian Supreme Court lead judgements: a corpus-based study</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2005/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2005</description>
     </item>
     <item>
       <title>Translation by explicature: a form-based approach for translating legal texts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2006/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2006</description>
     </item>
     <item>
       <title>Language ideologies and speaker categorization: a case study from the U.S. legal system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2007/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2007</description>
     </item>
     <item>
       <title>Le Cheng and David Machin: The Law and Critical Discourse Studies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2008/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2008</description>
     </item>
     <item>
       <title>Olimpia G. Loddo: Intersemiotic Legal Translation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijld-2024-2009/html</guid>
+      <description>Article by Panagiotis G. Krimpas DOI: https://doi.org/10.1515/ijld-2024-2009</description>
     </item>
   </channel>
 </rss>

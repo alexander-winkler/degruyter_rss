@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Juristische Rundschau</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Juristische Rundschau</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-frontmatter12/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-frontmatter12/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-frontmatter12</description>
     </item>
     <item>
       <title>Das Rückforderungsrecht des Schenkers wegen Verarmung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2056/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2056/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2056</description>
     </item>
     <item>
       <title>Auch Standortdaten aus Funkzellen sind Standortdaten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2059/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2059</description>
     </item>
     <item>
       <title>Das Rechtsgut der Freiheitsberaubung in der jüngeren Rechtsprechung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2078/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2078/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2078</description>
     </item>
     <item>
       <title>Unmöglichkeit einer Forderungsübertragung fällt nicht unter Gewährleistungsrecht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2058/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2058/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2058</description>
     </item>
     <item>
       <title>Bemessung des angemessenen Unterhalts gem. § 529 Abs. 2 BGB</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2057/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2057/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2057</description>
     </item>
     <item>
       <title>Einbeziehung einer Verurteilung nach allgemeinem Strafrecht wegen einer als Heranwachsender begangenen Tat in die Verurteilung einer als Jugendlicher begangenen Tat</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2055/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2055/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2055</description>
     </item>
     <item>
       <title>Neue Anforderungen an die Übermittlung von Informationen durch Nachrichtendienste zu den Zwecken der Strafverfolgung und des administrativen Rechtsgüterschutzes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2085/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2085/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2085</description>
     </item>
     <item>
       <title>Nachträgliche Ergänzung abgekürzter Urteilsgründe bei verspäteter Kenntnis des Tatgerichts von der Revisionseinlegung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2062/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2062</description>
     </item>
     <item>
       <title>Grüneberg, Bürgerliches Gesetzbuch</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2084/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2084</description>
     </item>
     <item>
       <title>Leit- und Orientierungssätze</title>
       <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2090/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2090/html</guid>
+      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2090</description>
     </item>
   </channel>
 </rss>
