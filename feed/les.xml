@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Lebende Sprachen</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Lebende Sprachen</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2024-frontmatter1/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2024-frontmatter1</description>
     </item>
     <item>
       <title>Soziolinguistische Aspekte des kolumbianischen Spanisch: Der Parlache</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0042/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0042</description>
     </item>
     <item>
       <title>Guachisnay: anatomía de un presunto anglicismo</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0035/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0035</description>
     </item>
     <item>
       <title>Wie viel Translationstheorie braucht die Historiographie? Zu Hans Vermeers translationshistorischen Studien</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0036/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0036</description>
     </item>
     <item>
       <title>Le traducteur humain a-t-il (encore) un avenir en traduction juridique ?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0049/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0049</description>
     </item>
     <item>
       <title>Ironía y humor en la creación y uso de siglas</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0046/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0046/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0046</description>
     </item>
     <item>
       <title>Da muss erst mal Gras drüber wachsen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0039/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0039</description>
     </item>
     <item>
       <title>(De)Gendering (English-Spanish) Translation of Legal Texts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0026/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0026</description>
     </item>
     <item>
       <title>Vorüberlegungen für eine translationsrelevante Klassifikation von Personifizierungen: Sekundäre Subjektivierung und Definitionskollisionen im Bereich Bildhafte Sprache</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0040/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0040</description>
     </item>
     <item>
       <title>Michael Schreiber (2023): Kontrastive Linguistik. Französisch – Italienisch – Spanisch – Deutsch. Eine Einführung. Berlin: Erich Schmidt Verlag, 193 S., ISBN 978-3-503-23705-0.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0041/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0041</description>
     </item>
     <item>
       <title>Gladrow, Wolfgang/Kotorova, Elizaveta (2018): Sprachhandlungsmuster im Russischen und im Deutschen. Eine kontrastive Darstellung. Berlin: Lang. [Sprach- und Kulturkontakte in Europas Mitte. Studien zur Slavistik und Germanistik. Herausgegeben von Andrzej Kątny und Stefan Michael Newerkla. Bd. 9] 404 Seiten. ISBN: 9783631673188.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/les-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/les-2024-0004/html</guid>
+      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2024-0004</description>
     </item>
   </channel>
 </rss>

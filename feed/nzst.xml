@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Neue Zeitschrift für Systematische Theologie und Religionsphilosophie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Neue Zeitschrift für Systematische Theologie und Religionsphilosophie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nzst.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-frontmatter3/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-frontmatter3</description>
     </item>
     <item>
       <title>Introduction: Munich Lecture in Philosophy of Religion 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0047/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0047</description>
     </item>
     <item>
       <title>Against Infinite Nothingness: Ultimate Ground vs Metaphysical Nihilism in Indian Philosophy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0044/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0044</description>
     </item>
     <item>
       <title>Response to Jessica Frazier, “Against Infinite Nothingness”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0041/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0041</description>
     </item>
     <item>
       <title>All the Way Down to Turtles: A Response to Jessica Frazier</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0043/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0043</description>
     </item>
     <item>
       <title>Against Infinite Nothingness – Response to McKenzie and Adamson</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0048/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0048</description>
     </item>
     <item>
       <title>Vladimir Solovyov and Orthodox Natural Theology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0020/html</guid>
+      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0020</description>
     </item>
   </channel>
 </rss>

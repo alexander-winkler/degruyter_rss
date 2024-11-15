@@ -1,43 +1,80 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>HTM Journal of Heat Treatment and Materials</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in HTM Journal of Heat Treatment and Materials</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Contents / Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-frontmatter5/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-frontmatter5</description>
     </item>
     <item>
       <title>Good Formability Despite High Accompanying Element Content of a Modified 20MnB4 Quenched and Tempered Steel</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-0027/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-0027</description>
     </item>
     <item>
       <title>Corrosion Resistance and Fracture Toughness of Cryogenic-Treated X153CrMoV12 Tool Steel</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-0023/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-0023</description>
     </item>
     <item>
       <title>Flow Field Analysis within Industrial Quenching Tanks Operated with Aqueous Polymer Solutions in the Steel Industry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-0022/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-0022</description>
     </item>
     <item>
       <title>Imprint / Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-8005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-8005/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-8005</description>
     </item>
     <item>
       <title>AWT-Info / HTM 05-2024</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-2009/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-2009</description>
     </item>
     <item>
       <title>HTM Praxis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-2010/html</guid>
+      <description>Article by 
+
+                Page range: A16-A36
+            
+ DOI: https://doi.org/10.1515/htm-2024-2010</description>
     </item>
   </channel>
 </rss>

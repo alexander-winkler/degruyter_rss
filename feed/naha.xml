@@ -1,58 +1,70 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Naharaim</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Naharaim</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/naha.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-frontmatter1/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-frontmatter1</description>
     </item>
     <item>
       <title>Introduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0021/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0021</description>
     </item>
     <item>
       <title>Jewish Wit – In the Original, and in Translation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0001/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0001</description>
     </item>
     <item>
       <title>Sammy Gronemann’s “Little Mirror”: Translating Tohuwabohu into Utter Chaos</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0003/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0003</description>
     </item>
     <item>
       <title>Questions of Belief: Sammy Gronemann’s Short Story “Der himmlische Lohn”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0005/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0005</description>
     </item>
     <item>
       <title>From Zurishaddai to Menachem Mendel: The Shlemiel’s Journey from Ancient to Modern Israel</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0002/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0002</description>
     </item>
     <item>
       <title>When Sammy Gronemann Met Nathan Alterman: The Story of Israel’s Most Successful Comedy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0014/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0014</description>
     </item>
     <item>
       <title>Lawyer, Littérateur, and Legislator: On Gronemann’s Profession, Self-Perception and Place in Scholarship</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0013/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0013</description>
     </item>
     <item>
       <title>Dreaming of a Jewish Democracy: Sammy Gronemann as High Judge and Chief Architect of the Pre-State Zionist Judiciary (1911–1946)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0015/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0015</description>
     </item>
     <item>
       <title>Illustrating a Jewish Life: Portrait Photography, Biography and the Creation of a Jewish Public Sphere</title>
       <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0019/html</guid>
+      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0019</description>
     </item>
   </channel>
 </rss>

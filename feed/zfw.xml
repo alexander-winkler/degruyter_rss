@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>ZFW – Advances in Economic Geography</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in ZFW – Advances in Economic Geography</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfw.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfw-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2024-frontmatter2/html</guid>
+      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2024-frontmatter2</description>
     </item>
     <item>
       <title>Towards a comprehensive agency-based resilience approach: Myopia and hypermetropia in the Turkish wine industry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0001/html</guid>
+      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2024-0001</description>
     </item>
     <item>
       <title>Institutional work and institutional entrepreneurship in the Ontario craft beer industry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0066/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0066/html</guid>
+      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2024-0066</description>
     </item>
     <item>
       <title>Injecting climate finance into SME lending in Germany: Opportunities for and limitations of regional savings and cooperative banks</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0011/html</guid>
+      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2022-0011</description>
     </item>
     <item>
       <title>The geography of eco-innovations and sustainability transitions: A systematic comparison</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0010/html</guid>
+      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2022-0010</description>
     </item>
   </channel>
 </rss>

@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Journal of Emerging Electric Power Systems</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Journal of Emerging Electric Power Systems</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijeeps.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2024-frontmatter5/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2024-frontmatter5</description>
     </item>
     <item>
       <title>Optimization model of battery electric vehicle charging facility layout towards embedded system and data mining algorithm</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0191/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0191/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0191</description>
     </item>
     <item>
       <title>Investigation on voltage stability evaluation indicators and algorithms for power systems based on neural network algorithms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0148/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0148/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0148</description>
     </item>
     <item>
       <title>Collaborative optimization algorithm for electric vehicle industry chain based on regional economic development needs</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0200/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0200/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0200</description>
     </item>
     <item>
       <title>Distributed generation aggregators considering low-carbon credits optimize dispatch strategies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0147/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0147/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0147</description>
     </item>
     <item>
       <title>CFD simulation analysis optimization and experimental verification of heat dissipation problem of electric vehicle motor controller</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0154/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0154/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0154</description>
     </item>
     <item>
       <title>Logistics distribution route optimization of electric vehicles based on distributed intelligent system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0304/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0304/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0304</description>
     </item>
     <item>
       <title>Analysis of green energy regeneration system for Electric Vehicles and Re estimation of carbon emissions in international trade based on evolutionary algorithms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0485/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0485/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0485</description>
     </item>
     <item>
       <title>Location of faults based on deep learning with feature selection for meter placement in distribution power grids</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0073/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0073</description>
     </item>
     <item>
       <title>A novel computational technique to analyse the corona generated ionized field environment of EHV/UHV DC transmission lines</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0170/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0170/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0170</description>
     </item>
     <item>
       <title>Improving protection of compensated transmission line using IoT enabled adaptive auto reclosing scheme</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0074/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0074/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0074</description>
     </item>
     <item>
       <title>A new optimized ZV-ZCS non-isolated high-gain boost converter for renewable energy systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0065/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0065/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0065</description>
     </item>
     <item>
       <title>Performance of PMU in an electric distribution grid during transients</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0087/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijeeps-2023-0087/html</guid>
+      <description>Article by Fabrizio Ciancetta, Andrea Fioravanti, Mario Luiso, Simone Mari, Andrea Perfetti, Andrea Silvestri DOI: https://doi.org/10.1515/ijeeps-2023-0087</description>
     </item>
   </channel>
 </rss>

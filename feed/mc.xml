@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Multimodal Communication</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Multimodal Communication</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2024-frontmatter2/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2024-frontmatter2</description>
     </item>
     <item>
       <title>A multimodal analysis of Bob Marley’s “Natty Dread” album</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0033/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0033</description>
     </item>
     <item>
       <title>Stance and food activism on Arabic Twitter (X): a multimodal analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0042/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0042</description>
     </item>
     <item>
       <title>Image schemas in gestural metaphorical scenarios of swearing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0060/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0060/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0060</description>
     </item>
     <item>
       <title>Enabling participation in joint drumming within organizational workshops</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0070/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0070</description>
     </item>
     <item>
       <title>“Propping up” the “I,” or the discursive constitution of subjectivity: a multimodal discourse analysis of informal talk in a kindergarten classroom</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0036/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0036</description>
     </item>
     <item>
       <title>Tattoos as multimodal semiotic assemblages</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0068/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0068/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0068</description>
     </item>
     <item>
       <title>The EU and environmental education: a multimodal ecological discourse analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0073/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0073</description>
     </item>
     <item>
       <title>A multimodal translation analysis of online app advertisements: the case of Careem as a Taxi-sharing app in Iraq</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0037/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0037</description>
     </item>
     <item>
       <title>Representing slavery in visual art: a multimodal approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0025/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0025</description>
     </item>
     <item>
       <title>Leaving one’s mark: self-authorized commemorative practices in a rural semiotic landscape</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0102/html</guid>
+      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0102</description>
     </item>
   </channel>
 </rss>

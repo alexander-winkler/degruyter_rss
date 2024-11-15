@@ -1,68 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für das Privatrecht der Europäischen Union</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für das Privatrecht der Europäischen Union</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gpr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-frontmatter2105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-frontmatter2105/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-frontmatter2105</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-toc2105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-toc2105/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-toc2105</description>
     </item>
     <item>
       <title>Editorial — Landmark CJEU Judgment on Internal Judicial Independence C-554/21, C-622/21, and C-727/21 (Hann-Invest et al.)</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210501/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210501/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210501</description>
     </item>
     <item>
       <title>Aktuelle Entwicklungen im europäischen Datenrecht</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210502/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210502/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210502</description>
     </item>
     <item>
       <title>Hungarian Case Law Relating to European Private Law (2023–2024)</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210503/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210503/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210503</description>
     </item>
     <item>
       <title>Rezension zu: Mertens, Timon, Accountability im europäischen Datenschutzrecht</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210504/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210504/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210504</description>
     </item>
     <item>
       <title>Anmerkung zu EuGH, Urt. v. 11.1.2024 – C-755/22</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210505/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210505/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210505</description>
     </item>
     <item>
       <title>Der schwerwiegende und nicht geringfügige Mangel nach dem neuen Gewährleistungsrecht – zugleich eine Besprechung zu OGH 9 Ob 41/23d</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210506/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210506/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210506</description>
     </item>
     <item>
       <title>Der polnische Oberste Gerichtshof: Ein Falschfahrer auf der Bahn der EuGH-Rechtsprechung zur Autohaftpflichtversicherung?</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210507/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210507/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210507</description>
     </item>
     <item>
       <title>Europäisches Arbeitsrecht vor dem Gerichtshof der Europäischen Union 2022/2023</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210508/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210508/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210508</description>
     </item>
     <item>
       <title>Stand: 10.9.2024</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210509/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210509/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210509</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210510/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/gpr-2024-210510/html</guid>
+      <description>Article by 
+
+                Page range: r3-r6
+            
+ DOI: https://doi.org/10.9785/gpr-2024-210510</description>
     </item>
   </channel>
 </rss>

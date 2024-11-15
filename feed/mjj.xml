@@ -1,88 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Melilah: Manchester Journal of Jewish Studies (1759-1953)</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Melilah: Manchester Journal of Jewish Studies (1759-1953)</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mjj.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-frontmatter1301/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-frontmatter1301/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-frontmatter1301</description>
     </item>
     <item>
       <title>CONTENTS</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130101/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130101</description>
     </item>
     <item>
       <title>Introduction: Five Decades of Gender in Jewish Studies</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130102/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130102</description>
     </item>
     <item>
       <title>The Joy of Wisdom. An Interview with Judith R. Baskin</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130103/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130103</description>
     </item>
     <item>
       <title>Jewish Gender Studies and Contemporary Literary Criticism</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130104/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130104</description>
     </item>
     <item>
       <title>Response to Ruth Gilbert, “Jewish Gender Studies and Contemporary Literary Criticism”</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130105/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130105</description>
     </item>
     <item>
       <title>The Impact of Gender on Jewish Religious Thought. Exemplar: Jewish Feminist Theology</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130106/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130106</description>
     </item>
     <item>
       <title>A Response to Melissa Raphael and Discussion Points</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130107/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130107</description>
     </item>
     <item>
       <title>Gender and Jewish Law</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130108/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130108</description>
     </item>
     <item>
       <title>A Response to Lisa Fishbayn Joffe and Discussion Points</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130109/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130109/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130109</description>
     </item>
     <item>
       <title>Reflections on Feminist Jewish Approaches to the Bible and the Making of a Feminist Jew in Israel</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130110/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130110/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130110</description>
     </item>
     <item>
       <title>Laughing in the Face of Patriarchy: Genesis Rabbah 17</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130111/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130111/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130111</description>
     </item>
     <item>
       <title>Women and Priests in Tractate Hallah: Gender Readings in Rabbinic Literature</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130112/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130112/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130112</description>
     </item>
     <item>
       <title>Women in Antiquity: From Marginalization to Prominence</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130113/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130113/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130113</description>
     </item>
     <item>
       <title>Jewish “Bad Girls”: Transgressive Narratives and Rebellious Daughters in Contemporary British Jewish Women’s Writings</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130114/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130114/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130114</description>
     </item>
     <item>
       <title>Liquid Love, Trans-Humanism and Eugenics: On Paradoxes in Post- Gender Jewish Feminist Thought</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130115/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mjj-2019-130115/html</guid>
+      <description>Article by Einat Ramon DOI: https://doi.org/10.31826/mjj-2019-130115</description>
     </item>
   </channel>
 </rss>

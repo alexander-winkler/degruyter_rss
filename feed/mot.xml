@@ -1,68 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Mother Tongue</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Mother Tongue</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mot.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Title</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-frontmatter2401/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-frontmatter2401/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-frontmatter2401</description>
     </item>
     <item>
       <title>CONTENTS</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-toc2401/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-toc2401/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-toc2401</description>
     </item>
     <item>
       <title>Memories of Vladimir Antonovič Dybo (1931–2023)</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240101/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240101</description>
     </item>
     <item>
       <title>Memories of Raimo Aulis Anttila (1935–2023)</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240102/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240102</description>
     </item>
     <item>
       <title>In Memory of Raimo Aulis Anttila (1935–2023)</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240103/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240103</description>
     </item>
     <item>
       <title>In Memory of Victor Golla (1939–2021)</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240104/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240104</description>
     </item>
     <item>
       <title>In Memory of Robert Blust (1940–2022)</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240105/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240105</description>
     </item>
     <item>
       <title>Andamanese Languages: Lexicostatistic Comparison</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240106/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240106</description>
     </item>
     <item>
       <title>The Father Tongues L, R and P</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240107/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240107</description>
     </item>
     <item>
       <title>Root Transformations in Proto-Indo-European</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240108/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240108</description>
     </item>
     <item>
       <title>The Dene-Caucasian Macrofamily: Lexicostatistical Classification and Homeland</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240109/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240109/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240109</description>
     </item>
     <item>
       <title>The Association for the Study of Language in Prehistory: Minutes of Meeting of the Board of Directors, October 22, 2023</title>
       <link>https://www.degruyter.com/document/doi/10.31826/mot-2023-240110/html</link>
       <guid>https://www.degruyter.com/document/doi/10.31826/mot-2023-240110/html</guid>
+      <description>Article by 
+
+                Page range: 151-153
+            
+ DOI: https://doi.org/10.31826/mot-2023-240110</description>
     </item>
   </channel>
 </rss>

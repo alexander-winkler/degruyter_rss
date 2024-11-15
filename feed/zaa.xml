@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Anglistik und Amerikanistik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Anglistik und Amerikanistik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-frontmatter2/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-frontmatter2</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2007/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2007</description>
     </item>
     <item>
       <title>The Aesthetics and Politics of Psychotherapy: Literary, Cultural, and Media Perspectives on ‘Healing the Soul’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2008/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2008</description>
     </item>
     <item>
       <title>Psychoanalytic Psychotherapy and the Aesthetics of Serial Narration in The Sopranos (1999–2007)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2009/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2009</description>
     </item>
     <item>
       <title>The Danger of Counter-Transference and Need for Patient Voice in A. M. Homes’s In a Country of Mothers (1993) and Lidia Yuknavitch’s Dora: A Headcase (2012): “Story It”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2010/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2010</description>
     </item>
     <item>
       <title>Towards a Poetics of Trauma and Healing: Hanya Yanagihara’s A Little Life (2015) and Helen Macdonald’s H Is for Hawk (2014)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2011/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2011</description>
     </item>
     <item>
       <title>Theatre and Communal Movement as Forms of Trauma Therapy in Gregory Burke’s Black Watch (2007)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2012/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2012</description>
     </item>
     <item>
       <title>Therapy-as-Theatre: Porosity and Circulations of Feeling in Branden Jacobs-Jenkins’s An Octoroon (2014) and Duncan Macmillan’s Every Brilliant Thing (2013)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2013/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2013</description>
     </item>
     <item>
       <title>Stefanie Schäfer: Yankee Yarns: Storytelling and the Invention of the National Body in Nineteenth-Century American Culture</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2002/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2002</description>
     </item>
     <item>
       <title>Marzia Milazzo: Colorblind Tools: Global Technologies of Racial Power.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2003/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2003</description>
     </item>
     <item>
       <title>Julia Leyda: Anthroposcreens: Mediating the Climate Unconscious</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2004/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2004</description>
     </item>
     <item>
       <title>Alexandra Hartmann: The Black Humanist Tradition in Anti-Racist Literature: A Fragile Hope</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2005/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2005</description>
     </item>
     <item>
       <title>Barbara Buchenau, Jens Martin Gurr, and Maria Sulimma: City Scripts: Narratives of Postindustrial Urban Futures</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2006/html</guid>
+      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2006</description>
     </item>
   </channel>
 </rss>

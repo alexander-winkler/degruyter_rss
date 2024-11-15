@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Jahrbücher für Nationalökonomie und Statistik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Jahrbücher für Nationalökonomie und Statistik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbnst.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-frontmatter4/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2024-frontmatter4</description>
     </item>
     <item>
       <title>Editorial – Special Issue on “Advancing Agent-Based Economics”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-0060/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-0060/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2024-0060</description>
     </item>
     <item>
       <title>A Matter of Values: On the Link Between Economic Performance and Schwartz Human Values</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0065/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0065/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2023-0065</description>
     </item>
     <item>
       <title>Spillover Effects Between the Stock Market and the Real Economy in a Mixed-Frequency Agent-Based Macrofinancial Model</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-0017/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2024-0017</description>
     </item>
     <item>
       <title>Fake News and Asset Price Dynamics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2024-0019/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2024-0019</description>
     </item>
     <item>
       <title>Performance-Based Pay and Limited Information Access. An Agent-Based Model of the Hidden Action Problem</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0101/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2023-0101</description>
     </item>
     <item>
       <title>AKM Effects for German Labour Market Data from 1985 to 2021</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0018/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2023-0018</description>
     </item>
     <item>
       <title>Fostering Excellent Research by the Austrian Micro Data Center (AMDC)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbnst-2023-0043/html</guid>
+      <description>Article by Regina Fuchs, Tobias Göllner, Simon Hartmann, Tobias Thomas DOI: https://doi.org/10.1515/jbnst-2023-0043</description>
     </item>
   </channel>
 </rss>

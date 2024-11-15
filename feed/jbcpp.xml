@@ -1,83 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Basic and Clinical Physiology and Pharmacology</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Basic and Clinical Physiology and Pharmacology</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbcpp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-frontmatter4-5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-frontmatter4-5/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-frontmatter4-5</description>
     </item>
     <item>
       <title>Targeting Rho GTPase regulators in cancer: are we hitting the mark?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2023-0261/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2023-0261/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2023-0261</description>
     </item>
     <item>
       <title>The pitfalls of linear regression in physiological research</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0014/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0014</description>
     </item>
     <item>
       <title>Lipid profile and mortality in patients with pulmonary thromboembolism; a systematic review and meta-analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0085/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0085/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0085</description>
     </item>
     <item>
       <title>IcoSema: unveiling the future of diabetes management from a clinical pharmacology perspective</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0058/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0058/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0058</description>
     </item>
     <item>
       <title>Deucravacitinib: moderate-to-severe plaque psoriasis preventable?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2023-0174/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2023-0174/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2023-0174</description>
     </item>
     <item>
       <title>The key roles of thyroid hormone in mitochondrial regulation, at interface of human health and disease</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0108/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0108</description>
     </item>
     <item>
       <title>Uncovering the coronavirus outbreak: present understanding and future research paths</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0134/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0134/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0134</description>
     </item>
     <item>
       <title>Effects of thyroid hormones in skeletal muscle protein turnover</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0139/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0139/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0139</description>
     </item>
     <item>
       <title>Effect of high-intensity interval training vs. moderate-intensity continuous training on cardiometabolic risk factors in overweight and obese individuals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0112/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0112/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0112</description>
     </item>
     <item>
       <title>Alcohol promotes liver fibrosis in high fat diet induced diabetic rats</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0042/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0042</description>
     </item>
     <item>
       <title>Association between aerobic performance and physiological responses in Yo-Yo intermittent recovery test level 2, and the futsal-specific intermittent endurance test in trained futsal players</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0039/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0039</description>
     </item>
     <item>
       <title>Oral vs. injected: which vitamin D boost works best for low levels?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0018/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0018</description>
     </item>
     <item>
       <title>Effects of an 8-week intervention of anulom vilom pranayama combined with heartfulness meditation on psychological stress, autonomic function, inflammatory biomarkers, and oxidative stress in healthcare workers during COVID-19 pandemic: a randomized controlled trial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0001/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0001</description>
     </item>
     <item>
       <title>Ureteral access sheaths in RIRS: a retrospective, comparative, single-center study</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0142/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbcpp-2024-0142/html</guid>
+      <description>Article by Giuseppe Celentano, Biagio Barone, Roberto La Rocca, Matteo Massanova, Luigi Napolitano, Domenico Prezioso, Marco Abate, Benito Fabio Mirto, Ferdinando Fusco, Felice Crocetto DOI: https://doi.org/10.1515/jbcpp-2024-0142</description>
     </item>
   </channel>
 </rss>

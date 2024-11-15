@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Sport und Gesellschaft</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Sport und Gesellschaft</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sug.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-frontmatter2/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-frontmatter2</description>
     </item>
     <item>
       <title>Editorial: Anthropologie in der Sportwissenschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2015/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2015</description>
     </item>
     <item>
       <title>Widerfahrnisse des Sports. Zum unausgeschöpften Potenzial der philosophischen Anthropologie für die Sportwissenschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2014/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2014</description>
     </item>
     <item>
       <title>Mündigkeit als Hybris? Über implizite Anthropologie und das Ideal des „mündigen Athleten“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2010/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2010</description>
     </item>
     <item>
       <title>Sportliche Bewegung zwischen Verhaltens- und Kulturwissenschaft: von Perspektivität, Vorannahmen, Randbedingungen und intertheoretischen Bändern</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2012/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2012</description>
     </item>
     <item>
       <title>Hans Lenk (1985): Die achte Kunst. Leistungssport – Breitensport. Osnabrück: Fromm.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2013/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2013</description>
     </item>
     <item>
       <title>André Bühler und Gerd Nufer (Hrsg.). (2023): Nachhaltigkeitsmanagement in Sport und Kultur. Grundlagen – Anwendungen – Praxisbeispiele. ESV (434 Seiten, 59,95 Euro).</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2011/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2011</description>
     </item>
     <item>
       <title>Sportsoziologie als Krisenwissenschaft. Bericht zur Jahrestagung der dvs-Sektion Sportsoziologie an der TU Darmstadt, 25. – 27. April 2024</title>
       <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2009/html</guid>
+      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2009</description>
     </item>
   </channel>
 </rss>

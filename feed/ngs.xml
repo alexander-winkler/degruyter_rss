@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>New Global Studies</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in New Global Studies</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ngs.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2024-frontmatter2/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2024-frontmatter2</description>
     </item>
     <item>
       <title>The Effects of the COVID-19 Outbreak on the Global Retail Industry: An Event Study Approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2022-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2022-0043/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2022-0043</description>
     </item>
     <item>
       <title>Of Mountains, Rivers, and Oceans: Geographic Effects on Military Expenditures, 1961–2012</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2022-0057/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2022-0057/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2022-0057</description>
     </item>
     <item>
       <title>Compradors of China’s Global Power: The Colonialization of Hungarian and Nicaraguan Academia through Anti-imperialist Tropes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2022-0056/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2022-0056/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2022-0056</description>
     </item>
     <item>
       <title>Ethical Explorations: AI’s Role in Shaping the Journalism Ecosystem Across Asia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2024-0002/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2024-0002</description>
     </item>
     <item>
       <title>Theodor Tudoroiu: Globalizations from Below: The Normative Power of the World Social Forum, Ant Traders, Chinese Migrants, and Levantine Cosmopolitanism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2023-0010/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2023-0010</description>
     </item>
     <item>
       <title>Peter H. Russell: Sovereignty: The Biography of a Claim</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ngs-2023-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ngs-2023-0033/html</guid>
+      <description>Article by Lauren E. Eastwood DOI: https://doi.org/10.1515/ngs-2023-0033</description>
     </item>
   </channel>
 </rss>

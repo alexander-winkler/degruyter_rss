@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Communications</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Communications</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/comm.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2024-frontmatter4/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2024-frontmatter4</description>
     </item>
     <item>
       <title>Does credibility become trivial when the message is right? Populist radical-right attitudes, perceived message credibility, and the spread of disinformation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0024/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0024</description>
     </item>
     <item>
       <title>Can media literacy help to promote civic participation? It’s not quite that simple</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0029/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0029</description>
     </item>
     <item>
       <title>Media malaise or mobilization during repeat elections? Evidence from Israel’s three consecutive rounds of elections (2019–2020)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0041/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0041</description>
     </item>
     <item>
       <title>Ageing bodies and beauty in selected Polish women’s magazines</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0043/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0043</description>
     </item>
     <item>
       <title>Viral challenges as a digital entertainment phenomenon among children. Perceptions, motivations and critical skills of minors</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0044/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0044</description>
     </item>
     <item>
       <title>Attention capital in populist network communication: When the free labour of citizens maintains the spiral of attention</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0050/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0050</description>
     </item>
     <item>
       <title>Emerging adults’ food media experiences: Preferences, opportunities, and barriers for food literacy promotion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0051/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0051</description>
     </item>
     <item>
       <title>Cognitio populi – Vox populi: Implications of science-related populism for communication behavior</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0059/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0059</description>
     </item>
     <item>
       <title>Deficits and biases in the leading German press coverage of the Greek sovereign debt crisis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2022-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2022-0064/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2022-0064</description>
     </item>
     <item>
       <title>Evans, C., &amp; Lundgren, L. (2023). No heavenly bodies: A history of satellite communications infrastructure. MIT Press, 256 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2024-0031/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2024-0031</description>
     </item>
     <item>
       <title>Moreno-Castro, C., Krzewińska A., &amp; Dzimińska, M. (Eds.) (2024). How citizens view science communication: Pathways to knowledge. Routledge, 172 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2024-0075/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2024-0075/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2024-0075</description>
     </item>
     <item>
       <title>Araujo, T., &amp; Neijens, P. (Eds.) (2024). Communication research into the digital society. Amsterdam: Amsterdam University Press. 274 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/commun-2024-0082/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/commun-2024-0082/html</guid>
+      <description>Article by Aldi Fatriadi, Alem Febri Sonni, Sudirman Karnay, Nur Annisa DOI: https://doi.org/10.1515/commun-2024-0082</description>
     </item>
   </channel>
 </rss>

@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Physical Sciences Reviews</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Physical Sciences Reviews</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2024-frontmatter10/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2024-frontmatter10/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2024-frontmatter10</description>
     </item>
     <item>
       <title>Biopolymeric conjugation with metals and their applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0189/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0189/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0189</description>
     </item>
     <item>
       <title>Itaconic acid: microbial production using organic wastes as cost-effective substrates</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0164/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0164/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0164</description>
     </item>
     <item>
       <title>Global organic acids production and their industrial applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0157/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0157/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0157</description>
     </item>
     <item>
       <title>Book 1. Biopolymer conjugates industrial applications Chapter 1. Biopolymeric conjugation with thermoplastics and applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0180/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0180/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0180</description>
     </item>
     <item>
       <title>Continuous biomanufacturing in upstream and downstream processing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0106/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0106</description>
     </item>
     <item>
       <title>In situ product removal</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0111/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0111/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0111</description>
     </item>
     <item>
       <title>Biopolymeric conjugation with polynucleotides and applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0184/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0184/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0184</description>
     </item>
     <item>
       <title>Intensification of bioprocesses – definition, examples, challenges and future directions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0101/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0101</description>
     </item>
     <item>
       <title>The workshops on computational applications in secondary metabolite discovery (CAiSMD)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2024-0015/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2024-0015</description>
     </item>
     <item>
       <title>Green chemistry: current status and challenges in Zimbabwe</title>
       <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0202/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0202/html</guid>
+      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0202</description>
     </item>
   </channel>
 </rss>

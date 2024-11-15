@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Linguistics Vanguard</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Linguistics Vanguard</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lingvan.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-frontmatters3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-frontmatters3/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-frontmatters3</description>
     </item>
     <item>
       <title>Introduction to the special collection on public outreach in linguistics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0119/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0119/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0119</description>
     </item>
     <item>
       <title>To go big, we have to go home: building foundations for the future of community-engaged and public-facing research in linguistics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2023-0154/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2023-0154/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2023-0154</description>
     </item>
     <item>
       <title>Towards a theory of linguistic curiosity: applying linguistic frameworks to lingcomm and scicomm</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0073/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0073</description>
     </item>
     <item>
       <title>Linguistic discrimination and diversity: the pivotal role of linguistics in the University of Pennsylvania’s writing program</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0075/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0075/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0075</description>
     </item>
     <item>
       <title>Using constructed languages to introduce and teach linguistics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0091/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0091/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0091</description>
     </item>
     <item>
       <title>“Science is in everything, whether we realize it or not”: using the IPA to encourage interest in the scientific study of language</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0071/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0071/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0071</description>
     </item>
     <item>
       <title>Bridging linguistics and high school students: the example of Noorlingvistide keeleklubi in Estonia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0092/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0092/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0092</description>
     </item>
     <item>
       <title>The Linguistics Roadshow</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0122/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0122/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0122</description>
     </item>
     <item>
       <title>The Language Science Station at Planet Word: a language research and engagement laboratory at a language museum</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0077/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0077/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0077</description>
     </item>
     <item>
       <title>The moving project: exploring language, migration, and identity using participatory podcasting during the COVID-19 pandemic</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0082/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0082/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0082</description>
     </item>
     <item>
       <title>Talk about testimony: courtroom dialogue as racialized interactions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0118/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0118/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0118</description>
     </item>
     <item>
       <title>Language science outreach through schools and social media: critical considerations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0078/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/lingvan-2024-0078/html</guid>
+      <description>Article by Lillianna Righter, Hallie Garrison, Elika Bergelson DOI: https://doi.org/10.1515/lingvan-2024-0078</description>
     </item>
   </channel>
 </rss>

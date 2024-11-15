@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Globalization and Development </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Globalization and Development </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgd.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgd-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2024-frontmatter1/html</guid>
+      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2024-frontmatter1</description>
     </item>
     <item>
       <title>Reforming the IMF Surcharge Rate Policy to Avoid Procyclical Lending</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgd-2024-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2024-0051/html</guid>
+      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2024-0051</description>
     </item>
     <item>
       <title>Grassroots Organizations and Women’s Empowerment in a Post-Conflict Region: Evidence from Women Organizations in Northern Uganda</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgd-2022-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2022-0062/html</guid>
+      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2022-0062</description>
     </item>
     <item>
       <title>Income Inequality and External Wealth of Nations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0042/html</guid>
+      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2023-0042</description>
     </item>
     <item>
       <title>Analyzing the Impact of Informal Labor Sector Regulation in the Context of International Trade: A Theoretical Approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0070/html</guid>
+      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2023-0070</description>
     </item>
   </channel>
 </rss>

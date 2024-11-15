@@ -1,88 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal der Juristischen Zeitgeschichte</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal der Juristischen Zeitgeschichte</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjzg.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-frontmatter3/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-frontmatter3</description>
     </item>
     <item>
       <title>Vor 85 Jahren: Die Südtiroler Option, die der Definition nach eigentlich keine Option war</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0029/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0029</description>
     </item>
     <item>
       <title>Das Fürchten lernen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0030/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0030</description>
     </item>
     <item>
       <title>Kelsen im Kontext. Beiträge zum Werk Hans Kelsens und geistesverwandter Autoren</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0031/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0031</description>
     </item>
     <item>
       <title>Der Deutsche Juristentag 1933. Die kumulative Selbstmobilisierung der juristischen Professionselite in der Formierungsphase des NS-Regimes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0032/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0032</description>
     </item>
     <item>
       <title>Zweierlei Zugehörigkeit. Der jüdische Kommunist Leo Zuckermann und der Holocaust</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0033/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0033</description>
     </item>
     <item>
       <title>Das Vermächtnis des Staatsstreichs vom 20</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0034/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0034</description>
     </item>
     <item>
       <title>Ursprünge der richterlichen Normenkontrolle im Verfassungsrecht der Vereinigten Staaten, 1761–1803</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0035/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0035</description>
     </item>
     <item>
       <title>Politische Skandale und politische Macht</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0036/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0036</description>
     </item>
     <item>
       <title>Des Lebens Überfluß. Erinnerungen eines ausgewanderten Juristen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0037/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0037</description>
     </item>
     <item>
       <title>Nordrhein-Westfalen und der Imperialismus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0038/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0038</description>
     </item>
     <item>
       <title>Die Kritische Vierteljahresschrift für Gesetzgebung und Rechtswissenschaft während des Nationalsozialismus 1933–1944</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0039/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0039</description>
     </item>
     <item>
       <title>„… und am Himmel standen die Sterne, aber wir sahen sie nicht“ – Die Kontroversen um „Der Müll, die Stadt und der Tod“ von Rainer Werner Fassbinder</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0040/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0040</description>
     </item>
     <item>
       <title>Westeigentum in der DDR</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0041/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0041</description>
     </item>
     <item>
       <title>Für Kirche, Staat und Gesellschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0042/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0042</description>
     </item>
     <item>
       <title>„Die Freiheit geschieht nicht an uns, sie geschieht durch uns.“, Richard von Weizsäcker und die deutsche Politik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjzg-2024-0043/html</guid>
+      <description>Article by Andreas Raffeiner DOI: https://doi.org/10.1515/jjzg-2024-0043</description>
     </item>
   </channel>
 </rss>

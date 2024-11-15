@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Chinese Semiotic Studies</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Chinese Semiotic Studies</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-frontmatter3/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-frontmatter3</description>
     </item>
     <item>
       <title>Peirce’s philosophy of language</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2025/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2025</description>
     </item>
     <item>
       <title>Open community in Peirce’s pragmatism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2020/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2020</description>
     </item>
     <item>
       <title>Pragmatism, logic, and manuscript R318</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2021/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2021</description>
     </item>
     <item>
       <title>The relation of Peirce’s abduction to inference to the best explanation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2022/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2022</description>
     </item>
     <item>
       <title>The role of the normative sciences in the evolution of Peirce’s pragmatism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2023/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2023</description>
     </item>
     <item>
       <title>Football statues and semiotics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2024/html</guid>
+      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2024</description>
     </item>
   </channel>
 </rss>

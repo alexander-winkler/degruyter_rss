@@ -1,93 +1,112 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Materials Testing</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Materials Testing</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mt.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-frontmatter11/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-frontmatter11</description>
     </item>
     <item>
       <title>Crushing performance of an additively manufactured bio-inspired hybrid energy absorption profile</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0253/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0253/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0253</description>
     </item>
     <item>
       <title>Implant bone screw characteristics of a printed PLA-based material</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0261/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0261/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0261</description>
     </item>
     <item>
       <title>Effect of deformation on the mechanical property of reduced activation ferritic/martensitic steel refined by closed-dual equal channel angular pressing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0027/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0027</description>
     </item>
     <item>
       <title>Effect of post-oxidation times in the nitrocarburizing process on the wear behavior of an AISI 4140 steel</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0062/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0062</description>
     </item>
     <item>
       <title>Production of (B4C+FeTi) reinforced and Fe based composites by mechanical alloying</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0155/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0155/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0155</description>
     </item>
     <item>
       <title>Tensile strength of friction stir additive manufactured laminated AA 6061/TiC/GS composites</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0073/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0073</description>
     </item>
     <item>
       <title>Microstructure evolution of AlSi10Mg alloy in RAP process</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0078/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0078/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0078</description>
     </item>
     <item>
       <title>Wear behaviour of titanium diboride and zirconium carbide reinforced LM13 hybrid composite for automotive applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0143/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0143/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0143</description>
     </item>
     <item>
       <title>Influence of post heat treatment on tribological and microstructural properties of plasma wire arc additive manufactured maraging steels</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0273/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0273/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0273</description>
     </item>
     <item>
       <title>Artificial neural network infused quasi oppositional learning partial reinforcement algorithm for structural design optimization of vehicle suspension components</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0186/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0186/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0186</description>
     </item>
     <item>
       <title>Optimization of vehicle conceptual design problems using an enhanced hunger games search algorithm</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0151/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0151/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0151</description>
     </item>
     <item>
       <title>Optimization of vehicle crashworthiness problems using recent twelve metaheuristic algorithms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0187/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0187/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0187</description>
     </item>
     <item>
       <title>Development of zeolite 5A-incorporated polyvinyl alcohol membrane for desalination by pervaporation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0211/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0211/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0211</description>
     </item>
     <item>
       <title>Characterization of bauxite residue filled sisal/glass fiber reinforced hybrid composites for structural applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0162/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0162/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0162</description>
     </item>
     <item>
       <title>Microstructure and mechanical properties of Al2O3/AZ61 Mg alloy surface composite developed using friction stir processing and groove reinforcement filling processes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0132/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0132/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0132</description>
     </item>
     <item>
       <title>Method for the design and evaluation of binary sensitivity tests</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0176/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0176/html</guid>
+      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0176</description>
     </item>
   </channel>
 </rss>

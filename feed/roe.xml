@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Review of Economics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Review of Economics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roe.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roe-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roe-2024-frontmatter1/html</guid>
+      <description>Article by Joachim Wagner DOI: https://doi.org/10.1515/roe-2024-frontmatter1</description>
     </item>
     <item>
       <title>HWWI Commodity Price Index: A Technical Documentation of the 2023 Revision</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roe-2023-0109/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roe-2023-0109/html</guid>
+      <description>Article by Joachim Wagner DOI: https://doi.org/10.1515/roe-2023-0109</description>
     </item>
     <item>
       <title>Peering Through the Fog of Uncertainty: Out-of-Sample Forecasts of Post-Pandemic Tourism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roe-2023-0110/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roe-2023-0110/html</guid>
+      <description>Article by Joachim Wagner DOI: https://doi.org/10.1515/roe-2023-0110</description>
     </item>
     <item>
       <title>Does the Design of Welfare Programs Stipulate Nursing Home Utilization? A Comparative Analysis of Long-Term Care Systems in Japan and Germany</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roe-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roe-2024-0011/html</guid>
+      <description>Article by Joachim Wagner DOI: https://doi.org/10.1515/roe-2024-0011</description>
     </item>
     <item>
       <title>Exports and Firm Survival in Times of COVID-19 – Evidence from Eight European Countries</title>
       <link>https://www.degruyter.com/document/doi/10.1515/roe-2023-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/roe-2023-0095/html</guid>
+      <description>Article by Joachim Wagner DOI: https://doi.org/10.1515/roe-2023-0095</description>
     </item>
   </channel>
 </rss>

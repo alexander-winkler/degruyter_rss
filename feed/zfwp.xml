@@ -1,48 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Wirtschaftspolitik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Wirtschaftspolitik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfwp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-frontmatter3/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-frontmatter3</description>
     </item>
     <item>
       <title>Ein Plädoyer für finanzielle Bildung als Voraussetzung für nachhaltige Finanzen und Nachhaltigkeit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2015/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-2015</description>
     </item>
     <item>
       <title>„STREIK – Ein gutes Recht?“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2020/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-2020</description>
     </item>
     <item>
       <title>Gewerkschaften und Streiks aus einer ökonomisch-spieltheoretischen Perspektive</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2017/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-2017</description>
     </item>
     <item>
       <title>Streik und Ultima-Ratio: Was bringt eine obligatorische Schlichtung von Tarifkonflikten?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2018/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-2018</description>
     </item>
     <item>
       <title>Die Beschäftigten erheben die Stimme – zu recht!</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2019/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-2019</description>
     </item>
     <item>
       <title>Entlastungsbetrag für Alleinerziehende: Verteilungswirkungen aktuell und bei Weiterentwicklung in einen Abzug von der Steuerschuld</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-2016/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-2016</description>
     </item>
     <item>
       <title>Inhaltsverzeichnis 73. Jahrgang 2024</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-0198/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zfwp-2024-0198/html</guid>
+      <description>Article by 
+
+                Page range: 260-262
+            
+ DOI: https://doi.org/10.1515/zfwp-2024-0198</description>
     </item>
   </channel>
 </rss>

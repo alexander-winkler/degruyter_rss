@@ -1,48 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für germanistische Linguistik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für germanistische Linguistik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-frontmatter2/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-frontmatter2</description>
     </item>
     <item>
       <title>Von der Flexion in die Wortbildung und darüber hinaus. Zur diachronen Entwicklung des s-Suffixes im Deutschen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2013/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2013</description>
     </item>
     <item>
       <title>Ellipse und Satz als Elemente einer gemeinsamen strukturellen Domäne. Zu einem syntaktischen Verwandtschaftsverhältnis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2014/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2014</description>
     </item>
     <item>
       <title>„Himmel welcher Schimpf! (…) Ich ein Schneider?“ – Nicht-finite Prädikationskonstruktionen (NFPK) in Dramen des Barock, der Aufklärung, des Sturm und Drang und der Klassik als Inszenierungsverfahren von Emotionalität</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2015/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2015</description>
     </item>
     <item>
       <title>Zur Diskussion: Deutung und Umdeutung am Beispiel von Epizönum, Genus und Implikatur. Die Genderdebatte in der germanistischen Linguistik lässt begriffliche Klarheit vermissen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2016/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2016</description>
     </item>
     <item>
       <title>Edukatorische Dimensionen der Gesundheitskommunikation. Tagungsbericht zur 7. Transdisziplinären Fachtagung des Netzwerks Gesundheitskommunikation (20.–21.10.2023)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2017/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2017</description>
     </item>
     <item>
       <title>Künstliche Intelligenz und Schreiben in (hoch-)schulischen Kontexten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2018/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2018</description>
     </item>
     <item>
       <title>Zeitschriftenschau</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2019/html</guid>
+      <description>Article by 
+
+                Page range: 405-410
+            
+ DOI: https://doi.org/10.1515/zgl-2024-2019</description>
     </item>
   </channel>
 </rss>

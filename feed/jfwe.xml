@@ -1,118 +1,230 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Jahrbuch für Wissenschaft und Ethik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Jahrbuch für Wissenschaft und Ethik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jfwe.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-frontmatter2401/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-frontmatter2401/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-frontmatter2401</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-toc/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-toc/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-toc</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0001/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0001</description>
     </item>
     <item>
       <title>Menschenbild und Ethik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0002/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0002</description>
     </item>
     <item>
       <title>Transzendentaler Humanismus?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0003/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0003</description>
     </item>
     <item>
       <title>Das Arbeitsrecht der Kirchen im Gesundheits- und Sozialwesen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0004/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0004</description>
     </item>
     <item>
       <title>Einleitung: Forensische DNA-Phänotypisierung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0005/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0005</description>
     </item>
     <item>
       <title>Interdisziplinäre Überlegungen zu Erweiterten DNA-Analysen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0006/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0006</description>
     </item>
     <item>
       <title>Shifting Ethical Boundaries in Forensic Use of DNA</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0007/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0007</description>
     </item>
     <item>
       <title>Komplexe Opfersituation und forensische DNA-Phänotypisierung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0008/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0008</description>
     </item>
     <item>
       <title>Öffentliche Sicherheit und Diskriminierung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0009/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0009</description>
     </item>
     <item>
       <title>Statement Issued by the Spanish Bioethics Committee on Genome Editing in Humans</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0010/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0010</description>
     </item>
     <item>
       <title>Genetically Modified Babies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0011/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0011</description>
     </item>
     <item>
       <title>Genome Editing and Human Reproduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0012/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0012</description>
     </item>
     <item>
       <title>Planbare Schwangerschaft – perfektes Kind?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0013/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0013</description>
     </item>
     <item>
       <title>Hinweise und Empfehlungen zum Umgang mit Vorsorgevollmachten und Patientenverfügungen im ärztlichen Alltag</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0014/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0014</description>
     </item>
     <item>
       <title>Roboter in der Betreuung alter Menschen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0015/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0015</description>
     </item>
     <item>
       <title>Finanzierung medizinischer Leistungen im Gefängnis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0016/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0016</description>
     </item>
     <item>
       <title>Future of Work, Future of Society</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0017/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0017</description>
     </item>
     <item>
       <title>Recommendations for the Investigation of Research Misconduct</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0018/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0018</description>
     </item>
     <item>
       <title>Verzeichnis der Autorinnen, Autoren und Organisationen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0019/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0019</description>
     </item>
     <item>
       <title>Hinweise für Autorinnen und Autoren</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jwiet-2019-0020/html</guid>
+      <description>Article by 
+
+                Page range: 465-466
+            
+ DOI: https://doi.org/10.1515/jwiet-2019-0020</description>
     </item>
   </channel>
 </rss>

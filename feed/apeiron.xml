@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Apeiron</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Apeiron</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-frontmatter3/html</guid>
+      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2024-frontmatter3</description>
     </item>
     <item>
       <title>Zalmoxis’ Medical Holism in the Charmides</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0098/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0098/html</guid>
+      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2023-0098</description>
     </item>
     <item>
       <title>Parmenides and the Origins of the Heavenly Sphere in Ancient Greek Cosmology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0110/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0110/html</guid>
+      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2023-0110</description>
     </item>
     <item>
       <title>The Limits of Plato’s Test</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-0026/html</guid>
+      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2024-0026</description>
     </item>
     <item>
       <title>Between Saying and Doing: Aristotle and Speusippus on the Evaluation of Pleasure</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0024/html</guid>
+      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2023-0024</description>
     </item>
     <item>
       <title>Human Ontogeny in Aristotle and Theophrastus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2022-0116/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2022-0116/html</guid>
+      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2022-0116</description>
     </item>
   </channel>
 </rss>

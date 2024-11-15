@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Corpus Linguistics and Linguistic Theory</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Corpus Linguistics and Linguistic Theory</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-frontmatter3/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-frontmatter3</description>
     </item>
     <item>
       <title>CLLT ‘versus’ Corpora and IJCL: a (half serious) keyness analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0050/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0050</description>
     </item>
     <item>
       <title>Corpus linguistics meets historical linguistics and construction grammar: how far have we come, and where do we go from here?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0009/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0009</description>
     </item>
     <item>
       <title>Register and the dual nature of functional correspondence: accounting for text-linguistic variation between registers, within registers, and without registers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0011/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0011</description>
     </item>
     <item>
       <title>Corpus-based discourse analysis: from meta-reflection to accountability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2023-0104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2023-0104/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2023-0104</description>
     </item>
     <item>
       <title>Learner corpus research: a critical appraisal and roadmap for contributing (more) to SLA research agendas</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0014/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0014</description>
     </item>
     <item>
       <title>Corpus linguistics and the social sciences</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0036/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0036</description>
     </item>
     <item>
       <title>The wompom</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0053/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0053/html</guid>
+      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0053</description>
     </item>
   </channel>
 </rss>

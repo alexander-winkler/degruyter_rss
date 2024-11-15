@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Pure and Applied Chemistry</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Pure and Applied Chemistry</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pac.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-frontmatter11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-frontmatter11/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-frontmatter11</description>
     </item>
     <item>
       <title>In this issue</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-graphabs11/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-graphabs11/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-graphabs11</description>
     </item>
     <item>
       <title>Terms of Latin origin relating to sample characterization (IUPAC Technical Report)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2022-1103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2022-1103/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2022-1103</description>
     </item>
     <item>
       <title>Glossary of terms used in biochar research (IUPAC Technical Report)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2021-0106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2021-0106/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2021-0106</description>
     </item>
     <item>
       <title>Properties and units in the clinical laboratory sciences. Part XXVIII. NPU codes for characterizing subpopulations of the hematopoietic lineage, described from their clusters of differentiation molecules (IUPAC Technical Report)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2023-0806/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2023-0806/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2023-0806</description>
     </item>
     <item>
       <title>Milk protein polymorphisms of Aosta Valley cattle breeds</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2023-0014/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2023-0014</description>
     </item>
     <item>
       <title>Capabilities and drawbacks of mass spectrometry in the forensic field: analysis of real cases dealing with toxicology and explosives</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0026/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0026</description>
     </item>
     <item>
       <title>Mapping the distribution of bioactive compounds and aroma/flavour precursors in green coffee beans with an integrated mass spectrometry-based approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0210/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0210/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0210</description>
     </item>
     <item>
       <title>Fire fighters and mass spectrometry: from the world of combustion to the molecular ion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0020/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0020</description>
     </item>
     <item>
       <title>Method development for multielement determination of halogens and sulfur in teas</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0219/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0219/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0219</description>
     </item>
     <item>
       <title>A brief history of risk assessment for agrochemicals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0215/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0215/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0215</description>
     </item>
     <item>
       <title>Capture of volatile iodine by aromatic amines solutions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0205/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0205/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0205</description>
     </item>
     <item>
       <title>Facile and green hydrothermal synthesis of MgAl/NiAl/ZnAl layered double hydroxide nanosheets: a physiochemical comparison</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0014/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0014</description>
     </item>
     <item>
       <title>Production of oil palm mesocarp fiber-based hydrogel using selected cross-linking acids</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pac-2024-0208/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pac-2024-0208/html</guid>
+      <description>Article by Soek Sin Teh, Harrison Lik Nang Lau, Siau Hui Mah DOI: https://doi.org/10.1515/pac-2024-0208</description>
     </item>
   </channel>
 </rss>

@@ -1,23 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Muslim World Journal of Human Rights</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Muslim World Journal of Human Rights</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mwjhr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mwjhr-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mwjhr-2024-frontmatter1/html</guid>
+      <description>Article by Mehmood Hussain DOI: https://doi.org/10.1515/mwjhr-2024-frontmatter1</description>
     </item>
     <item>
       <title>Defending ‘Islamic Belief’ Against Discrimination: Religious Minority Group Discourse in Indonesia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mwjhr-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mwjhr-2023-0004/html</guid>
+      <description>Article by Mehmood Hussain DOI: https://doi.org/10.1515/mwjhr-2023-0004</description>
     </item>
     <item>
       <title>From Abrogation to Dominion: Navigating India’s Neo-Colonial Settler Agenda in Kashmir and Elimination of Kashmiri Identity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mwjhr-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mwjhr-2023-0006/html</guid>
+      <description>Article by Mehmood Hussain DOI: https://doi.org/10.1515/mwjhr-2023-0006</description>
     </item>
   </channel>
 </rss>

@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Rhizomata</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Rhizomata</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhiz.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-frontmatter1/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-frontmatter1</description>
     </item>
     <item>
       <title>Anaximander on basic substances and the desiccation of the sea</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0001/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0001</description>
     </item>
     <item>
       <title>Commensuration and Currency in Plato’s Phaedo</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0002/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0002</description>
     </item>
     <item>
       <title>Plato on the Power of Dialectic and the Necessity of Forms</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0003/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0003</description>
     </item>
     <item>
       <title>The Distinction between Chance and Fortune. Arist. Phys. II.6</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0004/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0004</description>
     </item>
     <item>
       <title>On the So-called Focal Analysis of Friendship in Eudemian Ethics VII.2</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0005/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0005</description>
     </item>
     <item>
       <title>Plínio Junqueira Smith, Sextus Empiricus’ Neo-Pyrrhonism: Skepticism as a Rationally Ordered Experience. Cham: Springer, 2022, xvi + 372 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0007/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0007</description>
     </item>
     <item>
       <title>Andrea Nightingale, Philosophy and Religion in Plato’s Dialogues. Cambridge University Press, Cambridge 2021. xii + 296 pp, ISBN 978-1108837309, US $ 39.99.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0008/html</guid>
+      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0008</description>
     </item>
   </channel>
 </rss>

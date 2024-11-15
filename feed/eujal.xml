@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>European Journal of Applied Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in European Journal of Applied Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eujal.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2024-frontmatter2/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2024-frontmatter2</description>
     </item>
     <item>
       <title>Co-constructing devices in narrative sequences of multilingual preschool children</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0057/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0057/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0057</description>
     </item>
     <item>
       <title>Exploring multilingual writers in secondary education: insights from a trilingual corpus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2023-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2023-0022/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2023-0022</description>
     </item>
     <item>
       <title>Vocabulary Instruction in Textbooks of Italian as a Foreign Language: A Descriptive Analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0034/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0034</description>
     </item>
     <item>
       <title>Passive Sentences and Abstract Agents in German School Books</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0036/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0036</description>
     </item>
     <item>
       <title>When correct spelling hardly matters: Teenagers’ production and perception of spelling error corrections in Dutch social media writing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0028/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0028</description>
     </item>
     <item>
       <title>The teachers’ perspective on teaching languages to Polish seniors</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2023-0004/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2023-0004</description>
     </item>
     <item>
       <title>The use of the semi-lexical word ‘while’ by non-native (Polish) and native users of English based on corpora studies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0049/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0049</description>
     </item>
     <item>
       <title>Illuminating the Impacts of Contextual Diversity on L2 Writing Proficiency: A Corpus-Based Analysis in the Measures of Linguistic Complexity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0004/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0004</description>
     </item>
     <item>
       <title>Second Language Learners Listening to their Peers: Is There a Shared L1 Effect for L2 Comprehensibility and Accentedness?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0014/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0014</description>
     </item>
     <item>
       <title>Some good news for the school: the levelling effect of the EFL class in FL vocabulary production and FL categorization of autochthonous learners and heritage speaker learners</title>
       <link>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/eujal-2022-0045/html</guid>
+      <description>Article by María-del-Pilar Agustín-Llach DOI: https://doi.org/10.1515/eujal-2022-0045</description>
     </item>
   </channel>
 </rss>

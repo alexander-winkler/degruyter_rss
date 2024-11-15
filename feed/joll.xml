@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Latin Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Latin Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joll.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joll-2023-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joll-2023-frontmatter2/html</guid>
+      <description>Article by Chiara Repetti-Ludlow DOI: https://doi.org/10.1515/joll-2023-frontmatter2</description>
     </item>
     <item>
       <title>From deceit to pain: Late Latin dolus and the interplay between semantics and analogy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joll-2023-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joll-2023-2007/html</guid>
+      <description>Article by Chiara Repetti-Ludlow DOI: https://doi.org/10.1515/joll-2023-2007</description>
     </item>
     <item>
       <title>Future expressions in a sixth-century Latin translation of Josephus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joll-2023-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joll-2023-2006/html</guid>
+      <description>Article by Chiara Repetti-Ludlow DOI: https://doi.org/10.1515/joll-2023-2006</description>
     </item>
     <item>
       <title>Iterative or stative? New morphosemantic analyses of Latin lūgeō ‘mourn’ and doleō ‘feel pain’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joll-2023-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joll-2023-2004/html</guid>
+      <description>Article by Chiara Repetti-Ludlow DOI: https://doi.org/10.1515/joll-2023-2004</description>
     </item>
     <item>
       <title>Roman tablets as linguistic corpora: evidence for phonological variation in 2nd c. Latin</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joll-2023-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joll-2023-2005/html</guid>
+      <description>Article by Chiara Repetti-Ludlow DOI: https://doi.org/10.1515/joll-2023-2005</description>
     </item>
   </channel>
 </rss>

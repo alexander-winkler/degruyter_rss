@@ -1,103 +1,124 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Diagnosis</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Diagnosis</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-frontmatter4/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-frontmatter4</description>
     </item>
     <item>
       <title>Should APTT become part of thrombophilia screening?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0086/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0086/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0086</description>
     </item>
     <item>
       <title>n-3 fatty acids and the risk of atrial fibrillation, review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0077/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0077/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0077</description>
     </item>
     <item>
       <title>Root cause analysis of cases involving diagnosis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0102/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0102</description>
     </item>
     <item>
       <title>What is diagnostic safety? A review of safety science paradigms and rethinking paths to improving diagnosis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0008/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0008</description>
     </item>
     <item>
       <title>Interprofessional clinical reasoning education</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0059/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0059</description>
     </item>
     <item>
       <title>Quality of heart failure registration in primary care: observations from 1 million electronic health records in the Amsterdam Metropolitan Area</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0009/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0009</description>
     </item>
     <item>
       <title>Typology of solutions addressing diagnostic disparities: gaps and opportunities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0026/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0026</description>
     </item>
     <item>
       <title>Diagnostic errors and characteristics of patients seen at a general internal medicine outpatient clinic with a referral for diagnosis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0041/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0041</description>
     </item>
     <item>
       <title>Cost-benefit considerations of the biased diagnostician</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0031/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0031</description>
     </item>
     <item>
       <title>Delayed diagnosis of new onset pediatric diabetes leading to diabetic ketoacidosis: a retrospective cohort study</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0024/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0024</description>
     </item>
     <item>
       <title>Monocyte distribution width (MDW) kinetic for monitoring sepsis in intensive care unit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0019/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0019</description>
     </item>
     <item>
       <title>Are shortened aPTT values always to be attributed only to preanalytical problems?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0050/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0050</description>
     </item>
     <item>
       <title>External Quality Assessment (EQA) scheme for serological diagnostic test for SARS-CoV-2 detection in Sicily Region (Italy), in the period 2020–2022</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0048/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0048</description>
     </item>
     <item>
       <title>Recent mortality rates due to complications of medical and surgical care in the US</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0071/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0071/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0071</description>
     </item>
     <item>
       <title>The potential, limitations, and future of diagnostics enhanced by generative artificial intelligence</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0095/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0095</description>
     </item>
     <item>
       <title>Lessons in clinical reasoning – pitfalls, myths, and pearls: a case of persistent dysphagia and patient partnership</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0061/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0061/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0061</description>
     </item>
     <item>
       <title>The ‘curse of knowledge’: when medical expertise can sometimes be a liability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0064/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0064</description>
     </item>
     <item>
       <title>A new approach for identifying innate immune defects</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0107/html</guid>
+      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0107</description>
     </item>
   </channel>
 </rss>

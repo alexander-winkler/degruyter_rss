@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Preservation, Digital Technology &amp; Culture (PDT&amp;C)</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Preservation, Digital Technology &amp; Culture (PDT&amp;C)</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-frontmatter3/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-frontmatter3</description>
     </item>
     <item>
       <title>Going Beyond Digital Preservation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-2001/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-2001</description>
     </item>
     <item>
       <title>Historical Depictions, Archaeological Practices, and the Construct of Cultural Heritage in Commercial Video Games: The Role of These Games in Raising Awareness</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0028/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0028</description>
     </item>
     <item>
       <title>Digital is Not the Alternative: Dilemma and Preserving Films in India</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0020/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0020</description>
     </item>
     <item>
       <title>Digital Transformation of Archives in the Context of the Introduction of an Electronic Document Management System in Kazakhstan</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0017/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0017</description>
     </item>
     <item>
       <title>Cultural Preservation Through Immersive Technology: The Metaverse as a Pathway to the Past</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0015/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0015</description>
     </item>
     <item>
       <title>The Function of Digital Technology in Minority Language Preservation: The Case of the Gyalrong Tibetan Language</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0021/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0021</description>
     </item>
     <item>
       <title>What Needs to be Learned by U.S. Cultural Heritage Professionals? Results from the Digital Preservation Outreach &amp; Education Network</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0024/html</guid>
+      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0024</description>
     </item>
   </channel>
 </rss>

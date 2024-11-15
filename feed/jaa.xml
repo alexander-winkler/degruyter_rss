@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Applied Analysis</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Applied Analysis</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jaa.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2024-frontmatter1/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2024-frontmatter1</description>
     </item>
     <item>
       <title>New analytical technique to solve fractional-order Sharma–Tasso–Olver differential equation using Caputo and Atangana–Baleanu derivative operators</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0043/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0043/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0043</description>
     </item>
     <item>
       <title>Nondensely defined partial neutral functional integrodifferential equations with infinite delay under the light of integrated resolvent operators</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0051/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0051</description>
     </item>
     <item>
       <title>On the number of limit cycles coming from a uniform isochronous center with continuous and discontinuous quartic perturbations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0018/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0018</description>
     </item>
     <item>
       <title>On ℐ2(𝒮θ
@@ -32,71 +38,85 @@ p,r
 of double sequences in neutrosophic normed spaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0041/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0041</description>
     </item>
     <item>
       <title>Earthquake convexity and some new related inequalities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0046/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0046/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0046</description>
     </item>
     <item>
       <title>On λ-statistically φ-convergence</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0032/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0032</description>
     </item>
     <item>
       <title>Multivalued relation-theoretic weak contractions and applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0085/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0085/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0085</description>
     </item>
     <item>
       <title>Titchmarsh’s theorem with moduli of continuity in Laguerre hypergroup</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0035/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0035</description>
     </item>
     <item>
       <title>Application of Touchard wavelet to simulate numerical solutions to fractional pantograph differential equations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0029/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0029</description>
     </item>
     <item>
       <title>Existence and linear independence theorem for linear fractional differential equations with constant coefficients</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0009/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0009</description>
     </item>
     <item>
       <title>A study on δ‐ℐ‐compactness in a mixed fuzzy ideal topological space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0163/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0163/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0163</description>
     </item>
     <item>
       <title>Lie symmetry, exact solutions and conservation laws of time fractional Black–Scholes equation derived by the fractional Brownian motion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0107/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0107</description>
     </item>
     <item>
       <title>On statistical convergence of order α of sequences in gradual normed linear spaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0105/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0105</description>
     </item>
     <item>
       <title>Uniqueness of meromorphic functions and their powers in set sharing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0044/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0044</description>
     </item>
     <item>
       <title>Multiplicative 𝔪-metric space, fixed point theorems with applications in multiplicative integrals equation and numerical results</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0056/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0056/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0056</description>
     </item>
     <item>
       <title>Note on bounds on the coefficients of a subclass of m-fold symmetric bi-univalent functions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0052/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0052/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0052</description>
     </item>
     <item>
       <title>Multiple solitons, periodic solutions and other exact solutions of a generalized extended (2 + 1)-dimensional Kadomstev--Petviashvili equation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0082/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jaa-2023-0082/html</guid>
+      <description>Article by Isaac Humbu, Ben Muatjetjeja, Teko Ganakgomo Motsumi, Abdullahi Rashid Adem DOI: https://doi.org/10.1515/jaa-2023-0082</description>
     </item>
   </channel>
 </rss>

@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Angermion </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Angermion </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ang.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-frontmatter1601/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-frontmatter1601/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-frontmatter1601</description>
     </item>
     <item>
       <title>Contents/Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-toc/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-toc/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-toc</description>
     </item>
     <item>
       <title>Vita’s ‘German Garden’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0001/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0001</description>
     </item>
     <item>
       <title>“The only two men who ever rose to the level of great artists … have sprung from the sole refuges … of law and liberty”: International Rivalry and Collaboration in Nineteenth-Century British Representations of Albrecht Dürer and Hans Holbein</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0002/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0002</description>
     </item>
     <item>
       <title>Thomas Carlyle, Friedrich von Gentz, and the Writing of the “Occasional Discourse on the Negro Question”: With an Unpublished Letter to Gustav Schlesier</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0003/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0003</description>
     </item>
     <item>
       <title>‚Nach der Natur‘. Eisenbahn und Wahrnehmungswandel in Erzähltexten des 19. Jahrhunderts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0004/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0004</description>
     </item>
     <item>
       <title>Emotionen und Populismus im Kontext der Flüchtlingsdebatten im Englischen und im Deutschen als Beispiel kultureller Variation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0005/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0005</description>
     </item>
     <item>
       <title>Erna Pinner und Julian Huxley. Konstellationen des naturalistischen Diskurses im britischen Exil</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0006/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0006</description>
     </item>
     <item>
       <title>The Poetry of the GDR: Deficiencies in Cultural Perception and School Pedagogy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0007/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0007</description>
     </item>
     <item>
       <title>Dresden – A Word of Remembrance</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0008/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0008</description>
     </item>
     <item>
       <title>Reviews/Rezensione</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anger-2023-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anger-2023-0009/html</guid>
+      <description>Article by Karin Junker DOI: https://doi.org/10.1515/anger-2023-0009</description>
     </item>
   </channel>
 </rss>

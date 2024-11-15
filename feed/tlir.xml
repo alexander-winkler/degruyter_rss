@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The Linguistic Review</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in The Linguistic Review</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tlir.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-frontmatter3/html</guid>
+      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-frontmatter3</description>
     </item>
     <item>
       <title>The morphosyntax of Ezafe in Southern Zazaki</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2013/html</guid>
+      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2013</description>
     </item>
     <item>
       <title>A morphosyntactic haplology of -i drop in the Korean vocatives</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2014/html</guid>
+      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2014</description>
     </item>
     <item>
       <title>Labeling by type</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2015/html</guid>
+      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2015</description>
     </item>
     <item>
       <title>Flat structure: a minimalist program for syntax</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2016/html</guid>
+      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2016</description>
     </item>
     <item>
       <title>A categorisation solution to the incompleteness puzzle in Mandarin</title>
       <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2017/html</guid>
+      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2017</description>
     </item>
   </channel>
 </rss>

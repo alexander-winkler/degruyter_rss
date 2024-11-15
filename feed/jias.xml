@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of the International Arthurian Society</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of the International Arthurian Society</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jias.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-frontmatter1/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-frontmatter1</description>
     </item>
     <item>
       <title>L’exception saxonne: le curieux cas d’Ariohan dans le Cycle de Guiron le Courtois</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0001/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0001</description>
     </item>
     <item>
       <title>Hither and Yawn: Malory’s Drowsy Lancelot in the Morte Darthur – ‘shew me somthynge of that I seke’ (MD 773.23–26).</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0002/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0002</description>
     </item>
     <item>
       <title>The Linguistic Provenance of the Hebrew King Arthur (1279) Reassessed</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0003/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0003</description>
     </item>
     <item>
       <title>L’annominatio en question dans quelques textes arthuriens en vers (xiie-xiiie siècles): généralités et applications à l’étude des rimes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0004/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0004</description>
     </item>
     <item>
       <title>The Onomasticon Arthurianum (et similia). State of the art of a chimera</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0005/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0005</description>
     </item>
     <item>
       <title>A Schema for Artorius: History, John Heath-Stubbs, and the Last Modernist Epic</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0006/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0006</description>
     </item>
     <item>
       <title>The Japanese Branch of The International Arthurian Society. Part One. General Issues and English</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0007/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0007</description>
     </item>
     <item>
       <title>‘And I am more than this man can comprehend’: Contemporary Arthurian Texts &amp; Resistance to White Supremacy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jias-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jias-2024-0008/html</guid>
+      <description>Article by Margaret Sheble, Logan Quigley DOI: https://doi.org/10.1515/jias-2024-0008</description>
     </item>
   </channel>
 </rss>

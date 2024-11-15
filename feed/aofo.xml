@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Altorientalische Forschungen</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Altorientalische Forschungen</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/aofo.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-frontmatter2/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-frontmatter2</description>
     </item>
     <item>
       <title>New Evidence for Sumerian Agricultural Land Terminology in Sargonic Umma</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0010/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0010</description>
     </item>
     <item>
       <title>“kišib-gu10 zi-ra-ab”: Annul my Sealed Tablet!</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0011/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0011</description>
     </item>
     <item>
       <title>A Tale of Two Cities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0012/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0012</description>
     </item>
     <item>
       <title>“In Heaven, at Evening”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0013/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0013</description>
     </item>
     <item>
       <title>The Archaeological Distribution of the Cuneiform Corpus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0014/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0014</description>
     </item>
     <item>
       <title>On Shifting Social and Urban Landscapes in Uruk under Nabû-kudurrī-uṣur II</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0015/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0015</description>
     </item>
     <item>
       <title>The Vanity Theme and Critical Wisdom in Mesopotamian Literature</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0016/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0016</description>
     </item>
     <item>
       <title>Taxation and Tax Farming in the Egibi Archive</title>
       <link>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/aofo-2023-0017/html</guid>
+      <description>Article by Jinyan Wang DOI: https://doi.org/10.1515/aofo-2023-0017</description>
     </item>
   </channel>
 </rss>

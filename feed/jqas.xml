@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Quantitative Analysis in Sports</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Quantitative Analysis in Sports</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-frontmatter4/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-frontmatter4</description>
     </item>
     <item>
       <title>A comprehensive survey of the home advantage in American football</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0016/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-0016</description>
     </item>
     <item>
       <title>Introducing Grid WAR: rethinking WAR for starting pitchers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0095/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2023-0095</description>
     </item>
     <item>
       <title>Improving NHL draft outcome predictions using scouting reports</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0047/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-0047</description>
     </item>
     <item>
       <title>Comparison of individual playing styles in football</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0041/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-0041</description>
     </item>
     <item>
       <title>A generative approach to frame-level multi-competitor races</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0091/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0091/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2023-0091</description>
     </item>
     <item>
       <title>An empirical Bayes approach for estimating skill models for professional darts players</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0084/html</guid>
+      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2023-0084</description>
     </item>
   </channel>
 </rss>

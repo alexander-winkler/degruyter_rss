@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Informationen Deutsch als Fremdsprache</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Informationen Deutsch als Fremdsprache</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/infodaf.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-frontmatter5/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-frontmatter5</description>
     </item>
     <item>
       <title>Einführung in das Themenheft „Begleitforschung zur DSH“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0069/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0069/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-0069</description>
     </item>
     <item>
       <title>Analyse von Aufgaben und Items für das Leseverstehen am Beispiel der DSH</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0070/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-0070</description>
     </item>
     <item>
       <title>Eigenschaften von Hör- und Lesetexten in Hochschulzugangssprachtests am Beispiel der DSH</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0071/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0071/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-0071</description>
     </item>
     <item>
       <title>Chunks/formelhafte Sequenzen bei Textproduktionen – eine Praxisreflexion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0072/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0072/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-0072</description>
     </item>
     <item>
       <title>Übereinstimmungsraten bei der Beurteilung von mündlichen Prüfungen am Beispiel der DSH</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0073/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-0073</description>
     </item>
     <item>
       <title>Zur Berücksichtigung spezifischer Bedürfnisse in Prüfungen zum Nachweis der sprachlichen Studierfähigkeit unter dem Anspruch eines inklusiven Bildungssystems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0074/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/infodaf-2024-0074/html</guid>
+      <description>Article by Hülya Yildirim, Kevin Niehaus, Ksenia Masalon DOI: https://doi.org/10.1515/infodaf-2024-0074</description>
     </item>
   </channel>
 </rss>

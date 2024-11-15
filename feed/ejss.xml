@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>European Journal of Scandinavian Studies</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in European Journal of Scandinavian Studies</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ejss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-frontmatter1/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-frontmatter1</description>
     </item>
     <item>
       <title>Of Birds and Men in Rural Norway: Self, Place and Landscape in Vesaas and Lirhus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2001/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2001</description>
     </item>
     <item>
       <title>Sometimes a Ghost is Just a Ghost: Agnes and Spectrality in Henrik Ibsen’s Brand</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2002/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2002</description>
     </item>
     <item>
       <title>Med blick, hand och penna</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2003/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2003</description>
     </item>
     <item>
       <title>Encyklopedisten August Strindberg. Fallet Svarta Fanor</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2004/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2004</description>
     </item>
     <item>
       <title>Tracing Sanna kvinnor across the Nordic Theatre Landscape: Intermediaries and Forces of Circulation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2005/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2005</description>
     </item>
     <item>
       <title>Weapon of Assault: Combat, Protective Magic, and the Fatal Throat Bite in Icelandic Sagas</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2006/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2006</description>
     </item>
     <item>
       <title>Henrike Fürstenberg: Entweder ästhetisch – oder religiös? Søren Kierkegaard textanalytisch</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2007/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2007</description>
     </item>
     <item>
       <title>Desislava Todorova Dimitrova: Der Reisebericht des Anders Sparrman. Eine wissenschafts- und ideenhistorische Untersuchung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2008/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2008</description>
     </item>
     <item>
       <title>Susanne Schuster: Haben oder nicht Haben. Diachrone Beschreibung und Analyse des isländischen Possessionssystems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2009/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2009</description>
     </item>
     <item>
       <title>Nicolas Meylan: The Pagan Earl. Hákon Sigurðarson and the Medieval Construction of Old Norse Religion (The Viking Collection. Studies in Northern Civilization Vol. 26)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ejss-2024-2010/html</guid>
+      <description>Article by Arend Quak DOI: https://doi.org/10.1515/ejss-2024-2010</description>
     </item>
   </channel>
 </rss>

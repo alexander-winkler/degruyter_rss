@@ -1,58 +1,70 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Polymer Processing</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Polymer Processing</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ipp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-frontmatter4/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-frontmatter4</description>
     </item>
     <item>
       <title>Probing the microstructural properties of metal-reinforced polymer composites</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2023-4434/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2023-4434/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2023-4434</description>
     </item>
     <item>
       <title>Advancements in chemical modifications using NaOH to explore the chemical, mechanical and thermal properties of natural fiber polymer composites (NFPC)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0002/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0002</description>
     </item>
     <item>
       <title>The effect of clay reinforcement of pine pollen grains on the mechanical, anti-corrosion and anti-microbial properties of an epoxy coating</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0016/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0016</description>
     </item>
     <item>
       <title>Influence of stacking sequence and nano-silica fortification on the physical properties of veli karuvelam – peepal hybrid natural composites</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0022/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0022</description>
     </item>
     <item>
       <title>An experimental validation of diffusion-based devolatilization models in extruders using post-industrial and post-consumer plastic waste</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0011/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0011</description>
     </item>
     <item>
       <title>Impact of filler type and proportion on the performance of rubberized coconut fiber-polystyrene composites</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0019/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0019</description>
     </item>
     <item>
       <title>Evaluation of the processing conditions on the production of expanded or plasticized wood plastic composite with cashew nutshell powder</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2023-4472/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2023-4472/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2023-4472</description>
     </item>
     <item>
       <title>Irradiation of PMMA intraocular lenses by a 365 nm UV lamp</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0029/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0029</description>
     </item>
     <item>
       <title>Design and simulation analysis of an extrusion structure based on screw extrusion 3D printing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0066/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ipp-2024-0066/html</guid>
+      <description>Article by Biaoqiang Liu, Bo Qian, Zhentao Hu, Yuxin Liang, Hongri Fan DOI: https://doi.org/10.1515/ipp-2024-0066</description>
     </item>
   </channel>
 </rss>

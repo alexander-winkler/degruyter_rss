@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Slawistik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Slawistik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/slaw.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-frontmatter4/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-frontmatter4</description>
     </item>
     <item>
       <title>Der magisch-realistische Erinnerungsraum der „Wiedergewonnenen Gebiete“ in der Prosa von Maria Sidorska-Ryczkowska</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0031/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0031</description>
     </item>
     <item>
       <title>Marie Pujmanovás Novelle Die Patientin von Doktor Hegel (1931) als Beitrag zur Geschlechterdebatte der Zwischenkriegszeit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0032/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0032</description>
     </item>
     <item>
       <title>Ein Rückblick auf die Korruption in Russland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0033/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0033</description>
     </item>
     <item>
       <title>On the patterning of sound imitation by onomatopoeia in Slovak</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0034/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0034</description>
     </item>
     <item>
       <title>A Study of Russian-Belarusian Border Dialects: The Use of the Genitive Case Ending -u in the Khislavichi Dialect</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0035/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0035</description>
     </item>
     <item>
       <title>Scalar markers between aspect and modality: The case of Lithuanian be-</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0036/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0036</description>
     </item>
     <item>
       <title>Soll man russische Kultur studieren und wenn ja welche?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0037/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0037</description>
     </item>
     <item>
       <title>In memoriam Horst-Jürgen Gerigk (1937–2024)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0038/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0038</description>
     </item>
     <item>
       <title>Der Slawische Frühling. Ein historischer Roman</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0039/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0039</description>
     </item>
     <item>
       <title>Tempussysteme in slavischen Sprachen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0040/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0040</description>
     </item>
     <item>
       <title>Der tschechische Himmel</title>
       <link>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/slaw-2024-0041/html</guid>
+      <description>Article by Jiří Karas DOI: https://doi.org/10.1515/slaw-2024-0041</description>
     </item>
   </channel>
 </rss>

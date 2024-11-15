@@ -48,21 +48,37 @@ def dg2rss(key:str):
             for resultTitle in article.find_all("div", "resultTitle"):
                 link = f"https://{hostname}{resultTitle.a.get('href')}"
                 title = resultTitle.a.h4.text.strip()
+                doi = resultTitle.a.get("data-doi")
+                try:
+                    contributors = resultTitle.findNext('div', attrs = { 'class' : 'resultMetadata'}).div.text
+                except:
+                    contributors = None
                 items.append({
                     'title' : title,
-                    'link' : link
+                    'link' : link,
+                    'doi' : doi,
+                    'contributors' : contributors
                 })
-
     # Create rss feed
-    root = etree.Element("rss", version = "2.0")
+    nsmap = {"atom": "http://www.w3.org/2005/Atom"}
 
+    root = etree.Element("rss", version = "2.0", nsmap = nsmap)
+    
     # Channel info
     channel = etree.SubElement(root,"channel")
     CH_TIT = etree.SubElement(channel, "title")
     CH_TIT.text = channel_title
     CH_link = etree.SubElement(channel, "link")
-    CH_link.text = hostname
+    CH_link.text = "https://"+hostname
     CH_desc = etree.SubElement(channel, "description")
+    CH_desc.text = f"A RSS feed containing the latest articles published in {channel_title}"
+    CH_generator = etree.SubElement(channel, "generator")
+    CH_generator.text = "https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py"
+    CH_atomLink = etree.SubElement(channel,
+    "{http://www.w3.org/2005/Atom}link",
+    href = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml",
+    rel = "self",
+    type = "application/rss+xml")
 
     # Single items (articles)
     for i in items:
@@ -73,6 +89,11 @@ def dg2rss(key:str):
         tmpLink.text = i.get('link')
         guid = etree.SubElement(tmpItem, 'guid')
         guid.text = i.get('link')
+        tmpDescription = etree.SubElement(tmpItem, 'description')
+        tmpDescription.text = "DOI: https://doi.org/" + i.get('doi')
+        if i.get('contributors') is not None:
+            tmpDescription.text = "Article by " + contributors + " " +tmpDescription.text
+  
     tree = etree.ElementTree(root)
     tree.write(f'feed/{key}.xml', pretty_print=True, xml_declaration=True,   encoding="UTF-8", standalone = True)
     print(f"{key} done!")

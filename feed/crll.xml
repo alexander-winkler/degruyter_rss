@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal für die reine und angewandte Mathematik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal für die reine und angewandte Mathematik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crll.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-frontmatter816/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-frontmatter816/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-frontmatter816</description>
     </item>
     <item>
       <title>Semicontinuous maps on module varieties</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0049/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0049</description>
     </item>
     <item>
       <title>A lifting principle for canonical stability indices of varieties of general type</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0054/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0054/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0054</description>
     </item>
     <item>
       <title>Lifting globally 𝐹-split surfaces to characteristic zero</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0058/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0058/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0058</description>
     </item>
     <item>
       <title>Extremal functions for twisted sharp Sobolev inequalities with lower order remainder terms. The high-dimensional case</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0056/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0056/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0056</description>
     </item>
     <item>
       <title>The Chow ring of the moduli space of degree 2 quasi-polarized K3 surfaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0063/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0063</description>
     </item>
     <item>
       <title>Mixed Hodge structures and Siegel operators</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0064/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0064</description>
     </item>
     <item>
       <title>Ding stability and Kähler–Einstein metrics on manifolds with big anticanonical class</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0062/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0062</description>
     </item>
     <item>
       <title>Rasmussen invariants of Whitehead doubles and other satellites</title>
       <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0061/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0061/html</guid>
+      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0061</description>
     </item>
   </channel>
 </rss>

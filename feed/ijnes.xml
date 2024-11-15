@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Journal of Nursing Education Scholarship</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Journal of Nursing Education Scholarship</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijnes.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Gerontological educational interventions for student nurses: a systematic review of qualitative findings</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijnes-2023-0042/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijnes-2023-0042/html</guid>
+      <description>Article by Sherry Dahlke, Jo-Anne Rayner, Deirdre Fetherstonhaugh, Jeffrey I. Butler, Megan Kennedy DOI: https://doi.org/10.1515/ijnes-2023-0042</description>
     </item>
   </channel>
 </rss>

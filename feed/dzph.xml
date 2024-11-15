@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Deutsche Zeitschrift für Philosophie</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Deutsche Zeitschrift für Philosophie</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-frontmatter3/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-frontmatter3</description>
     </item>
     <item>
       <title>Kant und die metaethische Kritik der instrumentellen Rationalität</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0024/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0024</description>
     </item>
     <item>
       <title>Lug und Selbstbetrug</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0025/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0025</description>
     </item>
     <item>
       <title>Habermas und Fanon über koloniale Herrschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0026/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0026</description>
     </item>
     <item>
       <title>Schwerpunkt: Intentionalität – Mittelalterliche und phänomenologische Zugänge</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0027/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0027</description>
     </item>
     <item>
       <title>Hervaeus Natalis und Franz Brentano über Intentionalität als Merkmal des Mentalen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0028/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0028</description>
     </item>
     <item>
       <title>Edith Stein über Species Sensibilis und Transzendentalen Idealismus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0029/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0029</description>
     </item>
     <item>
       <title>Über Erfüllung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0030/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0030</description>
     </item>
     <item>
       <title>Die moralischen Ansprüche zukünftiger Menschen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0031/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0031</description>
     </item>
     <item>
       <title>Ein Goldstandard des sinnvollen Lebens?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0032/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0032</description>
     </item>
     <item>
       <title>Was heißt hier „transzendentale Lebendigkeit“?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0033/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0033</description>
     </item>
     <item>
       <title>Die Mittelalterfalle</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0034/html</guid>
+      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0034</description>
     </item>
   </channel>
 </rss>

@@ -1,33 +1,40 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Tort Law</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Tort Law</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtl-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2024-frontmatter1/html</guid>
+      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2024-frontmatter1</description>
     </item>
     <item>
       <title>The Offensiveness Torts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0017/html</guid>
+      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2023-0017</description>
     </item>
     <item>
       <title>Against Harm: Keating on the Soul of Tort Law</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2003/html</guid>
+      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2024-2003</description>
     </item>
     <item>
       <title>Situating Tort Law Within a Web of Institutions: Insights for the Age of Artificial Intelligence</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2002/html</guid>
+      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2024-2002</description>
     </item>
     <item>
       <title>An Alternative to the Basic Causal Requirement for Liability Under the Negligence Rule</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0014/html</guid>
+      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2023-0014</description>
     </item>
   </channel>
 </rss>

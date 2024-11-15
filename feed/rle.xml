@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Review of Law &amp; Economics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Review of Law &amp; Economics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rle.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2024-frontmatter2/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2024-frontmatter2</description>
     </item>
     <item>
       <title>Should Courts Decide Climate Policies?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2023-0083/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2023-0083/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2023-0083</description>
     </item>
     <item>
       <title>On the Role of Courts in Climate Policy: Comment on Lando</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2023-0113/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2023-0113/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2023-0113</description>
     </item>
     <item>
       <title>Origins of the Economic Approach to Crime and Punishment</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2023-0091/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2023-0091/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2023-0091</description>
     </item>
     <item>
       <title>Are Individual Care Investments Affected by Past Accident Experiences?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2023-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2023-0095/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2023-0095</description>
     </item>
     <item>
       <title>Penalizing Shirking in Discovering Unsuitability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2023-0004/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2023-0004</description>
     </item>
     <item>
       <title>The Disavowal of Decisionism: Politically Motivated Exits from the U.S. Courts of Appeals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rle-2024-0044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rle-2024-0044/html</guid>
+      <description>Article by Daniel L. Chen, Eric Reinhart DOI: https://doi.org/10.1515/rle-2024-0044</description>
     </item>
   </channel>
 </rss>

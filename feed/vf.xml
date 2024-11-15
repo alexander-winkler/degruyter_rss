@@ -1,68 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Verkündigung und Forschung</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Verkündigung und Forschung</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/vf.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-frontmatter6902/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-frontmatter6902/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-frontmatter6902</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-toc6902/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-toc6902/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-toc6902</description>
     </item>
     <item>
       <title>Die Mitarbeitenden dieses Heftes</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690201/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690201/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690201</description>
     </item>
     <item>
       <title>Zu diesem Heft</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690202/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690202/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690202</description>
     </item>
     <item>
       <title>Praktische Theologie und Ästhetik (1987) – ein persönlicher Rückblick</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690203/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690203/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690203</description>
     </item>
     <item>
       <title>Neuere Lehrbücher der Praktischen Theologie</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690204/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690204/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690204</description>
     </item>
     <item>
       <title>Praktische Theologie und der material turn in den Kulturwissenschaften</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690205/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690205/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690205</description>
     </item>
     <item>
       <title>Wahrnehmen, Gestalt geben, komplementär denken Spuren einer ästhetische Wende in der Religionspädagogik</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690206/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690206/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690206</description>
     </item>
     <item>
       <title>Spirituelle Theologie</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690207/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690207/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690207</description>
     </item>
     <item>
       <title>Liturgie und Liturgik</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690208/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690208/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690208</description>
     </item>
     <item>
       <title>Verlorene Selbstverständlichkeit Neuere Ansätze und Tendenzen in der Homiletik</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690209/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690209/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690209</description>
     </item>
     <item>
       <title>Register</title>
       <link>https://www.degruyter.com/document/doi/10.14315/vf-2024-690210/html</link>
       <guid>https://www.degruyter.com/document/doi/10.14315/vf-2024-690210/html</guid>
+      <description>Article by 
+
+                Page range: 158-162
+            
+ DOI: https://doi.org/10.14315/vf-2024-690210</description>
     </item>
   </channel>
 </rss>

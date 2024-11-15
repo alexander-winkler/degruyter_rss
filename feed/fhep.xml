@@ -1,23 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Forum for Health Economics &amp; Policy</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Forum for Health Economics &amp; Policy</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fhep.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fhep-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fhep-2024-frontmatter1/html</guid>
+      <description>Article by Jason Shafrin, Jaehong Kim, Joshua T. Cohen, Louis P. Garrison, Dana A. Goldman, Jalpa A. Doshi, Joshua Krieger, Darius N. Lakdawalla, Peter J. Neumann, Charles E. Phelps, Melanie D. Whittington, Richard Willke DOI: https://doi.org/10.1515/fhep-2024-frontmatter1</description>
     </item>
     <item>
       <title>A Health Economics Inquiry into Regulatory Constraints on the European Tobacco Market</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fhep-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fhep-2024-0002/html</guid>
+      <description>Article by Jason Shafrin, Jaehong Kim, Joshua T. Cohen, Louis P. Garrison, Dana A. Goldman, Jalpa A. Doshi, Joshua Krieger, Darius N. Lakdawalla, Peter J. Neumann, Charles E. Phelps, Melanie D. Whittington, Richard Willke DOI: https://doi.org/10.1515/fhep-2024-0002</description>
     </item>
     <item>
       <title>Valuing the Societal Impact of Medicines and Other Health Technologies: A User Guide to Current Best Practices</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fhep-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fhep-2024-0014/html</guid>
+      <description>Article by Jason Shafrin, Jaehong Kim, Joshua T. Cohen, Louis P. Garrison, Dana A. Goldman, Jalpa A. Doshi, Joshua Krieger, Darius N. Lakdawalla, Peter J. Neumann, Charles E. Phelps, Melanie D. Whittington, Richard Willke DOI: https://doi.org/10.1515/fhep-2024-0014</description>
     </item>
   </channel>
 </rss>

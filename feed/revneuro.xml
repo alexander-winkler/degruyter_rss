@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Reviews in the Neurosciences</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Reviews in the Neurosciences</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revneuro.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-frontmatter7/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-frontmatter7/html</guid>
+      <description>Article by Cristina Trejo-Solís, Norma Serrano-García, Rosa Angelica Castillo-Rodríguez, Diana Xochiquetzal Robledo-Cadena, Dolores Jimenez-Farfan, Álvaro Marín-Hernández, Daniela Silva-Adaya, Citlali Ekaterina Rodríguez-Pérez, Juan Carlos Gallardo-Pérez DOI: https://doi.org/10.1515/revneuro-2024-frontmatter7</description>
     </item>
     <item>
       <title>Amphetamine and methylphenidate potential on the recovery from stroke and traumatic brain injury: a review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0016/html</guid>
+      <description>Article by Cristina Trejo-Solís, Norma Serrano-García, Rosa Angelica Castillo-Rodríguez, Diana Xochiquetzal Robledo-Cadena, Dolores Jimenez-Farfan, Álvaro Marín-Hernández, Daniela Silva-Adaya, Citlali Ekaterina Rodríguez-Pérez, Juan Carlos Gallardo-Pérez DOI: https://doi.org/10.1515/revneuro-2024-0016</description>
     </item>
     <item>
       <title>Insights on cognitive reorganization after hemispherectomy in Rasmussen’s encephalitis. A narrative review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0009/html</guid>
+      <description>Article by Cristina Trejo-Solís, Norma Serrano-García, Rosa Angelica Castillo-Rodríguez, Diana Xochiquetzal Robledo-Cadena, Dolores Jimenez-Farfan, Álvaro Marín-Hernández, Daniela Silva-Adaya, Citlali Ekaterina Rodríguez-Pérez, Juan Carlos Gallardo-Pérez DOI: https://doi.org/10.1515/revneuro-2024-0009</description>
     </item>
     <item>
       <title>Task-based EEG and fMRI paradigms in a multimodal clinical diagnostic framework for disorders of consciousness</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revneuro-2023-0159/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revneuro-2023-0159/html</guid>
+      <description>Article by Cristina Trejo-Solís, Norma Serrano-García, Rosa Angelica Castillo-Rodríguez, Diana Xochiquetzal Robledo-Cadena, Dolores Jimenez-Farfan, Álvaro Marín-Hernández, Daniela Silva-Adaya, Citlali Ekaterina Rodríguez-Pérez, Juan Carlos Gallardo-Pérez DOI: https://doi.org/10.1515/revneuro-2023-0159</description>
     </item>
     <item>
       <title>The impact of genetic factors on the response to migraine therapy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0045/html</guid>
+      <description>Article by Cristina Trejo-Solís, Norma Serrano-García, Rosa Angelica Castillo-Rodríguez, Diana Xochiquetzal Robledo-Cadena, Dolores Jimenez-Farfan, Álvaro Marín-Hernández, Daniela Silva-Adaya, Citlali Ekaterina Rodríguez-Pérez, Juan Carlos Gallardo-Pérez DOI: https://doi.org/10.1515/revneuro-2024-0045</description>
     </item>
     <item>
       <title>Metabolic dysregulation of tricarboxylic acid cycle and oxidative phosphorylation in glioblastoma</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0054/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revneuro-2024-0054/html</guid>
+      <description>Article by Cristina Trejo-Solís, Norma Serrano-García, Rosa Angelica Castillo-Rodríguez, Diana Xochiquetzal Robledo-Cadena, Dolores Jimenez-Farfan, Álvaro Marín-Hernández, Daniela Silva-Adaya, Citlali Ekaterina Rodríguez-Pérez, Juan Carlos Gallardo-Pérez DOI: https://doi.org/10.1515/revneuro-2024-0054</description>
     </item>
   </channel>
 </rss>

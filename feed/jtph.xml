@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Transcendental Philosophy</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Transcendental Philosophy</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtph.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-frontmatter2-3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-frontmatter2-3/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-frontmatter2-3</description>
     </item>
     <item>
       <title>Protean Matter-Shifting: A Clarification of the Evolving Relation Between Schellingian Materie and Neoplatonic ὕλη</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0001/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0001</description>
     </item>
     <item>
       <title>Emerson’s Scholar: A Transcendental Response for Sentient Resilience</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0017/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0017</description>
     </item>
     <item>
       <title>Velimir Stojkovski: Schelling’s Political Thought. Nature, Freedom, and Recognition</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0006/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0006</description>
     </item>
     <item>
       <title>Salomon Maimon: Gesamtausgabe</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0009/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0009</description>
     </item>
     <item>
       <title>Emmanuel Alloa, Thiemo Breyer, and Emanuele Caminada: Handbuch Phänomenologie</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0011/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0011</description>
     </item>
     <item>
       <title>Paul Redding: Conceptual Harmonies: The Origins and Relevance of Hegel’s Logic</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0016/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0016</description>
     </item>
     <item>
       <title>Gabriele Gava: Kant’s Critique of Pure Reason and the Method of Metaphysics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jtph-2024-0018/html</guid>
+      <description>Article by Charles Goldhaber DOI: https://doi.org/10.1515/jtph-2024-0018</description>
     </item>
   </channel>
 </rss>

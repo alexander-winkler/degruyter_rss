@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Sozialreform</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Sozialreform</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zsr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zsr-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2024-frontmatter3/html</guid>
+      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2024-frontmatter3</description>
     </item>
     <item>
       <title>Casualization of work, free riding and institutional distrust: Explaining social protection preferences of platform workers in Germany</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0024/html</guid>
+      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2023-0024</description>
     </item>
     <item>
       <title>Pflegende Studierende: Soziale Ungleichheiten in und Belastungen durch die (Nicht-)Vereinbarkeit von Pflege und Studium</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0018/html</guid>
+      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2023-0018</description>
     </item>
     <item>
       <title>Leistung ist nicht gleich Leistung – zum Leistungsverständnis von ALG II-Bezieher*innen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0016/html</guid>
+      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2023-0016</description>
     </item>
   </channel>
 </rss>

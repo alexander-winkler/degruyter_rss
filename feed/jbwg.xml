@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-frontmatter2/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-frontmatter2</description>
     </item>
     <item>
       <title>Foreword by the new Managing Editor</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0013/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0013</description>
     </item>
     <item>
       <title>Obituary for Josef Ehmer</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0014/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0014</description>
     </item>
     <item>
       <title>Wood-based Businesses and the Economic Development of Europe in the Nineteenth and Twentieth Centuries – An Introduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0015/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0015</description>
     </item>
     <item>
       <title>Cheap Labour on the Timber Frontier: Migration of Forestry Workers from Austria- Hungary to Southeast Europe, ca. 1880–1914</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0016/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0016</description>
     </item>
     <item>
       <title>From “The Bosnian Danger” to Forest for the People: Bosnia’s Timber Frontier in the Age of Empires</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0017/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0017</description>
     </item>
     <item>
       <title>The Baltic Timber Trade and the Port of Riga: Economic Empowerment of Middlemen and New Entrepreneurs in Imperial Russia’s Western Provinces (1860s to 1914)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0018/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0018</description>
     </item>
     <item>
       <title>Losing Influence: The Changing Role of the Merchant Community of Danzig in the Timber Value Chain (1919–1939)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0019/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0019</description>
     </item>
     <item>
       <title>Looking East and West for Pulpwood, Pulp and Paper: Great Britain as an Anomaly in Europe, 1860–1960</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0020/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0020</description>
     </item>
     <item>
       <title>International Commodity Governance: Softwood Timber Trade 1870–1970</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0021/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0021</description>
     </item>
     <item>
       <title>Networks of Supply and Elite Consumers in England and Germany, c. 1750–1830</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0022/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0022</description>
     </item>
     <item>
       <title>Reach of Globalization in 18th Century Germany: Atlantic Products from Hamburg to Saxon Markets</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0023/html</guid>
+      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0023</description>
     </item>
   </channel>
 </rss>

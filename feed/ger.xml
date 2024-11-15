@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>German Economic Review</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in German Economic Review</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ger.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ger-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ger-2024-frontmatter3/html</guid>
+      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2024-frontmatter3</description>
     </item>
     <item>
       <title>Regional Industrial Effects in Germany from a Potential Gas Deficit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ger-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ger-2024-0017/html</guid>
+      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2024-0017</description>
     </item>
     <item>
       <title>Unraveling the Productivity Paradox: Evidence for Germany</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ger-2023-0094/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ger-2023-0094/html</guid>
+      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2023-0094</description>
     </item>
     <item>
       <title>Progressive Taxation and Social Welfare: Quantifying the Effects of the “German Tax-Reform 2000”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ger-2023-0100/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ger-2023-0100/html</guid>
+      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2023-0100</description>
     </item>
   </channel>
 </rss>

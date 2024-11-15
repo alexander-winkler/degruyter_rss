@@ -1,143 +1,172 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Optical Communications</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Optical Communications</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2024-frontmatter4/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2024-frontmatter4</description>
     </item>
     <item>
       <title>Performance investigation of DPMZM based RoF system by employing PIN and APD photodetector</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0027/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0027</description>
     </item>
     <item>
       <title>Analysis of interferometric configuration for optical devices</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0077/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0077/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0077</description>
     </item>
     <item>
       <title>Applications of photonic crystal fibers in optical communication</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0232/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0232/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0232</description>
     </item>
     <item>
       <title>An accurate but simple method for estimation of the influence of kerr nonlinearity on the far field pattern of LP11 mode in dispersion-shifted and dispersion-flattened fibers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0050/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0050</description>
     </item>
     <item>
       <title>Ambient refractive index sensitivity of long-period fiber grating (LPFG) with reduced cladding thickness using three-layer fiber geometry approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0287/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0287/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0287</description>
     </item>
     <item>
       <title>Research on novel single-mode polarization maintaining photonic crystal fiber</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0105/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0105</description>
     </item>
     <item>
       <title>Wavelength division multiplexed radio-over-fiber (WDM-RoF) system for next-generation networks with dispersion compensating fiber</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0001/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0001</description>
     </item>
     <item>
       <title>A simple chaotic base encryption scheme for securing OFDM-PON communications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0018/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0018</description>
     </item>
     <item>
       <title>Performance Investigations of Symmetric 80 Gbps TWDM NG-PON2 coexisting with GPON/XG-PON</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0032/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0032</description>
     </item>
     <item>
       <title>Investigation of link due to atmospheric turbulence in free space optical communication for optical wireless terrestrial networks</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0230/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0230/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0230</description>
     </item>
     <item>
       <title>Performance analysis of WDM-ROF network with different receiver filters</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0151/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0151/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0151</description>
     </item>
     <item>
       <title>Optimization-enabled user pairing algorithm for energy-efficient resource allocation for noma heterogeneous networks</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0095/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0095</description>
     </item>
     <item>
       <title>A comprehensive study on radio over fiber systems: present evaluations and future challenges</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0040/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0040</description>
     </item>
     <item>
       <title>Nonlinear effects on WDM optical communication system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0005/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0005</description>
     </item>
     <item>
       <title>Nonlinearity mitigation of self-phase modulation effect in coherent optical system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0138/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0138/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0138</description>
     </item>
     <item>
       <title>Performance evaluation of MDM-FSO transmission system for varying atmospheric conditions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0035/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0035</description>
     </item>
     <item>
       <title>Design and performance optimization of 96 x 40 Gbps CSRZ based DWDM long-haul system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0256/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0256/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0256</description>
     </item>
     <item>
       <title>Survey on acquisition, tracking and pointing (ATP) systems and beam profile correction techniques in FSO communication systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0222/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0222/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0222</description>
     </item>
     <item>
       <title>Security enhancement of visible light communication system using proposed 2D-WMZCC codes under the effects of eavesdropper</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0070/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0070</description>
     </item>
     <item>
       <title>400 Gb/s free space optical communication (FSOC) system using OAM multiplexing and PDM-QPSK with DSP</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0111/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0111/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0111</description>
     </item>
     <item>
       <title>Inter-satellite optical wireless communication (IsOWC) systems challenges and applications: a comprehensive review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0075/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0075/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0075</description>
     </item>
     <item>
       <title>Underwater wireless optical communications links: perspectives, challenges and recent trends</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0063/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0063</description>
     </item>
     <item>
       <title>A hybrid deep learning using reptile dragonfly search algorithm for reducing the PAPR in OFDM systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0051/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0051</description>
     </item>
     <item>
       <title>Design and performance analysis of WDM-FSO communication system using Polarization Shift Keying</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2021-0141/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2021-0141/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2021-0141</description>
     </item>
     <item>
       <title>Modelling of OFDM modulation technique in HF radio band using MATLAB</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0088/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0088/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0088</description>
     </item>
     <item>
       <title>Improve cardinality with two-dimensional unipolar (optical) orthogonal codes for multiple access interference</title>
       <link>https://www.degruyter.com/document/doi/10.1515/joc-2022-0108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/joc-2022-0108/html</guid>
+      <description>Article by Harshavardhana M. N., Suraiya Tarannum DOI: https://doi.org/10.1515/joc-2022-0108</description>
     </item>
   </channel>
 </rss>

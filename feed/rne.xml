@@ -1,23 +1,28 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Review of Network Economics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Review of Network Economics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rne.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-frontmatter2/html</guid>
+      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-frontmatter3/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-frontmatter3/html</guid>
+      <description>Article by Heng Chen, Matthew Strathearn, Marcel Voia DOI: https://doi.org/10.1515/rne-2024-frontmatter3</description>
     </item>
     <item>
-      <title>Critical Mass and Mature Equilibria for Two-Sided Platforms, and the Strength of the Externalities Between the Sides</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-0032/html</guid>
+      <title>Mothballing as a Predatory Strategy</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-0040/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-0040/html</guid>
+      <description>Article by Heng Chen, Matthew Strathearn, Marcel Voia DOI: https://doi.org/10.1515/rne-2024-0040</description>
     </item>
     <item>
-      <title>Demand Jump and Preemption under Irreversible Investment</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-0034/html</guid>
+      <title>Effects of Shoe-Leather Cost on Consumer Cash Withdrawal Behavior</title>
+      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-0047/html</link>
+      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-0047/html</guid>
+      <description>Article by Heng Chen, Matthew Strathearn, Marcel Voia DOI: https://doi.org/10.1515/rne-2024-0047</description>
     </item>
   </channel>
 </rss>

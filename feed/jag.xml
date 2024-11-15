@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Applied Geodesy</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Applied Geodesy</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jag.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-frontmatter4/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-frontmatter4</description>
     </item>
     <item>
       <title>Improving the approximation quality of tensor product B-spline surfaces by local parameterization</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0071/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0071/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0071</description>
     </item>
     <item>
       <title>Development of GPS time-based reference trajectories for quality assessment of multi-sensor systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0084/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0084</description>
     </item>
     <item>
       <title>PointNet-based modeling of systematic distance deviations for improved TLS accuracy</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0097/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0097/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0097</description>
     </item>
     <item>
       <title>Empirical uncertainty evaluation for the pose of a kinematic LiDAR-based multi-sensor system</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0098/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0098/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0098</description>
     </item>
     <item>
       <title>Uncertainty and quality of multi-sensor systems</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0064/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0064/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0064</description>
     </item>
     <item>
       <title>Coseismic slip model of the 14 January 2021 Mw 6.2 Mamuju-Majene earthquake based on static and kinematic GNSS solution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0041/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0041</description>
     </item>
     <item>
       <title>Simulation of range code tracking loop for multipath mitigation in NavIC receiver</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0010/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0010</description>
     </item>
     <item>
       <title>Exploring ionospheric dynamics: a comprehensive analysis of GNSS TEC estimations during the solar phases using linear function model</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0019/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0019</description>
     </item>
     <item>
       <title>A new approach of multi-dimensional correlation as a separability measure of multiple outliers in GNSS applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0106/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0106</description>
     </item>
     <item>
       <title>Preliminary results of scintillation monitoring at KLEF-Guntur low latitude station using GNSS software defined radio</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0004/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0004</description>
     </item>
     <item>
       <title>Evaluating the single-frequency static precise point positioning accuracies from multi-constellation GNSS observations at an Indian low-latitude station</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0014/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0014</description>
     </item>
     <item>
       <title>Analysis of ionospheric anomalies before the Fukushima Mw 7.3 earthquake of March 16, 2022</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0105/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0105</description>
     </item>
     <item>
       <title>Geomagnetic storm effect on equatorial ionosphere over Sri Lanka through total electron content observations from continuously operating reference stations network during Mar–Apr 2022</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0009/html</guid>
+      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0009</description>
     </item>
   </channel>
 </rss>

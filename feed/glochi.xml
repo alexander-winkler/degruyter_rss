@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Global Chinese</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Global Chinese</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glochi.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2024-frontmatter2/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2024-frontmatter2</description>
     </item>
     <item>
       <title>基于《全球华语大词典》的大华语词汇区划分及其在社区词研究中的应用</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0007/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2024-0007</description>
     </item>
     <item>
       <title>港式中文指量结构的内部比较研究 – 以 “该+量” “是+量” “今+量” 结构为例</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0006/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2024-0006</description>
     </item>
     <item>
       <title>澳门粤式中文使用状况研究 ── 兼论与香港的比较</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0035/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0035</description>
     </item>
     <item>
       <title>汉语 “鲠” 与泰语 “ก้าง/kaaŋ” 的词义源流</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0028/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0028/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0028</description>
     </item>
     <item>
       <title>马来西亚雪兰莪州沙叻新村的祖语传承研究</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0026/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0026</description>
     </item>
     <item>
       <title>新漢語水平考試應試輔導教材對比分析: 以中韓兩國 HSK 三級為例</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0029/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0029</description>
     </item>
     <item>
       <title>从社会语言学视角看当代中文发展趋势</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0030/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0030</description>
     </item>
     <item>
       <title>Linguocultural aspect of phraseological units (Guanyongyu) in modern Chinese language</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0016/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2024-0016</description>
     </item>
     <item>
       <title>Stylistic codification of traditional forms of poetic text (based on the material of the ancient Chinese theoretical study of poetry “Shi-Ping” (诗品, “Categories of Poems”)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0039/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0039</description>
     </item>
     <item>
       <title>The intersection of Chineseness and internationalism among Chinese millennials at an EMI university</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0033/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0033</description>
     </item>
     <item>
       <title>Enhancing cross-cultural communication for Chinese tourists in non-native English-speaking destinations: a study of sociolinguistic competence and politeness challenges</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2023-0041/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2023-0041</description>
     </item>
     <item>
       <title>Aspects of translation of Russian linguistic realities of N.V. Gogol’s novel “Dead Souls” into Chinese language</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glochi-2024-0015/html</guid>
+      <description>Article by Mengdi Cao, Gulmira Kazybek, Nurzhan Saparbayeva, Gulnar Nadirova, Jiaying Su DOI: https://doi.org/10.1515/glochi-2024-0015</description>
     </item>
   </channel>
 </rss>

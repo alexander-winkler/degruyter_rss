@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Computational Methods in Applied Mathematics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Computational Methods in Applied Mathematics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cmam.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2024-frontmatter4/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2024-frontmatter4</description>
     </item>
     <item>
       <title>Reconstruction of the Radiation Condition and Solution for the Helmholtz Equation in a Semi-infinite Strip from Cauchy Data on an Interior Segment</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0244/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0244/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2022-0244</description>
     </item>
     <item>
       <title>Numerical Approximation of Gaussian Random Fields on Closed Surfaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0237/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0237/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2022-0237</description>
     </item>
     <item>
       <title>Multivariate Analysis-Suitable T-Splines of Arbitrary Degree</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0071/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0071/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2022-0071</description>
     </item>
     <item>
       <title>Symmetrized Two-Scale Finite Element Discretizations for Partial Differential Equations with Symmetric Solutions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0192/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2022-0192/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2022-0192</description>
     </item>
     <item>
       <title>Relaxation Quadratic Approximation Greedy Pursuit Method Based on Sparse Learning</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0050/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0050</description>
     </item>
     <item>
       <title>Optimal Pressure Recovery Using an Ultra-Weak Finite Element Method for the Pressure Poisson Equation and a Least-Squares Approach for the Gradient Equation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2021-0242/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2021-0242/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2021-0242</description>
     </item>
     <item>
       <title>Discontinuous Galerkin Two-Grid Method for the Transient Navier–Stokes Equations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0035/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0035</description>
     </item>
     <item>
       <title>An Optimal Method for High-Order Mixed Derivatives of Bivariate Functions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0137/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0137/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0137</description>
     </item>
     <item>
       <title>A Convenient Inclusion of Inhomogeneous Boundary Conditions in Minimal Residual Methods</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0072/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0072/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0072</description>
     </item>
     <item>
       <title>A 𝐶1-𝑃7 Bell Finite Element on Triangle</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0068/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0068/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0068</description>
     </item>
     <item>
       <title>A Conforming Virtual Element Method for Parabolic Integro-Differential Equations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0061/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0061/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0061</description>
     </item>
     <item>
       <title>Three Low Order H-Curl-Curl Finite Elements on Triangular Meshes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0140/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cmam-2023-0140/html</guid>
+      <description>Article by Shangyou Zhang DOI: https://doi.org/10.1515/cmam-2023-0140</description>
     </item>
   </channel>
 </rss>

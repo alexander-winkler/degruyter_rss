@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Journal of the Sociology of Language</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Journal of the Sociology of Language</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-frontmatter288/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-frontmatter288/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2024-frontmatter288</description>
     </item>
     <item>
       <title>Mobile borders</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-0034/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2024-0034</description>
     </item>
     <item>
       <title>Using language in boundary-making: nation-state building in the early years of the Turkish Republic (1927–1965)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0015/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0015</description>
     </item>
     <item>
       <title>Hong Kongers and their languages: bordering, scale and identity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0013/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0013</description>
     </item>
     <item>
       <title>Mobile borders and chronotope of homeland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0011/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0011</description>
     </item>
     <item>
       <title>Humanitarianism, victimisation, and bordering processes: debating the refugee experience in the classroom</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0016/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0016</description>
     </item>
     <item>
       <title>Attitudes towards Sardinian and Italian finally compared via the Matched-Guise Technique</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0084/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0084</description>
     </item>
     <item>
       <title>The effect of language attitudes on proficiency in two heritage languages of Mountain Jews in Israel and the US</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0059/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0059</description>
     </item>
     <item>
       <title>Sociolinguistic challenges and new perspectives on determining French speakers in Creole communities: the case of Haiti</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0108/html</guid>
+      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0108</description>
     </item>
   </channel>
 </rss>

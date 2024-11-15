@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Journal of Practical Theology </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Journal of Practical Theology </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijpt.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-frontmatter1/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2024-frontmatter1</description>
     </item>
     <item>
       <title>Editorial: A Look Back and Ahead after 12 Years with the IJPT</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0031/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2024-0031</description>
     </item>
     <item>
       <title>A New Interview Tool for the Investigation into the Experiences of Spiritual Family within Church Communities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0010/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0010</description>
     </item>
     <item>
       <title>Ecclesiastical Policies on Education: A Democratic Game of Winners and Losers?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2022-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2022-0016/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2022-0016</description>
     </item>
     <item>
       <title>Non-Speaking Autistic Participation in Liturgy and Church Life: (Non-)Speech Acts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0027/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0027</description>
     </item>
     <item>
       <title>Unravelling the Experience of Grace: Antecedents, Consequences and Circular Dynamics in the Experience of Grace</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0012/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0012</description>
     </item>
     <item>
       <title>Anthropologische Wende in der katholischen Religionspädagogik?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0020/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0020</description>
     </item>
     <item>
       <title>Keeping the Tensions. The Path to an Open, Inviting, Communicative, and Responsible Practice of Baptism in a Secular Society</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2022-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2022-0059/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2022-0059</description>
     </item>
     <item>
       <title>Recent Trends of Practical Theology in Finland</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0029/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2024-0029</description>
     </item>
     <item>
       <title>Religious Education and Ecumenical Formation in Post-confessional Settings – Essentials for the Theological Education of Pastors and Teachers of Religion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0035/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2024-0035</description>
     </item>
     <item>
       <title>Yonah Hisbon Matemba, Bruce A. Collet (eds.), The Bloomsbury Handbook of Religious Education in the Global South, London et al. (Bloomsbury Academic) 2022, 491 pp., ISBN 978-1-3501-0582-9, £117 (e-book: £35.99)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0036/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0036</description>
     </item>
     <item>
       <title>Kristin Merle, Ilona Nord (eds.), Mediatisierung religiöser Kultur. Praktisch-theologische Standortbestimmungen im interdisziplinären Kontext (VWGTh 58), Leipzig (Evangelische Verlagsanstalt GmbH) 2022, 448 pp., ISBN 9783374059034 (e-book: 9783374059041), €58.00</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0041/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0041/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0041</description>
     </item>
     <item>
       <title>Andrew Linzey, Clair Linzey (eds.), Animal Theologians, New York (Oxford University Press) 2023, 452 pp., ISBN 978-0-19-765554-2, $125.00 (Paperback: $39.95)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2024-0023/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2024-0023</description>
     </item>
     <item>
       <title>HyeRan Kim-Cragg, Postcolonial Preaching: Creating a Ripple Effect, Lanham / Boulder / New York / London (Lexington Books) 2021, 149 pp., ISBN 9781793617095, $100 (Paperback: $39.99)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0081/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijpt-2023-0081/html</guid>
+      <description>Article by Tone Stangeland Kaufman DOI: https://doi.org/10.1515/ijpt-2023-0081</description>
     </item>
   </channel>
 </rss>

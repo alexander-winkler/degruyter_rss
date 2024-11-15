@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Moral Philosophy and Politics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Moral Philosophy and Politics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mopp.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2024-frontmatter2/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2024-frontmatter2</description>
     </item>
     <item>
       <title>Hybrid Ethical Theory and Cohen’s Critique of Rawls’s Egalitarian Liberalism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0009/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2023-0009</description>
     </item>
     <item>
       <title>Ideal Theory and Real Politics: The Politics in Political Liberalism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0050/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2022-0050</description>
     </item>
     <item>
       <title>Are Radical Realists Hypocrites about Intuition-Dependence?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0062/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2022-0062</description>
     </item>
     <item>
       <title>The Deliberative Duty and Other Individual Antidiscrimination Duties in the Dating Sphere</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0012/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2023-0012</description>
     </item>
     <item>
       <title>Dimensions of Global Justice in Taxing Multinationals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0062/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2023-0062</description>
     </item>
     <item>
       <title>Situating the Moral Basis for Secession in Territorial Rights: A Dualist and Nonalienation Account</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0035/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2022-0035</description>
     </item>
     <item>
       <title>Moral Reasoning in the Climate Crisis: A Personal Guide</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0076/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0076/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2023-0076</description>
     </item>
     <item>
       <title>Is It Wrong to Benefit from Injustice?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0034/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2022-0034</description>
     </item>
     <item>
       <title>Self-Respect and the Importance of Basic Liberties</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2022-0022/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2022-0022</description>
     </item>
     <item>
       <title>Why Military Conditioning Violates the Human Dignity of Soldiers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mopp-2023-0015/html</guid>
+      <description>Article by Regina Sibylle Surber DOI: https://doi.org/10.1515/mopp-2023-0015</description>
     </item>
   </channel>
 </rss>

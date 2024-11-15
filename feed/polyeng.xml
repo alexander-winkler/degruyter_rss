@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Polymer Engineering</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Polymer Engineering</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/polyeng.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-frontmatter10/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-frontmatter10/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-frontmatter10</description>
     </item>
     <item>
       <title>Effect of epoxidized soybean oil on melting behavior of poly(l-lactic acid) and poly(d-lactic acid) blends after isothermal crystallization</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0081/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0081/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0081</description>
     </item>
     <item>
       <title>An experimental investigation on the influence of pore foaming agent particle size on cell morphology, hydrophobicity, and acoustic performance of open cell poly (vinylidene fluoride) polymeric foams</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0124/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0124/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0124</description>
     </item>
     <item>
       <title>Reinforcement of recycled polypropylene by nano lanthana with improved thermal, mechanical and antimicrobial properties</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0070/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0070</description>
     </item>
     <item>
       <title>Microstructure-mechanical property relationships of polymer nanocomposite reinforced with lyophilized montmorillonite/carbon nanotubes hybrid particles</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0077/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0077/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0077</description>
     </item>
     <item>
       <title>Preparation and dynamic simulation of a hemin reversible associated copolymer with self-healing properties</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0102/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0102</description>
     </item>
     <item>
       <title>Molecularly imprinted polymer for the selective removal of direct violet 51 from wastewater: synthesis, characterization, and environmental applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0116/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0116/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0116</description>
     </item>
     <item>
       <title>Comparative analysis of 3D-printed and freeze-dried biodegradable gelatin methacrylate/ poly‐ε‐caprolactone- polyethylene glycol-poly‐ε‐caprolactone (GelMA/PCL-PEG-PCL) hydrogels for bone applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2024-0063/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2024-0063</description>
     </item>
     <item>
       <title>Thermally conductive and electrically insulated DGEBA-epoxy nano-composite fabricated by integrating GO/h-BN and rGO/h-BN hybrid for thermal management applications: a comparative analysis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/polyeng-2023-0300/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/polyeng-2023-0300/html</guid>
+      <description>Article by Sagar Kumar Nayak, Debabrata Mohanty, Manas R. Sahu DOI: https://doi.org/10.1515/polyeng-2023-0300</description>
     </item>
   </channel>
 </rss>

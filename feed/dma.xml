@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Discrete Mathematics and Applications</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Discrete Mathematics and Applications</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-frontmatter5/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-frontmatter5/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-frontmatter5</description>
     </item>
     <item>
       <title>On the matching arrangement of a graph and properties of its characteristic polynomial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0022/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0022</description>
     </item>
     <item>
       <title>Realization of even permutations of even degree by products of four involutions without fixed points</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0023/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0023</description>
     </item>
     <item>
       <title>On implicit extensions in many-valued logic</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0024/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0024</description>
     </item>
     <item>
       <title>On radio graceful Hamming graphs of any diameter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0025/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0025</description>
     </item>
     <item>
       <title>Limit joint distribution of the statistics of «Monobit test», «Frequency Test within a Block» and «Test for the Longest Run of Ones in a Block»</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0026/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0026</description>
     </item>
     <item>
       <title>Resistance distance and Kirchhoff index of two kinds of double join operations on graphs</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0027/html</guid>
+      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0027</description>
     </item>
   </channel>
 </rss>

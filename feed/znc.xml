@@ -1,53 +1,64 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Naturforschung C</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Naturforschung C</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/znc.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-frontmatter11-12/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-frontmatter11-12/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-frontmatter11-12</description>
     </item>
     <item>
       <title>Evaluating the MDCK cell permeability of greenly synthesize bimetallic Ag/Zn Nanoparticles using leaf extract of Vallaris solanacea as a potential antipesticide-resistant agent</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-0065/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-0065/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-0065</description>
     </item>
     <item>
       <title>Novel benzene sulfonamide-piperazine hybrid compounds: design, synthesis, antioxidant, enzyme inhibition activities and docking, ADME profiling studies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-0062/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-0062</description>
     </item>
     <item>
       <title>Diverse bioactive secondary metabolites from Aspergillus terreus: antimicrobial, anticancer, and anti-SARS-CoV-2 activity studies</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-0083/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-0083/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-0083</description>
     </item>
     <item>
       <title>Xylatolides A and B, new 10-membered macrolides from the endophytic fungus Xylaria sp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2023-0091/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2023-0091/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2023-0091</description>
     </item>
     <item>
       <title>Antioxidant and antibacterial effects of a new macrocyclic bis(bibenzyl) ether from Combretum molle (Combretaceae)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2023-0087/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2023-0087/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2023-0087</description>
     </item>
     <item>
       <title>Development of whey protein beverage incorporating encapsulated probiotic strain Lactiplantibacillus rhamnosus NCDC 347 and its physico-chemical characteristics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-0105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-0105/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-0105</description>
     </item>
     <item>
       <title>Robustanic acid as a glutaminase and Na+, K+-ATPase inhibitor from leaves of Eucalyptus globulus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-0071/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-0071/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-0071</description>
     </item>
     <item>
       <title>Probiotics: a promising intervention for osteoporosis prevention and management</title>
       <link>https://www.degruyter.com/document/doi/10.1515/znc-2024-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/znc-2024-0063/html</guid>
+      <description>Article by Lakshay Panchal, Shivam Arora, Jhilam Pramanik, Kajol Batta, Akash Kumar, Bhupendra Prajapati DOI: https://doi.org/10.1515/znc-2024-0063</description>
     </item>
   </channel>
 </rss>

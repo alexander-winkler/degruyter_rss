@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Glottotheory </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Glottotheory </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-frontmatter1/html</guid>
+      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-frontmatter1</description>
     </item>
     <item>
       <title>Models of conversion in Modern English</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glot-2022-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glot-2022-2008/html</guid>
+      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2022-2008</description>
     </item>
     <item>
       <title>Scenic communication in specialized communication</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2005/html</guid>
+      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2005</description>
     </item>
     <item>
       <title>Beyond warzones: conflict-stricken states as viewed by the Czech corpus collocations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2002/html</guid>
+      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2002</description>
     </item>
     <item>
       <title>Verfasserverweise und Typen wissenschaftssprachlichen Handelns: Eine vergleichende Korpusstudie anhand deutscher und polnischer Abschlussarbeiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2004/html</guid>
+      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2004</description>
     </item>
     <item>
       <title>Repräsentation der positiven Basisemotionen in der deutschen digitalen kommunikation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2003/html</guid>
+      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2003</description>
     </item>
   </channel>
 </rss>

@@ -1,73 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Beiträge zur Geschichte der deutschen Sprache und Literatur</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Beiträge zur Geschichte der deutschen Sprache und Literatur</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bgsl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-frontmatter3/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-frontmatter3</description>
     </item>
     <item>
       <title>Dialektwandel als Systemwandel: Die Genuskongruenz bei den Numeralien zwei und drei in den deutschen Dialekten und darüber hinaus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0029/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0029</description>
     </item>
     <item>
       <title>Drei Strophen in Tönen Frauenlobs mit Neumen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0030/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0030/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0030</description>
     </item>
     <item>
       <title>Geslozzen sint die wort […] recht als ein gesperre.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0031/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0031/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0031</description>
     </item>
     <item>
       <title>Michael Elmentaler u. Peter Rosenberg (Hgg.): Norddeutscher Sprachatlas (NOSA), unter Mitarbeit v. Liv Andresen [u. a.], Kartografie, Layout u. Satz v. Ulrike Schwedler, Hildesheim [u. a.]: Georg Olms 2015/2022 (Deutsche Dialektgeographie 113.1/2)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0032/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0032/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0032</description>
     </item>
     <item>
       <title>Lea Schäfer: Onymische Flexion. Strukturen und Entwicklungen kontinentalwestgermanischer Dialekte, Tübingen: Narr Francke Attempto 2021, 486 S. (Tübinger Beiträge zur Linguistik 582)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0033/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0033/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0033</description>
     </item>
     <item>
       <title>Anne-Katrin Federow u. Kay Malcher (Hgg.): Troja bauen. Vormodernes Erzählen von der Antike in komparatistischer Sicht, Heidelberg: Winter 2022, 268 S. (Germanisch-romanische Monatsschrift. Beiheft 103)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0034/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0034</description>
     </item>
     <item>
       <title>Edith Feistner (Hg.): Klostergründungserzählungen des deutschen Sprachraums. Eine Anthologie, in Verb. mit Cora Dietl, Christoph Fasbender u. Gesine Mierke unter redaktioneller Mitarbeit von Julia Kermer, Berlin: Lit-Verlag 2021, 346 S., 6 Abb. (Regensburger Studien zur Literatur und Kultur des Mittelalters 6)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0035/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0035</description>
     </item>
     <item>
       <title>Jan-Dirk Müller: Varianz – die Nibelungenfragmente. Überlieferung und Poetik des ›Nibelungenliedes‹ im Übergang von Mündlichkeit zu Schriftlichkeit, Berlin u. Boston: de Gruyter 2023, 363 S., 15 Abb. (Deutsche Literatur. Studien und Quellen 47)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0036/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0036</description>
     </item>
     <item>
       <title>Marie-Sophie Masse: Translation de l’œuvre médiévale (XIIe-XVIe siècles). ›Érec et Énide‹ – ›Erec‹ – ›Ereck‹, Würzburg: Königshausen &amp; Neumann 2020, 401 S., 16 Abb. (Rezeptionskulturen in Literatur- und Mediengeschichte 15)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0037/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0037</description>
     </item>
     <item>
       <title>Julia Burkhardt: Von Bienen lernen. Das ›Bonum universale de apibus‹ des Thomas von Cantimpré als Gemeinschaftsentwurf. Analyse, Edition, Übersetzung, Kommentar, 2 Bde., Regensburg: Schnell &amp; Steiner 2020, 512 u. 1097 S., 39 Abb. (Klöster als Innovationslabore 7.1/2)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0038/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0038/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0038</description>
     </item>
     <item>
       <title>Beat von Scarpatetti: Bücherliebe und Weltverachtung. Die Bibliothek des Volkspredigers Heynlin von Stein und ihr Geheimnis, Basel: Schwabe 2022, 582 S., 65 Abb.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0039/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0039</description>
     </item>
     <item>
       <title>Ambraser Heldenbuch. Gesamttranskription mit Manuskriptbild, hg. v. Mario Klarer, 11 Teilbde., Berlin u. Boston: de Gruyter 2022, 5585 Seiten, 2515 Abb. (Transcriptiones 1.1–11)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0040/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0040/html</guid>
+      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0040</description>
     </item>
   </channel>
 </rss>

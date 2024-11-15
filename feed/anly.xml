@@ -1,13 +1,16 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Analysis</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Analysis</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anly.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2024-frontmatter4/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2024-frontmatter4</description>
     </item>
     <item>
       <title>On some generalized Simpson type inequalities for (α,m)-coordinated
@@ -17,41 +20,49 @@ q
 2-calculus</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0023/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0023</description>
     </item>
     <item>
       <title>Characterization of lacunary ℐ-convergent sequences in credibility space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0084/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0084</description>
     </item>
     <item>
       <title>Titchmarsh and Boas-type theorems related to (κ,n)-Fourier transform</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0045/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0045/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0045</description>
     </item>
     <item>
       <title>Iterative approximation of common solution of variational inequality and certain optimization problems with multiple output sets in Hadamard space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2022-1075/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2022-1075/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2022-1075</description>
     </item>
     <item>
       <title>Consequences of an infinite Fourier cosine transform-based Ramanujan integral</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0056/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0056/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0056</description>
     </item>
     <item>
       <title>Deferred 𝜎-statistical summability in intuitionistic fuzzy 𝑟-normed linear spaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0088/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0088/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0088</description>
     </item>
     <item>
       <title>A relaxation theorem for a first-order set differential inclusion in a metric space</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0070/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0070/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0070</description>
     </item>
     <item>
       <title>η-Ricci--Yamabe and *-η-Ricci--Yamabe solitons in Lorentzian para-Kenmotsu manifolds</title>
       <link>https://www.degruyter.com/document/doi/10.1515/anly-2023-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/anly-2023-0039/html</guid>
+      <description>Article by Rajendra Prasad, Abdul Haseeb, Vinay Kumar DOI: https://doi.org/10.1515/anly-2023-0039</description>
     </item>
   </channel>
 </rss>

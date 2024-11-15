@@ -1,63 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Millennium</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Millennium</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mjb.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-frontmatter1/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-frontmatter1</description>
     </item>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-frontmatter2/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-frontmatter2</description>
     </item>
     <item>
       <title>Abkürzungen (Editionen, Zeitschriften, Reihen, Nachschlagewerke)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0001/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0001</description>
     </item>
     <item>
       <title>In memoriam Wolf Liebeschuetz (1927 – 2022)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0002/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0002</description>
     </item>
     <item>
       <title>Gauls in the Roman Senate: A Rhetorical Analysis of Claudius’ Speech Preserved on the Tabula Lugdunensis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0003/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0003</description>
     </item>
     <item>
       <title>The Apocalypse of Peter as the Origin of the Christian Hell. Sense and Purpose of the Afterlife Punishment in Fire</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0004/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0004</description>
     </item>
     <item>
       <title>Asymmetrische Gegenbegriffe in Laktanz’ ‚Politischer Theologie‘</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0005/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0005</description>
     </item>
     <item>
       <title>Reichenauiensis. Ein verlorener Reichenauer Codex und seine Bedeutung für die Textkonstitution der Chronik Prospers, der Chronik Cassiodors, der Continuatio Reichenauiensis und des Laterculus Vandalorum mitsamt einer Neuedition der Fasti Augustani</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0006/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0006</description>
     </item>
     <item>
       <title>Das Glück der schönen Mädchen? Überlegungen zu einem spätantiken Kerkergraffito aus Korinth (IG IV2 3, 1274)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0007/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0007</description>
     </item>
     <item>
       <title>Chalcedonian Bishops in the ‘Pagan Affair’ of 580</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0008/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0008</description>
     </item>
     <item>
       <title>Thalassokratie, ein Leitprinzip byzantinischer Machtpolitik (6.–11. Jahrhundert)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/mill-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/mill-2024-0009/html</guid>
+      <description>Article by Ewald Kislinger DOI: https://doi.org/10.1515/mill-2024-0009</description>
     </item>
   </channel>
 </rss>

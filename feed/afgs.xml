@@ -1,123 +1,148 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Archiv für Religionsgeschichte</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Archiv für Religionsgeschichte</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/afgs.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titlepages</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-frontmatter1/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-frontmatter1</description>
     </item>
     <item>
       <title>Contents</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-frontmatter2/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-frontmatter2</description>
     </item>
     <item>
       <title>Entangling Urban and Religious History: A New Methodology</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0001/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0001</description>
     </item>
     <item>
       <title>The City in the History of Religion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0999/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0999/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0999</description>
     </item>
     <item>
       <title>The Role of the Urban in the History of Religion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0002/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0002</description>
     </item>
     <item>
       <title>The Urban Factor: Hermeneutical Backgrounds to a Void in History of Religion</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0003/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0003</description>
     </item>
     <item>
       <title>The Morality of Urbanism: Managing Surplus vis-à-vis the Gods Between Etruria and Iberia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0004/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0004</description>
     </item>
     <item>
       <title>Cities, Saints, Rome, and Religious Authority in the New World Spanish Empire</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0005/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0005</description>
     </item>
     <item>
       <title>Judaism and the City, Judaism in the City: A Historiographical Journey</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0006/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0006</description>
     </item>
     <item>
       <title>Making Religion, Making the City – Religion and Urban Formation in Modern China</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0007/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0007</description>
     </item>
     <item>
       <title>The Future Past of a ‘Religious Town’: Tenri City and Tenrikyō in Japan</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0008/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0008</description>
     </item>
     <item>
       <title>Construction and Transformation of a Sacred Urban Complex of Hardwar-Rishikesh, North India</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0009/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0009</description>
     </item>
     <item>
       <title>The Urbanity of Subtle Green Spirituality</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0010/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0010</description>
     </item>
     <item>
       <title>Urban Temporalities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0998/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0998/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0998</description>
     </item>
     <item>
       <title>Temporality, Urbanity, and Religion: Reconsidering Sacred Time in Ancient and Modern Cities</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0011/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0011</description>
     </item>
     <item>
       <title>Argos: Across the Thin Surface of Time</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0012/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0012</description>
     </item>
     <item>
       <title>Temporality, Urbanity, and John’s Apocalypse</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0013/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0013</description>
     </item>
     <item>
       <title>Calendars, Clocks, and Crossings: Religious Temporalities in Medieval Middelburg</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0014/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0014</description>
     </item>
     <item>
       <title>Daily Life Spatialities and Temporalities of Religion in Ottoman Tunis: Reflections on the Complexity of Urban Religious Landscapes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0015/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0015</description>
     </item>
     <item>
       <title>Varia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0997/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0997/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0997</description>
     </item>
     <item>
       <title>Ambiente, politica ed economia nella Roma del II secolo a.C.: Il caso dell’Aqua Marcia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0016/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0016</description>
     </item>
     <item>
       <title>Religious Expansionism? Roman Priestly Activities Outside Republican Rome</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0017/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0017</description>
     </item>
     <item>
       <title>Der Briefwechsel Ludwig Deubners mit Martin Persson Nilsson, 1901 – 1944: Freundschaft und Wissenschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/arege-2023-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/arege-2023-0018/html</guid>
+      <description>Article by Martina Dürkop DOI: https://doi.org/10.1515/arege-2023-0018</description>
     </item>
   </channel>
 </rss>

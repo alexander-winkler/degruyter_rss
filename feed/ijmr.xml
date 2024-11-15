@@ -1,53 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>International Journal of Materials Research</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in International Journal of Materials Research</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijmr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-frontmatter10/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-frontmatter10/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2024-frontmatter10</description>
     </item>
     <item>
       <title>Morphology controlled fabrication of porous magnesium oxide nanostructures for the efficient elimination of methyl orange</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-0093/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-0093/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2024-0093</description>
     </item>
     <item>
       <title>Fe78Si9B13/MnO2 composite: a magnetic and efficient Fenton-like catalyst in degradation of methyl orange under activation of H2O2</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-0059/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2024-0059</description>
     </item>
     <item>
       <title>Effect of different activating agents on carbon derived from Tinospora cordifolia for EDLC application</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0228/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0228/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2023-0228</description>
     </item>
     <item>
       <title>Bioactive surface modification of Ti–Nb alloy by alkaline treatment in potassium hydroxide solution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0359/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0359/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2023-0359</description>
     </item>
     <item>
       <title>Characterizing sliding wear behavior of A1100/AlFe (p) composites produced via repeated fold-forging and annealing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2021-8412/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2021-8412/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2021-8412</description>
     </item>
     <item>
       <title>Effect of laser ablation on mechanical performance of graphene-filled glass fibre reinforced polymer repaired composites</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0305/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0305/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2023-0305</description>
     </item>
     <item>
       <title>Mechanical and tribological assessment of PEEK and PEEK based polymer composites for artificial hip joints</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0356/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2023-0356/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2023-0356</description>
     </item>
     <item>
       <title>DGM – Deutsche Gesellschaft für Materialkunde</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ijmr-2024-2010/html</guid>
+      <description>Article by 
+
+                Page range: 862-864
+            
+ DOI: https://doi.org/10.1515/ijmr-2024-2010</description>
     </item>
   </channel>
 </rss>

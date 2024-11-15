@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Praehistorische Zeitschrift </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Praehistorische Zeitschrift </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prhz.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2024-frontmatter2/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2024-frontmatter2</description>
     </item>
     <item>
       <title>An experimental approach to the study of amber processing in the Neolithic: technical analysis of the Siliņupe amber assemblage, 4th mill. BC, Latvia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2037/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2037/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2037</description>
     </item>
     <item>
       <title>Six feet under – the Funnel Beaker megalithic graves under the Ahlen-Falkenberger Moor, Germany</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2044/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2044/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2044</description>
     </item>
     <item>
       <title>Mortuary palisades, single graves and cultural admixture: The establishment of Corded Ware culture on the Jutland Peninsula</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2022/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2022</description>
     </item>
     <item>
       <title>From the source to the sea − A regional study of Bronze Age depositions from eastern Funen, Denmark</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2022-2059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2022-2059/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2022-2059</description>
     </item>
     <item>
       <title>The Evil Twin: Older Bronze Age Ceramic Typology of the Nordic Circle</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2035/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2035/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2035</description>
     </item>
     <item>
       <title>Votive, Spielzeug, Gussformen, oder …? Zu den bronzezeitlichen Miniaturgefäßen in Istrien (Kroatien)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2024-2010/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2024-2010</description>
     </item>
     <item>
       <title>Exploring the chronostratigraphy of a Bronze Age settlement through core drilling</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2026/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2026/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2026</description>
     </item>
     <item>
       <title>Inside or outside the house? On the spatial organisation of plant-related activities at the Late Bronze Age settlement of Dobbin 27, northern Germany</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2036/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2036/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2036</description>
     </item>
     <item>
       <title>A View to a Kilt – The Late Bronze Age Aegean Costume in the Context of Social and Cultural Changes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2021/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2021</description>
     </item>
     <item>
       <title>Where are the missing boatyards? Steaming pits as boat building sites in the Nordic Bronze Age</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2024-2005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2024-2005/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2024-2005</description>
     </item>
     <item>
       <title>Ein Nachruf auf Prof. Dr. Otto-Herman Frey (1.9.1929–4.4.2023) aus Sicht der slowenischen Archäologie</title>
       <link>https://www.degruyter.com/document/doi/10.1515/pz-2023-2046/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/pz-2023-2046/html</guid>
+      <description>Article by Mitja Guštin DOI: https://doi.org/10.1515/pz-2023-2046</description>
     </item>
   </channel>
 </rss>

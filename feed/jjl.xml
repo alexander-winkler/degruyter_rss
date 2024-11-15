@@ -1,48 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Japanese Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Japanese Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-frontmatter2/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-frontmatter2</description>
     </item>
     <item>
       <title>Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2010/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2010</description>
     </item>
     <item>
       <title>Guest editor’s notes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2011/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2011</description>
     </item>
     <item>
       <title>The role of L1 phonology in the perception of L2 semivowels</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2012/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2012</description>
     </item>
     <item>
       <title>Notes on the acquisition of L2 English intervention structures: a case of Japanese EFL learners</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2013/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2013</description>
     </item>
     <item>
       <title>Microvariation in L2 acquisition of backward anaphora: Mandarin versus Japanese</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2014/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2014</description>
     </item>
     <item>
       <title>L2 acquisition of Japanese null arguments</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2015/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2015</description>
     </item>
     <item>
       <title>Cross-language facilitatory and inhibitory effects in the naming of Japanese words by Chinese-Japanese bilinguals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jjl-2024-2016/html</guid>
+      <description>Article by Xuehan Zhao, Kexin Xiong, Sachiko Kiyama DOI: https://doi.org/10.1515/jjl-2024-2016</description>
     </item>
   </channel>
 </rss>

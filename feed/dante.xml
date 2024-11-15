@@ -1,78 +1,94 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Deutsches Dante-Jahrbuch</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Deutsches Dante-Jahrbuch</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dante.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-frontmatter1/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-frontmatter1</description>
     </item>
     <item>
       <title>Die Commedia – eine Provokation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0002/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0002</description>
     </item>
     <item>
       <title>Diffamierung in der Commedia</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0003/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0003</description>
     </item>
     <item>
       <title>Unorthodox – Dantes Selbstautorisierung im poema sacro</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0004/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0004</description>
     </item>
     <item>
       <title>Traiettorie del primo antidantismo: Dante da Maiano, Cino da Pistoia e Cecco d’Ascoli</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0005/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0005</description>
     </item>
     <item>
       <title>Wer kommt heute in die Hölle?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0006/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0006</description>
     </item>
     <item>
       <title>Lectura Dantis Inferno XXI: Ein Zwischenspiel der Karsamstags(un)genauigkeit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0007/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0007</description>
     </item>
     <item>
       <title>Un fabbro, un asinaio, una donna di Verona</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0008/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0008</description>
     </item>
     <item>
       <title>Irmgard Scharold (Hrsg.), Dante intermedial. Die Divina Commedia in Literatur und Medien, Würzburg, Königshausen &amp; Neumann 2022, 474 S.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0009/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0009</description>
     </item>
     <item>
       <title>Mattia Petricola, I mondo dell’Oltremondo. Dante e la Commedia dal fantasy alla fan fiction, Pisa, Edizioni ETS 2023, 144 S.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0010/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0010</description>
     </item>
     <item>
       <title>Gian Mario Anselmi, Dante, il Medioevo e il nostro tempo, Bologna, Pàtron Editore 2022 (Cultura umanistica e saperi moderni; 25), 196 S.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0011/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0011</description>
     </item>
     <item>
       <title>Anne-Kathrin Gitter, Der christliche Metacode im Spätrealismus. Die produktive Rezeption von Dante Alighieris Divina Commedia bei Conrad Ferdinand Meyer, Wilhelm Raabe und Ferdinand von Saar, Baden-Baden, rombach wissenschaft 2023 (Litterae; 256) (zugl.: Leipzig, Univ.-Diss. 2021), 385 S.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0012/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0012</description>
     </item>
     <item>
       <title>Leyla M. G. Livraghi, »Il lungo studio e ’l grande amore«. Fonti classiche e strutture compositive dell’opera dantesca, Firenze, Cesati 2023, 169 pp.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0013/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0013</description>
     </item>
     <item>
       <title>Deutsche Dante-Bibliographie 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/dante-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/dante-2024-0014/html</guid>
+      <description>Article by Philip Stockbrugger DOI: https://doi.org/10.1515/dante-2024-0014</description>
     </item>
   </channel>
 </rss>

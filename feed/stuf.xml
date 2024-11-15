@@ -1,28 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>STUF - Language Typology and Universals</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in STUF - Language Typology and Universals</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/stuf.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/stuf-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/stuf-2024-frontmatter3/html</guid>
+      <description>Article by Jesús Olguín Martínez, Alonso Vásquez-Aguilar, Pilar Valenzuela DOI: https://doi.org/10.1515/stuf-2024-frontmatter3</description>
     </item>
     <item>
       <title>From nominal source to demonstrative: a case of grammaticalization in Standard Arabic</title>
       <link>https://www.degruyter.com/document/doi/10.1515/stuf-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/stuf-2024-2009/html</guid>
+      <description>Article by Jesús Olguín Martínez, Alonso Vásquez-Aguilar, Pilar Valenzuela DOI: https://doi.org/10.1515/stuf-2024-2009</description>
     </item>
     <item>
       <title>The evolutionary dynamics of grammatical gender in Torricelli languages</title>
       <link>https://www.degruyter.com/document/doi/10.1515/stuf-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/stuf-2024-2010/html</guid>
+      <description>Article by Jesús Olguín Martínez, Alonso Vásquez-Aguilar, Pilar Valenzuela DOI: https://doi.org/10.1515/stuf-2024-2010</description>
     </item>
     <item>
       <title>Temporal ‘since’ constructions in cross-linguistic perspective</title>
       <link>https://www.degruyter.com/document/doi/10.1515/stuf-2024-2011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/stuf-2024-2011/html</guid>
+      <description>Article by Jesús Olguín Martínez, Alonso Vásquez-Aguilar, Pilar Valenzuela DOI: https://doi.org/10.1515/stuf-2024-2011</description>
     </item>
   </channel>
 </rss>

@@ -1,113 +1,136 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Wittgenstein-Studien</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Wittgenstein-Studien</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/wgst.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titlepages</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-frontmatter1/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-frontmatter1</description>
     </item>
     <item>
       <title>Hinweis für Leser / Note for Readers</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0001/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0001</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-frontmatter2/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-frontmatter2</description>
     </item>
     <item>
       <title>Tractarian Ethics: A Transcendental Vision</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0002/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0002</description>
     </item>
     <item>
       <title>A complicit quest for silence</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0003/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0003</description>
     </item>
     <item>
       <title>Meinen, Deuten, Verstehen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0004/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0004</description>
     </item>
     <item>
       <title>Voicing temptations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0005/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0005</description>
     </item>
     <item>
       <title>Special Topic: Epistemic and Conceptual Injustice</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0999/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0999/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0999</description>
     </item>
     <item>
       <title>Introduction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0006/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0006</description>
     </item>
     <item>
       <title>The Availability of the Non-Ideal</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0007/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0007</description>
     </item>
     <item>
       <title>The rule W: Wittgenstein and the concept woman</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0008/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0008</description>
     </item>
     <item>
       <title>‘Not enough’: Certainty and Doubt in Exploring the Grammar of ‘Woman’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0009/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0009</description>
     </item>
     <item>
       <title>‘The Ethics of Attention to Language’ Introducing Conceptual Injustice</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0010/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0010</description>
     </item>
     <item>
       <title>Between Privacy, Alienation and Community</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0011/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0011</description>
     </item>
     <item>
       <title>Buchbesprechungen / Book Reviews</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0998/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0998/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0998</description>
     </item>
     <item>
       <title>Alfred Schmidt (Hrsg.) in Zusammenarbeit mit Gabriel Citron, ins Deutsche übersetzt von Alfred Schmidt, mit einem Vorwort von Ray Monk: „I think of you constantly with love …“. 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0997/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0997/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0997</description>
     </item>
     <item>
       <title>Joaquín Jareño-Alarcón (ed.): Ludwig Wittgenstein: The Meaning of Life. 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0996/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0996/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0996</description>
     </item>
     <item>
       <title>Annalisa Coliva: Wittgenstein Rehinged: The Relevance of On Certainty for Contemporary Epistemology. 2022</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0995/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0995/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0995</description>
     </item>
     <item>
       <title>Genia Schönbaumsfeld: Wittgenstein on Religious Belief. 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0994/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0994/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0994</description>
     </item>
     <item>
       <title>Thomas Wallgren (ed.): The Creation of Wittgenstein: Understanding the Roles of Rush Rhees, Elizabeth Anscombe, and Georg Henrik von Wright. 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0993/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0993/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0993</description>
     </item>
     <item>
       <title>Jens Pier (ed.): Limits of Intelligibility: Issues from Kant and Wittgenstein. 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/witt-2024-0992/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/witt-2024-0992/html</guid>
+      <description>Article by Simone Nota DOI: https://doi.org/10.1515/witt-2024-0992</description>
     </item>
   </channel>
 </rss>

@@ -1,53 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>feministische studien</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in feministische studien</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fs.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-frontmatter4202/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-frontmatter4202/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-frontmatter4202</description>
     </item>
     <item>
       <title>Einleitung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0029/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0029</description>
     </item>
     <item>
       <title>Im Gespräch</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0034/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0034/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0034</description>
     </item>
     <item>
       <title>Zu den Autor:innen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0047/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0047/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0047</description>
     </item>
     <item>
       <title>Abstracts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0048/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0048</description>
     </item>
     <item>
       <title>Jahresinhaltsverzeichnis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0049/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0049/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0049</description>
     </item>
     <item>
       <title>Bestellformular</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0050/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0050/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0050</description>
     </item>
     <item>
       <title>Förderverein</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0051/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0051/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0051</description>
     </item>
     <item>
       <title>Ausblick auf die nächsten Hefte</title>
       <link>https://www.degruyter.com/document/doi/10.1515/fs-2024-0052/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/fs-2024-0052/html</guid>
+      <description>Article by 
+
+                Page range: 370-370
+            
+ DOI: https://doi.org/10.1515/fs-2024-0052</description>
     </item>
   </channel>
 </rss>

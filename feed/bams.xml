@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Bio-Algorithms and Med-Systems</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Bio-Algorithms and Med-Systems</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bams.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bams-2022-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bams-2022-frontmatter1/html</guid>
+      <description>Article by Arwa Najjar, Belal Amro, Mário Macedo DOI: https://doi.org/10.1515/bams-2022-frontmatter1</description>
     </item>
     <item>
       <title>Development and implementation of an online platform for curriculum mapping in medical education</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bams-2021-0143/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bams-2021-0143/html</guid>
+      <description>Article by Arwa Najjar, Belal Amro, Mário Macedo DOI: https://doi.org/10.1515/bams-2021-0143</description>
     </item>
     <item>
       <title>Book review “Process maturity of hospitals and the quality of medical services” by Beata Detyna</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bams-2021-0175/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bams-2021-0175/html</guid>
+      <description>Article by Arwa Najjar, Belal Amro, Mário Macedo DOI: https://doi.org/10.1515/bams-2021-0175</description>
     </item>
     <item>
       <title>Image processing algorithms in the assessment of grain damage degree</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bams-2021-0063/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bams-2021-0063/html</guid>
+      <description>Article by Arwa Najjar, Belal Amro, Mário Macedo DOI: https://doi.org/10.1515/bams-2021-0063</description>
     </item>
     <item>
       <title>The bioinspired traffic sign classifier</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bams-2021-0159/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bams-2021-0159/html</guid>
+      <description>Article by Arwa Najjar, Belal Amro, Mário Macedo DOI: https://doi.org/10.1515/bams-2021-0159</description>
     </item>
     <item>
       <title>islEHR, a model for electronic health records interoperability</title>
       <link>https://www.degruyter.com/document/doi/10.1515/bams-2021-0117/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/bams-2021-0117/html</guid>
+      <description>Article by Arwa Najjar, Belal Amro, Mário Macedo DOI: https://doi.org/10.1515/bams-2021-0117</description>
     </item>
   </channel>
 </rss>

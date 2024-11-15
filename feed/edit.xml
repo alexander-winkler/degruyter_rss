@@ -1,118 +1,230 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>editio</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in editio</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/edit.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-frontmatter1/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-frontmatter1</description>
     </item>
     <item>
       <title>Hin und zurück?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0001/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0001</description>
     </item>
     <item>
       <title>Transformation und Reduktion von Aufführungswirklichkeit</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0002/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0002</description>
     </item>
     <item>
       <title>Kants Critik der Urtheilskraft – neu ediert</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0003/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0003</description>
     </item>
     <item>
       <title>Kompilation, Transformation, Edition</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0004/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0004</description>
     </item>
     <item>
       <title>Sorabistische Editionspraxis</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0005/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0005</description>
     </item>
     <item>
       <title>Authentische Fassung oder editorisches Konstrukt?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0006/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0006</description>
     </item>
     <item>
       <title>Edition von frühdigitalem Text: Ein Problemaufriss</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0007/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0007</description>
     </item>
     <item>
       <title>Die interoperable Edition ‚sub specie durationis‘</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0008/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0008</description>
     </item>
     <item>
       <title>Von OCR und HTR bis NER und LLM</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0009/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0009</description>
     </item>
     <item>
       <title>Text als System</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0010/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0010</description>
     </item>
     <item>
       <title>Das Modell der Textdynamik und sein Potential für eine Editionswissenschaft jenseits der ‚Schulen‘</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0011/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0011</description>
     </item>
     <item>
       <title>Historisch-kritisch edieren</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0012/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0012</description>
     </item>
     <item>
       <title>Chronologie, Schichtung, Korrektur: Heiner Müllers Nachlass als Herausforderung seines eigenen Werkverständnisses</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0013/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0013</description>
     </item>
     <item>
       <title>Zur Rezeption von (historisch-)kritischen Ausgaben in der aktuellen germanistischen Forschung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0014/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0014</description>
     </item>
     <item>
       <title>Wandel, Wert und Wirkung von Editionen. 50 Jahre Arbeitsgemeinschaft philosophischer Editionen. Tagung an der Bergischen Universität Wuppertal, 20.–22. September 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0015/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0015</description>
     </item>
     <item>
       <title>Digitales Edieren gestern, heute und morgen. Tagung an der Herzog August Bibliothek, Wolfenbüttel, 25./26. September 2023</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0016/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0016</description>
     </item>
     <item>
       <title>Genetic Criticism in Motion. New Perspectives on Manuscript Studies. Hrsg. von Sakari Katajamäki und Veijo Pulkkinen, Associate Editor: Tommi Dunderlin. Helsinki: Finnish Literature Society, SKS 2023 (Studia Fennica. Litteraria. 14), 183 S., auch digital im ‘open access’ zugänglich: https://doi.org/10.21435/sflit.14.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0017/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0017</description>
     </item>
     <item>
       <title>Philip Kraut: Die Arbeitsweise der Brüder Grimm. Stuttgart: S. Hirzel Verlag 2023, 353 S., auch digital im ‘open access’ zugänglich: https://doi.org/10.3813/9783777633954.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0018/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0018</description>
     </item>
     <item>
       <title>… herausgegeben von … Editores und Edenda</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0019/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0019</description>
     </item>
     <item>
       <title>Anschriften</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0020/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0020</description>
     </item>
     <item>
       <title>Formblatt zur Einrichtung satzfertiger Manuskripte</title>
       <link>https://www.degruyter.com/document/doi/10.1515/editio-2024-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/editio-2024-0021/html</guid>
+      <description>Article by 
+
+                Page range: 260-260
+            
+ DOI: https://doi.org/10.1515/editio-2024-0021</description>
     </item>
   </channel>
 </rss>

@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Cognitive Linguistics</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Cognitive Linguistics</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cog-2024-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cog-2024-frontmatter4/html</guid>
+      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2024-frontmatter4</description>
     </item>
     <item>
       <title>Using constructions to measure developmental language complexity</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0062/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0062/html</guid>
+      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0062</description>
     </item>
     <item>
       <title>Inferences about event outcomes influence text-based memory of event outcomes</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0053/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0053/html</guid>
+      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0053</description>
     </item>
     <item>
       <title>Conceptualisation of event roles in L1 and L2 by Japanese learners of English: a cross-linguistic comparison of perspectives of event construal</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0127/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0127/html</guid>
+      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0127</description>
     </item>
     <item>
       <title>Probabilistic reduction and constructionalization: a usage-based diachronic account of the diffusion and conventionalization of the Spanish la de  &lt;noun&gt; que construction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0112/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0112/html</guid>
+      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0112</description>
     </item>
     <item>
       <title>Attraction or differentiation: diachronic changes in the causative alternation of Chinese change of state verbs</title>
       <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0094/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0094/html</guid>
+      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0094</description>
     </item>
   </channel>
 </rss>

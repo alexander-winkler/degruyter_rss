@@ -1,68 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Rhetorik</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Rhetorik</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhet.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-frontmatter1/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-frontmatter1</description>
     </item>
     <item>
       <title>Einleitung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0001/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0001</description>
     </item>
     <item>
       <title>Produktives Täuschen. Dissimulatio artis zwischen Rhetorik und Philosophie</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0002/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0002</description>
     </item>
     <item>
       <title>Simulatio/dissimulatio – Stellung/Verstellung: Rhetorik, höfische Verhaltenslehre, Ethik (mit Überlegungen zur Rezeption von Balthasar Graciáns Handorakel in Deutschland)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0003/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0003</description>
     </item>
     <item>
       <title>Die Macht der Dissimulation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0004/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0004</description>
     </item>
     <item>
       <title>Täusch-Verhältnisse. Der „Große Austausch“ als rhetorisches Manöver der Neuen Rechten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0005/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0005</description>
     </item>
     <item>
       <title>Ars est celare artes. Zur Rocca di Tristano-Episode in Ariostos Orlando furioso</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0006/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0006</description>
     </item>
     <item>
       <title>Vers pompeux – cadavre oratoire. Rhetorische, galante und dramaturgische Ausformungen der dissimulatio artis im frühneuzeitlichen Theater am Beispiel von Corneilles Pompée</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0007/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0007</description>
     </item>
     <item>
       <title>Das Paradoxon der Dissimulation – Über die Notwendigkeit der Täuschung zur Gestaltung von Natürlichkeit in Marivauxʼ Le Jeu de l’amour et du hasard</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0008/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0008</description>
     </item>
     <item>
       <title>Melanie Möller: Rhetorik zur Einführung, Hamburg 2022.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0009/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0009</description>
     </item>
     <item>
       <title>Ramón Reichert: Selfies – Selbstthematisierung in der digitalen Bildkultur, Bielefeld 2023.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0010/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0010</description>
     </item>
     <item>
       <title>Janosik Herder: Kommunizieren und Herrschen. Zur Genealogie des Regierens in der digitalen Gesellschaft, Bielefeld 2023.</title>
       <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0011/html</guid>
+      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0011</description>
     </item>
   </channel>
 </rss>

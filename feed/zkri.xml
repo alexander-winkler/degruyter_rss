@@ -1,18 +1,22 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Zeitschrift für Kristallographie - Crystalline Materials </title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Zeitschrift für Kristallographie - Crystalline Materials </description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-frontmatter9-10/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-frontmatter9-10/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-frontmatter9-10</description>
     </item>
     <item>
       <title>In this issue</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-graphabs9-10/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-graphabs9-10/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-graphabs9-10</description>
     </item>
     <item>
       <title>Synthesis, characterization and structure-property relations in mullite-type Pb2(Pb1−xSn
@@ -20,31 +24,37 @@ x
 )O4 solid solution</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0088/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0088/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0088</description>
     </item>
     <item>
       <title>Temperature-dependent diffraction studies on the stannides Sr3Rh4Sn4, Sr3Ir4Sn4 and Sr2.43Eu0.57Ir4Sn4</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0093/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0093/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0093</description>
     </item>
     <item>
       <title>The crystal and molecular structure of (R)-sirtinol – C26H22N2O2 – a chemo-sensitive enhancer and ligand in metal complexes with important bio-inorganic applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0073/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0073/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0073</description>
     </item>
     <item>
       <title>Synthesis and structural characterization of supramolecular cocrystals of [(4-cyano-1-methylpyridinium)2-(18-crown-6)] diiodide</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0085/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0085/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0085</description>
     </item>
     <item>
       <title>1-Nitronaphthalene, a non-OD, non-MDO polytype</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0089/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0089/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0089</description>
     </item>
     <item>
       <title>Synthesis and crystal structure of a tripeptide comprising a centrally placed non-coded aromatic γ-amino acid</title>
       <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0095/html</guid>
+      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0095</description>
     </item>
   </channel>
 </rss>

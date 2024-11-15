@@ -1,108 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Mathematica Slovaca</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Mathematica Slovaca</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ms.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>On monoids of endomorphisms of a cycle graph</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0078/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0078/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0078</description>
     </item>
     <item>
       <title>The influence of separating cycles in drawings of K5 ∖ e in the join product with paths and cycles</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0079/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0079/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0079</description>
     </item>
     <item>
       <title>Completely hereditarily atomic OMLS</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0080/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0080/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0080</description>
     </item>
     <item>
       <title>New notes on the equation d(n) = d(φ(n)) and the inequality d(n) &gt; d(φ(n))</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0081/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0081/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0081</description>
     </item>
     <item>
       <title>On the monogenity and Galois group of certain classes of polynomials</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0082/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0082/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0082</description>
     </item>
     <item>
       <title>Other fundamental systems of solutions of the differential equation (D2 – 2αD + α2 + β2)ny = 0, β ≠ 0</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0083/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0083/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0083</description>
     </item>
     <item>
       <title>Characterization of continuous additive set-valued maps “modulo K” on finite dimensional linear spaces</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0084/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0084/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0084</description>
     </item>
     <item>
       <title>Hermite–Hadamard inequalities for Riemann–Liouville fractional integrals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0085/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0085/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0085</description>
     </item>
     <item>
       <title>Global Mild Solutions For Hilfer Fractional Neutral Evolution Equation</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0086/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0086/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0086</description>
     </item>
     <item>
       <title>The discrete fractional Karamata theorem and its applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0087/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0087/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0087</description>
     </item>
     <item>
       <title>Complex Generalized Stancu-Schurer Operators</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0088/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0088/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0088</description>
     </item>
     <item>
       <title>New oscillatory criteria for third-order differential equations with mixed argument</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0089/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0089/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0089</description>
     </item>
     <item>
       <title>Cauchy problem for a loaded hyperbolic equation with the Bessel operator</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0090/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0090/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0090</description>
     </item>
     <item>
       <title>Liouville type theorem for a system of elliptic inequalities on weighted graphs without (p0)-condition</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0091/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0091/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0091</description>
     </item>
     <item>
       <title>On the rate of convergence for the q-Durrmeyer polynomials in complex domains</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0092/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0092/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0092</description>
     </item>
     <item>
       <title>Some fixed point theorems in generalized parametric metric spaces and applications to ordinary differential equations</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0093/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0093/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0093</description>
     </item>
     <item>
       <title>On the relation of Kannan contraction and Banach contraction</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0094/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0094/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0094</description>
     </item>
     <item>
       <title>Extropy and statistical features of dual generalized order statistics’ concomitants arising from the Sarmanov family</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0095/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0095/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0095</description>
     </item>
     <item>
       <title>Residual Inaccuracy Extropy and its properties</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0096/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0096/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0096</description>
     </item>
     <item>
       <title>Archimedean ℓ-groups with strong unit: cozero-sets and coincidence of types of ideals</title>
       <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0097/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0097/html</guid>
+      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0097</description>
     </item>
   </channel>
 </rss>

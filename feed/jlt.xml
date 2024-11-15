@@ -1,38 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Literary Theory</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Literary Theory</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlt.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jlt-2024-frontmatter2/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jlt-2024-frontmatter2/html</guid>
+      <description>Article by Peter Wenzel DOI: https://doi.org/10.1515/jlt-2024-frontmatter2</description>
     </item>
     <item>
       <title>JLT-Gespräch: Die Praxis der Literaturtheorie</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2006/html</guid>
+      <description>Article by Peter Wenzel DOI: https://doi.org/10.1515/jlt-2024-2006</description>
     </item>
     <item>
       <title>Performatives Theoretisieren: Geschriebene Vernetzungsdynamiken zwischen Theorie und Praxis in Roland Barthes’ Essay Die Lust am Text</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2007/html</guid>
+      <description>Article by Peter Wenzel DOI: https://doi.org/10.1515/jlt-2024-2007</description>
     </item>
     <item>
       <title>Sharper Distinctions for Debates over »Realism« in German Literature and Theater</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2008/html</guid>
+      <description>Article by Peter Wenzel DOI: https://doi.org/10.1515/jlt-2024-2008</description>
     </item>
     <item>
       <title>Mapping a Theory of Dialogic Ethical Criticism</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2009/html</guid>
+      <description>Article by Peter Wenzel DOI: https://doi.org/10.1515/jlt-2024-2009</description>
     </item>
     <item>
       <title>›Less Voice, more Viewpoint‹ – Towards a Cognitive Reconceptualization of the Centres of Orientation in Poetry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jlt-2024-2010/html</guid>
+      <description>Article by Peter Wenzel DOI: https://doi.org/10.1515/jlt-2024-2010</description>
     </item>
   </channel>
 </rss>

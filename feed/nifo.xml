@@ -1,128 +1,154 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Nietzscheforschung</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Nietzscheforschung</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nifo.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelseiten</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-frontmatter1/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-frontmatter1</description>
     </item>
     <item>
       <title>Zum Themenschwerpunkt:</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-022/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-022</description>
     </item>
     <item>
       <title>Schiller und Nietzsche – Gegenstrebige Fügung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-001/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-001</description>
     </item>
     <item>
       <title>Der Wille zur Würde oder: Tanz der Sprachkörper</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-002/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-002/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-002</description>
     </item>
     <item>
       <title>Rationalismuskritik bei Schiller und Nietzsche</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-003/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-003/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-003</description>
     </item>
     <item>
       <title>Asketische Ideale und Metaphysic der Kunst</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-004/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-004/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-004</description>
     </item>
     <item>
       <title>Ethik und Ästhetik in Moderne und Spätmoderne: Von der „schönen Seele“ zur „erschöpften Selbstverwirklichung“</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-005/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-005/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-005</description>
     </item>
     <item>
       <title>Moralkonzept – Bildungsideal – Geschichtskonstruktion: Analogien und Differenzen zwischen Schiller, Schopenhauer und Nietzsche</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-006/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-006</description>
     </item>
     <item>
       <title>Zur Reflexion des philosophischen Stils bei Schiller und Nietzsche</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-007/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-007</description>
     </item>
     <item>
       <title>Singularisierung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-008/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-008</description>
     </item>
     <item>
       <title>‚Gegenwart‘ bei Schiller und Nietzsche</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-009/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-009/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-009</description>
     </item>
     <item>
       <title>Von steilen Thesen. Nietzsche, Schiller und die Physiologie der Kultur</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-010/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-010/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-010</description>
     </item>
     <item>
       <title>Friedrich Nietzsche – Die Basler Vorlesungen: Zur Einführung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-023/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-023</description>
     </item>
     <item>
       <title>Philology as an aesthetische Wissenschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-011/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-011/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-011</description>
     </item>
     <item>
       <title>Nietzsches Mysterien einer Philosophie des Tragischen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-012/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-012/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-012</description>
     </item>
     <item>
       <title>Auf der Suche nach der Instinktsprache in der Tragödie: Gebärden- und Tonsprache in Nietzsches Basler Vorlesungen</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-013/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-013/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-013</description>
     </item>
     <item>
       <title>Die Bedeutung von Nietzsches Empedokles-Lektüre für die Ausbildung seiner dionysischen Naturauffassung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-014/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-014</description>
     </item>
     <item>
       <title>Nietzsche’s Basel Lectures on Plato: Unveiling the Revolutionary Figure of the Philosopher as Legislator</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-015/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-015/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-015</description>
     </item>
     <item>
       <title>Die Nachplatonischen Philosophen: Über eine nie gehaltene Basler Vorlesung</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-016/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-016</description>
     </item>
     <item>
       <title>Was ist ein ‚wahrer‘ Lehrer?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-017/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-017</description>
     </item>
     <item>
       <title>Zur „Genesis des jetzigen Philologen“ anhand der Basler Schriften von Friedrich Nietzsche (1869–1875)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-018/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-018</description>
     </item>
     <item>
       <title>Vom Porträt zur Ikone – Die Online-Datenbank NietzschePics</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-019/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-019</description>
     </item>
     <item>
       <title>Nur ‚Künste und Listen der Selbst-Erhaltung‘?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-020/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-020</description>
     </item>
     <item>
       <title>Nietzsches Umwertung der platonischen und augustinischen Lichtmetaphorik</title>
       <link>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/NIFO-2024-021/html</guid>
+      <description>Article by Manuel Steiner DOI: https://doi.org/10.1515/NIFO-2024-021</description>
     </item>
   </channel>
 </rss>

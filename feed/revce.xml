@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Reviews in Chemical Engineering</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Reviews in Chemical Engineering</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revce.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2024-frontmatter8/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2024-frontmatter8/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2024-frontmatter8</description>
     </item>
     <item>
       <title>A review of confined impinging jet reactor (CIJR) with a perspective of mRNA-LNP vaccine production</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2024-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2024-0016/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2024-0016</description>
     </item>
     <item>
       <title>Development and prospect of the acetylene production chain based on the process systems engineering: a focus on the polyvinyl chloride production</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2024-0039/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2024-0039/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2024-0039</description>
     </item>
     <item>
       <title>Application of microencapsulated phase change materials for controlling exothermic reactions</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2024-0007/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2024-0007/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2024-0007</description>
     </item>
     <item>
       <title>Lithium–sulfur batteries beyond lithium-ion counterparts: reasonable substituting challenges, current research focus, binding critical role, and cathode designing</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2023-0059/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2023-0059/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2023-0059</description>
     </item>
     <item>
       <title>Magnetic particles–integrated microfluidics: from physical mechanisms to biological applications</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2023-0074/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2023-0074/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2023-0074</description>
     </item>
     <item>
       <title>Hollow fiber membrane technology applied for oily wastewater and wetland water treatment: a review</title>
       <link>https://www.degruyter.com/document/doi/10.1515/revce-2023-0048/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/revce-2023-0048/html</guid>
+      <description>Article by Muthia Elma, Aulia Rahma, Rhafiq Abdul Ghani, Zahratunisa Zahratunnisa, Fitri Ria Mustalifah, Riani Ayu Lestari, Nurul Huda, Erdina Lulu Atika Rampun, Awali Sir Kautsar Harivram DOI: https://doi.org/10.1515/revce-2023-0048</description>
     </item>
   </channel>
 </rss>

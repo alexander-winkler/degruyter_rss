@@ -1,58 +1,70 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Asiatische Studien - Études Asiatiques</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Asiatische Studien - Études Asiatiques</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2024-frontmatter3/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2024-frontmatter3/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2024-frontmatter3</description>
     </item>
     <item>
       <title>Intertextuality, Transtextuality, and Rewriting in the Jewish, Christian and Islamic Literary and Legal Traditions: Editorial</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2024-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2024-0023/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2024-0023</description>
     </item>
     <item>
       <title>Quranic Law and Its ‘Biblical’ Intertexts</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0017/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0017</description>
     </item>
     <item>
       <title>The Use of Islamic Legal Discourse in Literature: How Did Premodern Arab Critics Classify and Analyze Legal Intertextuality?</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0023/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0023</description>
     </item>
     <item>
       <title>Testimony, Lying and Calumny at the Interface of Islamic Law and Arabic Poetry</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0021/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0021</description>
     </item>
     <item>
       <title>An Appalled Ghost Guiding Readers Across Semiotic Fault Lines: The Contribution of Literature to the Appreciation of Legal Change</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0016/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0016</description>
     </item>
     <item>
       <title>General Remarks on Plagiarism and Authorship in Islamic Religious Texts and the Case of The Special Qualities of Friday by Zayn al-Dīn al-ʿĀmilī (d. 965/1558)</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0029/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0029/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0029</description>
     </item>
     <item>
       <title>Medieval Rabbinic Literature Seen in a New Light: The Sources of Yalkut Shimoni on the Book of the Twelve Prophets</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0027/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0027/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0027</description>
     </item>
     <item>
       <title>Ibn al-Ṭayyib’s Fiqh al-Naṣrāniyya</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0020/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0020</description>
     </item>
     <item>
       <title>The Quiet Quote: Thoughts on Quotation Norms and Plagiarism in the Judeo-Arabic Culture of the High and Late Middle Ages</title>
       <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0022/html</guid>
+      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0022</description>
     </item>
   </channel>
 </rss>

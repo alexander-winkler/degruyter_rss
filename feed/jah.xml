@@ -1,43 +1,52 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Journal of Ancient History</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Journal of Ancient History</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jah.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2024-frontmatter1/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2024-frontmatter1/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2024-frontmatter1</description>
     </item>
     <item>
       <title>Xenophon’s Memorabilia and Greek historiography. A comparative approach</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2021-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2021-0023/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2021-0023</description>
     </item>
     <item>
       <title>The Dardanians and the Origin of the So-Called “Macedonian Phalanx”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0006/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0006/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0006</description>
     </item>
     <item>
       <title>Cato as Disruptor: Republican ideology and the frustrated imperatores of the 60 s and 50 s BCE</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0008/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0008/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0008</description>
     </item>
     <item>
       <title>Augustus, Aediles and Censors in the Troubled Year of 22 BCE</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0001/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0001/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0001</description>
     </item>
     <item>
       <title>Novae erogationis ordinatio: Frontinus, Domitian, Nerva, and the Aqua Traiana</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0025/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0025</description>
     </item>
     <item>
       <title>Aspar and Apollonius–religion and politics in choosing the eastern consul for 460 CE</title>
       <link>https://www.degruyter.com/document/doi/10.1515/jah-2022-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/jah-2022-0022/html</guid>
+      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2022-0022</description>
     </item>
   </channel>
 </rss>

@@ -1,73 +1,140 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>FinanzRundschau</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in FinanzRundschau</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fr.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Titelei</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-frontmatter10621/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-frontmatter10621/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-frontmatter10621</description>
     </item>
     <item>
       <title>Inhalt</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-toc10621/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-toc10621/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-toc10621</description>
     </item>
     <item>
       <title>Aktuelle BFH-Judikatur zu Verlusten nach § 15a EStG – Bestandsaufnahme und Gestaltungsüberlegungen</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062101/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062101/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062101</description>
     </item>
     <item>
       <title>150 Jahre Maßgeblichkeitsgrundsatz – Zwischenbilanz und Prognose</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062102/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062102/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062102</description>
     </item>
     <item>
       <title>Tagungs- und Diskussionsbericht zum 92. Berliner Steuergespräch am 16.9.2024 „Aktuelle Probleme und Perspektiven der Kapitalertragsteuer“</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062103/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062103/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062103</description>
     </item>
     <item>
       <title>Die Justiz an der Spitze – ihrer Zeit voraus</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062104/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062104/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062104</description>
     </item>
     <item>
       <title>Erstattung von Quellensteuern – Statement</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062105/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062105/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062105</description>
     </item>
     <item>
       <title>Die Koppelung von Kinderfreibetrag und Kindergeld durch das Steuerfortentwicklungsgesetz (SteFeG) – Wirkungen und Implikationen</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062106/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062106/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062106</description>
     </item>
     <item>
       <title>Zum Zurechnungssubjekt des fiktiven Gewinns nach § 15a Abs. 3 EStG</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062107/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062107/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062107</description>
     </item>
     <item>
       <title>Aufwärtsabfärbung bei lediglich verrechenbaren Verlusten gem. § 15a EStG</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062108/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062108/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062108</description>
     </item>
     <item>
       <title>Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062109/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062109/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062109</description>
     </item>
     <item>
       <title>Schaumburg/Hendricks, Steuerrechtsschutz, 5. Aufl. 2024</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062110/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062110/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062110</description>
     </item>
     <item>
       <title>Impressum</title>
       <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062111/html</link>
       <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062111/html</guid>
+      <description>Article by 
+
+                Page range: r5-r10
+            
+ DOI: https://doi.org/10.9785/fr-2024-1062111</description>
     </item>
   </channel>
 </rss>

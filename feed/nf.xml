@@ -1,68 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>Neuroforum</title>
-    <link>www.degruyter.com</link>
-    <description/>
+    <link>https://www.degruyter.com</link>
+    <description>A RSS feed containing the latest articles published in Neuroforum</description>
+    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nf.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Frontmatter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-frontmatter4/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-frontmatter4/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-frontmatter4</description>
     </item>
     <item>
       <title>Neuroforum: vom gedruckten Heft ins elektronische Zeitalter</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0022/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0022/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0022</description>
     </item>
     <item>
       <title>The visual representation of space in the primate brain</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0019/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0019/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0019</description>
     </item>
     <item>
       <title>MicroRNAs in the auditory system: tiny molecules with big impact</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0016/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0016/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0016</description>
     </item>
     <item>
       <title>Non-coding repeat expansions associated with familial adult myoclonic epilepsy: a new paradigm of gene-independent monogenic disorders</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0024/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0024/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0024</description>
     </item>
     <item>
       <title>Forebrain development–an intricate balance decides between health and disease</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0023/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0023/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0023</description>
     </item>
     <item>
       <title>Collaborative Research Centre (CRC 1451) “Key mechanisms of motor control in health and disease”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0018/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0018/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0018</description>
     </item>
     <item>
       <title>Collaborative Research Center SFB 1528 “Cognition of Interaction”</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0020/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0020/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0020</description>
     </item>
     <item>
       <title>SPP2411: ‘Sensing LOOPS: cortico-subcortical interactions for adaptive sensing’</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0021/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0021/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0021</description>
     </item>
     <item>
       <title>Newly DFG-funded research training group at the University of Kassel: “Biological clocks on multiple time scales” GRK 2749/1</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0014/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0014/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0014</description>
     </item>
     <item>
       <title>Catching up in Cologne – 31st Neurobiology Doctoral Students Workshop in Cologne</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0017/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0017/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0017</description>
     </item>
     <item>
       <title>Nachrichten aus der Gesellschaft</title>
       <link>https://www.degruyter.com/document/doi/10.1515/nf-2022-0025/html</link>
       <guid>https://www.degruyter.com/document/doi/10.1515/nf-2022-0025/html</guid>
+      <description>Article by 
+
+                Page range: 259-262
+            
+ DOI: https://doi.org/10.1515/nf-2022-0025</description>
     </item>
   </channel>
 </rss>
