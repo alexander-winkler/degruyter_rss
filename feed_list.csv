@@ -2,12 +2,12 @@ Object,Title,Print - ISSN,Online - ISSN,Subject(s),DOI or URL,key,rss_feed
 ABITECH,ABI Technik,0720-6763,2191-4664,"Library and Information Science, Book Studies",http://dx.doi.org/10.1515/abitech,abitech,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abitech.xml
 ABPR,The African Book Publishing Record,0306-0322,1865-8717,"Library and Information Science, Book Studies",http://dx.doi.org/10.1515/abpr,abpr,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abpr.xml
 ACV,Advances in Calculus of Variations,,1864-8266,Mathematics,http://dx.doi.org/10.1515/acv,acv,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/acv.xml
-ADV GEOM,Advances in Geometry ,1615-715X,1615-7168,Mathematics,http://dx.doi.org/10.1515/advg ,advg,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml
-AEL,"Accounting, Economics, and Law: A Convivium",,2152-2820,Business and Economics,https://www.degruyter.com/ael,ael,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ael.xml
-AFP,AfP,0949-2100,2366-0945,Law ,https://www.degruyter.com/afp,afp,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/afp.xml
-AG,Die Aktiengesellschaft,0002-3752,2366-097X,Law ,https://www.degruyter.com/ag,ag,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ag.xml
-AGPH,Archiv für Geschichte der Philosophie,0003-9101,1613-0650,Philosophy,http://dx.doi.org/10.1515/agph ,agph,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/agph.xml
-AJLE,Asian Journal of Law and Economics,,2154-4611,Law ,https://www.degruyter.com/ajle,ajle,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ajle.xml
+ADV GEOM,Advances in Geometry ,1615-715X,1615-7168,Mathematics,http://dx.doi.org/10.1515/advg ,advg,
+AEL,"Accounting, Economics, and Law: A Convivium",,2152-2820,Business and Economics,https://www.degruyter.com/ael,ael,
+AFP,AfP,0949-2100,2366-0945,Law ,https://www.degruyter.com/afp,afp,
+AG,Die Aktiengesellschaft,0002-3752,2366-097X,Law ,https://www.degruyter.com/ag,ag,
+AGPH,Archiv für Geschichte der Philosophie,0003-9101,1613-0650,Philosophy,http://dx.doi.org/10.1515/agph ,agph,
+AJLE,Asian Journal of Law and Economics,,2154-4611,Law ,https://www.degruyter.com/ajle,ajle,
 AMMIN,American Mineralogist,,1945-3027,Materials Sciences,https://www.degruyter.com/ammin,ammin,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ammin.xml
 ANAB,Antike und Abendland,0003-5696,1613-0421,Classical and Ancient Near Eastern Studies,http://dx.doi.org/10.1515/anti,anti,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anti.xml
 ANG,Anglia,0340-5222,1865-8938,Linguistics and Semiotics,http://dx.doi.org/10.1515/angl,angl,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/angl.xml
@@ -18,7 +18,7 @@ AOT,Advanced Optical Technologies,2192-8576,2192-8584,Physics,https://www.degruy
 APEIRON,Apeiron,0003-6390,2156-7093,Classical and Ancient Near Eastern Studies,http://dx.doi.org/10.1515/apeiron,apeiron,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml
 APF,Archiv für Papyrusforschung und verwandte Gebiete,0066-6459,1867-1551,Classical and Ancient Near Eastern Studies,http://dx.doi.org/10.1515/apf,apf,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apf.xml
 APJRI,Asia-Pacific Journal of Risk and Insurance,,2153-3792,Business and Economics,https://www.degruyter.com/apjri,apjri,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apjri.xml
-APPLIREV,Applied Linguistics Review,1868-6303,1868-6311,Linguistics and Semiotics,http://dx.doi.org/10.1515/alr,alr,
+APPLIREV,Applied Linguistics Review,1868-6303,1868-6311,Linguistics and Semiotics,http://dx.doi.org/10.1515/alr,alr,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/alr.xml
 ARB,Arbitrium,0723-2977,1865-8849,Literary Studies,http://dx.doi.org/10.1515/arbi,arbi,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbi.xml
 ARBEIT,Arbeit,0941-5025,2365-984X,Business and Economics,https://www.degruyter.com/arbeit,arbeit,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbeit.xml
 ARCADIA,arcadia,0003-7982,1613-0642,Literary Studies,http://dx.doi.org/10.1515/arca ,arca,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arca.xml
@@ -48,27 +48,27 @@ CI,Chemistry International,0193-6484,1365-2192,Chemistry,https://www.degruyter.c
 CJAL,Chinese Journal of Applied Linguistics,2192-9505,2192-9513,Linguistics and Semiotics,https://www.degruyter.com/cjal,cjal,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cjal.xml
 CLLT,Corpus Linguistics and Linguistic Theory,1613-7027,1613-7035,Linguistics and Semiotics,http://dx.doi.org/10.1515/cllt ,cllt,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml
 CMAM,Computational Methods in Applied Mathematics,1609-4840,1609-9389,Mathematics,https://www.degruyter.com/cmam,cmam,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cmam.xml
-COG,Cognitive Linguistics,0936-5907,1613-3641,Linguistics and Semiotics,http://dx.doi.org/10.1515/cogl ,cogl,
-COGSEM,Cognitive Semiotics,,2235-2066,Linguistics and Semiotics,https://www.degruyter.com/cogsem,cogsem,
-COMMUN,Communications,0341-2059,1613-4087,Social Sciences,http://dx.doi.org/10.1515/comm ,comm,
-CORRREV,Corrosion Reviews,0334-6005,2191-0316,Materials Sciences,http://dx.doi.org/10.1515/corrrev,corrrev,
-CPPM,Chemical Product and Process Modeling,,1934-2659,Industrial Chemistry,https://www.degruyter.com/cppm,cppm,
-CR,Computer und Recht,0179-1990,2194-4172,Law ,https://www.degruyter.com/cr,cr,
-CRELLE,Journal für die reine und angewandte Mathematik,0075-4102,1435-5345,Mathematics,http://dx.doi.org/10.1515/crll ,crll,
-CRI,Computer Law Review International,1610-7608,2194-4164,Law ,https://www.degruyter.com/cri,cri,
-CSS,Chinese Semiotic Studies,2198-9605,2198-9613,Linguistics and Semiotics,https://www.degruyter.com/css,css,
-DANTE,Deutsches Dante-Jahrbuch,0070-444X,2194-4059,Literary Studies,https://www.degruyter.com/dante,dante,
-DCS,Digital Culture & Society,2364-2114,2364-2122,Cultural Studies,https://www.degruyter.com/dcs,dcs,
-DIALECT,Dialectologia et Geolinguistica,0942-4040,1867-0903,Linguistics and Semiotics,http://dx.doi.org/10.1515/dig,dig,
-DKP,Die Denkmalpflege,0947-031X,2569-1589 ,Arts,https://www.degruyter.com/dkp,dkp,
-DMA,Discrete Mathematics and Applications,0924-9265,1569-3929,Mathematics,http://dx.doi.org/10.1515/dma,dma,
+COG,Cognitive Linguistics,0936-5907,1613-3641,Linguistics and Semiotics,http://dx.doi.org/10.1515/cogl ,cogl,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml
+COGSEM,Cognitive Semiotics,,2235-2066,Linguistics and Semiotics,https://www.degruyter.com/cogsem,cogsem,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogsem.xml
+COMMUN,Communications,0341-2059,1613-4087,Social Sciences,http://dx.doi.org/10.1515/comm ,comm,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/comm.xml
+CORRREV,Corrosion Reviews,0334-6005,2191-0316,Materials Sciences,http://dx.doi.org/10.1515/corrrev,corrrev,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/corrrev.xml
+CPPM,Chemical Product and Process Modeling,,1934-2659,Industrial Chemistry,https://www.degruyter.com/cppm,cppm,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cppm.xml
+CR,Computer und Recht,0179-1990,2194-4172,Law ,https://www.degruyter.com/cr,cr,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cr.xml
+CRELLE,Journal für die reine und angewandte Mathematik,0075-4102,1435-5345,Mathematics,http://dx.doi.org/10.1515/crll ,crll,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crll.xml
+CRI,Computer Law Review International,1610-7608,2194-4164,Law ,https://www.degruyter.com/cri,cri,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cri.xml
+CSS,Chinese Semiotic Studies,2198-9605,2198-9613,Linguistics and Semiotics,https://www.degruyter.com/css,css,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml
+DANTE,Deutsches Dante-Jahrbuch,0070-444X,2194-4059,Literary Studies,https://www.degruyter.com/dante,dante,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dante.xml
+DCS,Digital Culture & Society,2364-2114,2364-2122,Cultural Studies,https://www.degruyter.com/dcs,dcs,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dcs.xml
+DIALECT,Dialectologia et Geolinguistica,0942-4040,1867-0903,Linguistics and Semiotics,http://dx.doi.org/10.1515/dig,dig,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dig.xml
+DKP,Die Denkmalpflege,0947-031X,2569-1589 ,Arts,https://www.degruyter.com/dkp,dkp,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dkp.xml
+DMA,Discrete Mathematics and Applications,0924-9265,1569-3929,Mathematics,http://dx.doi.org/10.1515/dma,dma,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml
 DMDI,Drug Metabolism and Personalized Therapy,,2363-8915,Medicine,http://dx.doi.org/10.1515/dmpt,dmpt,
-DMVM,Mitteilungen der Deutschen Mathematiker-Vereinigung,0947-4471,0942-5977,Mathematics,https://www.degruyter.com/dmvm,dmvm,
-DWIR,Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht,1439-1589,1612-7056,Law ,http://dx.doi.org/10.1515/dwir ,dwir,
-DX,Diagnosis,,2194-802X,Medicine,http://dx.doi.org/10.1515/dx,dx,
+DMVM,Mitteilungen der Deutschen Mathematiker-Vereinigung,0947-4471,0942-5977,Mathematics,https://www.degruyter.com/dmvm,dmvm,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmvm.xml
+DWIR,Deutsche Zeitschrift für Wirtschafts- und Insolvenzrecht,1439-1589,1612-7056,Law ,http://dx.doi.org/10.1515/dwir ,dwir,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dwir.xml
+DX,Diagnosis,,2194-802X,Medicine,http://dx.doi.org/10.1515/dx,dx,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml
 DZPH,Deutsche Zeitschrift für Philosophie,0012-1045,2192-1482,Philosophy,https://www.degruyter.com/dzph,dzph,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml
 ECFR,European Company and Financial Law Review,1613-2548,1613-2556,Law ,http://dx.doi.org/10.1515/ecfr ,ecfr,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml
-EDITIO,editio,0931-3079,1865-9446,Literary Studies,http://dx.doi.org/10.1515/edit,edit,
+EDITIO,editio,0931-3079,1865-9446,Literary Studies,http://dx.doi.org/10.1515/edit,edit,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/edit.xml
 EDULING,Educational Linguistics,2748-9310,2748-9329 ,Linguistics and Semiotics,https://www.degruyter.com/EDULING,EDULING,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/EDULING.xml
 EJSS,European Journal of Scandinavian Studies,2191-9399,2191-9402,Literary Studies,http://dx.doi.org/10.1515/ejss,ejss,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ejss.xml
 ELEN,Elenchos,0392-7342,2037-7177,Classical and Ancient Near Eastern Studies,https://www.degruyter.com/elen,elen,https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml
