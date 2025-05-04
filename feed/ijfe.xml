@@ -1,52 +1,61 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>International Journal of Food Engineering</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in International Journal of Food Engineering</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijfe.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-frontmatter9-10/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-frontmatter9-10/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-frontmatter9-10</description>
-    </item>
-    <item>
-      <title>Review: research progress on the extraction and utilization of polysaccharide components in grey dates</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0107/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-0107</description>
-    </item>
-    <item>
-      <title>Ozone processing of milk and milk products: a review of applications, quality effect and implementation challenges</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0113/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0113/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-0113</description>
-    </item>
-    <item>
-      <title>Interaction between soy hull polysaccharide and mucin with sodium-/potassium-ion treatment: interfacial property</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0095/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0095/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-0095</description>
-    </item>
-    <item>
-      <title>Pulse echo method for characterizing the ultrasonic properties of argan oil compared to vegetable oils with similar fatty acid profiles</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0061/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0061/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-0061</description>
-    </item>
-    <item>
-      <title>Physicochemical properties in relation to the flow behavior of soybean meal</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0005/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-0005</description>
-    </item>
-    <item>
-      <title>Efficacy for aspiration prevention through thickening of liquid foods evaluated using a swallowing model apparatus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0076/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijfe-2024-0076/html</guid>
-      <description>Article by Masanori Yoshida, Yuichiro Takako, Haruka Ono, Ryota Suzuki DOI: https://doi.org/10.1515/ijfe-2024-0076</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>International Journal of Food Engineering</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ijfe/21/3/html"/>
+  <updated>2025-05-04T22:06:43.995185+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijfe.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in International Journal of Food Engineering</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijfe.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/ijfe-2025-frontmatter3</id>
+    <updated>2025-05-04T22:06:43.995230+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ijfe-2025-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Quantitation of adulterated honey by three-dimensional fluorescence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0196/html"/>
+    <id>https://doi.org/10.1515/ijfe-2024-0196</id>
+    <updated>2025-05-04T22:06:43.995239+00:00</updated>
+    <summary>Article by Lin Cong, Hua Bai, Fangdi Cong
+DOI: https://doi.org/10.1515/ijfe-2024-0196</summary>
+  </entry>
+  <entry>
+    <title>Insights into the physicochemical stability of ammonium glycyrrhizate and curcumin nanocomplexes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0244/html"/>
+    <id>https://doi.org/10.1515/ijfe-2024-0244</id>
+    <updated>2025-05-04T22:06:43.995252+00:00</updated>
+    <summary>Article by Yonghui Wang, Jingwen Wu, Weiyun Guo, Xueli Gao, Guanghui Li, Shenghua He, Jihong Huang, Zirui Du, Sa Wen
+DOI: https://doi.org/10.1515/ijfe-2024-0244</summary>
+  </entry>
+  <entry>
+    <title>Improving delivery capacity of soy 7S protein via high pressure homogenization: in the case of vitamin D3</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0258/html"/>
+    <id>https://doi.org/10.1515/ijfe-2024-0258</id>
+    <updated>2025-05-04T22:06:43.995260+00:00</updated>
+    <summary>Article by Zhengsong Chen, Wenjing Zhong, Jie Xia, Jianhua Zhu
+DOI: https://doi.org/10.1515/ijfe-2024-0258</summary>
+  </entry>
+  <entry>
+    <title>Conventional and microwave drying of kefir grains: effect on drying, rehydration and fermentation kinetics and viability of kefir grains</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0059/html"/>
+    <id>https://doi.org/10.1515/ijfe-2024-0059</id>
+    <updated>2025-05-04T22:06:43.995271+00:00</updated>
+    <summary>Article by Sena Nur Karabekiroğlu, Dilek Kılıç
+DOI: https://doi.org/10.1515/ijfe-2024-0059</summary>
+  </entry>
+  <entry>
+    <title>An application of drop test analysis on chicken eggs under different drop angles</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0029/html"/>
+    <id>https://doi.org/10.1515/ijfe-2024-0029</id>
+    <updated>2025-05-04T22:06:43.995279+00:00</updated>
+    <summary>Article by Seyhan Özen, Ramazan Bayrak, Hamit Kenan, Hüseyin Rıza Börklü
+DOI: https://doi.org/10.1515/ijfe-2024-0029</summary>
+  </entry>
+</feed>

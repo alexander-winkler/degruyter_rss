@@ -1,220 +1,212 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Paragrana</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Paragrana</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/para.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-frontmatter1/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0001/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0001</description>
-    </item>
-    <item>
-      <title>Grenzen – Beiträge zur Genealogie eines Konzepts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0002/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0002</description>
-    </item>
-    <item>
-      <title>Bildsamkeit, Vervollkommnung und Optimierung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0003/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0003</description>
-    </item>
-    <item>
-      <title>Optimierung von Subsumtionsprozessen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0004/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0004</description>
-    </item>
-    <item>
-      <title>Zu Grenzen in und von Menschenbildern</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0005/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0005</description>
-    </item>
-    <item>
-      <title>Die Bedeutung der Grenze für die Heil- und Sonderpädagogik</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0006/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0006</description>
-    </item>
-    <item>
-      <title>Not happy to bleed</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0007/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0007</description>
-    </item>
-    <item>
-      <title>Abgrenzen/Ausgrenzen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0008/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0008</description>
-    </item>
-    <item>
-      <title>Polyvalente Versuche der normalistischen Be- und Abgrenzung des Humanen in Präventionsmaßnahmen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0009/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0009</description>
-    </item>
-    <item>
-      <title>Limits of the Naturalization of Learning</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0010/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0010</description>
-    </item>
-    <item>
-      <title>Homo Digitalis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0011/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0011</description>
-    </item>
-    <item>
-      <title>Entgrenzungen und Begrenzungen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0012/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0012</description>
-    </item>
-    <item>
-      <title>Be- und Entgrenzungen des Körpers in den Social Media</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0013/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0013</description>
-    </item>
-    <item>
-      <title>Dating the Dawn of the Anthropocene</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0014/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0014</description>
-    </item>
-    <item>
-      <title>Die neue Aktualität der Grenzen im Anthropozän</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0015/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0015</description>
-    </item>
-    <item>
-      <title>Grenzen und Entgrenzung der Selbst-Entwicklung im Kontext einer zukunftsfähigen Welt</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0016/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0016</description>
-    </item>
-    <item>
-      <title>Zur Entgrenzung der Verantwortungsethik in der planetarischen Bildung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0017/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0017</description>
-    </item>
-    <item>
-      <title>Über die transformative Bedeutung von Emotionen in einer humanen Globalgesellschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0018/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0018</description>
-    </item>
-    <item>
-      <title>Grenzwertige Weltverhältnisse und transformierende Nachhaltigkeit</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0019/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0019</description>
-    </item>
-    <item>
-      <title>Autorinnen und Autoren</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/para-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/para-2024-0020/html</guid>
-      <description>Article by 
-
-                Page range: 249-251
-            
- DOI: https://doi.org/10.1515/para-2024-0020</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Paragrana</title>
+  <link href="https://www.degruyterbrill.com/journal/key/para/33/2/html"/>
+  <updated>2025-05-04T22:10:55.216955+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/para.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Paragrana</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/para.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/para-2024-frontmatter2</id>
+    <updated>2025-05-04T22:10:55.216980+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/para-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0021/html"/>
+    <id>https://doi.org/10.1515/para-2024-0021</id>
+    <updated>2025-05-04T22:10:55.216987+00:00</updated>
+    <summary>Article by Christoph Wulf
+DOI: https://doi.org/10.1515/para-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Welterbe und Immaterielles Erbe – Was verbindet es und was unterscheidet es?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0022/html"/>
+    <id>https://doi.org/10.1515/para-2024-0022</id>
+    <updated>2025-05-04T22:10:55.216996+00:00</updated>
+    <summary>Article by Marie-Theres Albert
+DOI: https://doi.org/10.1515/para-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Die Umsetzung des UNESCO-Übereinkommens zur Erhaltung des immateriellen Kulturerbes von 2003 in der Bundesrepublik Deutschland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0023/html"/>
+    <id>https://doi.org/10.1515/para-2024-0023</id>
+    <updated>2025-05-04T22:10:55.217002+00:00</updated>
+    <summary>Article by Tolin Jojo
+DOI: https://doi.org/10.1515/para-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>Probleme und Chancen der Weitergabe traditioneller Kulturformen in den Bewerbungsdossiers auf der bundesdeutschen Liste des Immateriellen Kulturerbes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0024/html"/>
+    <id>https://doi.org/10.1515/para-2024-0024</id>
+    <updated>2025-05-04T22:10:55.217009+00:00</updated>
+    <summary>Article by Manfred Seifert
+DOI: https://doi.org/10.1515/para-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>Immaterielles Kulturerbe – Beratung als Cultural Brokerage</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0025/html"/>
+    <id>https://doi.org/10.1515/para-2024-0025</id>
+    <updated>2025-05-04T22:10:55.217015+00:00</updated>
+    <summary>Article by Helmut Groschwitz
+DOI: https://doi.org/10.1515/para-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Immaterielles Kulturerbe als guter Grund</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0026/html"/>
+    <id>https://doi.org/10.1515/para-2024-0026</id>
+    <updated>2025-05-04T22:10:55.217020+00:00</updated>
+    <summary>Article by Marie Enders
+DOI: https://doi.org/10.1515/para-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>Kultur, Tradition und gesellschaftlicher Wandel – Potentiale des UNESCO-Übereinkommens zur Erhaltung des Immateriellen Kulturerbes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0027/html"/>
+    <id>https://doi.org/10.1515/para-2024-0027</id>
+    <updated>2025-05-04T22:10:55.217027+00:00</updated>
+    <summary>Article by Gabriele Detschmann, Gabriele Eschig, Maria Walcher
+DOI: https://doi.org/10.1515/para-2024-0027</summary>
+  </entry>
+  <entry>
+    <title>Täler tief, Berge hoch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0028/html"/>
+    <id>https://doi.org/10.1515/para-2024-0028</id>
+    <updated>2025-05-04T22:10:55.217033+00:00</updated>
+    <summary>Article by Stefan Koslowski, Julien Vuilleumier
+DOI: https://doi.org/10.1515/para-2024-0028</summary>
+  </entry>
+  <entry>
+    <title>Images of Living Culture</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0029/html"/>
+    <id>https://doi.org/10.1515/para-2024-0029</id>
+    <updated>2025-05-04T22:10:55.217039+00:00</updated>
+    <summary>Article by Chiara Simonigh
+DOI: https://doi.org/10.1515/para-2024-0029</summary>
+  </entry>
+  <entry>
+    <title>Wie „lebendig“ mussLiving Heritagesein?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0030/html"/>
+    <id>https://doi.org/10.1515/para-2024-0030</id>
+    <updated>2025-05-04T22:10:55.217044+00:00</updated>
+    <summary>Article by Tiago de Oliveira Pinto
+DOI: https://doi.org/10.1515/para-2024-0030</summary>
+  </entry>
+  <entry>
+    <title>Digitale Kultur ist Living Heritage</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0031/html"/>
+    <id>https://doi.org/10.1515/para-2024-0031</id>
+    <updated>2025-05-04T22:10:55.217050+00:00</updated>
+    <summary>Article by Andreas Lange
+DOI: https://doi.org/10.1515/para-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>Moderner Tanz in Deutschland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0032/html"/>
+    <id>https://doi.org/10.1515/para-2024-0032</id>
+    <updated>2025-05-04T22:10:55.217056+00:00</updated>
+    <summary>Article by Vicky Kämpfe
+DOI: https://doi.org/10.1515/para-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Heiterkeit als immaterielles Kulturerbe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0033/html"/>
+    <id>https://doi.org/10.1515/para-2024-0033</id>
+    <updated>2025-05-04T22:10:55.217062+00:00</updated>
+    <summary>Article by Anja Kraus
+DOI: https://doi.org/10.1515/para-2024-0033</summary>
+  </entry>
+  <entry>
+    <title>Trockensteinbau: immaterielle Praktiken und UNESCO Welterbe Kulturlandschaften</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0034/html"/>
+    <id>https://doi.org/10.1515/para-2024-0034</id>
+    <updated>2025-05-04T22:10:55.217071+00:00</updated>
+    <summary>Article by Mechtild Rössler
+DOI: https://doi.org/10.1515/para-2024-0034</summary>
+  </entry>
+  <entry>
+    <title>Renewing Museum Meanings and Action with Intangible Cultural Heritage</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0035/html"/>
+    <id>https://doi.org/10.1515/para-2024-0035</id>
+    <updated>2025-05-04T22:10:55.217077+00:00</updated>
+    <summary>Article by Michelle L. Stefano
+DOI: https://doi.org/10.1515/para-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Museen und ihre Verantwortung für die Bewahrung des immateriellen Kulturerbes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0036/html"/>
+    <id>https://doi.org/10.1515/para-2024-0036</id>
+    <updated>2025-05-04T22:10:55.217083+00:00</updated>
+    <summary>Article by Hartwig Lüdtke
+DOI: https://doi.org/10.1515/para-2024-0036</summary>
+  </entry>
+  <entry>
+    <title>Immaterielles Kulturerbe und Museumspraxis: Zum Beispiel Alltagskultur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0037/html"/>
+    <id>https://doi.org/10.1515/para-2024-0037</id>
+    <updated>2025-05-04T22:10:55.217089+00:00</updated>
+    <summary>Article by Sabine Zinn-Thomas
+DOI: https://doi.org/10.1515/para-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>Museen, Objekte und Praktiken</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0038/html"/>
+    <id>https://doi.org/10.1515/para-2024-0038</id>
+    <updated>2025-05-04T22:10:55.217094+00:00</updated>
+    <summary>Article by Bernd Wagner, Klaus-Christian Zehbe
+DOI: https://doi.org/10.1515/para-2024-0038</summary>
+  </entry>
+  <entry>
+    <title>Lasst uns zusammenkommen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0039/html"/>
+    <id>https://doi.org/10.1515/para-2024-0039</id>
+    <updated>2025-05-04T22:10:55.217100+00:00</updated>
+    <summary>Article by Chiara Bortolotto
+DOI: https://doi.org/10.1515/para-2024-0039</summary>
+  </entry>
+  <entry>
+    <title>Immaterielles Kulturerbe im Strukturwandel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0040/html"/>
+    <id>https://doi.org/10.1515/para-2024-0040</id>
+    <updated>2025-05-04T22:10:55.217106+00:00</updated>
+    <summary>Article by Marlen Meißner
+DOI: https://doi.org/10.1515/para-2024-0040</summary>
+  </entry>
+  <entry>
+    <title>Empfehlungen zum künftigen Umgang mit dem Immateriellen Kulturerbe in Deutschland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0041/html"/>
+    <id>https://doi.org/10.1515/para-2024-0041</id>
+    <updated>2025-05-04T22:10:55.217111+00:00</updated>
+    <summary>Article by Benjamin Hanke
+DOI: https://doi.org/10.1515/para-2024-0041</summary>
+  </entry>
+  <entry>
+    <title>Bildung durch immaterielles kulturelles Erbe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0042/html"/>
+    <id>https://doi.org/10.1515/para-2024-0042</id>
+    <updated>2025-05-04T22:10:55.217117+00:00</updated>
+    <summary>Article by Christoph Wulf
+DOI: https://doi.org/10.1515/para-2024-0042</summary>
+  </entry>
+  <entry>
+    <title>Digital-kulturelle Praktiken als Immaterielles Kulturerbe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0043/html"/>
+    <id>https://doi.org/10.1515/para-2024-0043</id>
+    <updated>2025-05-04T22:10:55.217122+00:00</updated>
+    <summary>Article by Leopold Klepacki, Benjamin Jörissen
+DOI: https://doi.org/10.1515/para-2024-0043</summary>
+  </entry>
+  <entry>
+    <title>Autorinnen und Autoren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0044/html"/>
+    <id>https://doi.org/10.1515/para-2024-0044</id>
+    <updated>2025-05-04T22:10:55.217128+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/para-2024-0044</summary>
+  </entry>
+</feed>

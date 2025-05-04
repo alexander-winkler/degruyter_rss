@@ -1,124 +1,164 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für celtische Philologie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für celtische Philologie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zcph.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-frontmatter7001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-frontmatter7001/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-frontmatter7001</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-toc/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-toc/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-toc</description>
-    </item>
-    <item>
-      <title>Prof. John Rhŷs in the Isle of Man (1886–1893): The Manx of his informants</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0001/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0001</description>
-    </item>
-    <item>
-      <title>A lucht chumas bhréig san dán: A satire on praise poets</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0002/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0002</description>
-    </item>
-    <item>
-      <title>The Irish myth of Balar’s killing by Lug, the Norse myth of Baldr’s killing by Loki, and the Indic myth of the Wounded Sun</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0003/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0003</description>
-    </item>
-    <item>
-      <title>Atd-īus dūib a n-aicned fīr – A poem about tears of repentance</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0004/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0004</description>
-    </item>
-    <item>
-      <title>The -o/-u vocalism of particles and preverbs in the Old Irish glosses</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0005/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0005</description>
-    </item>
-    <item>
-      <title>Bringing up boys: four Old Irish terms, Cú Chulainn’s two early birth-tales, and Celtic pederasty</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0006/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0006</description>
-    </item>
-    <item>
-      <title>Latin plouum as a Gaulish loanword: a new Celto-Germanic isogloss</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0007/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0007</description>
-    </item>
-    <item>
-      <title>Zu altkeltisch Amretoutus (CIL XIII 3991)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0008/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0008</description>
-    </item>
-    <item>
-      <title>Arbuthnot, S. J., et al. (ed.): The Gaelic Finn tradition II</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0009/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0009</description>
-    </item>
-    <item>
-      <title>Cordo Russo, L.: Mabinogion, Relatos Galeses Medievales</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0010/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0010</description>
-    </item>
-    <item>
-      <title>Huws, D.: A repertory of Welsh manuscripts and scribes c. 800–c. 1800</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0011/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0011</description>
-    </item>
-    <item>
-      <title>Karl, R. &amp; K. Möller (ed.): Proceedings of the second European symposium</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0012/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0012</description>
-    </item>
-    <item>
-      <title>Mac Mathúna, Liam: The Ó Neachtain window on Gaelic Dublin, 1700–1750</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0013/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0013</description>
-    </item>
-    <item>
-      <title>Meid, W. (ed.): Der Rinderraub. Táin Bó Cúailnge in Auszügen …</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0014/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0014</description>
-    </item>
-    <item>
-      <title>Ní Úrdail, M.: Pádraig Ó Laoghaire (1870–1896) …</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0015/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0015</description>
-    </item>
-    <item>
-      <title>Rodway, S. et al., (ed.): Celts, Gaels, and Britons … [Festschrift P. Sims-Williams]</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0016/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0016</description>
-    </item>
-    <item>
-      <title>Theuerkauf, Marie-Luise: Dindshenchas Érenn</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zcph-2023-0017/html</guid>
-      <description>Article by Sharon Arbuthnot DOI: https://doi.org/10.1515/zcph-2023-0017</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für celtische Philologie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zcph/71/1/html"/>
+  <updated>2025-05-04T22:13:29.066332+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zcph.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für celtische Philologie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zcph.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-toc7101/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-toc7101</id>
+    <updated>2025-05-04T22:13:29.066355+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zcph-2024-toc7101</summary>
+  </entry>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-frontmatter7101/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-frontmatter7101</id>
+    <updated>2025-05-04T22:13:29.066362+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zcph-2024-frontmatter7101</summary>
+  </entry>
+  <entry>
+    <title>Lepontische Inschriften aus dem Brembanatal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0001/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0001</id>
+    <updated>2025-05-04T22:13:29.066367+00:00</updated>
+    <summary>Article by Matthias Donners
+DOI: https://doi.org/10.1515/zcph-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>Digamma and Prestino and related matters</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0002/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0002</id>
+    <updated>2025-05-04T22:13:29.066374+00:00</updated>
+    <summary>Article by Joseph F. Eska
+DOI: https://doi.org/10.1515/zcph-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Script transfer and Laryngeal Realism, and script reform</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0003/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0003</id>
+    <updated>2025-05-04T22:13:29.066380+00:00</updated>
+    <summary>Article by Joseph F. Eska
+DOI: https://doi.org/10.1515/zcph-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>Celtic influence in the Latin of the curse tablet from Ratcliffe-on-Soar (Nottinghamshire)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0004/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0004</id>
+    <updated>2025-05-04T22:13:29.066386+00:00</updated>
+    <summary>Article by Mark Darling
+DOI: https://doi.org/10.1515/zcph-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Medieval Irish supernatural beings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0005/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0005</id>
+    <updated>2025-05-04T22:13:29.066391+00:00</updated>
+    <summary>Article by Sharon Arbuthnot
+DOI: https://doi.org/10.1515/zcph-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>The deaths of Baldr and Fergus mac Roig</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0006/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0006</id>
+    <updated>2025-05-04T22:13:29.066399+00:00</updated>
+    <summary>Article by Kim McCone
+DOI: https://doi.org/10.1515/zcph-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>‘To the waters and the wild’: Patterns, themes and variations in tales of the birth and youth, of Ireland’s Cormac, Níall and Brigit, Rome’s founder(s), and other kings and heroes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0007/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0007</id>
+    <updated>2025-05-04T22:13:29.066407+00:00</updated>
+    <summary>Article by Kim McCone
+DOI: https://doi.org/10.1515/zcph-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Style and syntax in Roger Smyth’s Early-Modern Welsh paratexts (1609–1612)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0008/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0008</id>
+    <updated>2025-05-04T22:13:29.066413+00:00</updated>
+    <summary>Article by Erich Poppe, Raphael Sackmann
+DOI: https://doi.org/10.1515/zcph-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>Christina Cleary &amp; Chantal Kobel (ed.): Essays in memory of Eleanor Knott</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0009/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0009</id>
+    <updated>2025-05-04T22:13:29.066419+00:00</updated>
+    <summary>Article by Eoghan Ó. Raghallaigh
+DOI: https://doi.org/10.1515/zcph-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>Michaela Jacques: Grammar and Poetry in Late Medieval and Early Modern Wales. The Transmission and Reception of the Welsh Bardic Grammars</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0010/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0010</id>
+    <updated>2025-05-04T22:13:29.066425+00:00</updated>
+    <summary>Article by Erich Poppe
+DOI: https://doi.org/10.1515/zcph-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>Barry L. Lewis: Bonedd y Saint: An Edition and Study of the Genealogies of the Welsh Saints</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0011/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0011</id>
+    <updated>2025-05-04T22:13:29.066431+00:00</updated>
+    <summary>Article by Stefan Zimmer
+DOI: https://doi.org/10.1515/zcph-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Wolfgang Meid (Hg.): Der Sturm auf Da Dergas Herberge. Togail Bruidne Da Derga. Altirische Sage in gekürzter Bearbeitung, mit Einleitung, altirisch restituiertem Text, Übersetzung, Kommentar und Glossar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0012/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0012</id>
+    <updated>2025-05-04T22:13:29.066440+00:00</updated>
+    <summary>Article by Christina Cleary
+DOI: https://doi.org/10.1515/zcph-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>Wolfgang Meid (Hg.): Die Werbung um Étaín. Tochmarc Étaíne. Eine altirische Sage. Restaurierter altirischer Text, mit Einleitung, Übersetzung, Kommentar und Glossar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0013/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0013</id>
+    <updated>2025-05-04T22:13:29.066446+00:00</updated>
+    <summary>Article by Christina Cleary
+DOI: https://doi.org/10.1515/zcph-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Kevin Murray (ed.): Oidheadh Chloinne hUisneach: Reassessments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0014/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0014</id>
+    <updated>2025-05-04T22:13:29.066451+00:00</updated>
+    <summary>Article by Mícheál Hoyne
+DOI: https://doi.org/10.1515/zcph-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>Aengus Ó Fionnagáin &amp; Gordon Ó Riain (ed.): Léann na Sionainne</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0015/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0015</id>
+    <updated>2025-05-04T22:13:29.066457+00:00</updated>
+    <summary>Article by Deirdre Nic Chárthaigh
+DOI: https://doi.org/10.1515/zcph-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>Kerstin Plein: Verbalkongruenz im Mittelkymrischen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0016/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0016</id>
+    <updated>2025-05-04T22:13:29.066462+00:00</updated>
+    <summary>Article by David Willis
+DOI: https://doi.org/10.1515/zcph-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>Pádraigín Riggs (ed.): The wars of Charlemagne: reassessments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0017/html"/>
+    <id>https://doi.org/10.1515/zcph-2024-0017</id>
+    <updated>2025-05-04T22:13:29.066467+00:00</updated>
+    <summary>Article by Uáitéar Mac Gearailt
+DOI: https://doi.org/10.1515/zcph-2024-0017</summary>
+  </entry>
+</feed>

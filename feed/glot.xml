@@ -1,46 +1,68 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Glottotheory </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Glottotheory </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-frontmatter1/html</guid>
-      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Models of conversion in Modern English</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/glot-2022-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/glot-2022-2008/html</guid>
-      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2022-2008</description>
-    </item>
-    <item>
-      <title>Scenic communication in specialized communication</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2005/html</guid>
-      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2005</description>
-    </item>
-    <item>
-      <title>Beyond warzones: conflict-stricken states as viewed by the Czech corpus collocations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2002/html</guid>
-      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2002</description>
-    </item>
-    <item>
-      <title>Verfasserverweise und Typen wissenschaftssprachlichen Handelns: Eine vergleichende Korpusstudie anhand deutscher und polnischer Abschlussarbeiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2004/html</guid>
-      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2004</description>
-    </item>
-    <item>
-      <title>Repräsentation der positiven Basisemotionen in der deutschen digitalen kommunikation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/glot-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/glot-2024-2003/html</guid>
-      <description>Article by Larysa Kovbasyuk, Natalia Romanova DOI: https://doi.org/10.1515/glot-2024-2003</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Glottotheory </title>
+  <link href="https://www.degruyterbrill.com/journal/key/glot/15/2/html"/>
+  <updated>2025-05-04T22:05:57.404233+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Glottotheory </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/glot-2024-frontmatter2</id>
+    <updated>2025-05-04T22:05:57.404268+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/glot-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Internet terminology in modern German: semantics and structure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2007/html"/>
+    <id>https://doi.org/10.1515/glot-2024-2007</id>
+    <updated>2025-05-04T22:05:57.404276+00:00</updated>
+    <summary>Article by Yuriy Kiyko, Svitlana Kiyko
+DOI: https://doi.org/10.1515/glot-2024-2007</summary>
+  </entry>
+  <entry>
+    <title>Werbesprache im Kultur- und Sprachkontakt: Russische Inseratwerbung in deutschsprachigem Umfeld</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2009/html"/>
+    <id>https://doi.org/10.1515/glot-2024-2009</id>
+    <updated>2025-05-04T22:05:57.404286+00:00</updated>
+    <summary>Article by Csaba Földes
+DOI: https://doi.org/10.1515/glot-2024-2009</summary>
+  </entry>
+  <entry>
+    <title>(Post-)Nukleare Rückversicherungssignale in der männlichen Kommunikation als indirekter Geschlechtsindex: vermittelte Positionierungen und Funktionen in analysierten männlichen Communitys</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2010/html"/>
+    <id>https://doi.org/10.1515/glot-2024-2010</id>
+    <updated>2025-05-04T22:05:57.404296+00:00</updated>
+    <summary>Article by Oksana Khrystenko
+DOI: https://doi.org/10.1515/glot-2024-2010</summary>
+  </entry>
+  <entry>
+    <title>Deskription fachlicher Kommunikation – Vorschlag und Beispiel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2008/html"/>
+    <id>https://doi.org/10.1515/glot-2024-2008</id>
+    <updated>2025-05-04T22:05:57.404304+00:00</updated>
+    <summary>Article by Thorsten Roelcke
+DOI: https://doi.org/10.1515/glot-2024-2008</summary>
+  </entry>
+  <entry>
+    <title>Douglas A. Vakoch &amp; Jeffrey Punske:Xenolinguistics: Towards a Science of Extraterrestrial Language</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2006/html"/>
+    <id>https://doi.org/10.1515/glot-2024-2006</id>
+    <updated>2025-05-04T22:05:57.404311+00:00</updated>
+    <summary>Article by Hossein Davari, Amir Ghorbanpour
+DOI: https://doi.org/10.1515/glot-2024-2006</summary>
+  </entry>
+  <entry>
+    <title>Call for papers</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2011/html"/>
+    <id>https://doi.org/10.1515/glot-2024-2011</id>
+    <updated>2025-05-04T22:05:57.404318+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/glot-2024-2011</summary>
+  </entry>
+</feed>

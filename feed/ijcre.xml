@@ -1,76 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>International Journal of Chemical Reactor Engineering</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in International Journal of Chemical Reactor Engineering</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijcre.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-frontmatter9/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-frontmatter9/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-frontmatter9</description>
-    </item>
-    <item>
-      <title>A column study on Cu (II) adsorption from synthetic solutions using phyto-mineral hybrid adsorbents: RSM optimization, regression modeling and isotherm studies</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0115/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0115/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0115</description>
-    </item>
-    <item>
-      <title>Three-objective optimization of micromixer with Cantor fractal structure based on Pareto genetic algorithm</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2023-0237/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2023-0237/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2023-0237</description>
-    </item>
-    <item>
-      <title>A CFD and experimental study of hydrodynamic and heat transfer behavior in ribbed fluidized beds</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0052/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0052/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0052</description>
-    </item>
-    <item>
-      <title>Effect of manganese(II) and magnesiumg(II) in zinc acid leaching solution on iron precipitation via the hematite process</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0022/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0022</description>
-    </item>
-    <item>
-      <title>Modeling and 3-D simulation of petroleum coke calcination process: investigation of the effect of main operating variables</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0016/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0016</description>
-    </item>
-    <item>
-      <title>Nonideal mixing effect based on Cholette’s model on Van de Vusse reaction selectivity dynamics in an isothermal continuous stirred-tank reactor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0059/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0059</description>
-    </item>
-    <item>
-      <title>Removal of methylene blue (MB) and vat dyes from wastewater using nanostructured PANI, PPy, and PTh: a comparative study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0067/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0067/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0067</description>
-    </item>
-    <item>
-      <title>Modeling catalyst effectiveness factor with space-fractional derivative using Haar wavelet collocation method</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0128/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0128/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0128</description>
-    </item>
-    <item>
-      <title>Green energy using oscillatory baffled reactors: advances in biodiesel production from high free fatty acid karanja oil</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0051/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0051</description>
-    </item>
-    <item>
-      <title>Modeling, optimization and operability analysis of Lurgi and Haldor Topsøe methanol synthesis reactors</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0099/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijcre-2024-0099/html</guid>
-      <description>Article by Mohammad Farsi DOI: https://doi.org/10.1515/ijcre-2024-0099</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>International Journal of Chemical Reactor Engineering</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ijcre/23/2/html"/>
+  <updated>2025-05-04T22:06:38.941927+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijcre.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in International Journal of Chemical Reactor Engineering</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijcre.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/ijcre-2025-frontmatter2</id>
+    <updated>2025-05-04T22:06:38.941959+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ijcre-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>A critical analysis on synthesis of nanofluids and factors affecting thermal conductivity of nanofluids for heat transfer applications: a review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0189/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0189</id>
+    <updated>2025-05-04T22:06:38.941968+00:00</updated>
+    <summary>Article by Vivek Sharma, Ritesh Patidar, Kunj Bihari Rana
+DOI: https://doi.org/10.1515/ijcre-2024-0189</summary>
+  </entry>
+  <entry>
+    <title>Improving iron-bearing dust pellets performance through synergistic action of dual-component organic binders: cellulose and starch interactions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0139/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0139</id>
+    <updated>2025-05-04T22:06:38.941979+00:00</updated>
+    <summary>Article by Tao Yang, Xing-wang Li, Qing-hai Yu, Yi-fan Wang, Jie Lei, Hong-ming Long
+DOI: https://doi.org/10.1515/ijcre-2024-0139</summary>
+  </entry>
+  <entry>
+    <title>Preparation of mesoporous lignin-based aerogels for organic dyes removal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0150/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0150</id>
+    <updated>2025-05-04T22:06:38.941989+00:00</updated>
+    <summary>Article by Yingying Zhang, Xianke Hu, Jie Yang, Ying Kang, Jie Wei, Dawei Fang
+DOI: https://doi.org/10.1515/ijcre-2024-0150</summary>
+  </entry>
+  <entry>
+    <title>Power generation potential and assessment of producer gas quality from blended rubber shell and palm kernel shell in open core downdraft gasifier</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0121/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0121</id>
+    <updated>2025-05-04T22:06:38.942001+00:00</updated>
+    <summary>Article by P. Marshal Raj, M. Gerald Arul Selvan
+DOI: https://doi.org/10.1515/ijcre-2024-0121</summary>
+  </entry>
+  <entry>
+    <title>Bi2S3loaded MXene Ti3C2Txnanosheet with an adsorption-photocatalytic synergistic removal for tetracycline</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0231/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0231</id>
+    <updated>2025-05-04T22:06:38.942009+00:00</updated>
+    <summary>Article by Huan Xi, Lu Wang, Haimeng Huang
+DOI: https://doi.org/10.1515/ijcre-2024-0231</summary>
+  </entry>
+  <entry>
+    <title>Preparation of activated carbon from waste tea and its performance in adsorptive desulfurization of model fuel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0232/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0232</id>
+    <updated>2025-05-04T22:06:38.942016+00:00</updated>
+    <summary>Article by Samira Naseri, Gholamreza Moradi, Tanaz Ghanadi
+DOI: https://doi.org/10.1515/ijcre-2024-0232</summary>
+  </entry>
+  <entry>
+    <title>Study on friction pressure drop characteristics of gas flow through multi-size irregular high-purity magnesia bed layer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0192/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0192</id>
+    <updated>2025-05-04T22:06:38.942024+00:00</updated>
+    <summary>Article by Xiaohu Zhang, Liang Zhao, Hui Dong
+DOI: https://doi.org/10.1515/ijcre-2024-0192</summary>
+  </entry>
+  <entry>
+    <title>Unlocking sustainable cooling: a numerical analysis of ice slurry flow in 180° U-bends-impacts of bend radius/pipe radius ratios and pressure drops on system performance</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0233/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0233</id>
+    <updated>2025-05-04T22:06:38.942034+00:00</updated>
+    <summary>Article by Kamal Singh Rawat, Prabhakar Bhandari, Vijay Singh Bisht, Beemkumar Nagappan, Lalit Ranakoti, Karthikeyan Alagu, Dhirendra Nath Thatoi, Shubham Sharma, V. Nagabhushana Rao, Ehab El Sayed Massoud
+DOI: https://doi.org/10.1515/ijcre-2024-0233</summary>
+  </entry>
+  <entry>
+    <title>DEM investigation on effect of internal pipe on active layer characterization in a drum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0216/html"/>
+    <id>https://doi.org/10.1515/ijcre-2024-0216</id>
+    <updated>2025-05-04T22:06:38.942042+00:00</updated>
+    <summary>Article by Yong Zhang, Guoqing Chen, Baosheng Jin
+DOI: https://doi.org/10.1515/ijcre-2024-0216</summary>
+  </entry>
+</feed>

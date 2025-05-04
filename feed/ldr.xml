@@ -1,76 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Law and Development Review</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Law and Development Review</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ldr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-frontmatter2/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Introduction to the Special Issue</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0057/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0057/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0057</description>
-    </item>
-    <item>
-      <title>Covid-19, State Effectiveness, and Core Values of Political Morality</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0001/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0001</description>
-    </item>
-    <item>
-      <title>Post-Pandemic Challenges of Textile Industry Workers in India: Analysis of Social Security Laws of Select Asian Countries</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0036/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0036</description>
-    </item>
-    <item>
-      <title>Implementing Post-Pandemic Economic Parity: A Potential Restoration Through Distributive Justice</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0037/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0037</description>
-    </item>
-    <item>
-      <title>Law and Development: A Comparative Law Aspect</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0003/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0003</description>
-    </item>
-    <item>
-      <title>The Draft International Covenant on the Right to Development and Its Implications for Cooperation in Global Health Crises</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0004/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0004</description>
-    </item>
-    <item>
-      <title>The COVID-19 Pandemic and the Right to Development: A Tale of Two Worlds</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0034/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0034</description>
-    </item>
-    <item>
-      <title>Changes in South-American Fiscal Rules in a Post-Pandemic Scenario: A Case-By-Case Analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0005/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0005</description>
-    </item>
-    <item>
-      <title>Online Trials in China: Legal and Institutional Approaches During Different Stages of the Pandemic</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0031/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0031</description>
-    </item>
-    <item>
-      <title>Ending 1990s Law and Development Ideas, Paradox of Path Dependence In Economic Planning Institutions Under Covid-19: SA’s Response</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ldr-2024-0007/html</guid>
-      <description>Article by T. K. Pooe DOI: https://doi.org/10.1515/ldr-2024-0007</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Law and Development Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ldr/18/1/html"/>
+  <updated>2025-05-04T22:09:15.265855+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ldr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Law and Development Review</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ldr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ldr-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:15.265884+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ldr-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Government Supervision of Oil Palm Plantations in Indonesia: Legal Issues and Proposed Remedies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0014/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0014</id>
+    <updated>2025-05-04T22:09:15.265893+00:00</updated>
+    <summary>Article by Mohamad Nasir, Laurens Bakker, Toon van Meijl
+DOI: https://doi.org/10.1515/ldr-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>How Democratic Police Reforms Fail: A Law and Development Perspective on Institutional Processes of Change and Resistance</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0017/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0017</id>
+    <updated>2025-05-04T22:09:15.265902+00:00</updated>
+    <summary>Article by Julia Maia Goldani
+DOI: https://doi.org/10.1515/ldr-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Sustainable Development Under AfCFTA: Dimensions, Limitations and Prospects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2023-0127/html"/>
+    <id>https://doi.org/10.1515/ldr-2023-0127</id>
+    <updated>2025-05-04T22:09:15.265910+00:00</updated>
+    <summary>Article by Collins Chikodili Ajibo, Thoko Kaime
+DOI: https://doi.org/10.1515/ldr-2023-0127</summary>
+  </entry>
+  <entry>
+    <title>Asset Recovery via Non-Conviction based Forfeiture: Rationale for Regulation and Recommendations for Implementation in Vietnam</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0058/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0058</id>
+    <updated>2025-05-04T22:09:15.265919+00:00</updated>
+    <summary>Article by Minh Vu Cao, Thi Ngoc Anh Cao
+DOI: https://doi.org/10.1515/ldr-2024-0058</summary>
+  </entry>
+  <entry>
+    <title>Law and Macro Finance</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0091/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0091</id>
+    <updated>2025-05-04T22:09:15.265926+00:00</updated>
+    <summary>Article by M. Konrad Borowicz
+DOI: https://doi.org/10.1515/ldr-2024-0091</summary>
+  </entry>
+  <entry>
+    <title>Modernization of Nigeria’s Mining Industry: The Case for Participation and Sustainable Development of Local Communities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0082/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0082</id>
+    <updated>2025-05-04T22:09:15.265934+00:00</updated>
+    <summary>Article by Martin-Joe Ezeudu
+DOI: https://doi.org/10.1515/ldr-2024-0082</summary>
+  </entry>
+  <entry>
+    <title>Human Capital and Growth in Arctic Regional Economies: Evidence, Policies and Institutional Perspectives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0109/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0109</id>
+    <updated>2025-05-04T22:09:15.265942+00:00</updated>
+    <summary>Article by Carter N. Coudriet, Kenneth A. Reinert
+DOI: https://doi.org/10.1515/ldr-2024-0109</summary>
+  </entry>
+  <entry>
+    <title>Advancing New Governance Models for Gender Data in Climate Resilience Funding</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0110/html"/>
+    <id>https://doi.org/10.1515/ldr-2024-0110</id>
+    <updated>2025-05-04T22:09:15.265949+00:00</updated>
+    <summary>Article by Jane Ezirigwe
+DOI: https://doi.org/10.1515/ldr-2024-0110</summary>
+  </entry>
+</feed>

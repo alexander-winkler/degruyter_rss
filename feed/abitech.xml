@@ -1,200 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>ABI Technik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in ABI Technik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abitech.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-frontmatter4/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0035/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0035</description>
-    </item>
-    <item>
-      <title>Die Stadtbibliothek Heidenheim – preisgekröntes Gebäude im Herzen der Stadt</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0036/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0036</description>
-    </item>
-    <item>
-      <title>„Wilde Schriften!“,</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0037/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0037</description>
-    </item>
-    <item>
-      <title>Crowdsourcing für Kulturerbedaten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0038/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0038</description>
-    </item>
-    <item>
-      <title>Der NFDI4Memory Data Space als digitales Ökosystem für die historisch arbeitenden Wissenschaften, Gedächtnisinstitutionen und Informationsinfrastrukturen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0039/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0039</description>
-    </item>
-    <item>
-      <title>Technische Umsetzung und Funktionen von SocioHub: Eine Analyse des Kollaborationsportals für Soziologie und Sozialwissenschaften</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0040/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0040</description>
-    </item>
-    <item>
-      <title>Mediathek Zeitgeschichte online – Nutzung digitaler Sicherungskopien audiovisueller Medien</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0041/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0041</description>
-    </item>
-    <item>
-      <title>„Wir machen’s einfach!“ – Oder doch nicht? Ein Erfahrungsbericht zur Einführung der landeseinheitlichen E-Akte in Rheinland-Pfalz und ihren Folgen für Anbietung und Aussonderung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0042/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0042</description>
-    </item>
-    <item>
-      <title>10 Jahre Archivportal-D</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0043/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0043</description>
-    </item>
-    <item>
-      <title>offen.lokal.global – die 112. BiblioCon in Hamburg vom 4. bis 7. Juni 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0044/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0044</description>
-    </item>
-    <item>
-      <title>Ohne Neugierde und Empathie wird es schwer im Wunderland. Die 8. Conference on User Experience in Libraries, UXLibs VIII</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0045/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0045</description>
-    </item>
-    <item>
-      <title>Nachrichten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0046/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0046</description>
-    </item>
-    <item>
-      <title>Produktinformationen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0047/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0047</description>
-    </item>
-    <item>
-      <title>Welche Kompetenzen braucht es für bibliometrische Analysen?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0048/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0048</description>
-    </item>
-    <item>
-      <title>Schäden an Archiv- und Bibliotheksgut erkennen und klassifizieren. Schadenskartierung anhand von Beispielen der Staatlichen Archive Bayerns. Von Ann-Kathrin Eisenbach und Katrin Marth. Hrsg. Generaldirektion der Staatlichen Archive Bayern, München 2023 (Sonderveröffentlichungen der Staatlichen Archive Bayerns Nr. 19). – ISBN 978-3-910837-01-0. – 34,00 €</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0049/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0049</description>
-    </item>
-    <item>
-      <title>Kirschbaum, Marc, Richard Stang (Hg.): Architektur und Lernwelten. Perspektiven für die Gestaltung. Berlin/Boston: De Gruyter Saur 2022. 317 S., 25 farbige Abb. – ISBN (gebunden) 9783110737646. ISBN (E-Book) 9783110732795. – 124,95 €</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0050/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0050</description>
-    </item>
-    <item>
-      <title>Schneider, Ulrich Johannes: Andrew Carnegies Bibliotheken. Über Moderne und Öffentlichkeit. München: Carl Friedrich von Siemens Stiftung, 2024 (Themen; 110). – 110 S., zahlr. Abb. – ISBN 978-3-938593-39-4 (kostenfrei)&lt;fnote&gt; Zu bestellen über die Carl Friedrich von Siemens Stiftung: https://www.cfvss.de/programm/publikationen/themen-reihe/. Zuletzt geprüft am 16.09.2024.&lt;/fnote&gt;</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0051/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0051</description>
-    </item>
-    <item>
-      <title>Veranstaltungskalender</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0052/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/abitech-2024-0052/html</guid>
-      <description>Article by 
-
-                Page range: 328-328
-            
- DOI: https://doi.org/10.1515/abitech-2024-0052</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ABI Technik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/abitech/45/1/html"/>
+  <updated>2025-05-04T22:02:10.175811+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abitech.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in ABI Technik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abitech.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-frontmatter1</id>
+    <updated>2025-05-04T22:02:10.175831+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/abitech-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0002/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0002</id>
+    <updated>2025-05-04T22:02:10.175838+00:00</updated>
+    <summary>Article by Konstanze Söllner
+DOI: https://doi.org/10.1515/abitech-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Mit Künstlicher Intelligenz zu besserer Nutzbarkeit: Die „Zentralen Serien des Kantons Zürich (19. und 20. Jahrhundert)“ neu zugänglich gemacht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0003/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0003</id>
+    <updated>2025-05-04T22:02:10.175846+00:00</updated>
+    <summary>Article by Patrick Arnecke, Rebekka Plüss
+DOI: https://doi.org/10.1515/abitech-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Geschichte greifbar machen – 3D-Digitalisierungsprojekt am Landesarchiv Baden-Württemberg</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0004/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0004</id>
+    <updated>2025-05-04T22:02:10.175852+00:00</updated>
+    <summary>Article by Patrick Leiske
+DOI: https://doi.org/10.1515/abitech-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Von der Schadensregulierung zum Entwicklungsraum für Studierende – die neue Fachbibliothek Philologien der Universität Bonn</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0005/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0005</id>
+    <updated>2025-05-04T22:02:10.175857+00:00</updated>
+    <summary>Article by Alice Rabeler
+DOI: https://doi.org/10.1515/abitech-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Wissenschaftsverlage und Third-Party-Tracking. Wer sind diese Third-Partys? – Codefragmente im Seitenquelltext von Verlagen führen zu diversen Firmen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0001/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0001</id>
+    <updated>2025-05-04T22:02:10.175862+00:00</updated>
+    <summary>Article by Barbara Lindstrot
+DOI: https://doi.org/10.1515/abitech-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Szientometrie im Zeitalter der Künstlichen Intelligenz: Die European Summer School for Scientometrics (esss)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0006/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0006</id>
+    <updated>2025-05-04T22:02:10.175867+00:00</updated>
+    <summary>Article by Iwona Dullinger, Martin Wieland
+DOI: https://doi.org/10.1515/abitech-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Von Visionen, Strategien und bibliothekarischer Führungsverantwortung: DasInternational Library Leaders Programmean der British Library</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0007/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0007</id>
+    <updated>2025-05-04T22:02:10.175872+00:00</updated>
+    <summary>Article by Matthias Reif
+DOI: https://doi.org/10.1515/abitech-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>2nd EPICo Conference „Importance of Print in a Digital World“ (Barcelona, 2024): Nichts ist so beständig wie der Wandel (Heraklit von Ephesus)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0008/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0008</id>
+    <updated>2025-05-04T22:02:10.175877+00:00</updated>
+    <summary>Article by Wolfgang Mayer
+DOI: https://doi.org/10.1515/abitech-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Nachrichten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0009/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0009</id>
+    <updated>2025-05-04T22:02:10.175881+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/abitech-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Produktinformationen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0010/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0010</id>
+    <updated>2025-05-04T22:02:10.175886+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/abitech-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>Wie wirken sich bibliothekarische Arbeiten im Wikiversum auf die Nutzung des eigenen Bestandes aus?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0011/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0011</id>
+    <updated>2025-05-04T22:02:10.175890+00:00</updated>
+    <summary>Article by Christian Erlinger
+DOI: https://doi.org/10.1515/abitech-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>Gasser, Sonja: Digitale Sammlungen. Anforderungen an das digitalisierte Kulturerbe (Edition Museum, Bd. 81). Hrsg. von der Stiftung für Kunst, Kultur und Geschichte (SKKG). Bielefeld: transcript Verlag 2024. 164 S. – PDF (CC-by-Lizenz) e-ISBN: 978-3-8394-7021-3. ISBN: 978-3-8376-7021-9 (print). € 29,00</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0012/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0012</id>
+    <updated>2025-05-04T22:02:10.175897+00:00</updated>
+    <summary>Article by Anne Diekjobst
+DOI: https://doi.org/10.1515/abitech-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Akademisches Lesen: Medien, Praktiken, Bibliotheken. Hrsg. von Alker-Windbichler, Stefan, Axel Kuhn, Benedikt Lodes, Günther Stocker. Göttingen: V &amp; R unipress, 2022. (Bibliothek im Kontext; 5). 370 S., Ill. – E-Book (Open Access) e-ISBN: 978-3-7370-1397-0; ISBN: 978-3-8471-1397-3 (Festeinband) € 55,00</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0013/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0013</id>
+    <updated>2025-05-04T22:02:10.175904+00:00</updated>
+    <summary>Article by Sebastian Köppl
+DOI: https://doi.org/10.1515/abitech-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Veranstaltungskalender</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/abitech-2025-0014/html"/>
+    <id>https://doi.org/10.1515/abitech-2025-0014</id>
+    <updated>2025-05-04T22:02:10.175908+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/abitech-2025-0014</summary>
+  </entry>
+</feed>

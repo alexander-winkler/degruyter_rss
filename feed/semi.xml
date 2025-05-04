@@ -1,82 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Semiotica</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Semiotica</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/semi.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2024-frontmatter259/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2024-frontmatter259/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2024-frontmatter259</description>
-    </item>
-    <item>
-      <title>Pour une reconnaissance des signes éthiques : les formes de l’ethos et ses implications sociologiques</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0136/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0136/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0136</description>
-    </item>
-    <item>
-      <title>Chemical formalisms: toward a semiotic typology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2022-0110/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2022-0110/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2022-0110</description>
-    </item>
-    <item>
-      <title>Cultural semiotics for mathematical discourses</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0030/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0030</description>
-    </item>
-    <item>
-      <title>Défis sémiotiques de l’écriture du mort dans la littérature de la tombe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0045/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0045</description>
-    </item>
-    <item>
-      <title>Conflicting modalities in feature film: from contrapuntal editing to internal diegetic sound</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0068/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0068/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0068</description>
-    </item>
-    <item>
-      <title>Competition among visual, verbal, and auditory modalities: a socio-semiotic perspective</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2022-0060/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2022-0060/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2022-0060</description>
-    </item>
-    <item>
-      <title>Pre-structuralist semiology: materiality of language in Ferdinand de Saussure</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0114/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0114/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0114</description>
-    </item>
-    <item>
-      <title>An edusemiotic approach to teaching intonation in the context of English language teacher education</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0203/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0203/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0203</description>
-    </item>
-    <item>
-      <title>Constructing cultural identities through new media: a multimodal appraisal analysis of Chinese web-based ink and wash cartoons</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2022-0098/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2022-0098/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2022-0098</description>
-    </item>
-    <item>
-      <title>Cultivating critical language awareness: unraveling populism in Trump’s inaugural address</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2023-0162/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2023-0162/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2023-0162</description>
-    </item>
-    <item>
-      <title>Cassirer’s path to the “symbolic animal”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sem-2021-0141/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sem-2021-0141/html</guid>
-      <description>Article by Jacinto Paez Bonifaci DOI: https://doi.org/10.1515/sem-2021-0141</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Semiotica</title>
+  <link href="https://www.degruyterbrill.com/journal/key/semi/2025/263/html"/>
+  <updated>2025-05-04T22:12:22.106791+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/semi.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Semiotica</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/semi.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2025-frontmatter263/html"/>
+    <id>https://doi.org/10.1515/sem-2025-frontmatter263</id>
+    <updated>2025-05-04T22:12:22.106827+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sem-2025-frontmatter263</summary>
+  </entry>
+  <entry>
+    <title>Computer creates a cat: sign formation, glitching, and the AImage</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0108/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0108</id>
+    <updated>2025-05-04T22:12:22.106836+00:00</updated>
+    <summary>Article by Michael Betancourt
+DOI: https://doi.org/10.1515/sem-2023-0108</summary>
+  </entry>
+  <entry>
+    <title>Spatial pedagogy: exploring semiotic functions of one teacher’s movement in an Active Learning Classroom</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0017/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0017</id>
+    <updated>2025-05-04T22:12:22.106846+00:00</updated>
+    <summary>Article by Xiaoqin Wu
+DOI: https://doi.org/10.1515/sem-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>A semiotic analysis of the canonical image macro meme</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0005/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0005</id>
+    <updated>2025-05-04T22:12:22.106854+00:00</updated>
+    <summary>Article by Jemma Paek
+DOI: https://doi.org/10.1515/sem-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>The beheading of James Foley: a crossing of gazes between East and West</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2022-0035/html"/>
+    <id>https://doi.org/10.1515/sem-2022-0035</id>
+    <updated>2025-05-04T22:12:22.106862+00:00</updated>
+    <summary>Article by Ainara Miguel-Sáez-de-Urabain, Ainhoa Fernandez-de-Arroyabe-Olaortua, Imanol Zumalde-Arregui
+DOI: https://doi.org/10.1515/sem-2022-0035</summary>
+  </entry>
+  <entry>
+    <title>An allegory of Fama and Historia: rumor studies, collective memory, and semiotics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0054/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0054</id>
+    <updated>2025-05-04T22:12:22.106870+00:00</updated>
+    <summary>Article by Hongjin Song
+DOI: https://doi.org/10.1515/sem-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Pour une approche sémiotique de la traduction de la chanson : l’exemple deLa chanson des vieux amantsde Jacques Brel et de son adaptation turqueŞarap Mevsimi</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0151/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0151</id>
+    <updated>2025-05-04T22:12:22.106878+00:00</updated>
+    <summary>Article by Sündüz Öztürk Kasar
+DOI: https://doi.org/10.1515/sem-2023-0151</summary>
+  </entry>
+  <entry>
+    <title>Beyond “Made in China”: visual rhetoric and cultural functionality in translating the traditional Chinese totemLoong龙</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2024-0032/html"/>
+    <id>https://doi.org/10.1515/sem-2024-0032</id>
+    <updated>2025-05-04T22:12:22.106887+00:00</updated>
+    <summary>Article by Ke Li, Zihan Xu
+DOI: https://doi.org/10.1515/sem-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>La marque comme service ayant une vision propre : une approche sémiotique des architectures de marques</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0027/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0027</id>
+    <updated>2025-05-04T22:12:22.106894+00:00</updated>
+    <summary>Article by Alain Perusset
+DOI: https://doi.org/10.1515/sem-2023-0027</summary>
+  </entry>
+  <entry>
+    <title>Advertising fragrance through visual and audible information: a multimodal metaphor analysis of perfume commercials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0096/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0096</id>
+    <updated>2025-05-04T22:12:22.106902+00:00</updated>
+    <summary>Article by Jiaqi Xu, Zi Yang
+DOI: https://doi.org/10.1515/sem-2023-0096</summary>
+  </entry>
+  <entry>
+    <title>Brand identity construction through the heritage of Chinese destination logos</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sem-2023-0138/html"/>
+    <id>https://doi.org/10.1515/sem-2023-0138</id>
+    <updated>2025-05-04T22:12:22.106909+00:00</updated>
+    <summary>Article by Liling Liang, Cecilia Yin Mei Cheong
+DOI: https://doi.org/10.1515/sem-2023-0138</summary>
+  </entry>
+</feed>

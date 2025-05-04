@@ -1,34 +1,45 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>German Economic Review</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in German Economic Review</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ger.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ger-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ger-2024-frontmatter3/html</guid>
-      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Regional Industrial Effects in Germany from a Potential Gas Deficit</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ger-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ger-2024-0017/html</guid>
-      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2024-0017</description>
-    </item>
-    <item>
-      <title>Unraveling the Productivity Paradox: Evidence for Germany</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ger-2023-0094/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ger-2023-0094/html</guid>
-      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2023-0094</description>
-    </item>
-    <item>
-      <title>Progressive Taxation and Social Welfare: Quantifying the Effects of the “German Tax-Reform 2000”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ger-2023-0100/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ger-2023-0100/html</guid>
-      <description>Article by Benjamin Jung, Timo Walter DOI: https://doi.org/10.1515/ger-2023-0100</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>German Economic Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ger/26/1/html"/>
+  <updated>2025-05-04T22:05:49.430458+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ger.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in German Economic Review</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ger.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ger-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ger-2025-frontmatter1</id>
+    <updated>2025-05-04T22:05:49.430503+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ger-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>A Note on the Optimal Speed of Transition: Aghion and Blanchard Revisited</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ger-2024-0054/html"/>
+    <id>https://doi.org/10.1515/ger-2024-0054</id>
+    <updated>2025-05-04T22:05:49.430514+00:00</updated>
+    <summary>Article by Eric Nævdal, Martin Wagner
+DOI: https://doi.org/10.1515/ger-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Trade Uncertainty, Economic Policy Uncertainty and Shipping Costs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ger-2024-0025/html"/>
+    <id>https://doi.org/10.1515/ger-2024-0025</id>
+    <updated>2025-05-04T22:05:49.430526+00:00</updated>
+    <summary>Article by Konstantinos D. Melas, Nektarios A. Michail, Kyriaki G. Louca
+DOI: https://doi.org/10.1515/ger-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Intergenerational Scars: The Impact of Parental Unemployment on Individual Health Later in Life</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ger-2024-0058/html"/>
+    <id>https://doi.org/10.1515/ger-2024-0058</id>
+    <updated>2025-05-04T22:05:49.430536+00:00</updated>
+    <summary>Article by Michele Ubaldi, Matteo Picchio
+DOI: https://doi.org/10.1515/ger-2024-0058</summary>
+  </entry>
+</feed>

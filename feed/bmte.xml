@@ -1,70 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Biomedical Engineering / Biomedizinische Technik </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Biomedical Engineering / Biomedizinische Technik </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2024-frontmatter5/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>Sparse-view CT reconstruction based on group-based sparse representation using weighted guided image filtering</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0581/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0581/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0581</description>
-    </item>
-    <item>
-      <title>Comparative evaluation of volumetry estimation from plain and contrast enhanced computed tomography liver images</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2022-0349/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2022-0349/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2022-0349</description>
-    </item>
-    <item>
-      <title>Vein segmentation and visualization of upper and lower extremities using convolution neural network</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0331/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0331/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0331</description>
-    </item>
-    <item>
-      <title>STF-Net: sparsification transformer coding guided network for subcortical brain structure segmentation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0121/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0121/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0121</description>
-    </item>
-    <item>
-      <title>Machine learning based endothelial cell image analysis of patients undergoing descemet membrane endothelial keratoplasty surgery</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0126/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0126/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0126</description>
-    </item>
-    <item>
-      <title>AML leukocyte classification method for small samples based on ACGAN</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0028/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2024-0028</description>
-    </item>
-    <item>
-      <title>Deep learning classification of EEG-based BCI monitoring of the attempted arm and hand movements</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0356/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0356/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0356</description>
-    </item>
-    <item>
-      <title>Hybrid method for noise rejection from breath sound using transient artifact reduction algorithm and spectral subtraction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0426/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2023-0426/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2023-0426</description>
-    </item>
-    <item>
-      <title>Optimized Schlieren imaging for real-time visualization of high-intensity focused ultrasound waves</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bmt-2024-0002/html</guid>
-      <description>Article by Helena Nawrath, Andreas Holl, Lennart Bedarf, Denis Mai, Heiko Alfke, Jens Gröbner DOI: https://doi.org/10.1515/bmt-2024-0002</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Biomedical Engineering / Biomedizinische Technik </title>
+  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/2/html"/>
+  <updated>2025-05-04T22:03:29.204726+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Biomedical Engineering / Biomedizinische Technik </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/bmt-2025-frontmatter2</id>
+    <updated>2025-05-04T22:03:29.204747+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bmt-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Hydrogel promotes bone regeneration through various mechanisms: a review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0391/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0391</id>
+    <updated>2025-05-04T22:03:29.204752+00:00</updated>
+    <summary>Article by Yuanyuan Zheng, Zengguang Ke, Guofeng Hu, Songlin Tong
+DOI: https://doi.org/10.1515/bmt-2024-0391</summary>
+  </entry>
+  <entry>
+    <title>Wear investigation of implant-supported upper removable prothesis with electroplated gold or PEKK secondary crowns</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0038/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0038</id>
+    <updated>2025-05-04T22:03:29.204758+00:00</updated>
+    <summary>Article by Annika Holtz, Manfred Grüner, Ludger Keilig, Christoph Bourauel, Helmut Stark, Istabrak Dörsam
+DOI: https://doi.org/10.1515/bmt-2024-0038</summary>
+  </entry>
+  <entry>
+    <title>Straight and helical plating with locking plates for proximal humeral shaft fractures – a biomechanical comparison under physiological load conditions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0347/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0347</id>
+    <updated>2025-05-04T22:03:29.204763+00:00</updated>
+    <summary>Article by Christian Halbauer, Felix Capanni, Andreas Paech, Christian Knop, Tobias Merkle, Tomas Da Silva
+DOI: https://doi.org/10.1515/bmt-2024-0347</summary>
+  </entry>
+  <entry>
+    <title>Integration of neuromuscular control for multidirectional horizontal planar reaching movements in a portable upper limb exoskeleton for enhanced stroke rehabilitation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2023-0622/html"/>
+    <id>https://doi.org/10.1515/bmt-2023-0622</id>
+    <updated>2025-05-04T22:03:29.204768+00:00</updated>
+    <summary>Article by Yongkun Zhao, Juzheng Mao, Mingquan Zhang, Haijun Wu, Jiatong Jiang, Shibo Jing
+DOI: https://doi.org/10.1515/bmt-2023-0622</summary>
+  </entry>
+  <entry>
+    <title>Recognition analysis of spiral and straight-line drawings in tremor assessment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2023-0080/html"/>
+    <id>https://doi.org/10.1515/bmt-2023-0080</id>
+    <updated>2025-05-04T22:03:29.204772+00:00</updated>
+    <summary>Article by Attila Z. Jenei, Dávid Sztahó, István Valálik
+DOI: https://doi.org/10.1515/bmt-2023-0080</summary>
+  </entry>
+  <entry>
+    <title>Combination of edge enhancement and cold diffusion model for low dose CT image denoising</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0362/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0362</id>
+    <updated>2025-05-04T22:03:29.204777+00:00</updated>
+    <summary>Article by Yinglin Du, Yi Liu, Han Wu, Jiaqi Kang, Zhiguo Gui, Pengcheng Zhang, Yali Ren
+DOI: https://doi.org/10.1515/bmt-2024-0362</summary>
+  </entry>
+  <entry>
+    <title>High-performance breast cancer diagnosis method using hybrid feature selection method</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0185/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0185</id>
+    <updated>2025-05-04T22:03:29.204781+00:00</updated>
+    <summary>Article by Mohammad Moradi, Abdalhossein Rezai
+DOI: https://doi.org/10.1515/bmt-2024-0185</summary>
+  </entry>
+  <entry>
+    <title>A multimodal deep learning-based algorithm for specific fetal heart rate events detection</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0334/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0334</id>
+    <updated>2025-05-04T22:03:29.204785+00:00</updated>
+    <summary>Article by Zhuya Huang, Junsheng Yu, Ying Shan
+DOI: https://doi.org/10.1515/bmt-2024-0334</summary>
+  </entry>
+</feed>

@@ -1,58 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Frontiers of Narrative Studies</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Frontiers of Narrative Studies</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fns.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-frontmatter1/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Figures of discourse in prose fiction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2001/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2001</description>
-    </item>
-    <item>
-      <title>Joseph Conrad’s reluctant raconteurs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2002/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2002</description>
-    </item>
-    <item>
-      <title>Audience-authored paratexts: legitimation of online discourse about Game of Thrones</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2003/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2003</description>
-    </item>
-    <item>
-      <title>Horizontal metalepsis in narrative fiction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2004/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2004</description>
-    </item>
-    <item>
-      <title>“Small machines of words”: poetics, phonetics, and mechanisms of narrative realism in late twentieth-century Hip Hop</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2005/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2005</description>
-    </item>
-    <item>
-      <title>Secondary storyworld possible selves: narrative response and cultural (un)predictability</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2006/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2006</description>
-    </item>
-    <item>
-      <title>Explaining the innovation dichotomy: the contexts, contents, conflicts, and compromises of innovation stories</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/fns-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/fns-2024-2007/html</guid>
-      <description>Article by Soila Lemmetty DOI: https://doi.org/10.1515/fns-2024-2007</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Frontiers of Narrative Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/fns/10/2/html"/>
+  <updated>2025-05-04T22:05:32.367637+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fns.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Frontiers of Narrative Studies</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fns.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/fns-2024-frontmatter2</id>
+    <updated>2025-05-04T22:05:32.367662+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/fns-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Exploring cross-cultural narratives in literary studies: tradition, subjectivity, and strategy: an interview with Xiuyan Fu and Marco Caracciolo</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2001/html"/>
+    <id>https://doi.org/10.1515/fns-2025-2001</id>
+    <updated>2025-05-04T22:05:32.367670+00:00</updated>
+    <summary>Article by Shaomin Zheng, Xiuyan Fu, Marco Caracciolo
+DOI: https://doi.org/10.1515/fns-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Cognition and literature: an interdisciplinary approach to E. Hemingway’sin our time</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2002/html"/>
+    <id>https://doi.org/10.1515/fns-2025-2002</id>
+    <updated>2025-05-04T22:05:32.367680+00:00</updated>
+    <summary>Article by Gabriela Tucan
+DOI: https://doi.org/10.1515/fns-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Recipient-oriented playful design in Daniel Benmergui’sStoryteller(2023)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2003/html"/>
+    <id>https://doi.org/10.1515/fns-2025-2003</id>
+    <updated>2025-05-04T22:05:32.367687+00:00</updated>
+    <summary>Article by Kieron Brown
+DOI: https://doi.org/10.1515/fns-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>AI panopticon surveillance and dystopian worldmaking in Philip K. Dick’sVulcan’s Hammer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2004/html"/>
+    <id>https://doi.org/10.1515/fns-2025-2004</id>
+    <updated>2025-05-04T22:05:32.367697+00:00</updated>
+    <summary>Article by Kanjing He
+DOI: https://doi.org/10.1515/fns-2025-2004</summary>
+  </entry>
+  <entry>
+    <title>Visualizing affect inJimmy Corrigan: The Smartest Kid on Earth</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2005/html"/>
+    <id>https://doi.org/10.1515/fns-2025-2005</id>
+    <updated>2025-05-04T22:05:32.367704+00:00</updated>
+    <summary>Article by Yun Lan
+DOI: https://doi.org/10.1515/fns-2025-2005</summary>
+  </entry>
+  <entry>
+    <title>Articulating love: the narrative mechanisms and allegories of subjectivity in Chinese romance micro-dramas</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2006/html"/>
+    <id>https://doi.org/10.1515/fns-2025-2006</id>
+    <updated>2025-05-04T22:05:32.367711+00:00</updated>
+    <summary>Article by Lichan Deng
+DOI: https://doi.org/10.1515/fns-2025-2006</summary>
+  </entry>
+</feed>

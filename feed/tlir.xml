@@ -1,46 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>The Linguistic Review</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in The Linguistic Review</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tlir.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-frontmatter3/html</guid>
-      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>The morphosyntax of Ezafe in Southern Zazaki</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2013/html</guid>
-      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2013</description>
-    </item>
-    <item>
-      <title>A morphosyntactic haplology of -i drop in the Korean vocatives</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2014/html</guid>
-      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2014</description>
-    </item>
-    <item>
-      <title>Labeling by type</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2015/html</guid>
-      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2015</description>
-    </item>
-    <item>
-      <title>Flat structure: a minimalist program for syntax</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2016/html</guid>
-      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2016</description>
-    </item>
-    <item>
-      <title>A categorisation solution to the incompleteness puzzle in Mandarin</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tlr-2024-2017/html</guid>
-      <description>Article by Chen Wang DOI: https://doi.org/10.1515/tlr-2024-2017</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>The Linguistic Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/tlir/42/1/html"/>
+  <updated>2025-05-04T22:13:02.785263+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tlir.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in The Linguistic Review</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tlir.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-frontmatter1</id>
+    <updated>2025-05-04T22:13:02.785297+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/tlr-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Non-active voices in Iranian languages: the case of Farsi, Kurdish and Baxtiari</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-2001/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-2001</id>
+    <updated>2025-05-04T22:13:02.785308+00:00</updated>
+    <summary>Article by Gholamhosein Karimi Doostan, Atefeh Shabazi
+DOI: https://doi.org/10.1515/tlr-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>The negative indefinitenuddu‘no one’ as a floating quantifier in Sicilian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-2002/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-2002</id>
+    <updated>2025-05-04T22:13:02.785320+00:00</updated>
+    <summary>Article by Silvio Cruschina
+DOI: https://doi.org/10.1515/tlr-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Resultative properties of stage-level predicates in Catalan: a study of perfective adjectives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-2003/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-2003</id>
+    <updated>2025-05-04T22:13:02.785329+00:00</updated>
+    <summary>Article by Isabel Crespí
+DOI: https://doi.org/10.1515/tlr-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>The typology of the distributional restrictions of a feature: occlusion and bipositionality</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tlr-2025-2004/html"/>
+    <id>https://doi.org/10.1515/tlr-2025-2004</id>
+    <updated>2025-05-04T22:13:02.785338+00:00</updated>
+    <summary>Article by Mohamed Lahrouchi, Shanti Ulfsbjorninn
+DOI: https://doi.org/10.1515/tlr-2025-2004</summary>
+  </entry>
+</feed>

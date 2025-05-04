@@ -1,58 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Linguistics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Linguistics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ling.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2024-frontmatter6/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2024-frontmatter6/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2024-frontmatter6</description>
-    </item>
-    <item>
-      <title>Processing Chinese object-topicalization structures in simple and complex sentences</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2022-0118/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2022-0118/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2022-0118</description>
-    </item>
-    <item>
-      <title>Competing constructions in Kaqchikel focus contexts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2020-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2020-0016/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2020-0016</description>
-    </item>
-    <item>
-      <title>A cross-linguistic study of lexical and derived antonymy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2023-0140/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2023-0140/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2023-0140</description>
-    </item>
-    <item>
-      <title>Placeholders in crosslinguistic perspective: abilities, preferences, and usage motives</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2023-0068/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2023-0068/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2023-0068</description>
-    </item>
-    <item>
-      <title>From gesture to Sign? An exploration of the effects of communicative pressure, interaction, and time on the process of conventionalisation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2023-0121/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2023-0121/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2023-0121</description>
-    </item>
-    <item>
-      <title>Dialect separation and cross-dialectal influence: a study on the grammatical gender of Oromo</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2022-0119/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2022-0119/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2022-0119</description>
-    </item>
-    <item>
-      <title>Morphosyntactic stereotypes of speakers with different genders and sexual orientations: an experimental investigation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ling-2022-0143/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ling-2022-0143/html</guid>
-      <description>Article by Pekka Posio, Sven Kachel, Gloria Uclés-Ramada DOI: https://doi.org/10.1515/ling-2022-0143</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ling/63/3/html"/>
+  <updated>2025-05-04T22:09:23.233340+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ling.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Linguistics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ling.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/ling-2025-frontmatter3</id>
+    <updated>2025-05-04T22:09:23.233377+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ling-2025-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>A register approach to negative concord versus negative polarity items in English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0016/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0016</id>
+    <updated>2025-05-04T22:09:23.233386+00:00</updated>
+    <summary>Article by Stephanie Rotter, Mingya Liu
+DOI: https://doi.org/10.1515/ling-2023-0016</summary>
+  </entry>
+  <entry>
+    <title>Sociolinguistic monitoring and L2 speakers of English</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0073/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0073</id>
+    <updated>2025-05-04T22:09:23.233398+00:00</updated>
+    <summary>Article by Jana Pflaeging, Bradley Mackay, Erik Schleef
+DOI: https://doi.org/10.1515/ling-2023-0073</summary>
+  </entry>
+  <entry>
+    <title>The controller-first constraint beyond the Basic Variety: how do instructed learner varieties solve contexts of competition?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0086/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0086</id>
+    <updated>2025-05-04T22:09:23.233406+00:00</updated>
+    <summary>Article by Isabel Repiso
+DOI: https://doi.org/10.1515/ling-2023-0086</summary>
+  </entry>
+  <entry>
+    <title>The count-mass distinction in Hong Kong Sign Language: an intra- and cross-modal comparison</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2021-0215/html"/>
+    <id>https://doi.org/10.1515/ling-2021-0215</id>
+    <updated>2025-05-04T22:09:23.233414+00:00</updated>
+    <summary>Article by Emily Koenders
+DOI: https://doi.org/10.1515/ling-2021-0215</summary>
+  </entry>
+  <entry>
+    <title>Resultative secondary predicates in cooking recipes: an empirical study of Germanic and Romance languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2022-0130/html"/>
+    <id>https://doi.org/10.1515/ling-2022-0130</id>
+    <updated>2025-05-04T22:09:23.233422+00:00</updated>
+    <summary>Article by Justine Métairy
+DOI: https://doi.org/10.1515/ling-2022-0130</summary>
+  </entry>
+  <entry>
+    <title>A formal approach to reanalysis and the Early Semantic Stability Hypothesis: exploring the test case of the negative counterfactual markerʾilmalein Hebrew and Aramaic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0022/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0022</id>
+    <updated>2025-05-04T22:09:23.233431+00:00</updated>
+    <summary>Article by Elitzur A. Bar-Asher Siegal
+DOI: https://doi.org/10.1515/ling-2023-0022</summary>
+  </entry>
+  <entry>
+    <title>The colonisation of the colour pink: variation and change in Māori’s colour lexicon</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0059/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0059</id>
+    <updated>2025-05-04T22:09:23.233440+00:00</updated>
+    <summary>Article by Neil Dodgson, Victoria Chen, Meimuna Zahido
+DOI: https://doi.org/10.1515/ling-2023-0059</summary>
+  </entry>
+  <entry>
+    <title>Corrigendum to: Diachronic evolution of the subordinatorkakin Russian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2024-2001/html"/>
+    <id>https://doi.org/10.1515/ling-2024-2001</id>
+    <updated>2025-05-04T22:09:23.233447+00:00</updated>
+    <summary>Article by Natalia Serdobolskaya, Irina Kobozeva
+DOI: https://doi.org/10.1515/ling-2024-2001</summary>
+  </entry>
+</feed>

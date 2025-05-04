@@ -1,52 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>SATS</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in SATS</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2024-frontmatter1/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Understanding Contemporary Societal Challenges with Philosophy of Trust</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2024-0007/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2024-0007</description>
-    </item>
-    <item>
-      <title>Public Trust in Technology – A Moral Obligation?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2023-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2023-0018/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2023-0018</description>
-    </item>
-    <item>
-      <title>A Panoramic View of Trust in the Time of Digital Automated Decision Making – Failings of Trust in the Post Office and the Tax Authorities</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2024-0008/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2024-0008</description>
-    </item>
-    <item>
-      <title>Journalists Gaining Trust Through Silencing of the Self</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2023-0002/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2023-0002</description>
-    </item>
-    <item>
-      <title>Between Virtuous Trust and Distrust: A Model of Political Ideologies in Times of Challenged Political Parties</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2024-0004/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2024-0004</description>
-    </item>
-    <item>
-      <title>Trust and Mistrust in the MMR Vaccine: Finding Divergences and Common Ground in Online Communication</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sats-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sats-2023-0014/html</guid>
-      <description>Article by Antoinette Fage-Butler DOI: https://doi.org/10.1515/sats-2023-0014</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SATS</title>
+  <link href="https://www.degruyterbrill.com/journal/key/sats/25/2/html"/>
+  <updated>2025-05-04T22:12:15.793242+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in SATS</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/sats-2024-frontmatter2</id>
+    <updated>2025-05-04T22:12:15.793276+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sats-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>A Brief Note from the Editors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0017/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0017</id>
+    <updated>2025-05-04T22:12:15.793287+00:00</updated>
+    <summary>Article by Hans Marius Hansteen
+DOI: https://doi.org/10.1515/sats-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Philosophy as Passion for Knowledge: What Kind of History of Philosophy for the 21st Century?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0016/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0016</id>
+    <updated>2025-05-04T22:12:15.793297+00:00</updated>
+    <summary>Article by Sabrina Ebbersmeyer
+DOI: https://doi.org/10.1515/sats-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>Scientific Testability Following the Assumption of Insufficient Knowledge and Resources</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2023-0020/html"/>
+    <id>https://doi.org/10.1515/sats-2023-0020</id>
+    <updated>2025-05-04T22:12:15.793306+00:00</updated>
+    <summary>Article by Miguel López-Astorga
+DOI: https://doi.org/10.1515/sats-2023-0020</summary>
+  </entry>
+  <entry>
+    <title>Do Logical Aliens Think? Frege’s Agent-Relative View of Logic’s Constitutive Role for Thinking</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0002/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0002</id>
+    <updated>2025-05-04T22:12:15.793316+00:00</updated>
+    <summary>Article by Kristoffer Balslev Willert
+DOI: https://doi.org/10.1515/sats-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Niklas Forsberg:Lectures on a Philosophy Less Ordinary: Language and Morality in J. L. Austin’s Philosophy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2003/html"/>
+    <id>https://doi.org/10.1515/sats-2024-2003</id>
+    <updated>2025-05-04T22:12:15.793325+00:00</updated>
+    <summary>Article by Rachael Wiseman
+DOI: https://doi.org/10.1515/sats-2024-2003</summary>
+  </entry>
+  <entry>
+    <title>Ditte Marie Munch-Jurisic:Perpetrator Disgust. The Moral Limits of Gut Feelings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2002/html"/>
+    <id>https://doi.org/10.1515/sats-2024-2002</id>
+    <updated>2025-05-04T22:12:15.793333+00:00</updated>
+    <summary>Article by Anne-Marie Søndergaard Christensen
+DOI: https://doi.org/10.1515/sats-2024-2002</summary>
+  </entry>
+  <entry>
+    <title>Axel Hutter:Narrative Ontology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2001/html"/>
+    <id>https://doi.org/10.1515/sats-2024-2001</id>
+    <updated>2025-05-04T22:12:15.793342+00:00</updated>
+    <summary>Article by Alexander Knopf
+DOI: https://doi.org/10.1515/sats-2024-2001</summary>
+  </entry>
+</feed>

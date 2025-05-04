@@ -1,88 +1,133 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Beiträge zur Geschichte der deutschen Sprache und Literatur</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Beiträge zur Geschichte der deutschen Sprache und Literatur</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bgsl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-frontmatter3/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Dialektwandel als Systemwandel: Die Genuskongruenz bei den Numeralien zwei und drei in den deutschen Dialekten und darüber hinaus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0029/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0029</description>
-    </item>
-    <item>
-      <title>Drei Strophen in Tönen Frauenlobs mit Neumen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0030/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0030</description>
-    </item>
-    <item>
-      <title>Geslozzen sint die wort […] recht als ein gesperre.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0031/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0031</description>
-    </item>
-    <item>
-      <title>Michael Elmentaler u. Peter Rosenberg (Hgg.): Norddeutscher Sprachatlas (NOSA), unter Mitarbeit v. Liv Andresen [u. a.], Kartografie, Layout u. Satz v. Ulrike Schwedler, Hildesheim [u. a.]: Georg Olms 2015/2022 (Deutsche Dialektgeographie 113.1/2)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0032/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0032</description>
-    </item>
-    <item>
-      <title>Lea Schäfer: Onymische Flexion. Strukturen und Entwicklungen kontinentalwestgermanischer Dialekte, Tübingen: Narr Francke Attempto 2021, 486 S. (Tübinger Beiträge zur Linguistik 582)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0033/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0033</description>
-    </item>
-    <item>
-      <title>Anne-Katrin Federow u. Kay Malcher (Hgg.): Troja bauen. Vormodernes Erzählen von der Antike in komparatistischer Sicht, Heidelberg: Winter 2022, 268 S. (Germanisch-romanische Monatsschrift. Beiheft 103)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0034/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0034</description>
-    </item>
-    <item>
-      <title>Edith Feistner (Hg.): Klostergründungserzählungen des deutschen Sprachraums. Eine Anthologie, in Verb. mit Cora Dietl, Christoph Fasbender u. Gesine Mierke unter redaktioneller Mitarbeit von Julia Kermer, Berlin: Lit-Verlag 2021, 346 S., 6 Abb. (Regensburger Studien zur Literatur und Kultur des Mittelalters 6)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0035/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0035</description>
-    </item>
-    <item>
-      <title>Jan-Dirk Müller: Varianz – die Nibelungenfragmente. Überlieferung und Poetik des ›Nibelungenliedes‹ im Übergang von Mündlichkeit zu Schriftlichkeit, Berlin u. Boston: de Gruyter 2023, 363 S., 15 Abb. (Deutsche Literatur. Studien und Quellen 47)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0036/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0036</description>
-    </item>
-    <item>
-      <title>Marie-Sophie Masse: Translation de l’œuvre médiévale (XIIe-XVIe siècles). ›Érec et Énide‹ – ›Erec‹ – ›Ereck‹, Würzburg: Königshausen &amp; Neumann 2020, 401 S., 16 Abb. (Rezeptionskulturen in Literatur- und Mediengeschichte 15)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0037/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0037</description>
-    </item>
-    <item>
-      <title>Julia Burkhardt: Von Bienen lernen. Das ›Bonum universale de apibus‹ des Thomas von Cantimpré als Gemeinschaftsentwurf. Analyse, Edition, Übersetzung, Kommentar, 2 Bde., Regensburg: Schnell &amp; Steiner 2020, 512 u. 1097 S., 39 Abb. (Klöster als Innovationslabore 7.1/2)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0038/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0038</description>
-    </item>
-    <item>
-      <title>Beat von Scarpatetti: Bücherliebe und Weltverachtung. Die Bibliothek des Volkspredigers Heynlin von Stein und ihr Geheimnis, Basel: Schwabe 2022, 582 S., 65 Abb.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0039/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0039</description>
-    </item>
-    <item>
-      <title>Ambraser Heldenbuch. Gesamttranskription mit Manuskriptbild, hg. v. Mario Klarer, 11 Teilbde., Berlin u. Boston: de Gruyter 2022, 5585 Seiten, 2515 Abb. (Transcriptiones 1.1–11)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/bgsl-2024-0040/html</guid>
-      <description>Article by Martin Schubert DOI: https://doi.org/10.1515/bgsl-2024-0040</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Beiträge zur Geschichte der deutschen Sprache und Literatur</title>
+  <link href="https://www.degruyterbrill.com/journal/key/bgsl/147/1/html"/>
+  <updated>2025-05-04T22:10:56.855207+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bgsl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Beiträge zur Geschichte der deutschen Sprache und Literatur</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bgsl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-frontmatter1</id>
+    <updated>2025-05-04T22:10:56.855233+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bgsl-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Morphologisierung und der Wandel des Deutschen zu einer rezipientenorientierten Sprache</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0001/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0001</id>
+    <updated>2025-05-04T22:10:56.855241+00:00</updated>
+    <summary>Article by Carlotta J. Hübener
+DOI: https://doi.org/10.1515/bgsl-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Bericht zum DFG-Rundgespräch ›Germanistische Mediävistik als Literaturwissenschaft‹</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0002/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0002</id>
+    <updated>2025-05-04T22:10:56.855250+00:00</updated>
+    <summary>Article by Maximilian Benz, Martin Baisch, Manuel Braun, Annette Gerok-Reiter, Stephan Müller, Marina Münkler, Michael Waltenberger, Julia Weitbrecht
+DOI: https://doi.org/10.1515/bgsl-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Eschatology and Care</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0003/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0003</id>
+    <updated>2025-05-04T22:10:56.855257+00:00</updated>
+    <summary>Article by Michael Stolz
+DOI: https://doi.org/10.1515/bgsl-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Wilhelm Braune:Althochdeutsche Grammatik I. Phonologie und Morphologie, 17. Auflage, neu bearbeitet v.Frank Heidermanns, Berlin u. Boston: de Gruyter 2023, XXX, 605 S. (Sammlung kurzer Grammatiken germanischer Dialekte. A: Hauptreihe 5/1)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0004/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0004</id>
+    <updated>2025-05-04T22:10:56.855265+00:00</updated>
+    <summary>Article by Augustin Speyer
+DOI: https://doi.org/10.1515/bgsl-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Matthias Schulzu.Lukas Kütt(Hgg.):Sprachgeschichte vor Ort. Stadtsprachenforschung im Spannungsfeld zwischen Ortspunkt und Sprachraum, Heidelberg: Winter 2022, XII, 191 S. (Germanistische Bibliothek 74)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0005/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0005</id>
+    <updated>2025-05-04T22:10:56.855272+00:00</updated>
+    <summary>Article by Viola Wilcken
+DOI: https://doi.org/10.1515/bgsl-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Laura Velte:Sepulkralsemiotik. Grabmal und Grabinschrift in der europäischen Literatur des Mittelalters, Tübingen: Narr Francke Attempto 2021, 267 S. (Bibliotheca Germanica 76)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0006/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0006</id>
+    <updated>2025-05-04T22:10:56.855278+00:00</updated>
+    <summary>Article by Katharina P. Gedigk
+DOI: https://doi.org/10.1515/bgsl-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Katja Weidner:Erzählen im Zwischenraum. Narratologische Konfigurationen immanenter Jenseitsräume im 12. Jahrhundert, Berlin u. Boston: de Gruyter 2020, X, 357 S. (Quellen und Forschungen zur Literatur- und Kulturgeschichte 99 [333])</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0007/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0007</id>
+    <updated>2025-05-04T22:10:56.855285+00:00</updated>
+    <summary>Article by Laura Velte
+DOI: https://doi.org/10.1515/bgsl-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Bent Gebert(Hg.):Wettkämpfe in Literaturen und Kulturen des Mittelalters.Riskante Formen und Praktiken zwischen Kreativität und Zerstörung, Berlin u. Boston: de Gruyter 2023, VII, 266 S., 7 Abb. (Trends in Medieval Philology 43)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0008/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0008</id>
+    <updated>2025-05-04T22:10:56.855291+00:00</updated>
+    <summary>Article by Adrian Meyer
+DOI: https://doi.org/10.1515/bgsl-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Elias Friedrichs:›manheit‹ und Kampf in der Literatur des Mittelalters. Ritterliche Gewalt zwischen Praxeologie und Konventionalität am Beispiel des ›Iwein‹ und der ›Steirischen Reimchronik‹, Berlin u. Boston: de Gruyter 2023, VIII, 356 S. (Literatur – Theorie – Geschichte 27)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0009/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0009</id>
+    <updated>2025-05-04T22:10:56.855301+00:00</updated>
+    <summary>Article by Matthias Meyer
+DOI: https://doi.org/10.1515/bgsl-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Reinbot von Durne:Der Heilige Georg. Mittelhochdeutscher Text, Übersetzung, Kommentar und Materialien zur Stofftradition, hg. v.Christian Buhr,Astrid Lembkeu.Michael R. Ott, Berlin u. Boston: de Gruyter 2020, XX, 295 S.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0010/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0010</id>
+    <updated>2025-05-04T22:10:56.855308+00:00</updated>
+    <summary>Article by Stephanie Seidl
+DOI: https://doi.org/10.1515/bgsl-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>Rebecca Tschümperlin:Weltentwürfe in Text und Bild. Erzählungen vom Anfang der Geschichte in illustrierten Handschriften der Weltchroniken Rudolfs von Ems, Jans’ von Wien und des sächsischen Anonymus, Stuttgart: Hirzel 2021, 246 S., 61 Abb. (Zeitschrift für deutsches Altertum und deutsche Literatur. Beiheft 35)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0011/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0011</id>
+    <updated>2025-05-04T22:10:56.855316+00:00</updated>
+    <summary>Article by Mathias Herweg
+DOI: https://doi.org/10.1515/bgsl-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>Heike Link:›Der Jüngere Titurel‹: Untersuchungen zur Überlieferungs- und Textfrage auf der Grundlage der Varianz der Hss. A und X. Mit Transkriptionen der Hss. A und X sowie einer Strophenkonkordanz, Berlin: Peter Lang 2023, 521 S. (Kultur, Wissenschaft, Literatur 42)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0012/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0012</id>
+    <updated>2025-05-04T22:10:56.855324+00:00</updated>
+    <summary>Article by Britta Bußmann
+DOI: https://doi.org/10.1515/bgsl-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Alexandra Urban:Poetik der Meisterschaft in ›Der meide kranz‹. Heinrich von Mügeln auf den Schultern des Alanus ab Insulis, Berlin u. Boston: de Gruyter 2021, IX, 238 S. (Deutsche Literatur. Studien und Quellen 44)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0013/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0013</id>
+    <updated>2025-05-04T22:10:56.855331+00:00</updated>
+    <summary>Article by Franziska Wenzel
+DOI: https://doi.org/10.1515/bgsl-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Frühneuzeitliche Märtyrerdramen. Kritische Edition von ausgewählten Märtyrerdramen des 16. und frühen 17. Jahrhunderts, hg. v.Cora Dietl, 8 Bde., Wiesbaden: Harrassowitz 2019–21 (in Kommission für Herzog August Bibliothek Wolfenbüttel): Wolfgang Waldung:Catharina. Catharinæ martyrivm, hg. u. kommentiert v.Cora Dietl, Wiesbaden: Harrassowitz 2019, VIII, 154 S., 5 Abb. (Frühneuzeitliche Märtyrerdramen 1); Balthasar Thamm:Dorothea. Tragicomoedia, hg. u. kommentiert v.Julia Gold, Wiesbaden: Harrassowitz 2019, VIII, 237 S., 10 Abb. (Frühneuzeitliche Märtyrerdramen 2); Michael Sachs:Stephanus. Tragedia von Stephano dem heiligen marterer, hg. u. kommentiert v.Karolin Freund, Wiesbaden: Harrassowitz 2019, VII, 126 S., 1 Abb. (Frühneuzeitliche Märtyrerdramen 3); Melchior Neukirch:Stephanus. Ein schöne geistliche Tragedia von dem ersten Merterer, hg. u. kommentiert v.Verena Linseis, Wiesbaden: Harrassowitz 2019, VIII, 308 S., 3 Abb. (Frühneuzeitliche Märtyrerdramen 4); Daniel Holtzmann:Felicitas. Ein Tragedi / Von der Edlen Wittfraw Felicitas […], hg. u. kommentiert v.Julia Gold, Wiesbaden: Harrassowitz 2019, VIII, 147 S., 4 Abb. (Frühneuzeitliche Märtyrerdramen 5); Hilger Gartzwiller:Chrysantus und Daria. Spiegel der Keuscheidt, oder Historia Von Leben, Thaten vnd Sterben Zweyer H. Martyrer, Chrysanti vnnd Dariæ, hg. u. kommentiert v.Karolin Freund, Wiesbaden: Harrassowitz 2019, VII, 211 S., 3 Abb. (Frühneuzeitliche Märtyrerdramen 6); Arnold Quiting:Jacobus und Petrus. Ein Schnes Geistliches vnnd Trstliches Spiel […], hg. u. kommentiert v.Cora Dietlunter Mitarb. v.Adrian Verscharen, Wiesbaden: Harrassowitz 2021, VIII, 248 S., 5 Abb. (Frühneuzeitliche Märtyrerdramen 7); Mathaeus Steffan:Felicitas. Römische Histori vnd Tragödia […], hg. u. kommentiert v.Verena Linseis, Wiesbaden: Harrassowitz 2021, VIII, 178 S., 6 Abb. (Frühneuzeitliche Märtyrerdramen 8)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bgsl-2025-0014/html"/>
+    <id>https://doi.org/10.1515/bgsl-2025-0014</id>
+    <updated>2025-05-04T22:10:56.855343+00:00</updated>
+    <summary>Article by Glenn Ehrstine
+DOI: https://doi.org/10.1515/bgsl-2025-0014</summary>
+  </entry>
+</feed>

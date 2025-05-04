@@ -1,94 +1,141 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Applied Geodesy</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Applied Geodesy</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jag.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-frontmatter4/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Improving the approximation quality of tensor product B-spline surfaces by local parameterization</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0071/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0071/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0071</description>
-    </item>
-    <item>
-      <title>Development of GPS time-based reference trajectories for quality assessment of multi-sensor systems</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0084/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0084/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0084</description>
-    </item>
-    <item>
-      <title>PointNet-based modeling of systematic distance deviations for improved TLS accuracy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0097/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0097/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0097</description>
-    </item>
-    <item>
-      <title>Empirical uncertainty evaluation for the pose of a kinematic LiDAR-based multi-sensor system</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0098/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0098/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0098</description>
-    </item>
-    <item>
-      <title>Uncertainty and quality of multi-sensor systems</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0064/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0064/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0064</description>
-    </item>
-    <item>
-      <title>Coseismic slip model of the 14 January 2021 Mw 6.2 Mamuju-Majene earthquake based on static and kinematic GNSS solution</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0041/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0041</description>
-    </item>
-    <item>
-      <title>Simulation of range code tracking loop for multipath mitigation in NavIC receiver</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0010/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0010</description>
-    </item>
-    <item>
-      <title>Exploring ionospheric dynamics: a comprehensive analysis of GNSS TEC estimations during the solar phases using linear function model</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0019/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0019</description>
-    </item>
-    <item>
-      <title>A new approach of multi-dimensional correlation as a separability measure of multiple outliers in GNSS applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0106/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0106</description>
-    </item>
-    <item>
-      <title>Preliminary results of scintillation monitoring at KLEF-Guntur low latitude station using GNSS software defined radio</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0004/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0004</description>
-    </item>
-    <item>
-      <title>Evaluating the single-frequency static precise point positioning accuracies from multi-constellation GNSS observations at an Indian low-latitude station</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0014/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0014</description>
-    </item>
-    <item>
-      <title>Analysis of ionospheric anomalies before the Fukushima Mw 7.3 earthquake of March 16, 2022</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2023-0105/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2023-0105/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2023-0105</description>
-    </item>
-    <item>
-      <title>Geomagnetic storm effect on equatorial ionosphere over Sri Lanka through total electron content observations from continuously operating reference stations network during Mar–Apr 2022</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jag-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jag-2024-0009/html</guid>
-      <description>Article by Venuraj Thiruvarangan, Jenan Rajavarathan, Sampad Kumar Panda, Jayakody Arachichilage Swarnalatha Jayakody DOI: https://doi.org/10.1515/jag-2024-0009</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Applied Geodesy</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jag/19/2/html"/>
+  <updated>2025-05-04T22:07:14.680963+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jag.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Applied Geodesy</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jag.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jag-2025-frontmatter2</id>
+    <updated>2025-05-04T22:07:14.680985+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jag-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Locally robust Msplitestimation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0023/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0023</id>
+    <updated>2025-05-04T22:07:14.680993+00:00</updated>
+    <summary>Article by Patrycja Wyszkowska, Robert Duchnowski
+DOI: https://doi.org/10.1515/jag-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>Extending geodetic networks for geo-monitoring by supervised point cloud matching</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0011/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0011</id>
+    <updated>2025-05-04T22:07:14.681001+00:00</updated>
+    <summary>Article by Lukas Raffl, Christoph Holst
+DOI: https://doi.org/10.1515/jag-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Evaluation and homogenization of a marine gravity database from shipborne and satellite altimetry-derived gravity data over the coastal region of Nigeria</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0059/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0059</id>
+    <updated>2025-05-04T22:07:14.681008+00:00</updated>
+    <summary>Article by Michael Bako, Jürgen Kusche
+DOI: https://doi.org/10.1515/jag-2024-0059</summary>
+  </entry>
+  <entry>
+    <title>Modelling geoid height errors for local areas based on data of global models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0054/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0054</id>
+    <updated>2025-05-04T22:07:14.681016+00:00</updated>
+    <summary>Article by Stepan Savchuk, Alina Fedorchuk, Dorota Marjanska
+DOI: https://doi.org/10.1515/jag-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Unmanned aerial vehicle-based aerial survey of mines in Shanxi Province based on image data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0072/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0072</id>
+    <updated>2025-05-04T22:07:14.681024+00:00</updated>
+    <summary>Article by Xuanjie Wang
+DOI: https://doi.org/10.1515/jag-2024-0072</summary>
+  </entry>
+  <entry>
+    <title>Ionospheric TEC and its irregularities over Egypt: a comprehensive study of spatial and temporal variations using GOCE satellite data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0050/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0050</id>
+    <updated>2025-05-04T22:07:14.681031+00:00</updated>
+    <summary>Article by Ibrahim Fouad Bakry, Ibrahim F. Ahmed, Ashraf E.-K Mousa, Gamal S. El-Fiky
+DOI: https://doi.org/10.1515/jag-2024-0050</summary>
+  </entry>
+  <entry>
+    <title>Monitoring of volcanic precursors using satellite data: the case of Taftan volcano in Iran</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0049/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0049</id>
+    <updated>2025-05-04T22:07:14.681037+00:00</updated>
+    <summary>Article by Mehdi Akhoondzadeh
+DOI: https://doi.org/10.1515/jag-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>Modeling of temperature deformations on the Dnister HPP dam (Ukraine)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0060/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0060</id>
+    <updated>2025-05-04T22:07:14.681044+00:00</updated>
+    <summary>Article by Kornyliy Tretyak, Oksana Serant, Yurii Bisovetskyi
+DOI: https://doi.org/10.1515/jag-2024-0060</summary>
+  </entry>
+  <entry>
+    <title>Impact of temporal resolution in global ionospheric models on satellite positioning during low and high solar activity years of solar cycle 24</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0056/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0056</id>
+    <updated>2025-05-04T22:07:14.681050+00:00</updated>
+    <summary>Article by Ahmed Abdelaziz, Xiaohong Zhang, Xiaodong Ren, Mostafa Rabah, Ahmed Sedeek
+DOI: https://doi.org/10.1515/jag-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Comparative performance of PPP software packages in atmospheric delay estimation using GNSS data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0081/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0081</id>
+    <updated>2025-05-04T22:07:14.681057+00:00</updated>
+    <summary>Article by Reham Nagib, Mohamed A. Abdelfatah, Ashraf K. Mousa, Gamal S. EL-Fiky
+DOI: https://doi.org/10.1515/jag-2024-0081</summary>
+  </entry>
+  <entry>
+    <title>Assessment and fitting of high/ultra resolution global geopotential models using GNSS/levelling over Egypt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0068/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0068</id>
+    <updated>2025-05-04T22:07:14.681063+00:00</updated>
+    <summary>Article by Abdelaty Mohammed Zayed, Ahmed Saber, Mostafa Hamama, Mostafa Rabah, Ahmed Zaki
+DOI: https://doi.org/10.1515/jag-2024-0068</summary>
+  </entry>
+  <entry>
+    <title>An efficient ‘P1’ algorithm for dual mixed-integer least-squares problems with scalar real-valued parameters</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0076/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0076</id>
+    <updated>2025-05-04T22:07:14.681070+00:00</updated>
+    <summary>Article by Lotfi Massarweh, Peter J. G. Teunissen
+DOI: https://doi.org/10.1515/jag-2024-0076</summary>
+  </entry>
+  <entry>
+    <title>Spatio-temporal trajectory alignment for trajectory evaluation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0040/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0040</id>
+    <updated>2025-05-04T22:07:14.681076+00:00</updated>
+    <summary>Article by Gereon Tombrink, Ansgar Dreier, Lasse Klingbeil, Heiner Kuhlmann
+DOI: https://doi.org/10.1515/jag-2024-0040</summary>
+  </entry>
+  <entry>
+    <title>Monitoring of networked RTK reference stations for coordinate reference system realization and maintenance – case study of the Czech Republic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0074/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0074</id>
+    <updated>2025-05-04T22:07:14.681083+00:00</updated>
+    <summary>Article by Vratislav Filler, Jakub Kostelecky
+DOI: https://doi.org/10.1515/jag-2024-0074</summary>
+  </entry>
+  <entry>
+    <title>Crustal deformation in East of Cairo, Egypt, induced by rapid urbanization, as seen from remote sensing and GNSS data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jag-2024-0094/html"/>
+    <id>https://doi.org/10.1515/jag-2024-0094</id>
+    <updated>2025-05-04T22:07:14.681089+00:00</updated>
+    <summary>Article by Ahmed Nabil, Mohamed El-Ashquer, Mohamed Saleh, Ashraf El-Kutb Mousa, Gamal Saber El-Fiky
+DOI: https://doi.org/10.1515/jag-2024-0094</summary>
+  </entry>
+</feed>

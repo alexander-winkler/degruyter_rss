@@ -1,106 +1,133 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für romanische Philologie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für romanische Philologie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrph.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-frontmatter2/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>À la recherche du neutre protoroman. Réflexions à partir de l’expérience de rédaction et de révision de l’article */'ram‑u/ s.n. ‘branche ; branchage’ du DÉRom</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0017/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0017</description>
-    </item>
-    <item>
-      <title>Senior domno Orbita confirmat. Evolución sociopragmática de los tratamientos don y señor en el iberorromance primitivo</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0018/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0018</description>
-    </item>
-    <item>
-      <title>Aproximación estadística al reparto de &lt;b&gt; y &lt;v&gt; en manuscritos latinos de autores hispanos</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0019/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0019</description>
-    </item>
-    <item>
-      <title>A ver (si): diacronía de un marcador del discurso en español</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0020/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0020</description>
-    </item>
-    <item>
-      <title>Exclamativas encubiertas en español</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0021/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0021</description>
-    </item>
-    <item>
-      <title>Más las oigo, mejor me parecen: comparativas proporcionales idiolectales</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0022/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0022</description>
-    </item>
-    <item>
-      <title>Differential marking of direct objects in Monastirli džudezmu: a case study in Judeo-Spanish morphosyntax</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0023/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0023</description>
-    </item>
-    <item>
-      <title>Penitencia cuaresmal como medicina del alma. Nueva edición de un sermón de Cuaresma de San Vicente Ferrer</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0024/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0024</description>
-    </item>
-    <item>
-      <title>Amor y diálogo en la trama trovadoresca</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0025/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0025</description>
-    </item>
-    <item>
-      <title>Origine dell’it. anche e dei suoi correlati romanzi</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0026/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0026</description>
-    </item>
-    <item>
-      <title>Die Wortgeschichte von fr. banqueroute, dt. Bankrott und it. bancarotta</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0027/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0027</description>
-    </item>
-    <item>
-      <title>Délocutifs français d’origine bretonne</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0028/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0028</description>
-    </item>
-    <item>
-      <title>Elena Liverani/Alessandro Parenti, Il dizionario spagnolo-italiano di Nicolao Landucci (1562), Biblioteca dell’Archivum Romanicum, Serie 2: Linguistica, vol. 64, Firenze, Olschki, 2022, VI + 352 p.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0029/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0029</description>
-    </item>
-    <item>
-      <title>Josephine Klingebeil, Codex oblitus. Curtius Rufus in der italienischen Übersetzung von Lodrisio Crivelli: Analyse zur Edition des Mscr.Dresd.Ob.47 (Beihefte zur Zeitschrift für romanische Philologie, 464), Berlin/Boston, De Gruyter, 2022, XVIII + 338 p.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0030/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0030</description>
-    </item>
-    <item>
-      <title>Il manoscritto Saibante-Hamilton 390, Edizione critica diretta da Maria Luisa Meneghetti, coordinamento editoriale di Roberto Tagliani, Roma, Salerno Editrice, 2019, CCXVI + 616 p.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrp-2024-0031/html</guid>
-      <description>Article by Stephen Dörr DOI: https://doi.org/10.1515/zrp-2024-0031</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für romanische Philologie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zrph/141/1/html"/>
+  <updated>2025-05-04T22:14:16.327304+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrph.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für romanische Philologie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrph.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-frontmatter1</id>
+    <updated>2025-05-04T22:14:16.327334+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zrp-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>False etimologie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0007/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0007</id>
+    <updated>2025-05-04T22:14:16.327339+00:00</updated>
+    <summary>Article by Daniele Baglioni
+DOI: https://doi.org/10.1515/zrp-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>La evolución de las secuencias [mn] a [mb(r)] y [nd(r)] en las lenguas románicas</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0003/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0003</id>
+    <updated>2025-05-04T22:14:16.327345+00:00</updated>
+    <summary>Article by César Gutiérrez
+DOI: https://doi.org/10.1515/zrp-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Per l’edizione critica delRoman de Reinbert: spie per la definizione dellostatusdel testimone</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0002/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0002</id>
+    <updated>2025-05-04T22:14:16.327353+00:00</updated>
+    <summary>Article by Mariateresa Prota
+DOI: https://doi.org/10.1515/zrp-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>L’éco-anxiétéunddie Klimakleber– französische und deutsche Neologie rund um das Thema Umwelt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0005/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0005</id>
+    <updated>2025-05-04T22:14:16.327358+00:00</updated>
+    <summary>Article by Yvonne Kiegel-Keicher
+DOI: https://doi.org/10.1515/zrp-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Nul hommeen français médiéval: une grammaticalisation qui n’a jamais eu lieu</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0011/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0011</id>
+    <updated>2025-05-04T22:14:16.327362+00:00</updated>
+    <summary>Article by Zinaïda Geylikman
+DOI: https://doi.org/10.1515/zrp-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>El sujeto como objeto. Descripción en español</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0008/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0008</id>
+    <updated>2025-05-04T22:14:16.327366+00:00</updated>
+    <summary>Article by Javier Martínez Orozco
+DOI: https://doi.org/10.1515/zrp-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Una aproximación fraseográfica en la lexicografía preacadémica. Sobre la vozbarriscoy su fraseología</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0004/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0004</id>
+    <updated>2025-05-04T22:14:16.327371+00:00</updated>
+    <summary>Article by Juan Manuel Ribes Lorenzo
+DOI: https://doi.org/10.1515/zrp-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Flexión sustantival y reasignación sintáctica: el orden románico de la estructura transitiva enraizado en latín medieval (Portugal y norte peninsular)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0010/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0010</id>
+    <updated>2025-05-04T22:14:16.327375+00:00</updated>
+    <summary>Article by Omar Velázquez-Mendoza
+DOI: https://doi.org/10.1515/zrp-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>O advérbionuncae as combinaçõesnunca antesenunca mais: interpretação semântica e questões pragmáticas</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0009/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0009</id>
+    <updated>2025-05-04T22:14:16.327380+00:00</updated>
+    <summary>Article by Telmo Móia
+DOI: https://doi.org/10.1515/zrp-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Carte vaganti: contributo sugli archivi di Adolfo Mussafia e di Ernesto Giacomo Parodi</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0006/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0006</id>
+    <updated>2025-05-04T22:14:16.327391+00:00</updated>
+    <summary>Article by Paola Navone
+DOI: https://doi.org/10.1515/zrp-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Un nuovo testimone frammentario delRégime du corpsdi Aldobrandino da Siena nell’Archivio Storico Diocesano di Cremona</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0001/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0001</id>
+    <updated>2025-05-04T22:14:16.327395+00:00</updated>
+    <summary>Article by Nicolò Premi
+DOI: https://doi.org/10.1515/zrp-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>It.stramazzound dt.stromatze‘mit Stroh gefüllte Matratzeʼ: eine ungewöhnliche Koinzidenz</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0014/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0014</id>
+    <updated>2025-05-04T22:14:16.327399+00:00</updated>
+    <summary>Article by Wolfgang Schweickard
+DOI: https://doi.org/10.1515/zrp-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>Le canzoni di gesta dei vassalli ribelli.Rinaldo di Montalbano, Raoul di Cambrai, Girart de Roussillon, Uggeri il Danese, Huon di Bordeaux, a cura di Marco Infurna e Mario Mancini. Testi francesi a cura di Mario Eusebi, Winifred Mary Hackett, Auguste Longnon, Paul Meyer, Pierre Ruelle, Jacques Thomas. Note introduttive, traduzioni e note di Andrea Fassò, Marco Infurna, Mario Mancini, Gianfelice Peron, Elena Podetti, Milano, Bompiani/Firenze, Giunti, 2023, I-CXVIII + 1–2000 pp.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0012/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0012</id>
+    <updated>2025-05-04T22:14:16.327406+00:00</updated>
+    <summary>Article by Mahmoud Salem Elsheikh
+DOI: https://doi.org/10.1515/zrp-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Irene Kunert,Argumentationsindikatoren im Deutschen und im Französischen, Tübingen, Stauffenburg, 2022, 400 p.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrp-2025-0013/html"/>
+    <id>https://doi.org/10.1515/zrp-2025-0013</id>
+    <updated>2025-05-04T22:14:16.327410+00:00</updated>
+    <summary>Article by Martina Nicklaus
+DOI: https://doi.org/10.1515/zrp-2025-0013</summary>
+  </entry>
+</feed>

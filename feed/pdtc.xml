@@ -1,58 +1,92 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Preservation, Digital Technology &amp; Culture (PDT&amp;C)</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Preservation, Digital Technology &amp; Culture (PDT&amp;C)</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-frontmatter3/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Going Beyond Digital Preservation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-2001/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-2001</description>
-    </item>
-    <item>
-      <title>Historical Depictions, Archaeological Practices, and the Construct of Cultural Heritage in Commercial Video Games: The Role of These Games in Raising Awareness</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0028/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0028</description>
-    </item>
-    <item>
-      <title>Digital is Not the Alternative: Dilemma and Preserving Films in India</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0020/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0020</description>
-    </item>
-    <item>
-      <title>Digital Transformation of Archives in the Context of the Introduction of an Electronic Document Management System in Kazakhstan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0017/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0017</description>
-    </item>
-    <item>
-      <title>Cultural Preservation Through Immersive Technology: The Metaverse as a Pathway to the Past</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0015/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0015</description>
-    </item>
-    <item>
-      <title>The Function of Digital Technology in Minority Language Preservation: The Case of the Gyalrong Tibetan Language</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0021/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0021</description>
-    </item>
-    <item>
-      <title>What Needs to be Learned by U.S. Cultural Heritage Professionals? Results from the Digital Preservation Outreach &amp; Education Network</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pdtc-2024-0024/html</guid>
-      <description>Article by Kirk Robert Mudle, Anthony Cocciolo DOI: https://doi.org/10.1515/pdtc-2024-0024</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Preservation, Digital Technology &amp; Culture (PDT&amp;C)</title>
+  <link href="https://www.degruyterbrill.com/journal/key/pdtc/54/1/html"/>
+  <updated>2025-05-04T22:10:58.366292+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Preservation, Digital Technology &amp; Culture (PDT&amp;C)</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/pdtc-2025-frontmatter1</id>
+    <updated>2025-05-04T22:10:58.366318+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pdtc-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Moving into 2025</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2025-0011/html"/>
+    <id>https://doi.org/10.1515/pdtc-2025-0011</id>
+    <updated>2025-05-04T22:10:58.366326+00:00</updated>
+    <summary>Article by Bogdan Trifunović
+DOI: https://doi.org/10.1515/pdtc-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>New Contributions to Iron Gall Ink Inspection Protocols Using Open Source Surface Analysis and Digital Imaging</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0055/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0055</id>
+    <updated>2025-05-04T22:10:58.366336+00:00</updated>
+    <summary>Article by Ania Rodríguez-Maciel, Elisa Díaz-González
+DOI: https://doi.org/10.1515/pdtc-2024-0055</summary>
+  </entry>
+  <entry>
+    <title>Passing Down Local Memories: Generativity and Photo Donations in Preservation Institutions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0051/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0051</id>
+    <updated>2025-05-04T22:10:58.366344+00:00</updated>
+    <summary>Article by Ryo Shiozaki
+DOI: https://doi.org/10.1515/pdtc-2024-0051</summary>
+  </entry>
+  <entry>
+    <title>Oral History Metadata and AI: A Study from an LGBTQ+ Archival Context</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0054/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0054</id>
+    <updated>2025-05-04T22:10:58.366351+00:00</updated>
+    <summary>Article by Anthony Cocciolo
+DOI: https://doi.org/10.1515/pdtc-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Exploring Design Aspects of Online Museums: From Cultural Heritage to Art, Science and Fashion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0044/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0044</id>
+    <updated>2025-05-04T22:10:58.366358+00:00</updated>
+    <summary>Article by Olga Yezhova, Jingjie Zhao, Kalina Pashkevych
+DOI: https://doi.org/10.1515/pdtc-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>Can Social Media Pave the Way for the Preservation and Promotion of Heritage Sites?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0041/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0041</id>
+    <updated>2025-05-04T22:10:58.366365+00:00</updated>
+    <summary>Article by Anirban Baitalik
+DOI: https://doi.org/10.1515/pdtc-2024-0041</summary>
+  </entry>
+  <entry>
+    <title>Exploring the Potential of Mobile Phone Applications in the Transmission of Intangible Cultural Heritage Among the Younger Generation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0058/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0058</id>
+    <updated>2025-05-04T22:10:58.366372+00:00</updated>
+    <summary>Article by Huang Yidan, Jinchi Yip, Vickram Theavar
+DOI: https://doi.org/10.1515/pdtc-2024-0058</summary>
+  </entry>
+  <entry>
+    <title>The Application of Interaction Design in Cultural Heritage Tourism: A Systematic Literature Review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0053/html"/>
+    <id>https://doi.org/10.1515/pdtc-2024-0053</id>
+    <updated>2025-05-04T22:10:58.366379+00:00</updated>
+    <summary>Article by Zhe Wang, Hassan Alli, Irwan Syah Md Yusoff
+DOI: https://doi.org/10.1515/pdtc-2024-0053</summary>
+  </entry>
+  <entry>
+    <title>PDT&amp;C Peer-Reviewers in 2023–2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2025-2001/html"/>
+    <id>https://doi.org/10.1515/pdtc-2025-2001</id>
+    <updated>2025-05-04T22:10:58.366385+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pdtc-2025-2001</summary>
+  </entry>
+</feed>

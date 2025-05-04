@@ -1,22 +1,30 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Statistical Communications in Infectious Diseases</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Statistical Communications in Infectious Diseases</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/scid.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>The role of randomization inference in unraveling individual treatment effects in early phase vaccine trials</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/scid-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/scid-2024-0001/html</guid>
-      <description>Article by Yongwu Shao, Fei Gao DOI: https://doi.org/10.1515/scid-2024-0001</description>
-    </item>
-    <item>
-      <title>Likelihood-based inferences for active-arm trial with counterfactual incidence based on recency assay</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/scid-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/scid-2023-0004/html</guid>
-      <description>Article by Yongwu Shao, Fei Gao DOI: https://doi.org/10.1515/scid-2023-0004</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Statistical Communications in Infectious Diseases</title>
+  <link href="https://www.degruyterbrill.com/journal/key/scid/16/1/html"/>
+  <updated>2025-05-04T22:12:17.178517+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/scid.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Statistical Communications in Infectious Diseases</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/scid.xml" type="application/rss+xml"/>
+  <entry>
+    <title>The role of randomization inference in unraveling individual treatment effects in early phase vaccine trials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/scid-2024-0001/html"/>
+    <id>https://doi.org/10.1515/scid-2024-0001</id>
+    <updated>2025-05-04T22:12:17.178559+00:00</updated>
+    <summary>Article by Zhe Chen, Xinran Li, Bo Zhang
+DOI: https://doi.org/10.1515/scid-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>Likelihood-based inferences for active-arm trial with counterfactual incidence based on recency assay</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/scid-2023-0004/html"/>
+    <id>https://doi.org/10.1515/scid-2023-0004</id>
+    <updated>2025-05-04T22:12:17.178572+00:00</updated>
+    <summary>Article by Yongwu Shao, Fei Gao
+DOI: https://doi.org/10.1515/scid-2023-0004</summary>
+  </entry>
+</feed>

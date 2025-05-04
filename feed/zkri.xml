@@ -1,60 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Kristallographie - Crystalline Materials </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Kristallographie - Crystalline Materials </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-frontmatter9-10/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-frontmatter9-10/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-frontmatter9-10</description>
-    </item>
-    <item>
-      <title>In this issue</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-graphabs9-10/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-graphabs9-10/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-graphabs9-10</description>
-    </item>
-    <item>
-      <title>Synthesis, characterization and structure-property relations in mullite-type Pb2(Pb1−xSn
-x
-)O4 solid solution</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0088/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0088/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0088</description>
-    </item>
-    <item>
-      <title>Temperature-dependent diffraction studies on the stannides Sr3Rh4Sn4, Sr3Ir4Sn4 and Sr2.43Eu0.57Ir4Sn4</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0093/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0093/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0093</description>
-    </item>
-    <item>
-      <title>The crystal and molecular structure of (R)-sirtinol – C26H22N2O2 – a chemo-sensitive enhancer and ligand in metal complexes with important bio-inorganic applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0073/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0073/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0073</description>
-    </item>
-    <item>
-      <title>Synthesis and structural characterization of supramolecular cocrystals of [(4-cyano-1-methylpyridinium)2-(18-crown-6)] diiodide</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0085/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0085/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0085</description>
-    </item>
-    <item>
-      <title>1-Nitronaphthalene, a non-OD, non-MDO polytype</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0089/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0089/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0089</description>
-    </item>
-    <item>
-      <title>Synthesis and crystal structure of a tripeptide comprising a centrally placed non-coded aromatic γ-amino acid</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0095/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkri-2024-0095/html</guid>
-      <description>Article by Purak Das, Suven Das, Arpita Dutta DOI: https://doi.org/10.1515/zkri-2024-0095</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Kristallographie - Crystalline Materials </title>
+  <link href="https://www.degruyterbrill.com/journal/key/zkri/240/3-4/html"/>
+  <updated>2025-05-04T22:13:55.796255+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Kristallographie - Crystalline Materials </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-frontmatter3-4/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-frontmatter3-4</id>
+    <updated>2025-05-04T22:13:55.796278+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zkri-2025-frontmatter3-4</summary>
+  </entry>
+  <entry>
+    <title>In this issue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-graphabs3-4/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-graphabs3-4</id>
+    <updated>2025-05-04T22:13:55.796284+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zkri-2025-graphabs3-4</summary>
+  </entry>
+  <entry>
+    <title>Flux-growth synthesis and structural characterization ofR6Nb4Al43(R= Sm, Gd, Tb, Dy, Ho, Er, Tm, Yb, and Lu)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0002/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0002</id>
+    <updated>2025-05-04T22:13:55.796290+00:00</updated>
+    <summary>Article by Shrenik Patha, Soham Bhatt, Daniel S. Tortorella, Connor Donnelly, Svilen Bobev
+DOI: https://doi.org/10.1515/zkri-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Topological densities of quasiperiodic structures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0003/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0003</id>
+    <updated>2025-05-04T22:13:55.796297+00:00</updated>
+    <summary>Article by Anton Shutov
+DOI: https://doi.org/10.1515/zkri-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Crystal chemistry of the high hydrous analogue of gismondine-Sr and the role of water in the extra-framework cations ordering</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0108/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0108</id>
+    <updated>2025-05-04T22:13:55.796302+00:00</updated>
+    <summary>Article by Natalia V. Zubkova, Nikita V. Chukanov, Igor V. Pekov, Christof Schäfer, Dmitry A. Ksenofontov, Katarzyna Skrzyńska, Dmitry Yu. Pushcharovsky
+DOI: https://doi.org/10.1515/zkri-2024-0108</summary>
+  </entry>
+  <entry>
+    <title>Halogen bonds versus hydrogen bonds in the crystal packing formation of halogen substituted anilines</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0119/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0119</id>
+    <updated>2025-05-04T22:13:55.796311+00:00</updated>
+    <summary>Article by Irina S. Konovalova, Guido J. Reiss
+DOI: https://doi.org/10.1515/zkri-2024-0119</summary>
+  </entry>
+  <entry>
+    <title>One trityl, two trityl, three trityl groups – Structural differences of differently substituted triethanolamines</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0112/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0112</id>
+    <updated>2025-05-04T22:13:55.796316+00:00</updated>
+    <summary>Article by Tabea Lenz, Marcus Layh, Marian Hebenbrock
+DOI: https://doi.org/10.1515/zkri-2024-0112</summary>
+  </entry>
+  <entry>
+    <title>Conformational polymorphism in a mononuclear phosphanegold(I) thiocarbamato species, Cy3PAu[SC(OEt)=N(C6H4Cl-3)]</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0124/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0124</id>
+    <updated>2025-05-04T22:13:55.796321+00:00</updated>
+    <summary>Article by Chien Ing Yeo, Yee Seng Tan, Wai Kit Tang, Edward R.T. Tiekink
+DOI: https://doi.org/10.1515/zkri-2024-0124</summary>
+  </entry>
+</feed>

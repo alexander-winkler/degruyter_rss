@@ -1,76 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Chemical Product and Process Modeling</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Chemical Product and Process Modeling</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cppm.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2024-frontmatter4/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Computational chemistry unveiled: a critical analysis of theoretical coordination chemistry and nanostructured materials</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0001/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2024-0001</description>
-    </item>
-    <item>
-      <title>Reducing sludge formation by enhancing biological decay of biomass: a mathematical model</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2022-0077/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2022-0077/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2022-0077</description>
-    </item>
-    <item>
-      <title>Numerical investigation of discharge pressure effect on steam ejector performance in renewable refrigeration cycle by considering wet steam model and dry gas model</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0092/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0092/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2023-0092</description>
-    </item>
-    <item>
-      <title>Natural pigment indigoidine production: process design, simulation, and techno-economic assessment</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0098/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0098/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2023-0098</description>
-    </item>
-    <item>
-      <title>Energy efficiency in cooling systems: integrating machine learning and meta-heuristic algorithms for precise cooling load prediction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0006/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2024-0006</description>
-    </item>
-    <item>
-      <title>A parametric study on syngas production by adding CO2 and CH4 on steam gasification of biomass system using ASPEN Plus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0100/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0100/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2023-0100</description>
-    </item>
-    <item>
-      <title>Temperature optimization model to inhibit zero-order kinetic reactions</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2023-0101/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2023-0101</description>
-    </item>
-    <item>
-      <title>Multi-objective Bonobo optimisers of industrial low-density polyethylene reactor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0023/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2024-0023</description>
-    </item>
-    <item>
-      <title>Assessment the thermal performance of square twisted double tube heat exchanger with Al2O3 nanofluid</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0047/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2024-0047</description>
-    </item>
-    <item>
-      <title>Layouts and tips for a typical final-year chemical engineering graduation project</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cppm-2024-0046/html</guid>
-      <description>Article by Anees A. Khadom DOI: https://doi.org/10.1515/cppm-2024-0046</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chemical Product and Process Modeling</title>
+  <link href="https://www.degruyterbrill.com/journal/key/cppm/20/1/html"/>
+  <updated>2025-05-04T22:04:14.017753+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cppm.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Chemical Product and Process Modeling</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cppm.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/cppm-2025-frontmatter1</id>
+    <updated>2025-05-04T22:04:14.017775+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/cppm-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Cogeneration system’s energy performance improvement by using P-graph and advanced process control</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0071/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0071</id>
+    <updated>2025-05-04T22:04:14.017784+00:00</updated>
+    <summary>Article by Fakhrony Sholahudin Rohman, Sharifah Rafidah Wan Alwi, Hong An Er, Siti Nor Azreen Ahmad Termizi, Zainuddin Abd Manan, Jeng Shiun Lim, Dinie Muhammad
+DOI: https://doi.org/10.1515/cppm-2024-0071</summary>
+  </entry>
+  <entry>
+    <title>Numerical simulation of R134a evaporation in a cold water production system</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0095/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0095</id>
+    <updated>2025-05-04T22:04:14.017792+00:00</updated>
+    <summary>Article by Sobhi Frikha, Mounir Baccar
+DOI: https://doi.org/10.1515/cppm-2024-0095</summary>
+  </entry>
+  <entry>
+    <title>Implementing a radial basis function model to anticipate the outcomes of the gasification</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0085/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0085</id>
+    <updated>2025-05-04T22:04:14.017799+00:00</updated>
+    <summary>Article by Hongfang Cui, Ning Su, Hongyan Cui
+DOI: https://doi.org/10.1515/cppm-2024-0085</summary>
+  </entry>
+  <entry>
+    <title>Sensitivity analysis and optimization of the whole process of continuous catalytic reforming for Persian gulf star oil company using an optimized data-driven model with tuned parameters</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0112/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0112</id>
+    <updated>2025-05-04T22:04:14.017806+00:00</updated>
+    <summary>Article by Mahmud Atarianshandiz, Akbar Shahsavand
+DOI: https://doi.org/10.1515/cppm-2024-0112</summary>
+  </entry>
+  <entry>
+    <title>Evaluating the therapeutic potential of 4-hydroxyflavanes diastereomers derivatives against (MetAP2) for anti-cancer therapy: a molecular docking study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0098/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0098</id>
+    <updated>2025-05-04T22:04:14.017813+00:00</updated>
+    <summary>Article by Thinhinane Hamache, Nasser Belboukhari, Khaled Sekkoum, Mohammed El Amin Zaid
+DOI: https://doi.org/10.1515/cppm-2024-0098</summary>
+  </entry>
+  <entry>
+    <title>Enhanced cryogenic distillation column identification for methane separation: a hybrid artificial neural network approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0075/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0075</id>
+    <updated>2025-05-04T22:04:14.017820+00:00</updated>
+    <summary>Article by Suhailam Pullanikkattil, Raju Yerolla, Chandra Shekar Besta
+DOI: https://doi.org/10.1515/cppm-2024-0075</summary>
+  </entry>
+  <entry>
+    <title>Natural Gas and hydrogen blending: a perspective on numerical modeling and CFD analysis for transient and steady-state scenarios</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0066/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0066</id>
+    <updated>2025-05-04T22:04:14.017827+00:00</updated>
+    <summary>Article by Sukriti Sharma, Asad H. Sahir
+DOI: https://doi.org/10.1515/cppm-2024-0066</summary>
+  </entry>
+  <entry>
+    <title>Simulation and optimization of Venturi type bubble generator to improve cavitation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cppm-2024-0120/html"/>
+    <id>https://doi.org/10.1515/cppm-2024-0120</id>
+    <updated>2025-05-04T22:04:14.017833+00:00</updated>
+    <summary>Article by Salehe Allami, Ebrahim Nemati Lay, Minou Atharifar, Amirhossein Oudi
+DOI: https://doi.org/10.1515/cppm-2024-0120</summary>
+  </entry>
+</feed>

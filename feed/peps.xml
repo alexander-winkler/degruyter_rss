@@ -1,46 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Peace Economics, Peace Science and Public Policy</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Peace Economics, Peace Science and Public Policy</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/peps.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/peps-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/peps-2024-frontmatter3/html</guid>
-      <description>Article by Antonis Tsitouras, Nicholas Tsounis DOI: https://doi.org/10.1515/peps-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>7th Walter Isard Annual Award for the Best Article in Peace Economics Peace Science and Public Policy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/peps-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/peps-2024-0039/html</guid>
-      <description>Article by Antonis Tsitouras, Nicholas Tsounis DOI: https://doi.org/10.1515/peps-2024-0039</description>
-    </item>
-    <item>
-      <title>Does Fiscal Decentralization Mitigate Domestic Terrorism?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/peps-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/peps-2024-0018/html</guid>
-      <description>Article by Antonis Tsitouras, Nicholas Tsounis DOI: https://doi.org/10.1515/peps-2024-0018</description>
-    </item>
-    <item>
-      <title>UN Peacekeeping Forces and Peace Negotiations in Africa</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/peps-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/peps-2024-0009/html</guid>
-      <description>Article by Antonis Tsitouras, Nicholas Tsounis DOI: https://doi.org/10.1515/peps-2024-0009</description>
-    </item>
-    <item>
-      <title>Migration Preferences Under Economic and Geopolitical Uncertainty: An Asymmetric Approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/peps-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/peps-2024-0024/html</guid>
-      <description>Article by Antonis Tsitouras, Nicholas Tsounis DOI: https://doi.org/10.1515/peps-2024-0024</description>
-    </item>
-    <item>
-      <title>Military Outlays and Economic Growth: A Nonlinear Disaggregated Analysis for a Developed Economy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/peps-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/peps-2024-0010/html</guid>
-      <description>Article by Antonis Tsitouras, Nicholas Tsounis DOI: https://doi.org/10.1515/peps-2024-0010</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Peace Economics, Peace Science and Public Policy</title>
+  <link href="https://www.degruyterbrill.com/journal/key/peps/31/1/html"/>
+  <updated>2025-05-04T22:10:59.901034+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/peps.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Peace Economics, Peace Science and Public Policy</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/peps.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/peps-2025-frontmatter1</id>
+    <updated>2025-05-04T22:10:59.901065+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/peps-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Simultaneous Battles and Sequential Battles in Bargaining Models of War</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0033/html"/>
+    <id>https://doi.org/10.1515/peps-2024-0033</id>
+    <updated>2025-05-04T22:10:59.901075+00:00</updated>
+    <summary>Article by Keisuke Nakao
+DOI: https://doi.org/10.1515/peps-2024-0033</summary>
+  </entry>
+  <entry>
+    <title>The Dynamic Interactions of Hate, Violence and Economic Well-Being</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0035/html"/>
+    <id>https://doi.org/10.1515/peps-2024-0035</id>
+    <updated>2025-05-04T22:10:59.901084+00:00</updated>
+    <summary>Article by Elie Appelbaum
+DOI: https://doi.org/10.1515/peps-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Unveiling the Impacts of Geopolitical Risk on the Transition to the Decentralized Financial Landscape</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0048/html"/>
+    <id>https://doi.org/10.1515/peps-2024-0048</id>
+    <updated>2025-05-04T22:10:59.901097+00:00</updated>
+    <summary>Article by Nikolaos A. Kyriazis, Emmanouil M. L. Economou
+DOI: https://doi.org/10.1515/peps-2024-0048</summary>
+  </entry>
+  <entry>
+    <title>Trade in the Face of Terror: Examining Turkey’s Export Dynamics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0023/html"/>
+    <id>https://doi.org/10.1515/peps-2024-0023</id>
+    <updated>2025-05-04T22:10:59.901106+00:00</updated>
+    <summary>Article by Evrim Zeynep Ünlü
+DOI: https://doi.org/10.1515/peps-2024-0023</summary>
+  </entry>
+</feed>

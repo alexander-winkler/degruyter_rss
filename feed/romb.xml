@@ -1,140 +1,105 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Romanische Bibliographie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Romanische Bibliographie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/romb.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-frontmatter202202/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-frontmatter202202/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-frontmatter202202</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-toc202202/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-toc202202/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-toc202202</description>
-    </item>
-    <item>
-      <title>Systemschlüssel</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220201/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220201/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220201</description>
-    </item>
-    <item>
-      <title>Siglen der Neuerwerbungslisten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220202/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220202/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220202</description>
-    </item>
-    <item>
-      <title>0 Einleitung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220203/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220203/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220203</description>
-    </item>
-    <item>
-      <title>1 Romanische Literaturwissenschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220204/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220204/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220204</description>
-    </item>
-    <item>
-      <title>2 Romanische Literaturen außerhalb der Stammländer</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220205/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220205/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220205</description>
-    </item>
-    <item>
-      <title>3 Rumänische Literatur</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220206/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220206/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220206</description>
-    </item>
-    <item>
-      <title>4 Italienische Literatur</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220207/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220207/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220207</description>
-    </item>
-    <item>
-      <title>6 Okzitanische Literatur</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220208/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220208/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220208</description>
-    </item>
-    <item>
-      <title>7 Katalanische Literatur</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220209/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220209/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220209</description>
-    </item>
-    <item>
-      <title>8 Spanische Literatur</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220210/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220210/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220210</description>
-    </item>
-    <item>
-      <title>9 Portugiesische Literatur</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220211/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/robi-2024-20220211/html</guid>
-      <description>Article by 
-
-                Page range: 444-462
-            
- DOI: https://doi.org/10.1515/robi-2024-20220211</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Romanische Bibliographie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/romb/2022/2/html"/>
+  <updated>2025-05-04T22:12:04.982371+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/romb.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Romanische Bibliographie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/romb.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-toc202202/html"/>
+    <id>https://doi.org/10.1515/robi-2024-toc202202</id>
+    <updated>2025-05-04T22:12:04.982400+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-toc202202</summary>
+  </entry>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-frontmatter202202/html"/>
+    <id>https://doi.org/10.1515/robi-2024-frontmatter202202</id>
+    <updated>2025-05-04T22:12:04.982408+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-frontmatter202202</summary>
+  </entry>
+  <entry>
+    <title>Siglen der Neuerwerbungslisten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220202/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220202</id>
+    <updated>2025-05-04T22:12:04.982414+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220202</summary>
+  </entry>
+  <entry>
+    <title>Systemschlüssel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220201/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220201</id>
+    <updated>2025-05-04T22:12:04.982420+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220201</summary>
+  </entry>
+  <entry>
+    <title>0 Einleitung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220203/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220203</id>
+    <updated>2025-05-04T22:12:04.982427+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220203</summary>
+  </entry>
+  <entry>
+    <title>1 Romanische Literaturwissenschaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220204/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220204</id>
+    <updated>2025-05-04T22:12:04.982432+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220204</summary>
+  </entry>
+  <entry>
+    <title>2 Romanische Literaturen außerhalb der Stammländer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220205/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220205</id>
+    <updated>2025-05-04T22:12:04.982438+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220205</summary>
+  </entry>
+  <entry>
+    <title>3 Rumänische Literatur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220206/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220206</id>
+    <updated>2025-05-04T22:12:04.982444+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220206</summary>
+  </entry>
+  <entry>
+    <title>4 Italienische Literatur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220207/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220207</id>
+    <updated>2025-05-04T22:12:04.982450+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220207</summary>
+  </entry>
+  <entry>
+    <title>6 Okzitanische Literatur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220208/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220208</id>
+    <updated>2025-05-04T22:12:04.982456+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220208</summary>
+  </entry>
+  <entry>
+    <title>7 Katalanische Literatur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220209/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220209</id>
+    <updated>2025-05-04T22:12:04.982462+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220209</summary>
+  </entry>
+  <entry>
+    <title>8 Spanische Literatur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220210/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220210</id>
+    <updated>2025-05-04T22:12:04.982469+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220210</summary>
+  </entry>
+  <entry>
+    <title>9 Portugiesische Literatur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/robi-2024-20220211/html"/>
+    <id>https://doi.org/10.1515/robi-2024-20220211</id>
+    <updated>2025-05-04T22:12:04.982480+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/robi-2024-20220211</summary>
+  </entry>
+</feed>

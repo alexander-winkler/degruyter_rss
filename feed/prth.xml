@@ -1,112 +1,162 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Praktische Theologie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Praktische Theologie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prth.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-frontmatter5904/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-frontmatter5904/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-frontmatter5904</description>
-    </item>
-    <item>
-      <title>Inhaltsverzeichnis</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-toc5904/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-toc5904/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-toc5904</description>
-    </item>
-    <item>
-      <title>Religiöse Podcasts boomen</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590401/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590401/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590401</description>
-    </item>
-    <item>
-      <title>Eine Landkarte religionsbezogener Podcasts</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590402/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590402/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590402</description>
-    </item>
-    <item>
-      <title>Spiritualität im digitalen Zeitalter</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590403/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590403/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590403</description>
-    </item>
-    <item>
-      <title>Eines ist sicher: Der Bibel-Podcast wird enden. Aber wann?</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590404/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590404/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590404</description>
-    </item>
-    <item>
-      <title>Erfolgreiche religiöse Podcasts: Was zeichnet sie aus und was können sie bewegen?</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590405/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590405/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590405</description>
-    </item>
-    <item>
-      <title>Podcast-Communities</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590406/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590406/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590406</description>
-    </item>
-    <item>
-      <title>Resonanz der Stimme und des Dialogs beim Hören von Podcasts</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590407/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590407/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590407</description>
-    </item>
-    <item>
-      <title>Synodale Inszenierung des allgemeinen Priestertums</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590408/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590408/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590408</description>
-    </item>
-    <item>
-      <title>Dreh- und Angelpunkt für die Seelsorge: Was verstehen wir unter Seele?</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590409/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590409/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590409</description>
-    </item>
-    <item>
-      <title>Starkes Plädoyer für partizipatives Predigen</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590410/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590410/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590410</description>
-    </item>
-    <item>
-      <title>Selbst-bewusste Handhabe professioneller Subjektivität</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590411/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590411/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590411</description>
-    </item>
-    <item>
-      <title>Alter, das nicht jung sein will</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590412/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590412/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590412</description>
-    </item>
-    <item>
-      <title>Chiara Bertoglios Oratorios at the Piano</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590413/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590413/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590413</description>
-    </item>
-    <item>
-      <title>Über das Verschwiegene schreiben: Spätwirkungen lutherischer Übersee-Mission</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590414/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590414/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590414</description>
-    </item>
-    <item>
-      <title>Von Menschen und anderen Tieren</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/prth-2024-590415/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/prth-2024-590415/html</guid>
-      <description>Article by Inge Kirsner DOI: https://doi.org/10.14315/prth-2024-590415</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Praktische Theologie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/prth/60/2/html"/>
+  <updated>2025-05-04T22:11:22.389203+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prth.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Praktische Theologie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prth.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600201/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600201</id>
+    <updated>2025-05-04T22:11:22.389224+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-600201</summary>
+  </entry>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-frontmatter6002/html"/>
+    <id>https://doi.org/10.14315/prth-2025-frontmatter6002</id>
+    <updated>2025-05-04T22:11:22.389231+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-frontmatter6002</summary>
+  </entry>
+  <entry>
+    <title>Inhaltsverzeichnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-toc6002/html"/>
+    <id>https://doi.org/10.14315/prth-2025-toc6002</id>
+    <updated>2025-05-04T22:11:22.389236+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-toc6002</summary>
+  </entry>
+  <entry>
+    <title>Literatur / Medien / Kultur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600217/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600217</id>
+    <updated>2025-05-04T22:11:22.389241+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-600217</summary>
+  </entry>
+  <entry>
+    <title>Wozu Erlösung?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600202/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600202</id>
+    <updated>2025-05-04T22:11:22.389246+00:00</updated>
+    <summary>Article by Birgit Klostermeier, Christopher Zarnow
+DOI: https://doi.org/10.14315/prth-2025-600202</summary>
+  </entry>
+  <entry>
+    <title>Erlösungshoffnungen in Kirche und Pfarramt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600203/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600203</id>
+    <updated>2025-05-04T22:11:22.389253+00:00</updated>
+    <summary>Article by Anne Grohn
+DOI: https://doi.org/10.14315/prth-2025-600203</summary>
+  </entry>
+  <entry>
+    <title>Rette sich, wer kann?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600204/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600204</id>
+    <updated>2025-05-04T22:11:22.389259+00:00</updated>
+    <summary>Article by Johannes F. Lehmann
+DOI: https://doi.org/10.14315/prth-2025-600204</summary>
+  </entry>
+  <entry>
+    <title>»… du bist erlöst von deiner Krankheit!« (Lk 13,12)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600205/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600205</id>
+    <updated>2025-05-04T22:11:22.389265+00:00</updated>
+    <summary>Article by Thorsten Moos
+DOI: https://doi.org/10.14315/prth-2025-600205</summary>
+  </entry>
+  <entry>
+    <title>Die Hand von außen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600206/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600206</id>
+    <updated>2025-05-04T22:11:22.389271+00:00</updated>
+    <summary>Article by Birgit Klostermeier, Johanna Hußmann
+DOI: https://doi.org/10.14315/prth-2025-600206</summary>
+  </entry>
+  <entry>
+    <title>Erlöst von sich selbst?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600207/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600207</id>
+    <updated>2025-05-04T22:11:22.389276+00:00</updated>
+    <summary>Article by Jochen Schmidt
+DOI: https://doi.org/10.14315/prth-2025-600207</summary>
+  </entry>
+  <entry>
+    <title>Mehr Entwicklung bringt auch keine (Er-)Lösung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600208/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600208</id>
+    <updated>2025-05-04T22:11:22.389282+00:00</updated>
+    <summary>Article by Stefan Kühl, Marcel Schütz
+DOI: https://doi.org/10.14315/prth-2025-600208</summary>
+  </entry>
+  <entry>
+    <title>Practical theology in the present Dutch context</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600209/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600209</id>
+    <updated>2025-05-04T22:11:22.389287+00:00</updated>
+    <summary>Article by Mirella Klomp
+DOI: https://doi.org/10.14315/prth-2025-600209</summary>
+  </entry>
+  <entry>
+    <title>Horizonte eröffnen, Leitungshandeln stärken</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600210/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600210</id>
+    <updated>2025-05-04T22:11:22.389293+00:00</updated>
+    <summary>Article by Steffen Bauer
+DOI: https://doi.org/10.14315/prth-2025-600210</summary>
+  </entry>
+  <entry>
+    <title>Kirchentheorie für Menschen in der kirchlichen Praxis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600211/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600211</id>
+    <updated>2025-05-04T22:11:22.389299+00:00</updated>
+    <summary>Article by Michael Herbst
+DOI: https://doi.org/10.14315/prth-2025-600211</summary>
+  </entry>
+  <entry>
+    <title>Sich versöhnen mit da oben?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600212/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600212</id>
+    <updated>2025-05-04T22:11:22.389305+00:00</updated>
+    <summary>Article by Andreas Kubik
+DOI: https://doi.org/10.14315/prth-2025-600212</summary>
+  </entry>
+  <entry>
+    <title>Praktisch – kurz – gut</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600213/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600213</id>
+    <updated>2025-05-04T22:11:22.389310+00:00</updated>
+    <summary>Article by Michael Meyer-Blanck
+DOI: https://doi.org/10.14315/prth-2025-600213</summary>
+  </entry>
+  <entry>
+    <title>Religiös bei Gelegenheit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600214/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600214</id>
+    <updated>2025-05-04T22:11:22.389318+00:00</updated>
+    <summary>Article by Traugott Roser
+DOI: https://doi.org/10.14315/prth-2025-600214</summary>
+  </entry>
+  <entry>
+    <title>Zu viel versprochen?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600215/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600215</id>
+    <updated>2025-05-04T22:11:22.389323+00:00</updated>
+    <summary>Article by Matthias Rost
+DOI: https://doi.org/10.14315/prth-2025-600215</summary>
+  </entry>
+  <entry>
+    <title>Auferstehung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600216/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600216</id>
+    <updated>2025-05-04T22:11:22.389328+00:00</updated>
+    <summary>Article by Harald Schroeter-Wittke
+DOI: https://doi.org/10.14315/prth-2025-600216</summary>
+  </entry>
+</feed>

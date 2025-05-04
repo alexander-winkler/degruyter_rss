@@ -1,88 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Open Information Science</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Open Information Science</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>FSLSM-Based Analysis of Student Performance Information in a Blended Learning Course Using Moodle LMS</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2022-0163/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2022-0163/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2022-0163</description>
-    </item>
-    <item>
-      <title>AI in Indian Libraries: Prospects and Perceptions from Library Professionals</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2022-0164/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2022-0164/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2022-0164</description>
-    </item>
-    <item>
-      <title>Comprehensive Examination of Version Number Attacks in IoT Networks: Nodes Hyperactivity as Specific Criterion</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2022-0165/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2022-0165/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2022-0165</description>
-    </item>
-    <item>
-      <title>AI Literacy and Zambian Librarians: A Study of Perceptions and Applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2022-0166/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2022-0166/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2022-0166</description>
-    </item>
-    <item>
-      <title>Awareness and Perception of Students Toward Execution of Internet of Things in Library Services: A study of Indian Institute Technologies of Northern India</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2022-0167/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2022-0167/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2022-0167</description>
-    </item>
-    <item>
-      <title>Hybrid RSA–AES-Based Software-Defined Network to Improve the Security of MANET</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0001/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0001</description>
-    </item>
-    <item>
-      <title>Enhanced Image-Based Malware Multiclass Classification Method with the Ensemble Model and SVM</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0003/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0003</description>
-    </item>
-    <item>
-      <title>A Qualitative Analysis of Open-Access Publishing-Related Posts on Twitter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0004/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0004</description>
-    </item>
-    <item>
-      <title>Exploring the Integration of Artificial Intelligence in Academic Libraries: A Study on Librarians’ Perspectives in India</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0006/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0006</description>
-    </item>
-    <item>
-      <title>“Librarying” Under the Candlelight: The Impact of Electricity Power Outages on Library Services</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0008/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0008</description>
-    </item>
-    <item>
-      <title>Open Network for Digital Commerce in India: Past, Present, and Future</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0005/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0005</description>
-    </item>
-    <item>
-      <title>Publishing Embargoes and Versions of Preprints: Impact on the Dissemination of Information</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0002/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0002</description>
-    </item>
-    <item>
-      <title>The Detection of ChatGPT’s Textual Crumb Trails is an Unsustainable Solution to Imperfect Detection Methods</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/opis-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/opis-2024-0007/html</guid>
-      <description>Article by Jaime A. Teixeira da Silva DOI: https://doi.org/10.1515/opis-2024-0007</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Information Science</title>
+  <link href="https://www.degruyterbrill.com/journal/key/opis/9/1/html"/>
+  <updated>2025-05-04T22:10:45.224177+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Open Information Science</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Proposing a Conceptual Framework for Social Listening in Libraries: A Potential Game Changer to Engage Gen Z and Centennial Users</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2024-0012/html"/>
+    <id>https://doi.org/10.1515/opis-2024-0012</id>
+    <updated>2025-05-04T22:10:45.224232+00:00</updated>
+    <summary>Article by Amit Kumar, Yadukrishnan T. A.
+DOI: https://doi.org/10.1515/opis-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>Roles, Challenges, and Sustainability of Australian Journals: A Survey of Editors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2025-0013/html"/>
+    <id>https://doi.org/10.1515/opis-2025-0013</id>
+    <updated>2025-05-04T22:10:45.224249+00:00</updated>
+    <summary>Article by Hamid R. Jamali, Simon Wakeling
+DOI: https://doi.org/10.1515/opis-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>The Now-Defunct ResearchGate Score and the Extant Research Interest Score: A Continued Debate on Metrics of a Highly Popular Academic Social Networking Site</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2024-0011/html"/>
+    <id>https://doi.org/10.1515/opis-2024-0011</id>
+    <updated>2025-05-04T22:10:45.224260+00:00</updated>
+    <summary>Article by Jaime A. Teixeira da Silva
+DOI: https://doi.org/10.1515/opis-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>When Data Meets the Past: Data Collection, Sharing, and Reuse in Ancient World Studies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2025-0014/html"/>
+    <id>https://doi.org/10.1515/opis-2025-0014</id>
+    <updated>2025-05-04T22:10:45.224272+00:00</updated>
+    <summary>Article by Andrea Farina, Paola Marongiu, Mathilde Bru, Daniele Borkowski
+DOI: https://doi.org/10.1515/opis-2025-0014</summary>
+  </entry>
+</feed>

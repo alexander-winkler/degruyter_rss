@@ -1,34 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Sozialreform</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Sozialreform</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zsr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zsr-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2024-frontmatter3/html</guid>
-      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Casualization of work, free riding and institutional distrust: Explaining social protection preferences of platform workers in Germany</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0024/html</guid>
-      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2023-0024</description>
-    </item>
-    <item>
-      <title>Pflegende Studierende: Soziale Ungleichheiten in und Belastungen durch die (Nicht-)Vereinbarkeit von Pflege und Studium</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0018/html</guid>
-      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2023-0018</description>
-    </item>
-    <item>
-      <title>Leistung ist nicht gleich Leistung – zum Leistungsverständnis von ALG II-Bezieher*innen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zsr-2023-0016/html</guid>
-      <description>Article by Sebastian Jürss DOI: https://doi.org/10.1515/zsr-2023-0016</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Sozialreform</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zsr/71/1/html"/>
+  <updated>2025-05-04T22:14:19.346673+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zsr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Sozialreform</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zsr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zsr-2025-frontmatter1</id>
+    <updated>2025-05-04T22:14:19.346705+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zsr-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Editorial: Der Sozialstaat als „Sortiermaschine“ – Kategorien und Kategorisierungsprozesse in der Sozialpolitik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2025-0002/html"/>
+    <id>https://doi.org/10.1515/zsr-2025-0002</id>
+    <updated>2025-05-04T22:14:19.346714+00:00</updated>
+    <summary>Article by Antonio Brettschneider, Stefanie Börner, Thilo Fehmel
+DOI: https://doi.org/10.1515/zsr-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Die Aushandlung von Versorgungsverläufen in der beruflichen Rehabilitation. Passungsverhältnisse von sozialstaatlichen Interventionen und Lebensentwürfen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2024-0011/html"/>
+    <id>https://doi.org/10.1515/zsr-2024-0011</id>
+    <updated>2025-05-04T22:14:19.346726+00:00</updated>
+    <summary>Article by Stefan Dreßke, Heike Ohlbrecht, Christoph Quehl
+DOI: https://doi.org/10.1515/zsr-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>De facto-Kategorisierung und Ungleichheit bei der Kita-Platzvergabe in Deutschland: Der Rechtsanspruch auf Frühe Bildung und seine Realität</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2024-0010/html"/>
+    <id>https://doi.org/10.1515/zsr-2024-0010</id>
+    <updated>2025-05-04T22:14:19.346734+00:00</updated>
+    <summary>Article by Samuel Bader, Antonia Scholz
+DOI: https://doi.org/10.1515/zsr-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>Wie Mütter für den Arbeitsmarkt verfügbar gemacht werden sollen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2024-0024/html"/>
+    <id>https://doi.org/10.1515/zsr-2024-0024</id>
+    <updated>2025-05-04T22:14:19.346741+00:00</updated>
+    <summary>Article by Elena Höpfner
+DOI: https://doi.org/10.1515/zsr-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>Rollenverständnisse von Vermittlungsfachkräften in Jobcentern und ihre Bedeutung für das Sanktionshandeln</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2024-0013/html"/>
+    <id>https://doi.org/10.1515/zsr-2024-0013</id>
+    <updated>2025-05-04T22:14:19.346751+00:00</updated>
+    <summary>Article by Monika Senghaas, Stefan Röhrer, Magdalena Köppen, Stefan Bernhard
+DOI: https://doi.org/10.1515/zsr-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>The Boundaries of the Jobseeker Category in Europe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2024-0014/html"/>
+    <id>https://doi.org/10.1515/zsr-2024-0014</id>
+    <updated>2025-05-04T22:14:19.346762+00:00</updated>
+    <summary>Article by Daniel Clegg
+DOI: https://doi.org/10.1515/zsr-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>Calibrating families: Data behaviourism and the new algorithmic logic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zsr-2024-0008/html"/>
+    <id>https://doi.org/10.1515/zsr-2024-0008</id>
+    <updated>2025-05-04T22:14:19.346768+00:00</updated>
+    <summary>Article by Val Gillies, Ros Edwards, Helene Vannier Ducasse
+DOI: https://doi.org/10.1515/zsr-2024-0008</summary>
+  </entry>
+</feed>

@@ -1,58 +1,108 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Kunstgeschichte</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Kunstgeschichte</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3001/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3001</description>
-    </item>
-    <item>
-      <title>Befristung unbefristet? Zu den Arbeitsbedingungen unserer Postdoc-Kolleg:innen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3002/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3002</description>
-    </item>
-    <item>
-      <title>Spilled Wine, Spilled Blood: Spilling the Secrets of the Covered Cup from the Chungul Kurgan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3003/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3003</description>
-    </item>
-    <item>
-      <title>Neapoli commorantes: chiese nazionali e comunità forestiere nel viceregno spagnolo tra Cinque e Seicento</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3004/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3004</description>
-    </item>
-    <item>
-      <title>Resemblance as a Passing Quality: Liotard, La Tour, and the Question of Le Faire in Eighteenth-Century Portraiture</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3005/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3005</description>
-    </item>
-    <item>
-      <title>Augsburg Takes Center Stage</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3006/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3006</description>
-    </item>
-    <item>
-      <title>Galanterie und Kolonialismus im Zeitalter Watteaus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3007/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3007</description>
-    </item>
-    <item>
-      <title>Forschungen zu Kunst und Kunstgeschichte im Nationalsozialismus: Die Reihe Brüche und Kontinuitäten, Bde. 1–10</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zkg-2024-3008/html</guid>
-      <description>Article by Olaf Peters DOI: https://doi.org/10.1515/zkg-2024-3008</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Kunstgeschichte</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zkg/88/1/html"/>
+  <updated>2025-05-04T22:13:51.133365+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Kunstgeschichte</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Die Neue Sachlichkeit / The New Objectivity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1011/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1011</id>
+    <updated>2025-05-04T22:13:51.133410+00:00</updated>
+    <summary>Article by Inge Herold, Johan Holten
+DOI: https://doi.org/10.1515/zkg-2025-1011</summary>
+  </entry>
+  <entry>
+    <title>Cover</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1000/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1000</id>
+    <updated>2025-05-04T22:13:51.133420+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zkg-2025-1000</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1001/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1001</id>
+    <updated>2025-05-04T22:13:51.133427+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zkg-2025-1001</summary>
+  </entry>
+  <entry>
+    <title>The Funerary Chapel of Cardinal Bessarion in the Basilica of SS XII Apostoli in Rome: Commemoration and Competition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1002/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1002</id>
+    <updated>2025-05-04T22:13:51.133439+00:00</updated>
+    <summary>Article by Philip Muijtjens
+DOI: https://doi.org/10.1515/zkg-2025-1002</summary>
+  </entry>
+  <entry>
+    <title>Unfolding Images: Lateral Reversal, Art History, and Early Modern European Printmaking</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1003/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1003</id>
+    <updated>2025-05-04T22:13:51.133450+00:00</updated>
+    <summary>Article by Stefano de Bosio
+DOI: https://doi.org/10.1515/zkg-2025-1003</summary>
+  </entry>
+  <entry>
+    <title>Osman Hamdi Bey’sTurkish Street Sceneand Late-Nineteenth-Century Power Relations between the Ottoman and German Empires</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1004/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1004</id>
+    <updated>2025-05-04T22:13:51.133457+00:00</updated>
+    <summary>Article by Funda Berksoy
+DOI: https://doi.org/10.1515/zkg-2025-1004</summary>
+  </entry>
+  <entry>
+    <title>De l’exposition de Mannheim (1925) auxRéalismes(1980–1981) : pistes pour une réception de la Nouvelle Objectivité en France</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1005/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1005</id>
+    <updated>2025-05-04T22:13:51.133467+00:00</updated>
+    <summary>Article by Marie Gispert
+DOI: https://doi.org/10.1515/zkg-2025-1005</summary>
+  </entry>
+  <entry>
+    <title>Luca di Tommè’sCrucifixionin Montepulciano: Its Construction and Function</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1006/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1006</id>
+    <updated>2025-05-04T22:13:51.133473+00:00</updated>
+    <summary>Article by Norman E. Muller
+DOI: https://doi.org/10.1515/zkg-2025-1006</summary>
+  </entry>
+  <entry>
+    <title>Michelangelo, Old Age, and Friendship</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1007/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1007</id>
+    <updated>2025-05-04T22:13:51.133482+00:00</updated>
+    <summary>Article by Carolina Mangone
+DOI: https://doi.org/10.1515/zkg-2025-1007</summary>
+  </entry>
+  <entry>
+    <title>Maarten van Heemskerck in Berlin</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1008/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1008</id>
+    <updated>2025-05-04T22:13:51.133489+00:00</updated>
+    <summary>Article by Carolyn Yerkes
+DOI: https://doi.org/10.1515/zkg-2025-1008</summary>
+  </entry>
+  <entry>
+    <title>»Pessimisme productif«</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1009/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1009</id>
+    <updated>2025-05-04T22:13:51.133499+00:00</updated>
+    <summary>Article by Stephanie Marchal
+DOI: https://doi.org/10.1515/zkg-2025-1009</summary>
+  </entry>
+  <entry>
+    <title>Netzwerkerin, Sammlerin und Künstlerin</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkg-2025-1010/html"/>
+    <id>https://doi.org/10.1515/zkg-2025-1010</id>
+    <updated>2025-05-04T22:13:51.133505+00:00</updated>
+    <summary>Article by Rachel Mader
+DOI: https://doi.org/10.1515/zkg-2025-1010</summary>
+  </entry>
+</feed>

@@ -1,70 +1,109 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Naharaim</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Naharaim</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/naha.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-frontmatter1/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Introduction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0021/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0021</description>
-    </item>
-    <item>
-      <title>Jewish Wit – In the Original, and in Translation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0001/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0001</description>
-    </item>
-    <item>
-      <title>Sammy Gronemann’s “Little Mirror”: Translating Tohuwabohu into Utter Chaos</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0003/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0003</description>
-    </item>
-    <item>
-      <title>Questions of Belief: Sammy Gronemann’s Short Story “Der himmlische Lohn”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0005/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0005</description>
-    </item>
-    <item>
-      <title>From Zurishaddai to Menachem Mendel: The Shlemiel’s Journey from Ancient to Modern Israel</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0002/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0002</description>
-    </item>
-    <item>
-      <title>When Sammy Gronemann Met Nathan Alterman: The Story of Israel’s Most Successful Comedy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2024-0014/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2024-0014</description>
-    </item>
-    <item>
-      <title>Lawyer, Littérateur, and Legislator: On Gronemann’s Profession, Self-Perception and Place in Scholarship</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0013/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0013</description>
-    </item>
-    <item>
-      <title>Dreaming of a Jewish Democracy: Sammy Gronemann as High Judge and Chief Architect of the Pre-State Zionist Judiciary (1911–1946)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0015/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0015</description>
-    </item>
-    <item>
-      <title>Illustrating a Jewish Life: Portrait Photography, Biography and the Creation of a Jewish Public Sphere</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/naha-2023-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/naha-2023-0019/html</guid>
-      <description>Article by Rebekka Grossmann DOI: https://doi.org/10.1515/naha-2023-0019</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Naharaim</title>
+  <link href="https://www.degruyterbrill.com/journal/key/naha/18/2/html"/>
+  <updated>2025-05-04T22:10:12.354667+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/naha.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Naharaim</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/naha.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/naha-2024-frontmatter2</id>
+    <updated>2025-05-04T22:10:12.354710+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/naha-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Introduction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2024-0025/html"/>
+    <id>https://doi.org/10.1515/naha-2024-0025</id>
+    <updated>2025-05-04T22:10:12.354722+00:00</updated>
+    <summary>Article by Judith Müller
+DOI: https://doi.org/10.1515/naha-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>“God Who Brought us Close and Then Repented”:Hester Panimand Revelation in Avraham Ben-Yitzhak’s Writings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0016/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0016</id>
+    <updated>2025-05-04T22:10:12.354732+00:00</updated>
+    <summary>Article by Yarden Ben-Zur
+DOI: https://doi.org/10.1515/naha-2023-0016</summary>
+  </entry>
+  <entry>
+    <title>Hebrew Dreams in the Berlin of Yesterday: German-Jewish Symbiosis Fantasy on the City’s Streets inLifney Hamakomby Haim Be’er andAvedotby Lea Goldberg</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0004/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0004</id>
+    <updated>2025-05-04T22:10:12.354742+00:00</updated>
+    <summary>Article by Noam Krohn-Borojovich
+DOI: https://doi.org/10.1515/naha-2023-0004</summary>
+  </entry>
+  <entry>
+    <title>Understanding the Meaning of “Aspeset”: Hermeneutical Approaches, Reading Practices and the Departure from Germany in Two Lea Goldberg Novels</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0006/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0006</id>
+    <updated>2025-05-04T22:10:12.354750+00:00</updated>
+    <summary>Article by Yaara Keren
+DOI: https://doi.org/10.1515/naha-2023-0006</summary>
+  </entry>
+  <entry>
+    <title>Hortulus37, 1959: Translation as Collaboration in an Anthology of New Poetry from Israel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0010/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0010</id>
+    <updated>2025-05-04T22:10:12.354760+00:00</updated>
+    <summary>Article by Na’ama Rokem
+DOI: https://doi.org/10.1515/naha-2023-0010</summary>
+  </entry>
+  <entry>
+    <title>Ethical Implications of German-Hebrew Homophony: Analyzing Dan Pagis’ “Sealed Railcar” Cycle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0007/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0007</id>
+    <updated>2025-05-04T22:10:12.354768+00:00</updated>
+    <summary>Article by Jan Kühne
+DOI: https://doi.org/10.1515/naha-2023-0007</summary>
+  </entry>
+  <entry>
+    <title>Franz Rosenzweig’s and Paul Celan’s Early German Translations of Yehudah Halevi’s Hebrew Poems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0002/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0002</id>
+    <updated>2025-05-04T22:10:12.354778+00:00</updated>
+    <summary>Article by Federico Dal Bo
+DOI: https://doi.org/10.1515/naha-2023-0002</summary>
+  </entry>
+  <entry>
+    <title>Die Muttersprache, die schweigt, und die Stiefmuttersprache, die erzählt. Zu Aharon Appelfelds Sprachpoetik zwischen Deutsch und Hebräisch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0014/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0014</id>
+    <updated>2025-05-04T22:10:12.354785+00:00</updated>
+    <summary>Article by Judith Müller
+DOI: https://doi.org/10.1515/naha-2023-0014</summary>
+  </entry>
+  <entry>
+    <title>On Translated Literature’s Intended Reader(s): The Case of Yoram Kaniuk’sThe Last Berliner</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0021/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0021</id>
+    <updated>2025-05-04T22:10:12.354796+00:00</updated>
+    <summary>Article by Tom Kellner
+DOI: https://doi.org/10.1515/naha-2023-0021</summary>
+  </entry>
+  <entry>
+    <title>The Grammar of Displacement: Entwined Stories in Ruth Almog and Jenny Erpenbeck</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0008/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0008</id>
+    <updated>2025-05-04T22:10:12.354809+00:00</updated>
+    <summary>Article by Michal Ben-Horin
+DOI: https://doi.org/10.1515/naha-2023-0008</summary>
+  </entry>
+  <entry>
+    <title>Exploring Israel/Palestine Through the Eyes of Writers: German-Language Authors and Undiscriminating Anthropological Glasses</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/naha-2023-0009/html"/>
+    <id>https://doi.org/10.1515/naha-2023-0009</id>
+    <updated>2025-05-04T22:10:12.354816+00:00</updated>
+    <summary>Article by Dani Kranz
+DOI: https://doi.org/10.1515/naha-2023-0009</summary>
+  </entry>
+</feed>

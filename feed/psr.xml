@@ -1,76 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Physical Sciences Reviews</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Physical Sciences Reviews</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2024-frontmatter10/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2024-frontmatter10/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2024-frontmatter10</description>
-    </item>
-    <item>
-      <title>Biopolymeric conjugation with metals and their applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0189/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0189/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0189</description>
-    </item>
-    <item>
-      <title>Itaconic acid: microbial production using organic wastes as cost-effective substrates</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0164/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0164/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0164</description>
-    </item>
-    <item>
-      <title>Global organic acids production and their industrial applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0157/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0157/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0157</description>
-    </item>
-    <item>
-      <title>Book 1. Biopolymer conjugates industrial applications Chapter 1. Biopolymeric conjugation with thermoplastics and applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0180/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0180/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0180</description>
-    </item>
-    <item>
-      <title>Continuous biomanufacturing in upstream and downstream processing</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0106/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0106</description>
-    </item>
-    <item>
-      <title>In situ product removal</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0111/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0111/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0111</description>
-    </item>
-    <item>
-      <title>Biopolymeric conjugation with polynucleotides and applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0184/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0184/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0184</description>
-    </item>
-    <item>
-      <title>Intensification of bioprocesses – definition, examples, challenges and future directions</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0101/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0101</description>
-    </item>
-    <item>
-      <title>The workshops on computational applications in secondary metabolite discovery (CAiSMD)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2024-0015/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2024-0015</description>
-    </item>
-    <item>
-      <title>Green chemistry: current status and challenges in Zimbabwe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/psr-2022-0202/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/psr-2022-0202/html</guid>
-      <description>Article by Upenyu Guyo, Fidelis Chigondo, Stephen Nyoni, Netai Muchanyereyi, Ngceboyakwethu P. Zinyama, Winmore Kusena, Dubekile Nyoni DOI: https://doi.org/10.1515/psr-2022-0202</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Physical Sciences Reviews</title>
+  <link href="https://www.degruyterbrill.com/journal/key/psr/10/4/html"/>
+  <updated>2025-05-04T22:11:25.260183+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Physical Sciences Reviews</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/psr-2025-frontmatter4</id>
+    <updated>2025-05-04T22:11:25.260214+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/psr-2025-frontmatter4</summary>
+  </entry>
+  <entry>
+    <title>Inhaled aerosols as carriers of pulmonary medicines and the limitations ofin vitro–in vivocorrelation (IVIVC) methods</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2024-0054/html"/>
+    <id>https://doi.org/10.1515/psr-2024-0054</id>
+    <updated>2025-05-04T22:11:25.260224+00:00</updated>
+    <summary>Article by Tomasz R. Sosnowski, Arkadiusz K. Kuczaj
+DOI: https://doi.org/10.1515/psr-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Analysis of an automated solar panel cleaning robot on photovoltaics (PV) module frames with composites materials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2024-0032/html"/>
+    <id>https://doi.org/10.1515/psr-2024-0032</id>
+    <updated>2025-05-04T22:11:25.260241+00:00</updated>
+    <summary>Article by Murshiduzzaman, Azizan As’arry, Lim Wei Keong, Mohd Zuhri Mohamed Yusoff, Mohd Sapuan Salit, Eris Elianddy Supeni, Wan Zuha Wan Hasan, Hanafiah Yussof
+DOI: https://doi.org/10.1515/psr-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Mechanical and thermal properties of graphene reinforced poly (lactic acid) composites for battery casing in electric vehicles</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2024-0023/html"/>
+    <id>https://doi.org/10.1515/psr-2024-0023</id>
+    <updated>2025-05-04T22:11:25.260253+00:00</updated>
+    <summary>Article by Yusuf Jameel, Abdul Halim Muhammad Firdaus, Mohd Sapuan Salit, Nazrin Asmawi
+DOI: https://doi.org/10.1515/psr-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>Precision medicine in hypothyroidism: an engineering approach to individualized levothyroxine dosing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2024-0060/html"/>
+    <id>https://doi.org/10.1515/psr-2024-0060</id>
+    <updated>2025-05-04T22:11:25.260261+00:00</updated>
+    <summary>Article by Davide Manca
+DOI: https://doi.org/10.1515/psr-2024-0060</summary>
+  </entry>
+  <entry>
+    <title>Advancements in composite materials for energy harvesting</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2024-0022/html"/>
+    <id>https://doi.org/10.1515/psr-2024-0022</id>
+    <updated>2025-05-04T22:11:25.260268+00:00</updated>
+    <summary>Article by Yusuf Jameel, Muhammad Firdaus Abdul Halim, Mohd Sapuan Salit, Abdul Habib
+DOI: https://doi.org/10.1515/psr-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Model-based dose selection for gene therapy for haemophilia B</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psr-2024-0057/html"/>
+    <id>https://doi.org/10.1515/psr-2024-0057</id>
+    <updated>2025-05-04T22:11:25.260276+00:00</updated>
+    <summary>Article by Elnaz Jamili, Amit C. Nathwani, Vivek Dua
+DOI: https://doi.org/10.1515/psr-2024-0057</summary>
+  </entry>
+</feed>

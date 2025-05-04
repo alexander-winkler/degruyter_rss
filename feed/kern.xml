@@ -1,108 +1,132 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Kerntechnik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Kerntechnik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kern.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-frontmatter5/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>Comprehensive review of surface contamination in nuclear waste waters: identification, quantification, and mitigation strategies</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0070/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0070</description>
-    </item>
-    <item>
-      <title>Methodology of probabilistic safety assessment for transportation of radioactive material</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0018/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0018</description>
-    </item>
-    <item>
-      <title>A new approach to determine abnormality of radioactive discharges from pressurized water reactors and to derive abnormality indicators correlated with a specific causal event</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0039/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0039</description>
-    </item>
-    <item>
-      <title>A critical analysis of the role of artificial intelligence and machine learning in enhancing nuclear waste management</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0085/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0085/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0085</description>
-    </item>
-    <item>
-      <title>Design study of gas-cooled fast reactor with natural uranium as fuel employing modified CANDLE shuffling strategy in the axial direction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0034/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0034</description>
-    </item>
-    <item>
-      <title>Synthesis, structural transformation and magnetic properties of the Nd(III)-doped Fe3−xNd
-x
-O4 (0 ≤ x ≤ 0.9): an analogue for actinicles immobilization</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0031/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0031</description>
-    </item>
-    <item>
-      <title>Examination of the use of thorium-based fuel for burning minor actinides in European sodium cooled fast reactor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0083/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0083/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0083</description>
-    </item>
-    <item>
-      <title>Solitary wave form of reaction rate in graphite diffusive medium using different neutron absorbers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0069/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0069/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0069</description>
-    </item>
-    <item>
-      <title>Evaluation of the unavailability of the primary circuit of Triga SSR reactor, importance factors and risk criteria for its components</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0046/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0046</description>
-    </item>
-    <item>
-      <title>Thermal-hydraulic simulation of loss of flow accident for WWR-S research reactor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0066/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0066/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0066</description>
-    </item>
-    <item>
-      <title>A quick parameter configuration tool for SCHISM’s ocean transport simulation of radioactive materials</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0071/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0071/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0071</description>
-    </item>
-    <item>
-      <title>Main heat transport system configuration influence on steam drum level control and safety for a pressure tube type boiling water reactor with multiple interconnected loops</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0073/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0073/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0073</description>
-    </item>
-    <item>
-      <title>Testing the thermal performance of water cooling towers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0049/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0049</description>
-    </item>
-    <item>
-      <title>Design a robust intelligent power controller for pressurized water reactor using particle swarm optimization algorithm</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0041/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0041</description>
-    </item>
-    <item>
-      <title>Calendar of events</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kern-2024-0121/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kern-2024-0121/html</guid>
-      <description>Article by Anne Kruessenberg DOI: https://doi.org/10.1515/kern-2024-0121</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kerntechnik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/kern/90/2/html"/>
+  <updated>2025-05-04T22:09:02.706462+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kern.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Kerntechnik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kern.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/kern-2025-frontmatter2</id>
+    <updated>2025-05-04T22:09:02.706479+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/kern-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Core design and neutronics analysis of lead liquid metal-based heat pipe cooled reactor for undersea purpose</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0116/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0116</id>
+    <updated>2025-05-04T22:09:02.706487+00:00</updated>
+    <summary>Article by Taiwo Saheed Yinusa, Huaping Mei, Chao Chen, Isaac Kwasi Baidoo, Shuyong Liu, Taosheng Li
+DOI: https://doi.org/10.1515/kern-2024-0116</summary>
+  </entry>
+  <entry>
+    <title>Nonlinear system dynamics simulation of thermal processes in the VVER-1200 reactor core</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0131/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0131</id>
+    <updated>2025-05-04T22:09:02.706495+00:00</updated>
+    <summary>Article by Ahmed E. Salman, Heba K. Louis
+DOI: https://doi.org/10.1515/kern-2024-0131</summary>
+  </entry>
+  <entry>
+    <title>Neutronic analysis of a lithium-cooled space nuclear reactor based on sliding reflector design</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0119/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0119</id>
+    <updated>2025-05-04T22:09:02.706502+00:00</updated>
+    <summary>Article by Yue Wang, Bin Wei, Jincheng Wang, Wenchao Zhang, Jianchuang Sun, Weihua Cai
+DOI: https://doi.org/10.1515/kern-2024-0119</summary>
+  </entry>
+  <entry>
+    <title>A comprehensive assessment on recent advancements in spent fuel reprocessing and waste management: pioneering technologies for a sustainable nuclear future</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0120/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0120</id>
+    <updated>2025-05-04T22:09:02.706508+00:00</updated>
+    <summary>Article by Veeraraghavan Sakthimurugan, Devarajan Yuvarajan
+DOI: https://doi.org/10.1515/kern-2024-0120</summary>
+  </entry>
+  <entry>
+    <title>Applying multiple processes nonequilibrium model to investigate cesium transport in crushed granite</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0122/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0122</id>
+    <updated>2025-05-04T22:09:02.706515+00:00</updated>
+    <summary>Article by Yu-Hung Shih, Chuan-Pin Lee, Neng-Chuan Tien
+DOI: https://doi.org/10.1515/kern-2024-0122</summary>
+  </entry>
+  <entry>
+    <title>Economics, supply chain and advanced tolerance fuel requirement of very small modular reactors (vSMR): a case study for Saudi Arabia</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0102/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0102</id>
+    <updated>2025-05-04T22:09:02.706522+00:00</updated>
+    <summary>Article by Salah Ud‐Din Khan
+DOI: https://doi.org/10.1515/kern-2024-0102</summary>
+  </entry>
+  <entry>
+    <title>Transient analyses on overpower transients of small modular natural circulation Lead-cooled fast reactor SNCLFR-100</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0076/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0076</id>
+    <updated>2025-05-04T22:09:02.706529+00:00</updated>
+    <summary>Article by Tianxin Song, Ling Zhang, Zhixing Gu, Jianing Dai, Guanghui Yu, Yulin Yan, Zhiwei Zhang
+DOI: https://doi.org/10.1515/kern-2024-0076</summary>
+  </entry>
+  <entry>
+    <title>15-15Ti cladding behavior during a RIA type event in TRIGA reactor</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0100/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0100</id>
+    <updated>2025-05-04T22:09:02.706535+00:00</updated>
+    <summary>Article by Mihaela R. Roman, Dragos V. Ionescu, Ion Man, Vasile Radu, Brian Boer, Remi Delville, Daniel Dupleac
+DOI: https://doi.org/10.1515/kern-2024-0100</summary>
+  </entry>
+  <entry>
+    <title>Coupled analysis of ocean-atmosphere interaction using A2CDOSE and SCHISM for radioactive dispersion following a north pacific nuclear incident</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0132/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0132</id>
+    <updated>2025-05-04T22:09:02.706542+00:00</updated>
+    <summary>Article by Yu Chiang, Pei-Chieh Huang, Zi-Yi Yang
+DOI: https://doi.org/10.1515/kern-2024-0132</summary>
+  </entry>
+  <entry>
+    <title>Thermo-hydraulic characteristics of molten salt NaNO3–KNO3using numerical simulations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0097/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0097</id>
+    <updated>2025-05-04T22:09:02.706549+00:00</updated>
+    <summary>Article by Jayaraj Y. Kudariyawar, K.A. Sateesh
+DOI: https://doi.org/10.1515/kern-2024-0097</summary>
+  </entry>
+  <entry>
+    <title>Optimal design of an eddy current sensor for detecting and characterizing cracks by data inversion: parametric study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0094/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0094</id>
+    <updated>2025-05-04T22:09:02.706555+00:00</updated>
+    <summary>Article by Fatima Barrarat, Bachir Helifa, Samir Bensaid, Ibn Khaldoun Lefkaier, Karim Rayane
+DOI: https://doi.org/10.1515/kern-2024-0094</summary>
+  </entry>
+  <entry>
+    <title>Risk analysis and protection in case of intrusion of nuclear facilities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0142/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0142</id>
+    <updated>2025-05-04T22:09:02.706561+00:00</updated>
+    <summary>Article by Amir A. Wadoud, Alaa A. Saleh, Mohamed A.E. Abdel-Rahman
+DOI: https://doi.org/10.1515/kern-2024-0142</summary>
+  </entry>
+  <entry>
+    <title>The RADTRAD and MicroShield analysis methodology for the LOCA during the long-term shutdown period of Chinshan BWR/4 nuclear power plant</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0110/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0110</id>
+    <updated>2025-05-04T22:09:02.706568+00:00</updated>
+    <summary>Article by Hao-Tzu Lin, Shiau-Yu Lee, Keng-Hsien Hsu
+DOI: https://doi.org/10.1515/kern-2024-0110</summary>
+  </entry>
+  <entry>
+    <title>Calendar of events</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0013/html"/>
+    <id>https://doi.org/10.1515/kern-2025-0013</id>
+    <updated>2025-05-04T22:09:02.706574+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/kern-2025-0013</summary>
+  </entry>
+</feed>

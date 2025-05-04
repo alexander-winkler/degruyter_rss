@@ -1,52 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Neue Zeitschrift für Systematische Theologie und Religionsphilosophie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Neue Zeitschrift für Systematische Theologie und Religionsphilosophie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nzst.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-frontmatter3/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Introduction: Munich Lecture in Philosophy of Religion 2023</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0047/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0047</description>
-    </item>
-    <item>
-      <title>Against Infinite Nothingness: Ultimate Ground vs Metaphysical Nihilism in Indian Philosophy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0044/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0044</description>
-    </item>
-    <item>
-      <title>Response to Jessica Frazier, “Against Infinite Nothingness”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0041/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0041</description>
-    </item>
-    <item>
-      <title>All the Way Down to Turtles: A Response to Jessica Frazier</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0043/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0043</description>
-    </item>
-    <item>
-      <title>Against Infinite Nothingness – Response to McKenzie and Adamson</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0048/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0048</description>
-    </item>
-    <item>
-      <title>Vladimir Solovyov and Orthodox Natural Theology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/nzsth-2024-0020/html</guid>
-      <description>Article by Harry James Moore DOI: https://doi.org/10.1515/nzsth-2024-0020</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Neue Zeitschrift für Systematische Theologie und Religionsphilosophie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/nzst/67/1/html"/>
+  <updated>2025-05-04T22:10:33.409726+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nzst.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Neue Zeitschrift für Systematische Theologie und Religionsphilosophie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nzst.xml" type="application/rss+xml"/>
+  <entry>
+    <title>On Not Speaking</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2024-0037/html"/>
+    <id>https://doi.org/10.1515/nzsth-2024-0037</id>
+    <updated>2025-05-04T22:10:33.409766+00:00</updated>
+    <summary>Article by Elad Lapidot
+DOI: https://doi.org/10.1515/nzsth-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>Ethical-Religious Seduction: Laplanche and Kierkegaard on the Priority of the Other</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2024-0027/html"/>
+    <id>https://doi.org/10.1515/nzsth-2024-0027</id>
+    <updated>2025-05-04T22:10:33.409778+00:00</updated>
+    <summary>Article by Peter Kline
+DOI: https://doi.org/10.1515/nzsth-2024-0027</summary>
+  </entry>
+  <entry>
+    <title>When the Second-Person Perspective is the First: On the Interconnection between Second- and First-Person Perspective regarding an Individual’s Self-Relationship and its Theological Consequences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2024-0070/html"/>
+    <id>https://doi.org/10.1515/nzsth-2024-0070</id>
+    <updated>2025-05-04T22:10:33.409789+00:00</updated>
+    <summary>Article by Kinga Zeller
+DOI: https://doi.org/10.1515/nzsth-2024-0070</summary>
+  </entry>
+  <entry>
+    <title>A Dialogue of Mutual Recognition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2025-0001/html"/>
+    <id>https://doi.org/10.1515/nzsth-2025-0001</id>
+    <updated>2025-05-04T22:10:33.409796+00:00</updated>
+    <summary>Article by Sasja Emilie Mathiasen Stopa
+DOI: https://doi.org/10.1515/nzsth-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>The Epistemic and Other Virtues of Non-Socratic Dialogue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2024-0066/html"/>
+    <id>https://doi.org/10.1515/nzsth-2024-0066</id>
+    <updated>2025-05-04T22:10:33.409804+00:00</updated>
+    <summary>Article by Menachem Fisch
+DOI: https://doi.org/10.1515/nzsth-2024-0066</summary>
+  </entry>
+  <entry>
+    <title>Rejoinder to Menachem Fisch: A Few Stubbornly Penultimate Reflections</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2024-0068/html"/>
+    <id>https://doi.org/10.1515/nzsth-2024-0068</id>
+    <updated>2025-05-04T22:10:33.409812+00:00</updated>
+    <summary>Article by Heiko Schulz
+DOI: https://doi.org/10.1515/nzsth-2024-0068</summary>
+  </entry>
+  <entry>
+    <title>Heiko Schulz, Perfect Partner in Dialogue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2024-0067/html"/>
+    <id>https://doi.org/10.1515/nzsth-2024-0067</id>
+    <updated>2025-05-04T22:10:33.409819+00:00</updated>
+    <summary>Article by Menachem Fisch
+DOI: https://doi.org/10.1515/nzsth-2024-0067</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/nzsth-2025-frontmatter1</id>
+    <updated>2025-05-04T22:10:33.409826+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/nzsth-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Dialogue and Relational Ontology: Rethinking the Significance of the Second-Person Perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nzsth-2025-0002/html"/>
+    <id>https://doi.org/10.1515/nzsth-2025-0002</id>
+    <updated>2025-05-04T22:10:33.409832+00:00</updated>
+    <summary>Article by Claudia Welz
+DOI: https://doi.org/10.1515/nzsth-2025-0002</summary>
+  </entry>
+</feed>

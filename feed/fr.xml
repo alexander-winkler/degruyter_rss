@@ -1,140 +1,134 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>FinanzRundschau</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in FinanzRundschau</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-frontmatter10621/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-frontmatter10621/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-frontmatter10621</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-toc10621/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-toc10621/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-toc10621</description>
-    </item>
-    <item>
-      <title>Aktuelle BFH-Judikatur zu Verlusten nach § 15a EStG – Bestandsaufnahme und Gestaltungsüberlegungen</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062101/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062101</description>
-    </item>
-    <item>
-      <title>150 Jahre Maßgeblichkeitsgrundsatz – Zwischenbilanz und Prognose</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062102/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062102</description>
-    </item>
-    <item>
-      <title>Tagungs- und Diskussionsbericht zum 92. Berliner Steuergespräch am 16.9.2024 „Aktuelle Probleme und Perspektiven der Kapitalertragsteuer“</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062103/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062103/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062103</description>
-    </item>
-    <item>
-      <title>Die Justiz an der Spitze – ihrer Zeit voraus</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062104/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062104/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062104</description>
-    </item>
-    <item>
-      <title>Erstattung von Quellensteuern – Statement</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062105/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062105/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062105</description>
-    </item>
-    <item>
-      <title>Die Koppelung von Kinderfreibetrag und Kindergeld durch das Steuerfortentwicklungsgesetz (SteFeG) – Wirkungen und Implikationen</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062106/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062106</description>
-    </item>
-    <item>
-      <title>Zum Zurechnungssubjekt des fiktiven Gewinns nach § 15a Abs. 3 EStG</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062107/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062107</description>
-    </item>
-    <item>
-      <title>Aufwärtsabfärbung bei lediglich verrechenbaren Verlusten gem. § 15a EStG</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062108/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062108/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062108</description>
-    </item>
-    <item>
-      <title>Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062109/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062109/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062109</description>
-    </item>
-    <item>
-      <title>Schaumburg/Hendricks, Steuerrechtsschutz, 5. Aufl. 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062110/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062110/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062110</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062111/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/fr-2024-1062111/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/fr-2024-1062111</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FinanzRundschau</title>
+  <link href="https://www.degruyterbrill.com/journal/key/fr/107/8/html"/>
+  <updated>2025-05-04T22:05:39.520095+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in FinanzRundschau</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-frontmatter10708/html"/>
+    <id>https://doi.org/10.9785/fr-2025-frontmatter10708</id>
+    <updated>2025-05-04T22:05:39.520119+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-frontmatter10708</summary>
+  </entry>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-toc10708/html"/>
+    <id>https://doi.org/10.9785/fr-2025-toc10708</id>
+    <updated>2025-05-04T22:05:39.520127+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-toc10708</summary>
+  </entry>
+  <entry>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070809/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070809</id>
+    <updated>2025-05-04T22:05:39.520133+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-1070809</summary>
+  </entry>
+  <entry>
+    <title>Verfassungsrechtliche und steuersystematische Herausforderungen landesgesetzlicher Hebesatzdifferenzierungen bei der Grundsteuer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070801/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070801</id>
+    <updated>2025-05-04T22:05:39.520139+00:00</updated>
+    <summary>Article by Lars Hummel, Steffen Lampert
+DOI: https://doi.org/10.9785/fr-2025-1070801</summary>
+  </entry>
+  <entry>
+    <title>Kann der im AStG kodifizierte Fremdvergleichsgrundsatz eine verdeckte Gewinnausschüttung des EStG suspendieren? – Eine Analyse der steuerlichen und bilanziellen Korrekturen von Nutzungsvorteilen im grenzüberschreitenden Dreiecksverhältnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070802/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070802</id>
+    <updated>2025-05-04T22:05:39.520149+00:00</updated>
+    <summary>Article by Dana Zabel
+DOI: https://doi.org/10.9785/fr-2025-1070802</summary>
+  </entry>
+  <entry>
+    <title>Dabei sein ist alles, auch ohne Hund</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070803/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070803</id>
+    <updated>2025-05-04T22:05:39.520156+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-1070803</summary>
+  </entry>
+  <entry>
+    <title>Änderung der Gewinnermittlungsart</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070804/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070804</id>
+    <updated>2025-05-04T22:05:39.520162+00:00</updated>
+    <summary>Article by H. J. Kanzler
+DOI: https://doi.org/10.9785/fr-2025-1070804</summary>
+  </entry>
+  <entry>
+    <title>Gewinnrücklage bei Übernahme von Pensionsverpflichtungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070805/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070805</id>
+    <updated>2025-05-04T22:05:39.520169+00:00</updated>
+    <summary>Article by H. Weber-Grellet
+DOI: https://doi.org/10.9785/fr-2025-1070805</summary>
+  </entry>
+  <entry>
+    <title>Forderungsverzicht eines Gesellschafters einer Kapitalgesellschaft gegen Besserungsschein</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070806/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070806</id>
+    <updated>2025-05-04T22:05:39.520175+00:00</updated>
+    <summary>Article by Franziska von Freeden
+DOI: https://doi.org/10.9785/fr-2025-1070806</summary>
+  </entry>
+  <entry>
+    <title>Änderung der Gewinnermittlungsart</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070804/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070804</id>
+    <updated>2025-05-04T22:05:39.520182+00:00</updated>
+    <summary>Article by H. J. Kanzler
+DOI: https://doi.org/10.9785/fr-2025-1070804</summary>
+  </entry>
+  <entry>
+    <title>Gewinnrücklage bei Übernahme von Pensionsverpflichtungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070805/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070805</id>
+    <updated>2025-05-04T22:05:39.520191+00:00</updated>
+    <summary>Article by H. Weber-Grellet
+DOI: https://doi.org/10.9785/fr-2025-1070805</summary>
+  </entry>
+  <entry>
+    <title>Forderungsverzicht eines Gesellschafters einer Kapitalgesellschaft gegen Besserungsschein</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070806/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070806</id>
+    <updated>2025-05-04T22:05:39.520201+00:00</updated>
+    <summary>Article by Franziska von Freeden
+DOI: https://doi.org/10.9785/fr-2025-1070806</summary>
+  </entry>
+  <entry>
+    <title>Anwendungsschreiben zur Begünstigung der nicht entnommenen Gewinne (§ 34a EStG)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070807/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070807</id>
+    <updated>2025-05-04T22:05:39.520207+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-1070807</summary>
+  </entry>
+  <entry>
+    <title>Steuerliche Behandlung der von Luftfahrtunternehmen gewährten unentgeltlichen oder verbilligten Flüge – gleich lautende Erlasse der obersten Finanzbehörden der Länder</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070808/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070808</id>
+    <updated>2025-05-04T22:05:39.520213+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-1070808</summary>
+  </entry>
+  <entry>
+    <title>Anwendungsschreiben zur Begünstigung der nicht entnommenen Gewinne (§ 34a EStG)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070807/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070807</id>
+    <updated>2025-05-04T22:05:39.520219+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-1070807</summary>
+  </entry>
+  <entry>
+    <title>Steuerliche Behandlung der von Luftfahrtunternehmen gewährten unentgeltlichen oder verbilligten Flüge – gleich lautende Erlasse der obersten Finanzbehörden der Länder</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/fr-2025-1070808/html"/>
+    <id>https://doi.org/10.9785/fr-2025-1070808</id>
+    <updated>2025-05-04T22:05:39.520225+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/fr-2025-1070808</summary>
+  </entry>
+</feed>

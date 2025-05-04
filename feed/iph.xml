@@ -1,58 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>International Public History</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in International Public History</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iph.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-frontmatter1/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Decolonizing Through Public History – Introduction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2004/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2004</description>
-    </item>
-    <item>
-      <title>Public History and Emancipatory Politics in Transition: From the Anti-Apartheid Struggle to Democracy in South Africa</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2003/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2003</description>
-    </item>
-    <item>
-      <title>Decolonizing Canadian Archival Practice Through a Public History Lens</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2006/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2006</description>
-    </item>
-    <item>
-      <title>Counter-Colonial Aspects in and Through Public History in Brazil: Participatory Research, Oral History and Corporeality – Embodied Ways of Storytelling</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2007/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2007</description>
-    </item>
-    <item>
-      <title>Where is the Seeker Who Searches for Another? Decolonial Approaches to Digital Public History</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2005/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2005</description>
-    </item>
-    <item>
-      <title>Can It Be a Gamechanger? Interrogating the Prospects of Decolonization Through Public History in Japan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2001/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2001</description>
-    </item>
-    <item>
-      <title>Doing History at the Edge of the Map: The “Digital Thrace” Research Project</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/iph-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/iph-2024-2002/html</guid>
-      <description>Article by Angelos Palikidis DOI: https://doi.org/10.1515/iph-2024-2002</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>International Public History</title>
+  <link href="https://www.degruyterbrill.com/journal/key/iph/7/2/html"/>
+  <updated>2025-05-04T22:06:57.549942+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iph.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in International Public History</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iph.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/iph-2024-frontmatter2</id>
+    <updated>2025-05-04T22:06:57.549979+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/iph-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Public History as Graphic History</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2014/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2014</id>
+    <updated>2025-05-04T22:06:57.549988+00:00</updated>
+    <summary>Article by Christine Gundermann, Amie Wright
+DOI: https://doi.org/10.1515/iph-2024-2014</summary>
+  </entry>
+  <entry>
+    <title>The Graphic Anne: Anne Frank Comics as Transnational Lieu de Mémoire</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2008/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2008</id>
+    <updated>2025-05-04T22:06:57.549999+00:00</updated>
+    <summary>Article by Christine Gundermann
+DOI: https://doi.org/10.1515/iph-2024-2008</summary>
+  </entry>
+  <entry>
+    <title>Illustrating History: April 25th in Portuguese Comics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2010/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2010</id>
+    <updated>2025-05-04T22:06:57.550007+00:00</updated>
+    <summary>Article by Alexandra Lourenço Dias
+DOI: https://doi.org/10.1515/iph-2024-2010</summary>
+  </entry>
+  <entry>
+    <title>Teaching History Through Comic Books: Opportunities for Public &amp; Visual History</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2015/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2015</id>
+    <updated>2025-05-04T22:06:57.550018+00:00</updated>
+    <summary>Article by Amie Wright
+DOI: https://doi.org/10.1515/iph-2024-2015</summary>
+  </entry>
+  <entry>
+    <title>When Comics Become Part of a Thesis Project</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2009/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2009</id>
+    <updated>2025-05-04T22:06:57.550026+00:00</updated>
+    <summary>Article by Aliénor Gandanger
+DOI: https://doi.org/10.1515/iph-2024-2009</summary>
+  </entry>
+  <entry>
+    <title>Making the Invisible and Private, Seen and Public: Roundtable Conversation on the Potentials of Graphic Medicine for Public History</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2013/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2013</id>
+    <updated>2025-05-04T22:06:57.550036+00:00</updated>
+    <summary>Article by Matthew Noe, Soha Bayoumi, Eugenia Garcia Amor, Juliet McMullin, Ian Williams
+DOI: https://doi.org/10.1515/iph-2024-2013</summary>
+  </entry>
+  <entry>
+    <title>Graphic Collections and Resources</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2011/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2011</id>
+    <updated>2025-05-04T22:06:57.550044+00:00</updated>
+    <summary>Article by Christine Gundermann, Amie Wright
+DOI: https://doi.org/10.1515/iph-2024-2011</summary>
+  </entry>
+  <entry>
+    <title>The Tenses of Historical Consciousness: The Impact of Memory Work Within the Colombian Education Community</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/iph-2024-2012/html"/>
+    <id>https://doi.org/10.1515/iph-2024-2012</id>
+    <updated>2025-05-04T22:06:57.550051+00:00</updated>
+    <summary>Article by Tatjana Louis, Mónika Contreras Saiz, Stefan Rinke
+DOI: https://doi.org/10.1515/iph-2024-2012</summary>
+  </entry>
+</feed>

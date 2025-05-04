@@ -1,64 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>International Journal of the Sociology of Language</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in International Journal of the Sociology of Language</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-frontmatter288/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-frontmatter288/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2024-frontmatter288</description>
-    </item>
-    <item>
-      <title>Mobile borders</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2024-0034/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2024-0034</description>
-    </item>
-    <item>
-      <title>Using language in boundary-making: nation-state building in the early years of the Turkish Republic (1927–1965)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0015/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0015</description>
-    </item>
-    <item>
-      <title>Hong Kongers and their languages: bordering, scale and identity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0013/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0013</description>
-    </item>
-    <item>
-      <title>Mobile borders and chronotope of homeland</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0011/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0011</description>
-    </item>
-    <item>
-      <title>Humanitarianism, victimisation, and bordering processes: debating the refugee experience in the classroom</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0016/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0016</description>
-    </item>
-    <item>
-      <title>Attitudes towards Sardinian and Italian finally compared via the Matched-Guise Technique</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0084/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0084/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0084</description>
-    </item>
-    <item>
-      <title>The effect of language attitudes on proficiency in two heritage languages of Mountain Jews in Israel and the US</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0059/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0059</description>
-    </item>
-    <item>
-      <title>Sociolinguistic challenges and new perspectives on determining French speakers in Creole communities: the case of Haiti</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0108/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijsl-2023-0108/html</guid>
-      <description>Article by David Tézil DOI: https://doi.org/10.1515/ijsl-2023-0108</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>International Journal of the Sociology of Language</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ijsl/2025/291/html"/>
+  <updated>2025-05-04T22:06:52.204830+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in International Journal of the Sociology of Language</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-frontmatter291/html"/>
+    <id>https://doi.org/10.1515/ijsl-2025-frontmatter291</id>
+    <updated>2025-05-04T22:06:52.204867+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ijsl-2025-frontmatter291</summary>
+  </entry>
+  <entry>
+    <title>Negotiating sociolinguistic justice: turning spaces of inequality into spaces of conscientization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2022-0114/html"/>
+    <id>https://doi.org/10.1515/ijsl-2022-0114</id>
+    <updated>2025-05-04T22:06:52.204881+00:00</updated>
+    <summary>Article by Luisa Martín Rojo, Joan Pujolar, Estibaliz Amorrortu
+DOI: https://doi.org/10.1515/ijsl-2022-0114</summary>
+  </entry>
+  <entry>
+    <title>Talking about sociolinguistic injustice: critical ethnographies towards speaker conscientization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0076/html"/>
+    <id>https://doi.org/10.1515/ijsl-2023-0076</id>
+    <updated>2025-05-04T22:06:52.204894+00:00</updated>
+    <summary>Article by Gabriela Prego-Vázquez, Clara Molina, Maite Puigdevall
+DOI: https://doi.org/10.1515/ijsl-2023-0076</summary>
+  </entry>
+  <entry>
+    <title>Spaces of conscientization as a bridge between inequality and contestation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0078/html"/>
+    <id>https://doi.org/10.1515/ijsl-2023-0078</id>
+    <updated>2025-05-04T22:06:52.204902+00:00</updated>
+    <summary>Article by Estibaliz Amorrortu, Miren Otxotorena-Aranguren, Luz Zas
+DOI: https://doi.org/10.1515/ijsl-2023-0078</summary>
+  </entry>
+  <entry>
+    <title>Voicing experiences of language surveillance to challenge social inequality</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2024-0128/html"/>
+    <id>https://doi.org/10.1515/ijsl-2024-0128</id>
+    <updated>2025-05-04T22:06:52.204910+00:00</updated>
+    <summary>Article by Luisa Martín Rojo, Adil Moustaoui, Ane Ortega
+DOI: https://doi.org/10.1515/ijsl-2024-0128</summary>
+  </entry>
+  <entry>
+    <title>Agency as doing-together: learning from fieldwork experiences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0080/html"/>
+    <id>https://doi.org/10.1515/ijsl-2023-0080</id>
+    <updated>2025-05-04T22:06:52.204918+00:00</updated>
+    <summary>Article by Jone M. Hernández García, Joan Pujolar, Noelia Fernández González
+DOI: https://doi.org/10.1515/ijsl-2023-0080</summary>
+  </entry>
+  <entry>
+    <title>Relevance and effectiveness in translation planning into minoritized languages: an evaluation of translation subsidies in the Galician publishing industry</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0114/html"/>
+    <id>https://doi.org/10.1515/ijsl-2023-0114</id>
+    <updated>2025-05-04T22:06:52.204927+00:00</updated>
+    <summary>Article by Marta García González
+DOI: https://doi.org/10.1515/ijsl-2023-0114</summary>
+  </entry>
+  <entry>
+    <title>Ainu language use and display in the National Ainu Museum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0104/html"/>
+    <id>https://doi.org/10.1515/ijsl-2023-0104</id>
+    <updated>2025-05-04T22:06:52.204934+00:00</updated>
+    <summary>Article by Saana Santalahti
+DOI: https://doi.org/10.1515/ijsl-2023-0104</summary>
+  </entry>
+</feed>

@@ -1,110 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Kant-Studien</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Kant-Studien</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kant.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-frontmatter3/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Geistersehen innerhalb der Grenzen der bloßen Vernunft: Kant über die Aufklärung dunkler Vorstellungen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2023/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2023</description>
-    </item>
-    <item>
-      <title>The Derivation of the Categories of Quantity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2025/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2025</description>
-    </item>
-    <item>
-      <title>Statuiert Kants theoretische Philosophie eine radikale negative Theologie? Anmerkungen zu einer These aus der jüngeren Forschung im Lichte von Kants regulativem Deismus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2024/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2024</description>
-    </item>
-    <item>
-      <title>Proaktives, reaktives und reziprokes Wohlwollen. Kants System der Liebespflichten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2026/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2026</description>
-    </item>
-    <item>
-      <title>The Moral Law as an A Priori Principle. Kleingeld and Willaschek on Autonomy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2027/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2027</description>
-    </item>
-    <item>
-      <title>Zwei Nachweise der beiden Ausdrücke „Feuerschätze“ und „Phönix der Natur“ in Kants Allgemeiner Naturgeschichte und Theorie des Himmels</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2022/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2022</description>
-    </item>
-    <item>
-      <title>Daniel Sutherland: Kant’s Mathematical World. Mathematics, Cognition, and Experience. Cambridge: Cambridge University Press 2022. ISBN 9781108429962.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2028/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2028</description>
-    </item>
-    <item>
-      <title>Martin Welsch: Anfangsgründe der Volkssouveränität. Immanuel Kants ‚Staatsrecht‘ in der „Metaphysik der Sitten“. Frankfurt am Main: Verlag Vittorio Klostermann, 2021. 473 Seiten. ISBN 978-3-465-04575-5</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2029/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2029</description>
-    </item>
-    <item>
-      <title>Mitgliederversammlung der Kant-Gesellschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/kant-2024-2030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/kant-2024-2030/html</guid>
-      <description>Article by 
-
-                Page range: 406-406
-            
- DOI: https://doi.org/10.1515/kant-2024-2030</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Kant-Studien</title>
+  <link href="https://www.degruyterbrill.com/journal/key/kant/116/1/html"/>
+  <updated>2025-05-04T22:08:59.605509+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kant.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Kant-Studien</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kant.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/kant-2025-frontmatter1</id>
+    <updated>2025-05-04T22:08:59.605545+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/kant-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>The Value of Mere Willing: Revisiting Kant’s Argument for the Formula of the End in Itself</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-0004/html"/>
+    <id>https://doi.org/10.1515/kant-2024-0004</id>
+    <updated>2025-05-04T22:08:59.605555+00:00</updated>
+    <summary>Article by Tom Bailey
+DOI: https://doi.org/10.1515/kant-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Kant und das Problem moralischer Zurechenbarkeit: Zur frühen Diskussion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2046/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2046</id>
+    <updated>2025-05-04T22:08:59.605565+00:00</updated>
+    <summary>Article by Jörg Noller
+DOI: https://doi.org/10.1515/kant-2024-2046</summary>
+  </entry>
+  <entry>
+    <title>Ulrich, Kant und Kraus über Moralität und moralische Zurechenbarkeit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2047/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2047</id>
+    <updated>2025-05-04T22:08:59.605573+00:00</updated>
+    <summary>Article by Silvan Imhof
+DOI: https://doi.org/10.1515/kant-2024-2047</summary>
+  </entry>
+  <entry>
+    <title>Die Frage der Zurechnung. Ein Aspekt in der Kontroverse zwischen Kant und Reinhold über Willensfreiheit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2045/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2045</id>
+    <updated>2025-05-04T22:08:59.605581+00:00</updated>
+    <summary>Article by Martin Bondeli
+DOI: https://doi.org/10.1515/kant-2024-2045</summary>
+  </entry>
+  <entry>
+    <title>Triebfeder, Zurechenbarkeit und empirische Psychologie: C. C. E. Schmids Handlungstheorie im Ausgang von Kant</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2048/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2048</id>
+    <updated>2025-05-04T22:08:59.605588+00:00</updated>
+    <summary>Article by Manja Kisner
+DOI: https://doi.org/10.1515/kant-2024-2048</summary>
+  </entry>
+  <entry>
+    <title>Die Schuld der Trägheit. Fichte über moralische Zurechenbarkeit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2050/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2050</id>
+    <updated>2025-05-04T22:08:59.605595+00:00</updated>
+    <summary>Article by Jörg Noller
+DOI: https://doi.org/10.1515/kant-2024-2050</summary>
+  </entry>
+  <entry>
+    <title>Wille, Willkür und moralische Zurechnung bei Johann Christoph Hoffbauer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2049/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2049</id>
+    <updated>2025-05-04T22:08:59.605603+00:00</updated>
+    <summary>Article by Katerina Mihaylova
+DOI: https://doi.org/10.1515/kant-2024-2049</summary>
+  </entry>
+  <entry>
+    <title>Barbara Herman: Kantian Commitments. Oxford: Oxford University Press, 2022. 222 pages. ISBN 978-0-19-284496-5.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2053/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2053</id>
+    <updated>2025-05-04T22:08:59.605611+00:00</updated>
+    <summary>Article by Riccardo Pozzo
+DOI: https://doi.org/10.1515/kant-2024-2053</summary>
+  </entry>
+  <entry>
+    <title>Kristi Sweet:Kant on Freedom, Nature, and Judgment. The Territory of the Third Critique, Cambridge: Cambridge University Press, 2023. 222 Seiten. Online ISBN 9781009036634.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2052/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2052</id>
+    <updated>2025-05-04T22:08:59.605620+00:00</updated>
+    <summary>Article by Luciano Perulli
+DOI: https://doi.org/10.1515/kant-2024-2052</summary>
+  </entry>
+  <entry>
+    <title>Human Dignity and the Kingdom of Ends. Kantian Perspectives and Practical Applications. Ed. byJan-Willem van der RijtandAdam Cureton. New York/London: Routledge, 2022. 340 pages. ISBN: 978-0-367-46001-3</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kant-2024-2051/html"/>
+    <id>https://doi.org/10.1515/kant-2024-2051</id>
+    <updated>2025-05-04T22:08:59.605629+00:00</updated>
+    <summary>Article by Alejandro M. Berroterán
+DOI: https://doi.org/10.1515/kant-2024-2051</summary>
+  </entry>
+</feed>

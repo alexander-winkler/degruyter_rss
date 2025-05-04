@@ -1,52 +1,61 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Discrete Mathematics and Applications</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Discrete Mathematics and Applications</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-frontmatter5/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>On the matching arrangement of a graph and properties of its characteristic polynomial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0022/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0022</description>
-    </item>
-    <item>
-      <title>Realization of even permutations of even degree by products of four involutions without fixed points</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0023/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0023</description>
-    </item>
-    <item>
-      <title>On implicit extensions in many-valued logic</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0024/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0024</description>
-    </item>
-    <item>
-      <title>On radio graceful Hamming graphs of any diameter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0025/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0025</description>
-    </item>
-    <item>
-      <title>Limit joint distribution of the statistics of «Monobit test», «Frequency Test within a Block» and «Test for the Longest Run of Ones in a Block»</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0026/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0026</description>
-    </item>
-    <item>
-      <title>Resistance distance and Kirchhoff index of two kinds of double join operations on graphs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dma-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dma-2024-0027/html</guid>
-      <description>Article by Weizhong Wang, Tingyan Ma DOI: https://doi.org/10.1515/dma-2024-0027</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Discrete Mathematics and Applications</title>
+  <link href="https://www.degruyterbrill.com/journal/key/dma/35/2/html"/>
+  <updated>2025-05-04T22:04:41.732678+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Discrete Mathematics and Applications</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/dma-2025-frontmatter2</id>
+    <updated>2025-05-04T22:04:41.732706+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dma-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>On cosets in the direct product of groups whose images by bijective mappings from factors to groups are cosets</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0004/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0004</id>
+    <updated>2025-05-04T22:04:41.732711+00:00</updated>
+    <summary>Article by Dmitry A. Burov
+DOI: https://doi.org/10.1515/dma-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>On the linear disjunctive decomposition of ap-logic function into a sum of functions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0005/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0005</id>
+    <updated>2025-05-04T22:04:41.732717+00:00</updated>
+    <summary>Article by Aleksandr V. Cheremushkin
+DOI: https://doi.org/10.1515/dma-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Hadamard square of series connected linear codes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0006/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0006</id>
+    <updated>2025-05-04T22:04:41.732724+00:00</updated>
+    <summary>Article by Ivan V. Chizhov
+DOI: https://doi.org/10.1515/dma-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>New bounds for the nonlinearity of PN functions and APN functions over finite fields</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0007/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0007</id>
+    <updated>2025-05-04T22:04:41.732728+00:00</updated>
+    <summary>Article by Vladimir G. Ryabov
+DOI: https://doi.org/10.1515/dma-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Describing the closed class of polynomial functions modulo a power of a prime number by a relation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0008/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0008</id>
+    <updated>2025-05-04T22:04:41.732732+00:00</updated>
+    <summary>Article by Svetlana N. Selezneva
+DOI: https://doi.org/10.1515/dma-2025-0008</summary>
+  </entry>
+</feed>

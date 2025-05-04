@@ -1,70 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Early Modern Christianity</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Early Modern Christianity</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jemc.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-frontmatter1/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Concerning the Defamation and Execution of the “Radical” Ludwig Hätzer (1500–1529): An Attempt at Using Social Network Analysis on Small Samples</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2001/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2001</description>
-    </item>
-    <item>
-      <title>Framing Religious Leadership in Dutch Nationalist Confessional Historiography: Anabaptism on the Lower Rhine in the 1540s–1550s</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2002/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2002</description>
-    </item>
-    <item>
-      <title>Hope from the Ashes: Juan Pérez de Pineda’s Mystical Body beyond Neoplatonic Consolation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2003/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2003</description>
-    </item>
-    <item>
-      <title>True Worship in the Spirit: Martin Chemnitz and the Minor Role of the Body in Worship</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2004/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2004</description>
-    </item>
-    <item>
-      <title>The Duke of Olyka and the Saint: The Meeting between Mikołaj Krzysztof Radziwiłł and Pope Pius V (1566)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2005/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2005</description>
-    </item>
-    <item>
-      <title>The Post-Tridentine Controversies at the Louvain Faculty of Theology: The Correspondence between Judocus Tiletanus and Michael Baius (1568)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2006/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2006</description>
-    </item>
-    <item>
-      <title>Between Jerusalem and Babylon: Catholic Discourses of Israel and National Identity in Elizabethan and Jacobean England (ca. 1560–1625)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2007/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2007</description>
-    </item>
-    <item>
-      <title>Enfance, martyre et mission dans L’Histoire des martyrs du Japon de Nicolas Trigault (1624)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2008/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2008</description>
-    </item>
-    <item>
-      <title>Critical Independence versus Christian Catholicity in Hugo Grotius’s Annotations on Matthew 23:2–3</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jemc-2024-2009/html</guid>
-      <description>Article by Philip Thomas Mohr DOI: https://doi.org/10.1515/jemc-2024-2009</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Early Modern Christianity</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jemc/11/2/html"/>
+  <updated>2025-05-04T22:07:51.933680+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jemc.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Early Modern Christianity</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jemc.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-frontmatter2</id>
+    <updated>2025-05-04T22:07:51.933702+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jemc-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Theology and Philology in Biblical Translation according to Franciscus Titelmans (1502–1537) on the Example of the Book of Job</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2010/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2010</id>
+    <updated>2025-05-04T22:07:51.933711+00:00</updated>
+    <summary>Article by Tomasz Karol Mantyk
+DOI: https://doi.org/10.1515/jemc-2024-2010</summary>
+  </entry>
+  <entry>
+    <title>The Turn to Interiority in the Early Modern Period</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2011/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2011</id>
+    <updated>2025-05-04T22:07:51.933719+00:00</updated>
+    <summary>Article by Rob Faesen
+DOI: https://doi.org/10.1515/jemc-2024-2011</summary>
+  </entry>
+  <entry>
+    <title>William Perkins’s (1558–1602) Case Divinity as a School of Christian Prudence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2012/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2012</id>
+    <updated>2025-05-04T22:07:51.933726+00:00</updated>
+    <summary>Article by Roger L. Revell
+DOI: https://doi.org/10.1515/jemc-2024-2012</summary>
+  </entry>
+  <entry>
+    <title>Samuel Rutherford (1600–1661) andAdiaphora: The Regulative Principle of Worship and the Rule of Christ</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2013/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2013</id>
+    <updated>2025-05-04T22:07:51.933733+00:00</updated>
+    <summary>Article by Jaekook Lee
+DOI: https://doi.org/10.1515/jemc-2024-2013</summary>
+  </entry>
+  <entry>
+    <title>Religious Coexistence in the Dutch Republic and France in the Seventeenth Century: Legal Systems, Sacred Spaces, and Minority Resilience in Utrecht and Nîmes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2014/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2014</id>
+    <updated>2025-05-04T22:07:51.933740+00:00</updated>
+    <summary>Article by Sukhwan Kang, Genji Yasuhira
+DOI: https://doi.org/10.1515/jemc-2024-2014</summary>
+  </entry>
+  <entry>
+    <title>Divine Warrant and Political Discipline: Preaching on the GroningenLanddagin the Third Quarter of the Seventeenth Century in the City of Groningen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2015/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2015</id>
+    <updated>2025-05-04T22:07:51.933747+00:00</updated>
+    <summary>Article by Theo Basoski
+DOI: https://doi.org/10.1515/jemc-2024-2015</summary>
+  </entry>
+  <entry>
+    <title>The Perils of Freethinking according to George Berkeley (1685–1753)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2016/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2016</id>
+    <updated>2025-05-04T22:07:51.933753+00:00</updated>
+    <summary>Article by Alberto Luis-López
+DOI: https://doi.org/10.1515/jemc-2024-2016</summary>
+  </entry>
+  <entry>
+    <title>“Enervare atque pervertere verba illa Christi Matthaei 11”: Arguing over Matthew 11:21–22 in Luis de Molina’s (1535–1600)Concordiaand Leonardus Lessius’De gratia efficaci</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2017/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2017</id>
+    <updated>2025-05-04T22:07:51.933761+00:00</updated>
+    <summary>Article by Niels de Bruijn
+DOI: https://doi.org/10.1515/jemc-2024-2017</summary>
+  </entry>
+  <entry>
+    <title>Controversy in the Classroom: Jacobus Janssonius (1547–1625) versus Leonardus Lessius on Grace, Free Will and Predestination</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2019/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2019</id>
+    <updated>2025-05-04T22:07:51.933768+00:00</updated>
+    <summary>Article by Linde Van den Eede
+DOI: https://doi.org/10.1515/jemc-2024-2019</summary>
+  </entry>
+  <entry>
+    <title>“Capite nobis vulpes” (Song 2:15): The Struggle of Libertus Fromondus (1587–1653) with Leonardus Lessius’ Theological Legacy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jemc-2024-2018/html"/>
+    <id>https://doi.org/10.1515/jemc-2024-2018</id>
+    <updated>2025-05-04T22:07:51.933775+00:00</updated>
+    <summary>Article by Anton De Preter, Wim François
+DOI: https://doi.org/10.1515/jemc-2024-2018</summary>
+  </entry>
+</feed>

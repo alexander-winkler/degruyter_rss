@@ -1,46 +1,60 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Tourismuswissenschaft</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Tourismuswissenschaft</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tw.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tw-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tw-2024-frontmatter3/html</guid>
-      <description>Article by Tobias Reeh DOI: https://doi.org/10.1515/tw-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Vorwort</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tw-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tw-2024-2003/html</guid>
-      <description>Article by Tobias Reeh DOI: https://doi.org/10.1515/tw-2024-2003</description>
-    </item>
-    <item>
-      <title>Instagram als Einflussfaktor auf das Image der Destination Cappadocia – Implikationen für die Destinationsentscheidung der Generation Z</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tw-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tw-2024-0013/html</guid>
-      <description>Article by Tobias Reeh DOI: https://doi.org/10.1515/tw-2024-0013</description>
-    </item>
-    <item>
-      <title>Overtourism perception among residents in a rural proximity destination during the COVID-19-pandemic – The writing on the wall for a sustainability transition of tourism?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tw-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tw-2024-0015/html</guid>
-      <description>Article by Tobias Reeh DOI: https://doi.org/10.1515/tw-2024-0015</description>
-    </item>
-    <item>
-      <title>New Urban Tourism: an On-Site Analysis of City Tourism’s New Trend in Selected Spots in the Destination of Munich, Germany</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tw-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tw-2024-0011/html</guid>
-      <description>Article by Tobias Reeh DOI: https://doi.org/10.1515/tw-2024-0011</description>
-    </item>
-    <item>
-      <title>Markus Pillmayer, Marion Karl, Marcus Hansen (Eds.) (2024): Tourism Destination Development – A Geographic Perspective on Destination Management and Tourist Demand. (De Gruyter Studies in Tourism, Volume 11). Berlin/Boston: Walter de Gruyter GmbH. 511 Seiten. Festeinband, ISBN 978-3-11-079402-1</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/tw-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/tw-2024-2002/html</guid>
-      <description>Article by Tobias Reeh DOI: https://doi.org/10.1515/tw-2024-2002</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Tourismuswissenschaft</title>
+  <link href="https://www.degruyterbrill.com/journal/key/tw/16/3/html"/>
+  <updated>2025-05-04T22:13:07.317446+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tw.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Tourismuswissenschaft</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tw.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tw-2024-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/tw-2024-frontmatter3</id>
+    <updated>2025-05-04T22:13:07.317487+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/tw-2024-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Vorwort</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tw-2024-2003/html"/>
+    <id>https://doi.org/10.1515/tw-2024-2003</id>
+    <updated>2025-05-04T22:13:07.317497+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/tw-2024-2003</summary>
+  </entry>
+  <entry>
+    <title>Instagram als Einflussfaktor auf das Image der Destination Cappadocia – Implikationen für die Destinationsentscheidung der Generation Z</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tw-2024-0013/html"/>
+    <id>https://doi.org/10.1515/tw-2024-0013</id>
+    <updated>2025-05-04T22:13:07.317506+00:00</updated>
+    <summary>Article by Jacqueline Assaad, Anne Köchling
+DOI: https://doi.org/10.1515/tw-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Overtourism perception among residents in a rural proximity destination during the COVID-19-pandemic – The writing on the wall for a sustainability transition of tourism?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tw-2024-0015/html"/>
+    <id>https://doi.org/10.1515/tw-2024-0015</id>
+    <updated>2025-05-04T22:13:07.317518+00:00</updated>
+    <summary>Article by Felicitas Steber, Marius Mayer
+DOI: https://doi.org/10.1515/tw-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>New Urban Tourism: an On-Site Analysis of City Tourism’s New Trend in Selected Spots in the Destination of Munich, Germany</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tw-2024-0011/html"/>
+    <id>https://doi.org/10.1515/tw-2024-0011</id>
+    <updated>2025-05-04T22:13:07.317528+00:00</updated>
+    <summary>Article by Francesca Rübesamen, Markus Pillmayer
+DOI: https://doi.org/10.1515/tw-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Markus Pillmayer, Marion Karl, Marcus Hansen (Eds.) (2024):Tourism Destination Development – A Geographic Perspective on Destination Management and Tourist Demand. (De Gruyter Studies in Tourism, Volume 11). Berlin/Boston: Walter de Gruyter GmbH. 511 Seiten. Festeinband, ISBN 978-3-11-079402-1</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/tw-2024-2002/html"/>
+    <id>https://doi.org/10.1515/tw-2024-2002</id>
+    <updated>2025-05-04T22:13:07.317540+00:00</updated>
+    <summary>Article by Tobias Reeh
+DOI: https://doi.org/10.1515/tw-2024-2002</summary>
+  </entry>
+</feed>

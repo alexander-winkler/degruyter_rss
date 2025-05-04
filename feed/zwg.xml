@@ -1,160 +1,179 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>WerkstattGeschichte</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in WerkstattGeschichte</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-frontmatter9002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-frontmatter9002/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-frontmatter9002</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-toc9002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-toc9002/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-toc9002</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900202/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900202/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900202</description>
-    </item>
-    <item>
-      <title>Zwischen Emanzipation und Repression</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900203/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900203/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900203</description>
-    </item>
-    <item>
-      <title>Koloniale Tierlichkeit und conquest companions</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900204/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900204/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900204</description>
-    </item>
-    <item>
-      <title>Die unabsichtliche Hintertür</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900205/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900205/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900205</description>
-    </item>
-    <item>
-      <title>Theorie als Praxis – Geschichtstheorie in Forschung und Lehre vermitteln</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900206/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900206/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900206</description>
-    </item>
-    <item>
-      <title>Alternatives Freizeitvergnügen</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900207/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900207/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900207</description>
-    </item>
-    <item>
-      <title>»Mignon des Dames« – Liebling der Frauen</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900208/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900208/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900208</description>
-    </item>
-    <item>
-      <title>Vor dem 13. Sammler – In der Dauerausstellung des Historischen Museums Frankfurt</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900209/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900209/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900209</description>
-    </item>
-    <item>
-      <title>Christoph Antweiler: Anthropologie im Anthropozän. Theoriebausteine für das 21. Jahrhundert</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900210/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900210/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900210</description>
-    </item>
-    <item>
-      <title>Peter Hersche, Dorothee Rippmann: Frömmigkeit und Kirchenbau »von unten «</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900211/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900211/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900211</description>
-    </item>
-    <item>
-      <title>Ludolf Kuchenbuch: Marx, feudal. Beiträge zur Gegenwart des Feudalismus in der Geschichtswissenschaft, 1975–2021</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900212/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900212/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900212</description>
-    </item>
-    <item>
-      <title>Ole Münch: Cutler Street Market. Interkultureller Austausch im Londoner East End 1780–1850</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900213/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900213/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900213</description>
-    </item>
-    <item>
-      <title>Jeffrey Gunn: Outsourcing African Labor. Kru Migratory Workers in Global Ports, Estates and Battlefields until the End of the 19th Century</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900214/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900214/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900214</description>
-    </item>
-    <item>
-      <title>Patrice M. Dabrowski: The Carpathians. Discovering the Highlands of Poland and Ukraine</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900215/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900215/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900215</description>
-    </item>
-    <item>
-      <title>Elisa Heinrich: Intim und respektabel. Homosexualität und Freudinnenschaft in der deutschen Frauenbewegung um 1900</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900216/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900216/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900216</description>
-    </item>
-    <item>
-      <title>Katrin Steffen: Blut und Metall. Die transnationalen Wissensräume von Ludwik Hirszfeld und Jan Czochralski im 20. Jahrhundert</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900217/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900217/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900217</description>
-    </item>
-    <item>
-      <title>Helga Lüdtke: Der Bubikopf. Männlicher Blick, weiblicher Eigen-Sinn</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900218/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900218/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900218</description>
-    </item>
-    <item>
-      <title>Quito Swan: Pasifika Black. Oceania, Anti-Colonialism, and the African World</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900219/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900219/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900219</description>
-    </item>
-    <item>
-      <title>Jan-Philipp Pomplun: Deutsche Freikorps. Sozialgeschichte und Kontinuitäten (para)militärischer Gewalt zwischen Weltkrieg, Revolution und Nationalsozialismus</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900220/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900220/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900220</description>
-    </item>
-    <item>
-      <title>Helena Barop: Mohnblumenkriege. Die globale Drogenpolitik der USA, 1950–1979</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900221/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900221/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900221</description>
-    </item>
-    <item>
-      <title>Thomas Fleischman: Communist Pigs. An Animal History of East Germany’s Rise and Fall</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900222/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900222/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900222</description>
-    </item>
-    <item>
-      <title>Sebastian Lambertz: Sozialistische Subjektivitäten. Deutungen des »neuen Menschen« in der Tschechoslowakei 1953–1963</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900223/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900223/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900223</description>
-    </item>
-    <item>
-      <title>Florian Bruns: Kranksein im Sozialismus. Das DDR-Gesundheitswesen aus Patientensicht 1971–1989</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900224/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zwg-2024-900224/html</guid>
-      <description>Article by Christian Rau DOI: https://doi.org/10.14361/zwg-2024-900224</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>WerkstattGeschichte</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zwg/91/1/html"/>
+  <updated>2025-05-04T22:14:27.242805+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in WerkstattGeschichte</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-frontmatter9101/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-frontmatter9101</id>
+    <updated>2025-05-04T22:14:27.242842+00:00</updated>
+    <summary>DOI: https://doi.org/10.14361/zwg-2025-frontmatter9101</summary>
+  </entry>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-toc9101/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-toc9101</id>
+    <updated>2025-05-04T22:14:27.242850+00:00</updated>
+    <summary>DOI: https://doi.org/10.14361/zwg-2025-toc9101</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910101/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910101</id>
+    <updated>2025-05-04T22:14:27.242856+00:00</updated>
+    <summary>DOI: https://doi.org/10.14361/zwg-2025-910101</summary>
+  </entry>
+  <entry>
+    <title>Diebische Körper?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910102/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910102</id>
+    <updated>2025-05-04T22:14:27.242866+00:00</updated>
+    <summary>Article by Cornelia Aust
+DOI: https://doi.org/10.14361/zwg-2025-910102</summary>
+  </entry>
+  <entry>
+    <title>Von »vital heat« zur Eugenik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910103/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910103</id>
+    <updated>2025-05-04T22:14:27.242873+00:00</updated>
+    <summary>Article by Christa Klein
+DOI: https://doi.org/10.14361/zwg-2025-910103</summary>
+  </entry>
+  <entry>
+    <title>Die Suche nach den körperlichen Indizien von Homosexualität</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910104/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910104</id>
+    <updated>2025-05-04T22:14:27.242883+00:00</updated>
+    <summary>Article by Frederik Doktor
+DOI: https://doi.org/10.14361/zwg-2025-910104</summary>
+  </entry>
+  <entry>
+    <title>Umstrittene Personen erinnern</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910105/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910105</id>
+    <updated>2025-05-04T22:14:27.242888+00:00</updated>
+    <summary>Article by Alina Strmljan, Anna Jungmayr
+DOI: https://doi.org/10.14361/zwg-2025-910105</summary>
+  </entry>
+  <entry>
+    <title>Kolonialfotografie und kritisches Blickregime</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910106/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910106</id>
+    <updated>2025-05-04T22:14:27.242894+00:00</updated>
+    <summary>Article by Romuald Valentin Nkouda Sopgui
+DOI: https://doi.org/10.14361/zwg-2025-910106</summary>
+  </entry>
+  <entry>
+    <title>Kollaborativ arbeiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910107/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910107</id>
+    <updated>2025-05-04T22:14:27.242900+00:00</updated>
+    <summary>Article by Lucy Debus, Lisa Hellriegel
+DOI: https://doi.org/10.14361/zwg-2025-910107</summary>
+  </entry>
+  <entry>
+    <title>Das Museum Zwangsarbeit im Nationalsozialismus in Weimar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910108/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910108</id>
+    <updated>2025-05-04T22:14:27.242905+00:00</updated>
+    <summary>Article by Maximilian Jung
+DOI: https://doi.org/10.14361/zwg-2025-910108</summary>
+  </entry>
+  <entry>
+    <title>Neu gelesen: Max Beer, Handlexikon sozialistischer Persönlichkeiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910109/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910109</id>
+    <updated>2025-05-04T22:14:27.242912+00:00</updated>
+    <summary>Article by Axel Weipert
+DOI: https://doi.org/10.14361/zwg-2025-910109</summary>
+  </entry>
+  <entry>
+    <title>Peter Collmer, Verwaltete Vielfalt. Königliche Tafelgüter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910110/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910110</id>
+    <updated>2025-05-04T22:14:27.242921+00:00</updated>
+    <summary>Article by Karsten Holste
+DOI: https://doi.org/10.14361/zwg-2025-910110</summary>
+  </entry>
+  <entry>
+    <title>Peter Reinkemeier, Gouvernementalisierung der Natur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910111/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910111</id>
+    <updated>2025-05-04T22:14:27.242927+00:00</updated>
+    <summary>Article by Birgit Näther
+DOI: https://doi.org/10.14361/zwg-2025-910111</summary>
+  </entry>
+  <entry>
+    <title>Eva Seemann, Hofzwerge</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910112/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910112</id>
+    <updated>2025-05-04T22:14:27.242933+00:00</updated>
+    <summary>Article by Annika Bärwald
+DOI: https://doi.org/10.14361/zwg-2025-910112</summary>
+  </entry>
+  <entry>
+    <title>Felizitas Schaub, Stadtnomaden</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910113/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910113</id>
+    <updated>2025-05-04T22:14:27.242946+00:00</updated>
+    <summary>Article by Anne Purschwitz
+DOI: https://doi.org/10.14361/zwg-2025-910113</summary>
+  </entry>
+  <entry>
+    <title>Heiner Stahl, Geräuschkulissen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910114/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910114</id>
+    <updated>2025-05-04T22:14:27.242951+00:00</updated>
+    <summary>Article by Helen Wagner
+DOI: https://doi.org/10.14361/zwg-2025-910114</summary>
+  </entry>
+  <entry>
+    <title>Jule Ehms, Revolutionärer Syndikalismus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910115/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910115</id>
+    <updated>2025-05-04T22:14:27.242956+00:00</updated>
+    <summary>Article by Alicia Gorny
+DOI: https://doi.org/10.14361/zwg-2025-910115</summary>
+  </entry>
+  <entry>
+    <title>Ulrike Winkler, Menschen mit Behinderungen in der DDR</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910116/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910116</id>
+    <updated>2025-05-04T22:14:27.242962+00:00</updated>
+    <summary>Article by Michael Rasell
+DOI: https://doi.org/10.14361/zwg-2025-910116</summary>
+  </entry>
+  <entry>
+    <title>Karl Christian Führer, Das Fleisch der Republik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910117/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910117</id>
+    <updated>2025-05-04T22:14:27.242967+00:00</updated>
+    <summary>Article by Michael Heinz
+DOI: https://doi.org/10.14361/zwg-2025-910117</summary>
+  </entry>
+  <entry>
+    <title>Wiebke Wiede, Das arbeitslose Subjekt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910118/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910118</id>
+    <updated>2025-05-04T22:14:27.242972+00:00</updated>
+    <summary>Article by Bettina Grimmer
+DOI: https://doi.org/10.14361/zwg-2025-910118</summary>
+  </entry>
+  <entry>
+    <title>Rainer Eckert, Umkämpfte Vergangenheit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zwg-2025-910119/html"/>
+    <id>https://doi.org/10.14361/zwg-2025-910119</id>
+    <updated>2025-05-04T22:14:27.242977+00:00</updated>
+    <summary>Article by Enrico Heitzer
+DOI: https://doi.org/10.14361/zwg-2025-910119</summary>
+  </entry>
+</feed>

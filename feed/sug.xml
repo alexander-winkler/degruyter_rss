@@ -1,58 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Sport und Gesellschaft</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Sport und Gesellschaft</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sug.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-frontmatter2/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Editorial: Anthropologie in der Sportwissenschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2015/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2015</description>
-    </item>
-    <item>
-      <title>Widerfahrnisse des Sports. Zum unausgeschöpften Potenzial der philosophischen Anthropologie für die Sportwissenschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2014/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2014</description>
-    </item>
-    <item>
-      <title>Mündigkeit als Hybris? Über implizite Anthropologie und das Ideal des „mündigen Athleten“</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2010/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2010</description>
-    </item>
-    <item>
-      <title>Sportliche Bewegung zwischen Verhaltens- und Kulturwissenschaft: von Perspektivität, Vorannahmen, Randbedingungen und intertheoretischen Bändern</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2012/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2012</description>
-    </item>
-    <item>
-      <title>Hans Lenk (1985): Die achte Kunst. Leistungssport – Breitensport. Osnabrück: Fromm.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2013/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2013</description>
-    </item>
-    <item>
-      <title>André Bühler und Gerd Nufer (Hrsg.). (2023): Nachhaltigkeitsmanagement in Sport und Kultur. Grundlagen – Anwendungen – Praxisbeispiele. ESV (434 Seiten, 59,95 Euro).</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2011/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2011</description>
-    </item>
-    <item>
-      <title>Sportsoziologie als Krisenwissenschaft. Bericht zur Jahrestagung der dvs-Sektion Sportsoziologie an der TU Darmstadt, 25. – 27. April 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sug-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sug-2024-2009/html</guid>
-      <description>Article by Felix Kühnle, Lorena Franco DOI: https://doi.org/10.1515/sug-2024-2009</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sport und Gesellschaft</title>
+  <link href="https://www.degruyterbrill.com/journal/key/sug/21/3/html"/>
+  <updated>2025-05-04T22:12:48.354551+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sug.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Sport und Gesellschaft</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sug.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/sug-2024-frontmatter3</id>
+    <updated>2025-05-04T22:12:48.354583+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sug-2024-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Jahresinhalt Jg. 21, 2024 / Contents Vol. 21, 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2021/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2021</id>
+    <updated>2025-05-04T22:12:48.354593+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sug-2024-2021</summary>
+  </entry>
+  <entry>
+    <title>Gutachter*innen 2024 / Experts on the Peer Review 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2022/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2022</id>
+    <updated>2025-05-04T22:12:48.354601+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sug-2024-2022</summary>
+  </entry>
+  <entry>
+    <title>Die Angst des Schiris vor dem VAR</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2008/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2008</id>
+    <updated>2025-05-04T22:12:48.354609+00:00</updated>
+    <summary>Article by Charlotte Nell, Diana Lindner, Hartmut Rosa
+DOI: https://doi.org/10.1515/sug-2024-2008</summary>
+  </entry>
+  <entry>
+    <title>Wozucommuniter? Theoretische Überlegungen zum Gemeinsinn im modernen Olympischen Sport</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2016/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2016</id>
+    <updated>2025-05-04T22:12:48.354619+00:00</updated>
+    <summary>Article by Tobias Arenz, David Jaitner
+DOI: https://doi.org/10.1515/sug-2024-2016</summary>
+  </entry>
+  <entry>
+    <title>Soziale Herkunft, Sportengagement und Bildungsaspirationen von Grundschulkindern</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2007/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2007</id>
+    <updated>2025-05-04T22:12:48.354629+00:00</updated>
+    <summary>Article by Sebastian Gehrmann
+DOI: https://doi.org/10.1515/sug-2024-2007</summary>
+  </entry>
+  <entry>
+    <title>Weg aus der Legitimationskrise: Plädoyer für eine Nationale Spitzensportstrategie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2020/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2020</id>
+    <updated>2025-05-04T22:12:48.354637+00:00</updated>
+    <summary>Article by Maximilian Klein
+DOI: https://doi.org/10.1515/sug-2024-2020</summary>
+  </entry>
+  <entry>
+    <title>„Irgendwann bin ich auf die Idee gekommen, mich als Gesellschaftsmechaniker vorzustellen.“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2019/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2019</id>
+    <updated>2025-05-04T22:12:48.354645+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sug-2024-2019</summary>
+  </entry>
+  <entry>
+    <title>Hans Lenk – Olympionike und Philosoph</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2017/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2017</id>
+    <updated>2025-05-04T22:12:48.354652+00:00</updated>
+    <summary>Article by Elk Franke
+DOI: https://doi.org/10.1515/sug-2024-2017</summary>
+  </entry>
+  <entry>
+    <title>Deportes, prácticas democráticas y sociedad: nuevas encrucijadas y desafíos en las tramas regionales. Bericht zumIX. Congreso de la Asociación Latinoamericana de Estudios Socioculturales del Deporte(ALESDE) in La Plata (Argentinien), 5. – 6. September 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sug-2024-2018/html"/>
+    <id>https://doi.org/10.1515/sug-2024-2018</id>
+    <updated>2025-05-04T22:12:48.354662+00:00</updated>
+    <summary>Article by Felix Kühnle
+DOI: https://doi.org/10.1515/sug-2024-2018</summary>
+  </entry>
+</feed>

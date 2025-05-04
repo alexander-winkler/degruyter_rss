@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Psychology</title>
+  <link href="https://www.degruyterbrill.com/journal/key/psych/7/1/html"/>
+  <updated>2025-05-04T22:11:26.770688+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psych.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Open Psychology</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psych.xml" type="application/rss+xml"/>
+  <entry>
+    <title>New Frontier: Positive Economic Psychology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psych-2025-0004/html"/>
+    <id>https://doi.org/10.1515/psych-2025-0004</id>
+    <updated>2025-05-04T22:11:26.770733+00:00</updated>
+    <summary>Article by Rona Hart, Dan Hart
+DOI: https://doi.org/10.1515/psych-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Salutogenic Effects of Greenspace Exposure: An Integrated Biopsychological Perspective on Stress Regulation, Mental and Physical Health in the Urban Population</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/psych-2024-0003/html"/>
+    <id>https://doi.org/10.1515/psych-2024-0003</id>
+    <updated>2025-05-04T22:11:26.770749+00:00</updated>
+    <summary>Article by Suchithra Varadarajan, Marilisa Herchet, Matthias Mack, Mathias Hofmann, Ellen Bisle, Emma Sayer, Iris-Tatjana Kolassa
+DOI: https://doi.org/10.1515/psych-2024-0003</summary>
+  </entry>
+</feed>

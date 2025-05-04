@@ -1,40 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Agricultural &amp; Food Industrial Organization</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Agricultural &amp; Food Industrial Organization</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jafio.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jafio-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jafio-2024-frontmatter2/html</guid>
-      <description>Article by Noé J. Nava, Benjamin D. K. Wood, Rafael Garduño-Rivera DOI: https://doi.org/10.1515/jafio-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Causes and Consequences of Retail Food Price Inflation: Introduction to the Special Issue</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jafio-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jafio-2024-0023/html</guid>
-      <description>Article by Noé J. Nava, Benjamin D. K. Wood, Rafael Garduño-Rivera DOI: https://doi.org/10.1515/jafio-2024-0023</description>
-    </item>
-    <item>
-      <title>Food Price Inflation in the United States as a Complex Dynamic Economic System</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jafio-2023-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jafio-2023-0043/html</guid>
-      <description>Article by Noé J. Nava, Benjamin D. K. Wood, Rafael Garduño-Rivera DOI: https://doi.org/10.1515/jafio-2023-0043</description>
-    </item>
-    <item>
-      <title>Rural-Urban Food Price Inflation Disparities in the United States</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jafio-2023-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jafio-2023-0046/html</guid>
-      <description>Article by Noé J. Nava, Benjamin D. K. Wood, Rafael Garduño-Rivera DOI: https://doi.org/10.1515/jafio-2023-0046</description>
-    </item>
-    <item>
-      <title>Losing Ground: Measuring the Welfare Effects of Retail Food Price Inflation during the COVID-19 Pandemic on Mexican Household</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jafio-2023-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jafio-2023-0041/html</guid>
-      <description>Article by Noé J. Nava, Benjamin D. K. Wood, Rafael Garduño-Rivera DOI: https://doi.org/10.1515/jafio-2023-0041</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Agricultural &amp; Food Industrial Organization</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jafio/22/2/html"/>
+  <updated>2025-05-04T22:07:12.966793+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jafio.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Agricultural &amp; Food Industrial Organization</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jafio.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jafio-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jafio-2024-frontmatter2</id>
+    <updated>2025-05-04T22:07:12.966826+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jafio-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Causes and Consequences of Retail Food Price Inflation: Introduction to the Special Issue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jafio-2024-0023/html"/>
+    <id>https://doi.org/10.1515/jafio-2024-0023</id>
+    <updated>2025-05-04T22:07:12.966836+00:00</updated>
+    <summary>Article by Metin Çakır
+DOI: https://doi.org/10.1515/jafio-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>Food Price Inflation in the United States as a Complex Dynamic Economic System</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jafio-2023-0043/html"/>
+    <id>https://doi.org/10.1515/jafio-2023-0043</id>
+    <updated>2025-05-04T22:07:12.966848+00:00</updated>
+    <summary>Article by Faith Parum, Senarath Dharmasena
+DOI: https://doi.org/10.1515/jafio-2023-0043</summary>
+  </entry>
+  <entry>
+    <title>Rural-Urban Food Price Inflation Disparities in the United States</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jafio-2023-0046/html"/>
+    <id>https://doi.org/10.1515/jafio-2023-0046</id>
+    <updated>2025-05-04T22:07:12.966857+00:00</updated>
+    <summary>Article by Qingxiao Li
+DOI: https://doi.org/10.1515/jafio-2023-0046</summary>
+  </entry>
+  <entry>
+    <title>Losing Ground: Measuring the Welfare Effects of Retail Food Price Inflation during the COVID-19 Pandemic on Mexican Household</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jafio-2023-0041/html"/>
+    <id>https://doi.org/10.1515/jafio-2023-0041</id>
+    <updated>2025-05-04T22:07:12.966867+00:00</updated>
+    <summary>Article by Noé J. Nava, Benjamin D. K. Wood, Rafael Garduño-Rivera
+DOI: https://doi.org/10.1515/jafio-2023-0041</summary>
+  </entry>
+</feed>

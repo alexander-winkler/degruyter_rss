@@ -1,124 +1,180 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Diagnosis</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Diagnosis</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-frontmatter4/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Should APTT become part of thrombophilia screening?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0086/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0086/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0086</description>
-    </item>
-    <item>
-      <title>n-3 fatty acids and the risk of atrial fibrillation, review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0077/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0077/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0077</description>
-    </item>
-    <item>
-      <title>Root cause analysis of cases involving diagnosis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0102/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0102</description>
-    </item>
-    <item>
-      <title>What is diagnostic safety? A review of safety science paradigms and rethinking paths to improving diagnosis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0008/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0008</description>
-    </item>
-    <item>
-      <title>Interprofessional clinical reasoning education</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0059/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0059</description>
-    </item>
-    <item>
-      <title>Quality of heart failure registration in primary care: observations from 1 million electronic health records in the Amsterdam Metropolitan Area</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0009/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0009</description>
-    </item>
-    <item>
-      <title>Typology of solutions addressing diagnostic disparities: gaps and opportunities</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0026/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0026</description>
-    </item>
-    <item>
-      <title>Diagnostic errors and characteristics of patients seen at a general internal medicine outpatient clinic with a referral for diagnosis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0041/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0041</description>
-    </item>
-    <item>
-      <title>Cost-benefit considerations of the biased diagnostician</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0031/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0031</description>
-    </item>
-    <item>
-      <title>Delayed diagnosis of new onset pediatric diabetes leading to diabetic ketoacidosis: a retrospective cohort study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0024/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0024</description>
-    </item>
-    <item>
-      <title>Monocyte distribution width (MDW) kinetic for monitoring sepsis in intensive care unit</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0019/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0019</description>
-    </item>
-    <item>
-      <title>Are shortened aPTT values always to be attributed only to preanalytical problems?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0050/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0050</description>
-    </item>
-    <item>
-      <title>External Quality Assessment (EQA) scheme for serological diagnostic test for SARS-CoV-2 detection in Sicily Region (Italy), in the period 2020–2022</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0048/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0048</description>
-    </item>
-    <item>
-      <title>Recent mortality rates due to complications of medical and surgical care in the US</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0071/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0071/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0071</description>
-    </item>
-    <item>
-      <title>The potential, limitations, and future of diagnostics enhanced by generative artificial intelligence</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0095/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0095/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0095</description>
-    </item>
-    <item>
-      <title>Lessons in clinical reasoning – pitfalls, myths, and pearls: a case of persistent dysphagia and patient partnership</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0061/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0061/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0061</description>
-    </item>
-    <item>
-      <title>The ‘curse of knowledge’: when medical expertise can sometimes be a liability</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0064/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0064/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0064</description>
-    </item>
-    <item>
-      <title>A new approach for identifying innate immune defects</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dx-2024-0107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dx-2024-0107/html</guid>
-      <description>Article by Ludwig Englmeier, Michael H. Sieweke, Jessica Nitsche, Julien Subburayalu DOI: https://doi.org/10.1515/dx-2024-0107</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Diagnosis</title>
+  <link href="https://www.degruyterbrill.com/journal/key/dx/12/1/html"/>
+  <updated>2025-05-04T22:04:49.852164+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Diagnosis</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/dx-2025-frontmatter1</id>
+    <updated>2025-05-04T22:04:49.852181+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dx-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Systematic review and meta-analysis of observational studies evaluating glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCHL1) as blood biomarkers of mild acute traumatic brain injury (mTBI) or sport-related concussion (SRC) in adult subjects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0078/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0078</id>
+    <updated>2025-05-04T22:04:49.852189+00:00</updated>
+    <summary>Article by Paolo Mastandrea, Silvia Mengozzi, Sergio Bernardini
+DOI: https://doi.org/10.1515/dx-2024-0078</summary>
+  </entry>
+  <entry>
+    <title>From stable teamwork to dynamic teaming in the ambulatory care diagnostic process</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0108/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0108</id>
+    <updated>2025-05-04T22:04:49.852197+00:00</updated>
+    <summary>Article by Scott I. Tannenbaum, Eric J. Thomas, Sigall K. Bell, Eduardo Salas
+DOI: https://doi.org/10.1515/dx-2024-0108</summary>
+  </entry>
+  <entry>
+    <title>Bringing team science to the ambulatory diagnostic process: how do patients and clinicians develop shared mental models?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0115/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0115</id>
+    <updated>2025-05-04T22:04:49.852203+00:00</updated>
+    <summary>Article by Aubrey Samost-Williams, Eric J. Thomas, Olivia Lounsbury, Scott I. Tannenbaum, Eduardo Salas, Sigall K. Bell
+DOI: https://doi.org/10.1515/dx-2024-0115</summary>
+  </entry>
+  <entry>
+    <title>Vitamin D assay and supplementation: still debatable issues</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0147/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0147</id>
+    <updated>2025-05-04T22:04:49.852210+00:00</updated>
+    <summary>Article by Mario Plebani, Martina Zaninotto, Sandro Giannini, Stefania Sella, Maria Fusaro, Giovanni Tripepi, Maurizio Gallieni, Markus Herrmann, Mario Cozzolino
+DOI: https://doi.org/10.1515/dx-2024-0147</summary>
+  </entry>
+  <entry>
+    <title>Developing a framework for understanding diagnostic reconciliation based on evidence review, stakeholder engagement, and practice evaluation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0132/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0132</id>
+    <updated>2025-05-04T22:04:49.852217+00:00</updated>
+    <summary>Article by Sandra Algarin Perneth, Gilberto Perez Rodriguez Garcia, Juan P. Brito, Tejal Gandhi, Carma L. Bylund, Ian G. Hargraves, Naykky Singh Ospina
+DOI: https://doi.org/10.1515/dx-2024-0132</summary>
+  </entry>
+  <entry>
+    <title>Validity and reliability of Brier scoring for assessment of probabilistic diagnostic reasoning</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2023-0109/html"/>
+    <id>https://doi.org/10.1515/dx-2023-0109</id>
+    <updated>2025-05-04T22:04:49.852223+00:00</updated>
+    <summary>Article by Nathan Stehouwer, Anastasia Rowland-Seymour, Larry Gruppen, Jeffrey M. Albert, Kelli Qua
+DOI: https://doi.org/10.1515/dx-2023-0109</summary>
+  </entry>
+  <entry>
+    <title>Impact of disclosing a working diagnosis during simulated patient handoff presentation in the emergency department: correctness matters</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0121/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0121</id>
+    <updated>2025-05-04T22:04:49.852229+00:00</updated>
+    <summary>Article by Masayuki Amano, Yukinori Harada, Taro Shimizu
+DOI: https://doi.org/10.1515/dx-2024-0121</summary>
+  </entry>
+  <entry>
+    <title>Implementation of a bundle to improve diagnosis in hospitalized patients: lessons learned</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0099/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0099</id>
+    <updated>2025-05-04T22:04:49.852235+00:00</updated>
+    <summary>Article by Ashwin Gupta, Martha Quinn, M. Todd Greene, Karen E. Fowler, Vineet Chopra
+DOI: https://doi.org/10.1515/dx-2024-0099</summary>
+  </entry>
+  <entry>
+    <title>Time pressure in diagnosing written clinical cases: an experimental study on time constraints and perceived time pressure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0125/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0125</id>
+    <updated>2025-05-04T22:04:49.852241+00:00</updated>
+    <summary>Article by Jacky Hooftman, Andrew P.J. Olson, Casey N. McQuade, Sílvia Mamede, Cordula Wagner, Laura Zwaan
+DOI: https://doi.org/10.1515/dx-2024-0125</summary>
+  </entry>
+  <entry>
+    <title>A decision support system to increase the compliance of diagnostic imaging examinations with imaging guidelines: focused on cerebrovascular diseases</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0072/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0072</id>
+    <updated>2025-05-04T22:04:49.852248+00:00</updated>
+    <summary>Article by Hamid Moghaddasi, Fatemeh Rahimi, Amir Saied Seddighi, Leila Akbarpour, Arash Roshanpoor
+DOI: https://doi.org/10.1515/dx-2024-0072</summary>
+  </entry>
+  <entry>
+    <title>Bridging the divide: addressing discrepancies between clinical guidelines, policy guidelines, and biomarker utilization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0092/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0092</id>
+    <updated>2025-05-04T22:04:49.852254+00:00</updated>
+    <summary>Article by Denis Horgan, Paul Hofman, Reinhard Buttner, Olaf Rieß, Iwona Lugowska, France Dube, Jaya Singh, Ernest Nadal, Tomasz Stokłosa, Elīna Sīviņa, Marc Van der Buckle, Silvia Mosoiu, Luca Bertolaccini, Nicolas Girard, Jan Van Meerbeeck, Imran Omar, Ettore D. Capoluongo, Stefan Bielack, Tanya Hills, David Baldwin, Vivek Subbiah
+DOI: https://doi.org/10.1515/dx-2024-0092</summary>
+  </entry>
+  <entry>
+    <title>Unnecessary repetitions of C-reactive protein and leukocyte count at the emergency department observation unit contribute to higher hospital admission rates</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0139/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0139</id>
+    <updated>2025-05-04T22:04:49.852262+00:00</updated>
+    <summary>Article by Ivan Gornik, Ivana Lapić, Hana Franić, Bojana Radulović, Lea Miklić, Dunja Rogić
+DOI: https://doi.org/10.1515/dx-2024-0139</summary>
+  </entry>
+  <entry>
+    <title>Quality control of ultrasonography markers for Down’s syndrome screening: a retrospective study by the laboratory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2021-0007/html"/>
+    <id>https://doi.org/10.1515/dx-2021-0007</id>
+    <updated>2025-05-04T22:04:49.852272+00:00</updated>
+    <summary>Article by Blanca Badal, Antonieta Ballesteros, Miriam Crespo, Daniel Morell-Garcia, Josep Miquel Bauçà, Maria Pastor, Rosa Ruiz de Gopegui, Inmaculada Martín
+DOI: https://doi.org/10.1515/dx-2021-0007</summary>
+  </entry>
+  <entry>
+    <title>Unclassified green dots on nucleated red blood cells (nRBC) plot in DxH900 from a patient with hyperviscosity syndrome</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0038/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0038</id>
+    <updated>2025-05-04T22:04:49.852278+00:00</updated>
+    <summary>Article by Rafael José García Martínez, José Carlos Garrido Gomez, Enrique María Ocio San Miguel, María Josefa Muruzábal Sitges
+DOI: https://doi.org/10.1515/dx-2024-0038</summary>
+  </entry>
+  <entry>
+    <title>Bayesian intelligence for medical diagnosis: a pilot study on patient disposition for emergency medicine chest pain</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0049/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0049</id>
+    <updated>2025-05-04T22:04:49.852285+00:00</updated>
+    <summary>Article by Mark W. Perlin, Yves-Dany Accilien
+DOI: https://doi.org/10.1515/dx-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>A delayed diagnosis of hyperthyroidism in a patient with persistent vomiting in the presence of Chiari type 1 malformation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0073/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0073</id>
+    <updated>2025-05-04T22:04:49.852291+00:00</updated>
+    <summary>Article by Diana Rodriguez-Hurtado, José Camones-Huerta, Claudia Núñez Mochizaki
+DOI: https://doi.org/10.1515/dx-2024-0073</summary>
+  </entry>
+  <entry>
+    <title>Mpox (monkeypox) diagnostic kits – September 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0145/html"/>
+    <id>https://doi.org/10.1515/dx-2024-0145</id>
+    <updated>2025-05-04T22:04:49.852297+00:00</updated>
+    <summary>Article by Camilla Mattiuzzi, Brandon M. Henry, John G. Rizk, Giuseppe Lippi
+DOI: https://doi.org/10.1515/dx-2024-0145</summary>
+  </entry>
+  <entry>
+    <title>Barriers to diagnostic error reduction in Japan</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2021-0055/html"/>
+    <id>https://doi.org/10.1515/dx-2021-0055</id>
+    <updated>2025-05-04T22:04:49.852302+00:00</updated>
+    <summary>Article by Taku Harada, Taiju Miyagami, Takashi Watari, Teiko Kawahigashi, Yukinori Harada, Kiyoshi Shikino, Taro Shimizu
+DOI: https://doi.org/10.1515/dx-2021-0055</summary>
+  </entry>
+  <entry>
+    <title>Superwarfarin poisoning: a challenging diagnosis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2021-0064/html"/>
+    <id>https://doi.org/10.1515/dx-2021-0064</id>
+    <updated>2025-05-04T22:04:49.852308+00:00</updated>
+    <summary>Article by Mario Pezzo, Marica Orioli, Mauro Pagani, Simone Caiola, Giancarlo Maria Liumbruno, Massimo Franchini
+DOI: https://doi.org/10.1515/dx-2021-0064</summary>
+  </entry>
+  <entry>
+    <title>Reviewer Acknowledgment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-2001/html"/>
+    <id>https://doi.org/10.1515/dx-2024-2001</id>
+    <updated>2025-05-04T22:04:49.852315+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dx-2024-2001</summary>
+  </entry>
+</feed>

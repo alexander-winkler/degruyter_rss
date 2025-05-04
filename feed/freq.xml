@@ -1,88 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Frequenz</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Frequenz</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-frontmatter11-12/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-frontmatter11-12/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-frontmatter11-12</description>
-    </item>
-    <item>
-      <title>Bidirectional triple-band truly incident angle insensitive polarization converter using graphene-based transmissive metasurface for terahertz frequency</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0065/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0065/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0065</description>
-    </item>
-    <item>
-      <title>Wideband circularly polarized reconfigurable metasurface antenna for 5G applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2023-0216/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2023-0216/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2023-0216</description>
-    </item>
-    <item>
-      <title>Wide angle wide band polarization insensitive metamaterial absorber for C, X and Ku band application with hexagonal packaging</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0050/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0050</description>
-    </item>
-    <item>
-      <title>A new technique for improving performance of conventional CRLH resonators using IDC/UISs with enhanced harmonic suppression in balanced dual-band BPFs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2023-0409/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2023-0409/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2023-0409</description>
-    </item>
-    <item>
-      <title>A super-compact wideband bandpass filter using capacitor-loaded coupled lines</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0055/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0055/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0055</description>
-    </item>
-    <item>
-      <title>A novel design of a Wilkinson power divider based on the circular-shape resonator</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0005/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0005</description>
-    </item>
-    <item>
-      <title>Compact circular Wilkinson power divider for wireless applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0034/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0034</description>
-    </item>
-    <item>
-      <title>An AMC-based low-RCS conformal phased array design</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0054/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0054/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0054</description>
-    </item>
-    <item>
-      <title>A wideband folded reflectarray antenna with a 3-D printed circularly polarized converter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0027/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0027</description>
-    </item>
-    <item>
-      <title>Compact and flexible EBG backed ultra-wide band antenna for on-body communications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0025/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0025</description>
-    </item>
-    <item>
-      <title>Designing an ultra-wideband directional antipodal Vivaldi antenna with U-slots for biomedical applications using an optimized attention network</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0063/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0063/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0063</description>
-    </item>
-    <item>
-      <title>Improved tag estimation method for TDMA anticollision protocols using CA-CFAR technique</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/freq-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/freq-2024-0037/html</guid>
-      <description>Article by Abderrahmene Frahtia, Mustapha Benssalah, Abdenour Kifouche, Karim Drouiche DOI: https://doi.org/10.1515/freq-2024-0037</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Frequenz</title>
+  <link href="https://www.degruyterbrill.com/journal/key/freq/79/3-4/html"/>
+  <updated>2025-05-04T22:05:41.419500+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Frequenz</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2025-frontmatter3-4/html"/>
+    <id>https://doi.org/10.1515/freq-2025-frontmatter3-4</id>
+    <updated>2025-05-04T22:05:41.419528+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/freq-2025-frontmatter3-4</summary>
+  </entry>
+  <entry>
+    <title>A wideband tunable quadrature coupler with flat coupling</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0200/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0200</id>
+    <updated>2025-05-04T22:05:41.419537+00:00</updated>
+    <summary>Article by Henning Mextorf, Winfried Schernus
+DOI: https://doi.org/10.1515/freq-2024-0200</summary>
+  </entry>
+  <entry>
+    <title>Small size dual-band coupled-line coupler for WiMAX applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0173/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0173</id>
+    <updated>2025-05-04T22:05:41.419543+00:00</updated>
+    <summary>Article by Samaneh Sedighi Maragheh, Mina Rahimi, Iman Chaharmahali, Massoud Dousti
+DOI: https://doi.org/10.1515/freq-2024-0173</summary>
+  </entry>
+  <entry>
+    <title>A flexible wideband wearable CPW antenna for WBAN application</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0142/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0142</id>
+    <updated>2025-05-04T22:05:41.419547+00:00</updated>
+    <summary>Article by Sapna B. A., Ramasamy K.
+DOI: https://doi.org/10.1515/freq-2024-0142</summary>
+  </entry>
+  <entry>
+    <title>A dual-band dual-mode customer premises equipment antenna</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0224/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0224</id>
+    <updated>2025-05-04T22:05:41.419551+00:00</updated>
+    <summary>Article by Zhu Duan, Cheng-Lu Gao, Feng Wang, Wen Geyi
+DOI: https://doi.org/10.1515/freq-2024-0224</summary>
+  </entry>
+  <entry>
+    <title>A compact multiband frequency reconfigurable antenna integrated with sextuple band artificial magnetic conductor for heterogeneous wireless applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0193/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0193</id>
+    <updated>2025-05-04T22:05:41.419556+00:00</updated>
+    <summary>Article by Vellaichamy Rajavel, Dibyendu Ghoshal
+DOI: https://doi.org/10.1515/freq-2024-0193</summary>
+  </entry>
+  <entry>
+    <title>A wideband reconfigurable filtering phase shifter based on Stub-loaded multimode resonators</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0167/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0167</id>
+    <updated>2025-05-04T22:05:41.419560+00:00</updated>
+    <summary>Article by Qi Wang, Feng Wei, Xue-Zhi Ding, Qi-Wei Li, Jia-Qi Wang, Zeng-Hui Shi, Kai-Xuan Wang
+DOI: https://doi.org/10.1515/freq-2024-0167</summary>
+  </entry>
+  <entry>
+    <title>Balanced tri- and quad-band BPFs based on SIR with improved passbands selectivity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0134/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0134</id>
+    <updated>2025-05-04T22:05:41.419564+00:00</updated>
+    <summary>Article by Jia-Qi Wang, Kai-Xuan Wang, Qi Wang, Feng Wei
+DOI: https://doi.org/10.1515/freq-2024-0134</summary>
+  </entry>
+  <entry>
+    <title>A metasurface with three different configurations for absorption, transmission or reflection of incident electromagnetic waves</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0172/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0172</id>
+    <updated>2025-05-04T22:05:41.419568+00:00</updated>
+    <summary>Article by Sayan Sarkar
+DOI: https://doi.org/10.1515/freq-2024-0172</summary>
+  </entry>
+  <entry>
+    <title>Experimental study on thermal cycling of nano-silver and nano-silver coated tin flip solder joints</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0223/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0223</id>
+    <updated>2025-05-04T22:05:41.419575+00:00</updated>
+    <summary>Article by Hui Yang, Mincong Chen
+DOI: https://doi.org/10.1515/freq-2024-0223</summary>
+  </entry>
+</feed>

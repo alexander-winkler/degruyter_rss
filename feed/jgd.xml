@@ -1,40 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Globalization and Development </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Globalization and Development </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgd.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgd-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2024-frontmatter1/html</guid>
-      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Reforming the IMF Surcharge Rate Policy to Avoid Procyclical Lending</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgd-2024-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2024-0051/html</guid>
-      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2024-0051</description>
-    </item>
-    <item>
-      <title>Grassroots Organizations and Women’s Empowerment in a Post-Conflict Region: Evidence from Women Organizations in Northern Uganda</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgd-2022-0062/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2022-0062/html</guid>
-      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2022-0062</description>
-    </item>
-    <item>
-      <title>Income Inequality and External Wealth of Nations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0042/html</guid>
-      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2023-0042</description>
-    </item>
-    <item>
-      <title>Analyzing the Impact of Informal Labor Sector Regulation in the Context of International Trade: A Theoretical Approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgd-2023-0070/html</guid>
-      <description>Article by Yezid Hernández-Luna DOI: https://doi.org/10.1515/jgd-2023-0070</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Globalization and Development </title>
+  <link href="https://www.degruyterbrill.com/journal/key/jgd/15/2/html"/>
+  <updated>2025-05-04T22:07:54.790591+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgd.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Globalization and Development </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgd.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jgd-2024-frontmatter2</id>
+    <updated>2025-05-04T22:07:54.790631+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jgd-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>An Analysis of the IMF’s International Carbon Price Floor</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2023-0102/html"/>
+    <id>https://doi.org/10.1515/jgd-2023-0102</id>
+    <updated>2025-05-04T22:07:54.790642+00:00</updated>
+    <summary>Article by Xiaobei He, Fan Zhai, Jun Ma
+DOI: https://doi.org/10.1515/jgd-2023-0102</summary>
+  </entry>
+  <entry>
+    <title>India’s Energy and Fiscal Transition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2023-0101/html"/>
+    <id>https://doi.org/10.1515/jgd-2023-0101</id>
+    <updated>2025-05-04T22:07:54.790653+00:00</updated>
+    <summary>Article by Laveesh Bhandari, Aasheerwad Dwivedi
+DOI: https://doi.org/10.1515/jgd-2023-0101</summary>
+  </entry>
+  <entry>
+    <title>Macroeconomic and Fiscal Consequences of Climate Change in Latin America and the Caribbean</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2023-0100/html"/>
+    <id>https://doi.org/10.1515/jgd-2023-0100</id>
+    <updated>2025-05-04T22:07:54.790662+00:00</updated>
+    <summary>Article by Daniel Titelman, Michael Hanni, Noel Pérez Benítez
+DOI: https://doi.org/10.1515/jgd-2023-0100</summary>
+  </entry>
+  <entry>
+    <title>Gaps and Fiscal Adjustment for Debt Stability in Climate-Vulnerable Developing Countries: How Large and by How Much?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2023-0075/html"/>
+    <id>https://doi.org/10.1515/jgd-2023-0075</id>
+    <updated>2025-05-04T22:07:54.790672+00:00</updated>
+    <summary>Article by Toby Melissa Monsod, Justin Matibag Muyot, Maria Socorro Gochoco-Bautista
+DOI: https://doi.org/10.1515/jgd-2023-0075</summary>
+  </entry>
+  <entry>
+    <title>Sovereign Debt and Climate Change in Argentina – The Catalytic Role of the IMF</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2023-0089/html"/>
+    <id>https://doi.org/10.1515/jgd-2023-0089</id>
+    <updated>2025-05-04T22:07:54.790681+00:00</updated>
+    <summary>Article by Juan Pablo Bohoslavsky, Francisco Cantamutto
+DOI: https://doi.org/10.1515/jgd-2023-0089</summary>
+  </entry>
+  <entry>
+    <title>Climate Change Risks and Consequences on Growth and Debt-Sustainability in Africa</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgd-2023-0103/html"/>
+    <id>https://doi.org/10.1515/jgd-2023-0103</id>
+    <updated>2025-05-04T22:07:54.790689+00:00</updated>
+    <summary>Article by John Asafu-Adjaye, Njuguna Ndung’u, Abebe Shimeles
+DOI: https://doi.org/10.1515/jgd-2023-0103</summary>
+  </entry>
+</feed>

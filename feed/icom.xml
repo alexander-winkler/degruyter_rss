@@ -1,106 +1,189 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>i-com</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in i-com</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icom.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-frontmatter2/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>The future of HCI – editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0032/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0032</description>
-    </item>
-    <item>
-      <title>Will the design of the human–product relationship follow user experience?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0003/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0003</description>
-    </item>
-    <item>
-      <title>The future of interactive information radiators for knowledge workers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0006/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0006</description>
-    </item>
-    <item>
-      <title>Exploring the evolving landscape of human-centred crisis informatics: current challenges and future trends</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0002/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0002</description>
-    </item>
-    <item>
-      <title>Broadening the mind: how emerging neurotechnology is reshaping HCI and interactive system design</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0007/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0007</description>
-    </item>
-    <item>
-      <title>Evolution of interaction-free usage in the wake of AI</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0005/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0005</description>
-    </item>
-    <item>
-      <title>Augmented future: tracing the trajectory of location-based augmented reality gaming for the next ten years</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0018/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0018</description>
-    </item>
-    <item>
-      <title>Augmented total theatre: shaping the future of immersive augmented reality representations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0011/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0011</description>
-    </item>
-    <item>
-      <title>Towards new realities: implications of personalized online layers in our daily lives</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0017/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0017</description>
-    </item>
-    <item>
-      <title>The next decade in accessibility research</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0015/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0015</description>
-    </item>
-    <item>
-      <title>The role of digital technologies and Human-Computer Interaction for the future of education</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0008/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0008</description>
-    </item>
-    <item>
-      <title>The European commitment to human-centered technology: the integral role of HCI in the EU AI Act’s success</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0014/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0014</description>
-    </item>
-    <item>
-      <title>From explanations to human-AI co-evolution: charting trajectories towards future user-centric AI</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0020/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0020</description>
-    </item>
-    <item>
-      <title>Social anthropology 4.0</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0016/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0016</description>
-    </item>
-    <item>
-      <title>Fiction meets fact: exploring human-machine convergence in today’s cinematographic culture</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icom-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icom-2024-0012/html</guid>
-      <description>Article by Christoph Endres, Frederic Frieß, Isabella Hermann DOI: https://doi.org/10.1515/icom-2024-0012</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>i-com</title>
+  <link href="https://www.degruyterbrill.com/journal/key/icom/24/1/html"/>
+  <updated>2025-05-04T22:06:27.938161+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icom.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in i-com</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icom.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/icom-2025-frontmatter1</id>
+    <updated>2025-05-04T22:06:27.938186+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/icom-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>The tension of usable safety, security and privacy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2025-0009/html"/>
+    <id>https://doi.org/10.1515/icom-2025-0009</id>
+    <updated>2025-05-04T22:06:27.938193+00:00</updated>
+    <summary>Article by Marc-André Kaufhold, Tilo Mentler, Simon Nestler, Christian Reuter
+DOI: https://doi.org/10.1515/icom-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Keeping the human in the loop: are autonomous decisions inevitable?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0068/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0068</id>
+    <updated>2025-05-04T22:06:27.938201+00:00</updated>
+    <summary>Article by Jonas Pöhler, Nadine Flegel, Tilo Mentler, Kristof Van Laerhoven
+DOI: https://doi.org/10.1515/icom-2024-0068</summary>
+  </entry>
+  <entry>
+    <title>iSAM – towards a cost-efficient and unobtrusive experimental setup for situational awareness measurement in administrative crisis management exercises</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0056/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0056</id>
+    <updated>2025-05-04T22:06:27.938209+00:00</updated>
+    <summary>Article by Tobias Hellmund, Henrik Kayser, Jürgen Moßgraber
+DOI: https://doi.org/10.1515/icom-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Breaking down barriers to warning technology adoption: usability and usefulness of a messenger app warning bot</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0067/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0067</id>
+    <updated>2025-05-04T22:06:27.938218+00:00</updated>
+    <summary>Article by Jasmin Haunschild, Markus Henkel, Christian Reuter
+DOI: https://doi.org/10.1515/icom-2024-0067</summary>
+  </entry>
+  <entry>
+    <title>Use of context-based adaptation to defuse threatening situations in times of a pandemic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0065/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0065</id>
+    <updated>2025-05-04T22:06:27.938224+00:00</updated>
+    <summary>Article by Andrej Sibirski, Dirk Veiel
+DOI: https://doi.org/10.1515/icom-2024-0065</summary>
+  </entry>
+  <entry>
+    <title>Cyber hate awareness: information types and technologies relevant to the law enforcement and reporting center domain</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0062/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0062</id>
+    <updated>2025-05-04T22:06:27.938234+00:00</updated>
+    <summary>Article by Julian Bäumler, Georg Voronin, Marc-André Kaufhold
+DOI: https://doi.org/10.1515/icom-2024-0062</summary>
+  </entry>
+  <entry>
+    <title>From usable design characteristics to usable information security policies: a reconceptualisation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0066/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0066</id>
+    <updated>2025-05-04T22:06:27.938240+00:00</updated>
+    <summary>Article by Dennis Lawo, Gunnar Stevens
+DOI: https://doi.org/10.1515/icom-2024-0066</summary>
+  </entry>
+  <entry>
+    <title>A case study of the MEUSec method to enhance user experience and information security of digital identity wallets</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0057/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0057</id>
+    <updated>2025-05-04T22:06:27.938247+00:00</updated>
+    <summary>Article by Max Sauer, Christoph Becker, Lukas Kneis, Andreas Oberweis, Simon Pfeifer, Akim Stark, Jan Sürmeli
+DOI: https://doi.org/10.1515/icom-2024-0057</summary>
+  </entry>
+  <entry>
+    <title>Evaluating GDPR right to information implementation in automated insurance decisions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0071/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0071</id>
+    <updated>2025-05-04T22:06:27.938262+00:00</updated>
+    <summary>Article by Timo Jakobi, Salih Arslan, Patrick Harms
+DOI: https://doi.org/10.1515/icom-2024-0071</summary>
+  </entry>
+  <entry>
+    <title>Human-centered design of a privacy assistant and its impact on perceived transparency and intervenability</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0064/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0064</id>
+    <updated>2025-05-04T22:06:27.938268+00:00</updated>
+    <summary>Article by Lennart Kiss, Rachelle Sellung
+DOI: https://doi.org/10.1515/icom-2024-0064</summary>
+  </entry>
+  <entry>
+    <title>ChatAnalysis revisited: can ChatGPT undermine privacy in smart homes with data analysis?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0072/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0072</id>
+    <updated>2025-05-04T22:06:27.938277+00:00</updated>
+    <summary>Article by Victor Jüttner, Arthur Fleig, Erik Buchmann
+DOI: https://doi.org/10.1515/icom-2024-0072</summary>
+  </entry>
+  <entry>
+    <title>The tension of usable safety, security and privacy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2025-0009/html"/>
+    <id>https://doi.org/10.1515/icom-2025-0009</id>
+    <updated>2025-05-04T22:06:27.938283+00:00</updated>
+    <summary>Article by Marc-André Kaufhold, Tilo Mentler, Simon Nestler, Christian Reuter
+DOI: https://doi.org/10.1515/icom-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Towards future of work in immersive environments and its impact on the Quality of Working Life: a scoping review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0019/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0019</id>
+    <updated>2025-05-04T22:06:27.938289+00:00</updated>
+    <summary>Article by Thomas Paetow, Johannes Wichmann, Michael Leyer, Marianne Schmolke
+DOI: https://doi.org/10.1515/icom-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>A formative evaluation: co-designing tools to prepare vulnerable young people for participating in technology development</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0040/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0040</id>
+    <updated>2025-05-04T22:06:27.938297+00:00</updated>
+    <summary>Article by Tabea Mildenberger, Marc Schmidt, Isabel Zorn
+DOI: https://doi.org/10.1515/icom-2024-0040</summary>
+  </entry>
+  <entry>
+    <title>AI and robotic systems in healthcare</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2025-0010/html"/>
+    <id>https://doi.org/10.1515/icom-2025-0010</id>
+    <updated>2025-05-04T22:06:27.938303+00:00</updated>
+    <summary>Article by Richard Paluch, Tim Weiler, Marco Eichelberg, Andreas Hein, Alina Huldtgren, Manfred Hülsken-Giesler, Sibylle Meyer, Claudia Müller
+DOI: https://doi.org/10.1515/icom-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>Exploring technical implications and design opportunities for interactive and engaging telepresence robots in rehabilitation – results from an ethnographic requirement analysis with patients and health-care professionals</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0044/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0044</id>
+    <updated>2025-05-04T22:06:27.938311+00:00</updated>
+    <summary>Article by David Unbehaun, Marcel Kirsch, Johannes Schulte-Huermann, Julia Beckmann, Dominik Schulz, Katharina Thiel, Thomas Fritz, Volker Wulf
+DOI: https://doi.org/10.1515/icom-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>Investigating the effects of embodiment on presence and perception in remote physician video consultations: a between-participants study comparing a tablet and a telepresence robot</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0045/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0045</id>
+    <updated>2025-05-04T22:06:27.938318+00:00</updated>
+    <summary>Article by Dominik Schulz, David Unbehaun, Tobias Doernbach
+DOI: https://doi.org/10.1515/icom-2024-0045</summary>
+  </entry>
+  <entry>
+    <title>From idle to interaction – assessing social dynamics and unanticipated conversations between social robots and residents with mild cognitive impairment in a nursing home</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0046/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0046</id>
+    <updated>2025-05-04T22:06:27.938328+00:00</updated>
+    <summary>Article by Mehrbod Manavi, Felix Carros, David Unbehaun, Clemens Eisenmann, Lena Müller, Rainer Wieching, Volker Wulf
+DOI: https://doi.org/10.1515/icom-2024-0046</summary>
+  </entry>
+  <entry>
+    <title>READY? – Reflective dialog tool on issues relating to the use of robotic systems for nursing care</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0043/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0043</id>
+    <updated>2025-05-04T22:06:27.938334+00:00</updated>
+    <summary>Article by Simone Lienenbrink, Jonathan Behrens, Richard Paluch, Claudia Müller, Celia Nieto Agraz, Heidrun Biedermann, Marco Eichelberg, Christa Fricke, Marcus Garthaus, Andreas Hein, Jannik Hoferichter, Sibylle Meyer, Dominic Seefeldt, Manfred Hülsken-Giesler
+DOI: https://doi.org/10.1515/icom-2024-0043</summary>
+  </entry>
+  <entry>
+    <title>AI-based character generation for disease stories: a case study using epidemiological data to highlight preventable risk factors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2024-0041/html"/>
+    <id>https://doi.org/10.1515/icom-2024-0041</id>
+    <updated>2025-05-04T22:06:27.938344+00:00</updated>
+    <summary>Article by Sarah Mittenentzwei, Laura A. Garrison, Beatrice Budich, Kai Lawonn, Alexander Dockhorn, Bernhard Preim, Monique Meuschke
+DOI: https://doi.org/10.1515/icom-2024-0041</summary>
+  </entry>
+  <entry>
+    <title>AI and robotic systems in healthcare</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icom-2025-0010/html"/>
+    <id>https://doi.org/10.1515/icom-2025-0010</id>
+    <updated>2025-05-04T22:06:27.938350+00:00</updated>
+    <summary>Article by Richard Paluch, Tim Weiler, Marco Eichelberg, Andreas Hein, Alina Huldtgren, Manfred Hülsken-Giesler, Sibylle Meyer, Claudia Müller
+DOI: https://doi.org/10.1515/icom-2025-0010</summary>
+  </entry>
+</feed>

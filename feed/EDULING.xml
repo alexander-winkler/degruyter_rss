@@ -1,64 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Educational Linguistics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Educational Linguistics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/EDULING.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2024-frontmatter2/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>A raciolinguistic analysis of the impact of the English Language Proficiency Act on students labeled long-term English learners in Colorado</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0013/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2023-0013</description>
-    </item>
-    <item>
-      <title>Towards equitable multilingualism: promoting transdisciplinary, collaborative dialogue between English as a lingua franca and translingualism</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0012/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2023-0012</description>
-    </item>
-    <item>
-      <title>Hypothetical mistakes: hedging wrong answers with conditional language in initiation-response-evaluation (IRE) sequences in an American high school classroom</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0007/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2023-0007</description>
-    </item>
-    <item>
-      <title>Managing the change of prescriptivism in Hungary: adopting the models of change management to L1 education</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2022-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2022-0019/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2022-0019</description>
-    </item>
-    <item>
-      <title>Universalizing the particulars: neoliberalizing English language teaching (ELT) through outcome-based education (OBE)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2024-0004/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2024-0004</description>
-    </item>
-    <item>
-      <title>Language assessment in EMI: unravelling the implicit-explicit dichotomy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0011/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2023-0011</description>
-    </item>
-    <item>
-      <title>Reimagining educational linguistics: a post-competence perspective</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0009/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2023-0009</description>
-    </item>
-    <item>
-      <title>Anna Krulatz, Georgios Neokleous, and Anne Dahl: Theoretical and applied perspectives on teaching foreign languages in multilingual settings: pedagogical Implications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eduling-2023-0004/html</guid>
-      <description>Article by Ying Yan, Yongyan Zheng DOI: https://doi.org/10.1515/eduling-2023-0004</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Educational Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/eduling/3/2/html"/>
+  <updated>2025-05-04T22:04:59.106817+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eduling.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Educational Linguistics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eduling.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/eduling-2024-frontmatter2</id>
+    <updated>2025-05-04T22:04:59.106854+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/eduling-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>A raciolinguistic analysis of the impact of the English Language Proficiency Act on students labeled long-term English learners in Colorado</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2023-0013/html"/>
+    <id>https://doi.org/10.1515/eduling-2023-0013</id>
+    <updated>2025-05-04T22:04:59.106863+00:00</updated>
+    <summary>Article by Chelsey Klassen, Sofía E. Chaparro
+DOI: https://doi.org/10.1515/eduling-2023-0013</summary>
+  </entry>
+  <entry>
+    <title>Towards equitable multilingualism: promoting transdisciplinary, collaborative dialogue between English as a lingua franca and translingualism</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2023-0012/html"/>
+    <id>https://doi.org/10.1515/eduling-2023-0012</id>
+    <updated>2025-05-04T22:04:59.106873+00:00</updated>
+    <summary>Article by Yumi Matsumoto, Daisuke Kimura
+DOI: https://doi.org/10.1515/eduling-2023-0012</summary>
+  </entry>
+  <entry>
+    <title>Hypothetical mistakes: hedging wrong answers with conditional language in initiation-response-evaluation (IRE) sequences in an American high school classroom</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2023-0007/html"/>
+    <id>https://doi.org/10.1515/eduling-2023-0007</id>
+    <updated>2025-05-04T22:04:59.106883+00:00</updated>
+    <summary>Article by Jessica Sujata Chandras
+DOI: https://doi.org/10.1515/eduling-2023-0007</summary>
+  </entry>
+  <entry>
+    <title>Managing the change of prescriptivism in Hungary: adopting the models of change management to L1 education</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2022-0019/html"/>
+    <id>https://doi.org/10.1515/eduling-2022-0019</id>
+    <updated>2025-05-04T22:04:59.106894+00:00</updated>
+    <summary>Article by Andrea Parapatics
+DOI: https://doi.org/10.1515/eduling-2022-0019</summary>
+  </entry>
+  <entry>
+    <title>Universalizing the particulars: neoliberalizing English language teaching (ELT) through outcome-based education (OBE)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2024-0004/html"/>
+    <id>https://doi.org/10.1515/eduling-2024-0004</id>
+    <updated>2025-05-04T22:04:59.106902+00:00</updated>
+    <summary>Article by Talha Memon, Waqar Ali Shah
+DOI: https://doi.org/10.1515/eduling-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Language assessment in EMI: unravelling the implicit-explicit dichotomy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2023-0011/html"/>
+    <id>https://doi.org/10.1515/eduling-2023-0011</id>
+    <updated>2025-05-04T22:04:59.106910+00:00</updated>
+    <summary>Article by Michela Gronchi
+DOI: https://doi.org/10.1515/eduling-2023-0011</summary>
+  </entry>
+  <entry>
+    <title>Reimagining educational linguistics: a post-competence perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2023-0009/html"/>
+    <id>https://doi.org/10.1515/eduling-2023-0009</id>
+    <updated>2025-05-04T22:04:59.106918+00:00</updated>
+    <summary>Article by Jason Anderson
+DOI: https://doi.org/10.1515/eduling-2023-0009</summary>
+  </entry>
+  <entry>
+    <title>Anna Krulatz, Georgios Neokleous, and Anne Dahl: Theoretical and applied perspectives on teaching foreign languages in multilingual settings: pedagogical Implications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eduling-2023-0004/html"/>
+    <id>https://doi.org/10.1515/eduling-2023-0004</id>
+    <updated>2025-05-04T22:04:59.106926+00:00</updated>
+    <summary>Article by Ying Yan, Yongyan Zheng
+DOI: https://doi.org/10.1515/eduling-2023-0004</summary>
+  </entry>
+</feed>

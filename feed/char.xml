@@ -1,100 +1,125 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Chinese Archaeology</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Chinese Archaeology</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/char.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-frontmatter1/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-frontmatter1</description>
-    </item>
-    <item>
-      <title>The Piluo Paleolithic site in Daocheng, Sichuan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0001/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0001</description>
-    </item>
-    <item>
-      <title>The Huangshan Neolithic site in Nanyang, Henan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0002/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0002</description>
-    </item>
-    <item>
-      <title>The sacrificial area at the Sanxingdui site in Guanghan, Sichuan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0003/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0003</description>
-    </item>
-    <item>
-      <title>The Guozishan Warring States tomb M1 in Zhangshu, Jiangxi</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0004/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0004</description>
-    </item>
-    <item>
-      <title>The 2021 excavation on the Zhengjiahu cemetery in Yunmeng, Hubei</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0005/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0005</description>
-    </item>
-    <item>
-      <title>Tang dynasty Tuyuhun royal tombs in Wuwei, Gansu</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0006/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0006</description>
-    </item>
-    <item>
-      <title>The excavation of M793 at Liujiazhuang North in Yinxu, Anyang, Henan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0007/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0007</description>
-    </item>
-    <item>
-      <title>The 2015–2019 excavation of the bronze foundry site at the Huanbei Shang City in Anyang, Henan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0008/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0008</description>
-    </item>
-    <item>
-      <title>The Lushanmao site and the formation of the Xitu type architectural tradition</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0009/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0009</description>
-    </item>
-    <item>
-      <title>Archaeological observations on agro-pastoralist integration in south-central Inner Mongolia during the Eastern Zhou</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0010/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0010</description>
-    </item>
-    <item>
-      <title>On crescent-shaped objects of the early Bronze Age in southern Siberia and the surrounding areas</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0011/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0011</description>
-    </item>
-    <item>
-      <title>Further discussion on the origins of horse stirrups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0012/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0012</description>
-    </item>
-    <item>
-      <title>Research on the pottery decorations and manufacturing techniques of the Houtaomuga Phase I culture</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0013/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0013</description>
-    </item>
-    <item>
-      <title>Scientific examination and study of the Qijia culture bronze artifacts from Mogou site in Lintan, Gansu</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/char-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/char-2023-0014/html</guid>
-      <description>Article by Lu Wang, Jianjun Mei, Kunlong Chen, Ruilin Mao, Yaopeng Qian, Hui Wang, Yan Xie DOI: https://doi.org/10.1515/char-2023-0014</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chinese Archaeology</title>
+  <link href="https://www.degruyterbrill.com/journal/key/char/24/1/html"/>
+  <updated>2025-05-04T22:03:50.744770+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/char.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Chinese Archaeology</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/char.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/char-2024-frontmatter1</id>
+    <updated>2025-05-04T22:03:50.744792+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Paleolithic site of Xuetang Liangzi in Shiyan, Hubei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0001/html"/>
+    <id>https://doi.org/10.1515/char-2024-0001</id>
+    <updated>2025-05-04T22:03:50.744801+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>Sitai Neolithic site in Shangyi, Hebei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0002/html"/>
+    <id>https://doi.org/10.1515/char-2024-0002</id>
+    <updated>2025-05-04T22:03:50.744805+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Neolithic site of Nanzuo in Qingyang, Gansu</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0003/html"/>
+    <id>https://doi.org/10.1515/char-2024-0003</id>
+    <updated>2025-05-04T22:03:50.744809+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>Shang royal mausoleum area and its surroundings at Yinxu in Anyang, Henan</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0004/html"/>
+    <id>https://doi.org/10.1515/char-2024-0004</id>
+    <updated>2025-05-04T22:03:50.744813+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Bronze Age site at Hebosuo in Kunming, Yunnan</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0005/html"/>
+    <id>https://doi.org/10.1515/char-2024-0005</id>
+    <updated>2025-05-04T22:03:50.744817+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>Xixia Suyukou porcelain kiln site in Helan, Ningxia</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0006/html"/>
+    <id>https://doi.org/10.1515/char-2024-0006</id>
+    <updated>2025-05-04T22:03:50.744821+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Dawenkou culture cemetery at the southern Gangshang site in Tengzhou, Shandong</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0007/html"/>
+    <id>https://doi.org/10.1515/char-2024-0007</id>
+    <updated>2025-05-04T22:03:50.744825+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>The excavation of the Tang tombs of Dai Zhou and his wife in Chang’an District, Xi’an</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0008/html"/>
+    <id>https://doi.org/10.1515/char-2024-0008</id>
+    <updated>2025-05-04T22:03:50.744829+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/char-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>The three grand cultural spheres of the Holocene Eurasian Continent</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0009/html"/>
+    <id>https://doi.org/10.1515/char-2024-0009</id>
+    <updated>2025-05-04T22:03:50.744833+00:00</updated>
+    <summary>Article by Jianye Han
+DOI: https://doi.org/10.1515/char-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>Preliminary discussions on painted pottery in Neolithic China</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0010/html"/>
+    <id>https://doi.org/10.1515/char-2024-0010</id>
+    <updated>2025-05-04T22:03:50.744838+00:00</updated>
+    <summary>Article by Jun He
+DOI: https://doi.org/10.1515/char-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>A comparative study on the jade drilling technology of ancient Mesoamerican civilizations and prehistoric China</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0011/html"/>
+    <id>https://doi.org/10.1515/char-2024-0011</id>
+    <updated>2025-05-04T22:03:50.744843+00:00</updated>
+    <summary>Article by Yadi Wen
+DOI: https://doi.org/10.1515/char-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Seima-Turbino-type bronze spearheads from Xiawanggang in Xichuan and the implications for north-south cultural exchange</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0012/html"/>
+    <id>https://doi.org/10.1515/char-2024-0012</id>
+    <updated>2025-05-04T22:03:50.744848+00:00</updated>
+    <summary>Article by Peng Wang
+DOI: https://doi.org/10.1515/char-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>“Export” of ninth- to tenth-century Chinese bronze mirrors: Shipwreck findings from the Java Sea</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0013/html"/>
+    <id>https://doi.org/10.1515/char-2024-0013</id>
+    <updated>2025-05-04T22:03:50.744853+00:00</updated>
+    <summary>Article by Canping Chen
+DOI: https://doi.org/10.1515/char-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Biological evolutionary insights into the origins of agriculture: Evidence from the origin of rice agriculture</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0014/html"/>
+    <id>https://doi.org/10.1515/char-2024-0014</id>
+    <updated>2025-05-04T22:03:50.744858+00:00</updated>
+    <summary>Article by Zhijun Zhao
+DOI: https://doi.org/10.1515/char-2024-0014</summary>
+  </entry>
+</feed>

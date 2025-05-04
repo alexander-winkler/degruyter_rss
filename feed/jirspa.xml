@@ -1,64 +1,38 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Imagery Research in Sport and Physical Activity</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Imagery Research in Sport and Physical Activity</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jirspa.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Using imagery to foster coping efficacy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0004/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2024-0004</description>
-    </item>
-    <item>
-      <title>Motor imagery as a potential tool to alleviate choking under pressure in sports performance</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0012/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2024-0012</description>
-    </item>
-    <item>
-      <title>Imagery, self-efficacy and chronic pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0014/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2024-0014</description>
-    </item>
-    <item>
-      <title>The gut-brain connection: elevating mental health and performance in sports and physical activity through imagery</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0007/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2024-0007</description>
-    </item>
-    <item>
-      <title>Using imagery for acceptance and wellbeing in sport</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0003/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2024-0003</description>
-    </item>
-    <item>
-      <title>Picture perfect: the science behind mental imagery for peak performance &amp; best practices for mental imagery protocols in sport</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2023-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2023-0027/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2023-0027</description>
-    </item>
-    <item>
-      <title>A wellness application: use of imagery for athletes’ stress reduction and relaxation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2023-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2023-0036/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2023-0036</description>
-    </item>
-    <item>
-      <title>Enhancing athletes’ self-compassion and psychological well-being through imagery</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2023-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2023-0026/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2023-0026</description>
-    </item>
-    <item>
-      <title>Visualizing victory: the role of imagery in empowering athletes battling obsessive-compulsive disorder</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jirspa-2024-0006/html</guid>
-      <description>Article by Sydney Raboin DOI: https://doi.org/10.1515/jirspa-2024-0006</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Imagery Research in Sport and Physical Activity</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jirspa/20/1/html"/>
+  <updated>2025-05-04T22:08:09.408677+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jirspa.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Imagery Research in Sport and Physical Activity</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jirspa.xml" type="application/rss+xml"/>
+  <entry>
+    <title>The role of coaches’ drawing in memorizing tactical soccer scene: a visuospatial abilities moderation analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jirspa-2024-0031/html"/>
+    <id>https://doi.org/10.1515/jirspa-2024-0031</id>
+    <updated>2025-05-04T22:08:09.408721+00:00</updated>
+    <summary>Article by Sabrine Tlili, Bachir Zoudji, Hatem Ben Mahfoudh
+DOI: https://doi.org/10.1515/jirspa-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>The comparison of imagery training and mindfulness meditation training on competitive anxiety and heart rate variability in university athletes: a randomised controlled trial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jirspa-2024-0017/html"/>
+    <id>https://doi.org/10.1515/jirspa-2024-0017</id>
+    <updated>2025-05-04T22:08:09.408737+00:00</updated>
+    <summary>Article by Sasima Pakulanon, Haruthai Petviset
+DOI: https://doi.org/10.1515/jirspa-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Mind to muscle connection: temporal dynamics of concomitant kinesthetic responses during imagery training</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jirspa-2024-0029/html"/>
+    <id>https://doi.org/10.1515/jirspa-2024-0029</id>
+    <updated>2025-05-04T22:08:09.408745+00:00</updated>
+    <summary>Article by Jolly Roy, Cheryl Xavier, Aravind Athrey, Swedha Murali
+DOI: https://doi.org/10.1515/jirspa-2024-0029</summary>
+  </entry>
+</feed>

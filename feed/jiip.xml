@@ -1,101 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Inverse and Ill-posed Problems</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Inverse and Ill-posed Problems</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jiip.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2024-frontmatter5/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>Boundary determination for hybrid imaging from a single measurement</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2019-0083/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2019-0083/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2019-0083</description>
-    </item>
-    <item>
-      <title>The inverse problem of heat conduction in the case of non-uniqueness: A functional identification approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2022-0056/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2022-0056/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2022-0056</description>
-    </item>
-    <item>
-      <title>Well-posedness and Tikhonov regularization of an inverse source problem for a parabolic equation with an integral constraint</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0050/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0050</description>
-    </item>
-    <item>
-      <title>CT image restoration method via total variation and L
-0 smoothing filter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0052/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0052/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0052</description>
-    </item>
-    <item>
-      <title>A weakly inhomogeneous vibrating membrane and the solotone effect in two dimensions</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0061/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0061/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0061</description>
-    </item>
-    <item>
-      <title>A physics-inspired neural network for short-wave radiation parameterization</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0075/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0075/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0075</description>
-    </item>
-    <item>
-      <title>Inverse problem for Sturm–Liouville operator with complex-valued weight and eigenparameter dependent boundary conditions</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0081/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0081/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0081</description>
-    </item>
-    <item>
-      <title>The high-order estimate of the entire function associated with inverse Sturm–Liouville problems</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0082/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0082/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0082</description>
-    </item>
-    <item>
-      <title>Inverse spectral problem for differential pencils with a frozen argument</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0085/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2023-0085/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2023-0085</description>
-    </item>
-    <item>
-      <title>Curious ill-posedness phenomena in the composition of non-compact linear operators in Hilbert spaces</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0007/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2024-0007</description>
-    </item>
-    <item>
-      <title>M. M. Lavrentiev-type systems and reconstructing parameters of viscoelastic media</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0009/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2024-0009</description>
-    </item>
-    <item>
-      <title>Application of locally regularized extremal shift to the problem of realization of a prescribed motion</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0018/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2024-0018</description>
-    </item>
-    <item>
-      <title>The overdetermined Cauchy problem for the hyperbolic Gellerstedt equation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0037/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2024-0037</description>
-    </item>
-    <item>
-      <title>The group behavior analysis of the high-frequency traders based on Mean Field Games approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jiip-2024-0040/html</guid>
-      <description>Article by Lev V. Egorov, Nikolai V. Trusov DOI: https://doi.org/10.1515/jiip-2024-0040</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Inverse and Ill-posed Problems</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jiip/33/2/html"/>
+  <updated>2025-05-04T22:08:06.499125+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jiip.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Inverse and Ill-posed Problems</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jiip.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jiip-2025-frontmatter2</id>
+    <updated>2025-05-04T22:08:06.499165+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jiip-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Local convergence of the error-reduction algorithm for real-valued objects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2019-0021/html"/>
+    <id>https://doi.org/10.1515/jiip-2019-0021</id>
+    <updated>2025-05-04T22:08:06.499175+00:00</updated>
+    <summary>Article by Gi-Ren Liu
+DOI: https://doi.org/10.1515/jiip-2019-0021</summary>
+  </entry>
+  <entry>
+    <title>A rotation total variation regularization for full waveform inversion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2022-0067/html"/>
+    <id>https://doi.org/10.1515/jiip-2022-0067</id>
+    <updated>2025-05-04T22:08:06.499184+00:00</updated>
+    <summary>Article by Faxuan Wu, Qinglong He, Jiangyan Zou, Zexian Liu
+DOI: https://doi.org/10.1515/jiip-2022-0067</summary>
+  </entry>
+  <entry>
+    <title>Stochastic data-driven Bouligand–Landweber method for solving non-smooth inverse problems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0012/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0012</id>
+    <updated>2025-05-04T22:08:06.499204+00:00</updated>
+    <summary>Article by Harshit Bajpai, Gaurav Mittal, Ankik Kumar Giri
+DOI: https://doi.org/10.1515/jiip-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>On determining the fractional exponent of the subdiffusion equation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0019/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0019</id>
+    <updated>2025-05-04T22:08:06.499212+00:00</updated>
+    <summary>Article by Shavkat Alimov, Ravshan Ashurov
+DOI: https://doi.org/10.1515/jiip-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Tow-parameter quasi-boundary value method for a backward abstract time-degenerate fractional parabolic problem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0025/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0025</id>
+    <updated>2025-05-04T22:08:06.499222+00:00</updated>
+    <summary>Article by Khelili Besma, Boussetila Nadjib, Benrabah Abderafik
+DOI: https://doi.org/10.1515/jiip-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Determining both leading coefficient and source in a nonlocal elliptic equation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0059/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0059</id>
+    <updated>2025-05-04T22:08:06.499230+00:00</updated>
+    <summary>Article by Yi-Hsuan Lin
+DOI: https://doi.org/10.1515/jiip-2024-0059</summary>
+  </entry>
+  <entry>
+    <title>Discrete dynamical systems: Inverse problems and related topics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0062/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0062</id>
+    <updated>2025-05-04T22:08:06.499237+00:00</updated>
+    <summary>Article by Alexander Mikhaylov, Victor Mikhaylov
+DOI: https://doi.org/10.1515/jiip-2024-0062</summary>
+  </entry>
+  <entry>
+    <title>Stability estimates for an inverse problem of determining time-dependent coefficients in a system of parabolic equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0063/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0063</id>
+    <updated>2025-05-04T22:08:06.499245+00:00</updated>
+    <summary>Article by Nguyen Van Thang, Nguyen Van Duc
+DOI: https://doi.org/10.1515/jiip-2024-0063</summary>
+  </entry>
+  <entry>
+    <title>Numerical solutions to inverse nodal problems for the Sturm–Liouville operator and their applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0077/html"/>
+    <id>https://doi.org/10.1515/jiip-2024-0077</id>
+    <updated>2025-05-04T22:08:06.499254+00:00</updated>
+    <summary>Article by Yu Ping Wang, Tzong-Mo Tsai, Shahrbanoo Akbarpoor, Chung-Tsun Shieh
+DOI: https://doi.org/10.1515/jiip-2024-0077</summary>
+  </entry>
+  <entry>
+    <title>Revisiting linear machine learning through the perspective of inverse problems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2025-0010/html"/>
+    <id>https://doi.org/10.1515/jiip-2025-0010</id>
+    <updated>2025-05-04T22:08:06.499261+00:00</updated>
+    <summary>Article by Shuang Liu, Sergey Kabanikhin, Sergei Strijhak, Ying-Ao Wang, Ye Zhang
+DOI: https://doi.org/10.1515/jiip-2025-0010</summary>
+  </entry>
+</feed>

@@ -1,365 +1,485 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgk.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-frontmatter1/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>I. Petrus Damiani und die Autorität des kanonischen Rechts (ca. 1050–ca. 1150)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0001/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0001</description>
-    </item>
-    <item>
-      <title>II. Zur Dialektik von Recht und Ritus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0002/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0002</description>
-    </item>
-    <item>
-      <title>III. The Price of Iconoclasm: Liability and the Reparation of Churches in the Work of Petrus Peckius (1529–1589)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0003/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0003</description>
-    </item>
-    <item>
-      <title>IV. Wo sich Mittelalter und Moderne begegnen. Oder: Vom Reiz der Kirchenrechtsgeschichte</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0004/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0004</description>
-    </item>
-    <item>
-      <title>„Die Geburt der Demokratie aus dem Geiste der Religion“ in Preußen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0005/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0005</description>
-    </item>
-    <item>
-      <title>V. „So ist es wahr und wirklich, daß zwei Gewalten von unten aufsteigen zur Obrigkeit, und zwey zurück zum Volke“ – Friedrich Schleiermacher als Vordenker von Repräsentation und Demokratie in Kirche und Staat</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0006/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0006</description>
-    </item>
-    <item>
-      <title>VI. Der deutsche christliche Staat: the Prussian Conservatives’ Model of the People’s Nation during the Vormärz</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0007/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0007</description>
-    </item>
-    <item>
-      <title>VII. ‚Protestantische Freiheit‘ und konservative Repräsentationsmodelle</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0008/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0008</description>
-    </item>
-    <item>
-      <title>VIII. Vereine und Religionsgesellschaften als Formen der Dissidenz: Die konfessionelle und politische Auseinandersetzung um die ‚Lichtfreunde‘</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0009/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0009</description>
-    </item>
-    <item>
-      <title>IX. Ständische Ordnung und neue Partizipationskultur? Motive, Ziele und Strategien auf den preußischen Provinziallandtagen im Vormärz</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0010/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0010</description>
-    </item>
-    <item>
-      <title>X. Das Ringen um die presbyterial-synodale Kirchenordnung im preußischen Westen und die Relevanz demokratischer Gedanken</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0011/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0011</description>
-    </item>
-    <item>
-      <title>XI. Die erste Generalsynode der Evangelischen Landeskirche in Preußen 1846 als protoparlamentarischer Lernort</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0012/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0012</description>
-    </item>
-    <item>
-      <title>XII. „Politische Analogien“. Demokratisches Denken und Nationalrepräsentation auf der Preußischen General-Synode von 1846</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0013/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0013</description>
-    </item>
-    <item>
-      <title>XIII. Der Vereinigte Landtag in Preußen zwischen Verfassungsverlangen und Verteidigung des Status Quo</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0014/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0014</description>
-    </item>
-    <item>
-      <title>Summa Antiquitate et tempore and Pseudo-Rufinus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0015/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0015</description>
-    </item>
-    <item>
-      <title>David L. d’Avray, Papal Jurisprudence, 385–1234</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0016/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0016</description>
-    </item>
-    <item>
-      <title>Brigitte Basdevant-Gaudemet, L’évêque, le prêtre et la paroisse au Moyen Âge, VIe–XIIIe siècle</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0017/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0017</description>
-    </item>
-    <item>
-      <title>Heiko Behrmann, Instrument des Vertrauens in einer unvollkommenen Gesellschaft. Der Eid im politischen Handeln, religiösen Denken und geschichtlichen Selbstverständnis der späten Karolingerzeit</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0018/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0018</description>
-    </item>
-    <item>
-      <title>Anglo-Danish Empire. A Companion to the Reign of King Cnut the GreatGreat, hgg. v. Richard North / Erin Goeres /Alison Finlay</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0019/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0019</description>
-    </item>
-    <item>
-      <title>Rowan Dorin, No Return: Jews, Christian Usurers, and the Spread of Mass Expulsion in Medieval Europe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0020/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0020</description>
-    </item>
-    <item>
-      <title>Philipp N. Spahn, Die Bibel als Norm?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0021/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0021</description>
-    </item>
-    <item>
-      <title>Der Ablassstreit, hg. v. Theodor Dieter/Wolfgang Thönissen, Bd. I/1: Vorgeschichte des Ablassstreits 1095–1517. Kirchliche Verlautbarungen, Recht, Theologie, Liturgie, Predigten, Ablassbriefe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0022/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0022</description>
-    </item>
-    <item>
-      <title>Innocenz III., Honorius III. und ihre Briefe. Die Edition der päpstlichen Kanzleiregister im Kontext der Geschichtsforschung, hg. v. Andrea Sommerlechner/ Herwig Weigl</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0023/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0023</description>
-    </item>
-    <item>
-      <title>Epistolae er Dictamina Clementis Quarti. Das Spezialregister Papst Clemens’ IV. (1265–1268), hg. v. Matthias Thumser</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0024/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0024</description>
-    </item>
-    <item>
-      <title>Sebastian von Birgelen, Die Geschenkpraxis thüringischer Städte im Spätmittelalter (1377–1525). Prestige – symbolische Kommunikation – Reziprozität</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0025/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0025</description>
-    </item>
-    <item>
-      <title>Religious Transformations in New Communities of Interpretation in Europe (1350–1570). Bridging the Historiographical Divides, hg. v. Élise Boillet / Ian Johnson</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0026/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0026</description>
-    </item>
-    <item>
-      <title>Cronica Aule Regie – Die Königsaaler Chronik, hg. von Anna Pumprová /
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zrgk/110/1/html"/>
+  <updated>2025-05-04T22:14:12.668919+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgk.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Kanonistische Abteilung</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgk.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-frontmatter1</id>
+    <updated>2025-05-04T22:14:12.668940+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zrgk-2024-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>I. Petrus Damiani und die Autorität des kanonischen Rechts (ca. 1050–ca. 1150)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0001/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0001</id>
+    <updated>2025-05-04T22:14:12.668946+00:00</updated>
+    <summary>Article by Tatsushi Genka
+DOI: https://doi.org/10.1515/zrgk-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>II. Zur Dialektik von Recht und Ritus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0002/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0002</id>
+    <updated>2025-05-04T22:14:12.668951+00:00</updated>
+    <summary>Article by Hanns Peter Neuheuser
+DOI: https://doi.org/10.1515/zrgk-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>III. The Price of Iconoclasm: Liability and the Reparation of Churches in the Work of Petrus Peckius (1529–1589)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0003/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0003</id>
+    <updated>2025-05-04T22:14:12.668956+00:00</updated>
+    <summary>Article by Ana Luiza Ferreira Gomes Silva
+DOI: https://doi.org/10.1515/zrgk-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>IV. Wo sich Mittelalter und Moderne begegnen. Oder: Vom Reiz der Kirchenrechtsgeschichte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0004/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0004</id>
+    <updated>2025-05-04T22:14:12.668961+00:00</updated>
+    <summary>Article by Stephan Dusil
+DOI: https://doi.org/10.1515/zrgk-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>„Die Geburt der Demokratie aus dem Geiste der Religion“ in Preußen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0005/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0005</id>
+    <updated>2025-05-04T22:14:12.668965+00:00</updated>
+    <summary>Article by Heinrich de Wall
+DOI: https://doi.org/10.1515/zrgk-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>V. „So ist es wahr und wirklich, daß zwei Gewalten von unten aufsteigen zur Obrigkeit, und zwey zurück zum Volke“ – Friedrich Schleiermacher als Vordenker von Repräsentation und Demokratie in Kirche und Staat</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0006/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0006</id>
+    <updated>2025-05-04T22:14:12.668976+00:00</updated>
+    <summary>Article by Arnulf von Scheliha
+DOI: https://doi.org/10.1515/zrgk-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>VI. Der deutsche christliche Staat: the Prussian Conservatives’ Model of the People’s Nation during the Vormärz</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0007/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0007</id>
+    <updated>2025-05-04T22:14:12.668980+00:00</updated>
+    <summary>Article by Doron Avraham
+DOI: https://doi.org/10.1515/zrgk-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>VII. ‚Protestantische Freiheit‘ und konservative Repräsentationsmodelle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0008/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0008</id>
+    <updated>2025-05-04T22:14:12.668984+00:00</updated>
+    <summary>Article by Laura C. Achtelstetter
+DOI: https://doi.org/10.1515/zrgk-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>VIII. Vereine und Religionsgesellschaften als Formen der Dissidenz: Die konfessionelle und politische Auseinandersetzung um die ‚Lichtfreunde‘</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0009/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0009</id>
+    <updated>2025-05-04T22:14:12.668993+00:00</updated>
+    <summary>Article by Thomas Stamm-Kuhlmann
+DOI: https://doi.org/10.1515/zrgk-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>IX. Ständische Ordnung und neue Partizipationskultur? Motive, Ziele und Strategien auf den preußischen Provinziallandtagen im Vormärz</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0010/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0010</id>
+    <updated>2025-05-04T22:14:12.668998+00:00</updated>
+    <summary>Article by Monika Wienfort
+DOI: https://doi.org/10.1515/zrgk-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>X. Das Ringen um die presbyterial-synodale Kirchenordnung im preußischen Westen und die Relevanz demokratischer Gedanken</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0011/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0011</id>
+    <updated>2025-05-04T22:14:12.669002+00:00</updated>
+    <summary>Article by Jürgen Kampmann
+DOI: https://doi.org/10.1515/zrgk-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>XI. Die erste Generalsynode der Evangelischen Landeskirche in Preußen 1846 als protoparlamentarischer Lernort</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0012/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0012</id>
+    <updated>2025-05-04T22:14:12.669007+00:00</updated>
+    <summary>Article by Wolfram Pyta
+DOI: https://doi.org/10.1515/zrgk-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>XII. „Politische Analogien“. Demokratisches Denken und Nationalrepräsentation auf der Preußischen General-Synode von 1846</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0013/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0013</id>
+    <updated>2025-05-04T22:14:12.669011+00:00</updated>
+    <summary>Article by Anselm Schubert
+DOI: https://doi.org/10.1515/zrgk-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>XIII. Der Vereinigte Landtag in Preußen zwischen Verfassungsverlangen und Verteidigung des Status Quo</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0014/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0014</id>
+    <updated>2025-05-04T22:14:12.669015+00:00</updated>
+    <summary>Article by Sebastian Hundt
+DOI: https://doi.org/10.1515/zrgk-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>Summa Antiquitate et tempore and Pseudo-Rufinus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0015/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0015</id>
+    <updated>2025-05-04T22:14:12.669019+00:00</updated>
+    <summary>Article by Tatsushi Genka
+DOI: https://doi.org/10.1515/zrgk-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>David L. d’Avray, Papal Jurisprudence, 385–1234</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0016/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0016</id>
+    <updated>2025-05-04T22:14:12.669023+00:00</updated>
+    <summary>Article by Joaquín Sedano
+DOI: https://doi.org/10.1515/zrgk-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>Brigitte Basdevant-Gaudemet, L’évêque, le prêtre et la paroisse au Moyen Âge, VIe–XIIIesiècle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0017/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0017</id>
+    <updated>2025-05-04T22:14:12.669028+00:00</updated>
+    <summary>Article by Reingard Rauch
+DOI: https://doi.org/10.1515/zrgk-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Heiko Behrmann, Instrument des Vertrauens in einer unvollkommenen Gesellschaft. Der Eid im politischen Handeln, religiösen Denken und geschichtlichen Selbstverständnis der späten Karolingerzeit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0018/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0018</id>
+    <updated>2025-05-04T22:14:12.669032+00:00</updated>
+    <summary>Article by Felix Grollmann
+DOI: https://doi.org/10.1515/zrgk-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>Anglo-Danish Empire. A Companion to the Reign of King Cnut the GreatGreat, hgg. v. Richard North / Erin Goeres /Alison Finlay</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0019/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0019</id>
+    <updated>2025-05-04T22:14:12.669036+00:00</updated>
+    <summary>Article by Helle Vogt
+DOI: https://doi.org/10.1515/zrgk-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Rowan Dorin, No Return: Jews, Christian Usurers, and the Spread of Mass Expulsion in Medieval Europe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0020/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0020</id>
+    <updated>2025-05-04T22:14:12.669040+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Philipp N. Spahn, Die Bibel als Norm?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0021/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0021</id>
+    <updated>2025-05-04T22:14:12.669045+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Der Ablassstreit, hg. v. Theodor Dieter/Wolfgang Thönissen, Bd. I/1: Vorgeschichte des Ablassstreits 1095–1517. Kirchliche Verlautbarungen, Recht, Theologie, Liturgie, Predigten, Ablassbriefe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0022/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0022</id>
+    <updated>2025-05-04T22:14:12.669050+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Innocenz III., Honorius III. und ihre Briefe. Die Edition der päpstlichen Kanzleiregister im Kontext der Geschichtsforschung, hg. v. Andrea Sommerlechner/ Herwig Weigl</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0023/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0023</id>
+    <updated>2025-05-04T22:14:12.669054+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>Epistolae er Dictamina Clementis Quarti. Das Spezialregister Papst Clemens’ IV. (1265–1268), hg. v. Matthias Thumser</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0024/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0024</id>
+    <updated>2025-05-04T22:14:12.669059+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>Sebastian von Birgelen, Die Geschenkpraxis thüringischer Städte im Spätmittelalter (1377–1525). Prestige – symbolische Kommunikation – Reziprozität</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0025/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0025</id>
+    <updated>2025-05-04T22:14:12.669063+00:00</updated>
+    <summary>Article by Thomas Krzenck
+DOI: https://doi.org/10.1515/zrgk-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Religious Transformations in New Communities of Interpretation in Europe (1350–1570). Bridging the Historiographical Divides, hg. v. Élise Boillet / Ian Johnson</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0026/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0026</id>
+    <updated>2025-05-04T22:14:12.669067+00:00</updated>
+    <summary>Article by Thomas Krzenck
+DOI: https://doi.org/10.1515/zrgk-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>Cronica Aule Regie – Die Königsaaler Chronik, hg. von Anna Pumprová /
 Libor Jan unter Mitarbeit von Robert Antonín /Demeter Malat`ák /Libor Švanda / Zdeněk Žalud</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0027/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0027</description>
-    </item>
-    <item>
-      <title>Věnná města českých královen [Die Leibgedingsstädte böhmischer Königinnen], hg. von Eva Semotanová /Josef Žemlička</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0028/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0028</description>
-    </item>
-    <item>
-      <title>Acta Cusana, Quellen zur Lebensgeschichte des Nikolaus von Kues, hg. v. Johannes Helmrath /Thomas Woelki, Bd. III Lieferung 2: 1460 Januar 1 bis Dezember 31</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0029/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0029</description>
-    </item>
-    <item>
-      <title>Alarico Barbagli, Francesco Accolti. Maestro del diritto comune del Quattrocento</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0030/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0030</description>
-    </item>
-    <item>
-      <title>Johannes Ulbricht, Die Rezeption der laesio enormis in den Stadt- und Landrechten. Vertragsgerechtigkeit im Spätmittelalter und der Frühen Neuzeit</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0031/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0031</description>
-    </item>
-    <item>
-      <title>Christoph Strohm, Luther, Melanchthon, Bucer und die reformierte Reformation. Ausgewählte Studien</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0032/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0032</description>
-    </item>
-    <item>
-      <title>Uwe Folwarczny, Lutherische Orthodoxie und konfessioneller Pragmatismus. Kurfürst Joachim Friedrich von Brandenburg zwischen Dynastie, Territorien und Reich</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0033/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0033</description>
-    </item>
-    <item>
-      <title>Reading the Reformations. Theologies, Cultures and Beliefs in an Age of Change, hg. v. Anna French</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0034/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0034</description>
-    </item>
-    <item>
-      <title>Frühneuzeitliches Luthertum. Interdisziplinäre Studien, hg. v. Sascha Salatowsky/Joar Haga, unter Mitarbeit v. Jan-Luca Albrecht</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0035/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0035</description>
-    </item>
-    <item>
-      <title>Sebastian Kusche, Kuradministration, Luthertum und Territorium. Staats- und Kirchenbildung in Kursachsen am Ende des Reformationsjahrhunderts.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0036/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0036</description>
-    </item>
-    <item>
-      <title>Littlejohn, W. Bradford, The Peril and Promise of Christian Liberty: Richard Hooker, the Puritans, and Protestant Political Theology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0037/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0037</description>
-    </item>
-    <item>
-      <title>Protestant Legacies in Nordic Law. The Early Modern Period, hg. von Tarald Rasmussen /Jørn Øyrehagen Sunde</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0038/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0038</description>
-    </item>
-    <item>
-      <title>Martin Luther and the Shaping of the Catholic Tradition, ed. Nelson H. Minnich / Michael Root</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0039/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0039</description>
-    </item>
-    <item>
-      <title>Giovanni Pizzorusso, Propaganda fide, Bd. I: La Congregazione Pontificia e la giurisdizione sulle missioni</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0040/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0040</description>
-    </item>
-    <item>
-      <title>Stephan Dusil, Researching Medieval Canon Law around 1900. The Life and Work of Viktor Wolf Edler von Glanvell (1871–1905)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0041/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0041</description>
-    </item>
-    <item>
-      <title>Neo-Thomism in Action: Law and Society Reshaped by Neo-Scholastic Philosophy, 1880–1960, hg. von Wim Decock / Bart Raymaekers / Peter Heyrman</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0042/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0042</description>
-    </item>
-    <item>
-      <title>Law and the Christian Tradition in Modern Russia, hg. von Paul Valliere/ Randall A. Poole</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0043/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0043</description>
-    </item>
-    <item>
-      <title>Christine Jahn, Bayerische katholische Kirche und Erster Weltkrieg. Der zeitgenössische klerikale Standpunkt in Publikationen und Aufzeichnungen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0044/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0044</description>
-    </item>
-    <item>
-      <title>Christoph Schmiegelt, Die historische Entwicklung der Eheverbote wegen Verwandtschaft und Schwägerschaft vom Reichspersonenstandsgesetz bis zum Eheschließungsgesetz (1875 bis 1998)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0045/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0045</description>
-    </item>
-    <item>
-      <title>Mathias Schmoeckel, Grundfragen des evangelischen Kirchenrechts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0046/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0046</description>
-    </item>
-    <item>
-      <title>Josef Isensee, Hermeneutik. Studien über den Umgang der Jurisprudenz mit Normtexten im Vergleich zur biblischen Theologie und zur Literaturwissenschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0047/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0047</description>
-    </item>
-    <item>
-      <title>Axel Vulpius/Christian Hillgruber, Kommentar zu den Staatskirchenverträgen der neuen Länder</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0048/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0048</description>
-    </item>
-    <item>
-      <title>Axel Vulpius/Christian Hillgruber, Kommentar zu den Staatskirchenverträgen der neuen Länder</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0049/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0049</description>
-    </item>
-    <item>
-      <title>Lukas Cerny, Eine kurze Geschichte der Strafe. Ein historisch-kritischer Beitrag zur Straftheorie</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0050/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0050</description>
-    </item>
-    <item>
-      <title>Nahaufnahmen. Landesgeschichtliche Miniaturen für Enno Bünz zum 60. Geburtstag, hg. v. Alexander Sembdner/Christoph Volkmar</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0051/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0051</description>
-    </item>
-    <item>
-      <title>Lex Rationis Ordinatio. Studi in onore di Patrick Valdrini, a cura di Vincenzo Buonomo/Maria d’Arienzo/Olivier Échappé</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0052/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0052/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0052</description>
-    </item>
-    <item>
-      <title>John Witte jr., Faith, Freedom, and Family. New Studies in Law and Religion, ed..Norman Doe /Gary S. Hauk</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0053/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0053</description>
-    </item>
-    <item>
-      <title>The Oxford Handbook of Early Christian Biblical Interpretation, hg. v. Paul M. Blowers / Peter W. Martens</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0054/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0054/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0054</description>
-    </item>
-    <item>
-      <title>Proceedings of the Fifteenth International Congress of Medieval Canon Law, Paris, 17–23 July 2016, ed. Florence Demoulin-Auzary/Nicolas Laurent-Bonne/Franck Roumy adlaborante Anna Claire Montealegre</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0055/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0055/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0055</description>
-    </item>
-    <item>
-      <title>Neuerscheinungen für ZRG KA 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0056/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0056/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0056</description>
-    </item>
-    <item>
-      <title>Res publica moderna – Die juristische Konstruktion des Staates (Bonn, 18.-19. Mai 2023)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0057/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0057/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0057</description>
-    </item>
-    <item>
-      <title>Von der Weimarer Hochbuchdruckerei zum Böhlau Verlag. Buchdruck und Verlagswesen in Thüringen 1624‒2024, 14.–16. März 2024 in Weimar</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0058/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zrgk-2024-0058/html</guid>
-      <description>Article by Reingard Rauch DOI: https://doi.org/10.1515/zrgk-2024-0058</description>
-    </item>
-  </channel>
-</rss>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0027/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0027</id>
+    <updated>2025-05-04T22:14:12.669072+00:00</updated>
+    <summary>Article by Thomas Krzenck
+DOI: https://doi.org/10.1515/zrgk-2024-0027</summary>
+  </entry>
+  <entry>
+    <title>Věnná města českých královen [Die Leibgedingsstädte böhmischer Königinnen], hg. von Eva Semotanová /Josef Žemlička</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0028/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0028</id>
+    <updated>2025-05-04T22:14:12.669076+00:00</updated>
+    <summary>Article by Thomas Krzenck
+DOI: https://doi.org/10.1515/zrgk-2024-0028</summary>
+  </entry>
+  <entry>
+    <title>Acta Cusana, Quellen zur Lebensgeschichte des Nikolaus von Kues, hg. v. Johannes Helmrath /Thomas Woelki, Bd. III Lieferung 2: 1460 Januar 1 bis Dezember 31</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0029/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0029</id>
+    <updated>2025-05-04T22:14:12.669080+00:00</updated>
+    <summary>Article by Jürgen Miethke
+DOI: https://doi.org/10.1515/zrgk-2024-0029</summary>
+  </entry>
+  <entry>
+    <title>Alarico Barbagli, Francesco Accolti. Maestro del diritto comune del Quattrocento</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0030/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0030</id>
+    <updated>2025-05-04T22:14:12.669084+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0030</summary>
+  </entry>
+  <entry>
+    <title>Johannes Ulbricht, Die Rezeption der laesio enormis in den Stadt- und Landrechten. Vertragsgerechtigkeit im Spätmittelalter und der Frühen Neuzeit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0031/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0031</id>
+    <updated>2025-05-04T22:14:12.669089+00:00</updated>
+    <summary>Article by Felix Grollmann
+DOI: https://doi.org/10.1515/zrgk-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>Christoph Strohm, Luther, Melanchthon, Bucer und die reformierte Reformation. Ausgewählte Studien</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0032/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0032</id>
+    <updated>2025-05-04T22:14:12.669094+00:00</updated>
+    <summary>Article by Robert von Friedeburg
+DOI: https://doi.org/10.1515/zrgk-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Uwe Folwarczny, Lutherische Orthodoxie und konfessioneller Pragmatismus. Kurfürst Joachim Friedrich von Brandenburg zwischen Dynastie, Territorien und Reich</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0033/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0033</id>
+    <updated>2025-05-04T22:14:12.669098+00:00</updated>
+    <summary>Article by Robert von Friedeburg
+DOI: https://doi.org/10.1515/zrgk-2024-0033</summary>
+  </entry>
+  <entry>
+    <title>Reading the Reformations. Theologies, Cultures and Beliefs in an Age of Change, hg. v. Anna French</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0034/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0034</id>
+    <updated>2025-05-04T22:14:12.669102+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0034</summary>
+  </entry>
+  <entry>
+    <title>Frühneuzeitliches Luthertum. Interdisziplinäre Studien, hg. v. Sascha Salatowsky/Joar Haga, unter Mitarbeit v. Jan-Luca Albrecht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0035/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0035</id>
+    <updated>2025-05-04T22:14:12.669106+00:00</updated>
+    <summary>Article by Martin Keßler
+DOI: https://doi.org/10.1515/zrgk-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Sebastian Kusche, Kuradministration, Luthertum und Territorium. Staats- und Kirchenbildung in Kursachsen am Ende des Reformationsjahrhunderts.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0036/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0036</id>
+    <updated>2025-05-04T22:14:12.669110+00:00</updated>
+    <summary>Article by Thomas Krzenck
+DOI: https://doi.org/10.1515/zrgk-2024-0036</summary>
+  </entry>
+  <entry>
+    <title>Littlejohn, W. Bradford, The Peril and Promise of Christian Liberty: Richard Hooker, the Puritans, and Protestant Political Theology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0037/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0037</id>
+    <updated>2025-05-04T22:14:12.669114+00:00</updated>
+    <summary>Article by Markus M. Totzeck
+DOI: https://doi.org/10.1515/zrgk-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>Protestant Legacies in Nordic Law. The Early Modern Period, hg. von Tarald Rasmussen /Jørn Øyrehagen Sunde</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0038/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0038</id>
+    <updated>2025-05-04T22:14:12.669119+00:00</updated>
+    <summary>Article by Helle Vogt
+DOI: https://doi.org/10.1515/zrgk-2024-0038</summary>
+  </entry>
+  <entry>
+    <title>Martin Luther and the Shaping of the Catholic Tradition, ed. Nelson H. Minnich / Michael Root</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0039/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0039</id>
+    <updated>2025-05-04T22:14:12.669123+00:00</updated>
+    <summary>Article by Herman Selderhuis
+DOI: https://doi.org/10.1515/zrgk-2024-0039</summary>
+  </entry>
+  <entry>
+    <title>Giovanni Pizzorusso, Propaganda fide, Bd. I: La Congregazione Pontificia e la giurisdizione sulle missioni</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0040/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0040</id>
+    <updated>2025-05-04T22:14:12.669127+00:00</updated>
+    <summary>Article by Andrea Miccichè
+DOI: https://doi.org/10.1515/zrgk-2024-0040</summary>
+  </entry>
+  <entry>
+    <title>Stephan Dusil, Researching Medieval Canon Law around 1900. The Life and Work of Viktor Wolf Edler von Glanvell (1871–1905)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0041/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0041</id>
+    <updated>2025-05-04T22:14:12.669131+00:00</updated>
+    <summary>Article by Reingard Rauch
+DOI: https://doi.org/10.1515/zrgk-2024-0041</summary>
+  </entry>
+  <entry>
+    <title>Neo-Thomism in Action: Law and Society Reshaped by Neo-Scholastic Philosophy, 1880–1960, hg. von Wim Decock / Bart Raymaekers / Peter Heyrman</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0042/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0042</id>
+    <updated>2025-05-04T22:14:12.669135+00:00</updated>
+    <summary>Article by Thierry Sol
+DOI: https://doi.org/10.1515/zrgk-2024-0042</summary>
+  </entry>
+  <entry>
+    <title>Law and the Christian Tradition in Modern Russia, hg. von Paul Valliere/ Randall A. Poole</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0043/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0043</id>
+    <updated>2025-05-04T22:14:12.669139+00:00</updated>
+    <summary>Article by Caroline von Gall
+DOI: https://doi.org/10.1515/zrgk-2024-0043</summary>
+  </entry>
+  <entry>
+    <title>Christine Jahn, Bayerische katholische Kirche und Erster Weltkrieg. Der zeitgenössische klerikale Standpunkt in Publikationen und Aufzeichnungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0044/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0044</id>
+    <updated>2025-05-04T22:14:12.669144+00:00</updated>
+    <summary>Article by Jonas Neuhoff
+DOI: https://doi.org/10.1515/zrgk-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>Christoph Schmiegelt, Die historische Entwicklung der Eheverbote wegen Verwandtschaft und Schwägerschaft vom Reichspersonenstandsgesetz bis zum Eheschließungsgesetz (1875 bis 1998)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0045/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0045</id>
+    <updated>2025-05-04T22:14:12.669148+00:00</updated>
+    <summary>Article by Matthias Bernhard Haase
+DOI: https://doi.org/10.1515/zrgk-2024-0045</summary>
+  </entry>
+  <entry>
+    <title>Mathias Schmoeckel, Grundfragen des evangelischen Kirchenrechts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0046/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0046</id>
+    <updated>2025-05-04T22:14:12.669153+00:00</updated>
+    <summary>Article by René Pahud de Mortanges
+DOI: https://doi.org/10.1515/zrgk-2024-0046</summary>
+  </entry>
+  <entry>
+    <title>Josef Isensee, Hermeneutik. Studien über den Umgang der Jurisprudenz mit Normtexten im Vergleich zur biblischen Theologie und zur Literaturwissenschaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0047/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0047</id>
+    <updated>2025-05-04T22:14:12.669157+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0047</summary>
+  </entry>
+  <entry>
+    <title>Axel Vulpius/Christian Hillgruber, Kommentar zu den Staatskirchenverträgen der neuen Länder</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0048/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0048</id>
+    <updated>2025-05-04T22:14:12.669163+00:00</updated>
+    <summary>Article by Martin Richter
+DOI: https://doi.org/10.1515/zrgk-2024-0048</summary>
+  </entry>
+  <entry>
+    <title>Axel Vulpius/Christian Hillgruber, Kommentar zu den Staatskirchenverträgen der neuen Länder</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0049/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0049</id>
+    <updated>2025-05-04T22:14:12.669167+00:00</updated>
+    <summary>Article by Hans Seehase
+DOI: https://doi.org/10.1515/zrgk-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>Lukas Cerny, Eine kurze Geschichte der Strafe. Ein historisch-kritischer Beitrag zur Straftheorie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0050/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0050</id>
+    <updated>2025-05-04T22:14:12.669171+00:00</updated>
+    <summary>Article by Mathias Schmoeckel
+DOI: https://doi.org/10.1515/zrgk-2024-0050</summary>
+  </entry>
+  <entry>
+    <title>Nahaufnahmen. Landesgeschichtliche Miniaturen für Enno Bünz zum 60. Geburtstag, hg. v. Alexander Sembdner/Christoph Volkmar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0051/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0051</id>
+    <updated>2025-05-04T22:14:12.669175+00:00</updated>
+    <summary>Article by Thomas Krzenck
+DOI: https://doi.org/10.1515/zrgk-2024-0051</summary>
+  </entry>
+  <entry>
+    <title>Lex Rationis Ordinatio. Studi in onore di Patrick Valdrini, a cura di Vincenzo Buonomo/Maria d’Arienzo/Olivier Échappé</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0052/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0052</id>
+    <updated>2025-05-04T22:14:12.669179+00:00</updated>
+    <summary>Article by Andrea Miccichè
+DOI: https://doi.org/10.1515/zrgk-2024-0052</summary>
+  </entry>
+  <entry>
+    <title>John Witte jr., Faith, Freedom, and Family. New Studies in Law and Religion, ed..Norman Doe /Gary S. Hauk</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0053/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0053</id>
+    <updated>2025-05-04T22:14:12.669183+00:00</updated>
+    <summary>Article by Herman Selderhuis
+DOI: https://doi.org/10.1515/zrgk-2024-0053</summary>
+  </entry>
+  <entry>
+    <title>The Oxford Handbook of Early Christian Biblical Interpretation, hg. v. Paul M. Blowers / Peter W. Martens</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0054/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0054</id>
+    <updated>2025-05-04T22:14:12.669187+00:00</updated>
+    <summary>Article by Julia Beier
+DOI: https://doi.org/10.1515/zrgk-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Proceedings of the Fifteenth International Congress of Medieval Canon Law, Paris, 17–23 July 2016, ed. Florence Demoulin-Auzary/Nicolas Laurent-Bonne/Franck Roumy adlaborante Anna Claire Montealegre</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0055/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0055</id>
+    <updated>2025-05-04T22:14:12.669192+00:00</updated>
+    <summary>Article by Orazio Condorelli
+DOI: https://doi.org/10.1515/zrgk-2024-0055</summary>
+  </entry>
+  <entry>
+    <title>Neuerscheinungen für ZRG KA 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0056/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0056</id>
+    <updated>2025-05-04T22:14:12.669196+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zrgk-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Res publica moderna – Die juristische Konstruktion des Staates (Bonn, 18.-19. Mai 2023)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0057/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0057</id>
+    <updated>2025-05-04T22:14:12.669200+00:00</updated>
+    <summary>Article by Alexander Jansen
+DOI: https://doi.org/10.1515/zrgk-2024-0057</summary>
+  </entry>
+  <entry>
+    <title>Von der Weimarer Hochbuchdruckerei zum Böhlau Verlag. Buchdruck und Verlagswesen in Thüringen 1624‒2024, 14.–16. März 2024 in Weimar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgk-2024-0058/html"/>
+    <id>https://doi.org/10.1515/zrgk-2024-0058</id>
+    <updated>2025-05-04T22:14:12.669204+00:00</updated>
+    <summary>Article by Reingard Rauch
+DOI: https://doi.org/10.1515/zrgk-2024-0058</summary>
+  </entry>
+</feed>

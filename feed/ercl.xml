@@ -1,34 +1,61 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>European Review of Contract Law</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in European Review of Contract Law</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ercl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ercl-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ercl-2024-frontmatter3/html</guid>
-      <description>Article by Fabrizio Esposito, Lucila de Almeida, Antonia Grimolizzi DOI: https://doi.org/10.1515/ercl-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Constitutional Values and Freedom of Contract</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ercl-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ercl-2024-2009/html</guid>
-      <description>Article by Fabrizio Esposito, Lucila de Almeida, Antonia Grimolizzi DOI: https://doi.org/10.1515/ercl-2024-2009</description>
-    </item>
-    <item>
-      <title>Reverse Factoring Schemes and Their Implications for the Fairness of Supply-Chain Relations in the European Union. Current Issues and Potential Solutions from a Comparative Perspective</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ercl-2024-2010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ercl-2024-2010/html</guid>
-      <description>Article by Fabrizio Esposito, Lucila de Almeida, Antonia Grimolizzi DOI: https://doi.org/10.1515/ercl-2024-2010</description>
-    </item>
-    <item>
-      <title>EU Contract Case Law, April–June 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ercl-2024-2011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ercl-2024-2011/html</guid>
-      <description>Article by Fabrizio Esposito, Lucila de Almeida, Antonia Grimolizzi DOI: https://doi.org/10.1515/ercl-2024-2011</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>European Review of Contract Law</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ercl/21/1/html"/>
+  <updated>2025-05-04T22:05:14.784154+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ercl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in European Review of Contract Law</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ercl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ercl-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ercl-2025-frontmatter1</id>
+    <updated>2025-05-04T22:05:14.784187+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ercl-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Editorial 20 Years of European Contract Law Review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ercl-2025-2005/html"/>
+    <id>https://doi.org/10.1515/ercl-2025-2005</id>
+    <updated>2025-05-04T22:05:14.784196+00:00</updated>
+    <summary>Article by Stefan Grundmann, Hugh Collins
+DOI: https://doi.org/10.1515/ercl-2025-2005</summary>
+  </entry>
+  <entry>
+    <title>European Contract Law and Regulation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ercl-2025-2004/html"/>
+    <id>https://doi.org/10.1515/ercl-2025-2004</id>
+    <updated>2025-05-04T22:05:14.784205+00:00</updated>
+    <summary>Article by Stefan Grundmann
+DOI: https://doi.org/10.1515/ercl-2025-2004</summary>
+  </entry>
+  <entry>
+    <title>Reading Consumer Protection in the EU Constitutional Context: What Does ‘Consumer Protection Is Not Absolute’ Mean?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ercl-2025-2001/html"/>
+    <id>https://doi.org/10.1515/ercl-2025-2001</id>
+    <updated>2025-05-04T22:05:14.784217+00:00</updated>
+    <summary>Article by Jie Ouyang
+DOI: https://doi.org/10.1515/ercl-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Culpa in Contrahendoand Due Diligence in M&amp;A Transactions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ercl-2025-2002/html"/>
+    <id>https://doi.org/10.1515/ercl-2025-2002</id>
+    <updated>2025-05-04T22:05:14.784224+00:00</updated>
+    <summary>Article by Georgios Papachristou
+DOI: https://doi.org/10.1515/ercl-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>EU Contract Case Law, July–December 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ercl-2025-2003/html"/>
+    <id>https://doi.org/10.1515/ercl-2025-2003</id>
+    <updated>2025-05-04T22:05:14.784231+00:00</updated>
+    <summary>Article by Fabrizio Esposito, Lucila de Almeida, Filippo Morello
+DOI: https://doi.org/10.1515/ercl-2025-2003</summary>
+  </entry>
+</feed>

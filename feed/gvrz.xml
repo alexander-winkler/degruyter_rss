@@ -1,90 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für das gesamte Verfahrensrecht – GVRZ</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für das gesamte Verfahrensrecht – GVRZ</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gvrz.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Die Politisierung des Verfahrens(rechts) 2.0</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070201/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070201/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070201</description>
-    </item>
-    <item>
-      <title>Die Politisierung des Zivilverfahrens durch strategische Prozessführung</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070202/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070202/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070202</description>
-    </item>
-    <item>
-      <title>Der Richter und sein Lenker</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070203/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070203/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070203</description>
-    </item>
-    <item>
-      <title>Zwischen objektiver Verfassungssicherung und Individualrechtsschutz – Politisierungspotential im Verfassungsbeschwerdeverfahren</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070204/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070204/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070204</description>
-    </item>
-    <item>
-      <title>Der lange Schatten des Unionsrechts auf dem Zivilverfahrensrecht</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070205/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070205/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070205</description>
-    </item>
-    <item>
-      <title>Die Politisierung des Strafverfahrensrechts während des war on drugs</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070206/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070206/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070206</description>
-    </item>
-    <item>
-      <title>Die Abhängigkeit von den Feststellungszielen im Kapitalanleger-Musterverfahren</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070207/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070207/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070207</description>
-    </item>
-    <item>
-      <title>Dokumentation</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070208/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/gvrz-2024-070208/html</guid>
-      <description>Article by 
-
-                Page range: 54-57
-            
- DOI: https://doi.org/10.9785/gvrz-2024-070208</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für das gesamte Verfahrensrecht – GVRZ</title>
+  <link href="https://www.degruyterbrill.com/journal/key/gvrz/8/1/html"/>
+  <updated>2025-05-04T22:06:03.975229+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gvrz.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für das gesamte Verfahrensrecht – GVRZ</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gvrz.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Editorial: Verfahrensrecht und Rechtsstaat</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080101/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080101</id>
+    <updated>2025-05-04T22:06:03.975257+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/gvrz-2025-080101</summary>
+  </entry>
+  <entry>
+    <title>Dokumentation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080108/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080108</id>
+    <updated>2025-05-04T22:06:03.975266+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/gvrz-2025-080108</summary>
+  </entry>
+  <entry>
+    <title>Überlange Kindesunterhaltsverfahren im Lichte der Verfahrensgarantien der Europäischen Menschenrechtskonvention</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080102/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080102</id>
+    <updated>2025-05-04T22:06:03.975273+00:00</updated>
+    <summary>Article by Matthäus Uitz
+DOI: https://doi.org/10.9785/gvrz-2025-080102</summary>
+  </entry>
+  <entry>
+    <title>Die Strukturierung des Prozessstoffs in der digitalen Prozesswelt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080103/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080103</id>
+    <updated>2025-05-04T22:06:03.975283+00:00</updated>
+    <summary>Article by Jürgen vom Stein
+DOI: https://doi.org/10.9785/gvrz-2025-080103</summary>
+  </entry>
+  <entry>
+    <title>Zur Bedeutung der Gewährung rechtlichen Gehörs – „audiatur et altera pars“ als Grundpfeiler des Rechtsstaats im Zivilprozess</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080104/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080104</id>
+    <updated>2025-05-04T22:06:03.975291+00:00</updated>
+    <summary>Article by Anna Leoni Groteclaes
+DOI: https://doi.org/10.9785/gvrz-2025-080104</summary>
+  </entry>
+  <entry>
+    <title>Der Amtsermittlungsgrundsatz als Ausfluss des Rechtsstaatsgebots (?)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080105/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080105</id>
+    <updated>2025-05-04T22:06:03.975299+00:00</updated>
+    <summary>Article by Jennifer Grafe
+DOI: https://doi.org/10.9785/gvrz-2025-080105</summary>
+  </entry>
+  <entry>
+    <title>Neue Güter in der Zwangsvollstreckung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080106/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080106</id>
+    <updated>2025-05-04T22:06:03.975306+00:00</updated>
+    <summary>Article by Jannik Heine
+DOI: https://doi.org/10.9785/gvrz-2025-080106</summary>
+  </entry>
+  <entry>
+    <title>Rechtsstaatliche Vorteile computergestützter Textauswertungen von Gerichtsdaten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/gvrz-2025-080107/html"/>
+    <id>https://doi.org/10.9785/gvrz-2025-080107</id>
+    <updated>2025-05-04T22:06:03.975313+00:00</updated>
+    <summary>Article by Stella Dörenbach
+DOI: https://doi.org/10.9785/gvrz-2025-080107</summary>
+  </entry>
+</feed>

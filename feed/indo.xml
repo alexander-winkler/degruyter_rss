@@ -1,100 +1,132 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Indogermanische Forschungen</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Indogermanische Forschungen</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/indo.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-frontmatter12901/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-frontmatter12901/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-frontmatter12901</description>
-    </item>
-    <item>
-      <title>Contents</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-toc12901/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-toc12901/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-toc12901</description>
-    </item>
-    <item>
-      <title>Rhotic metathesis in Gandhari</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0001/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0001</description>
-    </item>
-    <item>
-      <title>The fronting of back vowels after *j in Slavonic</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0002/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0002</description>
-    </item>
-    <item>
-      <title>On the etymology of Tocharian A śemäl ‘domestic animal’</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0003/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0003</description>
-    </item>
-    <item>
-      <title>‘A man of full-sin’</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0004/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0004</description>
-    </item>
-    <item>
-      <title>Dative subjects in Gothic</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0005/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0005</description>
-    </item>
-    <item>
-      <title>From oath to prohibition</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0006/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0006</description>
-    </item>
-    <item>
-      <title>Khotanese ph‑ &lt; Iranian *θu̯‑</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0007/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0007</description>
-    </item>
-    <item>
-      <title>Evidence for a new pre-Proto-Indo-European sound law *-ē̆m &gt; PIE *-ō̆m</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0008/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0008</description>
-    </item>
-    <item>
-      <title>Celtic in Greek characters and implications for Greek and Celtic phonology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0009/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0009</description>
-    </item>
-    <item>
-      <title>On some cognates of Avestan hakat̰</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0010/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0010</description>
-    </item>
-    <item>
-      <title>The life cycles of counterfactual mood in early Indo-European languages</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0011/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0011</description>
-    </item>
-    <item>
-      <title>A missed regular sound change between Latin and French</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0012/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0012</description>
-    </item>
-    <item>
-      <title>To compound or not to compound?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/if-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/if-2024-0013/html</guid>
-      <description>Article by Oliver Hellwig DOI: https://doi.org/10.1515/if-2024-0013</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Indogermanische Forschungen</title>
+  <link href="https://www.degruyterbrill.com/journal/key/indo/129/1/html"/>
+  <updated>2025-05-04T22:06:32.556351+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/indo.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Indogermanische Forschungen</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/indo.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Contents</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-toc12901/html"/>
+    <id>https://doi.org/10.1515/if-2024-toc12901</id>
+    <updated>2025-05-04T22:06:32.556389+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/if-2024-toc12901</summary>
+  </entry>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-frontmatter12901/html"/>
+    <id>https://doi.org/10.1515/if-2024-frontmatter12901</id>
+    <updated>2025-05-04T22:06:32.556397+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/if-2024-frontmatter12901</summary>
+  </entry>
+  <entry>
+    <title>Rhotic metathesis in Gandhari</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0001/html"/>
+    <id>https://doi.org/10.1515/if-2024-0001</id>
+    <updated>2025-05-04T22:06:32.556408+00:00</updated>
+    <summary>Article by Yasuko Suzuki
+DOI: https://doi.org/10.1515/if-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>The fronting of back vowels after *j in Slavonic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0002/html"/>
+    <id>https://doi.org/10.1515/if-2024-0002</id>
+    <updated>2025-05-04T22:06:32.556417+00:00</updated>
+    <summary>Article by Yūsuke Ōyama
+DOI: https://doi.org/10.1515/if-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>On the etymology of Tocharian A śemäl ‘domestic animal’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0003/html"/>
+    <id>https://doi.org/10.1515/if-2024-0003</id>
+    <updated>2025-05-04T22:06:32.556428+00:00</updated>
+    <summary>Article by Véronique M. Kremmer
+DOI: https://doi.org/10.1515/if-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>‘A man of full-sin’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0004/html"/>
+    <id>https://doi.org/10.1515/if-2024-0004</id>
+    <updated>2025-05-04T22:06:32.556436+00:00</updated>
+    <summary>Article by Jan-Niklas Linnemeier
+DOI: https://doi.org/10.1515/if-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Dative subjects in Gothic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0005/html"/>
+    <id>https://doi.org/10.1515/if-2024-0005</id>
+    <updated>2025-05-04T22:06:32.556446+00:00</updated>
+    <summary>Article by Giacomo Bucci, Jóhanna Barðdal
+DOI: https://doi.org/10.1515/if-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>From oath to prohibition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0006/html"/>
+    <id>https://doi.org/10.1515/if-2024-0006</id>
+    <updated>2025-05-04T22:06:32.556453+00:00</updated>
+    <summary>Article by Julián Víctor Méndez Dosuna
+DOI: https://doi.org/10.1515/if-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Khotanese ph‑ &lt; Iranian *θu̯‑</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0007/html"/>
+    <id>https://doi.org/10.1515/if-2024-0007</id>
+    <updated>2025-05-04T22:06:32.556461+00:00</updated>
+    <summary>Article by Mauro Maggi
+DOI: https://doi.org/10.1515/if-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Evidence for a new pre-Proto-Indo-European sound law *-ē̆m &gt; PIE *-ō̆m</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0008/html"/>
+    <id>https://doi.org/10.1515/if-2024-0008</id>
+    <updated>2025-05-04T22:06:32.556469+00:00</updated>
+    <summary>Article by Alwin Kloekhorst
+DOI: https://doi.org/10.1515/if-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>Celtic in Greek characters and implications for Greek and Celtic phonology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0009/html"/>
+    <id>https://doi.org/10.1515/if-2024-0009</id>
+    <updated>2025-05-04T22:06:32.556477+00:00</updated>
+    <summary>Article by Joseph F. Eska
+DOI: https://doi.org/10.1515/if-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>On some cognates of Avestan hakat̰</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0010/html"/>
+    <id>https://doi.org/10.1515/if-2024-0010</id>
+    <updated>2025-05-04T22:06:32.556485+00:00</updated>
+    <summary>Article by Marco Fattori, Francesca Michetti
+DOI: https://doi.org/10.1515/if-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>The life cycles of counterfactual mood in early Indo-European languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0011/html"/>
+    <id>https://doi.org/10.1515/if-2024-0011</id>
+    <updated>2025-05-04T22:06:32.556492+00:00</updated>
+    <summary>Article by Ezra la Roi
+DOI: https://doi.org/10.1515/if-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>A missed regular sound change between Latin and French</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0012/html"/>
+    <id>https://doi.org/10.1515/if-2024-0012</id>
+    <updated>2025-05-04T22:06:32.556499+00:00</updated>
+    <summary>Article by Clayton G. S. Marr
+DOI: https://doi.org/10.1515/if-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>To compound or not to compound?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/if-2024-0013/html"/>
+    <id>https://doi.org/10.1515/if-2024-0013</id>
+    <updated>2025-05-04T22:06:32.556512+00:00</updated>
+    <summary>Article by Oliver Hellwig
+DOI: https://doi.org/10.1515/if-2024-0013</summary>
+  </entry>
+</feed>

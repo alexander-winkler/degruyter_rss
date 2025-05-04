@@ -1,650 +1,126 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Scandinavian Journal of Pain</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Scandinavian Journal of Pain</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sjpain.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>From pain to relief: Exploring the consistency of exercise-induced hypoalgesia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0024/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0024</description>
-    </item>
-    <item>
-      <title>The Scandinavian Society for the Study of Pain 2022 Postgraduate Course and Annual Scientific (SASP 2022) Meeting 12th to 14th October at Rigshospitalet, Copenhagen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2022-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2022-2001/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2022-2001</description>
-    </item>
-    <item>
-      <title>Comparison of ultrasound-guided continuous erector spinae plane block versus continuous paravertebral block for postoperative analgesia in patients undergoing proximal femur surgeries</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0028/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0028</description>
-    </item>
-    <item>
-      <title>The effect of tourniquet use on postoperative opioid consumption after ankle fracture surgery – a retrospective cohort study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0051/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0051</description>
-    </item>
-    <item>
-      <title>Changes in pain, daily occupations, lifestyle, and health following an occupational therapy lifestyle intervention: a secondary analysis from a feasibility study in patients with chronic high-impact pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0043/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0043</description>
-    </item>
-    <item>
-      <title>Tonic cuff pressure pain sensitivity in chronic pain patients and its relation to self-reported physical activity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0033/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0033</description>
-    </item>
-    <item>
-      <title>Reliability, construct validity, and factorial structure of a Swedish version of the medical outcomes study social support survey (MOS-SSS) in patients with chronic pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0002/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0002</description>
-    </item>
-    <item>
-      <title>Hurdles and potentials when implementing internet-delivered Acceptance and commitment therapy for chronic pain: a retrospective appraisal using the Quality implementation framework</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2022-0139/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2022-0139/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2022-0139</description>
-    </item>
-    <item>
-      <title>Exploring the outcome “days with bothersome pain” and its association with pain intensity, disability, and quality of life</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0049/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0049</description>
-    </item>
-    <item>
-      <title>Fatigue and cognitive fatigability in patients with chronic pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0085/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0085/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0085</description>
-    </item>
-    <item>
-      <title>The Swedish version of the pain self-efficacy questionnaire short form, PSEQ-2SV: Cultural adaptation and psychometric evaluation in a population of patients with musculoskeletal disorders</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0059/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0059</description>
-    </item>
-    <item>
-      <title>Pain coping and catastrophizing in youth with and without cerebral palsy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0062/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0062/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0062</description>
-    </item>
-    <item>
-      <title>Neuropathic pain after surgery – A clinical validation study and assessment of accuracy measures of the 5-item NeuPPS scale</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0072/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0072/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0072</description>
-    </item>
-    <item>
-      <title>Translation, contextual adaptation, and reliability of the Danish Concept of Pain Inventory (COPI-Adult (DK)) – A self-reported outcome measure</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0092/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0092/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0092</description>
-    </item>
-    <item>
-      <title>Cosmetic surgery and associated chronic postsurgical pain: A cross-sectional study from Norway</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0099/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0099/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0099</description>
-    </item>
-    <item>
-      <title>The association of hemodynamic parameters and clinical demographic variables with acute postoperative pain in female oncological breast surgery patients: A retrospective cohort study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0066/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0066/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0066</description>
-    </item>
-    <item>
-      <title>Healthcare professionals’ experiences of interdisciplinary collaboration in pain centres – A qualitative study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0132/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0132/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0132</description>
-    </item>
-    <item>
-      <title>Effects of deep brain stimulation and verbal suggestions on pain in Parkinson’s disease</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0126/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0126/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0126</description>
-    </item>
-    <item>
-      <title>Painful differences between different pain scale assessments: The outcome of assessed pain is a matter of the choices of scale and statistics</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0113/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0113/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0113</description>
-    </item>
-    <item>
-      <title>Prevalence and characteristics of fibromyalgia according to three fibromyalgia diagnostic criteria: A secondary analysis study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0143/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0143/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0143</description>
-    </item>
-    <item>
-      <title>Sex moderates the association between quantitative sensory testing and acute and chronic pain after total knee/hip arthroplasty</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0004/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0004</description>
-    </item>
-    <item>
-      <title>Tramadol-paracetamol for postoperative pain after spine surgery – A randomized, double-blind, placebo-controlled study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0105/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0105/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0105</description>
-    </item>
-    <item>
-      <title>Cancer-related pain experienced in daily life is difficult to communicate and to manage – for patients and for professionals</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0107/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0107</description>
-    </item>
-    <item>
-      <title>Making sense of pain in inflammatory bowel disease (IBD): A qualitative study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0006/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0006</description>
-    </item>
-    <item>
-      <title>Patient-reported pain, satisfaction, adverse effects, and deviations from ambulatory surgery pain medication</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0133/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0133/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0133</description>
-    </item>
-    <item>
-      <title>Does pain influence cognitive performance in patients with mild traumatic brain injury?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0124/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0124/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0124</description>
-    </item>
-    <item>
-      <title>Hypocapnia in women with fibromyalgia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0003/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0003</description>
-    </item>
-    <item>
-      <title>Application of ultrasound-guided thoracic paravertebral block or intercostal nerve block for acute herpes zoster and prevention of post-herpetic neuralgia: A case–control retrospective trial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0030/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0030</description>
-    </item>
-    <item>
-      <title>Translation and examination of construct validity of the Danish version of the Tampa Scale for Kinesiophobia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0022/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0022</description>
-    </item>
-    <item>
-      <title>A positive scratch collapse test in anterior cutaneous nerve entrapment syndrome indicates its neuropathic character</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0026/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0026</description>
-    </item>
-    <item>
-      <title>ADHD-pain: Characteristics of chronic pain and association with muscular dysregulation in adults with ADHD</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0015/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0015</description>
-    </item>
-    <item>
-      <title>The relationship between changes in pain intensity and functional disability in persistent disabling low back pain during a course of cognitive functional therapy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0040/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0040</description>
-    </item>
-    <item>
-      <title>Intrathecal pain treatment for severe pain in patients with terminal cancer: A retrospective analysis of treatment-related complications and side effects</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0041/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0041</description>
-    </item>
-    <item>
-      <title>Psychometric evaluation of the Danish version of the Pain Self-Efficacy Questionnaire in patients with subacute and chronic low back pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0032/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0032</description>
-    </item>
-    <item>
-      <title>Dimensionality, reliability, and validity of the Finnish version of the pain catastrophizing scale in chronic low back pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0034/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0034</description>
-    </item>
-    <item>
-      <title>To speak or not to speak? A secondary data analysis to further explore the context-insensitive avoidance scale</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0039/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0039</description>
-    </item>
-    <item>
-      <title>Pain catastrophizing levels differentiate between common diseases with pain: HIV, fibromyalgia, complex regional pain syndrome, and breast cancer survivors</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0049/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0049</description>
-    </item>
-    <item>
-      <title>Cutaneous nerve biopsy in patients with symptoms of small fiber neuropathy: a retrospective study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0071/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0071/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0071</description>
-    </item>
-    <item>
-      <title>The incidence of post cholecystectomy pain (PCP) syndrome at 12 months following laparoscopic cholecystectomy: a prospective evaluation in 200 patients</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0067/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0067/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0067</description>
-    </item>
-    <item>
-      <title>Associations between psychological flexibility and daily functioning in endometriosis-related pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2022-0157/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2022-0157/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2022-0157</description>
-    </item>
-    <item>
-      <title>Relationship between perfectionism, overactivity, pain severity, and pain interference in individuals with chronic pain: A cross-lagged panel model analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0087/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0087/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0087</description>
-    </item>
-    <item>
-      <title>Access to psychological treatment for chronic cancer-related pain in Sweden</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0074/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0074/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0074</description>
-    </item>
-    <item>
-      <title>Validation of the Danish version of the knowledge and attitudes survey regarding pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0140/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0140/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0140</description>
-    </item>
-    <item>
-      <title>Associations between cognitive test scores and pain tolerance: The Tromsø study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0082/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0082/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0082</description>
-    </item>
-    <item>
-      <title>Healthcare experiences of fibromyalgia patients and their associations with satisfaction and pain relief. A patient survey</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0141/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0141/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0141</description>
-    </item>
-    <item>
-      <title>Video interpretation in a medical spine clinic: A descriptive study of a diverse population and intervention</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0100/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0100/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0100</description>
-    </item>
-    <item>
-      <title>Role of history of traumatic life experiences in current psychosomatic manifestations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0102/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0102</description>
-    </item>
-    <item>
-      <title>Social determinants of health in adults with whiplash associated disorders</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0118/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0118/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0118</description>
-    </item>
-    <item>
-      <title>Which patients with chronic low back pain respond favorably to multidisciplinary rehabilitation? A secondary analysis of a randomized controlled trial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0139/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0139/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0139</description>
-    </item>
-    <item>
-      <title>A preliminary examination of the effects of childhood abuse and resilience on pain and physical functioning in patients with knee osteoarthritis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0122/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0122/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0122</description>
-    </item>
-    <item>
-      <title>Differences in risk factors for flare-ups in patients with lumbar radicular pain may depend on the definition of flare</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0023/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0023</description>
-    </item>
-    <item>
-      <title>Real-world evidence evaluation on consumer experience and prescription journey of diclofenac gel in Sweden</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0147/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0147/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0147</description>
-    </item>
-    <item>
-      <title>Bridging the translational gap: adenosine as a modulator of neuropathic pain in preclinical models and humans</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0048/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0048</description>
-    </item>
-    <item>
-      <title>What do we know about Indigenous Peoples with low back pain around the world? A topical review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0114/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0114/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0114</description>
-    </item>
-    <item>
-      <title>The “future” pain clinician: Competencies needed to provide psychologically informed care</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0017/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0017</description>
-    </item>
-    <item>
-      <title>Pain management for persistent pain post radiotherapy in head and neck cancers: systematic review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0069/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0069/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0069</description>
-    </item>
-    <item>
-      <title>High-frequency, high-intensity transcutaneous electrical nerve stimulation compared with opioids for pain relief after gynecological surgery: a systematic review and meta-analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0068/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0068/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0068</description>
-    </item>
-    <item>
-      <title>Reliability and measurement error of exercise-induced hypoalgesia in pain-free adults and adults with musculoskeletal pain: A systematic review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0104/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0104/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0104</description>
-    </item>
-    <item>
-      <title>Noninvasive transcranial brain stimulation in central post-stroke pain: A systematic review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0130/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0130/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0130</description>
-    </item>
-    <item>
-      <title>Are we missing the opioid consumption in low- and middle-income countries?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0086/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0086/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0086</description>
-    </item>
-    <item>
-      <title>Association between self-reported pain severity and characteristics of United States adults (age ≥50 years) who used opioids</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0076/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0076/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0076</description>
-    </item>
-    <item>
-      <title>Could generative artificial intelligence replace fieldwork in pain research?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0136/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0136/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0136</description>
-    </item>
-    <item>
-      <title>Skin conductance algesimeter is unreliable during sudden perioperative temperature increases</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0106/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0106</description>
-    </item>
-    <item>
-      <title>Confirmatory study of the usefulness of quantum molecular resonance and microdissectomy for the treatment of lumbar radiculopathy in a prospective cohort at 6 months follow-up</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0077/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0077/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0077</description>
-    </item>
-    <item>
-      <title>Pain catastrophizing in the elderly: An experimental pain study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0035/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0035</description>
-    </item>
-    <item>
-      <title>Improving general practice management of patients with chronic musculoskeletal pain: Interdisciplinarity, coherence, and concerns</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0070/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0070</description>
-    </item>
-    <item>
-      <title>Concurrent validity of dynamic bedside quantitative sensory testing paradigms in breast cancer survivors with persistent pain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0093/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0093/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0093</description>
-    </item>
-    <item>
-      <title>Transcranial direct current stimulation is more effective than pregabalin in controlling nociceptive and anxiety-like behaviors in a rat fibromyalgia-like model</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0038/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0038</description>
-    </item>
-    <item>
-      <title>Paradox pain sensitivity using cuff pressure or algometer testing in patients with hemophilia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0128/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0128/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0128</description>
-    </item>
-    <item>
-      <title>Physical activity with person-centered guidance supported by a digital platform or with telephone follow-up for persons with chronic widespread pain: Health economic considerations along a randomized controlled trial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0131/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0131/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0131</description>
-    </item>
-    <item>
-      <title>Measuring pain intensity through physical interaction in an experimental model of cold-induced pain: A method comparison study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0011/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0011</description>
-    </item>
-    <item>
-      <title>Pharmacological treatment of pain in Swedish nursing homes: Prevalence and associations with cognitive impairment and depressive mood</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0007/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0007</description>
-    </item>
-    <item>
-      <title>Neck and shoulder pain and inflammatory biomarkers in plasma among forklift truck operators – A case–control study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0142/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2023-0142/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2023-0142</description>
-    </item>
-    <item>
-      <title>Post cholecystectomy pain syndrome: Letter to Editor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0001/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0001</description>
-    </item>
-    <item>
-      <title>Response to the Letter by Prof Bordoni</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0005/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0005</description>
-    </item>
-    <item>
-      <title>Response – Reliability and measurement error of exercise-induced hypoalgesia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0044/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0044</description>
-    </item>
-    <item>
-      <title>Is the skin conductance algesimeter index influenced by temperature?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0033/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0033</description>
-    </item>
-    <item>
-      <title>Skin conductance algesimeter is unreliable during sudden perioperative temperature increase</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0058/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0058/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0058</description>
-    </item>
-    <item>
-      <title>Corrigendum to “Chronic post-thoracotomy pain after lung cancer surgery: a prospective study of preoperative risk factors”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-0021/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-0021</description>
-    </item>
-    <item>
-      <title>A Significant Voice in Pain Research Björn Gerdle in Memoriam (1953–2024)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-9999/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sjpain-2024-9999/html</guid>
-      <description>Article by 
-Article number: 20249999
- DOI: https://doi.org/10.1515/sjpain-2024-9999</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Scandinavian Journal of Pain</title>
+  <link href="https://www.degruyterbrill.com/journal/key/sjpain/25/1/html"/>
+  <updated>2025-05-04T22:12:26.670604+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sjpain.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Scandinavian Journal of Pain</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sjpain.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Exploring the complexities of chronic pain: The ICEPAIN study on prevalence, lifestyle factors, and quality of life in a general population</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0056/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0056</id>
+    <updated>2025-05-04T22:12:26.670628+00:00</updated>
+    <summary>Article by Thorbjorg Jonsdottir, Sigfridur Inga Karlsdottir, Hafdis Skuladottir, Eva Halapi, Gudmundur Kristjan Oskarsson
+DOI: https://doi.org/10.1515/sjpain-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>The effect of peer group management intervention on chronic pain intensity, number of areas of pain, and pain self-efficacy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0018/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0018</id>
+    <updated>2025-05-04T22:12:26.670637+00:00</updated>
+    <summary>Article by Marjatta Inkeri Reilimo, Markku Sainio, Juha Liira, Marjukka Laurola
+DOI: https://doi.org/10.1515/sjpain-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>Effects of symbolic function on pain experience and vocational outcome in patients with chronic neck pain referred to the evaluation of surgical intervention: 6-year follow-up</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0002/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0002</id>
+    <updated>2025-05-04T22:12:26.670644+00:00</updated>
+    <summary>Article by Hannu Heikkilä, Rolf Asp, Eva Holmlund, Aet Ristmägi
+DOI: https://doi.org/10.1515/sjpain-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Experiences of cross-sectoral collaboration between social security service and healthcare service for patients with chronic pain – a qualitative study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0057/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0057</id>
+    <updated>2025-05-04T22:12:26.670651+00:00</updated>
+    <summary>Article by Maryam Haghshenas, Aslak Steinsbekk, Karen Walseth Hara
+DOI: https://doi.org/10.1515/sjpain-2024-0057</summary>
+  </entry>
+  <entry>
+    <title>Completion of the PainData questionnaire – A qualitative study of patients’ experiences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0048/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0048</id>
+    <updated>2025-05-04T22:12:26.670657+00:00</updated>
+    <summary>Article by Rannvá Apolonia Egholm, Ann Merete Møller, Thordis Thomsen
+DOI: https://doi.org/10.1515/sjpain-2024-0048</summary>
+  </entry>
+  <entry>
+    <title>Association between clinical laboratory indicators and WOMAC scores in Qatar Biobank participants: The impact of testosterone and fibrinogen on pain, stiffness, and functional limitation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0045/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0045</id>
+    <updated>2025-05-04T22:12:26.670663+00:00</updated>
+    <summary>Article by Ovelia Masoud, Linzette Morris, Mohammed Al-Hamdani, Amal Al-Haidose, Atiyeh M. Abdallah
+DOI: https://doi.org/10.1515/sjpain-2024-0045</summary>
+  </entry>
+  <entry>
+    <title>Well-being in pain questionnaire: A novel, reliable, and valid tool for assessment of the personal well-being in individuals with chronic low back pain</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0067/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0067</id>
+    <updated>2025-05-04T22:12:26.670669+00:00</updated>
+    <summary>Article by Jani Mikkonen, Frank Martela, Riikka Holopainen, Kristian Ekström, Liesbet Goubert, Ville Leinonen, Tuomas Selander, Olavi Airaksinen, Randy Neblett
+DOI: https://doi.org/10.1515/sjpain-2024-0067</summary>
+  </entry>
+  <entry>
+    <title>Effectiveness of non-invasive vagus nerve stimulation vs heart rate variability biofeedback interventions for chronic pain conditions: A systematic review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0037/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0037</id>
+    <updated>2025-05-04T22:12:26.670675+00:00</updated>
+    <summary>Article by Katie Pellow, Jackie Harrison, Paul Tucker, Brent Harper
+DOI: https://doi.org/10.1515/sjpain-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>A scoping review of the effectiveness of underwater treadmill exercise in clinical trials of chronic pain</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0051/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0051</id>
+    <updated>2025-05-04T22:12:26.670681+00:00</updated>
+    <summary>Article by Michael Miglietta, Larah Maunder, Piera Rooke, Erin Gorchinsky, Sonia Keshavari, Griffin Douglas, Nicholas Held
+DOI: https://doi.org/10.1515/sjpain-2024-0051</summary>
+  </entry>
+  <entry>
+    <title>Neural networks involved in painful diabetic neuropathy: A systematic review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0069/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0069</id>
+    <updated>2025-05-04T22:12:26.670688+00:00</updated>
+    <summary>Article by Johanne Lundager Axelsen, Ulrich Kirk, Søren Bo Andersen, Juliana Janeiro Schmidt, Maria Beck Gaarde, Christopher Lund Franck, Eelco van Duinkerken, François Pouwer
+DOI: https://doi.org/10.1515/sjpain-2024-0069</summary>
+  </entry>
+  <entry>
+    <title>Knowledge, attitudes, and practices of transcutaneous electrical nerve stimulation in perioperative care: A Swedish web-based survey</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0078/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0078</id>
+    <updated>2025-05-04T22:12:26.670695+00:00</updated>
+    <summary>Article by Salwan Diwan, Alexander Olausson, Paulin Andréll, Axel Wolf, Pether Jildenstål
+DOI: https://doi.org/10.1515/sjpain-2024-0078</summary>
+  </entry>
+  <entry>
+    <title>Stellate ganglion block in disparate treatment-resistant mental health disorders: A case series</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0071/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-0071</id>
+    <updated>2025-05-04T22:12:26.670703+00:00</updated>
+    <summary>Article by G. Niraj, V. Karanth, S. Niraj, N. Charan
+DOI: https://doi.org/10.1515/sjpain-2024-0071</summary>
+  </entry>
+  <entry>
+    <title>Letter to the Editor For: “Stellate ganglion block in disparate treatment-resistant mental health disorders: A case series”</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2025-0014/html"/>
+    <id>https://doi.org/10.1515/sjpain-2025-0014</id>
+    <updated>2025-05-04T22:12:26.670709+00:00</updated>
+    <summary>Article by Eugene Lipov, Kevin Marmo
+DOI: https://doi.org/10.1515/sjpain-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>Corrigendum to “Patient characteristics in relation to opioid exposure in a chronic non-cancer pain population”</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-9997/html"/>
+    <id>https://doi.org/10.1515/sjpain-2024-9997</id>
+    <updated>2025-05-04T22:12:26.670716+00:00</updated>
+    <summary>Article by Henrik Grelz, Ulf Jakobsson, Patrik Midlöv, Marcelo Rivano Fischer, Åsa Ringqvist
+DOI: https://doi.org/10.1515/sjpain-2024-9997</summary>
+  </entry>
+</feed>

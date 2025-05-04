@@ -1,110 +1,114 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>UbG - Die Unternehmensbesteuerung</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in UbG - Die Unternehmensbesteuerung</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ubg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-frontmatter1710/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-frontmatter1710/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-frontmatter1710</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-toc1710/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-toc1710/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-toc1710</description>
-    </item>
-    <item>
-      <title>Anmerkungen zum Diskussionsentwurf eines Mindeststeueranpassungsgesetzes</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171001/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171001</description>
-    </item>
-    <item>
-      <title>Pillar 2 und M&amp;A – Neue Herausforderungen durch die globale Mindestbesteuerung</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171002/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171002</description>
-    </item>
-    <item>
-      <title>Anwendung des Abgeltungsteuerregimes auf Gewinne aus der Veräußerung bzw. Rückzahlung von Gesellschafterfremdfinanzierungen</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171003/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171003</description>
-    </item>
-    <item>
-      <title>Funktionsverlagerung bei Prinzipalstrukturen — Zugleich Besprechung des Urteils Niedersächsischen FG vom 3.8.2023 – 10 K 117/20</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171004/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171004</description>
-    </item>
-    <item>
-      <title>Die Kostenaufschlagsmethode bei der Konzernfinanzierung und beim Cash-Pooling</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171005/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171005</description>
-    </item>
-    <item>
-      <title>Erweiterte gewerbesteuerliche Kürzung bei unterjähriger Veräußerung des letzten Grundstücks und anschließender Liquidation der Kapitalgesellschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171006/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171006</description>
-    </item>
-    <item>
-      <title>Aufwärtsabfärbung bei lediglich verrechenbaren Verlusten gem. § 15a EStG</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171007/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171007</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ubg-2024-171008/html</guid>
-      <description>Article by 
-
-                Page range: r3-r6
-            
- DOI: https://doi.org/10.9785/ubg-2024-171008</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>UbG - Die Unternehmensbesteuerung</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ubg/18/4/html"/>
+  <updated>2025-05-04T22:13:08.911804+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ubg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in UbG - Die Unternehmensbesteuerung</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ubg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-frontmatter1804/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-frontmatter1804</id>
+    <updated>2025-05-04T22:13:08.911822+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ubg-2025-frontmatter1804</summary>
+  </entry>
+  <entry>
+    <title>Otto Schmidt Answers – Ihre KI im Unternehmensteuerrecht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180401/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180401</id>
+    <updated>2025-05-04T22:13:08.911828+00:00</updated>
+    <summary>Article by Felix Hey Verleger
+DOI: https://doi.org/10.9785/ubg-2025-180401</summary>
+  </entry>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-toc1804/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-toc1804</id>
+    <updated>2025-05-04T22:13:08.911833+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ubg-2025-toc1804</summary>
+  </entry>
+  <entry>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180402/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180402</id>
+    <updated>2025-05-04T22:13:08.911837+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ubg-2025-180402</summary>
+  </entry>
+  <entry>
+    <title>Das ist der Größte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180410/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180410</id>
+    <updated>2025-05-04T22:13:08.911841+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ubg-2025-180410</summary>
+  </entry>
+  <entry>
+    <title>Grundfragen der Ermittlung und Anwendung ausländischen Rechts im Rahmen inländischer Steuertatbestände</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180403/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180403</id>
+    <updated>2025-05-04T22:13:08.911844+00:00</updated>
+    <summary>Article by Florian Haase
+DOI: https://doi.org/10.9785/ubg-2025-180403</summary>
+  </entry>
+  <entry>
+    <title>Steuerliche Änderungen für Investmentfonds durch das Zweite Zukunftsfinanzierungsgesetz</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180404/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180404</id>
+    <updated>2025-05-04T22:13:08.911848+00:00</updated>
+    <summary>Article by Christian Sotta, Tobias Kröger
+DOI: https://doi.org/10.9785/ubg-2025-180404</summary>
+  </entry>
+  <entry>
+    <title>Erneute Änderung der einfachen Grundbesitzkürzung — Erfüllt sie nunmehr ihren Zweck?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180405/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180405</id>
+    <updated>2025-05-04T22:13:08.911853+00:00</updated>
+    <summary>Article by Hendrik Hübner, Steven Letzner
+DOI: https://doi.org/10.9785/ubg-2025-180405</summary>
+  </entry>
+  <entry>
+    <title>Die Relevanz von Rechnungslegungsinformationen für die Bewertung von Unternehmen der Digitalwirtschaft – Teil 1 — Analyse und Vergleich gängiger Bewertungsmethoden</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180406/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180406</id>
+    <updated>2025-05-04T22:13:08.911857+00:00</updated>
+    <summary>Article by Jonas Rohde
+DOI: https://doi.org/10.9785/ubg-2025-180406</summary>
+  </entry>
+  <entry>
+    <title>Die Geschäftsstrategie bei der Konzernfinanzierung im Schwerpunkt des Crowdfundings – Family, Friends &amp; Fools?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180407/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180407</id>
+    <updated>2025-05-04T22:13:08.911870+00:00</updated>
+    <summary>Article by Stefan Eymann
+DOI: https://doi.org/10.9785/ubg-2025-180407</summary>
+  </entry>
+  <entry>
+    <title>Anwendung des § 6a GrEStG auf Anteilsübertragungen im Ausland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180408/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180408</id>
+    <updated>2025-05-04T22:13:08.911873+00:00</updated>
+    <summary>Article by Christoph Schmidt, Stephan Peters, Julian Solowjeff
+DOI: https://doi.org/10.9785/ubg-2025-180408</summary>
+  </entry>
+  <entry>
+    <title>Anwendung des § 6a GrEStG auf Anteilsübertragungen im Ausland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180408/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180408</id>
+    <updated>2025-05-04T22:13:08.911877+00:00</updated>
+    <summary>Article by Christoph Schmidt, Stephan Peters, Julian Solowjeff
+DOI: https://doi.org/10.9785/ubg-2025-180408</summary>
+  </entry>
+  <entry>
+    <title>Kraft, Steuerliche Problembereiche von Familienstiftungen als Träger unternehmerischen Vermögens</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ubg-2025-180409/html"/>
+    <id>https://doi.org/10.9785/ubg-2025-180409</id>
+    <updated>2025-05-04T22:13:08.911881+00:00</updated>
+    <summary>Article by Heinz Kußmaul
+DOI: https://doi.org/10.9785/ubg-2025-180409</summary>
+  </entry>
+</feed>

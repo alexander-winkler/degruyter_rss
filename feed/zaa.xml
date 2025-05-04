@@ -1,88 +1,124 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Anglistik und Amerikanistik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Anglistik und Amerikanistik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-frontmatter2/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2007/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2007</description>
-    </item>
-    <item>
-      <title>The Aesthetics and Politics of Psychotherapy: Literary, Cultural, and Media Perspectives on ‘Healing the Soul’</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2008/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2008</description>
-    </item>
-    <item>
-      <title>Psychoanalytic Psychotherapy and the Aesthetics of Serial Narration in The Sopranos (1999–2007)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2009/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2009</description>
-    </item>
-    <item>
-      <title>The Danger of Counter-Transference and Need for Patient Voice in A. M. Homes’s In a Country of Mothers (1993) and Lidia Yuknavitch’s Dora: A Headcase (2012): “Story It”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2010/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2010</description>
-    </item>
-    <item>
-      <title>Towards a Poetics of Trauma and Healing: Hanya Yanagihara’s A Little Life (2015) and Helen Macdonald’s H Is for Hawk (2014)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2011/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2011</description>
-    </item>
-    <item>
-      <title>Theatre and Communal Movement as Forms of Trauma Therapy in Gregory Burke’s Black Watch (2007)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2012/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2012</description>
-    </item>
-    <item>
-      <title>Therapy-as-Theatre: Porosity and Circulations of Feeling in Branden Jacobs-Jenkins’s An Octoroon (2014) and Duncan Macmillan’s Every Brilliant Thing (2013)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2013/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2013</description>
-    </item>
-    <item>
-      <title>Stefanie Schäfer: Yankee Yarns: Storytelling and the Invention of the National Body in Nineteenth-Century American Culture</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2002/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2002</description>
-    </item>
-    <item>
-      <title>Marzia Milazzo: Colorblind Tools: Global Technologies of Racial Power.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2003/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2003</description>
-    </item>
-    <item>
-      <title>Julia Leyda: Anthroposcreens: Mediating the Climate Unconscious</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2004/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2004</description>
-    </item>
-    <item>
-      <title>Alexandra Hartmann: The Black Humanist Tradition in Anti-Racist Literature: A Fragile Hope</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2005/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2005</description>
-    </item>
-    <item>
-      <title>Barbara Buchenau, Jens Martin Gurr, and Maria Sulimma: City Scripts: Narratives of Postindustrial Urban Futures</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zaa-2024-2006/html</guid>
-      <description>Article by Meeria Vesala DOI: https://doi.org/10.1515/zaa-2024-2006</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Anglistik und Amerikanistik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zaa/73/1/html"/>
+  <updated>2025-05-04T22:13:21.290834+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Anglistik und Amerikanistik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-frontmatter1</id>
+    <updated>2025-05-04T22:13:21.290863+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zaa-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2001/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2001</id>
+    <updated>2025-05-04T22:13:21.290874+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zaa-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Editorial Note</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2002/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2002</id>
+    <updated>2025-05-04T22:13:21.290882+00:00</updated>
+    <summary>Article by James Dowthwaite
+DOI: https://doi.org/10.1515/zaa-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Decadence and Euphuism: Walter Pater, John Lyly, and ‘New English’ Style</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2003/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2003</id>
+    <updated>2025-05-04T22:13:21.290893+00:00</updated>
+    <summary>Article by Giles Whiteley, Cecilia Lindskog Whiteley
+DOI: https://doi.org/10.1515/zaa-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>Revisiting the Decadence of Edward Gibbon’sThe History of the Decline and Fall of the Roman Empire(1776–1787)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2004/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2004</id>
+    <updated>2025-05-04T22:13:21.290902+00:00</updated>
+    <summary>Article by James Dowthwaite
+DOI: https://doi.org/10.1515/zaa-2025-2004</summary>
+  </entry>
+  <entry>
+    <title>“All Things Go to Decay”: Decadence in the Early Journals of Ralph Waldo Emerson</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2005/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2005</id>
+    <updated>2025-05-04T22:13:21.290911+00:00</updated>
+    <summary>Article by Tim Clarke
+DOI: https://doi.org/10.1515/zaa-2025-2005</summary>
+  </entry>
+  <entry>
+    <title>“Tired Hedonists” in Los Angeles: F. Scott Fitzgerald’sLast Tycoon</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2006/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2006</id>
+    <updated>2025-05-04T22:13:21.290919+00:00</updated>
+    <summary>Article by Kate Hext
+DOI: https://doi.org/10.1515/zaa-2025-2006</summary>
+  </entry>
+  <entry>
+    <title>Decadent Artwork in the Sixties Counterculture MagazinesInternational TimesandOz</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2007/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2007</id>
+    <updated>2025-05-04T22:13:21.290927+00:00</updated>
+    <summary>Article by Oliver Bock
+DOI: https://doi.org/10.1515/zaa-2025-2007</summary>
+  </entry>
+  <entry>
+    <title>“Good Things Don’t Last Forever”: A Dalliance with Disco?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2008/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2008</id>
+    <updated>2025-05-04T22:13:21.290936+00:00</updated>
+    <summary>Article by William D. J. Rees
+DOI: https://doi.org/10.1515/zaa-2025-2008</summary>
+  </entry>
+  <entry>
+    <title>Decadence Today: Volutes, Unfurling Flowers, and Decolonial Excesses in Shola von Reinhold’sLOTEand Thuy On’sDecadence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2009/html"/>
+    <id>https://doi.org/10.1515/zaa-2025-2009</id>
+    <updated>2025-05-04T22:13:21.290947+00:00</updated>
+    <summary>Article by Cherrie Kwok
+DOI: https://doi.org/10.1515/zaa-2025-2009</summary>
+  </entry>
+  <entry>
+    <title>Willie van Peer and Anna Chesnokova:Experiencing Poetry: A Guidebook to Psychopoetics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2031/html"/>
+    <id>https://doi.org/10.1515/zaa-2024-2031</id>
+    <updated>2025-05-04T22:13:21.290959+00:00</updated>
+    <summary>Article by Prof. Dr. Peter Wenzel
+DOI: https://doi.org/10.1515/zaa-2024-2031</summary>
+  </entry>
+  <entry>
+    <title>Franziska Quabeck:Not I – Kazuo Ishiguro and the Politics of Misrecognition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2033/html"/>
+    <id>https://doi.org/10.1515/zaa-2024-2033</id>
+    <updated>2025-05-04T22:13:21.290968+00:00</updated>
+    <summary>Article by Leonie Unkel
+DOI: https://doi.org/10.1515/zaa-2024-2033</summary>
+  </entry>
+  <entry>
+    <title>Irmtraud Huber:Time and Timelessness in Victorian Poetry</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2032/html"/>
+    <id>https://doi.org/10.1515/zaa-2024-2032</id>
+    <updated>2025-05-04T22:13:21.290976+00:00</updated>
+    <summary>Article by Tanja Kapp
+DOI: https://doi.org/10.1515/zaa-2024-2032</summary>
+  </entry>
+  <entry>
+    <title>Stefanie Mueller:The Corporation in the Nineteenth-Century American Imagination</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2030/html"/>
+    <id>https://doi.org/10.1515/zaa-2024-2030</id>
+    <updated>2025-05-04T22:13:21.290984+00:00</updated>
+    <summary>Article by James Dorson
+DOI: https://doi.org/10.1515/zaa-2024-2030</summary>
+  </entry>
+</feed>

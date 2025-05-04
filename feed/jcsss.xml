@@ -1,64 +1,83 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of the Canadian Society for Syriac Studies</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of the Canadian Society for Syriac Studies</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcsss.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-frontmatter2301/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-frontmatter2301/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-frontmatter2301</description>
-    </item>
-    <item>
-      <title>Table of Contents</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230101/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230101</description>
-    </item>
-    <item>
-      <title>FROM THE EDITOR</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230102/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230102</description>
-    </item>
-    <item>
-      <title>A SYRIAC NARRATIVE CONCERNING THE 107 PYTHAGOREAN PHILOSOPHERS AND TRUE SILENCE</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230103/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230103/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230103</description>
-    </item>
-    <item>
-      <title>THE SYRIAC ORTHODOX PATRIARCHAL ARCHIVES: TREASURES OF HISTORY AND CULTURE</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230104/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230104/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230104</description>
-    </item>
-    <item>
-      <title>A LOOK AT ONE OF THE FIRST ARMENIAN PLAYS IN IRAN</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230105/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230105/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230105</description>
-    </item>
-    <item>
-      <title>CALENDAR, POPULAR MEDICAL PRESCRIPTIONS AND TREATMENTS, AND THE ZODIAC CIRCLES</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230106/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230106</description>
-    </item>
-    <item>
-      <title>THE PAGE LAYOUT OF A SYRIAC FRAGMENT: BL ADD. MANUSCRIPT 17.216 - ff. 2-14</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230107/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230107</description>
-    </item>
-    <item>
-      <title>THE MONGOL INVASIONS OF NORTH MESOPOTAMIA A TRANSLATION AND ANALYSIS OF GEWARGIS Warda's ON KARAMLISH</title>
-      <link>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230108/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.31826/jcsss-2023-230108/html</guid>
-      <description>Article by James Toma DOI: https://doi.org/10.31826/jcsss-2023-230108</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of the Canadian Society for Syriac Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jcsss/23/1/html"/>
+  <updated>2025-05-04T22:07:44.506295+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcsss.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of the Canadian Society for Syriac Studies</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcsss.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Table of Contents</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230101/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230101</id>
+    <updated>2025-05-04T22:07:44.506328+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jcsss-2023-230101</summary>
+  </entry>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-frontmatter2301/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-frontmatter2301</id>
+    <updated>2025-05-04T22:07:44.506338+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jcsss-2023-frontmatter2301</summary>
+  </entry>
+  <entry>
+    <title>FROM THE EDITOR</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230102/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230102</id>
+    <updated>2025-05-04T22:07:44.506347+00:00</updated>
+    <summary>DOI: https://doi.org/10.31826/jcsss-2023-230102</summary>
+  </entry>
+  <entry>
+    <title>A SYRIAC NARRATIVE CONCERNING THE 107 PYTHAGOREAN PHILOSOPHERS AND TRUE SILENCE</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230103/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230103</id>
+    <updated>2025-05-04T22:07:44.506354+00:00</updated>
+    <summary>Article by Sebastian Brock
+DOI: https://doi.org/10.31826/jcsss-2023-230103</summary>
+  </entry>
+  <entry>
+    <title>THE SYRIAC ORTHODOX PATRIARCHAL ARCHIVES: TREASURES OF HISTORY AND CULTURE</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230104/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230104</id>
+    <updated>2025-05-04T22:07:44.506363+00:00</updated>
+    <summary>Article by Khalid Dinno
+DOI: https://doi.org/10.31826/jcsss-2023-230104</summary>
+  </entry>
+  <entry>
+    <title>A LOOK AT ONE OF THE FIRST ARMENIAN PLAYS IN IRAN</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230105/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230105</id>
+    <updated>2025-05-04T22:07:44.506376+00:00</updated>
+    <summary>Article by Duman Riyazi
+DOI: https://doi.org/10.31826/jcsss-2023-230105</summary>
+  </entry>
+  <entry>
+    <title>CALENDAR, POPULAR MEDICAL PRESCRIPTIONS AND TREATMENTS, AND THE ZODIAC CIRCLES</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230106/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230106</id>
+    <updated>2025-05-04T22:07:44.506383+00:00</updated>
+    <summary>Article by Amir Harrak
+DOI: https://doi.org/10.31826/jcsss-2023-230106</summary>
+  </entry>
+  <entry>
+    <title>THE PAGE LAYOUT OF A SYRIAC FRAGMENT: BL ADD. MANUSCRIPT 17.216 - ff. 2-14</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230107/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230107</id>
+    <updated>2025-05-04T22:07:44.506391+00:00</updated>
+    <summary>Article by Rita Sawaya
+DOI: https://doi.org/10.31826/jcsss-2023-230107</summary>
+  </entry>
+  <entry>
+    <title>THE MONGOL INVASIONS OF NORTH MESOPOTAMIA A TRANSLATION AND ANALYSIS OF GEWARGIS Warda's ON KARAMLISH</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.31826/jcsss-2023-230108/html"/>
+    <id>https://doi.org/10.31826/jcsss-2023-230108</id>
+    <updated>2025-05-04T22:07:44.506398+00:00</updated>
+    <summary>Article by James Toma
+DOI: https://doi.org/10.31826/jcsss-2023-230108</summary>
+  </entry>
+</feed>

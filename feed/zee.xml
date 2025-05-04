@@ -1,130 +1,105 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Evangelische Ethik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Evangelische Ethik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zee.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>INHALTSVERZEICHNIS</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-toc6804/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-toc6804/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-toc6804</description>
-    </item>
-    <item>
-      <title>Einleitung</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680401/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680401/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680401</description>
-    </item>
-    <item>
-      <title>Nachruf auf Jürgen Moltmann</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680402/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680402/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680402</description>
-    </item>
-    <item>
-      <title>Immer noch in der »Identitätsfalle«?</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680403/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680403/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680403</description>
-    </item>
-    <item>
-      <title>Religion als Ort globaler Gerechtigkeit</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680404/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680404/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680404</description>
-    </item>
-    <item>
-      <title>Erratisch und unberechenbar?</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680405/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680405/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680405</description>
-    </item>
-    <item>
-      <title>Zur Bedeutung von struktureller Verantwortung in den Internationalen Beziehungen</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680406/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680406/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680406</description>
-    </item>
-    <item>
-      <title>Frieden für die Ukraine?!</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680407/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680407/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680407</description>
-    </item>
-    <item>
-      <title>Technische Innovationen und ethische Begleitung</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680408/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680408/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680408</description>
-    </item>
-    <item>
-      <title>Hermann Ringeling</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680409/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680409/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680409</description>
-    </item>
-    <item>
-      <title>Rezensionen</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680410/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680410/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680410</description>
-    </item>
-    <item>
-      <title>Autor*innen</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/zee-2024-680411/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/zee-2024-680411/html</guid>
-      <description>Article by 
-
-                Page range: 320-326
-            
- DOI: https://doi.org/10.14315/zee-2024-680411</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Evangelische Ethik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zee/69/2/html"/>
+  <updated>2025-05-04T22:13:30.521729+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zee.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Evangelische Ethik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zee.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-frontmatter6902/html"/>
+    <id>https://doi.org/10.14315/zee-2025-frontmatter6902</id>
+    <updated>2025-05-04T22:13:30.521753+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/zee-2025-frontmatter6902</summary>
+  </entry>
+  <entry>
+    <title>INHALTSVERZEICHNIS</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-toc6902/html"/>
+    <id>https://doi.org/10.14315/zee-2025-toc6902</id>
+    <updated>2025-05-04T22:13:30.521761+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/zee-2025-toc6902</summary>
+  </entry>
+  <entry>
+    <title>Einleitung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690201/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690201</id>
+    <updated>2025-05-04T22:13:30.521767+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/zee-2025-690201</summary>
+  </entry>
+  <entry>
+    <title>Rezensionen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690209/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690209</id>
+    <updated>2025-05-04T22:13:30.521773+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/zee-2025-690209</summary>
+  </entry>
+  <entry>
+    <title>Autor*innen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690210/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690210</id>
+    <updated>2025-05-04T22:13:30.521779+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/zee-2025-690210</summary>
+  </entry>
+  <entry>
+    <title>I am not a Robot!</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690202/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690202</id>
+    <updated>2025-05-04T22:13:30.521784+00:00</updated>
+    <summary>Article by Ulrich H. J. Körtner
+DOI: https://doi.org/10.14315/zee-2025-690202</summary>
+  </entry>
+  <entry>
+    <title>»Seh’ die Zukunft pink.«</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690203/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690203</id>
+    <updated>2025-05-04T22:13:30.521792+00:00</updated>
+    <summary>Article by Florian Höhne
+DOI: https://doi.org/10.14315/zee-2025-690203</summary>
+  </entry>
+  <entry>
+    <title>Zur Enthemmung der digitalen Öffentlichkeit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690204/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690204</id>
+    <updated>2025-05-04T22:13:30.521799+00:00</updated>
+    <summary>Article by Lukas Kaelin
+DOI: https://doi.org/10.14315/zee-2025-690204</summary>
+  </entry>
+  <entry>
+    <title>Eine Frage der Verantwortung: Zur Diskussion über die gesetzliche Regelung von Lootboxen in Videospielen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690205/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690205</id>
+    <updated>2025-05-04T22:13:30.521805+00:00</updated>
+    <summary>Article by Max Tretter, Robin Anstötz
+DOI: https://doi.org/10.14315/zee-2025-690205</summary>
+  </entry>
+  <entry>
+    <title>Falschbeschuldigungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690206/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690206</id>
+    <updated>2025-05-04T22:13:30.521811+00:00</updated>
+    <summary>Article by Reiner Anselm, Isabelle Noth
+DOI: https://doi.org/10.14315/zee-2025-690206</summary>
+  </entry>
+  <entry>
+    <title>Menschenrechte – kritische Perspektiven</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690207/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690207</id>
+    <updated>2025-05-04T22:13:30.521818+00:00</updated>
+    <summary>Article by Sebastian Mense
+DOI: https://doi.org/10.14315/zee-2025-690207</summary>
+  </entry>
+  <entry>
+    <title>(Was) dürfen wir hoffen?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/zee-2025-690208/html"/>
+    <id>https://doi.org/10.14315/zee-2025-690208</id>
+    <updated>2025-05-04T22:13:30.521825+00:00</updated>
+    <summary>Article by Megan Arndt, Wolfgang-Michael Klein, Nils Schütz
+DOI: https://doi.org/10.14315/zee-2025-690208</summary>
+  </entry>
+</feed>

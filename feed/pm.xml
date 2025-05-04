@@ -1,100 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Practical Metallography</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Practical Metallography</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Contents</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-frontmatter11/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-frontmatter11/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-frontmatter11</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0073/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0073/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0073</description>
-    </item>
-    <item>
-      <title>Imaging of microcrack propagation in 3D nanostructures applying laboratory nano-XCT</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0074/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0074/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0074</description>
-    </item>
-    <item>
-      <title>Specimen preparation for atom probe tomography</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0075/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0075/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0075</description>
-    </item>
-    <item>
-      <title>FIB/SEM serial sectioning as a versatile tool for microstructural analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0076/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0076/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0076</description>
-    </item>
-    <item>
-      <title>Fatigue dimples? – Fractured bulkhead ring bolts in a large gas turbine engine</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0077/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0077/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0077</description>
-    </item>
-    <item>
-      <title>Picture of the Month</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0078/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0078/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0078</description>
-    </item>
-    <item>
-      <title>Interview with Prof. Ehrenfried Zschech</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0079/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0079/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0079</description>
-    </item>
-    <item>
-      <title>Sicherheit, Effizienz und Nachhaltigkeit in der Wasserstoffwirtschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/pm-2024-0080/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/pm-2024-0080/html</guid>
-      <description>Article by 
-
-                Page range: 894-897
-            
- DOI: https://doi.org/10.1515/pm-2024-0080</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Practical Metallography</title>
+  <link href="https://www.degruyterbrill.com/journal/key/pm/62/5/html"/>
+  <updated>2025-05-04T22:11:11.822772+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Practical Metallography</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-frontmatter5/html"/>
+    <id>https://doi.org/10.1515/pm-2025-frontmatter5</id>
+    <updated>2025-05-04T22:11:11.822795+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-frontmatter5</summary>
+  </entry>
+  <entry>
+    <title>How can stainless CrNi steel be etched to clearly characterize the individual phases?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0025/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0025</id>
+    <updated>2025-05-04T22:11:11.822803+00:00</updated>
+    <summary>Article by G. Weilnhammer
+DOI: https://doi.org/10.1515/pm-2025-0025</summary>
+  </entry>
+  <entry>
+    <title>Study on the microstructure and tensile properties of GH5188 high-temperature alloy laser welded joints</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0026/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0026</id>
+    <updated>2025-05-04T22:11:11.822814+00:00</updated>
+    <summary>Article by W.-Q. Song, X. Wang, G.-D. Liu, Y. Du, N.-N. Zhang
+DOI: https://doi.org/10.1515/pm-2025-0026</summary>
+  </entry>
+  <entry>
+    <title>Characterization of an electric resistance welded steel plate</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0027/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0027</id>
+    <updated>2025-05-04T22:11:11.822821+00:00</updated>
+    <summary>Article by K. K. Patel, R. Nagar, D. Chauhan
+DOI: https://doi.org/10.1515/pm-2025-0027</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0024/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0024</id>
+    <updated>2025-05-04T22:11:11.822828+00:00</updated>
+    <summary>Article by Frank Mücklich
+DOI: https://doi.org/10.1515/pm-2025-0024</summary>
+  </entry>
+  <entry>
+    <title>Failure of an impeller blade of a first stage air compressor</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0028/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0028</id>
+    <updated>2025-05-04T22:11:11.822835+00:00</updated>
+    <summary>Article by B. Fischer, M. Giller, A. Neidel
+DOI: https://doi.org/10.1515/pm-2025-0028</summary>
+  </entry>
+  <entry>
+    <title>Picture of the Month</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0029/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0029</id>
+    <updated>2025-05-04T22:11:11.822841+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0029</summary>
+  </entry>
+  <entry>
+    <title>News</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0030/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0030</id>
+    <updated>2025-05-04T22:11:11.822847+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0030</summary>
+  </entry>
+  <entry>
+    <title>Meeting Diary</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0031/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0031</id>
+    <updated>2025-05-04T22:11:11.822853+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0031</summary>
+  </entry>
+</feed>

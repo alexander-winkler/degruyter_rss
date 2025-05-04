@@ -1,58 +1,75 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Bankrecht und Bankwirtschaft</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Bankrecht und Bankwirtschaft</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zbb.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Cover</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-frontmatter5/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>Inhaltsverzeichnis</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0501/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0501/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0501</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0502/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0502/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0502</description>
-    </item>
-    <item>
-      <title>Änderung und Einbeziehung von Anlagebedingungen im Investmentrecht – unionsrechtlich korrekturbedürftige Fehlentwicklungen in der Rechtsprechung zu § 305 Abs. 2 BGB</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0503/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0503/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0503</description>
-    </item>
-    <item>
-      <title>Kreditzweitmarktgesetz – Aufsichtsrechtliche Analyse und Herausforderungen für die Restrukturierungspraxis</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0504/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0504/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0504</description>
-    </item>
-    <item>
-      <title>Neue Perspektiven des Sparkassenrechts</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0505/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0505/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0505</description>
-    </item>
-    <item>
-      <title>Entscheidungen in Leitsätzen</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0506/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0506/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0506</description>
-    </item>
-    <item>
-      <title>Report from Brussels: overview of pending and completed legislative initiatives in the area of financial services in the EU – content and state of play</title>
-      <link>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0507/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.15375/zbb-2024-0507/html</guid>
-      <description>Article by Karl-Philipp Wojcik, Dario Annoscia, Sean Kerr DOI: https://doi.org/10.15375/zbb-2024-0507</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Bankrecht und Bankwirtschaft</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zbb/37/1/html"/>
+  <updated>2025-05-04T22:13:27.564498+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zbb.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Bankrecht und Bankwirtschaft</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zbb.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Cover</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-frontmatter1</id>
+    <updated>2025-05-04T22:13:27.564523+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zbb-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Inhaltsverzeichnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0101/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0101</id>
+    <updated>2025-05-04T22:13:27.564531+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zbb-2025-0101</summary>
+  </entry>
+  <entry>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0107/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0107</id>
+    <updated>2025-05-04T22:13:27.564537+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zbb-2025-0107</summary>
+  </entry>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0102/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0102</id>
+    <updated>2025-05-04T22:13:27.564543+00:00</updated>
+    <summary>Article by Die Herausgeber
+DOI: https://doi.org/10.15375/zbb-2025-0102</summary>
+  </entry>
+  <entry>
+    <title>Rechtliche Herausforderungen von Private Credit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0103/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0103</id>
+    <updated>2025-05-04T22:13:27.564551+00:00</updated>
+    <summary>Article by Torsten Kindt, Moritz Renner
+DOI: https://doi.org/10.15375/zbb-2025-0103</summary>
+  </entry>
+  <entry>
+    <title>Verantwortungsvolle Kreditvergabe in der novellierten Verbraucherkreditrichtlinie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0104/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0104</id>
+    <updated>2025-05-04T22:13:27.564557+00:00</updated>
+    <summary>Article by Christian Rüsing
+DOI: https://doi.org/10.15375/zbb-2025-0104</summary>
+  </entry>
+  <entry>
+    <title>Persistence of Private Equity Excess Returns: Europe vs. North America</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0105/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0105</id>
+    <updated>2025-05-04T22:13:27.564564+00:00</updated>
+    <summary>Article by Valentin Spruck
+DOI: https://doi.org/10.15375/zbb-2025-0105</summary>
+  </entry>
+  <entry>
+    <title>Running up that hill? – Zur Rolle der Schweizerischen Nationalbank beim geplanten Public Liquidity Backstop im Rechtsvergleich zu EZB und Eurosystem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zbb-2025-0106/html"/>
+    <id>https://doi.org/10.15375/zbb-2025-0106</id>
+    <updated>2025-05-04T22:13:27.564572+00:00</updated>
+    <summary>Article by Cornelia Manger-Nestler, Clara Schneidenbach
+DOI: https://doi.org/10.15375/zbb-2025-0106</summary>
+  </entry>
+</feed>

@@ -1,40 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of African Languages and Linguistics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of African Languages and Linguistics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jall.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jall-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jall-2024-frontmatter1/html</guid>
-      <description>Article by H. Ekkehard Wolff DOI: https://doi.org/10.1515/jall-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>On the grammaticalization of ġādi in Moroccan Arabic: new insights</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jall-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jall-2024-2003/html</guid>
-      <description>Article by H. Ekkehard Wolff DOI: https://doi.org/10.1515/jall-2024-2003</description>
-    </item>
-    <item>
-      <title>Resuming topics and foci: Anyi, Baule and microvariation in Kwa languages</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jall-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jall-2024-2004/html</guid>
-      <description>Article by H. Ekkehard Wolff DOI: https://doi.org/10.1515/jall-2024-2004</description>
-    </item>
-    <item>
-      <title>Tone and clause structure in Bùlì</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jall-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jall-2024-2001/html</guid>
-      <description>Article by H. Ekkehard Wolff DOI: https://doi.org/10.1515/jall-2024-2001</description>
-    </item>
-    <item>
-      <title>A diachronic perspective on ‘prosodies’ in Central Chadic languages (Afroasiatic)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jall-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jall-2024-2002/html</guid>
-      <description>Article by H. Ekkehard Wolff DOI: https://doi.org/10.1515/jall-2024-2002</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of African Languages and Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jall/45/2/html"/>
+  <updated>2025-05-04T22:07:19.249045+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jall.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of African Languages and Linguistics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jall.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jall-2024-frontmatter2</id>
+    <updated>2025-05-04T22:07:19.249079+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jall-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Valedictory editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2008/html"/>
+    <id>https://doi.org/10.1515/jall-2024-2008</id>
+    <updated>2025-05-04T22:07:19.249090+00:00</updated>
+    <summary>Article by Felix K. Ameka
+DOI: https://doi.org/10.1515/jall-2024-2008</summary>
+  </entry>
+  <entry>
+    <title>The Babanki pronoun system</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2006/html"/>
+    <id>https://doi.org/10.1515/jall-2024-2006</id>
+    <updated>2025-05-04T22:07:19.249103+00:00</updated>
+    <summary>Article by Pius W. Akumbu, Roland Kießling
+DOI: https://doi.org/10.1515/jall-2024-2006</summary>
+  </entry>
+  <entry>
+    <title>Hunting gestures in Tjwao</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2005/html"/>
+    <id>https://doi.org/10.1515/jall-2024-2005</id>
+    <updated>2025-05-04T22:07:19.249113+00:00</updated>
+    <summary>Article by Alexander Andrason, Susanne Mohr, Admire Phiri, Ndliso Sibanda, Mthandazo Vundla
+DOI: https://doi.org/10.1515/jall-2024-2005</summary>
+  </entry>
+  <entry>
+    <title>Silozi verbal tonology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2007/html"/>
+    <id>https://doi.org/10.1515/jall-2024-2007</id>
+    <updated>2025-05-04T22:07:19.249123+00:00</updated>
+    <summary>Article by Lee Bickmore
+DOI: https://doi.org/10.1515/jall-2024-2007</summary>
+  </entry>
+</feed>

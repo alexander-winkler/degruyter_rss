@@ -1,120 +1,226 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Jahrbuch der Raabe-Gesellschaft</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Jahrbuch der Raabe-Gesellschaft</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdrg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-frontmatter1/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-frontmatter1</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-8000/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-8000/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-8000</description>
-    </item>
-    <item>
-      <title>Vorbemerkung der Herausgeber</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0000/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0000/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0000</description>
-    </item>
-    <item>
-      <title>Verzeichnis der Siglen, Verweise und Zeichen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-9000/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-9000/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-9000</description>
-    </item>
-    <item>
-      <title>A. Das literarische Werk</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0001/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0001</description>
-    </item>
-    <item>
-      <title>B. Briefe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0002/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0002</description>
-    </item>
-    <item>
-      <title>A. Hilfsmittel und Periodika</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0003/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0003</description>
-    </item>
-    <item>
-      <title>B. Leben und Werk</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0004/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0004</description>
-    </item>
-    <item>
-      <title>C. Werk</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0005/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0005</description>
-    </item>
-    <item>
-      <title>D. Rezeption</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0006/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0006</description>
-    </item>
-    <item>
-      <title>Namenregister</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/raabe-2023-0007/html</guid>
-      <description>Article by 
-
-                Page range: 909-936
-            
- DOI: https://doi.org/10.1515/raabe-2023-0007</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jahrbuch der Raabe-Gesellschaft</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jdrg/64/1/html"/>
+  <updated>2025-05-04T22:11:36.850435+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdrg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Jahrbuch der Raabe-Gesellschaft</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdrg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Siglenverzeichnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0002/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0002</id>
+    <updated>2025-05-04T22:11:36.850460+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/raabe-2023-0002</summary>
+  </entry>
+  <entry>
+    <title>Raabes Reisen, Raabes Familie(n): Einführung in die Themenschwerpunkte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0003/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0003</id>
+    <updated>2025-05-04T22:11:36.850466+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/raabe-2023-0003</summary>
+  </entry>
+  <entry>
+    <title>Anschriften der Beiträgerinnen und Beiträger</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0027/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0027</id>
+    <updated>2025-05-04T22:11:36.850472+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/raabe-2023-0027</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-frontmatter1</id>
+    <updated>2025-05-04T22:11:36.850477+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/raabe-2023-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Der Ausflug als Zeit- und Gesellschaftsbild im Erzählen des Realismus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0004/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0004</id>
+    <updated>2025-05-04T22:11:36.850482+00:00</updated>
+    <summary>Article by Dirk Göttsche
+DOI: https://doi.org/10.1515/raabe-2023-0004</summary>
+  </entry>
+  <entry>
+    <title>Störungen im Linearen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0005/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0005</id>
+    <updated>2025-05-04T22:11:36.850489+00:00</updated>
+    <summary>Article by Sylvia Gschwend
+DOI: https://doi.org/10.1515/raabe-2023-0005</summary>
+  </entry>
+  <entry>
+    <title>Weltreisen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0006/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0006</id>
+    <updated>2025-05-04T22:11:36.850495+00:00</updated>
+    <summary>Article by Cornelia Pierstorff
+DOI: https://doi.org/10.1515/raabe-2023-0006</summary>
+  </entry>
+  <entry>
+    <title>Ortsbegehung mit Raabe und Karl May</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0007/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0007</id>
+    <updated>2025-05-04T22:11:36.850501+00:00</updated>
+    <summary>Article by Florian Krobb
+DOI: https://doi.org/10.1515/raabe-2023-0007</summary>
+  </entry>
+  <entry>
+    <title>Wilhelm Raabes Poetik der Adoption</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0008/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0008</id>
+    <updated>2025-05-04T22:11:36.850505+00:00</updated>
+    <summary>Article by Irene Husser
+DOI: https://doi.org/10.1515/raabe-2023-0008</summary>
+  </entry>
+  <entry>
+    <title>Fatale Familien</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0009/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0009</id>
+    <updated>2025-05-04T22:11:36.850509+00:00</updated>
+    <summary>Article by Alexander Draxl
+DOI: https://doi.org/10.1515/raabe-2023-0009</summary>
+  </entry>
+  <entry>
+    <title>„Zu den Abscheulichkeiten [...] habe ich noch etwas hinzuzufügen“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0010/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0010</id>
+    <updated>2025-05-04T22:11:36.850520+00:00</updated>
+    <summary>Article by Matthias Grüne
+DOI: https://doi.org/10.1515/raabe-2023-0010</summary>
+  </entry>
+  <entry>
+    <title>Die Dekonstruktion des bürgerlichen Familienideals in Wilhelm Raabes ErzählungAuf dunkelm Grunde</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0011/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0011</id>
+    <updated>2025-05-04T22:11:36.850525+00:00</updated>
+    <summary>Article by Patricia Czezior
+DOI: https://doi.org/10.1515/raabe-2023-0011</summary>
+  </entry>
+  <entry>
+    <title>Die ,komplementäre Ehe‘ als ironische Erzählfigur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0012/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0012</id>
+    <updated>2025-05-04T22:11:36.850535+00:00</updated>
+    <summary>Article by Verena Ullmann
+DOI: https://doi.org/10.1515/raabe-2023-0012</summary>
+  </entry>
+  <entry>
+    <title>(Un)Sichtbare Gewalt in der Familie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0013/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0013</id>
+    <updated>2025-05-04T22:11:36.850540+00:00</updated>
+    <summary>Article by Johanna Villebois
+DOI: https://doi.org/10.1515/raabe-2023-0013</summary>
+  </entry>
+  <entry>
+    <title>„Nicht totzukriegen!“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0014/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0014</id>
+    <updated>2025-05-04T22:11:36.850552+00:00</updated>
+    <summary>Article by Alexander Wagner
+DOI: https://doi.org/10.1515/raabe-2023-0014</summary>
+  </entry>
+  <entry>
+    <title>Der „Barbar“ Adolf Glaser zwischen bildungsbürgerlicher Kanonisierung und Kanonkritik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0015/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0015</id>
+    <updated>2025-05-04T22:11:36.850556+00:00</updated>
+    <summary>Article by Anne Petersen
+DOI: https://doi.org/10.1515/raabe-2023-0015</summary>
+  </entry>
+  <entry>
+    <title>Zwischen Rittern und Feen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0016/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0016</id>
+    <updated>2025-05-04T22:11:36.850561+00:00</updated>
+    <summary>Article by Sieglinde Grimm
+DOI: https://doi.org/10.1515/raabe-2023-0016</summary>
+  </entry>
+  <entry>
+    <title>Altershausen– Dr. Feyerabends Selbstversuch</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0017/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0017</id>
+    <updated>2025-05-04T22:11:36.850569+00:00</updated>
+    <summary>Article by Rolf Schönlau
+DOI: https://doi.org/10.1515/raabe-2023-0017</summary>
+  </entry>
+  <entry>
+    <title>Das Gedächtnis der Gesellschaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0018/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0018</id>
+    <updated>2025-05-04T22:11:36.850573+00:00</updated>
+    <summary>Article by Gerd Biegel
+DOI: https://doi.org/10.1515/raabe-2023-0018</summary>
+  </entry>
+  <entry>
+    <title>Dania Hückmann: Rache im Realismus. Recht und Rechtsgefühl bei Droste-Hülshoff, Gotthelf, Fontane und Heyse</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0019/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0019</id>
+    <updated>2025-05-04T22:11:36.850578+00:00</updated>
+    <summary>Article by Bastian Lasse
+DOI: https://doi.org/10.1515/raabe-2023-0019</summary>
+  </entry>
+  <entry>
+    <title>Autorschaft und Bibliothek. Sammlungsstrategien und Schreibverfahren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0020/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0020</id>
+    <updated>2025-05-04T22:11:36.850587+00:00</updated>
+    <summary>Article by Martina Schönbächler
+DOI: https://doi.org/10.1515/raabe-2023-0020</summary>
+  </entry>
+  <entry>
+    <title>Sabine Haderer: Individuum und Gesellschaft bei Wilhelm Raabe. Bürgerliche Devianz in „Abu Telfan“, „Stopfkuchen“ und „Die Akten des Vogelsangs“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0021/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0021</id>
+    <updated>2025-05-04T22:11:36.850592+00:00</updated>
+    <summary>Article by Verena Ullmann
+DOI: https://doi.org/10.1515/raabe-2023-0021</summary>
+  </entry>
+  <entry>
+    <title>Christian Meierhofer: Formen der Evidenz. Populäre Wissenschaftsprosa zwischen Liebig und Haeckel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0022/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0022</id>
+    <updated>2025-05-04T22:11:36.850596+00:00</updated>
+    <summary>Article by Alexander Wagner
+DOI: https://doi.org/10.1515/raabe-2023-0022</summary>
+  </entry>
+  <entry>
+    <title>Heinrich Detering: Menschen im Weltgarten. Die Entdeckung der Ökologie in der Literatur von Haller bis Humboldt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0023/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0023</id>
+    <updated>2025-05-04T22:11:36.850601+00:00</updated>
+    <summary>Article by Hans-Joachim Jakob
+DOI: https://doi.org/10.1515/raabe-2023-0023</summary>
+  </entry>
+  <entry>
+    <title>Poetik der Skizze. Verfahren und diskursive Verortungen einer Kurzprosaform vom Poetischen Realismus bis zur Frühen Moderne</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0024/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0024</id>
+    <updated>2025-05-04T22:11:36.850605+00:00</updated>
+    <summary>Article by Heiko Ullrich
+DOI: https://doi.org/10.1515/raabe-2023-0024</summary>
+  </entry>
+  <entry>
+    <title>Der Fontane-Ton. Stil im Werk Theodor Fontanes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0025/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0025</id>
+    <updated>2025-05-04T22:11:36.850612+00:00</updated>
+    <summary>Article by Florian Krobb
+DOI: https://doi.org/10.1515/raabe-2023-0025</summary>
+  </entry>
+  <entry>
+    <title>Raabe-Bibliographie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/raabe-2023-0026/html"/>
+    <id>https://doi.org/10.1515/raabe-2023-0026</id>
+    <updated>2025-05-04T22:11:36.850616+00:00</updated>
+    <summary>Article by Niklas Lotz, Katharina Marguc
+DOI: https://doi.org/10.1515/raabe-2023-0026</summary>
+  </entry>
+</feed>

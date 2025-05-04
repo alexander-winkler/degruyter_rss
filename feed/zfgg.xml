@@ -1,52 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für das gesamte Genossenschaftswesen</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für das gesamte Genossenschaftswesen</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-frontmatter3/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Landwirtschaftliche Genossenschaften in Deutschland: Strategiebildung in Zeiten des Umbruchs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0011/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-0011</description>
-    </item>
-    <item>
-      <title>Besteuerung von Dividenden aus Genossenschaften: Verfassungsrecht und Ertragsteuerrecht</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0012/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-0012</description>
-    </item>
-    <item>
-      <title>Genossenschaftliche Gaststätten – Ergebnisse einer Gründer*innenbefragung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0013/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-0013</description>
-    </item>
-    <item>
-      <title>Morphologie und Typologie kulturgenossenschaftlicher Geschäftsmodelle</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0014/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-0014</description>
-    </item>
-    <item>
-      <title>Generalversammlung oder Vertreterversammlung – wer muss der geänderten Wahlordnung einer Genossenschaft zustimmen?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0015/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-0015</description>
-    </item>
-    <item>
-      <title>Rechtsprechung zum Genossenschaftsrecht im Jahr 2023</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfgg-2024-0016/html</guid>
-      <description>Article by Thomas Kreuz DOI: https://doi.org/10.1515/zfgg-2024-0016</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für das gesamte Genossenschaftswesen</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zfgg/74/4/html"/>
+  <updated>2025-05-04T22:13:36.321299+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für das gesamte Genossenschaftswesen</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2024-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/zfgg-2024-frontmatter4</id>
+    <updated>2025-05-04T22:13:36.321330+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfgg-2024-frontmatter4</summary>
+  </entry>
+  <entry>
+    <title>Energiegenossenschaften im legislativen Aufwind</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0001/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0001</id>
+    <updated>2025-05-04T22:13:36.321338+00:00</updated>
+    <summary>Article by Michael Kling
+DOI: https://doi.org/10.1515/zfgg-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Die Energiewende als gesellschaftliche Transformation: Potenziale der Zivilgesellschaft nutzen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0002/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0002</id>
+    <updated>2025-05-04T22:13:36.321347+00:00</updated>
+    <summary>Article by Peter Schubert, Laura Benning, Robert Schlüter, Holger Krimmer
+DOI: https://doi.org/10.1515/zfgg-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Die Entwicklung des EEG und seine Wirkung auf die Energiegenossenschaften am Beispiel der Freiburger Solar-Bürger-Genossenschaft eG</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0003/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0003</id>
+    <updated>2025-05-04T22:13:36.321359+00:00</updated>
+    <summary>Article by Burghard Flieger
+DOI: https://doi.org/10.1515/zfgg-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Praktische Erfahrungen bei der Finanzierung von Bürgerenergiegenossenschaften</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0004/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0004</id>
+    <updated>2025-05-04T22:13:36.321366+00:00</updated>
+    <summary>Article by Annette Littmann
+DOI: https://doi.org/10.1515/zfgg-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>With Agrivoltaics Cooperatives towards Electricity Self-Sufficient Villages in Germany?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0005/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0005</id>
+    <updated>2025-05-04T22:13:36.321376+00:00</updated>
+    <summary>Article by Martin Bauknecht
+DOI: https://doi.org/10.1515/zfgg-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Genossenschaftsbanken und Energiewende</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0006/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0006</id>
+    <updated>2025-05-04T22:13:36.321382+00:00</updated>
+    <summary>Article by Michael Brechtelsbauer
+DOI: https://doi.org/10.1515/zfgg-2025-0006</summary>
+  </entry>
+</feed>

@@ -1,58 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Corpus Linguistics and Linguistic Theory</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Corpus Linguistics and Linguistic Theory</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-frontmatter3/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>CLLT ‘versus’ Corpora and IJCL: a (half serious) keyness analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0050/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0050</description>
-    </item>
-    <item>
-      <title>Corpus linguistics meets historical linguistics and construction grammar: how far have we come, and where do we go from here?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0009/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0009</description>
-    </item>
-    <item>
-      <title>Register and the dual nature of functional correspondence: accounting for text-linguistic variation between registers, within registers, and without registers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0011/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0011</description>
-    </item>
-    <item>
-      <title>Corpus-based discourse analysis: from meta-reflection to accountability</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2023-0104/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2023-0104/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2023-0104</description>
-    </item>
-    <item>
-      <title>Learner corpus research: a critical appraisal and roadmap for contributing (more) to SLA research agendas</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0014/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0014</description>
-    </item>
-    <item>
-      <title>Corpus linguistics and the social sciences</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0036/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0036</description>
-    </item>
-    <item>
-      <title>The wompom</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cllt-2024-0053/html</guid>
-      <description>Article by R. Harald Baayen DOI: https://doi.org/10.1515/cllt-2024-0053</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Corpus Linguistics and Linguistic Theory</title>
+  <link href="https://www.degruyterbrill.com/journal/key/cllt/21/1/html"/>
+  <updated>2025-05-04T22:03:58.717829+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Corpus Linguistics and Linguistic Theory</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/cllt-2025-frontmatter1</id>
+    <updated>2025-05-04T22:03:58.717851+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/cllt-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>I couldn’t help but wonder: do modals and negation attract?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0029/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0029</id>
+    <updated>2025-05-04T22:03:58.717856+00:00</updated>
+    <summary>Article by Ulrike Schneider
+DOI: https://doi.org/10.1515/cllt-2023-0029</summary>
+  </entry>
+  <entry>
+    <title>Reliable detection and quantification of selective forces in language change</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0064/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0064</id>
+    <updated>2025-05-04T22:03:58.717862+00:00</updated>
+    <summary>Article by Juan Guerrero Montero, Andres Karjus, Kenny Smith, Richard A. Blythe
+DOI: https://doi.org/10.1515/cllt-2023-0064</summary>
+  </entry>
+  <entry>
+    <title>Alternation in the Mandarin disposal constructions: quantifying their evolutionary dynamics across twelve centuries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0038/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0038</id>
+    <updated>2025-05-04T22:03:58.717866+00:00</updated>
+    <summary>Article by Meili Liu, Hubert Cuyckens
+DOI: https://doi.org/10.1515/cllt-2023-0038</summary>
+  </entry>
+  <entry>
+    <title>Critical contingency competition in L2 clause positioning acquisition: the case of concessive clause by Chinese EFL learners</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0068/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0068</id>
+    <updated>2025-05-04T22:03:58.717870+00:00</updated>
+    <summary>Article by Jiajin Xu, Hui Kang
+DOI: https://doi.org/10.1515/cllt-2023-0068</summary>
+  </entry>
+  <entry>
+    <title>The distributional properties of long nominal compounds in scientific articles: an investigation based on the uniform information density hypothesis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0028/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0028</id>
+    <updated>2025-05-04T22:03:58.717875+00:00</updated>
+    <summary>Article by John Gamboa, Kristina Braun, Juhani Järvikivi, Shanley E. M. Allen
+DOI: https://doi.org/10.1515/cllt-2023-0028</summary>
+  </entry>
+  <entry>
+    <title>The counting principle makes number words unique</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0105/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0105</id>
+    <updated>2025-05-04T22:03:58.717882+00:00</updated>
+    <summary>Article by Mira Ariel, Natalia Levshina
+DOI: https://doi.org/10.1515/cllt-2023-0105</summary>
+  </entry>
+  <entry>
+    <title>Profiling analytic causative construction in Chinese: a multifactorial analysis of diachronic change</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0062/html"/>
+    <id>https://doi.org/10.1515/cllt-2023-0062</id>
+    <updated>2025-05-04T22:03:58.717886+00:00</updated>
+    <summary>Article by Qiaoyun Chen
+DOI: https://doi.org/10.1515/cllt-2023-0062</summary>
+  </entry>
+</feed>

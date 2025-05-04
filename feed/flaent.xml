@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Florida Entomologist</title>
+  <link href="https://www.degruyterbrill.com/journal/key/flaent/108/s1/html"/>
+  <updated>2025-05-04T22:05:29.370993+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flaent.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Florida Entomologist</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flaent.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Integrating integrated pest management and sustainability into a biosecurity framework</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flaent-2024-0020/html"/>
+    <id>https://doi.org/10.1515/flaent-2024-0020</id>
+    <updated>2025-05-04T22:05:29.371027+00:00</updated>
+    <summary>Article by Tolulope A. Agunbiade, Amanda C. Hodges, Nicole F. Quinn, Morgan G. Pinkerton, Leroy A. Whilby
+DOI: https://doi.org/10.1515/flaent-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Distribution and densities of the invasive New Guinea flatworm (Tricladida: Geoplanidae) in forest conservation areas of the Miami Rock Ridge in Southeast Florida</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flaent-2024-0021/html"/>
+    <id>https://doi.org/10.1515/flaent-2024-0021</id>
+    <updated>2025-05-04T22:05:29.371039+00:00</updated>
+    <summary>Article by Lawrence N. Lopez, Alície Warren, Stefan Rhoades, Samuel H. Neely, Tiffany Melvin, Ashley Moreno, David G. Cook, Steve Sparks, Paul Sharp, Timothy M. Collins
+DOI: https://doi.org/10.1515/flaent-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Boisduval scale (Diaspis boisduvalii) (Hemiptera: Diaspididae) in southern Florida: its herbivory on wild orchids and nativity status discussion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flaent-2024-0065/html"/>
+    <id>https://doi.org/10.1515/flaent-2024-0065</id>
+    <updated>2025-05-04T22:05:29.371050+00:00</updated>
+    <summary>Article by Hong Liu, Haydee Borrero, Jennifer Villate, Erin C. Powell, Muhammad Z. Ahmed, Mike Owen, Virginia Palmer-Skok, Andrew Skok
+DOI: https://doi.org/10.1515/flaent-2024-0065</summary>
+  </entry>
+</feed>

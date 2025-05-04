@@ -1,28 +1,37 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Review of Network Economics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Review of Network Economics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rne.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-frontmatter3/html</guid>
-      <description>Article by Heng Chen, Matthew Strathearn, Marcel Voia DOI: https://doi.org/10.1515/rne-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Mothballing as a Predatory Strategy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-0040/html</guid>
-      <description>Article by Heng Chen, Matthew Strathearn, Marcel Voia DOI: https://doi.org/10.1515/rne-2024-0040</description>
-    </item>
-    <item>
-      <title>Effects of Shoe-Leather Cost on Consumer Cash Withdrawal Behavior</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rne-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rne-2024-0047/html</guid>
-      <description>Article by Heng Chen, Matthew Strathearn, Marcel Voia DOI: https://doi.org/10.1515/rne-2024-0047</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Review of Network Economics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/rne/23/4/html"/>
+  <updated>2025-05-04T22:12:03.528601+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rne.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Review of Network Economics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rne.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rne-2024-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/rne-2024-frontmatter4</id>
+    <updated>2025-05-04T22:12:03.528636+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rne-2024-frontmatter4</summary>
+  </entry>
+  <entry>
+    <title>The Impact of Competition Intensity on Software Security: An Empirical Analysis of Web Browser Patch Releases</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rne-2024-0045/html"/>
+    <id>https://doi.org/10.1515/rne-2024-0045</id>
+    <updated>2025-05-04T22:12:03.528647+00:00</updated>
+    <summary>Article by Arrah-Marie Jo
+DOI: https://doi.org/10.1515/rne-2024-0045</summary>
+  </entry>
+  <entry>
+    <title>Demand for Payment Services and Consumer Welfare: The Introduction of a Central Bank Digital Currency</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rne-2024-0056/html"/>
+    <id>https://doi.org/10.1515/rne-2024-0056</id>
+    <updated>2025-05-04T22:12:03.528658+00:00</updated>
+    <summary>Article by Kim P. Huynh, Jozsef Molnar, Oleksandr Shcherbakov, Qinghui (Jerry) Yu
+DOI: https://doi.org/10.1515/rne-2024-0056</summary>
+  </entry>
+</feed>

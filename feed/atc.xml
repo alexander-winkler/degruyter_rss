@@ -1,100 +1,84 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>architectura</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in architectura</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/atc.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2001/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2001</description>
-    </item>
-    <item>
-      <title>»Non è altro lo edificare se none un piacere uolunptario …«</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2002/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2002</description>
-    </item>
-    <item>
-      <title>Salomonische Architektur in den Niederlanden</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2003/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2003</description>
-    </item>
-    <item>
-      <title>Fritz Beblo und das Straßburger Hochbauamt 1903–1918</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2004/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2004</description>
-    </item>
-    <item>
-      <title>Forget and rewrite</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2005/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2005</description>
-    </item>
-    <item>
-      <title>Richard Meiers Jubiläumskirche</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2006/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2006</description>
-    </item>
-    <item>
-      <title>Planen und Bauen unter Leopold III. Friedrich Franz von Anhalt-Dessau (1758–1817)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2007/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2007</description>
-    </item>
-    <item>
-      <title>Der Prediger. Geschichte eines Gmünder Bauwerks durch die Jahrhunderte. Museum im Prediger Schwäbisch Gmünd (Museumspublikation 64)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2008/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2008</description>
-    </item>
-    <item>
-      <title>Kurzbiographien der Autorinnen und Autoren</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/atc-2021-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/atc-2021-2009/html</guid>
-      <description>Article by 
-
-                Page range: 255-256
-            
- DOI: https://doi.org/10.1515/atc-2021-2009</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>architectura</title>
+  <link href="https://www.degruyterbrill.com/journal/key/atc/51/2/html"/>
+  <updated>2025-05-04T22:03:10.275480+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/atc.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in architectura</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/atc.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2001/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2001</id>
+    <updated>2025-05-04T22:03:10.275509+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/atc-2021-2001</summary>
+  </entry>
+  <entry>
+    <title>Kurzbiographien der Autorinnen und Autoren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2009/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2009</id>
+    <updated>2025-05-04T22:03:10.275517+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/atc-2021-2009</summary>
+  </entry>
+  <entry>
+    <title>»Non è altro lo edificare se none un piacereuolunptario…«</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2002/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2002</id>
+    <updated>2025-05-04T22:03:10.275524+00:00</updated>
+    <summary>Article by Simina Anamaria Lörincz
+DOI: https://doi.org/10.1515/atc-2021-2002</summary>
+  </entry>
+  <entry>
+    <title>Salomonische Architektur in den Niederlanden</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2003/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2003</id>
+    <updated>2025-05-04T22:03:10.275532+00:00</updated>
+    <summary>Article by Thomas H. von der Dunk
+DOI: https://doi.org/10.1515/atc-2021-2003</summary>
+  </entry>
+  <entry>
+    <title>Fritz Beblo und das Straßburger Hochbauamt 1903–1918</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2004/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2004</id>
+    <updated>2025-05-04T22:03:10.275539+00:00</updated>
+    <summary>Article by Tobias Möllmer
+DOI: https://doi.org/10.1515/atc-2021-2004</summary>
+  </entry>
+  <entry>
+    <title>Forget and rewrite</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2005/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2005</id>
+    <updated>2025-05-04T22:03:10.275545+00:00</updated>
+    <summary>Article by Or Aleksandrowicz
+DOI: https://doi.org/10.1515/atc-2021-2005</summary>
+  </entry>
+  <entry>
+    <title>Richard Meiers Jubiläumskirche</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2006/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2006</id>
+    <updated>2025-05-04T22:03:10.275551+00:00</updated>
+    <summary>Article by Marion Hilliges
+DOI: https://doi.org/10.1515/atc-2021-2006</summary>
+  </entry>
+  <entry>
+    <title>Planen und Bauen unter Leopold III. Friedrich Franz von Anhalt-Dessau (1758–1817)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2007/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2007</id>
+    <updated>2025-05-04T22:03:10.275557+00:00</updated>
+    <summary>Article by Michael Bollé
+DOI: https://doi.org/10.1515/atc-2021-2007</summary>
+  </entry>
+  <entry>
+    <title>Der Prediger. Geschichte eines Gmünder Bauwerks durch die Jahrhunderte. Museum im Prediger Schwäbisch Gmünd (Museumspublikation 64)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/atc-2021-2008/html"/>
+    <id>https://doi.org/10.1515/atc-2021-2008</id>
+    <updated>2025-05-04T22:03:10.275564+00:00</updated>
+    <summary>Article by Elmar Kossel
+DOI: https://doi.org/10.1515/atc-2021-2008</summary>
+  </entry>
+</feed>

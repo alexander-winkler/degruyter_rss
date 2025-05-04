@@ -1,52 +1,109 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Metaphysica</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Metaphysica</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mp.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2024-frontmatter2/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>There are More, or Fewer, Things than Most of us Think</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0035/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0035</description>
-    </item>
-    <item>
-      <title>Elucidating Divine Atemporality</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2024-0016/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2024-0016</description>
-    </item>
-    <item>
-      <title>On the Reality and Evidential Status of Temporal Passage Phenomenology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0054/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0054/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0054</description>
-    </item>
-    <item>
-      <title>Selfhood Beyond Death</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0053/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0053</description>
-    </item>
-    <item>
-      <title>The Nominalist Limit of Kim’s Ontological Physicalism</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2023-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2023-0049/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2023-0049</description>
-    </item>
-    <item>
-      <title>On Individualistic Facts and Haecceitism</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mp-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mp-2024-0012/html</guid>
-      <description>Article by Tomasz Bigaj DOI: https://doi.org/10.1515/mp-2024-0012</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Metaphysica</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mp/26/1/html"/>
+  <updated>2025-05-04T22:10:00.582083+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mp.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Metaphysica</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mp.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/mp-2025-frontmatter1</id>
+    <updated>2025-05-04T22:10:00.582117+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mp-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Change and Location: A New and Old Case against Functionality</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0011/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0011</id>
+    <updated>2025-05-04T22:10:00.582124+00:00</updated>
+    <summary>Article by Florian Marion
+DOI: https://doi.org/10.1515/mp-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>The Dualist Metaphysics of the Incarnation and the Too Many Thinkers Problem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0005/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0005</id>
+    <updated>2025-05-04T22:10:00.582133+00:00</updated>
+    <summary>Article by Joungbin Lim
+DOI: https://doi.org/10.1515/mp-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>The Transcendent and Causal Dimensions of Aquinas’s Action Theory: Insights from Metaphysics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0026/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0026</id>
+    <updated>2025-05-04T22:10:00.582141+00:00</updated>
+    <summary>Article by Lingchang Gui
+DOI: https://doi.org/10.1515/mp-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>Aspectual Compresence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2023-0044/html"/>
+    <id>https://doi.org/10.1515/mp-2023-0044</id>
+    <updated>2025-05-04T22:10:00.582147+00:00</updated>
+    <summary>Article by Youssef Aguisoul
+DOI: https://doi.org/10.1515/mp-2023-0044</summary>
+  </entry>
+  <entry>
+    <title>Why Trope Metaphysics is Better than the Theory of Universals?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2023-0052/html"/>
+    <id>https://doi.org/10.1515/mp-2023-0052</id>
+    <updated>2025-05-04T22:10:00.582153+00:00</updated>
+    <summary>Article by Daisy Dutta
+DOI: https://doi.org/10.1515/mp-2023-0052</summary>
+  </entry>
+  <entry>
+    <title>Free Will: Evidence for the Existence of Soul</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0024/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0024</id>
+    <updated>2025-05-04T22:10:00.582159+00:00</updated>
+    <summary>Article by Seyyed Jaaber Mousavirad
+DOI: https://doi.org/10.1515/mp-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>The SameF1but a DifferentF2– with Absolute Identity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0023/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0023</id>
+    <updated>2025-05-04T22:10:00.582169+00:00</updated>
+    <summary>Article by Robert Francescotti
+DOI: https://doi.org/10.1515/mp-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>The Subtraction Argument in an Infinite World</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0019/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0019</id>
+    <updated>2025-05-04T22:10:00.582175+00:00</updated>
+    <summary>Article by Pawel Garbacz
+DOI: https://doi.org/10.1515/mp-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Making Sense of Simultaneity: A Reply to Wahlberg</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0017/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0017</id>
+    <updated>2025-05-04T22:10:00.582181+00:00</updated>
+    <summary>Article by Caio Cézar Silva
+DOI: https://doi.org/10.1515/mp-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Events and Facts in the Image of Modes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2024-0021/html"/>
+    <id>https://doi.org/10.1515/mp-2024-0021</id>
+    <updated>2025-05-04T22:10:00.582193+00:00</updated>
+    <summary>Article by Michele Paolini Paoletti
+DOI: https://doi.org/10.1515/mp-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Why There is No Us in Consciousness: You Are Simple, a Bodily Soul</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mp-2022-0043/html"/>
+    <id>https://doi.org/10.1515/mp-2022-0043</id>
+    <updated>2025-05-04T22:10:00.582203+00:00</updated>
+    <summary>Article by Brandon Rickabaugh
+DOI: https://doi.org/10.1515/mp-2022-0043</summary>
+  </entry>
+</feed>

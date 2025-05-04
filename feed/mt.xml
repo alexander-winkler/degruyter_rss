@@ -1,112 +1,141 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Materials Testing</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Materials Testing</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mt.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-frontmatter11/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-frontmatter11/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-frontmatter11</description>
-    </item>
-    <item>
-      <title>Crushing performance of an additively manufactured bio-inspired hybrid energy absorption profile</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0253/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0253/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0253</description>
-    </item>
-    <item>
-      <title>Implant bone screw characteristics of a printed PLA-based material</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0261/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0261/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0261</description>
-    </item>
-    <item>
-      <title>Effect of deformation on the mechanical property of reduced activation ferritic/martensitic steel refined by closed-dual equal channel angular pressing</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0027/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0027</description>
-    </item>
-    <item>
-      <title>Effect of post-oxidation times in the nitrocarburizing process on the wear behavior of an AISI 4140 steel</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0062/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0062/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0062</description>
-    </item>
-    <item>
-      <title>Production of (B4C+FeTi) reinforced and Fe based composites by mechanical alloying</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0155/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0155/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0155</description>
-    </item>
-    <item>
-      <title>Tensile strength of friction stir additive manufactured laminated AA 6061/TiC/GS composites</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0073/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0073/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0073</description>
-    </item>
-    <item>
-      <title>Microstructure evolution of AlSi10Mg alloy in RAP process</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0078/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0078/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0078</description>
-    </item>
-    <item>
-      <title>Wear behaviour of titanium diboride and zirconium carbide reinforced LM13 hybrid composite for automotive applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0143/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0143/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0143</description>
-    </item>
-    <item>
-      <title>Influence of post heat treatment on tribological and microstructural properties of plasma wire arc additive manufactured maraging steels</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0273/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0273/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0273</description>
-    </item>
-    <item>
-      <title>Artificial neural network infused quasi oppositional learning partial reinforcement algorithm for structural design optimization of vehicle suspension components</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0186/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0186/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0186</description>
-    </item>
-    <item>
-      <title>Optimization of vehicle conceptual design problems using an enhanced hunger games search algorithm</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0151/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0151/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0151</description>
-    </item>
-    <item>
-      <title>Optimization of vehicle crashworthiness problems using recent twelve metaheuristic algorithms</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0187/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0187/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0187</description>
-    </item>
-    <item>
-      <title>Development of zeolite 5A-incorporated polyvinyl alcohol membrane for desalination by pervaporation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0211/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0211/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0211</description>
-    </item>
-    <item>
-      <title>Characterization of bauxite residue filled sisal/glass fiber reinforced hybrid composites for structural applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0162/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0162/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0162</description>
-    </item>
-    <item>
-      <title>Microstructure and mechanical properties of Al2O3/AZ61 Mg alloy surface composite developed using friction stir processing and groove reinforcement filling processes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0132/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0132/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0132</description>
-    </item>
-    <item>
-      <title>Method for the design and evaluation of binary sensitivity tests</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mt-2024-0176/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mt-2024-0176/html</guid>
-      <description>Article by Cordula Wilrich, Peter-Th. Wilrich DOI: https://doi.org/10.1515/mt-2024-0176</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Materials Testing</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mt/67/5/html"/>
+  <updated>2025-05-04T22:10:07.726090+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mt.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Materials Testing</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mt.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2025-frontmatter5/html"/>
+    <id>https://doi.org/10.1515/mt-2025-frontmatter5</id>
+    <updated>2025-05-04T22:10:07.726116+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mt-2025-frontmatter5</summary>
+  </entry>
+  <entry>
+    <title>Review on three-point bending test for evaluating the mechanical properties, fracture behavior, and adhesion strength of coating/substrate systems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0447/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0447</id>
+    <updated>2025-05-04T22:10:07.726124+00:00</updated>
+    <summary>Article by Mouna Kallel, Khaled Elleuch
+DOI: https://doi.org/10.1515/mt-2024-0447</summary>
+  </entry>
+  <entry>
+    <title>Gas metal arc weldability of a Strenx 700MC-AISI304 dissimilar joint</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0510/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0510</id>
+    <updated>2025-05-04T22:10:07.726132+00:00</updated>
+    <summary>Article by Serhat Aksoy, Ramazan Kacar, Hayriye Ertek Emre, Samet Nohutcu
+DOI: https://doi.org/10.1515/mt-2024-0510</summary>
+  </entry>
+  <entry>
+    <title>Effect of process parameters on mechanical properties of 5554 aluminum alloy fabricated by wire arc additive manufacturing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0019/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0019</id>
+    <updated>2025-05-04T22:10:07.726139+00:00</updated>
+    <summary>Article by Omer Sabanci, Cemil Hacibekir, Onour Kechagia, Orkun Tekelioglu, Celalettin Yuce
+DOI: https://doi.org/10.1515/mt-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Coating of TIG-welded micro-alloyed 38MnVS6 steel with flux-cored wire and FeB addition: microstructure, hardness, and wear properties</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0483/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0483</id>
+    <updated>2025-05-04T22:10:07.726146+00:00</updated>
+    <summary>Article by Mustafa Kaptanoglu, Akin Odabasi
+DOI: https://doi.org/10.1515/mt-2024-0483</summary>
+  </entry>
+  <entry>
+    <title>Manufacturing parameters’ effects on the flexural properties of 3D-printed PLA</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0371/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0371</id>
+    <updated>2025-05-04T22:10:07.726156+00:00</updated>
+    <summary>Article by Selim Özdoğan, Ahmet Meram, Mehmet Emin Çetin
+DOI: https://doi.org/10.1515/mt-2024-0371</summary>
+  </entry>
+  <entry>
+    <title>Modified hot-spot stress method for fatigue life estimation of welded components</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0489/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0489</id>
+    <updated>2025-05-04T22:10:07.726163+00:00</updated>
+    <summary>Article by Oguzhan Mulkoglu, Mehmet Ali Güler, Fatih Göncü
+DOI: https://doi.org/10.1515/mt-2024-0489</summary>
+  </entry>
+  <entry>
+    <title>Water as blowing agent in polyurethane resins creating porous cancellous bone surrogates for biomechanical osteosynthesis applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0486/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0486</id>
+    <updated>2025-05-04T22:10:07.726174+00:00</updated>
+    <summary>Article by Marianne Hollensteiner, Sascha Senck, Sarah Heupl, Peter Augat
+DOI: https://doi.org/10.1515/mt-2024-0486</summary>
+  </entry>
+  <entry>
+    <title>Enhancing cervical spine health: a vibration-focused multibody dynamics model for neck support system design</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0374/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0374</id>
+    <updated>2025-05-04T22:10:07.726180+00:00</updated>
+    <summary>Article by Nima Heidari, Ramazan Ünal, Damla Gezegen, Hakan İşçi, Polat Şendur
+DOI: https://doi.org/10.1515/mt-2024-0374</summary>
+  </entry>
+  <entry>
+    <title>Characterization of novel fibers extracted fromRumex obtusifoliusL. plant for potential composite applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0551/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0551</id>
+    <updated>2025-05-04T22:10:07.726190+00:00</updated>
+    <summary>Article by Ahmet Çağrı Kılınç
+DOI: https://doi.org/10.1515/mt-2024-0551</summary>
+  </entry>
+  <entry>
+    <title>Interface metallurgical characteristics of dissimilar friction welded steels</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0537/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0537</id>
+    <updated>2025-05-04T22:10:07.726197+00:00</updated>
+    <summary>Article by Oğuz Tekin, Tanju Teker
+DOI: https://doi.org/10.1515/mt-2024-0537</summary>
+  </entry>
+  <entry>
+    <title>Effect of atmospheric pressure plasma treatment on the wettability and aging behavior of metal surfaces</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0480/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0480</id>
+    <updated>2025-05-04T22:10:07.726210+00:00</updated>
+    <summary>Article by Öyküm Kanbir, Kadir Ayas, Kadir Çavdar
+DOI: https://doi.org/10.1515/mt-2024-0480</summary>
+  </entry>
+  <entry>
+    <title>Microstructure and mechanical properties of dissimilar ferritic (S355)–austenitic (AISI 304) steel joints welded by robotic GMAW</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0405/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0405</id>
+    <updated>2025-05-04T22:10:07.726218+00:00</updated>
+    <summary>Article by Ozan Çoban
+DOI: https://doi.org/10.1515/mt-2024-0405</summary>
+  </entry>
+  <entry>
+    <title>Enhanced Greylag Goose optimizer for solving constrained engineering design problems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0516/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0516</id>
+    <updated>2025-05-04T22:10:07.726227+00:00</updated>
+    <summary>Article by Dildar Gürses, Pranav Mehta, Sadiq M. Sait, Ali Riza Yildiz
+DOI: https://doi.org/10.1515/mt-2024-0516</summary>
+  </entry>
+  <entry>
+    <title>Effect of sustainable cooling and lubrication method on the hole quality and machinability performance in drilling of AA7075 alloy with cryogenically treated carbide drills</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0538/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0538</id>
+    <updated>2025-05-04T22:10:07.726234+00:00</updated>
+    <summary>Article by Gökhan Özger, Mahir Akgün, Halil Demir
+DOI: https://doi.org/10.1515/mt-2024-0538</summary>
+  </entry>
+  <entry>
+    <title>Design optimization of a connecting rod for energy savings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mt-2024-0446/html"/>
+    <id>https://doi.org/10.1515/mt-2024-0446</id>
+    <updated>2025-05-04T22:10:07.726245+00:00</updated>
+    <summary>Article by Hassan S. Hedia, Majid A. Almas, Hassan M. Attar, El-Sayed R. Negeed, Mohammed H. Hedia, Mona A. Soliman
+DOI: https://doi.org/10.1515/mt-2024-0446</summary>
+  </entry>
+</feed>

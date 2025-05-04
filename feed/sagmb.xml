@@ -1,70 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Statistical Applications in Genetics and Molecular Biology</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Statistical Applications in Genetics and Molecular Biology</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sagmb.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2024-frontmatter1/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Empirically adjusted fixed-effects meta-analysis methods in genomic studies</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0041/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2023-0041</description>
-    </item>
-    <item>
-      <title>A CNN-CBAM-BIGRU model for protein function prediction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2024-0004/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2024-0004</description>
-    </item>
-    <item>
-      <title>A heavy-tailed model for analyzing miRNA-seq raw read counts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0016/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2023-0016</description>
-    </item>
-    <item>
-      <title>Flexible model-based non-negative matrix factorization with application to mutational signatures</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0034/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2023-0034</description>
-    </item>
-    <item>
-      <title>Choice of baseline hazards in joint modeling of longitudinal and time-to-event cancer survival data</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0038/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2023-0038</description>
-    </item>
-    <item>
-      <title>Assessing the feasibility of statistical inference using synthetic antibody-antigen datasets</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2023-0027/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2023-0027</description>
-    </item>
-    <item>
-      <title>A global test of hybrid ancestry from genome-scale data</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2022-0061/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2022-0061/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2022-0061</description>
-    </item>
-    <item>
-      <title>Integrative pathway analysis with gene expression, miRNA, methylation and copy number variation for breast cancer subtypes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2019-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2019-0050/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2019-0050</description>
-    </item>
-    <item>
-      <title>Bayesian LASSO for population stratification correction in rare haplotype association studies</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/sagmb-2022-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/sagmb-2022-0034/html</guid>
-      <description>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin DOI: https://doi.org/10.1515/sagmb-2022-0034</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Statistical Applications in Genetics and Molecular Biology</title>
+  <link href="https://www.degruyterbrill.com/journal/key/sagmb/23/1/html"/>
+  <updated>2025-05-04T22:12:12.804729+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sagmb.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Statistical Applications in Genetics and Molecular Biology</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sagmb.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/sagmb-2024-frontmatter1</id>
+    <updated>2025-05-04T22:12:12.804770+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sagmb-2024-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Empirically adjusted fixed-effects meta-analysis methods in genomic studies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0041/html"/>
+    <id>https://doi.org/10.1515/sagmb-2023-0041</id>
+    <updated>2025-05-04T22:12:12.804781+00:00</updated>
+    <summary>Article by Wimarsha T. Jayanetti, Sinjini Sikdar
+DOI: https://doi.org/10.1515/sagmb-2023-0041</summary>
+  </entry>
+  <entry>
+    <title>A CNN-CBAM-BIGRU model for protein function prediction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2024-0004/html"/>
+    <id>https://doi.org/10.1515/sagmb-2024-0004</id>
+    <updated>2025-05-04T22:12:12.804792+00:00</updated>
+    <summary>Article by Lavkush Sharma, Akshay Deepak, Ashish Ranjan, Gopalakrishnan Krishnasamy
+DOI: https://doi.org/10.1515/sagmb-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>A heavy-tailed model for analyzing miRNA-seq raw read counts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0016/html"/>
+    <id>https://doi.org/10.1515/sagmb-2023-0016</id>
+    <updated>2025-05-04T22:12:12.804802+00:00</updated>
+    <summary>Article by Annika Krutto, Therese Haugdahl Nøst, Magne Thoresen
+DOI: https://doi.org/10.1515/sagmb-2023-0016</summary>
+  </entry>
+  <entry>
+    <title>Flexible model-based non-negative matrix factorization with application to mutational signatures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0034/html"/>
+    <id>https://doi.org/10.1515/sagmb-2023-0034</id>
+    <updated>2025-05-04T22:12:12.804812+00:00</updated>
+    <summary>Article by Ragnhild Laursen, Lasse Maretty, Asger Hobolth
+DOI: https://doi.org/10.1515/sagmb-2023-0034</summary>
+  </entry>
+  <entry>
+    <title>Choice of baseline hazards in joint modeling of longitudinal and time-to-event cancer survival data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0038/html"/>
+    <id>https://doi.org/10.1515/sagmb-2023-0038</id>
+    <updated>2025-05-04T22:12:12.804821+00:00</updated>
+    <summary>Article by Anand Hari, Edakkalathoor George Jinto, Divya Dennis, Kumarapillai Mohanan Nair Jagathnath Krishna, Preethi S. George, Sivasevan Roshni, Aleyamma Mathew
+DOI: https://doi.org/10.1515/sagmb-2023-0038</summary>
+  </entry>
+  <entry>
+    <title>Assessing the feasibility of statistical inference using synthetic antibody-antigen datasets</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0027/html"/>
+    <id>https://doi.org/10.1515/sagmb-2023-0027</id>
+    <updated>2025-05-04T22:12:12.804830+00:00</updated>
+    <summary>Article by Thomas Minotto, Philippe A. Robert, Ingrid Hobæk Haff, Geir K. Sandve
+DOI: https://doi.org/10.1515/sagmb-2023-0027</summary>
+  </entry>
+  <entry>
+    <title>A global test of hybrid ancestry from genome-scale data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2022-0061/html"/>
+    <id>https://doi.org/10.1515/sagmb-2022-0061</id>
+    <updated>2025-05-04T22:12:12.804839+00:00</updated>
+    <summary>Article by Md Rejuan Haque, Laura Kubatko
+DOI: https://doi.org/10.1515/sagmb-2022-0061</summary>
+  </entry>
+  <entry>
+    <title>Integrative pathway analysis with gene expression, miRNA, methylation and copy number variation for breast cancer subtypes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2019-0050/html"/>
+    <id>https://doi.org/10.1515/sagmb-2019-0050</id>
+    <updated>2025-05-04T22:12:12.804847+00:00</updated>
+    <summary>Article by Henry Linder, Yuping Zhang, Yunqi Wang, Zhengqing Ouyang
+DOI: https://doi.org/10.1515/sagmb-2019-0050</summary>
+  </entry>
+  <entry>
+    <title>Bayesian LASSO for population stratification correction in rare haplotype association studies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2022-0034/html"/>
+    <id>https://doi.org/10.1515/sagmb-2022-0034</id>
+    <updated>2025-05-04T22:12:12.804858+00:00</updated>
+    <summary>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin
+DOI: https://doi.org/10.1515/sagmb-2022-0034</summary>
+  </entry>
+</feed>

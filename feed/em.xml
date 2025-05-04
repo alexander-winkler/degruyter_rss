@@ -1,46 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Epidemiologic Methods</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Epidemiologic Methods</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/em.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Integrating Hill’s classical considerations with modern causal inference methods in observational studies: a ‘How-Questions’ framework</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/em-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/em-2023-0015/html</guid>
-      <description>Article by Stina Zetterstrom DOI: https://doi.org/10.1515/em-2023-0015</description>
-    </item>
-    <item>
-      <title>A compound representation of the multiple treatment propensity score with applications to marginal structural modeling</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/em-2023-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/em-2023-0005/html</guid>
-      <description>Article by Stina Zetterstrom DOI: https://doi.org/10.1515/em-2023-0005</description>
-    </item>
-    <item>
-      <title>Non-plug-in estimators could outperform plug-in estimators: a cautionary note and a diagnosis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/em-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/em-2024-0008/html</guid>
-      <description>Article by Stina Zetterstrom DOI: https://doi.org/10.1515/em-2024-0008</description>
-    </item>
-    <item>
-      <title>Item-level heterogeneous treatment effects of selective serotonin reuptake inhibitors (SSRIs) on depression: implications for inference, generalizability, and identification</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/em-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/em-2024-0006/html</guid>
-      <description>Article by Stina Zetterstrom DOI: https://doi.org/10.1515/em-2024-0006</description>
-    </item>
-    <item>
-      <title>Estimation of the number needed to treat, the number needed to be exposed, and the exposure impact number with instrumental variables</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/em-2023-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/em-2023-0034/html</guid>
-      <description>Article by Stina Zetterstrom DOI: https://doi.org/10.1515/em-2023-0034</description>
-    </item>
-    <item>
-      <title>Bounds for selection bias using outcome probabilities</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/em-2023-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/em-2023-0033/html</guid>
-      <description>Article by Stina Zetterstrom DOI: https://doi.org/10.1515/em-2023-0033</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Epidemiologic Methods</title>
+  <link href="https://www.degruyterbrill.com/journal/key/em/14/1/html"/>
+  <updated>2025-05-04T22:05:07.063318+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/em.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Epidemiologic Methods</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/em.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Bot invasion: protecting the integrity of online surveys against spamming</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0026/html"/>
+    <id>https://doi.org/10.1515/em-2024-0026</id>
+    <updated>2025-05-04T22:05:07.063369+00:00</updated>
+    <summary>Article by Matthew N. Berger, Erin Mathieu, Cristyn Davies, Ramon Z. Shaban, Shopna Bag, S. Rachel Skinner
+DOI: https://doi.org/10.1515/em-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>A study of a stochastic model and extinction phenomenon of meningitis epidemic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0015/html"/>
+    <id>https://doi.org/10.1515/em-2024-0015</id>
+    <updated>2025-05-04T22:05:07.063382+00:00</updated>
+    <summary>Article by Samaila Jackson Yaga, Funmilayo W.O. Saporu
+DOI: https://doi.org/10.1515/em-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>Understanding the impact of media and latency in information response on the disease propagation: a mathematical model and analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0011/html"/>
+    <id>https://doi.org/10.1515/em-2024-0011</id>
+    <updated>2025-05-04T22:05:07.063396+00:00</updated>
+    <summary>Article by Bharat Kaushik, Sumit Kaur Bhatia, Sanyam Tyagi, Shashank Goel
+DOI: https://doi.org/10.1515/em-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Time-varying reproductive number estimation for practical application in structured populations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0020/html"/>
+    <id>https://doi.org/10.1515/em-2024-0020</id>
+    <updated>2025-05-04T22:05:07.063406+00:00</updated>
+    <summary>Article by Erin Clancey, Eric T. Lofgren
+DOI: https://doi.org/10.1515/em-2024-0020</summary>
+  </entry>
+</feed>

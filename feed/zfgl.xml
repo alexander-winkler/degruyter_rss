@@ -1,90 +1,100 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für germanistische Linguistik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für germanistische Linguistik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-frontmatter2/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Von der Flexion in die Wortbildung und darüber hinaus. Zur diachronen Entwicklung des s-Suffixes im Deutschen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2013/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2013</description>
-    </item>
-    <item>
-      <title>Ellipse und Satz als Elemente einer gemeinsamen strukturellen Domäne. Zu einem syntaktischen Verwandtschaftsverhältnis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2014/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2014</description>
-    </item>
-    <item>
-      <title>„Himmel welcher Schimpf! (…) Ich ein Schneider?“ – Nicht-finite Prädikationskonstruktionen (NFPK) in Dramen des Barock, der Aufklärung, des Sturm und Drang und der Klassik als Inszenierungsverfahren von Emotionalität</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2015/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2015</description>
-    </item>
-    <item>
-      <title>Zur Diskussion: Deutung und Umdeutung am Beispiel von Epizönum, Genus und Implikatur. Die Genderdebatte in der germanistischen Linguistik lässt begriffliche Klarheit vermissen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2016/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2016</description>
-    </item>
-    <item>
-      <title>Edukatorische Dimensionen der Gesundheitskommunikation. Tagungsbericht zur 7. Transdisziplinären Fachtagung des Netzwerks Gesundheitskommunikation (20.–21.10.2023)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2017/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2017</description>
-    </item>
-    <item>
-      <title>Künstliche Intelligenz und Schreiben in (hoch-)schulischen Kontexten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2018/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2018</description>
-    </item>
-    <item>
-      <title>Zeitschriftenschau</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zgl-2024-2019/html</guid>
-      <description>Article by 
-
-                Page range: 405-410
-            
- DOI: https://doi.org/10.1515/zgl-2024-2019</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für germanistische Linguistik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zfgl/53/1/html"/>
+  <updated>2025-05-04T22:13:46.746201+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für germanistische Linguistik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-frontmatter1</id>
+    <updated>2025-05-04T22:13:46.746227+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zgl-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Zeitschriftenschau</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2010/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2010</id>
+    <updated>2025-05-04T22:13:46.746233+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zgl-2025-2010</summary>
+  </entry>
+  <entry>
+    <title>Syntaktische Negation in Verschwörungstheorien: Eine diskursgrammatische Untersuchung der Inexistenz-Konstruktion [es gibt keinX]</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2001/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2001</id>
+    <updated>2025-05-04T22:13:46.746240+00:00</updated>
+    <summary>Article by Sören Stumpf
+DOI: https://doi.org/10.1515/zgl-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Sympathische synthetische Stimmen: Herausforderungen und Nutzen für die Mensch-Maschine-Interaktion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2002/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2002</id>
+    <updated>2025-05-04T22:13:46.746248+00:00</updated>
+    <summary>Article by Florina Zülli
+DOI: https://doi.org/10.1515/zgl-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2003/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2003</id>
+    <updated>2025-05-04T22:13:46.746258+00:00</updated>
+    <summary>Article by Mason A. Wirtz, Simon Pickl, Konstantin Niehaus, Stephan Elspaß, Robert Möller
+DOI: https://doi.org/10.1515/zgl-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>Funktionsverbgefüge unter Druck: Ein Vorschlag zur Typologisierung verbonominaler Konstruktionen des Deutschen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2004/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2004</id>
+    <updated>2025-05-04T22:13:46.746265+00:00</updated>
+    <summary>Article by Fabian Fleißner, Elena Smirnova
+DOI: https://doi.org/10.1515/zgl-2025-2004</summary>
+  </entry>
+  <entry>
+    <title>„Step away from the Computer!“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2005/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2005</id>
+    <updated>2025-05-04T22:13:46.746271+00:00</updated>
+    <summary>Article by Anna Shadrova, Anke Lüdeling, Martin Klotz, Rahel Gajaneh Hartz, Thomas Krause
+DOI: https://doi.org/10.1515/zgl-2025-2005</summary>
+  </entry>
+  <entry>
+    <title>Die Dativalternation im Deutschen vom Standpunkt der einzelsprachlich-funktionellen Syntax: Synchronie und Diachronie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2006/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2006</id>
+    <updated>2025-05-04T22:13:46.746281+00:00</updated>
+    <summary>Article by Klaas Willems, Evi Van Damme, Hilde De Vaere
+DOI: https://doi.org/10.1515/zgl-2025-2006</summary>
+  </entry>
+  <entry>
+    <title>Bericht zur TagungGrammatik des Neuhochdeutschen zwischen Gegenwart und Geschichte,Rauischholzhausen 23.–25. Mai 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2007/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2007</id>
+    <updated>2025-05-04T22:13:46.746287+00:00</updated>
+    <summary>Article by Merle H. Casimir, Paula Nerke
+DOI: https://doi.org/10.1515/zgl-2025-2007</summary>
+  </entry>
+  <entry>
+    <title>„Streit als Chance? Kommunikative Praktiken des Streits als Vehikel sozialer Aushandlung“. Tagungsbericht zur 3. Konferenz derThemaTalkers(14.–15. Juni 2024, hybrid)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2008/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2008</id>
+    <updated>2025-05-04T22:13:46.746296+00:00</updated>
+    <summary>Article by Philipp Leindl, Jan Hensellek
+DOI: https://doi.org/10.1515/zgl-2025-2008</summary>
+  </entry>
+  <entry>
+    <title>Korpora und Sprachdatenressourcen für die Wissenschaftsspracheforschung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2009/html"/>
+    <id>https://doi.org/10.1515/zgl-2025-2009</id>
+    <updated>2025-05-04T22:13:46.746302+00:00</updated>
+    <summary>Article by Cordula Meißner
+DOI: https://doi.org/10.1515/zgl-2025-2009</summary>
+  </entry>
+</feed>

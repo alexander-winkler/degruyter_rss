@@ -1,76 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Multicultural Learning and Teaching</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Multicultural Learning and Teaching</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mlt.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2024-frontmatter2/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Executive editor’s comments: diversity, equity, and inclusion (DEI): valuing humanity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2024-2002/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2024-2002</description>
-    </item>
-    <item>
-      <title>Achieving a more diverse special education teacher workforce: guiding questions for researchers and policymakers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0007/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0007</description>
-    </item>
-    <item>
-      <title>A brief synopsis of the psychosocial educational practices in the Arab higher education institutions: a first person’s viewpoint</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0025/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0025</description>
-    </item>
-    <item>
-      <title>Diversity in geology and geophysics degree programs in Historically Black Colleges and Universities (HBCUs)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0012/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2023-0012</description>
-    </item>
-    <item>
-      <title>Cultural competency training for the social service professions: A systematic literature review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0024/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0024</description>
-    </item>
-    <item>
-      <title>Beyond fraudulent multiculturalism in higher education: moving forward</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0001/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2023-0001</description>
-    </item>
-    <item>
-      <title>Preparing culturally responsive teachers: a systematic review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2023-0004/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2023-0004</description>
-    </item>
-    <item>
-      <title>Preservice teachers’ reflections on teacher self-identities through a multicultural children’s literature project</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0021/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0021</description>
-    </item>
-    <item>
-      <title>Investigating the needs, expectations, problems and experiences of international students in the process of distance education</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0022/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0022</description>
-    </item>
-    <item>
-      <title>Parenting in a new land: the influence of English language proficiency on immigrant parents’ experiences with intergenerational challenges</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mlt-2022-0008/html</guid>
-      <description>Article by Tamara Mae Roose, Meng-Ting Lo DOI: https://doi.org/10.1515/mlt-2022-0008</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Multicultural Learning and Teaching</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mlt/20/1/html"/>
+  <updated>2025-05-04T22:09:54.496486+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mlt.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Multicultural Learning and Teaching</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mlt.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/mlt-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:54.496515+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mlt-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Executive editor’s comments: learning as the central tool of multicultural advancements</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2025-2001/html"/>
+    <id>https://doi.org/10.1515/mlt-2025-2001</id>
+    <updated>2025-05-04T22:09:54.496525+00:00</updated>
+    <summary>Article by Festus E. Obiakor
+DOI: https://doi.org/10.1515/mlt-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Towards a theory of representative bureaucracy in schooling</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0014/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0014</id>
+    <updated>2025-05-04T22:09:54.496534+00:00</updated>
+    <summary>Article by James A. Clifton
+DOI: https://doi.org/10.1515/mlt-2023-0014</summary>
+  </entry>
+  <entry>
+    <title>Diversifying the educator workforce: promising aspects of teacher preparation programs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0038/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0038</id>
+    <updated>2025-05-04T22:09:54.496542+00:00</updated>
+    <summary>Article by Laurel A. LaPorte-Grimes, Marcquis T. Parham
+DOI: https://doi.org/10.1515/mlt-2023-0038</summary>
+  </entry>
+  <entry>
+    <title>A collaborative model to restore racial diversity in the teaching profession</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0039/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0039</id>
+    <updated>2025-05-04T22:09:54.496549+00:00</updated>
+    <summary>Article by Christa Agiro, Amy Jomantas, Ganiva Reyes, Maya Dorsey, James Cosby, Sandra Sumerfield, Connie Bowman, Amy Anyanwu, Phyllis Adams, Tammy Schwartz
+DOI: https://doi.org/10.1515/mlt-2023-0039</summary>
+  </entry>
+  <entry>
+    <title>Recruiting and retaining BIPOC teachers: project HEART</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0016/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0016</id>
+    <updated>2025-05-04T22:09:54.496556+00:00</updated>
+    <summary>Article by Elena Andrei, Terri Purcell, Debbie Jackson
+DOI: https://doi.org/10.1515/mlt-2023-0016</summary>
+  </entry>
+  <entry>
+    <title>Recruitment of students of color into the teaching profession: analysis of the “Like Me” program</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0020/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0020</id>
+    <updated>2025-05-04T22:09:54.496564+00:00</updated>
+    <summary>Article by Vincent T. Laverick
+DOI: https://doi.org/10.1515/mlt-2023-0020</summary>
+  </entry>
+  <entry>
+    <title>Addressing the BIPOC teacher shortage: voices of Black male teachers</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0022/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0022</id>
+    <updated>2025-05-04T22:09:54.496575+00:00</updated>
+    <summary>Article by Susan Gregson, Juan Gerardo, Jonathan M. Breiner
+DOI: https://doi.org/10.1515/mlt-2023-0022</summary>
+  </entry>
+  <entry>
+    <title>Diversification of the educator workforce: toward communities of practice and integrated networks of care</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0017/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0017</id>
+    <updated>2025-05-04T22:09:54.496581+00:00</updated>
+    <summary>Article by Romena Holbert, Ganiva Reyes, Belinda L. Flick, Connie Bowman, Trey Clements, Tammy Schwartz, Christa Agiro, Novea McIntosh, Rochonda Nenonene, Sandra Sumerfield
+DOI: https://doi.org/10.1515/mlt-2023-0017</summary>
+  </entry>
+  <entry>
+    <title>Diversifying the educator workforce: a conversation with Eric Duncan, The Education Trust</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mlt-2023-0015/html"/>
+    <id>https://doi.org/10.1515/mlt-2023-0015</id>
+    <updated>2025-05-04T22:09:54.496592+00:00</updated>
+    <summary>Article by James Clifton, Eric Duncan
+DOI: https://doi.org/10.1515/mlt-2023-0015</summary>
+  </entry>
+</feed>

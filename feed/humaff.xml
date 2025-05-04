@@ -1,82 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Human Affairs</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Human Affairs</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/humaff.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-frontmatter3/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Why Whitehead? A Personal Confession</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0070/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0070</description>
-    </item>
-    <item>
-      <title>Editors’ Introduction to the Special Issue on the relevance of the philosophy of A.N. Whitehead to Human Affairs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0071/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0071/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0071</description>
-    </item>
-    <item>
-      <title>A.N. Whitehead and Process Thought</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0072/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0072/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0072</description>
-    </item>
-    <item>
-      <title>The Theory of Projection</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0025/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0025</description>
-    </item>
-    <item>
-      <title>Between Event and Object. Rhythms of Experience in Whitehead</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0016/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0016</description>
-    </item>
-    <item>
-      <title>Critical Thinking as an Integrative Process: Debating Wolves in Yellowstone</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2023-0120/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2023-0120/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2023-0120</description>
-    </item>
-    <item>
-      <title>Whitehead and Victorian Philosophy of Science: A Historical Investigation of the Concept of Hypothesis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0015/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0015</description>
-    </item>
-    <item>
-      <title>The Natural Right to Property as an Instrumental Right</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0011/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0011</description>
-    </item>
-    <item>
-      <title>Self-creation Without Natural Limits? On a Certain Blindness in Richard Rorty’s Anti-authoritarian Pragmatism</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2023-0129/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2023-0129/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2023-0129</description>
-    </item>
-    <item>
-      <title>Lévinas’s Philosophy of the Face: Anxiety, Responsibility, and Ethical Moments that Arise in Encounters with the Other</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0021/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0021</description>
-    </item>
-    <item>
-      <title>Arran Stibbe: Econarrative: Ethics, Ecology, and the Search for New Narratives to Live By</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/humaff-2024-0046/html</guid>
-      <description>Article by Amir Ghorbanpour, Hossein Davari DOI: https://doi.org/10.1515/humaff-2024-0046</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Human Affairs</title>
+  <link href="https://www.degruyterbrill.com/journal/key/humaff/35/1/html"/>
+  <updated>2025-05-04T22:06:17.610955+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/humaff.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Human Affairs</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/humaff.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/humaff-2025-frontmatter1</id>
+    <updated>2025-05-04T22:06:17.610997+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/humaff-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Ground Projects and the Joy of Living</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0059/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0059</id>
+    <updated>2025-05-04T22:06:17.611005+00:00</updated>
+    <summary>Article by Lucas Scripter
+DOI: https://doi.org/10.1515/humaff-2024-0059</summary>
+  </entry>
+  <entry>
+    <title>On the Funding Chances of Political Theorizing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0082/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0082</id>
+    <updated>2025-05-04T22:06:17.611015+00:00</updated>
+    <summary>Article by José María Rosales
+DOI: https://doi.org/10.1515/humaff-2024-0082</summary>
+  </entry>
+  <entry>
+    <title>Propaganda Model in Slovak Media Space: A Case Study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0062/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0062</id>
+    <updated>2025-05-04T22:06:17.611024+00:00</updated>
+    <summary>Article by Martin Karas, Tomáš Imrich Profant
+DOI: https://doi.org/10.1515/humaff-2024-0062</summary>
+  </entry>
+  <entry>
+    <title>Helping in Times of War: How Uncertainty Modulates Aid to Ukrainian Refugees through Compassion and Threat</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0013/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0013</id>
+    <updated>2025-05-04T22:06:17.611036+00:00</updated>
+    <summary>Article by Terri Mannarini, Mario Angelelli, Enrico Ciavolino, Serena Arima, Mariano Longo, Pierpaolo Limone, Sergio Salvatore
+DOI: https://doi.org/10.1515/humaff-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Relational Processes and Social Projections in Facebook Selfie-Quotation Juxtaposition: An Exploratory Study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0037/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0037</id>
+    <updated>2025-05-04T22:06:17.611044+00:00</updated>
+    <summary>Article by Yuan Xiong, Leonardo O. Munalim
+DOI: https://doi.org/10.1515/humaff-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>How We Communicate Forgiveness to Our Partners Matters: Forgiveness-Granting Strategies, Forgiveness Tendency, Commitment, and Relationship Satisfaction in Dating and Married Couples</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0022/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0022</id>
+    <updated>2025-05-04T22:06:17.611051+00:00</updated>
+    <summary>Article by Žofia Dršťáková, Lucia Záhorcová, Peter Teličák
+DOI: https://doi.org/10.1515/humaff-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Impact of Financial Stress on Academic Performance of University Students in South East Nigeria</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0002/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0002</id>
+    <updated>2025-05-04T22:06:17.611060+00:00</updated>
+    <summary>Article by Anuli R. Ogbuagu, Precious I. Ohalete, Chinyere T. Nwaoga, Favour C. Uroko, Ahamba Kenneth Onyeanuna
+DOI: https://doi.org/10.1515/humaff-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Gender Egalitarianism in Focus: An Integrative Synthesis of Empirical Evidence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0094/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0094</id>
+    <updated>2025-05-04T22:06:17.611071+00:00</updated>
+    <summary>Article by Paulína Mihaľová, Anna Lašáková, Janka Kottulová, Magdaléna Musilová
+DOI: https://doi.org/10.1515/humaff-2024-0094</summary>
+  </entry>
+  <entry>
+    <title>How Do Metaphors Emerge from Cultural Images? On Hermeneutics of Sweetness</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/humaff-2024-0106/html"/>
+    <id>https://doi.org/10.1515/humaff-2024-0106</id>
+    <updated>2025-05-04T22:06:17.611090+00:00</updated>
+    <summary>Article by Anton Vydra
+DOI: https://doi.org/10.1515/humaff-2024-0106</summary>
+  </entry>
+</feed>

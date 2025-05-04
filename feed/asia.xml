@@ -1,70 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Asiatische Studien - Études Asiatiques</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Asiatische Studien - Études Asiatiques</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2024-frontmatter3/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Intertextuality, Transtextuality, and Rewriting in the Jewish, Christian and Islamic Literary and Legal Traditions: Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2024-0023/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2024-0023</description>
-    </item>
-    <item>
-      <title>Quranic Law and Its ‘Biblical’ Intertexts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0017/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0017</description>
-    </item>
-    <item>
-      <title>The Use of Islamic Legal Discourse in Literature: How Did Premodern Arab Critics Classify and Analyze Legal Intertextuality?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0023/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0023</description>
-    </item>
-    <item>
-      <title>Testimony, Lying and Calumny at the Interface of Islamic Law and Arabic Poetry</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0021/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0021</description>
-    </item>
-    <item>
-      <title>An Appalled Ghost Guiding Readers Across Semiotic Fault Lines: The Contribution of Literature to the Appreciation of Legal Change</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0016/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0016</description>
-    </item>
-    <item>
-      <title>General Remarks on Plagiarism and Authorship in Islamic Religious Texts and the Case of The Special Qualities of Friday by Zayn al-Dīn al-ʿĀmilī (d. 965/1558)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0029/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0029</description>
-    </item>
-    <item>
-      <title>Medieval Rabbinic Literature Seen in a New Light: The Sources of Yalkut Shimoni on the Book of the Twelve Prophets</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0027/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0027</description>
-    </item>
-    <item>
-      <title>Ibn al-Ṭayyib’s Fiqh al-Naṣrāniyya</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0020/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0020</description>
-    </item>
-    <item>
-      <title>The Quiet Quote: Thoughts on Quotation Norms and Plagiarism in the Judeo-Arabic Culture of the High and Late Middle Ages</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/asia-2023-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/asia-2023-0022/html</guid>
-      <description>Article by Neri Y. Ariel DOI: https://doi.org/10.1515/asia-2023-0022</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Asiatische Studien - Études Asiatiques</title>
+  <link href="https://www.degruyterbrill.com/journal/key/asia/78/4/html"/>
+  <updated>2025-05-04T22:03:07.430770+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Asiatische Studien - Études Asiatiques</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2024-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/asia-2024-frontmatter4</id>
+    <updated>2025-05-04T22:03:07.430797+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/asia-2024-frontmatter4</summary>
+  </entry>
+  <entry>
+    <title>The Emergence of Arabic Scientific Terminology at the Eastern Contact Zone: Calque and Loanword in Early ʿAbbāsid Time (750–800 CE)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0030/html"/>
+    <id>https://doi.org/10.1515/asia-2023-0030</id>
+    <updated>2025-05-04T22:03:07.430806+00:00</updated>
+    <summary>Article by Milad Abedi, Johannes Thomann
+DOI: https://doi.org/10.1515/asia-2023-0030</summary>
+  </entry>
+  <entry>
+    <title>The ‘Orthodoxisation’ of the Ancient Indian Marriage by Bride Price (śulka). Insights into the Ārṣa and Āsura Forms of Marriage in and out of the Dharmaśāstric Tradition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0035/html"/>
+    <id>https://doi.org/10.1515/asia-2023-0035</id>
+    <updated>2025-05-04T22:03:07.430815+00:00</updated>
+    <summary>Article by Alessandro Giudice
+DOI: https://doi.org/10.1515/asia-2023-0035</summary>
+  </entry>
+  <entry>
+    <title>Getrennte Wege der Rezeption: Susanne Hornfecks RomanIna aus Chinain Taiwan und Festlandchina</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0007/html"/>
+    <id>https://doi.org/10.1515/asia-2023-0007</id>
+    <updated>2025-05-04T22:03:07.430824+00:00</updated>
+    <summary>Article by Yu Weicheng
+DOI: https://doi.org/10.1515/asia-2023-0007</summary>
+  </entry>
+  <entry>
+    <title>Sūrdās’ poetry in the community of Dādūpanth</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0013/html"/>
+    <id>https://doi.org/10.1515/asia-2023-0013</id>
+    <updated>2025-05-04T22:03:07.430831+00:00</updated>
+    <summary>Article by Biljana Zrnic
+DOI: https://doi.org/10.1515/asia-2023-0013</summary>
+  </entry>
+  <entry>
+    <title>Reinhard, A. Kevin:Lived Islam: Colloquial Religion in a Cosmopolitan Tradition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2022-0039/html"/>
+    <id>https://doi.org/10.1515/asia-2022-0039</id>
+    <updated>2025-05-04T22:03:07.430838+00:00</updated>
+    <summary>Article by Majid Daneshgar
+DOI: https://doi.org/10.1515/asia-2022-0039</summary>
+  </entry>
+  <entry>
+    <title>Yoga und Yogi, ein Überblick: Besprechung vonTardan-Masquelier, Ysé, dir.:Yoga: L’encyclopédie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2024-0025/html"/>
+    <id>https://doi.org/10.1515/asia-2024-0025</id>
+    <updated>2025-05-04T22:03:07.430845+00:00</updated>
+    <summary>Article by Peter Schreiner
+DOI: https://doi.org/10.1515/asia-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Xiong, Victor Cunrui (trans.):A Thorough Exploration in Historiography: Shitong 史通 / Liu Zhiji (661–721)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2024-0027/html"/>
+    <id>https://doi.org/10.1515/asia-2024-0027</id>
+    <updated>2025-05-04T22:03:07.430851+00:00</updated>
+    <summary>Article by Kathrin Leese-Messing
+DOI: https://doi.org/10.1515/asia-2024-0027</summary>
+  </entry>
+</feed>

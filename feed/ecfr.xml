@@ -1,40 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>European Company and Financial Law Review</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in European Company and Financial Law Review</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-frontmatter2/html</guid>
-      <description>Article by Suren Gomtsian, Edmund Schuster DOI: https://doi.org/10.1515/ecfr-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>From London to the Continent: Rethinking Corporate Governance Codes in Europe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0005/html</guid>
-      <description>Article by Suren Gomtsian, Edmund Schuster DOI: https://doi.org/10.1515/ecfr-2024-0005</description>
-    </item>
-    <item>
-      <title>Traditional and Digital Limits of Collective Investment Schemes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0007/html</guid>
-      <description>Article by Suren Gomtsian, Edmund Schuster DOI: https://doi.org/10.1515/ecfr-2024-0007</description>
-    </item>
-    <item>
-      <title>The Sanctions Principles-Based Regulation: A Blueprint for a New Approach for the EU Sanctions Policy (Part I)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0006/html</guid>
-      <description>Article by Suren Gomtsian, Edmund Schuster DOI: https://doi.org/10.1515/ecfr-2024-0006</description>
-    </item>
-    <item>
-      <title>Tax Reforms and the Decline of the London Stock Market: The Untold Story</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ecfr-2024-0008/html</guid>
-      <description>Article by Suren Gomtsian, Edmund Schuster DOI: https://doi.org/10.1515/ecfr-2024-0008</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>European Company and Financial Law Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ecfr/21/5-6/html"/>
+  <updated>2025-05-04T22:04:53.118221+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in European Company and Financial Law Review</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Reform of the CMDI Framework – Driving Off With the Brakes On</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0018/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0018</id>
+    <updated>2025-05-04T22:04:53.118255+00:00</updated>
+    <summary>Article by Ioannis G. Asimakopoulos, Tobias H. Tröger
+DOI: https://doi.org/10.1515/ecfr-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>The Digitalisation Directive II– a Major Expansion and Upgrade of EU Business Registers –</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0023/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0023</id>
+    <updated>2025-05-04T22:04:53.118266+00:00</updated>
+    <summary>Article by Jessica Schmidt
+DOI: https://doi.org/10.1515/ecfr-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>The Simple Joint Stock Company: Emergence of a New Close Company in Poland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0021/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0021</id>
+    <updated>2025-05-04T22:04:53.118273+00:00</updated>
+    <summary>Article by Adam Opalski, Krzysztof Oplustil, Tomasz Sójka, Anne-Marie Weber
+DOI: https://doi.org/10.1515/ecfr-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>The Governance of ESG Ratings and Benchmarks (Infomediaries) as Gatekeepers: Exit, Voice and Coercion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0022/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0022</id>
+    <updated>2025-05-04T22:04:53.118282+00:00</updated>
+    <summary>Article by David Ramos Muñoz, Agnieszka Smoleńska
+DOI: https://doi.org/10.1515/ecfr-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Certainties and Uncertainties Surrounding Central Bank Digital Currencies (CBDC) vis-à-vis the EU Anti-Money Laundering Regulatory Framework</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0020/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0020</id>
+    <updated>2025-05-04T22:04:53.118290+00:00</updated>
+    <summary>Article by Andrea Minto
+DOI: https://doi.org/10.1515/ecfr-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Exit Bonuses for Management Board Members of German Stock Corporations: Legal Framework for Adequate Incentivisation by Financial Investors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0024/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0024</id>
+    <updated>2025-05-04T22:04:53.118298+00:00</updated>
+    <summary>Article by York Schnorbus, Peter Klormann
+DOI: https://doi.org/10.1515/ecfr-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>“ESG” Targets in the Corporate Governance of Banks: KPI and Double Materiality (Impact and Financial Materiality)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0025/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0025</id>
+    <updated>2025-05-04T22:04:53.118306+00:00</updated>
+    <summary>Article by Luca Tronci
+DOI: https://doi.org/10.1515/ecfr-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Corporate Purpose, Social Enterprise Law and the Future of the Corporation: A UK Perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0026/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-0026</id>
+    <updated>2025-05-04T22:04:53.118313+00:00</updated>
+    <summary>Article by J S Liptrap
+DOI: https://doi.org/10.1515/ecfr-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-frontmatter5-6/html"/>
+    <id>https://doi.org/10.1515/ecfr-2024-frontmatter5-6</id>
+    <updated>2025-05-04T22:04:53.118320+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ecfr-2024-frontmatter5-6</summary>
+  </entry>
+</feed>

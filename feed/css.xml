@@ -1,52 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Chinese Semiotic Studies</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Chinese Semiotic Studies</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-frontmatter3/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Peirce’s philosophy of language</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2025/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2025</description>
-    </item>
-    <item>
-      <title>Open community in Peirce’s pragmatism</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2020/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2020</description>
-    </item>
-    <item>
-      <title>Pragmatism, logic, and manuscript R318</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2021/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2021</description>
-    </item>
-    <item>
-      <title>The relation of Peirce’s abduction to inference to the best explanation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2022/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2022</description>
-    </item>
-    <item>
-      <title>The role of the normative sciences in the evolution of Peirce’s pragmatism</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2023/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2023</description>
-    </item>
-    <item>
-      <title>Football statues and semiotics</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/css-2024-2024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/css-2024-2024/html</guid>
-      <description>Article by Bent Sørensen DOI: https://doi.org/10.1515/css-2024-2024</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chinese Semiotic Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/css/21/1/html"/>
+  <updated>2025-05-04T22:04:23.488444+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Chinese Semiotic Studies</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/css-2025-frontmatter1</id>
+    <updated>2025-05-04T22:04:23.488471+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/css-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Reinterpreting Uexküll’s concept ofUmwelt: bridging science, humanities, and arts with harmony</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2004/html"/>
+    <id>https://doi.org/10.1515/css-2025-2004</id>
+    <updated>2025-05-04T22:04:23.488481+00:00</updated>
+    <summary>Article by Lei Han, Haoran Sun
+DOI: https://doi.org/10.1515/css-2025-2004</summary>
+  </entry>
+  <entry>
+    <title>Melancholic and monastic: moss as a symbol in Chinese literature</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2005/html"/>
+    <id>https://doi.org/10.1515/css-2025-2005</id>
+    <updated>2025-05-04T22:04:23.488489+00:00</updated>
+    <summary>Article by Jia Peng, Xiaojun Zheng
+DOI: https://doi.org/10.1515/css-2025-2005</summary>
+  </entry>
+  <entry>
+    <title>Biosemiotics, code biology, and operational interpretation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2003/html"/>
+    <id>https://doi.org/10.1515/css-2025-2003</id>
+    <updated>2025-05-04T22:04:23.488497+00:00</updated>
+    <summary>Article by Liqian Zhou
+DOI: https://doi.org/10.1515/css-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>Regulated verse and semiotic structure: a poem by Li Shangyin (李商隠)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2006/html"/>
+    <id>https://doi.org/10.1515/css-2025-2006</id>
+    <updated>2025-05-04T22:04:23.488505+00:00</updated>
+    <summary>Article by John A. F. Hopkins
+DOI: https://doi.org/10.1515/css-2025-2006</summary>
+  </entry>
+  <entry>
+    <title>Umweltbuilding in creative education: exploring interdisciplinary pedagogies in the moduleAcrossRCA</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2007/html"/>
+    <id>https://doi.org/10.1515/css-2025-2007</id>
+    <updated>2025-05-04T22:04:23.488513+00:00</updated>
+    <summary>Article by Marilia Jardim
+DOI: https://doi.org/10.1515/css-2025-2007</summary>
+  </entry>
+  <entry>
+    <title>Fear, death, and love: a cultural semiotic view of animal symbols in Dürrenmatt’sThe Dog</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2008/html"/>
+    <id>https://doi.org/10.1515/css-2025-2008</id>
+    <updated>2025-05-04T22:04:23.488521+00:00</updated>
+    <summary>Article by Wenxi Zhu, Jinghan Yang
+DOI: https://doi.org/10.1515/css-2025-2008</summary>
+  </entry>
+  <entry>
+    <title>Legal idealism of pre-Qin Confucians: tracing the ideas of Confucius, Mencius, and Xunzi</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2001/html"/>
+    <id>https://doi.org/10.1515/css-2025-2001</id>
+    <updated>2025-05-04T22:04:23.488528+00:00</updated>
+    <summary>Article by Lijue Song, Xiaohong Ma
+DOI: https://doi.org/10.1515/css-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>The multimodality of complaint: a case study of Chinese EFL learners</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2002/html"/>
+    <id>https://doi.org/10.1515/css-2025-2002</id>
+    <updated>2025-05-04T22:04:23.488535+00:00</updated>
+    <summary>Article by Xin Sun, Jihong Zhao
+DOI: https://doi.org/10.1515/css-2025-2002</summary>
+  </entry>
+</feed>

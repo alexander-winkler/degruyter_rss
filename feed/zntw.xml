@@ -1,110 +1,84 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für die neutestamentliche Wissenschaft </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für die neutestamentliche Wissenschaft </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zntw.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-frontmatter2/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>A Stone that Winnows: Luke 20,18 as a Creative Quotation of Scripture</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0009/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0009</description>
-    </item>
-    <item>
-      <title>Ναζαρέτ and ναζωραῖος in the Gospel of John: The Johannine Jesus as a Nazirite?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0010/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0010</description>
-    </item>
-    <item>
-      <title>Divine and Human Justice in Paul: On the Jewishness of God’s χάρις in Romans 3.21–5.11</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0011/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0011</description>
-    </item>
-    <item>
-      <title>The Early Jewish Abraham Tradition as a Primary Source of Theocentric Universalism in Romans: Paul’s Argument in Rom 4:2–17a; 8:32, and 15:7–12</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0012/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0012</description>
-    </item>
-    <item>
-      <title>“For a Little While Lower than the Angels” (Ps 8,6): Humanity’s Temporary Inferiority in Hebrews 2,7</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0013/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0013</description>
-    </item>
-    <item>
-      <title>The Early Reception of 2 Peter 3:15–16</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0014/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0014</description>
-    </item>
-    <item>
-      <title>“Do Not Weep for Me, but Weep for Yourselves”: Luke 23,27–31 and Plato’s Phaedo 117c</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0015/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0015</description>
-    </item>
-    <item>
-      <title>Zeitschriftenschau</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0016/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0016</description>
-    </item>
-    <item>
-      <title>Eingegangene Bücher und Druckschriften</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/znw-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/znw-2024-0017/html</guid>
-      <description>Article by 
-
-                Page range: 274-274
-            
- DOI: https://doi.org/10.1515/znw-2024-0017</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für die neutestamentliche Wissenschaft </title>
+  <link href="https://www.degruyterbrill.com/journal/key/zntw/116/1/html"/>
+  <updated>2025-05-04T22:14:04.164912+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zntw.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für die neutestamentliche Wissenschaft </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zntw.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/znw-2025-frontmatter1</id>
+    <updated>2025-05-04T22:14:04.164937+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/znw-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Zeitschriftenschau</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0008/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0008</id>
+    <updated>2025-05-04T22:14:04.164945+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/znw-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Das „Geier“-Logion Q 17,37 und Plutarch, Moralia 918C</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0001/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0001</id>
+    <updated>2025-05-04T22:14:04.164951+00:00</updated>
+    <summary>Article by Takashi Onuki
+DOI: https://doi.org/10.1515/znw-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Reconsidering the Hyperbolic Camel (Mark 10,25)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0002/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0002</id>
+    <updated>2025-05-04T22:14:04.164961+00:00</updated>
+    <summary>Article by Stephen R. Llewelyn, Will Robinson
+DOI: https://doi.org/10.1515/znw-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Die exegetische Bedeutung einer numerischen Inkongruenz von Subjekt und Verb. Das Beispiel λαός in Lk 20,19</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0003/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0003</id>
+    <updated>2025-05-04T22:14:04.164968+00:00</updated>
+    <summary>Article by Hans Förster
+DOI: https://doi.org/10.1515/znw-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Geordnete Zeiten als Jahreszeiten. Zum Verständnis von Apg 17,26 vor dem Hintergrund des Aratos-Zitats aus den Phainomena sowie Apg 14,17</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0004/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0004</id>
+    <updated>2025-05-04T22:14:04.164978+00:00</updated>
+    <summary>Article by Magnus Rabel
+DOI: https://doi.org/10.1515/znw-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Mystic or Sarcastic? 2 Corinthians 12,2–4 as Feigned Praise of a Super-Apostle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0005/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0005</id>
+    <updated>2025-05-04T22:14:04.164984+00:00</updated>
+    <summary>Article by Jonathan Rivett Robinson
+DOI: https://doi.org/10.1515/znw-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Dispute at the Table. Reflections on the Incident in Antioch (Gal 2,11–14) in Light of the Bylaws of AncientCollegia</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0006/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0006</id>
+    <updated>2025-05-04T22:14:04.164993+00:00</updated>
+    <summary>Article by Romeo Popa
+DOI: https://doi.org/10.1515/znw-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>The εἴρων/ἀλαζών Dynamic and New Testament Studies: The Case of theTractatus Coislinianus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/znw-2025-0007/html"/>
+    <id>https://doi.org/10.1515/znw-2025-0007</id>
+    <updated>2025-05-04T22:14:04.165000+00:00</updated>
+    <summary>Article by Matthew Pawlak
+DOI: https://doi.org/10.1515/znw-2025-0007</summary>
+  </entry>
+</feed>

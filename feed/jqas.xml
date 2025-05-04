@@ -1,52 +1,61 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Quantitative Analysis in Sports</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Quantitative Analysis in Sports</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-frontmatter4/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>A comprehensive survey of the home advantage in American football</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0016/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-0016</description>
-    </item>
-    <item>
-      <title>Introducing Grid WAR: rethinking WAR for starting pitchers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0095/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0095/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2023-0095</description>
-    </item>
-    <item>
-      <title>Improving NHL draft outcome predictions using scouting reports</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0047/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-0047</description>
-    </item>
-    <item>
-      <title>Comparison of individual playing styles in football</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2024-0041/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2024-0041</description>
-    </item>
-    <item>
-      <title>A generative approach to frame-level multi-competitor races</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0091/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0091/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2023-0091</description>
-    </item>
-    <item>
-      <title>An empirical Bayes approach for estimating skill models for professional darts players</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0084/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jqas-2023-0084/html</guid>
-      <description>Article by Martin B. Haugh, Chun Wang DOI: https://doi.org/10.1515/jqas-2023-0084</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Quantitative Analysis in Sports</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jqas/21/2/html"/>
+  <updated>2025-05-04T22:08:42.166010+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Quantitative Analysis in Sports</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jqas-2025-frontmatter2</id>
+    <updated>2025-05-04T22:08:42.166059+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jqas-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>A hierarchical approach to modeling golf hole scores with Hardy distributions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0036/html"/>
+    <id>https://doi.org/10.1515/jqas-2024-0036</id>
+    <updated>2025-05-04T22:08:42.166068+00:00</updated>
+    <summary>Article by Marie Hardt, Dan Nettleton
+DOI: https://doi.org/10.1515/jqas-2024-0036</summary>
+  </entry>
+  <entry>
+    <title>Estimating individual contributions to team success in women’s college volleyball</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0038/html"/>
+    <id>https://doi.org/10.1515/jqas-2024-0038</id>
+    <updated>2025-05-04T22:08:42.166079+00:00</updated>
+    <summary>Article by Scott Powers, Luke Stancil, Naomi Consiglio
+DOI: https://doi.org/10.1515/jqas-2024-0038</summary>
+  </entry>
+  <entry>
+    <title>Age and performance in masters swimming and running</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0018/html"/>
+    <id>https://doi.org/10.1515/jqas-2024-0018</id>
+    <updated>2025-05-04T22:08:42.166087+00:00</updated>
+    <summary>Article by Richard De Veaux, Anna Plantinga, Elizabeth Upton
+DOI: https://doi.org/10.1515/jqas-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>A family of solutions related to Shin’s model for probability forecasts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0064/html"/>
+    <id>https://doi.org/10.1515/jqas-2024-0064</id>
+    <updated>2025-05-04T22:08:42.166094+00:00</updated>
+    <summary>Article by Melis Kizildemir, Ertugrul Akin, Altug Alkan
+DOI: https://doi.org/10.1515/jqas-2024-0064</summary>
+  </entry>
+  <entry>
+    <title>Penalty kicks: an adversarial risk analysis (ARA) perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0022/html"/>
+    <id>https://doi.org/10.1515/jqas-2024-0022</id>
+    <updated>2025-05-04T22:08:42.166103+00:00</updated>
+    <summary>Article by Samuel Luxenberg, Refik Soyer, Sudip Bose
+DOI: https://doi.org/10.1515/jqas-2024-0022</summary>
+  </entry>
+</feed>

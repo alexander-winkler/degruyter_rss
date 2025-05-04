@@ -1,46 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Cognitive Linguistics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Cognitive Linguistics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cog-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cog-2024-frontmatter4/html</guid>
-      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Using constructions to measure developmental language complexity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0062/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0062/html</guid>
-      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0062</description>
-    </item>
-    <item>
-      <title>Inferences about event outcomes influence text-based memory of event outcomes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0053/html</guid>
-      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0053</description>
-    </item>
-    <item>
-      <title>Conceptualisation of event roles in L1 and L2 by Japanese learners of English: a cross-linguistic comparison of perspectives of event construal</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0127/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0127/html</guid>
-      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0127</description>
-    </item>
-    <item>
-      <title>Probabilistic reduction and constructionalization: a usage-based diachronic account of the diffusion and conventionalization of the Spanish la de  &lt;noun&gt; que construction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0112/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0112/html</guid>
-      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0112</description>
-    </item>
-    <item>
-      <title>Attraction or differentiation: diachronic changes in the causative alternation of Chinese change of state verbs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/cog-2023-0094/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/cog-2023-0094/html</guid>
-      <description>Article by Jing Du, Shan Zuo, Fuyin Thomas Li DOI: https://doi.org/10.1515/cog-2023-0094</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Cognitive Linguistics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/cogl/36/1/html"/>
+  <updated>2025-05-04T22:04:04.855675+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Cognitive Linguistics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/cog-2025-frontmatter1</id>
+    <updated>2025-05-04T22:04:04.855700+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/cog-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Language change in a constructional network: the emergence of Mandarin [bi N hai N] comparative constructions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0019/html"/>
+    <id>https://doi.org/10.1515/cog-2024-0019</id>
+    <updated>2025-05-04T22:04:04.855707+00:00</updated>
+    <summary>Article by Meili Liu, Hubert Cuyckens, Fangqiong Zhan
+DOI: https://doi.org/10.1515/cog-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Comprehension of object relatives in Spanish: the role of frequency and transparency in acquisition and adult grammar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0016/html"/>
+    <id>https://doi.org/10.1515/cog-2024-0016</id>
+    <updated>2025-05-04T22:04:04.855714+00:00</updated>
+    <summary>Article by Miquel Llompart, Sara Fernández Santos, Ewa Dąbrowska
+DOI: https://doi.org/10.1515/cog-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>The interplay of verbs and argument structure constructions in second language processing: roles of verb’s lexical properties and verb–construction association</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0042/html"/>
+    <id>https://doi.org/10.1515/cog-2024-0042</id>
+    <updated>2025-05-04T22:04:04.855721+00:00</updated>
+    <summary>Article by Hyunwoo Kim, Gyu-Ho Shin
+DOI: https://doi.org/10.1515/cog-2024-0042</summary>
+  </entry>
+  <entry>
+    <title>Sociopragmatic pronouns in Limburgian: inferring speakers’ agency from self-reported automaticity, attitudes, and metalinguistic awareness</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2023-0141/html"/>
+    <id>https://doi.org/10.1515/cog-2023-0141</id>
+    <updated>2025-05-04T22:04:04.855727+00:00</updated>
+    <summary>Article by Joske Piepers, Ad Backus, Jos Swanenberg
+DOI: https://doi.org/10.1515/cog-2023-0141</summary>
+  </entry>
+  <entry>
+    <title>Event conflation in high stakes testing: a comparison of usage and relationship to writing scores by language types</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0005/html"/>
+    <id>https://doi.org/10.1515/cog-2024-0005</id>
+    <updated>2025-05-04T22:04:04.855733+00:00</updated>
+    <summary>Article by Ryan Spring
+DOI: https://doi.org/10.1515/cog-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>Corrigendum to: Force dynamics as the path to the Spanish subjunctive</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-2001/html"/>
+    <id>https://doi.org/10.1515/cog-2024-2001</id>
+    <updated>2025-05-04T22:04:04.855739+00:00</updated>
+    <summary>Article by Francisco Javier García Yanes
+DOI: https://doi.org/10.1515/cog-2024-2001</summary>
+  </entry>
+</feed>

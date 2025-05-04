@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Open Computer Science</title>
+  <link href="https://www.degruyterbrill.com/journal/key/comp/15/1/html"/>
+  <updated>2025-05-04T22:04:10.945560+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/comp.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Open Computer Science</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/comp.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Intelligent data collection algorithm research for WSNs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/comp-2024-0019/html"/>
+    <id>https://doi.org/10.1515/comp-2024-0019</id>
+    <updated>2025-05-04T22:04:10.945603+00:00</updated>
+    <summary>Article by Weihe Zhong
+DOI: https://doi.org/10.1515/comp-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>A novel behavioral health care dataset creation from multiple drug review datasets and drugs prescription using EDA</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/comp-2025-0025/html"/>
+    <id>https://doi.org/10.1515/comp-2025-0025</id>
+    <updated>2025-05-04T22:04:10.945617+00:00</updated>
+    <summary>Article by Prabhakar Gantela, Merlin Linda George, Sudheer Reddy Bandi, Nagamani Samineni, Sonkoju Nagarjuna Chary
+DOI: https://doi.org/10.1515/comp-2025-0025</summary>
+  </entry>
+  <entry>
+    <title>Speech emotion recognition using long-term average spectrum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/comp-2025-0023/html"/>
+    <id>https://doi.org/10.1515/comp-2025-0023</id>
+    <updated>2025-05-04T22:04:10.945627+00:00</updated>
+    <summary>Article by Luis David Huerta-Hernández, Nayeli Joaquinita Meléndez-Acosta, David Ernesto Troncoso-Romero, Julio César Ramírez-Pacheco, Jose Antonio León-Borges
+DOI: https://doi.org/10.1515/comp-2025-0023</summary>
+  </entry>
+  <entry>
+    <title>PLASMA-Privacy-Preserved Lightweight and Secure Multi-level Authentication scheme for IoMT-based smart healthcare</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/comp-2025-0024/html"/>
+    <id>https://doi.org/10.1515/comp-2025-0024</id>
+    <updated>2025-05-04T22:04:10.945637+00:00</updated>
+    <summary>Article by Manjunath Hegde, Karthik M., Varun Hegde, Rohini R. Rao, Vinayak M. Mantoor, Radhakrishna Bhat
+DOI: https://doi.org/10.1515/comp-2025-0024</summary>
+  </entry>
+  <entry>
+    <title>Blended teaching design of UMU interactive learning platform for cultivating students’ cultural literacy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/comp-2024-0021/html"/>
+    <id>https://doi.org/10.1515/comp-2024-0021</id>
+    <updated>2025-05-04T22:04:10.945647+00:00</updated>
+    <summary>Article by Yanqing Shang
+DOI: https://doi.org/10.1515/comp-2024-0021</summary>
+  </entry>
+</feed>

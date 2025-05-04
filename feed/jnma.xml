@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Numerical Mathematics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jnma/33/1/html"/>
+  <updated>2025-05-04T22:08:28.032021+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnma.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Numerical Mathematics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnma.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jnma-2025-frontmatter1</id>
+    <updated>2025-05-04T22:08:28.032069+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jnma-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Stabilized weighted reduced order methods for parametrized advection-dominated optimal control problems governed by partial differential equations with random inputs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0006/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0006</id>
+    <updated>2025-05-04T22:08:28.032080+00:00</updated>
+    <summary>Article by Fabio Zoccolan, Maria Strazzullo, Gianluigi Rozza
+DOI: https://doi.org/10.1515/jnma-2023-0006</summary>
+  </entry>
+  <entry>
+    <title>Augmenting the grad-div stabilization for Taylor–Hood finite elements with a vorticity stabilization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0118/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0118</id>
+    <updated>2025-05-04T22:08:28.032095+00:00</updated>
+    <summary>Article by Volker John, Christian Merdon, Marwa Zainelabdeen
+DOI: https://doi.org/10.1515/jnma-2023-0118</summary>
+  </entry>
+  <entry>
+    <title>Obtaining higher-order Galerkin accuracy when the boundary is polygonally approximated</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0135/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0135</id>
+    <updated>2025-05-04T22:08:28.032109+00:00</updated>
+    <summary>Article by Todd Dupont, Johnny Guzmán, L. Ridgway Scott
+DOI: https://doi.org/10.1515/jnma-2023-0135</summary>
+  </entry>
+  <entry>
+    <title>Optimal evaluation of symmetry-adaptedn-correlations via recursive contraction of sparse symmetric tensors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2024-0025/html"/>
+    <id>https://doi.org/10.1515/jnma-2024-0025</id>
+    <updated>2025-05-04T22:08:28.032118+00:00</updated>
+    <summary>Article by Illia Kaliuzhnyi, Christoph Ortner
+DOI: https://doi.org/10.1515/jnma-2024-0025</summary>
+  </entry>
+</feed>

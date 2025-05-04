@@ -1,76 +1,117 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Lebende Sprachen</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Lebende Sprachen</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2024-frontmatter1/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Soziolinguistische Aspekte des kolumbianischen Spanisch: Der Parlache</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0042/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0042</description>
-    </item>
-    <item>
-      <title>Guachisnay: anatomía de un presunto anglicismo</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0035/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0035</description>
-    </item>
-    <item>
-      <title>Wie viel Translationstheorie braucht die Historiographie? Zu Hans Vermeers translationshistorischen Studien</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0036/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0036</description>
-    </item>
-    <item>
-      <title>Le traducteur humain a-t-il (encore) un avenir en traduction juridique ?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0049/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0049</description>
-    </item>
-    <item>
-      <title>Ironía y humor en la creación y uso de siglas</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0046/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0046</description>
-    </item>
-    <item>
-      <title>Da muss erst mal Gras drüber wachsen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0039/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0039</description>
-    </item>
-    <item>
-      <title>(De)Gendering (English-Spanish) Translation of Legal Texts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0026/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0026</description>
-    </item>
-    <item>
-      <title>Vorüberlegungen für eine translationsrelevante Klassifikation von Personifizierungen: Sekundäre Subjektivierung und Definitionskollisionen im Bereich Bildhafte Sprache</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0040/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0040</description>
-    </item>
-    <item>
-      <title>Michael Schreiber (2023): Kontrastive Linguistik. Französisch – Italienisch – Spanisch – Deutsch. Eine Einführung. Berlin: Erich Schmidt Verlag, 193 S., ISBN 978-3-503-23705-0.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2023-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2023-0041/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2023-0041</description>
-    </item>
-    <item>
-      <title>Gladrow, Wolfgang/Kotorova, Elizaveta (2018): Sprachhandlungsmuster im Russischen und im Deutschen. Eine kontrastive Darstellung. Berlin: Lang. [Sprach- und Kulturkontakte in Europas Mitte. Studien zur Slavistik und Germanistik. Herausgegeben von Andrzej Kątny und Stefan Michael Newerkla. Bd. 9] 404 Seiten. ISBN: 9783631673188.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/les-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/les-2024-0004/html</guid>
-      <description>Article by Anna Averina DOI: https://doi.org/10.1515/les-2024-0004</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Lebende Sprachen</title>
+  <link href="https://www.degruyterbrill.com/journal/key/les/69/2/html"/>
+  <updated>2025-05-04T22:09:18.381507+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Lebende Sprachen</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/les-2024-frontmatter2</id>
+    <updated>2025-05-04T22:09:18.381540+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/les-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Multiple translation and the translator’s visibility</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0021/html"/>
+    <id>https://doi.org/10.1515/les-2024-0021</id>
+    <updated>2025-05-04T22:09:18.381549+00:00</updated>
+    <summary>Article by Marco Agnetta
+DOI: https://doi.org/10.1515/les-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Das Medium barbarisieren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0019/html"/>
+    <id>https://doi.org/10.1515/les-2024-0019</id>
+    <updated>2025-05-04T22:09:18.381558+00:00</updated>
+    <summary>Article by Daniele Vernillo
+DOI: https://doi.org/10.1515/les-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Relational description as pivotal to dialogical translation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0013/html"/>
+    <id>https://doi.org/10.1515/les-2024-0013</id>
+    <updated>2025-05-04T22:09:18.381565+00:00</updated>
+    <summary>Article by Gerald Cipriani
+DOI: https://doi.org/10.1515/les-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Insurrection or Protest? A corpus-linguistic analysis of the news reporting by CNN and Fox News based on the January 6, 2021, events at the US Capitol</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0017/html"/>
+    <id>https://doi.org/10.1515/les-2024-0017</id>
+    <updated>2025-05-04T22:09:18.381572+00:00</updated>
+    <summary>Article by Tobias Prahtel
+DOI: https://doi.org/10.1515/les-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Shaping the visually impaired perception of gender through Netflix audio description of movies and series</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2023-0034/html"/>
+    <id>https://doi.org/10.1515/les-2023-0034</id>
+    <updated>2025-05-04T22:09:18.381579+00:00</updated>
+    <summary>Article by Ahmad S. Haider, Sausan Abu Tair, Mohammed M. Obeidat, Hadeel Saed, Yousef Sahari
+DOI: https://doi.org/10.1515/les-2023-0034</summary>
+  </entry>
+  <entry>
+    <title>Exploring the effect of translating non-verbal elements in film subtitles</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2023-0031/html"/>
+    <id>https://doi.org/10.1515/les-2023-0031</id>
+    <updated>2025-05-04T22:09:18.381586+00:00</updated>
+    <summary>Article by Melissa E. Mouzannar, Gina E. Abou Fadel Saad
+DOI: https://doi.org/10.1515/les-2023-0031</summary>
+  </entry>
+  <entry>
+    <title>Humanitarian interpreting in the context of African migrant reception in the Canary Islands</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0007/html"/>
+    <id>https://doi.org/10.1515/les-2024-0007</id>
+    <updated>2025-05-04T22:09:18.381593+00:00</updated>
+    <summary>Article by María Goretti García-Morales, Leticia Fidalgo González
+DOI: https://doi.org/10.1515/les-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>La pregunta como instrumento de retroalimentación correctiva escrita en la formación en traducción jurídica (francés-español): un estudio exploratorio</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0012/html"/>
+    <id>https://doi.org/10.1515/les-2024-0012</id>
+    <updated>2025-05-04T22:09:18.381600+00:00</updated>
+    <summary>Article by Tanagua Barceló Martínez, Iván Delgado Pugés
+DOI: https://doi.org/10.1515/les-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>Using ChatGPT and determinologisation to enhance understanding of lung cancer information</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0020/html"/>
+    <id>https://doi.org/10.1515/les-2024-0020</id>
+    <updated>2025-05-04T22:09:18.381608+00:00</updated>
+    <summary>Article by María-José Varela Salinas, Adriana Godoy Lorenzatto
+DOI: https://doi.org/10.1515/les-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Posedición y paridad humano-máquina en traducción automática neuronal: Un estudio empírico desde la traducción profesional</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0003/html"/>
+    <id>https://doi.org/10.1515/les-2024-0003</id>
+    <updated>2025-05-04T22:09:18.381616+00:00</updated>
+    <summary>Article by Cristina Toledo-Báez
+DOI: https://doi.org/10.1515/les-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>Hat man da noch Worte? – Schulung der lexikalischen Präzision im zielorientierten Fremdsprachenunterricht Deutsch für spanischsprachige Translatoren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0006/html"/>
+    <id>https://doi.org/10.1515/les-2024-0006</id>
+    <updated>2025-05-04T22:09:18.381623+00:00</updated>
+    <summary>Article by Petra Zimmermann González, Silvia Roiss
+DOI: https://doi.org/10.1515/les-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Klaus Brinker, Steffen Pappert, Hermann Cölfen (2024): Linguistische Textanalyse – Eine Einführung in Grundbegriffe und Methoden. 10., neu bearbeitete Auflage. Berlin: Erich Schmidt Verlag. [Grundlagen der Germanistik. Bd. 29] 200 S., ISBN 978 3 503 23861 3.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0025/html"/>
+    <id>https://doi.org/10.1515/les-2024-0025</id>
+    <updated>2025-05-04T22:09:18.381634+00:00</updated>
+    <summary>Article by Sebastian Seyferth
+DOI: https://doi.org/10.1515/les-2024-0025</summary>
+  </entry>
+</feed>

@@ -1,120 +1,87 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>UmsatzsteuerRundschau</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in UmsatzsteuerRundschau</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-frontmatter7321/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-frontmatter7321/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-frontmatter7321</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-toc7321/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-toc7321/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-toc7321</description>
-    </item>
-    <item>
-      <title>Defizitäre Tätigkeiten und Zuschüsse in der Umsatzsteuer</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732101/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732101</description>
-    </item>
-    <item>
-      <title>Ergänzende Vertragsauslegung im Verhältnis des leistenden Bauunternehmers zum Leistungsempfänger (Bauträger), wenn es nicht zu einer Steuerfestsetzung kommen wird</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732102/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732102</description>
-    </item>
-    <item>
-      <title>Vorsteuerabzug bei Lieferung von Mieterstrom</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732103/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732103/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732103</description>
-    </item>
-    <item>
-      <title>Preisnachlass nach Bewirkung des Umsatzes – Beiträge, die ein pharmazeutisches Unternehmen an den staatlichen Krankenversicherungsträger leistet – Nationale Steuerregelung, nach der Beiträge, die ein pharmazeutisches Unternehmen aufgrund einer gesetzlichen Verpflichtung an den öffentlichen Krankenversicherungsträger zahlt, von der Verminderung der Steuerbemessungsgrundlage ausgeschlossen sind</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732104/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732104/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732104</description>
-    </item>
-    <item>
-      <title>Verfahren der Aufspaltung von Zahlungen – Mehrwertsteuerkonto eines insolventen Steuerpflichtigen – Überweisung der auf diesem Konto angesammelten Mittel auf Antrag des Insolvenzverwalters</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732105/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732105/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732105</description>
-    </item>
-    <item>
-      <title>Umsatzsteuerrechtliche Beurteilung von Kartellschadensersatz</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732106/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732106</description>
-    </item>
-    <item>
-      <title>Einführung der obligatorischen elektronischen Rechnung bei Umsätzen zwischen inländischen Unternehmern ab dem 1.1.2025</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732107/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732107</description>
-    </item>
-    <item>
-      <title>Umsatzsteuer-Umrechnungskurse für den Monat September 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732108/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732108/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732108</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/ur-2024-732109/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/ur-2024-732109/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/ur-2024-732109</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>UmsatzsteuerRundschau</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ur/74/8/html"/>
+  <updated>2025-05-04T22:13:10.476627+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in UmsatzsteuerRundschau</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-frontmatter7408/html"/>
+    <id>https://doi.org/10.9785/ur-2025-frontmatter7408</id>
+    <updated>2025-05-04T22:13:10.476652+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-frontmatter7408</summary>
+  </entry>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-toc7408/html"/>
+    <id>https://doi.org/10.9785/ur-2025-toc7408</id>
+    <updated>2025-05-04T22:13:10.476658+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-toc7408</summary>
+  </entry>
+  <entry>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740808/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740808</id>
+    <updated>2025-05-04T22:13:10.476663+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-740808</summary>
+  </entry>
+  <entry>
+    <title>Der BFH, der Durchgangserwerb bei der Geschäftsveräußerung im Ganzen und die Tücken des Berichtigungsverfahrens nach § 14c UStG — Anmerkungen zum Urteil des BFH v. 25.9.2024 – XI R 19/22</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740801/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740801</id>
+    <updated>2025-05-04T22:13:10.476671+00:00</updated>
+    <summary>Article by Georg von Streit, Thomas Streit
+DOI: https://doi.org/10.9785/ur-2025-740801</summary>
+  </entry>
+  <entry>
+    <title>Die (fehlende) umsatzsteuerrechtliche Begünstigung der Anlagemünzen aus Silber</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740802/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740802</id>
+    <updated>2025-05-04T22:13:10.476678+00:00</updated>
+    <summary>Article by Wojciech Stiller
+DOI: https://doi.org/10.9785/ur-2025-740802</summary>
+  </entry>
+  <entry>
+    <title>Verzicht auf Steuerbefreiungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740803/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740803</id>
+    <updated>2025-05-04T22:13:10.476683+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-740803</summary>
+  </entry>
+  <entry>
+    <title>Vorsteuerabzug</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740804/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740804</id>
+    <updated>2025-05-04T22:13:10.476687+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-740804</summary>
+  </entry>
+  <entry>
+    <title>Besteuerungsverfahren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740805/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740805</id>
+    <updated>2025-05-04T22:13:10.476692+00:00</updated>
+    <summary>Article by Werner Widmann
+DOI: https://doi.org/10.9785/ur-2025-740805</summary>
+  </entry>
+  <entry>
+    <title>Rechtsschutzgarantie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740806/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740806</id>
+    <updated>2025-05-04T22:13:10.476697+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-740806</summary>
+  </entry>
+  <entry>
+    <title>Reiseleistungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740807/html"/>
+    <id>https://doi.org/10.9785/ur-2025-740807</id>
+    <updated>2025-05-04T22:13:10.476702+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ur-2025-740807</summary>
+  </entry>
+</feed>

@@ -1,88 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Group Theory</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Group Theory</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgth.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-frontmatter6/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-frontmatter6/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-frontmatter6</description>
-    </item>
-    <item>
-      <title>Open mappings of locally compact groups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0017/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0017</description>
-    </item>
-    <item>
-      <title>Groups of profinite type and profinite rigidity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0228/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0228/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0228</description>
-    </item>
-    <item>
-      <title>On conjugate separability of nilpotent subgroups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0023/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0023</description>
-    </item>
-    <item>
-      <title>Groups whose proper subgroups of infinite rank have a permutability transitive relation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0296/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0296/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0296</description>
-    </item>
-    <item>
-      <title>A generalization of the Brauer–Fowler theorem</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0041/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0041</description>
-    </item>
-    <item>
-      <title>On groups with large verbal quotients</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0088/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0088/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0088</description>
-    </item>
-    <item>
-      <title>Conjugacy class numbers and nilpotent  subgroups of finite groups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0263/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0263/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0263</description>
-    </item>
-    <item>
-      <title>On the common transversal probability</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2024-0030/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2024-0030</description>
-    </item>
-    <item>
-      <title>Classifying primitive solvable  permutation groups of rank 5 and 6</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0205/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0205/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0205</description>
-    </item>
-    <item>
-      <title>Tuple regularity and 𝑘-ultrahomogeneity for finite groups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0106/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0106</description>
-    </item>
-    <item>
-      <title>Skew-morphisms of elementary abelian 𝑝-groups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2022-0092/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2022-0092/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2022-0092</description>
-    </item>
-    <item>
-      <title>On algebraic normalisers of maximal tori  in simple groups of Lie type</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jgth-2023-0070/html</guid>
-      <description>Article by Anton A. Baykalov DOI: https://doi.org/10.1515/jgth-2023-0070</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Group Theory</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jgth/28/3/html"/>
+  <updated>2025-05-04T22:07:58.697666+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgth.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Group Theory</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgth.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/jgth-2025-frontmatter3</id>
+    <updated>2025-05-04T22:07:58.697708+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jgth-2025-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Rigid stabilizers and local prosolubility for boundary-transitive actions on tree</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2023-0104/html"/>
+    <id>https://doi.org/10.1515/jgth-2023-0104</id>
+    <updated>2025-05-04T22:07:58.697717+00:00</updated>
+    <summary>Article by Colin D. Reid
+DOI: https://doi.org/10.1515/jgth-2023-0104</summary>
+  </entry>
+  <entry>
+    <title>Twisted conjugacy and separability</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2024-0056/html"/>
+    <id>https://doi.org/10.1515/jgth-2024-0056</id>
+    <updated>2025-05-04T22:07:58.697726+00:00</updated>
+    <summary>Article by Sam Tertooy
+DOI: https://doi.org/10.1515/jgth-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Mixed identities, hereditarily separated actions and oscillation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2023-0028/html"/>
+    <id>https://doi.org/10.1515/jgth-2023-0028</id>
+    <updated>2025-05-04T22:07:58.697733+00:00</updated>
+    <summary>Article by Aleksander Ivanov, Roland Zarzycki
+DOI: https://doi.org/10.1515/jgth-2023-0028</summary>
+  </entry>
+  <entry>
+    <title>Decomposition of Thompson group representations arising from Cuntz algebras</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2023-0245/html"/>
+    <id>https://doi.org/10.1515/jgth-2023-0245</id>
+    <updated>2025-05-04T22:07:58.697740+00:00</updated>
+    <summary>Article by Nuno Carneiro, Paulo R. Pinto
+DOI: https://doi.org/10.1515/jgth-2023-0245</summary>
+  </entry>
+  <entry>
+    <title>Liftable automorphisms of right-angled Artin groups</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2023-0277/html"/>
+    <id>https://doi.org/10.1515/jgth-2023-0277</id>
+    <updated>2025-05-04T22:07:58.697747+00:00</updated>
+    <summary>Article by Sangrok Oh, Donggyun Seo, Philippe Tranchida
+DOI: https://doi.org/10.1515/jgth-2023-0277</summary>
+  </entry>
+  <entry>
+    <title>Uncountable groups in which permutability is a transitive relation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2024-0104/html"/>
+    <id>https://doi.org/10.1515/jgth-2024-0104</id>
+    <updated>2025-05-04T22:07:58.697754+00:00</updated>
+    <summary>Article by Martina Capasso, Liliana Lancellotti
+DOI: https://doi.org/10.1515/jgth-2024-0104</summary>
+  </entry>
+  <entry>
+    <title>On semiabelian groups</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2024-0010/html"/>
+    <id>https://doi.org/10.1515/jgth-2024-0010</id>
+    <updated>2025-05-04T22:07:58.697760+00:00</updated>
+    <summary>Article by Masanari Kida
+DOI: https://doi.org/10.1515/jgth-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>Critical classes of power graphs and reconstruction of directed power graphs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2023-0181/html"/>
+    <id>https://doi.org/10.1515/jgth-2023-0181</id>
+    <updated>2025-05-04T22:07:58.697767+00:00</updated>
+    <summary>Article by Daniela Bubboloni, Nicolas Pinzauti
+DOI: https://doi.org/10.1515/jgth-2023-0181</summary>
+  </entry>
+  <entry>
+    <title>Weights for 𝜋-partial characters of 𝜋-separable groups</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgth-2024-0112/html"/>
+    <id>https://doi.org/10.1515/jgth-2024-0112</id>
+    <updated>2025-05-04T22:07:58.697774+00:00</updated>
+    <summary>Article by Xuewu Chang, Ping Jin
+DOI: https://doi.org/10.1515/jgth-2024-0112</summary>
+  </entry>
+</feed>

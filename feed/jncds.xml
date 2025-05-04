@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Nonlinear, Complex and Data Science</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jncds/25/7-8/html"/>
+  <updated>2025-05-04T22:08:24.772648+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jncds.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Nonlinear, Complex and Data Science</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jncds.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-frontmatter7-8/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-frontmatter7-8</id>
+    <updated>2025-05-04T22:08:24.772675+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jncds-2024-frontmatter7-8</summary>
+  </entry>
+  <entry>
+    <title>A polynomial-based operational matrix approach to solve fractional-order Bratu-type problems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2023-0084/html"/>
+    <id>https://doi.org/10.1515/jncds-2023-0084</id>
+    <updated>2025-05-04T22:08:24.772684+00:00</updated>
+    <summary>Article by Saurabh Kumar, Vikas Gupta
+DOI: https://doi.org/10.1515/jncds-2023-0084</summary>
+  </entry>
+  <entry>
+    <title>Existence, uniqueness, and UH-stability results for nonlinear fuzzy fractional Volterra–Fredholm integro-differential equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0019/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0019</id>
+    <updated>2025-05-04T22:08:24.772693+00:00</updated>
+    <summary>Article by Aziz El Ghazouani, M’hamed Elomari, Said Melliani
+DOI: https://doi.org/10.1515/jncds-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Stochastic perspective to a SIVA in-host model of DENV transmission</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0032/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0032</id>
+    <updated>2025-05-04T22:08:24.772701+00:00</updated>
+    <summary>Article by Bikash Modak, Muthu Poosan
+DOI: https://doi.org/10.1515/jncds-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Physics-informed neural network for vibration analysis of large membranes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0081/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0081</id>
+    <updated>2025-05-04T22:08:24.772707+00:00</updated>
+    <summary>Article by Arup Kumar Sahoo, Sandeep Kumar, S. Chakraverty
+DOI: https://doi.org/10.1515/jncds-2024-0081</summary>
+  </entry>
+</feed>

@@ -1,82 +1,109 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Rhetorik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Rhetorik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhet.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-frontmatter1/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Einleitung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0001/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0001</description>
-    </item>
-    <item>
-      <title>Produktives Täuschen. Dissimulatio artis zwischen Rhetorik und Philosophie</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0002/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0002</description>
-    </item>
-    <item>
-      <title>Simulatio/dissimulatio – Stellung/Verstellung: Rhetorik, höfische Verhaltenslehre, Ethik (mit Überlegungen zur Rezeption von Balthasar Graciáns Handorakel in Deutschland)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0003/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0003</description>
-    </item>
-    <item>
-      <title>Die Macht der Dissimulation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0004/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0004</description>
-    </item>
-    <item>
-      <title>Täusch-Verhältnisse. Der „Große Austausch“ als rhetorisches Manöver der Neuen Rechten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0005/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0005</description>
-    </item>
-    <item>
-      <title>Ars est celare artes. Zur Rocca di Tristano-Episode in Ariostos Orlando furioso</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0006/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0006</description>
-    </item>
-    <item>
-      <title>Vers pompeux – cadavre oratoire. Rhetorische, galante und dramaturgische Ausformungen der dissimulatio artis im frühneuzeitlichen Theater am Beispiel von Corneilles Pompée</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0007/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0007</description>
-    </item>
-    <item>
-      <title>Das Paradoxon der Dissimulation – Über die Notwendigkeit der Täuschung zur Gestaltung von Natürlichkeit in Marivauxʼ Le Jeu de l’amour et du hasard</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0008/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0008</description>
-    </item>
-    <item>
-      <title>Melanie Möller: Rhetorik zur Einführung, Hamburg 2022.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0009/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0009</description>
-    </item>
-    <item>
-      <title>Ramón Reichert: Selfies – Selbstthematisierung in der digitalen Bildkultur, Bielefeld 2023.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0010/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0010</description>
-    </item>
-    <item>
-      <title>Janosik Herder: Kommunizieren und Herrschen. Zur Genealogie des Regierens in der digitalen Gesellschaft, Bielefeld 2023.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhet-2024-0011/html</guid>
-      <description>Article by Florian Ziegler DOI: https://doi.org/10.1515/rhet-2024-0011</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rhetorik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/rhet/43/1/html"/>
+  <updated>2025-05-04T22:11:52.946896+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhet.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Rhetorik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhet.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Produktives Täuschen.Dissimulatio artiszwischen Rhetorik und Philosophie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0002/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0002</id>
+    <updated>2025-05-04T22:11:52.946927+00:00</updated>
+    <summary>Article by Andreas Hetzel, Laura Pöschel
+DOI: https://doi.org/10.1515/rhet-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Einleitung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0001/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0001</id>
+    <updated>2025-05-04T22:11:52.946938+00:00</updated>
+    <summary>Article by Andreas Hetzel, Jörn Steigerwald
+DOI: https://doi.org/10.1515/rhet-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>Simulatio/dissimulatio– Stellung/Verstellung: Rhetorik, höfische Verhaltenslehre, Ethik (mit Überlegungen zur Rezeption von Balthasar GraciánsHandorakelin Deutschland)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0003/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0003</id>
+    <updated>2025-05-04T22:11:52.946948+00:00</updated>
+    <summary>Article by Dietmar Till
+DOI: https://doi.org/10.1515/rhet-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>Die Macht der Dissimulation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0004/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0004</id>
+    <updated>2025-05-04T22:11:52.946956+00:00</updated>
+    <summary>Article by Paolo D’Angelo
+DOI: https://doi.org/10.1515/rhet-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Täusch-Verhältnisse. Der „Große Austausch“ als rhetorisches Manöver der Neuen Rechten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0005/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0005</id>
+    <updated>2025-05-04T22:11:52.946965+00:00</updated>
+    <summary>Article by Andreas Oberprantacher
+DOI: https://doi.org/10.1515/rhet-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>Ars est celare artes. Zur Rocca di Tristano-Episode in AriostosOrlando furioso</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0006/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0006</id>
+    <updated>2025-05-04T22:11:52.946972+00:00</updated>
+    <summary>Article by Jörn Steigerwald
+DOI: https://doi.org/10.1515/rhet-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Vers pompeux – cadavre oratoire. Rhetorische, galante und dramaturgische Ausformungen derdissimulatio artisim frühneuzeitlichen Theater am Beispiel von CorneillesPompée</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0007/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0007</id>
+    <updated>2025-05-04T22:11:52.946980+00:00</updated>
+    <summary>Article by Selina Seibel
+DOI: https://doi.org/10.1515/rhet-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Das Paradoxon der Dissimulation – Über die Notwendigkeit der Täuschung zur Gestaltung von Natürlichkeit in MarivauxʼLe Jeu de l’amour et du hasard</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0008/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0008</id>
+    <updated>2025-05-04T22:11:52.946988+00:00</updated>
+    <summary>Article by Kirsten Dickhaut
+DOI: https://doi.org/10.1515/rhet-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>Melanie Möller: Rhetorik zur Einführung, Hamburg 2022.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0009/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0009</id>
+    <updated>2025-05-04T22:11:52.946995+00:00</updated>
+    <summary>Article by Andreas Hetzel
+DOI: https://doi.org/10.1515/rhet-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>Ramón Reichert: Selfies – Selbstthematisierung in der digitalen Bildkultur, Bielefeld 2023.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0010/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0010</id>
+    <updated>2025-05-04T22:11:52.947002+00:00</updated>
+    <summary>Article by Clara Rohloff
+DOI: https://doi.org/10.1515/rhet-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>Janosik Herder: Kommunizieren und Herrschen. Zur Genealogie des Regierens in der digitalen Gesellschaft, Bielefeld 2023.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-0011/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-0011</id>
+    <updated>2025-05-04T22:11:52.947015+00:00</updated>
+    <summary>Article by Florian Ziegler
+DOI: https://doi.org/10.1515/rhet-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhet-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/rhet-2024-frontmatter1</id>
+    <updated>2025-05-04T22:11:52.947022+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rhet-2024-frontmatter1</summary>
+  </entry>
+</feed>

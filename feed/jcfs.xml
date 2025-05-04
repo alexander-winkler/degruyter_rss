@@ -1,82 +1,109 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Chinese Film Studies</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Chinese Film Studies</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcfs.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2024-frontmatter2/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Introduction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2024-0030/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2024-0030</description>
-    </item>
-    <item>
-      <title>Between Shenguai and Science: The Visual Imagination of Technical Objects in Republican China</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0049/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0049</description>
-    </item>
-    <item>
-      <title>The Broken Human–Object Continuum: The Technological Future and Socialist Contradictions in Rhapsody of the Ming Tombs Reservoir (1958)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0047/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0047</description>
-    </item>
-    <item>
-      <title>Myth and Cyber: A Study of the Narrative and Visual Language of Chinese Cyberpunk Anime Films</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0048/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0048</description>
-    </item>
-    <item>
-      <title>Navigating the World of The Stranger (1979) After the Cultural Revolution: Unveiling Hong Kong Leftist Science Fiction Film by Bao Fang</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0039/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0039</description>
-    </item>
-    <item>
-      <title>Imagining an Alternative Future: Children’s Bodies in Wonder Boy (1988), Magic Watch (1990), and Mad Rabbit (1997)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0042/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0042</description>
-    </item>
-    <item>
-      <title>A Palimpsest of Hong Kong Futures Across Three Fictions (1962–2046)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0053/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0053</description>
-    </item>
-    <item>
-      <title>Cinematic Science Fiction, Indigenous Mythology, and Multispecies Entanglement: An Ecological Reading of The Mermaid (2016)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0059/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0059</description>
-    </item>
-    <item>
-      <title>Dreaming Fish, Becoming Fish: Animating Modern Mythology and Zhuangzian Philosophy in the Fantasy Film Big Fish &amp; Begonia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0044/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0044</description>
-    </item>
-    <item>
-      <title>The Poetics of Journey to the West (2021): Disclosing a Way to Dwell in the World</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0050/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0050</description>
-    </item>
-    <item>
-      <title>From Home to Homeland: Re-Imagining Chinese Diaspora in Recent Science Fiction Films</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0055/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jcfs-2023-0055/html</guid>
-      <description>Article by Chenfeng Wang DOI: https://doi.org/10.1515/jcfs-2023-0055</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Chinese Film Studies</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jcfs/4/3/html"/>
+  <updated>2025-05-04T22:07:37.872303+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcfs.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Chinese Film Studies</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcfs.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-frontmatter3</id>
+    <updated>2025-05-04T22:07:37.872325+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jcfs-2024-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Introduction: Games, Gaming, and Interactive Aesthetics in Contemporary Chinese and Sinophone Cinema</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0049/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0049</id>
+    <updated>2025-05-04T22:07:37.872333+00:00</updated>
+    <summary>Article by Douglas Eyman, Li Guo, Hongmei Sun
+DOI: https://doi.org/10.1515/jcfs-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>Soundscape and Sense of Presence in the VR Experience ofMadame Pirate: Becoming a Legend</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0010/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0010</id>
+    <updated>2025-05-04T22:07:37.872341+00:00</updated>
+    <summary>Article by Désirée Marianini
+DOI: https://doi.org/10.1515/jcfs-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>Consuming the White Terror: Transmedia Adaptation and Franchise-Building ofDetention</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0004/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0004</id>
+    <updated>2025-05-04T22:07:37.872348+00:00</updated>
+    <summary>Article by Fengyun Zhang
+DOI: https://doi.org/10.1515/jcfs-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Tracing the Shape of Despair: Video Game Aesthetics and Actor-Network Theory inAn Elephant Sitting Still</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0012/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0012</id>
+    <updated>2025-05-04T22:07:37.872355+00:00</updated>
+    <summary>Article by Xiaochu Wu
+DOI: https://doi.org/10.1515/jcfs-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>How DoesJade DynastyBecome a Big IP? Mapping Digital Media Ecology in Contemporary China</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0007/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0007</id>
+    <updated>2025-05-04T22:07:37.872362+00:00</updated>
+    <summary>Article by Shasha Liu
+DOI: https://doi.org/10.1515/jcfs-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Towards a Techno-Hauntological Aesthetic: Immiscible Time and the Spiritual Imagination inBodyless(Shishenji, 2019) by Huang Hsin-Chien</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0003/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0003</id>
+    <updated>2025-05-04T22:07:37.872368+00:00</updated>
+    <summary>Article by Gabriel Remy-Handfield
+DOI: https://doi.org/10.1515/jcfs-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>Ambivalent Utopias: Corporate Biopower and the Gendered Limits of Agency inReset</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2023-0060/html"/>
+    <id>https://doi.org/10.1515/jcfs-2023-0060</id>
+    <updated>2025-05-04T22:07:37.872375+00:00</updated>
+    <summary>Article by Jun Lei
+DOI: https://doi.org/10.1515/jcfs-2023-0060</summary>
+  </entry>
+  <entry>
+    <title>An Inquiry into Gender and Queer Issues in Chinese-Language Sci-Fi Film: A Case Study ofThe Soul</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0014/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0014</id>
+    <updated>2025-05-04T22:07:37.872381+00:00</updated>
+    <summary>Article by Jingjing Cai
+DOI: https://doi.org/10.1515/jcfs-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>Century-Old Hong Kong Films and the Chinese Cultural Tradition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0021/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0021</id>
+    <updated>2025-05-04T22:07:37.872388+00:00</updated>
+    <summary>Article by Haizhou Wang, Jian Yu
+DOI: https://doi.org/10.1515/jcfs-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>The Evaluation System of Global Cinematic Strength and the Advancement of Chinese Films</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0037/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0037</id>
+    <updated>2025-05-04T22:07:37.872396+00:00</updated>
+    <summary>Article by Zheng Tan, Yan Zhang
+DOI: https://doi.org/10.1515/jcfs-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>The World is the “Hometown” of the Camera: Interview with Jia Zhangke</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0039/html"/>
+    <id>https://doi.org/10.1515/jcfs-2024-0039</id>
+    <updated>2025-05-04T22:07:37.872403+00:00</updated>
+    <summary>Article by Bingbing Wang
+DOI: https://doi.org/10.1515/jcfs-2024-0039</summary>
+  </entry>
+</feed>

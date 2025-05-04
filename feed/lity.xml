@@ -1,58 +1,84 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Linguistic Typology </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Linguistic Typology </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lity.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2024-frontmatter3/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Objects as human bodies: cross-linguistic colexifications between words for body parts and objects</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0032/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0032</description>
-    </item>
-    <item>
-      <title>Word formation patterns in the perception domain: a typological study of cross-modal semantic associations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0038/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0038</description>
-    </item>
-    <item>
-      <title>Headless relative clauses with a gap: a typological trait of Mesoamerican languages</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2022-0080/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2022-0080/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2022-0080</description>
-    </item>
-    <item>
-      <title>All about ablaut: a typology of ablaut reduplicative structures</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0018/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0018</description>
-    </item>
-    <item>
-      <title>Gender, number and person: a three-way interaction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2023-0025/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2023-0025</description>
-    </item>
-    <item>
-      <title>Review of: Polinsky, Maria (ed.). 2021. Oxford handbook of the languages of the Caucasus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2024-0036/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2024-0036</description>
-    </item>
-    <item>
-      <title>Grammar Highlights 2023</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/lingty-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/lingty-2024-2001/html</guid>
-      <description>Article by Jorge Emilio Rosés Labrada DOI: https://doi.org/10.1515/lingty-2024-2001</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Linguistic Typology</title>
+  <link href="https://www.degruyterbrill.com/journal/key/lity/29/1/html"/>
+  <updated>2025-05-04T22:09:24.769203+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lity.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Linguistic Typology</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lity.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/lingty-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:24.769235+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/lingty-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>From aspect to information structure: Non-aspectual functions of change of state markers in Austronesian and beyond</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2020-0129/html"/>
+    <id>https://doi.org/10.1515/lingty-2020-0129</id>
+    <updated>2025-05-04T22:09:24.769243+00:00</updated>
+    <summary>Article by Lidia Federica Mazzitelli
+DOI: https://doi.org/10.1515/lingty-2020-0129</summary>
+  </entry>
+  <entry>
+    <title>A word order typology of adnominal person</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2023-0080/html"/>
+    <id>https://doi.org/10.1515/lingty-2023-0080</id>
+    <updated>2025-05-04T22:09:24.769253+00:00</updated>
+    <summary>Article by Georg F.K. Höhn
+DOI: https://doi.org/10.1515/lingty-2023-0080</summary>
+  </entry>
+  <entry>
+    <title>Singular-plural verb stem alternation: uncovering global and local drivers of typological variation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2023-0040/html"/>
+    <id>https://doi.org/10.1515/lingty-2023-0040</id>
+    <updated>2025-05-04T22:09:24.769261+00:00</updated>
+    <summary>Article by David Inman, Marine Vuillermet
+DOI: https://doi.org/10.1515/lingty-2023-0040</summary>
+  </entry>
+  <entry>
+    <title>Differential object marking in Western Malayo-Polynesian symmetrical voice languages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0002/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0002</id>
+    <updated>2025-05-04T22:09:24.769269+00:00</updated>
+    <summary>Article by Svenja Bonmann, Sonja Riesberg, Nikolaus P. Himmelmann
+DOI: https://doi.org/10.1515/lingty-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>The expression of quantity in Oneida: a study in syntactic and semantic variation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2023-0010/html"/>
+    <id>https://doi.org/10.1515/lingty-2023-0010</id>
+    <updated>2025-05-04T22:09:24.769277+00:00</updated>
+    <summary>Article by Jean-Pierre Koenig, Karin Michelson
+DOI: https://doi.org/10.1515/lingty-2023-0010</summary>
+  </entry>
+  <entry>
+    <title>Pacchiarotti, S. &amp; F. Zúñiga:Applicative Morphology. Neglected Syntactic and Non-syntactic Functions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0064/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0064</id>
+    <updated>2025-05-04T22:09:24.769285+00:00</updated>
+    <summary>Article by Albert Álvarez González
+DOI: https://doi.org/10.1515/lingty-2024-0064</summary>
+  </entry>
+  <entry>
+    <title>Stephen C. Levinson:A Grammar of Yélî Dnye: The Papuan language of Rossel Island</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2024-0075/html"/>
+    <id>https://doi.org/10.1515/lingty-2024-0075</id>
+    <updated>2025-05-04T22:09:24.769293+00:00</updated>
+    <summary>Article by Borja Herce
+DOI: https://doi.org/10.1515/lingty-2024-0075</summary>
+  </entry>
+  <entry>
+    <title>Reviewer Acknowledgement</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/lingty-2025-2001/html"/>
+    <id>https://doi.org/10.1515/lingty-2025-2001</id>
+    <updated>2025-05-04T22:09:24.769300+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/lingty-2025-2001</summary>
+  </entry>
+</feed>

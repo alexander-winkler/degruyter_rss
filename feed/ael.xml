@@ -1,52 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Accounting, Economics, and Law: A Convivium</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Accounting, Economics, and Law: A Convivium</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ael.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2024-frontmatter3/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Accounting for Uncertainty</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2022-0059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2022-0059/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2022-0059</description>
-    </item>
-    <item>
-      <title>Accounting and Finance: Complementarity and Divergence</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2023-0132/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2023-0132/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2023-0132</description>
-    </item>
-    <item>
-      <title>Sustainability Disclosure and the Financialization of Social Sustainability</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2018-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2018-0053/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2018-0053</description>
-    </item>
-    <item>
-      <title>Introduction: Who Are Residual Claimants on a Company’s Net Assets?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2022-0081/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2022-0081/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2022-0081</description>
-    </item>
-    <item>
-      <title>Rethinking the Concept of Equity in Accounting: Origin and Attribution of Business Profit</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2019-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2019-0018/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2019-0018</description>
-    </item>
-    <item>
-      <title>Between Prudential Regulation and Shareholder Value: An Empirical Perspective on Bank Shareholder Equity (2001-2017)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ael-2019-0083/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ael-2019-0083/html</guid>
-      <description>Article by Yuri Biondi, Imke J. Graeff DOI: https://doi.org/10.1515/ael-2019-0083</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Accounting, Economics, and Law: A Convivium</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ael/15/1/html"/>
+  <updated>2025-05-04T22:02:17.815752+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ael.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Accounting, Economics, and Law: A Convivium</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ael.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ael-2025-frontmatter1</id>
+    <updated>2025-05-04T22:02:17.815771+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ael-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Empirical Accounting Seminars: Elephants in the Room</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2021-0067/html"/>
+    <id>https://doi.org/10.1515/ael-2021-0067</id>
+    <updated>2025-05-04T22:02:17.815776+00:00</updated>
+    <summary>Article by James A. Ohlson
+DOI: https://doi.org/10.1515/ael-2021-0067</summary>
+  </entry>
+  <entry>
+    <title>Limits of Empirical Studies in Accounting and Social Sciences: A Constructive Critique from Accounting, Economics and the Law</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2021-0089/html"/>
+    <id>https://doi.org/10.1515/ael-2021-0089</id>
+    <updated>2025-05-04T22:02:17.815781+00:00</updated>
+    <summary>Article by Yuri Biondi
+DOI: https://doi.org/10.1515/ael-2021-0089</summary>
+  </entry>
+  <entry>
+    <title>Accounting Research’s “Flat Earth” Problem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2021-0045/html"/>
+    <id>https://doi.org/10.1515/ael-2021-0045</id>
+    <updated>2025-05-04T22:02:17.815786+00:00</updated>
+    <summary>Article by William M. Cready
+DOI: https://doi.org/10.1515/ael-2021-0045</summary>
+  </entry>
+  <entry>
+    <title>Accounting Research as Bayesian Inference to the Best Explanation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2021-0083/html"/>
+    <id>https://doi.org/10.1515/ael-2021-0083</id>
+    <updated>2025-05-04T22:02:17.815791+00:00</updated>
+    <summary>Article by Sanjay Kallapur
+DOI: https://doi.org/10.1515/ael-2021-0083</summary>
+  </entry>
+  <entry>
+    <title>The Elephant in the Room: p-hacking and Accounting Research</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2022-0111/html"/>
+    <id>https://doi.org/10.1515/ael-2022-0111</id>
+    <updated>2025-05-04T22:02:17.815795+00:00</updated>
+    <summary>Article by Ian D. Gow
+DOI: https://doi.org/10.1515/ael-2022-0111</summary>
+  </entry>
+  <entry>
+    <title>De-emphasizing Statistical Significance</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2022-0100/html"/>
+    <id>https://doi.org/10.1515/ael-2022-0100</id>
+    <updated>2025-05-04T22:02:17.815799+00:00</updated>
+    <summary>Article by Todd Mitton
+DOI: https://doi.org/10.1515/ael-2022-0100</summary>
+  </entry>
+  <entry>
+    <title>Statistical versus Economic Significance in Accounting: A Reality Check</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2023-0002/html"/>
+    <id>https://doi.org/10.1515/ael-2023-0002</id>
+    <updated>2025-05-04T22:02:17.815803+00:00</updated>
+    <summary>Article by Jeremy Bertomeu
+DOI: https://doi.org/10.1515/ael-2023-0002</summary>
+  </entry>
+  <entry>
+    <title>Another Way Forward: Comments on Ohlson’s Critique of Empirical Accounting Research</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2022-0093/html"/>
+    <id>https://doi.org/10.1515/ael-2022-0093</id>
+    <updated>2025-05-04T22:02:17.815807+00:00</updated>
+    <summary>Article by Matthias Breuer
+DOI: https://doi.org/10.1515/ael-2022-0093</summary>
+  </entry>
+  <entry>
+    <title>Setting Statistical Hurdles for Publishing in Accounting</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ael-2022-0104/html"/>
+    <id>https://doi.org/10.1515/ael-2022-0104</id>
+    <updated>2025-05-04T22:02:17.815813+00:00</updated>
+    <summary>Article by Siew Hong Teoh, Yinglei Zhang
+DOI: https://doi.org/10.1515/ael-2022-0104</summary>
+  </entry>
+</feed>

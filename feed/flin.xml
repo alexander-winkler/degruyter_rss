@@ -1,94 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Folia Linguistica</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Folia Linguistica</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flin.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-frontmatters45-s1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-frontmatters45-s1/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-frontmatters45-s1</description>
-    </item>
-    <item>
-      <title>Rising datives: tomar ‘take’ expressions with nouns of ‘emotion’ and constructional network reconfiguration in Spanish</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2028/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2028</description>
-    </item>
-    <item>
-      <title>Variation and change in the Swedish periphrastic passive: a constructional approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2023-2045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2023-2045/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2023-2045</description>
-    </item>
-    <item>
-      <title>Permittito aperiat oculum: typological considerations on P-lability and its interaction with morphosyntactic alignment in Latin medical texts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2005/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2005</description>
-    </item>
-    <item>
-      <title>The Indo-Iranian background of the Ossetic future</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2019/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2019</description>
-    </item>
-    <item>
-      <title>The seamlessness of grammatical innovation: the case of be going to (revisited)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2004/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2004</description>
-    </item>
-    <item>
-      <title>The ‘Still Not’ Present in Andi: identifying the grammaticalization source</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2007/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2007</description>
-    </item>
-    <item>
-      <title>Beyond dynasties and binary alternations: a diachronic corpus study of four-way variability in Chinese theme-recipient constructions</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2023-2026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2023-2026/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2023-2026</description>
-    </item>
-    <item>
-      <title>The reduction of affixes in morphological reanalysis: Polish neuters in -ich-</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2023-2053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2023-2053/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2023-2053</description>
-    </item>
-    <item>
-      <title>Alessandro Del Tomba: The Tocharian gender system. A diachronic study in nominal morphology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2044/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2044</description>
-    </item>
-    <item>
-      <title>Olga Spevak: Nominalization in Latin</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2047/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2047</description>
-    </item>
-    <item>
-      <title>Patrizia de Bernardo Stempel: The accents of Celtic: New light on the older and oldest stages</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2046/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2046</description>
-    </item>
-    <item>
-      <title>Frederik Hartmann: Germanic phylogeny</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2048/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2048</description>
-    </item>
-    <item>
-      <title>IE9.com. Scrivener</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/flin-2024-2045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/flin-2024-2045/html</guid>
-      <description>Article by Todd B. Krause DOI: https://doi.org/10.1515/flin-2024-2045</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Folia Linguistica</title>
+  <link href="https://www.degruyterbrill.com/journal/key/flin/59/1/html"/>
+  <updated>2025-05-04T22:05:34.291884+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flin.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Folia Linguistica</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flin.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/flin-2025-frontmatter1</id>
+    <updated>2025-05-04T22:05:34.291922+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/flin-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>The pragmatics of evidentiality: markers, strategies and implications for linguistic theory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2047/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2047</id>
+    <updated>2025-05-04T22:05:34.291932+00:00</updated>
+    <summary>Article by Viviana Masia, Roland Hinterhölzl
+DOI: https://doi.org/10.1515/flin-2023-2047</summary>
+  </entry>
+  <entry>
+    <title>Conjectural questions in Sm’algyax</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2051/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2051</id>
+    <updated>2025-05-04T22:05:34.291943+00:00</updated>
+    <summary>Article by Colin Brown
+DOI: https://doi.org/10.1515/flin-2023-2051</summary>
+  </entry>
+  <entry>
+    <title>The epistemic conditional in polar questions as an argumentative strategy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2052/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2052</id>
+    <updated>2025-05-04T22:05:34.291951+00:00</updated>
+    <summary>Article by Agnès Celle
+DOI: https://doi.org/10.1515/flin-2023-2052</summary>
+  </entry>
+  <entry>
+    <title>Evidentials and dubitatives in Finnish: perspective shift in questions and embedded contexts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-2002/html"/>
+    <id>https://doi.org/10.1515/flin-2024-2002</id>
+    <updated>2025-05-04T22:05:34.291959+00:00</updated>
+    <summary>Article by Elsi Kaiser
+DOI: https://doi.org/10.1515/flin-2024-2002</summary>
+  </entry>
+  <entry>
+    <title>Evidential strategies in English: not just lexical</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2054/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2054</id>
+    <updated>2025-05-04T22:05:34.291967+00:00</updated>
+    <summary>Article by Elizabeth M. Riddle
+DOI: https://doi.org/10.1515/flin-2023-2054</summary>
+  </entry>
+  <entry>
+    <title>Romanian presumptive in interaction: evidentiality and beyond</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2049/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2049</id>
+    <updated>2025-05-04T22:05:34.291974+00:00</updated>
+    <summary>Article by Cecilia Mihaela Popescu
+DOI: https://doi.org/10.1515/flin-2023-2049</summary>
+  </entry>
+  <entry>
+    <title>Some notes on the role of modal particles inweil+V2-clauses in German</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2004/html"/>
+    <id>https://doi.org/10.1515/flin-2025-2004</id>
+    <updated>2025-05-04T22:05:34.291981+00:00</updated>
+    <summary>Article by Roland Hinterhölzl
+DOI: https://doi.org/10.1515/flin-2025-2004</summary>
+  </entry>
+  <entry>
+    <title>The evidential meaning of presupposition and implicature between retractability and deniability of information</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2048/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2048</id>
+    <updated>2025-05-04T22:05:34.291988+00:00</updated>
+    <summary>Article by Viviana Masia
+DOI: https://doi.org/10.1515/flin-2023-2048</summary>
+  </entry>
+  <entry>
+    <title>The interrogative flip with illocutionary evidentials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2050/html"/>
+    <id>https://doi.org/10.1515/flin-2023-2050</id>
+    <updated>2025-05-04T22:05:34.291995+00:00</updated>
+    <summary>Article by Martina Faller
+DOI: https://doi.org/10.1515/flin-2023-2050</summary>
+  </entry>
+  <entry>
+    <title>Once known, always known. Turn-finalsaiin North-East regional Italian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-2001/html"/>
+    <id>https://doi.org/10.1515/flin-2024-2001</id>
+    <updated>2025-05-04T22:05:34.292004+00:00</updated>
+    <summary>Article by Marco Biasio, Dario Del Fante
+DOI: https://doi.org/10.1515/flin-2024-2001</summary>
+  </entry>
+</feed>

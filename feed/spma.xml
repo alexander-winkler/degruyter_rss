@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Special Matrices</title>
+  <link href="https://www.degruyterbrill.com/journal/key/spma/13/1/html"/>
+  <updated>2025-05-04T22:12:39.420178+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spma.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Special Matrices</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spma.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Spectral deviations of graphs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/spma-2024-0030/html"/>
+    <id>https://doi.org/10.1515/spma-2024-0030</id>
+    <updated>2025-05-04T22:12:39.420213+00:00</updated>
+    <summary>Article by Zoran Stanić
+DOI: https://doi.org/10.1515/spma-2024-0030</summary>
+  </entry>
+  <entry>
+    <title>Explicit inverse of symmetric, tridiagonal near Toeplitz matrices with strictly diagonally dominant Toeplitz part</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/spma-2024-0032/html"/>
+    <id>https://doi.org/10.1515/spma-2024-0032</id>
+    <updated>2025-05-04T22:12:39.420233+00:00</updated>
+    <summary>Article by Bakytzhan Kurmanbek, Yogi Erlangga, Yerlan Amanbek
+DOI: https://doi.org/10.1515/spma-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Matrices having a positive determinant and all other minors nonpositive</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/spma-2024-0031/html"/>
+    <id>https://doi.org/10.1515/spma-2024-0031</id>
+    <updated>2025-05-04T22:12:39.420241+00:00</updated>
+    <summary>Article by Imad Hassuneh, Mohammad Adm, Jürgen Garloff
+DOI: https://doi.org/10.1515/spma-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>On the permutation polytopes of some cyclic groups</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/spma-2025-0034/html"/>
+    <id>https://doi.org/10.1515/spma-2025-0034</id>
+    <updated>2025-05-04T22:12:39.420249+00:00</updated>
+    <summary>Article by Zhi Chen, Zhiwen Yang, Kebin Zhu
+DOI: https://doi.org/10.1515/spma-2025-0034</summary>
+  </entry>
+  <entry>
+    <title>Potential counter-examples to a conjecture on the column space of the adjacency matrix</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/spma-2025-0033/html"/>
+    <id>https://doi.org/10.1515/spma-2025-0033</id>
+    <updated>2025-05-04T22:12:39.420257+00:00</updated>
+    <summary>Article by Irene Sciriha, Bableen Kaur, James L. Borg, Mark Debono
+DOI: https://doi.org/10.1515/spma-2025-0033</summary>
+  </entry>
+  <entry>
+    <title>Unit group of the ring of negacirculant matrices over finite commutative chain rings</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/spma-2025-0035/html"/>
+    <id>https://doi.org/10.1515/spma-2025-0035</id>
+    <updated>2025-05-04T22:12:39.420264+00:00</updated>
+    <summary>Article by Prarinya Naksing, Somphong Jitman
+DOI: https://doi.org/10.1515/spma-2025-0035</summary>
+  </entry>
+</feed>

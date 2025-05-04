@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Geodetic Science</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jogs/15/1/html"/>
+  <updated>2025-05-04T22:08:32.005764+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jogs.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Geodetic Science</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jogs.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Investigating the prediction ability of the ionospheric continuity equation during the geomagnetic storm on May 8, 2016</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jogs-2022-0175/html"/>
+    <id>https://doi.org/10.1515/jogs-2022-0175</id>
+    <updated>2025-05-04T22:08:32.005812+00:00</updated>
+    <summary>Article by Hany Mahbuby, Yazdan Amerian
+DOI: https://doi.org/10.1515/jogs-2022-0175</summary>
+  </entry>
+  <entry>
+    <title>Combination of PSInSAR and GPS for stress and strain tensor estimation in Afar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jogs-2022-0162/html"/>
+    <id>https://doi.org/10.1515/jogs-2022-0162</id>
+    <updated>2025-05-04T22:08:32.005825+00:00</updated>
+    <summary>Article by Andnet Nigussie, Mehdi Eshagh, Andenet Ashagrie
+DOI: https://doi.org/10.1515/jogs-2022-0162</summary>
+  </entry>
+  <entry>
+    <title>Quasigeoid computation in the Nordic and Baltic region</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jogs-2022-0182/html"/>
+    <id>https://doi.org/10.1515/jogs-2022-0182</id>
+    <updated>2025-05-04T22:08:32.005835+00:00</updated>
+    <summary>Article by Hergeir Teitsson, René Forsberg, Gabriel Strykowski, Tim Enzlberger Jensen
+DOI: https://doi.org/10.1515/jogs-2022-0182</summary>
+  </entry>
+</feed>

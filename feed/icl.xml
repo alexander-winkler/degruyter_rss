@@ -1,40 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>ICL Journal</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in ICL Journal</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icl-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icl-2024-frontmatter3/html</guid>
-      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Interesting Times in Mexico: Constitutional Demise was Not on the Ballot</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icl-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icl-2024-0030/html</guid>
-      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2024-0030</description>
-    </item>
-    <item>
-      <title>The Emerging Civil Right to Counsel in India: On ‘Enforceable’ Directive Principles</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icl-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icl-2023-0012/html</guid>
-      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2023-0012</description>
-    </item>
-    <item>
-      <title>Chinese Constitutonal Performance Unveiled: Text Mining Insights in Civil Litigations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icl-2023-0052/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icl-2023-0052/html</guid>
-      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2023-0052</description>
-    </item>
-    <item>
-      <title>Deepening the Case for Egalitarianism in the International Order: A Comparative Perspective</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/icl-2023-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/icl-2023-0051/html</guid>
-      <description>Article by L. Amede Obiora DOI: https://doi.org/10.1515/icl-2023-0051</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ICL Journal</title>
+  <link href="https://www.degruyterbrill.com/journal/key/icl/19/1/html"/>
+  <updated>2025-05-04T22:06:26.266565+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in ICL Journal</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/icl-2025-frontmatter1</id>
+    <updated>2025-05-04T22:06:26.266608+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/icl-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>In Memoriam Theo Öhlinger (1939–2023)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2025-0005/html"/>
+    <id>https://doi.org/10.1515/icl-2025-0005</id>
+    <updated>2025-05-04T22:06:26.266621+00:00</updated>
+    <summary>Article by Harald Eberhard
+DOI: https://doi.org/10.1515/icl-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>The Transformation of China: Constitutional Review in Action</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2025-0003/html"/>
+    <id>https://doi.org/10.1515/icl-2025-0003</id>
+    <updated>2025-05-04T22:06:26.266635+00:00</updated>
+    <summary>Article by Han Liu
+DOI: https://doi.org/10.1515/icl-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Situating Hong Kong’s ‘Rule of Law’ Internationally</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0015/html"/>
+    <id>https://doi.org/10.1515/icl-2024-0015</id>
+    <updated>2025-05-04T22:06:26.266645+00:00</updated>
+    <summary>Article by Daniel Pascoe, Noam Zamir
+DOI: https://doi.org/10.1515/icl-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>The Role of the Constitution in Sweden: Addressing its Patchy Legal Legitimacy and the (Half-Way) Transition from Political to Legal Constitutionalism</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0023/html"/>
+    <id>https://doi.org/10.1515/icl-2024-0023</id>
+    <updated>2025-05-04T22:06:26.266659+00:00</updated>
+    <summary>Article by Mauro Zamboni
+DOI: https://doi.org/10.1515/icl-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>The Emergence of Constitutionally Conforming Interpretation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0031/html"/>
+    <id>https://doi.org/10.1515/icl-2024-0031</id>
+    <updated>2025-05-04T22:06:26.266669+00:00</updated>
+    <summary>Article by Daniel Christian Gosch
+DOI: https://doi.org/10.1515/icl-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>Conditional Right to Child Education in Nigeria: Punishing the Child for the Parents’ Sins</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0017/html"/>
+    <id>https://doi.org/10.1515/icl-2024-0017</id>
+    <updated>2025-05-04T22:06:26.266680+00:00</updated>
+    <summary>Article by Mujib Jimoh
+DOI: https://doi.org/10.1515/icl-2024-0017</summary>
+  </entry>
+</feed>

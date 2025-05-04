@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Noise Mapping</title>
+  <link href="https://www.degruyterbrill.com/journal/key/noise/12/1/html"/>
+  <updated>2025-05-04T22:10:26.418299+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/noise.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Noise Mapping</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/noise.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Sound event detection by intermittency ratio criterium and source classification by deep learning techniques</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/noise-2024-0014/html"/>
+    <id>https://doi.org/10.1515/noise-2024-0014</id>
+    <updated>2025-05-04T22:10:26.418335+00:00</updated>
+    <summary>Article by Ester Vidaña-Vila, Giovanni Brambilla, Rosa Ma Alsina-Pagès
+DOI: https://doi.org/10.1515/noise-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>Influence of land cover on noise simulation output – A case study in Malmö, Sweden</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/noise-2025-0016/html"/>
+    <id>https://doi.org/10.1515/noise-2025-0016</id>
+    <updated>2025-05-04T22:10:26.418349+00:00</updated>
+    <summary>Article by Karolina Pantazatou, Kristoffer Mattisson, Per-Ola Olsson, Erik Telldén, Anders Kettisen, Soraya Hosseinvash Azari, Wenjing Liu, Lars Harrie
+DOI: https://doi.org/10.1515/noise-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>A review of the studies investigating the effects of noise exposure on humans from 2017 to 2022: Trends and knowledge gaps</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/noise-2025-0015/html"/>
+    <id>https://doi.org/10.1515/noise-2025-0015</id>
+    <updated>2025-05-04T22:10:26.418360+00:00</updated>
+    <summary>Article by Mohammad Javad SheikhMozafari, Soqrat Omari Shekaftik, Fatameh Fasih Ramandi, Mohammad Reza Monazzam Esmaeelpour, Jamal Biganeh
+DOI: https://doi.org/10.1515/noise-2025-0015</summary>
+  </entry>
+</feed>

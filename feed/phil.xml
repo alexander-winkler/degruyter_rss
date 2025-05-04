@@ -1,58 +1,93 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Philologus</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Philologus</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phil.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2024-frontmatter1/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>ΛΥΣΙΜΕΛΗΣ: Überlegungen zu existenzieller Körperlichkeit und literarischen Strategien von Homer bis Platon</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0064/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0064/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0064</description>
-    </item>
-    <item>
-      <title>On a Newly Discovered Acrostic in Virgil (Ecl. 4.9–11): The ‘Tenth’ Age</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0020/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0020</description>
-    </item>
-    <item>
-      <title>Unpublished Conjectures by Nicolaus Heinsius on Ovid’s Metamorphoses 1–4</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0024/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0024</description>
-    </item>
-    <item>
-      <title>Come lavorava Lucano? Su possibili varianti d’autore nel Bellum civile</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0070/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0070</description>
-    </item>
-    <item>
-      <title>Juvencus’ Präsenz im Proömium des Cento Probae: ein bisher unbemerkter Fall akustischer Imitation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0028/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0028</description>
-    </item>
-    <item>
-      <title>Due note al testo di Marziale (1.55.4, 4.56.5)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0027/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0027</description>
-    </item>
-    <item>
-      <title>Could Agrippina Be the Snake? An Interpretation of unam omnino anguem in Tac. Ann. 11.11.3</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phil-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phil-2023-0011/html</guid>
-      <description>Article by Michal Ctibor DOI: https://doi.org/10.1515/phil-2023-0011</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Philologus</title>
+  <link href="https://www.degruyterbrill.com/journal/key/phil/168/2/html"/>
+  <updated>2025-05-04T22:11:03.236643+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phil.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Philologus</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phil.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Un frammento inedito di Zenone daglischolia veteraalleOperedi Esiodo (= Plut.fragmentum novum?)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0004/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0004</id>
+    <updated>2025-05-04T22:11:03.236678+00:00</updated>
+    <summary>Article by Simone Fiori
+DOI: https://doi.org/10.1515/phil-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Scholia and marginalia as testimonia of earlier stages of the text of Lucian: three notes on theLexiphanes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0066/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0066</id>
+    <updated>2025-05-04T22:11:03.236690+00:00</updated>
+    <summary>Article by Luca Beltramini
+DOI: https://doi.org/10.1515/phil-2023-0066</summary>
+  </entry>
+  <entry>
+    <title>Ovidio, Cicerone e il finale delleMetamorfosi</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0042/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0042</id>
+    <updated>2025-05-04T22:11:03.236697+00:00</updated>
+    <summary>Article by Emanuele Berti
+DOI: https://doi.org/10.1515/phil-2023-0042</summary>
+  </entry>
+  <entry>
+    <title>Capaneus philosophus? Una nota su Zenone, Filodemo, Stazio (e Lucrezio)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0058/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0058</id>
+    <updated>2025-05-04T22:11:03.236705+00:00</updated>
+    <summary>Article by Francesco Cannizzaro
+DOI: https://doi.org/10.1515/phil-2023-0058</summary>
+  </entry>
+  <entry>
+    <title>Certa non certis...Sul testo dellapoetica tempestasnella redazione A dell’Historia Apollonii regis Tyri</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0054/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0054</id>
+    <updated>2025-05-04T22:11:03.236713+00:00</updated>
+    <summary>Article by Francesco Lubian
+DOI: https://doi.org/10.1515/phil-2023-0054</summary>
+  </entry>
+  <entry>
+    <title>La luce della luna:lucifluusin Zenone di Verona (Tract.1.2.19) e Isidoro di Siviglia (Nat. 18.1;Etym. 3.53.1)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0059/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0059</id>
+    <updated>2025-05-04T22:11:03.236721+00:00</updated>
+    <summary>Article by Donato De Gianni
+DOI: https://doi.org/10.1515/phil-2023-0059</summary>
+  </entry>
+  <entry>
+    <title>The Riddles in Martius Valerius</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0002/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0002</id>
+    <updated>2025-05-04T22:11:03.236728+00:00</updated>
+    <summary>Article by Ruurd Nauta
+DOI: https://doi.org/10.1515/phil-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>„In tyrannos“ !? – Sicco Polentons Ovidvita zwischen mittelalterlichem ‚Aberglauben‘, ‚republikanischem Diskurs‘ und pragmatischem Bildungsideal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0041/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0041</id>
+    <updated>2025-05-04T22:11:03.236738+00:00</updated>
+    <summary>Article by Friedrich Meins
+DOI: https://doi.org/10.1515/phil-2023-0041</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/phil-2024-frontmatter2</id>
+    <updated>2025-05-04T22:11:03.236747+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phil-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Note filologiche alPraeceptum deliberativaedi Emporio</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0068/html"/>
+    <id>https://doi.org/10.1515/phil-2023-0068</id>
+    <updated>2025-05-04T22:11:03.236754+00:00</updated>
+    <summary>Article by Luigi Pirovano
+DOI: https://doi.org/10.1515/phil-2023-0068</summary>
+  </entry>
+</feed>

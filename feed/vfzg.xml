@@ -1,140 +1,104 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Vierteljahrshefte für Zeitgeschichte</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Vierteljahrshefte für Zeitgeschichte</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/vfzg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-frontmatter7204/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-frontmatter7204/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-frontmatter7204</description>
-    </item>
-    <item>
-      <title>Transformation on the Rocks</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0037/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0037</description>
-    </item>
-    <item>
-      <title>Waren Österreicher unter nationalsozialistischen Tätern überrepräsentiert?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0038/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0038</description>
-    </item>
-    <item>
-      <title>Zwischen Politik und Wissenschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0039/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0039</description>
-    </item>
-    <item>
-      <title>„Ein Stachel im Fleisch der Christdemokraten“</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0040/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0040</description>
-    </item>
-    <item>
-      <title>Wilhelm Treue und der Weg zur „Geschichtlichen Darstellung der gewerblichen Wirtschaft“</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0041/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0041</description>
-    </item>
-    <item>
-      <title>Rudolf Morsey (1927–2024)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0042/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0042</description>
-    </item>
-    <item>
-      <title>Neu: Ein weiteres Interview in der Rubrik „VfZ Hören und Sehen“, ein Hinweis auf unser Offenes Heftarchiv und ein Tipp – die Informationen zu den aktuellen Heften gibt es online auch auf Englisch</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0043/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0043</description>
-    </item>
-    <item>
-      <title>Rezensionen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0044/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0044</description>
-    </item>
-    <item>
-      <title>Abstracts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0045/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0045</description>
-    </item>
-    <item>
-      <title>Autorinnen und Autoren</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0046/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0046</description>
-    </item>
-    <item>
-      <title>Jahresinhaltsverzeichnis 2024</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0047/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0047</description>
-    </item>
-    <item>
-      <title>Hinweise</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/vfzg-2024-0048/html</guid>
-      <description>Article by 
-
-                Page range: 871-871
-            
- DOI: https://doi.org/10.1515/vfzg-2024-0048</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Vierteljahrshefte für Zeitgeschichte</title>
+  <link href="https://www.degruyterbrill.com/journal/key/vfzg/73/2/html"/>
+  <updated>2025-05-04T22:13:13.572956+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/vfzg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Vierteljahrshefte für Zeitgeschichte</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/vfzg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-frontmatter7302/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-frontmatter7302</id>
+    <updated>2025-05-04T22:13:13.572988+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/vfzg-2025-frontmatter7302</summary>
+  </entry>
+  <entry>
+    <title>Über die Herstellung der Natur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0012/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0012</id>
+    <updated>2025-05-04T22:13:13.572997+00:00</updated>
+    <summary>Article by Philipp Kröger
+DOI: https://doi.org/10.1515/vfzg-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Nachrichtendienst als Familienangelegenheit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0013/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0013</id>
+    <updated>2025-05-04T22:13:13.573007+00:00</updated>
+    <summary>Article by Sarah Lias Ceide
+DOI: https://doi.org/10.1515/vfzg-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Armin Mohler, die Neue Rechte und der Antisemitismus 1950 bis 1995</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0014/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0014</id>
+    <updated>2025-05-04T22:13:13.573019+00:00</updated>
+    <summary>Article by Fabian Weber
+DOI: https://doi.org/10.1515/vfzg-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>„1968“ und die Bundeswehr</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0015/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0015</id>
+    <updated>2025-05-04T22:13:13.573027+00:00</updated>
+    <summary>Article by Christoph Nübel
+DOI: https://doi.org/10.1515/vfzg-2025-0015</summary>
+  </entry>
+  <entry>
+    <title>NS-Aufarbeitung im Zeichen „nüchterner“ Sachlichkeit?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0016/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0016</id>
+    <updated>2025-05-04T22:13:13.573035+00:00</updated>
+    <summary>Article by Klaus Große Kracht, Niklas Lenhard-Schramm
+DOI: https://doi.org/10.1515/vfzg-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>Ludolf Herbst (1943–2024)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0017/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0017</id>
+    <updated>2025-05-04T22:13:13.573043+00:00</updated>
+    <summary>Article by Constantin Goschler, Rüdiger Graf, Benno Nietzel
+DOI: https://doi.org/10.1515/vfzg-2025-0017</summary>
+  </entry>
+  <entry>
+    <title>Neu: Ein weiteres Interview in der Rubrik „VfZ Hören und Sehen“, die Schriftenreihe und ihre Son­dernummern auf „Zeitgeschichte Open“ sowie ein Call for Papers für den VfZ-Schwer­punkt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0018/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0018</id>
+    <updated>2025-05-04T22:13:13.573053+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/vfzg-2025-0018</summary>
+  </entry>
+  <entry>
+    <title>Rezensionen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0019/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0019</id>
+    <updated>2025-05-04T22:13:13.573059+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/vfzg-2025-0019</summary>
+  </entry>
+  <entry>
+    <title>Abstracts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0020/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0020</id>
+    <updated>2025-05-04T22:13:13.573069+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/vfzg-2025-0020</summary>
+  </entry>
+  <entry>
+    <title>Autorinnen und Autoren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0021/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0021</id>
+    <updated>2025-05-04T22:13:13.573081+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/vfzg-2025-0021</summary>
+  </entry>
+  <entry>
+    <title>Hinweise</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/vfzg-2025-0022/html"/>
+    <id>https://doi.org/10.1515/vfzg-2025-0022</id>
+    <updated>2025-05-04T22:13:13.573087+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/vfzg-2025-0022</summary>
+  </entry>
+</feed>

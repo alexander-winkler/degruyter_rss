@@ -1,124 +1,188 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Romanistisches Jahrbuch</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Romanistisches Jahrbuch</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roma.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-frontmatter1/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-frontmatter1</description>
-    </item>
-    <item>
-      <title>In Memoriam Christian Schmitt (1944–2022)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0001/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0001</description>
-    </item>
-    <item>
-      <title>In Memoriam Harald Weinrich (1927–2022)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0002/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0002</description>
-    </item>
-    <item>
-      <title>Chronik 2022</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0003/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0003</description>
-    </item>
-    <item>
-      <title>Humanness, pronoun types, and orphan prepositions in French</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0004/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0004</description>
-    </item>
-    <item>
-      <title>Elaborazione e cambio linguistico: considerazioni sulle ‘lingue minori’ sull’esempio della scritturalità friulana</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0005/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0005</description>
-    </item>
-    <item>
-      <title>The epistemic future in exported grammars: a comparison between two Italo-Romance speech communities</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0006/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0006</description>
-    </item>
-    <item>
-      <title>Pietro Aretino e Luciano di Samosata. Paradosso e parrhesia tra parola e immagine</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0007/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0007</description>
-    </item>
-    <item>
-      <title>Machiavellis Kriegskunst: Die Lehren des Libro dell’arte della guerra</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0008/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0008</description>
-    </item>
-    <item>
-      <title>Wendy Ayres-Bennett/John Bellamy (eds.), The Cambridge Handbook of Language Standardization. Cambridge, Cambridge University Press, 2021 (Cambridge Handbooks in Language and Linguistics). XVI+802 Seiten.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0009/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0009</description>
-    </item>
-    <item>
-      <title>Elissa Pustka, Französische Sprachwissenschaft. Eine Einführung, Tübingen, Narr Francke Attempto, 2022 (Narr Studienbücher). 290 Seiten.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0010/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0010</description>
-    </item>
-    <item>
-      <title>Considerazioni intorno a un recente contributo della critica mariniana Clizia Carminati: Tradizione, imitazione, modernità. Tasso e Marino visti dal Seicento. Pisa, ETS, 2020 (Res litteraria 18). 178 pagine.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0011/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0011</description>
-    </item>
-    <item>
-      <title>Jenny Haase: Vitale Mystik. Formen und Rezeptionen mystischen Schreibens in der Lyrik von Anna de Noailles, Ernestina de Champourcin und Antonia Pozzi, Berlin/Boston, De Gruyter, 2022. 545 Seiten.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0012/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0012</description>
-    </item>
-    <item>
-      <title>Claudia Jacobi: Mythopoétiques dantesques: une étude intermédiale sur la France, l’Espagne et l’Italie (1766–1897), Strasbourg, ELiPhi, 2021. 417 Seiten.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0013/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0013</description>
-    </item>
-    <item>
-      <title>Gerhard Regn: Poetik des Aufschubs. Augustinus, Dante und die antiken Klassiker in Petrarcas Canzoniere, Heidelberg, Universitätsverlag Winter, 2022 (Neues Forum für allgemeine und vergleichende Literaturwissenschaft, Bd. 60). 597 Seiten.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0014/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0014</description>
-    </item>
-    <item>
-      <title>The romance in Hispano-Jewish Communities (Tenth to Thirteenth Centuries)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0015/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0015</description>
-    </item>
-    <item>
-      <title>Citación, relaciones textuales y tradicionalidad en el discurso preeconómico español</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0016/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0016</description>
-    </item>
-    <item>
-      <title>Perspectiva teatral y simbólica de la figura del emperador Carlos V en los dramas históricos renacentistas: de la Égloga real (1518) a la Comedia del saco de Roma (1579)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0017/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0017</description>
-    </item>
-    <item>
-      <title>Ziel und Zweck als Ursachen im Siglo de Oro</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/roja-2023-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/roja-2023-0018/html</guid>
-      <description>Article by Christoph Strosetzki DOI: https://doi.org/10.1515/roja-2023-0018</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Romanistisches Jahrbuch</title>
+  <link href="https://www.degruyterbrill.com/journal/key/roma/75/1/html"/>
+  <updated>2025-05-04T22:12:08.078424+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roma.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Romanistisches Jahrbuch</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roma.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Kunst als Refugium vor dem Tod: Nachruf auf Prof. em. Dr. Rainer Warning (10. April 1936–1. Januar 2024)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0001/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0001</id>
+    <updated>2025-05-04T22:12:08.078461+00:00</updated>
+    <summary>Article by Gerhard Regn
+DOI: https://doi.org/10.1515/roja-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>Génération Perdue ou la force des noms</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0014/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0014</id>
+    <updated>2025-05-04T22:12:08.078470+00:00</updated>
+    <summary>Article by Cécile Wajsbrot
+DOI: https://doi.org/10.1515/roja-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>Chronik 2023</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0002/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0002</id>
+    <updated>2025-05-04T22:12:08.078478+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/roja-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/roja-2024-frontmatter1</id>
+    <updated>2025-05-04T22:12:08.078483+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/roja-2024-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Présence, statut et variétés du français dans le paysage linguistique du Maroc</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0003/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0003</id>
+    <updated>2025-05-04T22:12:08.078489+00:00</updated>
+    <summary>Article by Francisco Calvo del Olmo
+DOI: https://doi.org/10.1515/roja-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>Romanische Bereichsadverbien an der Schnittstelle von Semantik, Syntax und Pragmatik: Kontextuelle Bedeutungsanpassung und syntaktische Polyfunktionalität</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0004/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0004</id>
+    <updated>2025-05-04T22:12:08.078500+00:00</updated>
+    <summary>Article by Klaus Grübl
+DOI: https://doi.org/10.1515/roja-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Die Rolle des Spanischen in der Linguistic Landscape von Metro Manila (Intramuros)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0005/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0005</id>
+    <updated>2025-05-04T22:12:08.078510+00:00</updated>
+    <summary>Article by Sandra Issel-Dombert
+DOI: https://doi.org/10.1515/roja-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>Jesuits and language learning, documenting and teaching: A holistic approach to colonial linguistics and learning practices in the early modern period</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0006/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0006</id>
+    <updated>2025-05-04T22:12:08.078516+00:00</updated>
+    <summary>Article by Laura Linzmeier, Tabea Salzmann
+DOI: https://doi.org/10.1515/roja-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Violence,pathosand the triumph of fiction in Vargas Llosa’sLituma en los Andes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0007/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0007</id>
+    <updated>2025-05-04T22:12:08.078522+00:00</updated>
+    <summary>Article by José Manuel Blanco Mayor
+DOI: https://doi.org/10.1515/roja-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Annotationen. Zur autoreflexiven Dimension von Fußnoten im portugiesischen und brasilianischen Epos der Romantik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0008/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0008</id>
+    <updated>2025-05-04T22:12:08.078529+00:00</updated>
+    <summary>Article by Dirk Brunke
+DOI: https://doi.org/10.1515/roja-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>Le roman néo-apuléen au XVIIesiècle : de la bestialité du désir (Italie/France)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0009/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0009</id>
+    <updated>2025-05-04T22:12:08.078535+00:00</updated>
+    <summary>Article by Nicolas Correard
+DOI: https://doi.org/10.1515/roja-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>‘Translatio/Translación’. ‘El Barroco Español’ como mesetas sociales, sexuales y políticas. Pliegues, repliegues, trazas, rizomas y diseminaciones infinitas. ‘Tratados de Honor’ y ‘Dramas de Honor’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0010/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0010</id>
+    <updated>2025-05-04T22:12:08.078543+00:00</updated>
+    <summary>Article by Alfonso de Toro
+DOI: https://doi.org/10.1515/roja-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>Fernliebe. Zur Semantik eines trobadoresken Distanzkonzepts im 12. Jahrhundert</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0011/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0011</id>
+    <updated>2025-05-04T22:12:08.078548+00:00</updated>
+    <summary>Article by Susanne A. Friede
+DOI: https://doi.org/10.1515/roja-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>O infamiliar judaísmo em Clarice Lispector</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0013/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0013</id>
+    <updated>2025-05-04T22:12:08.078554+00:00</updated>
+    <summary>Article by Yudith Rosenbaum
+DOI: https://doi.org/10.1515/roja-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Driss Ablali/Guy Achard-Bayle (eds.):French Theories on Text and Discourse, Berlin/Boston, De Gruyter, 2023 (Beihefte zur Zeitschrift für Romanische Philologie 473). VI+286 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0015/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0015</id>
+    <updated>2025-05-04T22:12:08.078563+00:00</updated>
+    <summary>Article by Maria Selig
+DOI: https://doi.org/10.1515/roja-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>Sandra Issel-Dombert:Sprachgeschichte als Textsortengeschichte. Zur Linguistik der Beschwerde am Beispiel dercahiers de doléances, Frankfurt a. M., Vittorio Klostermann, 2019 (Analecta Romanica 89). XVI+480 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0016/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0016</id>
+    <updated>2025-05-04T22:12:08.078570+00:00</updated>
+    <summary>Article by Esme Winter-Froemel
+DOI: https://doi.org/10.1515/roja-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>Daniel Maira (ed.), avec la collaboration de Freya Baur et Teodoro Patera:Mollesses renaissantes. Défaillances et assouplissement du masculin(Cahiers d’Humanisme et Renaissance 171), Genève, Droz, 2021. 456 pages.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0017/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0017</id>
+    <updated>2025-05-04T22:12:08.078578+00:00</updated>
+    <summary>Article by Stephanie Béreiziat-Lang
+DOI: https://doi.org/10.1515/roja-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Marine Champetier de Ribes/Sofina Dembruk/Daniel Fliege/Vanessa Oberliessen (éds.), sous la direction scientifique de Frank Lestringant:Une honnête curiosité de s’enquérir de toutes choses. Mélanges en l’honneur d’Olivier Millet, de la part de ses élèves, collègues et amis, Genève, Droz, 2021. 704 pages.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0018/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0018</id>
+    <updated>2025-05-04T22:12:08.078588+00:00</updated>
+    <summary>Article by Rogier Gerrits
+DOI: https://doi.org/10.1515/roja-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>Melanie Strasser:Kultureller Kannibalismus – Übersetzungen der Anthropophagie, Würzburg, Königshausen &amp; Neumann, 2023. 266 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0019/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0019</id>
+    <updated>2025-05-04T22:12:08.078594+00:00</updated>
+    <summary>Article by Luis S. Krausz
+DOI: https://doi.org/10.1515/roja-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Eva-Tabea Meineke:Rivieras de l’irréel. Surrealismen in Italien und Frankreich,Würzburg, Königshausen &amp; Neumann, 2019. 334 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0020/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0020</id>
+    <updated>2025-05-04T22:12:08.078600+00:00</updated>
+    <summary>Article by Anne-Marie Lachmund
+DOI: https://doi.org/10.1515/roja-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Tobias Haberkorn:Das Problem des Zuviel. Welt in Sprache bei Rabelais und Montaigne, Berlin/Amsterdam, LMVerlag, 2021, 325 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0021/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0021</id>
+    <updated>2025-05-04T22:12:08.078606+00:00</updated>
+    <summary>Article by Rosemary Snelling-Gőgh
+DOI: https://doi.org/10.1515/roja-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Sofina Dembruk :« Saincte et precieuse déformité ». Expérimentations littéraires de la laideur à la Renaissance(Études et essais sur la Renaissance 128), Paris, Classiques Garnier, 2022. 370 pages.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/roja-2024-0022/html"/>
+    <id>https://doi.org/10.1515/roja-2024-0022</id>
+    <updated>2025-05-04T22:12:08.078616+00:00</updated>
+    <summary>Article by Javier Soage
+DOI: https://doi.org/10.1515/roja-2024-0022</summary>
+  </entry>
+</feed>

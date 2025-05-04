@@ -1,52 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of the Bible and its Reception</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of the Bible and its Reception</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2024-frontmatter2/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Introduction: New Perspectives on Biblical Drama</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2024-0011/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2024-0011</description>
-    </item>
-    <item>
-      <title>Biblical Stories on the Medieval and Early Modern Stage: A Transnational Approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0014/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0014</description>
-    </item>
-    <item>
-      <title>The Merchant Scene of Biblical Drama: Rehabilitating the Female Input</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0022/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0022</description>
-    </item>
-    <item>
-      <title>Biblical Drama and Politically Incorrect Ideas in the Dutch Reformation Era</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0016/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0016</description>
-    </item>
-    <item>
-      <title>Ruins of Empire or Tears of Joy? An Intersection of History and the Bible in Lope de Vega’s Religious Comedias</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0013/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0013</description>
-    </item>
-    <item>
-      <title>The Biblical History Play: Turning Seventeenth-Century Joseph Plays into Political Drama</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbr-2023-0010/html</guid>
-      <description>Article by Dinah Wouters DOI: https://doi.org/10.1515/jbr-2023-0010</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of the Bible and its Reception</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jbr/12/1/html"/>
+  <updated>2025-05-04T22:07:28.804659+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of the Bible and its Reception</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jbr-2025-frontmatter1</id>
+    <updated>2025-05-04T22:07:28.804691+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jbr-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Reception, Rediscovery, and Reimagination: Codex Bezae Cantabrigiensis and Luke 16:19–31</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2025-0003/html"/>
+    <id>https://doi.org/10.1515/jbr-2025-0003</id>
+    <updated>2025-05-04T22:07:28.804701+00:00</updated>
+    <summary>Article by Gregory E. Lamb
+DOI: https://doi.org/10.1515/jbr-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Obscuring New Testament Slavery: A Study of the Translation History of Δοῦλος</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2024-0002/html"/>
+    <id>https://doi.org/10.1515/jbr-2024-0002</id>
+    <updated>2025-05-04T22:07:28.804711+00:00</updated>
+    <summary>Article by Anders Martinsen, Martijn Stoutjesdijk
+DOI: https://doi.org/10.1515/jbr-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Early Nineteenth-Century Biblical Scholarship and the Production ofThe Book of Mormon</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2024-0001/html"/>
+    <id>https://doi.org/10.1515/jbr-2024-0001</id>
+    <updated>2025-05-04T22:07:28.804719+00:00</updated>
+    <summary>Article by Colby Townsend
+DOI: https://doi.org/10.1515/jbr-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>ResistingWirkungsgeschichte: Bible Translators as Agents of Reception</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2023-0021/html"/>
+    <id>https://doi.org/10.1515/jbr-2023-0021</id>
+    <updated>2025-05-04T22:07:28.804727+00:00</updated>
+    <summary>Article by Richard Pleijel
+DOI: https://doi.org/10.1515/jbr-2023-0021</summary>
+  </entry>
+  <entry>
+    <title>A Mediatized Bible: Discourses on the Hebrew Bible in Swedish Newspaper Debates</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2023-0019/html"/>
+    <id>https://doi.org/10.1515/jbr-2023-0019</id>
+    <updated>2025-05-04T22:07:28.804734+00:00</updated>
+    <summary>Article by Hanna Liljefors
+DOI: https://doi.org/10.1515/jbr-2023-0019</summary>
+  </entry>
+  <entry>
+    <title>Ngāti Hotu in Paradise: How Contemporary Hotu in Aotearoa New Zealand Defend their White Pre-Polynesian Settlement Theory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbr-2023-0001/html"/>
+    <id>https://doi.org/10.1515/jbr-2023-0001</id>
+    <updated>2025-05-04T22:07:28.804741+00:00</updated>
+    <summary>Article by Deane Galbraith
+DOI: https://doi.org/10.1515/jbr-2023-0001</summary>
+  </entry>
+</feed>

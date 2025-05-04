@@ -1,52 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Studies in Nonlinear Dynamics &amp; Econometrics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Studies in Nonlinear Dynamics &amp; Econometrics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2024-frontmatter4/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Age and gender differentials in unemployment and hysteresis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0068/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0068/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0068</description>
-    </item>
-    <item>
-      <title>Estimation and testing of the factor-augmented panel regression models with missing data</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0042/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0042</description>
-    </item>
-    <item>
-      <title>Multi-kernel property in high-frequency price dynamics under Hawkes model</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0049/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0049</description>
-    </item>
-    <item>
-      <title>Causal relationships between cryptocurrencies: the effects of sampling interval and sample size</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0054/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0054/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0054</description>
-    </item>
-    <item>
-      <title>Panel threshold model with covariate-dependent thresholds and its application to the cash flow/investment relationship</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2022-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2022-0035/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2022-0035</description>
-    </item>
-    <item>
-      <title>HPX filter: a hybrid of Hodrick–Prescott filter and multiple regression</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/snde-2023-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/snde-2023-0004/html</guid>
-      <description>Article by Hiroshi Yamada DOI: https://doi.org/10.1515/snde-2023-0004</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Studies in Nonlinear Dynamics &amp; Econometrics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/snde/29/1/html"/>
+  <updated>2025-05-04T22:12:30.029687+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Studies in Nonlinear Dynamics &amp; Econometrics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/snde-2025-frontmatter1</id>
+    <updated>2025-05-04T22:12:30.029727+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Power of Unit Root Tests Against Nonlinear and Noncausal Alternatives with an Application to the Brent Crude Oil Price</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2022-0084/html"/>
+    <id>https://doi.org/10.1515/snde-2022-0084</id>
+    <updated>2025-05-04T22:12:30.029737+00:00</updated>
+    <summary>Article by Frédérique Bec, Alain Guay, Heino Bohn Nielsen, Sarra Saïdi
+DOI: https://doi.org/10.1515/snde-2022-0084</summary>
+  </entry>
+  <entry>
+    <title>Financial Condition Indices in an Incomplete Data Environment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2022-0115/html"/>
+    <id>https://doi.org/10.1515/snde-2022-0115</id>
+    <updated>2025-05-04T22:12:30.029749+00:00</updated>
+    <summary>Article by Miguel C. Herculano, Punnoose Jacob
+DOI: https://doi.org/10.1515/snde-2022-0115</summary>
+  </entry>
+  <entry>
+    <title>Investigating the Impact of Consumption Distribution on CRRA Estimation: Quantile-CCAPM-Based Approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0005/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0005</id>
+    <updated>2025-05-04T22:12:30.029758+00:00</updated>
+    <summary>Article by Sofia B. Ramos, Abderrahim Taamouti, Helena Veiga
+DOI: https://doi.org/10.1515/snde-2023-0005</summary>
+  </entry>
+  <entry>
+    <title>Controlling Chaotic Fluctuations through Monetary Policy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0015/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0015</id>
+    <updated>2025-05-04T22:12:30.029767+00:00</updated>
+    <summary>Article by Takao Asano, Akihisa Shibata, Masanori Yokoo
+DOI: https://doi.org/10.1515/snde-2023-0015</summary>
+  </entry>
+  <entry>
+    <title>Information Content of Inflation Expectations: A Copula-Based Model</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0075/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0075</id>
+    <updated>2025-05-04T22:12:30.029775+00:00</updated>
+    <summary>Article by Omid M. Ardakani
+DOI: https://doi.org/10.1515/snde-2023-0075</summary>
+  </entry>
+  <entry>
+    <title>Generalized Autoregressive Conditional Betas: A New Multivariate Score-Driven Filter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0019/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0019</id>
+    <updated>2025-05-04T22:12:30.029784+00:00</updated>
+    <summary>Article by Szabolcs Blazsek, August Jörding, Simran Rai
+DOI: https://doi.org/10.1515/snde-2023-0019</summary>
+  </entry>
+</feed>

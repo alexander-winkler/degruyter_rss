@@ -1,34 +1,45 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Business Valuation and Economic Loss Analysis</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Business Valuation and Economic Loss Analysis</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbvela.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbvela-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbvela-2024-frontmatter1/html</guid>
-      <description>Article by Rob Schlegel, Penny Lutocka DOI: https://doi.org/10.1515/jbvela-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>From Hindsight to Foresight: Understanding and Overcoming Bias in Financial Forecasts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbvela-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbvela-2024-0011/html</guid>
-      <description>Article by Rob Schlegel, Penny Lutocka DOI: https://doi.org/10.1515/jbvela-2024-0011</description>
-    </item>
-    <item>
-      <title>Consistent DCF Methods for Constant-Growth Annuities à la Modigliani &amp; Miller or Miles &amp; Ezzell</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbvela-2023-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbvela-2023-0015/html</guid>
-      <description>Article by Rob Schlegel, Penny Lutocka DOI: https://doi.org/10.1515/jbvela-2023-0015</description>
-    </item>
-    <item>
-      <title>The Journal of Business Valuation and Economic Loss Analysis Shannon Pratt’s The Lawyer’s Business Valuation Handbook</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbvela-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbvela-2024-0029/html</guid>
-      <description>Article by Rob Schlegel, Penny Lutocka DOI: https://doi.org/10.1515/jbvela-2024-0029</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Business Valuation and Economic Loss Analysis</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jbvela/19/1/html"/>
+  <updated>2025-05-04T22:07:30.244988+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbvela.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Business Valuation and Economic Loss Analysis</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbvela.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jbvela-2024-frontmatter1</id>
+    <updated>2025-05-04T22:07:30.245026+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jbvela-2024-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>From Hindsight to Foresight: Understanding and Overcoming Bias in Financial Forecasts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2024-0011/html"/>
+    <id>https://doi.org/10.1515/jbvela-2024-0011</id>
+    <updated>2025-05-04T22:07:30.245036+00:00</updated>
+    <summary>Article by Derek Zweig, Timothy Sumner, Adam Luke
+DOI: https://doi.org/10.1515/jbvela-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Consistent DCF Methods for Constant-Growth Annuities à la Modigliani &amp; Miller or Miles &amp; Ezzell</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2023-0015/html"/>
+    <id>https://doi.org/10.1515/jbvela-2023-0015</id>
+    <updated>2025-05-04T22:07:30.245050+00:00</updated>
+    <summary>Article by Denis M. Becker
+DOI: https://doi.org/10.1515/jbvela-2023-0015</summary>
+  </entry>
+  <entry>
+    <title>The Journal of Business Valuation and Economic Loss Analysis Shannon Pratt’sThe Lawyer’s Business Valuation Handbook</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2024-0029/html"/>
+    <id>https://doi.org/10.1515/jbvela-2024-0029</id>
+    <updated>2025-05-04T22:07:30.245061+00:00</updated>
+    <summary>Article by Rob Schlegel, Penny Lutocka
+DOI: https://doi.org/10.1515/jbvela-2024-0029</summary>
+  </entry>
+</feed>

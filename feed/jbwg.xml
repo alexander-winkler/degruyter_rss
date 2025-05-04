@@ -1,82 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-frontmatter2/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Foreword by the new Managing Editor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0013/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0013</description>
-    </item>
-    <item>
-      <title>Obituary for Josef Ehmer</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0014/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0014</description>
-    </item>
-    <item>
-      <title>Wood-based Businesses and the Economic Development of Europe in the Nineteenth and Twentieth Centuries – An Introduction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0015/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0015</description>
-    </item>
-    <item>
-      <title>Cheap Labour on the Timber Frontier: Migration of Forestry Workers from Austria- Hungary to Southeast Europe, ca. 1880–1914</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0016/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0016</description>
-    </item>
-    <item>
-      <title>From “The Bosnian Danger” to Forest for the People: Bosnia’s Timber Frontier in the Age of Empires</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0017/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0017</description>
-    </item>
-    <item>
-      <title>The Baltic Timber Trade and the Port of Riga: Economic Empowerment of Middlemen and New Entrepreneurs in Imperial Russia’s Western Provinces (1860s to 1914)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0018/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0018</description>
-    </item>
-    <item>
-      <title>Losing Influence: The Changing Role of the Merchant Community of Danzig in the Timber Value Chain (1919–1939)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0019/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0019</description>
-    </item>
-    <item>
-      <title>Looking East and West for Pulpwood, Pulp and Paper: Great Britain as an Anomaly in Europe, 1860–1960</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0020/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0020</description>
-    </item>
-    <item>
-      <title>International Commodity Governance: Softwood Timber Trade 1870–1970</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0021/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0021</description>
-    </item>
-    <item>
-      <title>Networks of Supply and Elite Consumers in England and Germany, c. 1750–1830</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0022/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0022</description>
-    </item>
-    <item>
-      <title>Reach of Globalization in 18th Century Germany: Atlantic Products from Hamburg to Saxon Markets</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jbwg-2024-0023/html</guid>
-      <description>Article by Yuta Kikuchi DOI: https://doi.org/10.1515/jbwg-2024-0023</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jbwg/66/1/html"/>
+  <updated>2025-05-04T22:07:31.735373+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-frontmatter1</id>
+    <updated>2025-05-04T22:07:31.735402+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jbwg-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Nachruf auf Wolfram Fischer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0001/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0001</id>
+    <updated>2025-05-04T22:07:31.735411+00:00</updated>
+    <summary>Article by Harm Schröter
+DOI: https://doi.org/10.1515/jbwg-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Investment and Saving Opportunities for Different Socio-Economic Groups in Medieval and Early Modern Europe</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0002/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0002</id>
+    <updated>2025-05-04T22:07:31.735424+00:00</updated>
+    <summary>Article by Stephan Nicolussi-Köhler, Marco Conti, Kirsten Wandschneider
+DOI: https://doi.org/10.1515/jbwg-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Politics, Investments and Public Spending in Bologna (End of 13th – First Half of 14th Century)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0003/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0003</id>
+    <updated>2025-05-04T22:07:31.735432+00:00</updated>
+    <summary>Article by Marco Conti
+DOI: https://doi.org/10.1515/jbwg-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Financing Poor Relief in the Small Lower Rhine Town of Kalkar in the Late Middle Ages</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0004/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0004</id>
+    <updated>2025-05-04T22:07:31.735440+00:00</updated>
+    <summary>Article by Monika Gussone
+DOI: https://doi.org/10.1515/jbwg-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Credit for the Poor, Investments for the Rich? Different Strategies for Investing and Saving Money in Medieval Tirol</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0005/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0005</id>
+    <updated>2025-05-04T22:07:31.735447+00:00</updated>
+    <summary>Article by Stephan Nicolussi-Köhler
+DOI: https://doi.org/10.1515/jbwg-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Financing the Commune</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0006/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0006</id>
+    <updated>2025-05-04T22:07:31.735455+00:00</updated>
+    <summary>Article by Carlo Ludovico Severgnini
+DOI: https://doi.org/10.1515/jbwg-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Investing in a New Financial Instrument: The First Buyers of Urban Debt in Catalonia (Mid. 14th Century)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0007/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0007</id>
+    <updated>2025-05-04T22:07:31.735462+00:00</updated>
+    <summary>Article by Laura Miquel Milian, Albert Reixach Sala, Pere Verdés Pijuan
+DOI: https://doi.org/10.1515/jbwg-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Set for Life: Old-Age Pensions Provided by Hospitals in Late-Medieval Amsterdam</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0008/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0008</id>
+    <updated>2025-05-04T22:07:31.735470+00:00</updated>
+    <summary>Article by Jaco Zuijderduijn
+DOI: https://doi.org/10.1515/jbwg-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Credit Investments in Northern Italian States (17th–18th Centuries)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0009/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0009</id>
+    <updated>2025-05-04T22:07:31.735477+00:00</updated>
+    <summary>Article by Marcella Lorenzini
+DOI: https://doi.org/10.1515/jbwg-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Food Crises in Germany, 1500–1871</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0010/html"/>
+    <id>https://doi.org/10.1515/jbwg-2025-0010</id>
+    <updated>2025-05-04T22:07:31.735484+00:00</updated>
+    <summary>Article by Hakon Albers, Ulrich Pfister
+DOI: https://doi.org/10.1515/jbwg-2025-0010</summary>
+  </entry>
+</feed>

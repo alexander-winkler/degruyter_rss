@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Biomolecular Concepts</title>
+  <link href="https://www.degruyterbrill.com/journal/key/bmc/16/1/html"/>
+  <updated>2025-05-04T22:03:27.325264+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmc.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Biomolecular Concepts</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmc.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Anti-arthritic potential of crude sulfated polysaccharide from marine macroalgaeSargassum ilicifolium(Turner) C. Agardh: Regulation of cytokine cascade</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmc-2022-0050/html"/>
+    <id>https://doi.org/10.1515/bmc-2022-0050</id>
+    <updated>2025-05-04T22:03:27.325309+00:00</updated>
+    <summary>Article by Lavanya Ramamoorthi, Srikanth Jeyabalan, Seethalakshmi Sankar, M. Yasmin Begum, Chamundeeswari Duraipandian, Mahendran Sekar, Ling Shing Wong, Vetriselvan Subramaniyan
+DOI: https://doi.org/10.1515/bmc-2022-0050</summary>
+  </entry>
+  <entry>
+    <title>Quest for space: Tenacity of DNA, Protein, and Lipid macromolecules in intracellular crowded environment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmc-2025-0053/html"/>
+    <id>https://doi.org/10.1515/bmc-2025-0053</id>
+    <updated>2025-05-04T22:03:27.325324+00:00</updated>
+    <summary>Article by Priyanka Phogat, Aparna Bansal, Nishu Nain, Shoaib Khan, Luciano Saso, Shrikant Kukreti
+DOI: https://doi.org/10.1515/bmc-2025-0053</summary>
+  </entry>
+</feed>

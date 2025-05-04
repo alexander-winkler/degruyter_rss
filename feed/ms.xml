@@ -1,130 +1,166 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Mathematica Slovaca</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Mathematica Slovaca</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ms.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>On monoids of endomorphisms of a cycle graph</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0078/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0078/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0078</description>
-    </item>
-    <item>
-      <title>The influence of separating cycles in drawings of K5 ∖ e in the join product with paths and cycles</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0079/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0079/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0079</description>
-    </item>
-    <item>
-      <title>Completely hereditarily atomic OMLS</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0080/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0080/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0080</description>
-    </item>
-    <item>
-      <title>New notes on the equation d(n) = d(φ(n)) and the inequality d(n) &gt; d(φ(n))</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0081/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0081/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0081</description>
-    </item>
-    <item>
-      <title>On the monogenity and Galois group of certain classes of polynomials</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0082/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0082/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0082</description>
-    </item>
-    <item>
-      <title>Other fundamental systems of solutions of the differential equation (D2 – 2αD + α2 + β2)ny = 0, β ≠ 0</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0083/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0083/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0083</description>
-    </item>
-    <item>
-      <title>Characterization of continuous additive set-valued maps “modulo K” on finite dimensional linear spaces</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0084/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0084/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0084</description>
-    </item>
-    <item>
-      <title>Hermite–Hadamard inequalities for Riemann–Liouville fractional integrals</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0085/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0085/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0085</description>
-    </item>
-    <item>
-      <title>Global Mild Solutions For Hilfer Fractional Neutral Evolution Equation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0086/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0086/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0086</description>
-    </item>
-    <item>
-      <title>The discrete fractional Karamata theorem and its applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0087/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0087/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0087</description>
-    </item>
-    <item>
-      <title>Complex Generalized Stancu-Schurer Operators</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0088/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0088/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0088</description>
-    </item>
-    <item>
-      <title>New oscillatory criteria for third-order differential equations with mixed argument</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0089/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0089/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0089</description>
-    </item>
-    <item>
-      <title>Cauchy problem for a loaded hyperbolic equation with the Bessel operator</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0090/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0090/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0090</description>
-    </item>
-    <item>
-      <title>Liouville type theorem for a system of elliptic inequalities on weighted graphs without (p0)-condition</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0091/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0091/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0091</description>
-    </item>
-    <item>
-      <title>On the rate of convergence for the q-Durrmeyer polynomials in complex domains</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0092/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0092/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0092</description>
-    </item>
-    <item>
-      <title>Some fixed point theorems in generalized parametric metric spaces and applications to ordinary differential equations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0093/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0093/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0093</description>
-    </item>
-    <item>
-      <title>On the relation of Kannan contraction and Banach contraction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0094/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0094/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0094</description>
-    </item>
-    <item>
-      <title>Extropy and statistical features of dual generalized order statistics’ concomitants arising from the Sarmanov family</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0095/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0095/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0095</description>
-    </item>
-    <item>
-      <title>Residual Inaccuracy Extropy and its properties</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0096/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0096/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0096</description>
-    </item>
-    <item>
-      <title>Archimedean ℓ-groups with strong unit: cozero-sets and coincidence of types of ideals</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ms-2024-0097/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ms-2024-0097/html</guid>
-      <description>Article by Papiya Bhattacharjee, Anthony W. Hager, Warren Wm. McGovern, Brian Wynne DOI: https://doi.org/10.1515/ms-2024-0097</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mathematica Slovaca</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ms/75/1/html"/>
+  <updated>2025-05-04T22:10:04.333378+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ms.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Mathematica Slovaca</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ms.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Generalized Sasaki mappings in d0-Algebras</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0001/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0001</id>
+    <updated>2025-05-04T22:10:04.333403+00:00</updated>
+    <summary>Article by Anna Avallone, Paolo Vitolo
+DOI: https://doi.org/10.1515/ms-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>On a theorem of Nathanson on Diophantine approximation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0002/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0002</id>
+    <updated>2025-05-04T22:10:04.333416+00:00</updated>
+    <summary>Article by Jaroslav Hančl, Tho Phuoc Nguyen
+DOI: https://doi.org/10.1515/ms-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Constructing infinite families of number fields with given indices from quintinomials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0003/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0003</id>
+    <updated>2025-05-04T22:10:04.333423+00:00</updated>
+    <summary>Article by Lhoussain El Fadil, Omar Kchit
+DOI: https://doi.org/10.1515/ms-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Partitions into two Lehmer numbers in ℤq</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0004/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0004</id>
+    <updated>2025-05-04T22:10:04.333430+00:00</updated>
+    <summary>Article by Jiankang Wang, Zhefeng Xu
+DOI: https://doi.org/10.1515/ms-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Fundamental systems of solutions of some linear differential equations of higher order</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0005/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0005</id>
+    <updated>2025-05-04T22:10:04.333436+00:00</updated>
+    <summary>Article by Jozef Fecenko
+DOI: https://doi.org/10.1515/ms-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Onk-Circulant matrices involving the Lucas numbers of even index</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0006/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0006</id>
+    <updated>2025-05-04T22:10:04.333443+00:00</updated>
+    <summary>Article by Biljana Radičić
+DOI: https://doi.org/10.1515/ms-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Explicit formulae for the Drazin inverse of the sum of two matrices</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0007/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0007</id>
+    <updated>2025-05-04T22:10:04.333449+00:00</updated>
+    <summary>Article by Daochang Zhang, Yue Zhao, Dijana Mosić
+DOI: https://doi.org/10.1515/ms-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>On nonoscillation of fractional order functional differential equations with forcing term and distributed delays</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0008/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0008</id>
+    <updated>2025-05-04T22:10:04.333458+00:00</updated>
+    <summary>Article by James Viji, Jehad Alzabut, Velu Muthulakshmi, Abdulah Özbekler
+DOI: https://doi.org/10.1515/ms-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Novel generalized tempered fractional integral inequalities for convexity property and applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0009/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0009</id>
+    <updated>2025-05-04T22:10:04.333464+00:00</updated>
+    <summary>Article by Artion Kashuri, Arslan Munir, Hüseyin Budak, Fatih Hezenci
+DOI: https://doi.org/10.1515/ms-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Convergence ofα-Bernstein-Durrmeyer operators about a collection of measures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0010/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0010</id>
+    <updated>2025-05-04T22:10:04.333474+00:00</updated>
+    <summary>Article by Harmanjit Kaur, Meenu Rani Goyal
+DOI: https://doi.org/10.1515/ms-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>The problem of finding eigenvalues and eigenfunctions of boundary value problems for an equation of mixed type</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0011/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0011</id>
+    <updated>2025-05-04T22:10:04.333480+00:00</updated>
+    <summary>Article by Ibrokhimjon Tojaliyevich Tojiboev
+DOI: https://doi.org/10.1515/ms-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>Orbital Hausdorff dependence and stability of the solution to differential equations with variable structure and non-instantaneous impulses</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0012/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0012</id>
+    <updated>2025-05-04T22:10:04.333486+00:00</updated>
+    <summary>Article by Dan Yang, JinRong Wang
+DOI: https://doi.org/10.1515/ms-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Improvements on the Leighton oscillation theorem for second-order dynamic equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0013/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0013</id>
+    <updated>2025-05-04T22:10:04.333492+00:00</updated>
+    <summary>Article by Aǧacik Zafer, Sibel Doǧru Akgöl
+DOI: https://doi.org/10.1515/ms-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Topogenous orders on forms</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0014/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0014</id>
+    <updated>2025-05-04T22:10:04.333497+00:00</updated>
+    <summary>Article by Minani Iragi, David Holgate, Josef Šlapal
+DOI: https://doi.org/10.1515/ms-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>Comparison of topologies on fundamental groups with subgroup topology viewpoint</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0015/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0015</id>
+    <updated>2025-05-04T22:10:04.333503+00:00</updated>
+    <summary>Article by Naghmeh Shahami, Behrooz Mashayekhy
+DOI: https://doi.org/10.1515/ms-2025-0015</summary>
+  </entry>
+  <entry>
+    <title>An elementary proof of the generalized Itô formula</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0016/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0016</id>
+    <updated>2025-05-04T22:10:04.333509+00:00</updated>
+    <summary>Article by Martin Ondreját, Jan Seidler
+DOI: https://doi.org/10.1515/ms-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>Asymptotic normality for kernel-based test of conditional mean independence in Hilbert space</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0017/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0017</id>
+    <updated>2025-05-04T22:10:04.333515+00:00</updated>
+    <summary>Article by Terence Kevin Manfoumbi Djonguet, Guy Martial Nkiet
+DOI: https://doi.org/10.1515/ms-2025-0017</summary>
+  </entry>
+  <entry>
+    <title>Advancing reliability and medical data analysis through novel statistical distribution exploration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0018/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0018</id>
+    <updated>2025-05-04T22:10:04.333520+00:00</updated>
+    <summary>Article by Broderick Oluyede, Leon Schröder, Sean Fang, Achraf Cohen, Thatayaone Moakofi, Yuhao Zhang, Shusen Pu
+DOI: https://doi.org/10.1515/ms-2025-0018</summary>
+  </entry>
+  <entry>
+    <title>Historical notes on the 75th volume of Mathematica Slovaca - Authors of the first issue from 1951</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ms-2025-0019/html"/>
+    <id>https://doi.org/10.1515/ms-2025-0019</id>
+    <updated>2025-05-04T22:10:04.333526+00:00</updated>
+    <summary>Article by Anatolij Dvurečenskij
+DOI: https://doi.org/10.1515/ms-2025-0019</summary>
+  </entry>
+</feed>

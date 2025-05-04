@@ -1,40 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Tort Law</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Tort Law</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jtl-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2024-frontmatter1/html</guid>
-      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>The Offensiveness Torts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0017/html</guid>
-      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2023-0017</description>
-    </item>
-    <item>
-      <title>Against Harm: Keating on the Soul of Tort Law</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2003/html</guid>
-      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2024-2003</description>
-    </item>
-    <item>
-      <title>Situating Tort Law Within a Web of Institutions: Insights for the Age of Artificial Intelligence</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2024-2002/html</guid>
-      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2024-2002</description>
-    </item>
-    <item>
-      <title>An Alternative to the Basic Causal Requirement for Liability Under the Negligence Rule</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jtl-2023-0014/html</guid>
-      <description>Article by Steven Shavell DOI: https://doi.org/10.1515/jtl-2023-0014</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Tort Law</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jtl/17/2/html"/>
+  <updated>2025-05-04T22:08:48.153597+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Tort Law</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jtl-2024-frontmatter2</id>
+    <updated>2025-05-04T22:08:48.153644+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jtl-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Complex and International Litigation and Empirical Litigation Studies: Festschrift in Honor of Professor Deborah Hensler, Editors’ Introduction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-2001/html"/>
+    <id>https://doi.org/10.1515/jtl-2025-2001</id>
+    <updated>2025-05-04T22:08:48.153655+00:00</updated>
+    <summary>Article by Ellen M. Bublick, Gregory C. Keating
+DOI: https://doi.org/10.1515/jtl-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Empirical Tort Law (and Theory) – An Essay in Honor of Deborah Hensler</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-0004/html"/>
+    <id>https://doi.org/10.1515/jtl-2025-0004</id>
+    <updated>2025-05-04T22:08:48.153675+00:00</updated>
+    <summary>Article by James M. Anderson, Maya Buenaventura, Amy Mahler, Nicholas M. Pace
+DOI: https://doi.org/10.1515/jtl-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Pulling Back the Curtain on the Federal Class Action</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-0002/html"/>
+    <id>https://doi.org/10.1515/jtl-2025-0002</id>
+    <updated>2025-05-04T22:08:48.153684+00:00</updated>
+    <summary>Article by Jonah B. Gelbach, Deborah R. Hensler
+DOI: https://doi.org/10.1515/jtl-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>The (Un)intended Consequences of Legal Transplants: A Comparative Study of Standing in Collective Litigation in Five Jurisdictions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-0003/html"/>
+    <id>https://doi.org/10.1515/jtl-2025-0003</id>
+    <updated>2025-05-04T22:08:48.153692+00:00</updated>
+    <summary>Article by Jasminka Kalajdzic, Axel Halfmeier, Bernard Murphy, Ianika Tzankova, Manuel A. Gómez
+DOI: https://doi.org/10.1515/jtl-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Deborah Hensler and the Institute for Civil Justice Striving to Speak Truth to Power in the Tort Reform Debate</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2024-0021/html"/>
+    <id>https://doi.org/10.1515/jtl-2024-0021</id>
+    <updated>2025-05-04T22:08:48.153700+00:00</updated>
+    <summary>Article by Robert J. MacCoun
+DOI: https://doi.org/10.1515/jtl-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Stories, Individuals, Statistics, Aggregation, Torts, and Social Justice: Deborah Hensler’s Aspirations for Law</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-0008/html"/>
+    <id>https://doi.org/10.1515/jtl-2025-0008</id>
+    <updated>2025-05-04T22:08:48.153712+00:00</updated>
+    <summary>Article by Judith Resnik
+DOI: https://doi.org/10.1515/jtl-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Deborah Hensler: A Teacher of Judges</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2024-0022/html"/>
+    <id>https://doi.org/10.1515/jtl-2024-0022</id>
+    <updated>2025-05-04T22:08:48.153720+00:00</updated>
+    <summary>Article by Lee H. Rosenthal
+DOI: https://doi.org/10.1515/jtl-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Reflections on a “Data-Driven” Life in Law</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtl-2025-0005/html"/>
+    <id>https://doi.org/10.1515/jtl-2025-0005</id>
+    <updated>2025-05-04T22:08:48.153730+00:00</updated>
+    <summary>Article by Deborah R. Hensler
+DOI: https://doi.org/10.1515/jtl-2025-0005</summary>
+  </entry>
+</feed>

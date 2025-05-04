@@ -1,46 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Apeiron</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Apeiron</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-frontmatter3/html</guid>
-      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Zalmoxis’ Medical Holism in the Charmides</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0098/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0098/html</guid>
-      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2023-0098</description>
-    </item>
-    <item>
-      <title>Parmenides and the Origins of the Heavenly Sphere in Ancient Greek Cosmology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0110/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0110/html</guid>
-      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2023-0110</description>
-    </item>
-    <item>
-      <title>The Limits of Plato’s Test</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2024-0026/html</guid>
-      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2024-0026</description>
-    </item>
-    <item>
-      <title>Between Saying and Doing: Aristotle and Speusippus on the Evaluation of Pleasure</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2023-0024/html</guid>
-      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2023-0024</description>
-    </item>
-    <item>
-      <title>Human Ontogeny in Aristotle and Theophrastus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/apeiron-2022-0116/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/apeiron-2022-0116/html</guid>
-      <description>Article by Robert Roreitner DOI: https://doi.org/10.1515/apeiron-2022-0116</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Apeiron</title>
+  <link href="https://www.degruyterbrill.com/journal/key/apeiron/58/2/html"/>
+  <updated>2025-05-04T22:02:47.037573+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Apeiron</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/apeiron-2025-frontmatter2</id>
+    <updated>2025-05-04T22:02:47.037597+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/apeiron-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Galen’s Typology of Organs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0077/html"/>
+    <id>https://doi.org/10.1515/apeiron-2024-0077</id>
+    <updated>2025-05-04T22:02:47.037603+00:00</updated>
+    <summary>Article by Dmitry Ezrokhi, Orly Lewis
+DOI: https://doi.org/10.1515/apeiron-2024-0077</summary>
+  </entry>
+  <entry>
+    <title>Doing and Being Done: The Definitional Primacy of the Active Power inMetaphysicsΘ 1</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2023-0111/html"/>
+    <id>https://doi.org/10.1515/apeiron-2023-0111</id>
+    <updated>2025-05-04T22:02:47.037609+00:00</updated>
+    <summary>Article by Emily Perry, Landon Hobbs
+DOI: https://doi.org/10.1515/apeiron-2023-0111</summary>
+  </entry>
+  <entry>
+    <title>The Dialectical Function of Names in theSophist</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2023-0094/html"/>
+    <id>https://doi.org/10.1515/apeiron-2023-0094</id>
+    <updated>2025-05-04T22:02:47.037614+00:00</updated>
+    <summary>Article by Anna Pavani
+DOI: https://doi.org/10.1515/apeiron-2023-0094</summary>
+  </entry>
+  <entry>
+    <title>Proclus: Counting the Hypotheses as Nine, Eight, or Twenty-Four?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0053/html"/>
+    <id>https://doi.org/10.1515/apeiron-2024-0053</id>
+    <updated>2025-05-04T22:02:47.037618+00:00</updated>
+    <summary>Article by Xin Liu
+DOI: https://doi.org/10.1515/apeiron-2024-0053</summary>
+  </entry>
+  <entry>
+    <title>Beyond Rustic and Urbane: A Unified Reading of the Pyrrhonist’s Assent to Appearances</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0065/html"/>
+    <id>https://doi.org/10.1515/apeiron-2024-0065</id>
+    <updated>2025-05-04T22:02:47.037622+00:00</updated>
+    <summary>Article by Evan O’Donnell
+DOI: https://doi.org/10.1515/apeiron-2024-0065</summary>
+  </entry>
+  <entry>
+    <title>About the Meaning of Φάντασμα in Aristotle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0038/html"/>
+    <id>https://doi.org/10.1515/apeiron-2024-0038</id>
+    <updated>2025-05-04T22:02:47.037628+00:00</updated>
+    <summary>Article by Justin Winzenrieth
+DOI: https://doi.org/10.1515/apeiron-2024-0038</summary>
+  </entry>
+</feed>

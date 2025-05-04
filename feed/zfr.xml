@@ -1,171 +1,108 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Religionswissenschaft</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Religionswissenschaft</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-frontmatter1/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0012/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0012</description>
-    </item>
-    <item>
-      <title>Wie die Irminsul nach Tauberfranken kam</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0005/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0005</description>
-    </item>
-    <item>
-      <title>Geschlecht, Religion und Nation in globalen Verflechtungen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0013/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0013</description>
-    </item>
-    <item>
-      <title>Ähnlich, aber unterschiedlich</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0035/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2023-0035</description>
-    </item>
-    <item>
-      <title>Religion als essentially contested concept</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0006/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0006</description>
-    </item>
-    <item>
-      <title>Michael Domsgen und Ulrike Witten, Hg.: Religionsunterricht im Plausibilisierungs-stress. InterdisziplinärePerspektivenaufaktuelleEntwicklungenundHerausforderungen(Bielefeld:transcript, 2022),370S.ISBN978-3-8376-5780-7, 40.- €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0032/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2023-0032</description>
-    </item>
-    <item>
-      <title>Esther Voswinckel Filiz: Aziz Mahmud Hüdayi in Istanbul – Biographie eines Ortes (Ergon-Verlag: 2022), 284 S. ISBN 978-3-95650-989-6, 62,- €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0039/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2023-0039</description>
-    </item>
-    <item>
-      <title>Ramona Jelinek-Menke: Religion und Disability. Behinderung und Befähigung in religiösen Kontexten. Eine religionswissenschaftliche Untersuchung (Bielefeld: Transcript, 2021), 356 Seiten, ISBN 978-3-8376-5621-3, € 45.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0022/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2023-0022</description>
-    </item>
-    <item>
-      <title>Mathias Thurner: Die Geburt des ‚Christentums‘ als ‚Religion‘ am Ende des 19. Jahrhunderts. Ernst Troeltschs Theologie und ihre Quellen im Kontext einer globalen Religionsgeschichte, Theologische Bibliothek Töpelmann, 193 (Berlin/Boston: De Gruyter, 2021), ISBN 978-3110717358, 99.95 €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2023-0038/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2023-0038</description>
-    </item>
-    <item>
-      <title>Yannik Hüllinghorst: 
-Der letzte Akt des Widerstands. Die Kritik des Sahwa-Predigers Safar al-Hawali an der Politik des saudischen Kronprinzen Muhammad b. Salman. Bonner Islamwissenschaftliche Hefte Nr. 49, hg. von Stephan Conermann (Berlin: EB-Verlag Dr. Brandt, 2022), 80 S. ISBN 978-3-86893-416-8, 19.80 €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0003/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0003</description>
-    </item>
-    <item>
-      <title>Jay Johnston und Kocku von Stuckrad, Hg.: Discourse Research and Religion. Disciplinary Use and Interdisciplinary Dialogues (Berlin/Boston: De Gruyter, 2021), ISBN: 978-3-11-047005–5 (Hardcover); 978-3-11-047343-8 (PDF), 252 S, 139.95 €.Teemu Taira:Taking ‚Religion‘ Seriously. Essays on the Discursive Study of Religion (Leiden/Boston: Brill, 2022), ISBN: 978-90-04-51169–9 (Hardcover); 978-90-04-51168-2 (E-Book), 215 S, 105.93 €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0002/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0002</description>
-    </item>
-    <item>
-      <title>Ulrich Vollmer: Carl Clemen und die Religionsgeschichte. Religionswissenschaft 23 (Berlin: Peter Lang, 2021 [Diss. Bonn 2020]). 592 Seiten. ISBN 978-3-631-84603-2, 110.95 €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0010/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0010</description>
-    </item>
-    <item>
-      <title>Antonia Rumpf: Wozu fasten? Eine empirische Theologie moderner Fastenpraktiken in Deutschland. Rerum religionum. Arbeiten zur Religionskultur 13 (Bielefeld: transcript, 2024), 238 S. ISBN 978-3-8376-6980-0, 44 €.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0007/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0007</description>
-    </item>
-    <item>
-      <title>English Summaries</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2024-0014/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2024-0014</description>
-    </item>
-    <item>
-      <title>Religiöse Erfahrung in der AntikeBuchbesprechung mit grundsätzlichen Überlegungen zur deutschsprachigen Religionsforschung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfr-2023-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfr-2023-2001/html</guid>
-      <description>Article by 
-
-                Page range: 125-125
-            
- DOI: https://doi.org/10.1515/zfr-2023-2001</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Religionswissenschaft</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zfr/32/2/html"/>
+  <updated>2025-05-04T22:13:39.266161+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Religionswissenschaft</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0031/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0031</id>
+    <updated>2025-05-04T22:13:39.266187+00:00</updated>
+    <summary>Article by Anne Koch, Sebastian Schüler
+DOI: https://doi.org/10.1515/zfr-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>Zwi Werblowsky, the IAHR, andReligionswissenschaftas ‘Basic Science’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0030/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0030</id>
+    <updated>2025-05-04T22:13:39.266196+00:00</updated>
+    <summary>Article by Donald Wiebe
+DOI: https://doi.org/10.1515/zfr-2024-0030</summary>
+  </entry>
+  <entry>
+    <title>Religionsmusikologie als Teildisziplin der Religionswissenschaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0018/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0018</id>
+    <updated>2025-05-04T22:13:39.266203+00:00</updated>
+    <summary>Article by Clara Ragnitz
+DOI: https://doi.org/10.1515/zfr-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>English Summaries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0032/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0032</id>
+    <updated>2025-05-04T22:13:39.266209+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfr-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-frontmatter2</id>
+    <updated>2025-05-04T22:13:39.266215+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfr-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Monika Amsler. 2023.The Babylonian Talmud and Late Antique Book Culture. Cambridge: Cambridge University Press. 280 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0016/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0016</id>
+    <updated>2025-05-04T22:13:39.266225+00:00</updated>
+    <summary>Article by Jan Heilmann
+DOI: https://doi.org/10.1515/zfr-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>Dietrich Jung, Kirstine Sinclair, eds.2020.Muslim Subjectivities in Global Modernity. Islamic Traditions and the Construction of Modern Muslim Identities.International Studies in Religion and Society 35. Leiden, Boston: Brill. 300 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0022/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0022</id>
+    <updated>2025-05-04T22:13:39.266231+00:00</updated>
+    <summary>Article by Carmen Becker
+DOI: https://doi.org/10.1515/zfr-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Robert Dodaro OSA, Cornelius Mayer und Christof Müller, Hg. 1995–2024.Augustinus-Lexikon. 5 Bände. Basel: Schwabe.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0021/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0021</id>
+    <updated>2025-05-04T22:13:39.266238+00:00</updated>
+    <summary>Article by Christoph Auffarth
+DOI: https://doi.org/10.1515/zfr-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Helmut Zander. 2019.Die Anthroposophie. Rudolf Steiners Ideen zwischen Esoterik, Weleda, Demeter und Waldorfpädagogik.Paderborn: Ferdinand Schöningh. 287 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0015/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0015</id>
+    <updated>2025-05-04T22:13:39.266244+00:00</updated>
+    <summary>Article by Dirk Schuster
+DOI: https://doi.org/10.1515/zfr-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>Ulrich Berner.2020.Religionswissenschaft (historisch orientiert).Basiswissen Theologie und Religionswissenschaft. Göttingen: Vandenhoeck &amp; Ruprecht. 424 Seit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0020/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0020</id>
+    <updated>2025-05-04T22:13:39.266255+00:00</updated>
+    <summary>Article by Jörg Rüpke
+DOI: https://doi.org/10.1515/zfr-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Hubert Knoblauch, Hg. 2020.Die Refiguration der Religion. Perspektiven der Religionssoziologie und Religionswissenschaft.Weinheim: Beltz Juventa. 228 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0019/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0019</id>
+    <updated>2025-05-04T22:13:39.266261+00:00</updated>
+    <summary>Article by Dirk Schuster
+DOI: https://doi.org/10.1515/zfr-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Christiane Nagel.Religionswissenschaft und Theologie. Disziplinen diskursiv denken. Theologische Bibliothek Töpelmann 204. Berlin, Boston: De Gruyter, 2023.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0029/html"/>
+    <id>https://doi.org/10.1515/zfr-2024-0029</id>
+    <updated>2025-05-04T22:13:39.266267+00:00</updated>
+    <summary>Article by Isabella Schwaderer
+DOI: https://doi.org/10.1515/zfr-2024-0029</summary>
+  </entry>
+</feed>

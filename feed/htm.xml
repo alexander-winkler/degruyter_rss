@@ -1,80 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>HTM Journal of Heat Treatment and Materials</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in HTM Journal of Heat Treatment and Materials</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htm.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Contents / Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-frontmatter5/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>Good Formability Despite High Accompanying Element Content of a Modified 20MnB4 Quenched and Tempered Steel</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-0027/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-0027</description>
-    </item>
-    <item>
-      <title>Corrosion Resistance and Fracture Toughness of Cryogenic-Treated X153CrMoV12 Tool Steel</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-0023/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-0023</description>
-    </item>
-    <item>
-      <title>Flow Field Analysis within Industrial Quenching Tanks Operated with Aqueous Polymer Solutions in the Steel Industry</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-0022/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-0022</description>
-    </item>
-    <item>
-      <title>Imprint / Impressum</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-8005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-8005/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-8005</description>
-    </item>
-    <item>
-      <title>AWT-Info / HTM 05-2024</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-2009/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-2009</description>
-    </item>
-    <item>
-      <title>HTM Praxis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/htm-2024-2010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/htm-2024-2010/html</guid>
-      <description>Article by 
-
-                Page range: A16-A36
-            
- DOI: https://doi.org/10.1515/htm-2024-2010</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>HTM Journal of Heat Treatment and Materials</title>
+  <link href="https://www.degruyterbrill.com/journal/key/htm/80/2/html"/>
+  <updated>2025-05-04T22:06:12.720920+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htm.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in HTM Journal of Heat Treatment and Materials</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htm.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Contents / Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/htm-2025-frontmatter2</id>
+    <updated>2025-05-04T22:06:12.720964+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/htm-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>In Situ Synchrotron X-Ray Diffraction Analyses of the Low-Pressure Carburizing Process on Steel AISI 5120 Using a Reflection Setup</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2025-0003/html"/>
+    <id>https://doi.org/10.1515/htm-2025-0003</id>
+    <updated>2025-05-04T22:06:12.720975+00:00</updated>
+    <summary>Article by M. Zuern, O. B. Tapar, P. Pereda, J. Epp, F. Wilde, J. Gibmeier
+DOI: https://doi.org/10.1515/htm-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Investigations on the Tooth Root and Pitting Load Carrying Capacity of Case-Hardened Gears with Higher Amounts of Retained Austenite</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2025-0005/html"/>
+    <id>https://doi.org/10.1515/htm-2025-0005</id>
+    <updated>2025-05-04T22:06:12.720985+00:00</updated>
+    <summary>Article by N. Blech, H. Surm, M. Steinbacher, T. Tobie, K. Stahl
+DOI: https://doi.org/10.1515/htm-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Influence of Different Bainitic Pretreatment Microstructures on the Nitriding Response of EN42CrMo4 and EN31CrMoV9</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2024-0035/html"/>
+    <id>https://doi.org/10.1515/htm-2024-0035</id>
+    <updated>2025-05-04T22:06:12.720994+00:00</updated>
+    <summary>Article by S. Hoja, M. Brandt, M. Hunkel, R. Fechte-Heinen
+DOI: https://doi.org/10.1515/htm-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Imprint / Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2025-8002/html"/>
+    <id>https://doi.org/10.1515/htm-2025-8002</id>
+    <updated>2025-05-04T22:06:12.721002+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/htm-2025-8002</summary>
+  </entry>
+  <entry>
+    <title>AWT-Info / HTM 02-2025</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2025-2003/html"/>
+    <id>https://doi.org/10.1515/htm-2025-2003</id>
+    <updated>2025-05-04T22:06:12.721009+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/htm-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>HTM Praxis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/htm-2025-2004/html"/>
+    <id>https://doi.org/10.1515/htm-2025-2004</id>
+    <updated>2025-05-04T22:06:12.721016+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/htm-2025-2004</summary>
+  </entry>
+</feed>

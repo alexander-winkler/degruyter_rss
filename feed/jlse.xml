@@ -1,40 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Literary Semantics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Literary Semantics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlse.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-frontmatter2/html</guid>
-      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Comic timing in prose fiction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2007/html</guid>
-      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2007</description>
-    </item>
-    <item>
-      <title>The pragmatics of black–white conversations: Richard Wright’s representation of the African American experience</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2008/html</guid>
-      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2008</description>
-    </item>
-    <item>
-      <title>Paul Dawson: The Story of Fictional Truth: Realism from the Death to the Rise of the Novel</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2006/html</guid>
-      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2006</description>
-    </item>
-    <item>
-      <title>Virginie Iché and Sandrine Sorlin: The Rhetoric of Literary Communication: From Classical English Novels to Contemporary Digital Fiction</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jls-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jls-2024-2009/html</guid>
-      <description>Article by Huihui Jiang DOI: https://doi.org/10.1515/jls-2024-2009</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Literary Semantics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jlse/54/1/html"/>
+  <updated>2025-05-04T22:08:17.004492+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlse.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Literary Semantics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlse.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jls-2025-frontmatter1</id>
+    <updated>2025-05-04T22:08:17.004531+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jls-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>A corpus-assisted analysis of music in fantasy literature: formal analogies and superstructure inThe Name of the Wind</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2025-2001/html"/>
+    <id>https://doi.org/10.1515/jls-2025-2001</id>
+    <updated>2025-05-04T22:08:17.004541+00:00</updated>
+    <summary>Article by Adrián Castro, Javier Morillas-Arques
+DOI: https://doi.org/10.1515/jls-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>The poetics of sexual violence in three African-American women’s neo-slave narratives: Margaret Walker’sJubilee, Octavia E. Butler’sKindredand Toni Morrison’sBeloved</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2025-2002/html"/>
+    <id>https://doi.org/10.1515/jls-2025-2002</id>
+    <updated>2025-05-04T22:08:17.004553+00:00</updated>
+    <summary>Article by Richard J. Whitt
+DOI: https://doi.org/10.1515/jls-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Translational reconstruction of iconicity: a corpus-based cognitive stylistic study on the acoustic narration in the English translations of Can Xue’s fiction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2025-2003/html"/>
+    <id>https://doi.org/10.1515/jls-2025-2003</id>
+    <updated>2025-05-04T22:08:17.004563+00:00</updated>
+    <summary>Article by Lizhu Zhang
+DOI: https://doi.org/10.1515/jls-2025-2003</summary>
+  </entry>
+  <entry>
+    <title>Eva Lilja:Rhythm in Modern Poetry. An Essay in Cognitive Versification Studies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jls-2025-2004/html"/>
+    <id>https://doi.org/10.1515/jls-2025-2004</id>
+    <updated>2025-05-04T22:08:17.004571+00:00</updated>
+    <summary>Article by Ulf Cronquist
+DOI: https://doi.org/10.1515/jls-2025-2004</summary>
+  </entry>
+</feed>

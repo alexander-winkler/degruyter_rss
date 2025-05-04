@@ -1,76 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Dialectologia et Geolinguistica</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Dialectologia et Geolinguistica</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dig.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-frontmatter1/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>German recordings from a forgotten Gaeltacht</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0001/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0001</description>
-    </item>
-    <item>
-      <title>Study of vowel formant data using Gabmap: A pilot analysis of a Lithuanian dialect</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0002/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0002</description>
-    </item>
-    <item>
-      <title>Compound prepositions in Irish and Scottish Gaelic</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0003/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0003</description>
-    </item>
-    <item>
-      <title>On the issue of the development of adjective degree forms in the Western Lithuanian and Latvian dialects</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0004/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0004</description>
-    </item>
-    <item>
-      <title>Frequency Conditions in the Description of Historical Phonological Dialectal Differences</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0005/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0005</description>
-    </item>
-    <item>
-      <title>Language standardization and railway-walking distance. Levenshtein distance and distribution in GAJ</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0006/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0006</description>
-    </item>
-    <item>
-      <title>Linguistic Study of Some Properties and Phonological Processes of Jooshani Dialect of Persian</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0007/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0007</description>
-    </item>
-    <item>
-      <title>Explaining the Dynamics and Stability of Dialects: A Representational Approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0008/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0008</description>
-    </item>
-    <item>
-      <title>Pluralizers through time in the Basque dialect of Labourd</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0009/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0009</description>
-    </item>
-    <item>
-      <title>Besprechungen – Comptes rendus – Reseñas – Reviews</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dialect-2024-0010/html</guid>
-      <description>Article by Hans Goebl, Proinsias Ó Drisceoil DOI: https://doi.org/10.1515/dialect-2024-0010</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Dialectologia et Geolinguistica</title>
+  <link href="https://www.degruyterbrill.com/journal/key/dig/32/1/html"/>
+  <updated>2025-05-04T22:04:37.338127+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dig.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Dialectologia et Geolinguistica</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dig.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-frontmatter1</id>
+    <updated>2025-05-04T22:04:37.338155+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dialect-2024-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>German recordings from a forgotten Gaeltacht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0001/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0001</id>
+    <updated>2025-05-04T22:04:37.338163+00:00</updated>
+    <summary>Article by Proinsias Ó Drisceoil
+DOI: https://doi.org/10.1515/dialect-2024-0001</summary>
+  </entry>
+  <entry>
+    <title>Study of vowel formant data using Gabmap: A pilot analysis of a Lithuanian dialect</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0002/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0002</id>
+    <updated>2025-05-04T22:04:37.338172+00:00</updated>
+    <summary>Article by Rima Bakšienė
+DOI: https://doi.org/10.1515/dialect-2024-0002</summary>
+  </entry>
+  <entry>
+    <title>Compound prepositions in Irish and Scottish Gaelic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0003/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0003</id>
+    <updated>2025-05-04T22:04:37.338180+00:00</updated>
+    <summary>Article by Seosamh Watson
+DOI: https://doi.org/10.1515/dialect-2024-0003</summary>
+  </entry>
+  <entry>
+    <title>On the issue of the development of adjective degree forms in the Western Lithuanian and Latvian dialects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0004/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0004</id>
+    <updated>2025-05-04T22:04:37.338188+00:00</updated>
+    <summary>Article by Dalia Kiseliūnaitė
+DOI: https://doi.org/10.1515/dialect-2024-0004</summary>
+  </entry>
+  <entry>
+    <title>Frequency Conditions in the Description of Historical Phonological Dialectal Differences</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0005/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0005</id>
+    <updated>2025-05-04T22:04:37.338195+00:00</updated>
+    <summary>Article by Barbara Bába
+DOI: https://doi.org/10.1515/dialect-2024-0005</summary>
+  </entry>
+  <entry>
+    <title>Language standardization and railway-walking distance. Levenshtein distance and distribution in GAJ</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0006/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0006</id>
+    <updated>2025-05-04T22:04:37.338202+00:00</updated>
+    <summary>Article by Fumio Inoue, Kanetaka Yarimizu
+DOI: https://doi.org/10.1515/dialect-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Linguistic Study of Some Properties and Phonological Processes of Jooshani Dialect of Persian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0007/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0007</id>
+    <updated>2025-05-04T22:04:37.338209+00:00</updated>
+    <summary>Article by Muhammad Attarzadeh, Rahimeh Rouhparvar
+DOI: https://doi.org/10.1515/dialect-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Explaining the Dynamics and Stability of Dialects: A Representational Approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0008/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0008</id>
+    <updated>2025-05-04T22:04:37.338216+00:00</updated>
+    <summary>Article by Toke Hoffmeister
+DOI: https://doi.org/10.1515/dialect-2024-0008</summary>
+  </entry>
+  <entry>
+    <title>Pluralizers through time in the Basque dialect of Labourd</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0009/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0009</id>
+    <updated>2025-05-04T22:04:37.338225+00:00</updated>
+    <summary>Article by Iñaki Camino
+DOI: https://doi.org/10.1515/dialect-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>Besprechungen – Comptes rendus – Reseñas – Reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dialect-2024-0010/html"/>
+    <id>https://doi.org/10.1515/dialect-2024-0010</id>
+    <updated>2025-05-04T22:04:37.338236+00:00</updated>
+    <summary>Article by Hans Goebl, Proinsias Ó Drisceoil
+DOI: https://doi.org/10.1515/dialect-2024-0010</summary>
+  </entry>
+</feed>

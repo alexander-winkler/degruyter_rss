@@ -1,34 +1,53 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>European Property Law Journal </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in European Property Law Journal </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eplj.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eplj-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eplj-2024-frontmatter2/html</guid>
-      <description>Article by Leonard Lusznat DOI: https://doi.org/10.1515/eplj-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>A comparative analysis of municipal pre-emption rights across Europe</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eplj-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eplj-2024-0011/html</guid>
-      <description>Article by Leonard Lusznat DOI: https://doi.org/10.1515/eplj-2024-0011</description>
-    </item>
-    <item>
-      <title>Property Law Theory and Building Encroachments from a Comparative Perspective</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eplj-2024-0012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eplj-2024-0012/html</guid>
-      <description>Article by Leonard Lusznat DOI: https://doi.org/10.1515/eplj-2024-0012</description>
-    </item>
-    <item>
-      <title>The Law of Finding Lost Movable Property in England, Germany and Scotland</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/eplj-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/eplj-2024-0013/html</guid>
-      <description>Article by Leonard Lusznat DOI: https://doi.org/10.1515/eplj-2024-0013</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>European Property Law Journal </title>
+  <link href="https://www.degruyterbrill.com/journal/key/eplj/14/1/html"/>
+  <updated>2025-05-04T22:05:10.272781+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eplj.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in European Property Law Journal </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eplj.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Editorial EPLJ</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0001/html"/>
+    <id>https://doi.org/10.1515/eplj-2025-0001</id>
+    <updated>2025-05-04T22:05:10.272827+00:00</updated>
+    <summary>Article by Christine Godt, Björn Hoops
+DOI: https://doi.org/10.1515/eplj-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Property and contract in a climate of disruption: just processes for change in private agreements made for public purposes that burden land</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0002/html"/>
+    <id>https://doi.org/10.1515/eplj-2025-0002</id>
+    <updated>2025-05-04T22:05:10.272842+00:00</updated>
+    <summary>Article by Bonnie Holligan
+DOI: https://doi.org/10.1515/eplj-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Reaching for the Stars ... and the Planets</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0003/html"/>
+    <id>https://doi.org/10.1515/eplj-2025-0003</id>
+    <updated>2025-05-04T22:05:10.272851+00:00</updated>
+    <summary>Article by Katja Zimmermann
+DOI: https://doi.org/10.1515/eplj-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Deep-tier regulation: on governance by and of private regulators</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0004/html"/>
+    <id>https://doi.org/10.1515/eplj-2025-0004</id>
+    <updated>2025-05-04T22:05:10.272860+00:00</updated>
+    <summary>Article by Dan Wielsch
+DOI: https://doi.org/10.1515/eplj-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/eplj-2025-frontmatter1</id>
+    <updated>2025-05-04T22:05:10.272870+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/eplj-2025-frontmatter1</summary>
+  </entry>
+</feed>

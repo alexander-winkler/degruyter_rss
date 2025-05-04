@@ -1,64 +1,69 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Monte Carlo Methods and Applications</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Monte Carlo Methods and Applications</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mcma.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-frontmatter3/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Joint application of the Monte Carlo method and computational probabilistic analysis in problems of numerical modeling with data uncertainties</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2006/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2006</description>
-    </item>
-    <item>
-      <title>Another hybrid conjugate gradient method as a convex combination of WYL and CD methods</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2007/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2007</description>
-    </item>
-    <item>
-      <title>Random walk algorithms for solving nonlinear chemotaxis problems</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2008/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2008</description>
-    </item>
-    <item>
-      <title>A novel portfolio optimization method and its application to the hedging problem</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2009/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2009</description>
-    </item>
-    <item>
-      <title>Dynamics of a multigroup stochastic SIQR epidemic model</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2010/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2010</description>
-    </item>
-    <item>
-      <title>Optimal oversampling ratio in two-step simulation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2011/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2011</description>
-    </item>
-    <item>
-      <title>The slice sampler and centrally symmetric distributions</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2012/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2012</description>
-    </item>
-    <item>
-      <title>Simulation of doubly stochastic Poisson point processes and application to nucleation of nanocrystals and evaluation of exciton fluxes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mcma-2024-2014/html</guid>
-      <description>Article by Karl K. Sabelfeld, Stepan Glazkov DOI: https://doi.org/10.1515/mcma-2024-2014</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Monte Carlo Methods and Applications</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mcma/31/1/html"/>
+  <updated>2025-05-04T22:09:34.575030+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mcma.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Monte Carlo Methods and Applications</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mcma.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:34.575060+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mcma-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Adaptive Bayesian bandwidth based on LPE kernel for asymmetric kernel density</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2024-2021/html"/>
+    <id>https://doi.org/10.1515/mcma-2024-2021</id>
+    <updated>2025-05-04T22:09:34.575068+00:00</updated>
+    <summary>Article by Sylia Makhloufi, Nabil Zougab, Yasmina Ziane, Smail Adjabi
+DOI: https://doi.org/10.1515/mcma-2024-2021</summary>
+  </entry>
+  <entry>
+    <title>New contribution to Luria–Delbrück distribution. Stability property and estimation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2024-2024/html"/>
+    <id>https://doi.org/10.1515/mcma-2024-2024</id>
+    <updated>2025-05-04T22:09:34.575079+00:00</updated>
+    <summary>Article by Sabrina Boughrara, Fazia Bedouhene, Nabil Zougab
+DOI: https://doi.org/10.1515/mcma-2024-2024</summary>
+  </entry>
+  <entry>
+    <title>Mixed space coupled hidden Markov model</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2024-2025/html"/>
+    <id>https://doi.org/10.1515/mcma-2024-2025</id>
+    <updated>2025-05-04T22:09:34.575086+00:00</updated>
+    <summary>Article by Hafssa Kroumbi, Abdelaziz Nasroallah
+DOI: https://doi.org/10.1515/mcma-2024-2025</summary>
+  </entry>
+  <entry>
+    <title>Evaluating the performance and robustness of PIR and QIR maintenance strategies using Monte Carlo method</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2001/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2001</id>
+    <updated>2025-05-04T22:09:34.575094+00:00</updated>
+    <summary>Article by Khamiss Cheikh, El Mostapha Boudi, Rabi Rabi, Hamza Mokhliss, Hamadi Ennaji
+DOI: https://doi.org/10.1515/mcma-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Convergence of a particle Monte Carlo algorithm for scalar conservation laws</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2002/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2002</id>
+    <updated>2025-05-04T22:09:34.575102+00:00</updated>
+    <summary>Article by John D. Towers
+DOI: https://doi.org/10.1515/mcma-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Generalized Hermite process: Tempering, properties and applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2003/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2003</id>
+    <updated>2025-05-04T22:09:34.575109+00:00</updated>
+    <summary>Article by Héctor Araya
+DOI: https://doi.org/10.1515/mcma-2025-2003</summary>
+  </entry>
+</feed>

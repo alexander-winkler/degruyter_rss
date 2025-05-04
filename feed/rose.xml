@@ -1,58 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Random Operators and Stochastic Equations</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Random Operators and Stochastic Equations</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-frontmatter3/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Sandwiched filtrations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2008/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2008</description>
-    </item>
-    <item>
-      <title>Stochastic processes and mean square calculus on fractal curves</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2009/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2009</description>
-    </item>
-    <item>
-      <title>Random attractors for three-dimensional stochastic globally modified Navier–Stokes equations driven by additive noise on unbounded domains</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2010/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2010</description>
-    </item>
-    <item>
-      <title>Existence results for boundary value problems of Hadamard fractional differential equations on unbounded domain</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2011/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2011</description>
-    </item>
-    <item>
-      <title>Stochastic maximum principle for partially observed optimal control problem of McKean–Vlasov FBSDEs with Teugels martingales</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2012/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2012/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2012</description>
-    </item>
-    <item>
-      <title>Martingale solutions to stochastic nonlocal Cahn–Hilliard–Navier–Stokes systems with singular potentials driven by multiplicative noise of jump type</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2013/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2013</description>
-    </item>
-    <item>
-      <title>Optional strong semimartingale inequalities for the strong Snell envelopes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rose-2024-2014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rose-2024-2014/html</guid>
-      <description>Article by Mouna Haddadi, Youssef Ouknine DOI: https://doi.org/10.1515/rose-2024-2014</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Random Operators and Stochastic Equations</title>
+  <link href="https://www.degruyterbrill.com/journal/key/rose/33/1/html"/>
+  <updated>2025-05-04T22:12:11.262764+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Random Operators and Stochastic Equations</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/rose-2025-frontmatter1</id>
+    <updated>2025-05-04T22:12:11.262804+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rose-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Backward stochastic differential equations driven by G-Lévy process with double reflexions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2021/html"/>
+    <id>https://doi.org/10.1515/rose-2024-2021</id>
+    <updated>2025-05-04T22:12:11.262818+00:00</updated>
+    <summary>Article by Cheikh Gueye, Sadibou Aidara, Ahmadou Bamba Sow
+DOI: https://doi.org/10.1515/rose-2024-2021</summary>
+  </entry>
+  <entry>
+    <title>Existence results for coupled systems of fractional stochastic differential equations involving Hilfer derivatives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2022/html"/>
+    <id>https://doi.org/10.1515/rose-2024-2022</id>
+    <updated>2025-05-04T22:12:11.262829+00:00</updated>
+    <summary>Article by Fatima Zahra Arioui
+DOI: https://doi.org/10.1515/rose-2024-2022</summary>
+  </entry>
+  <entry>
+    <title>Quadratic-exponential growth backward stochastic Volterra integral equations with jumps and associated dynamic risk measure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2023/html"/>
+    <id>https://doi.org/10.1515/rose-2024-2023</id>
+    <updated>2025-05-04T22:12:11.262838+00:00</updated>
+    <summary>Article by Kon-Gun Kim, Ji-Gwon Pak, Mun-Chol Kim
+DOI: https://doi.org/10.1515/rose-2024-2023</summary>
+  </entry>
+  <entry>
+    <title>Smith’s reduction for random processes and application for stochastic differential equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2024/html"/>
+    <id>https://doi.org/10.1515/rose-2024-2024</id>
+    <updated>2025-05-04T22:12:11.262847+00:00</updated>
+    <summary>Article by Mohamed-Ahmed Boudref
+DOI: https://doi.org/10.1515/rose-2024-2024</summary>
+  </entry>
+  <entry>
+    <title>Stochastic volatility modeling via mixed fractional Brownian motion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2001/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2001</id>
+    <updated>2025-05-04T22:12:11.262856+00:00</updated>
+    <summary>Article by Amel Belhadj, Abdeldjebbar Kandouci, Amina Angelika Bouchentouf
+DOI: https://doi.org/10.1515/rose-2025-2001</summary>
+  </entry>
+  <entry>
+    <title>Averaging principle for RBDSDEs with Poisson jumps</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2002/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2002</id>
+    <updated>2025-05-04T22:12:11.262864+00:00</updated>
+    <summary>Article by Djibril Ndiaye, Yaya Sagna
+DOI: https://doi.org/10.1515/rose-2025-2002</summary>
+  </entry>
+  <entry>
+    <title>Riemann–Liouville fractional stochastic evolution equations driven by mixed sub-fractional Brownian motion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2003/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2003</id>
+    <updated>2025-05-04T22:12:11.262873+00:00</updated>
+    <summary>Article by Mokhtaria Boutlilis, Abdeldjebbar Kandouci
+DOI: https://doi.org/10.1515/rose-2025-2003</summary>
+  </entry>
+</feed>

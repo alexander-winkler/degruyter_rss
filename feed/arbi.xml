@@ -1,178 +1,229 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Arbitrium</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Arbitrium</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbi.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-frontmatter2/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>John Guillory, Professing Criticism. Essays on the Organization of Literary Study. The University of Chicago Press, Chicago – London 2022. 456 S., $ 105,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0045/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0045</description>
-    </item>
-    <item>
-      <title>Magdalena Butz / Felix Grollmann / Florian Mehltretter (Hgg.), Sprachen der Wachsamkeit. (Vigilanzkulturen 5) De Gruyter, Berlin – Boston 2023. VI/257 S., € 39,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0023/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0023</description>
-    </item>
-    <item>
-      <title>Volker Leppin, Ruhen in Gott. Geschichte der christlichen Mystik. Beck, München 2021. 476 S., € 32,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2023-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2023-0044/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2023-0044</description>
-    </item>
-    <item>
-      <title>Jacques Berlioz u. a., ThEMA. Thesaurus exemplorum medii aevi (https://thema.huma-num.fr/).</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0044/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0044</description>
-    </item>
-    <item>
-      <title>Maria Grazia Cammarota / Francesco Lo Monaco, „Barbara locutio ... missalih enti manacfalt“. Il „de vocatione gentium“ latino-antico alto tedesco dei frammenti di Mondsee. Edizione, Traduzione e Commento. (Traditio et Renovatio II) Sismel, Firenze 2021. XIV/365 S., € 54,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0008/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0008</description>
-    </item>
-    <item>
-      <title>Andreas Hammer / Wilhelm Heizmann / Norbert Kössinger (Hgg.), Magie und Literatur. Erzählkulturelle Funktionalisierung magischer Praktiken in Mittelalter und Früher Neuzeit. (Philologische Studien und Quellen 280) Erich Schmidt, Berlin 2022. 388 S., € 79,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0031/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0031</description>
-    </item>
-    <item>
-      <title>Claudia Lauer, Die Kunst der Intrige. Studien zur höfischen Epik des 12. Jahrhunderts. Winter, Heidelberg 2020. 301 S., € 58,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0043/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0043</description>
-    </item>
-    <item>
-      <title>Theresa Specht, Der Baumgarten im höfischen Roman. Narrative Erzeugung eines Handlungs- und Imaginationsraums. (Literatur – Theorie – Geschichte 28) De Gruyter, Berlin – Boston 2023. VIII/264 S., € 89,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0040/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0040</description>
-    </item>
-    <item>
-      <title>Magdalena Butz, Heinrichs von Neustadt ‚Gottes Zukunft‘. Erzählen vom Heil in der Volkssprache. (Münchener Texte und Untersuchungen zur deutschen Literatur des Mittelalters 153) Reichert, Wiesbaden 2023. VIII/278 S., € 110,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0019/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0019</description>
-    </item>
-    <item>
-      <title>Christopher Domhardt, Zwischen verlorenem Lied und überliefertem Epos. Quellenkritische Studien zum ‚Dukus Horant‘. (Philologische Studien und Quellen 288) Erich Schmidt, Berlin 2023. 390 S., € 89,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0016/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0016</description>
-    </item>
-    <item>
-      <title>Klaus Arnold / Franz Fuchs (Hgg.), Johannes Trithemius (1462–1516). Abt und Büchersammler, Humanist und Geschichtsschreiber. (Publikationen aus dem Kolleg ‚Mittelalter und Frühe Neuzeit‘ 4) Königshausen &amp; Neumann, Würzburg 2019. XII/369 S., € 58,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2023-0063/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2023-0063/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2023-0063</description>
-    </item>
-    <item>
-      <title>Inci Bozkaya, Der ‚Esopus‘ des Burkard Waldis und die Fabel der Frühen Neuzeit. Gattungstradition und -transformation, Autorisierungsstrategien, Deutungsmöglichkeiten. (Frühe Neuzeit 228) De Gruyter, Berlin – Boston 2019. VIII/440 S., € 129,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0036/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0036</description>
-    </item>
-    <item>
-      <title>Lars Friedrich, Theorie des Revolutionsdramas. Politische Astronomie von Gryphius bis Heiner Müller. (Studien zur deutschen Literatur 228) De Gruyter, Berlin – Boston 2022. X/320 S., € 109,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0042/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0042</description>
-    </item>
-    <item>
-      <title>Fredrik Renard, Arbeit am Zufall. Die Formierung des modernen deutschen Romans im 18. Jahrhundert. J. B. Metzler, Berlin ‒ Heidelberg 2021. XI/288 S., € 54,99.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0027/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0027</description>
-    </item>
-    <item>
-      <title>Oliver Scheiding / Sabina Fazli (Hgg.), Handbuch Zeitschriftenforschung. (Edition Medienwissenschaft 72) transcript, Bielefeld 2023. 627 S., € 49,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0032/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0032</description>
-    </item>
-    <item>
-      <title>Rafał Biskup, Medialekt. Dialekt als Identitäts- und Kulturmedium: Schlesien 1830–1945. (Schlesische Grenzgänger 13) Leipziger Universitätsverlag, Leipzig 2022. 499 S., € 40,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0030/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0030</description>
-    </item>
-    <item>
-      <title>Klaus Kanzog, „Kommen Sie, Cohn“. Nachdenken über die Kleist-Rezeption jüdischer Autoren. Günther Emigs Literatur-Betrieb, Niederstetten 2023. 139 S., € 18,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0041/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0041</description>
-    </item>
-    <item>
-      <title>Elsbeth Dangel-Pelloquin / Alexander Honold, „Grenzenlose Verwandlung“. Hugo von Hofmannsthal. Biographie. S. Fischer, Frankfurt/M. 2024. 928 S., € 58,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0038/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0038</description>
-    </item>
-    <item>
-      <title>Dieter Borchmeyer, Thomas Mann. Werk und Zeit. Insel, Berlin 2022. 1547 S., € 58,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0037/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0037</description>
-    </item>
-    <item>
-      <title>Regina Bucher / Arturo Larcati (Hgg.), Hermann Hesse ‒ Stefan Zweig. Zwei Weltbürger und Humanisten. (Schriftenreihe des Stefan Zweig Zentrum Salzburg 18) Königshausen &amp; Neumann, Würzburg 2023. 198 S., € 44,‒.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0003/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0003</description>
-    </item>
-    <item>
-      <title>Heiko Christians, Abschied vom Abenteuer. Ernst Jüngers Jahrhundertlektüren. Schwabe, Basel­–Berlin 2023. 313 S., € 45,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0039/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0039</description>
-    </item>
-    <item>
-      <title>Bertolt Brecht, ‚Unsere Hoffnung heute ist die Krise‘. Interviews 1926–1956. Hg. von Noah Willumsen. Suhrkamp, Berlin 2023. 752 S., € 35,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0033/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0033</description>
-    </item>
-    <item>
-      <title>Erich Kästner, Resignation ist kein Gesichtspunkt. Politische Reden und Feuilletons. Hg. von Sven Hanuschek. Atrium, Zürich 2023. 240 S., € 23,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0004/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0004</description>
-    </item>
-    <item>
-      <title>Helke Rausch, Wissensspeicher in der Bundesrepublik. Die Deutsche Bibliothek in Frankfurt am Main 1945–1990. Wallstein, Göttingen 2023. 430 S., € 40,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0035/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0035</description>
-    </item>
-    <item>
-      <title>Peter Rühmkorf, Sämtliche Werke. Oevelgönner Ausgabe. Hg. von Susanne Fischer, Hans-Edwin Friedrich und Stephan Opitz. Bd. I/9: Essays und Monographien 1. Schriften zur Poetik (1953–1967). Hg. von Hans-Edwin Friedrich unter Mitarbeit von David Röhe und Sina Röpke. Bd. I/12: Essays und Monographien 4. Literaturkritik (1953–1962). Hg. von Stephan Opitz und Barbara Potthast unter Mitarbeit von David Röhe und Sina Röpke. Wallstein, Göttingen 2022–2023. 532, 548 S., 68 Abb., € 34,–; 29,–.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0025/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0025</description>
-    </item>
-    <item>
-      <title>Ingo Uhlig, Energiewende erzählen. Literatur, Kunst, Ressourcen. Spector Books, Leipzig 2023. 252 S., € 26,‒.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0021/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0021</description>
-    </item>
-    <item>
-      <title>Katja Holweck / Amelie Meister (Hgg.), Saša Stanišić: Poetologie und Werkpolitik. De Gruyter, Berlin – Boston 2023. VIII/262 S., € 99,95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/arb-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/arb-2024-0048/html</guid>
-      <description>Article by Dominik Zink DOI: https://doi.org/10.1515/arb-2024-0048</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Arbitrium</title>
+  <link href="https://www.degruyterbrill.com/journal/key/arbi/43/1/html"/>
+  <updated>2025-05-04T22:02:57.128095+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbi.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Arbitrium</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbi.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Jan Urbich / David E. Wellbery (Hgg.),Überforderung der Form. Studien zur literarischen Formdynamik. Wallstein, Göttingen 2024. 361 S., € 39,90.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0031/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0031</id>
+    <updated>2025-05-04T22:02:57.128117+00:00</updated>
+    <summary>Article by Carsten Zelle
+DOI: https://doi.org/10.1515/arb-2025-0031</summary>
+  </entry>
+  <entry>
+    <title>Stephanie Waldow / Eva Forrester,Mythos und Mythos-Theorie. Formen und Funktionen. Eine Einführung. (Grundlagen der Germanistik 66) Erich Schmidt, Berlin 2023. 244 S., € 19,95.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0010/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0010</id>
+    <updated>2025-05-04T22:02:57.128127+00:00</updated>
+    <summary>Article by Andreas Hammer
+DOI: https://doi.org/10.1515/arb-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>Victoria Luise Gutsche,Die Romantrilogie. Zur Geschichte einer großen Form von ihren Anfängen bis zur Mitte des 20. Jahrhunderts. Wallstein, Göttingen 2023. 497 S., € 54,‒.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0015/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0015</id>
+    <updated>2025-05-04T22:02:57.128133+00:00</updated>
+    <summary>Article by Sophie König
+DOI: https://doi.org/10.1515/arb-2025-0015</summary>
+  </entry>
+  <entry>
+    <title>Sophie König,Das literarische Triptychon. Poetik einer transmedialen Form von der Moderne bis in die Gegenwart.Brill Fink, Paderborn 2023. XXXIV/351 S., € 79,‒.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2024-0034/html"/>
+    <id>https://doi.org/10.1515/arb-2024-0034</id>
+    <updated>2025-05-04T22:02:57.128139+00:00</updated>
+    <summary>Article by Victoria Gutsche
+DOI: https://doi.org/10.1515/arb-2024-0034</summary>
+  </entry>
+  <entry>
+    <title>Nora Zügel,Lyrische Autobiographien und Selbstporträts. Versuch einer kritischen Revision. (Theorema. Literaturtheorie, Methodologie, Ästhetik 2) Metzler, Berlin 2024. 349 S., € 69,99.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0025/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0025</id>
+    <updated>2025-05-04T22:02:57.128145+00:00</updated>
+    <summary>Article by Mirjam Springer
+DOI: https://doi.org/10.1515/arb-2025-0025</summary>
+  </entry>
+  <entry>
+    <title>Gottfried von Straßburg,Tristan und Isolde. Kritische Edition des Romanfragments auf Basis der Handschriften des frühen X-Astes unter Berücksichtigung der gesamten Überlieferung.Hg. vonTomas Tomasekin Zusammenarbeit mitFrank Schäfer. Bd. I:Textband. Bd. II:Begleitband. Schwabe, Basel 2023–2024. XI/381, 626 S., CHF 84,–, 198,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0034/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0034</id>
+    <updated>2025-05-04T22:02:57.128152+00:00</updated>
+    <summary>Article by Jan-Dirk Müller
+DOI: https://doi.org/10.1515/arb-2025-0034</summary>
+  </entry>
+  <entry>
+    <title>Meihui Yu,Der Schwanritter. Transformation eines Mythos in der Vormoderne. Mit einem Ausblick auf Richard Wagner. (Deutsche Literatur. Studien und Quellen 46) De Gruyter, Berlin – Boston 2023. XIII/425 S., € 109,95.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0011/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0011</id>
+    <updated>2025-05-04T22:02:57.128158+00:00</updated>
+    <summary>Article by Mathias Herweg
+DOI: https://doi.org/10.1515/arb-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>Christina Antenhofer / Heike Schlie (Hgg.),Framing – Deframing – Reframing. Wege, Mechanismen und Strategien kultureller Aneignung in Mittelalter und Früher Neuzeit. (Interdisziplinäre Beiträge zu Mittelalter und Früher Neuzeit 13) Winter, Heidelberg 2024. 342 S., € 88,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0024/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0024</id>
+    <updated>2025-05-04T22:02:57.128164+00:00</updated>
+    <summary>Article by Sebastian Speth
+DOI: https://doi.org/10.1515/arb-2025-0024</summary>
+  </entry>
+  <entry>
+    <title>Sebastian Castellio,De haereticis an sint persequendi (1554). Von Ketzeren (1555). Traicté des heretiques (1557).Synoptische Edition mit Kommentaren zu den Textauszügen. 2 Teilbde. Hg. vonBarbara Mahlmann-BauerundKilian Schindlerunter Mitarbeit vonSonja KlimekundDaniela Kohler. (Schriften der Internationalen Castellio Gesellschaft 1) Schwabe, Basel 2024. XXXVI/1350 S., € 150,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0021/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0021</id>
+    <updated>2025-05-04T22:02:57.128170+00:00</updated>
+    <summary>Article by Sascha Salatowsky
+DOI: https://doi.org/10.1515/arb-2025-0021</summary>
+  </entry>
+  <entry>
+    <title>Wolfgang Kemp,Die ehrbaren Täuscher. Rembrandt und Descartes im Jahre 1641. (Bildfäden 3) Schlaufen, Berlin 2023. 155 S., € 22,50.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0033/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0033</id>
+    <updated>2025-05-04T22:02:57.128177+00:00</updated>
+    <summary>Article by Claus Zittel
+DOI: https://doi.org/10.1515/arb-2025-0033</summary>
+  </entry>
+  <entry>
+    <title>Hartmut Hombrecher,Transatlantischer Kulturtransfer. Franz Daniel Pastoriusʼ Schriften als Literatur und Praxis. Wallstein, Göttingen 2023. 501 S., € 44,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0008/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0008</id>
+    <updated>2025-05-04T22:02:57.128185+00:00</updated>
+    <summary>Article by Niklas Gödde
+DOI: https://doi.org/10.1515/arb-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Sebastian Meixner / Carolin Rocks (Hgg.),Gottsched Handbuch. Leben – Werk – Wirkung. Springer, Stuttgart 2023. 444 S., € 99,99.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0002/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0002</id>
+    <updated>2025-05-04T22:02:57.128190+00:00</updated>
+    <summary>Article by Gudrun Bamberger
+DOI: https://doi.org/10.1515/arb-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Axel Kahrs,Klopstock? – Natürlich! Der Dichter, die Naturlyrik und die Grafen von Bernstorff. Köhring Verlag, Lüchow 2024. 92 S., € 20,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0009/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0009</id>
+    <updated>2025-05-04T22:02:57.128197+00:00</updated>
+    <summary>Article by Oliver Grütter
+DOI: https://doi.org/10.1515/arb-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Kai Kauffmann,Klopstock! Eine Biographie.Wallstein, Göttingen 2024. 420 S., € 36,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0007/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0007</id>
+    <updated>2025-05-04T22:02:57.128203+00:00</updated>
+    <summary>Article by Sarah Fengler
+DOI: https://doi.org/10.1515/arb-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Laurenz Lütteken,Die Zauberflöte. Mozart und der Abschied von der Aufklärung.Beck, München 2024. 272 S., € 28,‒.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0016/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0016</id>
+    <updated>2025-05-04T22:02:57.128208+00:00</updated>
+    <summary>Article by Jörg Krämer
+DOI: https://doi.org/10.1515/arb-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>Nikolas Immer,Mnemopoetik. Formen und Figurationen von Erinnerung in der deutschsprachigen Lyrik der ersten Hälfte des 19. Jahrhunderts. (Lyrikforschung 4) Metzler, Berlin 2023. XIII/427 S., € 109,99.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0013/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0013</id>
+    <updated>2025-05-04T22:02:57.128214+00:00</updated>
+    <summary>Article by Ulrich Kittstein
+DOI: https://doi.org/10.1515/arb-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Ernst Osterkamp,Der Dichter und der Risches. Leben und Werk des Michael Beer (1800–1833). Wallstein, Göttingen 2024. 254 S., € 24,‒.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0027/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0027</id>
+    <updated>2025-05-04T22:02:57.128219+00:00</updated>
+    <summary>Article by Liliane Weissberg
+DOI: https://doi.org/10.1515/arb-2025-0027</summary>
+  </entry>
+  <entry>
+    <title>David-Christopher Assmann,Der Müll der Literatur. Textmaterielle Formen des Formlosen [1812–1926]. Wallstein, Göttingen 2023. 829 S., € 49,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0003/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0003</id>
+    <updated>2025-05-04T22:02:57.128225+00:00</updated>
+    <summary>Article by Christian Begemann
+DOI: https://doi.org/10.1515/arb-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Arthur Schnitzler,‚Das Zeitlose ist von kürzestes Dauer‘. Interviews, Meinungen und Proteste 1891–1931. 2 Bde. Hg. vonMartin Anton Müller. Wallstein, Göttingen 2023. 748 S., € 48,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0022/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0022</id>
+    <updated>2025-05-04T22:02:57.128231+00:00</updated>
+    <summary>Article by Michael Scheffel
+DOI: https://doi.org/10.1515/arb-2025-0022</summary>
+  </entry>
+  <entry>
+    <title>Alexander Honold / Arne Klawitter (Hgg.),Thomas Mann, „Der Tod in Venedig“ und die Grenzgänge des Erzählens. Interkulturelle Analysen.(Signaturen der Moderne 4) Schwabe, Basel 2023. 207 S. € 42,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0023/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0023</id>
+    <updated>2025-05-04T22:02:57.128237+00:00</updated>
+    <summary>Article by Jens Ole Schneider
+DOI: https://doi.org/10.1515/arb-2025-0023</summary>
+  </entry>
+  <entry>
+    <title>Thomas Betzwieser / Bernd Zegowitz (Hgg.),Die Frau ohne Schatten. Hugo von Hofmannsthals und Richard Strauss’ „Schmerzenskind“. (Perspektiven der Opernforschung 29) Lang, Berlin u. a. 2023. 373 S., € 69,95.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0004/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0004</id>
+    <updated>2025-05-04T22:02:57.128242+00:00</updated>
+    <summary>Article by Sebastian Bolz
+DOI: https://doi.org/10.1515/arb-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Onur Erdur,Schule des Südens. Die kolonialen Wurzeln der französischen Theorie. Matthes &amp; Seitz, Berlin 2024. 335 S., € 28,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2024-0050/html"/>
+    <id>https://doi.org/10.1515/arb-2024-0050</id>
+    <updated>2025-05-04T22:02:57.128247+00:00</updated>
+    <summary>Article by Claudia Albert
+DOI: https://doi.org/10.1515/arb-2024-0050</summary>
+  </entry>
+  <entry>
+    <title>Lucas Marcus Gisi / Irmgard Wirz (Hgg.),Wirklichkeit als Fiktion – Fiktion als Wirklichkeit. Neue Perspektiven auf Friedrich Dürrenmatt. Wallstein, Göttingen 2024. 504 S., 35,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0030/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0030</id>
+    <updated>2025-05-04T22:02:57.128253+00:00</updated>
+    <summary>Article by Rosmarie Zeller
+DOI: https://doi.org/10.1515/arb-2025-0030</summary>
+  </entry>
+  <entry>
+    <title>Christoph Jürgensen / Erik Schilling / Rüdiger Zymner (Hgg.),Gedichte von Ulrike Draesner. Interpretationen. mentis, Paderborn 2020. 237 S., € 56,–. Karen Leeder / Lyn Marven (Hgg.),Ulrike Draesner. A Companion. De Gruyter, Berlin – Boston 2023. XVII/300 S., € 24,95. Monika Wolting / Oliver Ruf (Hgg.),Gegenwart aufnehmen. Zu Werk und Wirken von Ulrike Draesner. Brill Fink, Paderborn 2024. XII/306 S., € 69,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0020/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0020</id>
+    <updated>2025-05-04T22:02:57.128260+00:00</updated>
+    <summary>Article by Kerstin Stüssel
+DOI: https://doi.org/10.1515/arb-2025-0020</summary>
+  </entry>
+  <entry>
+    <title>Svenja Frank,Metaphilologisches Erzählen. Der Text und seine Interpretation im Roman der Gegenwart. (Hermeneutik und Interpretationstheorie 6) Brill Schöningh, Paderborn 2023. 351 S., € 79,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0012/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0012</id>
+    <updated>2025-05-04T22:02:57.128266+00:00</updated>
+    <summary>Article by Kevin Kempke
+DOI: https://doi.org/10.1515/arb-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Saša Stanišić,Möchte die Witwe angesprochen werden, platziert sie auf dem Grab die Gießkanne mit dem Ausguss nach vorne. Luchterhand, München 2024. 265 S., € 24,–.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-0032/html"/>
+    <id>https://doi.org/10.1515/arb-2025-0032</id>
+    <updated>2025-05-04T22:02:57.128272+00:00</updated>
+    <summary>Article by Dominik Zink
+DOI: https://doi.org/10.1515/arb-2025-0032</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/arb-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/arb-2025-frontmatter1</id>
+    <updated>2025-05-04T22:02:57.128277+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/arb-2025-frontmatter1</summary>
+  </entry>
+</feed>

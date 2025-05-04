@@ -1,40 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>ZFW – Advances in Economic Geography</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in ZFW – Advances in Economic Geography</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfw.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfw-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2024-frontmatter2/html</guid>
-      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Towards a comprehensive agency-based resilience approach: Myopia and hypermetropia in the Turkish wine industry</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0001/html</guid>
-      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2024-0001</description>
-    </item>
-    <item>
-      <title>Institutional work and institutional entrepreneurship in the Ontario craft beer industry</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0066/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2024-0066/html</guid>
-      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2024-0066</description>
-    </item>
-    <item>
-      <title>Injecting climate finance into SME lending in Germany: Opportunities for and limitations of regional savings and cooperative banks</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0011/html</guid>
-      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2022-0011</description>
-    </item>
-    <item>
-      <title>The geography of eco-innovations and sustainability transitions: A systematic comparison</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/zfw-2022-0010/html</guid>
-      <description>Article by Hendrik Hansmeier, Henning Kroll DOI: https://doi.org/10.1515/zfw-2022-0010</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ZFW – Advances in Economic Geography</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zfw/68/3-4/html"/>
+  <updated>2025-05-04T22:13:43.837611+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfw.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in ZFW – Advances in Economic Geography</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfw.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-frontmatter3-4/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-frontmatter3-4</id>
+    <updated>2025-05-04T22:13:43.837636+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfw-2024-frontmatter3-4</summary>
+  </entry>
+  <entry>
+    <title>Driving Change in Troubling Times: Security, Risk and the State in Global Production Networks</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0085/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0085</id>
+    <updated>2025-05-04T22:13:43.837647+00:00</updated>
+    <summary>Article by Martin Hess, Rory Horner
+DOI: https://doi.org/10.1515/zfw-2024-0085</summary>
+  </entry>
+  <entry>
+    <title>Friendshoring in global production networks: state-orchestrated coupling amid geopolitical uncertainty</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0042/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0042</id>
+    <updated>2025-05-04T22:13:43.837655+00:00</updated>
+    <summary>Article by Linus Kalvelage, Gideon Tups
+DOI: https://doi.org/10.1515/zfw-2024-0042</summary>
+  </entry>
+  <entry>
+    <title>Geopolitics and geospatial strategies: the rise of regulatory supply chain controls for semiconductor GPN in Japan, South Korea and Taiwan</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0046/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0046</id>
+    <updated>2025-05-04T22:13:43.837665+00:00</updated>
+    <summary>Article by Yuko Aoyama, Eunyeong Song, Shan-yu Wang
+DOI: https://doi.org/10.1515/zfw-2024-0046</summary>
+  </entry>
+  <entry>
+    <title>Military conflicts and the performance of state-owned enterprises: a study of Ukraine’s aerospace, defense, and electro-engineering industries before and after the 2014 Crimea and Donbas occupation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0049/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0049</id>
+    <updated>2025-05-04T22:13:43.837673+00:00</updated>
+    <summary>Article by Jiří Blažek, Anton Lypianin
+DOI: https://doi.org/10.1515/zfw-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>A “return of the state” in energy transitions? The making of a hydrogen economy in the European Union</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0050/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0050</id>
+    <updated>2025-05-04T22:13:43.837680+00:00</updated>
+    <summary>Article by Rubén Vezzoni
+DOI: https://doi.org/10.1515/zfw-2024-0050</summary>
+  </entry>
+  <entry>
+    <title>State power, Global Production Networks, and underdevelopment: examining South Carolina’s success in fostering strategic coupling</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0044/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0044</id>
+    <updated>2025-05-04T22:13:43.837687+00:00</updated>
+    <summary>Article by Tiago Teixeira
+DOI: https://doi.org/10.1515/zfw-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>The resource-making state: liquefied natural gas production networks and state strategies for domestic market development in Indonesia</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfw-2024-0047/html"/>
+    <id>https://doi.org/10.1515/zfw-2024-0047</id>
+    <updated>2025-05-04T22:13:43.837693+00:00</updated>
+    <summary>Article by Alexander Steven Dodge, Ståle A. Rye
+DOI: https://doi.org/10.1515/zfw-2024-0047</summary>
+  </entry>
+</feed>

@@ -1,118 +1,181 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Anglia</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Anglia</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/angl.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-frontmatter3/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Introduction: Touching Troy</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0037/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0037</description>
-    </item>
-    <item>
-      <title>Touching the Franks Casket: Global History and the Trojan Past on an Early Medieval English Object</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0038/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0038</description>
-    </item>
-    <item>
-      <title>Touch and Temporality in Selected Manuscripts of the Roman de Troie and the Roman d’Eneas</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0039/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0039</description>
-    </item>
-    <item>
-      <title>The Hand that Touched Troy: Using Maniculae in Latin and French Manuscripts (Benoît de Sainte-Maure’s Roman de Troie, Guido delle Colonne’s Historia and their Respective Prose Versions)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0040/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0040</description>
-    </item>
-    <item>
-      <title>Trojan Nobodies: Uncarnal Knowledge in Troilus and Criseyde</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0041/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0041</description>
-    </item>
-    <item>
-      <title>Getting in Touch with Troy in Fifteenth-Century France: The First Prose Version of the Roman de Troie in the Manuscript F°26 of the Abbey of Maredsous</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0042/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0042</description>
-    </item>
-    <item>
-      <title>Touching the Shield of Achilles: Ekphrasis and/as Re-Mediation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0043/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0043</description>
-    </item>
-    <item>
-      <title>The Traumas of Troy and the Elizabethan Schoolboy in Marlowe’s Dido, Queene of Carthage</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0044/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0044/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0044</description>
-    </item>
-    <item>
-      <title>Defacing Troy: From Shakespeare’s The Rape of Lucrece to Medieval Manuscripts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0045/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0045/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0045</description>
-    </item>
-    <item>
-      <title>Hans Sauer and Alessia Bauer (eds.). 2023. To Instruct and To Entertain – Medieval Didactic Dialogues: The Old English Prose Solomon and Saturn, the Middle English Master of Oxford’s Catechism and their Reconstructed Latin Source; the Old English Adrian and Ritheus, and the Old Icelandic Dialogue between a Pupil and his Master. Middle English Texts 67. Heidelberg: Winter Universitätverlag, lv + 144 pp., 10 figures, € 46,00.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0046/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0046/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0046</description>
-    </item>
-    <item>
-      <title>Nicholas Orme. 2023. Tudor Children. New Haven and London: Yale University Press, 288 pp., $ 22,00 Paperback / E-book | $ 30,00 Hardcover.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0047/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0047</description>
-    </item>
-    <item>
-      <title>Hartmann, Jan-Peer and Andrew James Johnston (eds.). 2021. Material Remains: Reading the Past in Medieval and Early Modern British Literature. Interventions: New Studies in Medieval Culture. Columbus, OH: Ohio State University Press, 302 pp., 27 illustr., $99.95/£87.95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0048/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0048/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0048</description>
-    </item>
-    <item>
-      <title>Dominique Goy-Blanquet. 2023. From the Domesday Book to Shakespeare’s Globe: The Legal and Political Heritage of Elizabethan Drama. Warwick Studies in Renaissance Thought and Culture 1. Turnhout: Brepols, 456 pp., 1 illustr., € 120.00.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0049/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0049</description>
-    </item>
-    <item>
-      <title>Meg Dobbins. 2022. Queer Economic Dissonance and Victorian Literature. Columbus, OH: Ohio State University Press, 204 pp., $69.95.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0050/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0050/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0050</description>
-    </item>
-    <item>
-      <title>Stefanie Schäfer. 2021. Yankee Yarns: Storytelling and the Invention of the National Body in Nineteenth-Century American Culture. Edinburgh: Edinburgh University Press, 324 pp., 17 illustr., £95.00.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0051/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0051/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0051</description>
-    </item>
-    <item>
-      <title>John Guillory. 2022. Professing Criticism: Essays on the Organization of Literary Study. Chicago: University of Chicago Press, xvi + 407 pp., $ 29.00.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0052/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0052/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0052</description>
-    </item>
-    <item>
-      <title>Ronald Schleifer. 2022. Literary Studies and Well-Being: Structures of Experience in the Worldly Work of Literature and Healthcare. London: Bloomsbury Academic, xi + 268 pp., £65.00/$81.00.Tiao Wang and Ronald Schleifer. 2022. Modernist Poetics in China: Consumerist Economics and Chinese Literary Modernism. Cham: Palgrave Macmillan, xviii + 260 pp., CHF 59.00.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ang-2024-0053/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ang-2024-0053/html</guid>
-      <description>Article by Sofie Behluli DOI: https://doi.org/10.1515/ang-2024-0053</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Anglia</title>
+  <link href="https://www.degruyterbrill.com/journal/key/angl/143/1/html"/>
+  <updated>2025-05-04T22:02:34.578311+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/angl.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Anglia</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/angl.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Preliminary Remarks</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0006/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0006</id>
+    <updated>2025-05-04T22:02:34.578336+00:00</updated>
+    <summary>Article by Andrew James Johnston, Martin Middeke, Gabriele Rippl, Daniel Stein
+DOI: https://doi.org/10.1515/ang-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Introducing Serial Circulation: Print Cultures and Periodical Modernities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0001/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0001</id>
+    <updated>2025-05-04T22:02:34.578345+00:00</updated>
+    <summary>Article by Daniel Stein, Maxi Albrecht
+DOI: https://doi.org/10.1515/ang-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Iterative Circulation in Chaucer: Medieval Contexts of Seriality</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0002/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0002</id>
+    <updated>2025-05-04T22:02:34.578352+00:00</updated>
+    <summary>Article by Eva von Contzen
+DOI: https://doi.org/10.1515/ang-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Medieval Modes of Reading: The Circulation Culture of Late Middle English Romances from William Caxton’s Press</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0003/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0003</id>
+    <updated>2025-05-04T22:02:34.578360+00:00</updated>
+    <summary>Article by Sonia García de Alba Lobeira
+DOI: https://doi.org/10.1515/ang-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>“In a course of publications”: Seriality, Public Recognition, and Judith Sargent Murray’sThe Gleaner(1792–1798)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0004/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0004</id>
+    <updated>2025-05-04T22:02:34.578367+00:00</updated>
+    <summary>Article by Frank Kelleter
+DOI: https://doi.org/10.1515/ang-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>The Laughing Mrs. Churchill: Longfellow’sKavanagh(1849) and the Earliest Anglo-American Mathematics Journals</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0005/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0005</id>
+    <updated>2025-05-04T22:02:34.578373+00:00</updated>
+    <summary>Article by Lukas Etter
+DOI: https://doi.org/10.1515/ang-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>“Life-like Delineations of Real Life”: IllustratingWilfred Montressor; Or, The Secret Order of the Seven, a New York City Mystery of 1846</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0007/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0007</id>
+    <updated>2025-05-04T22:02:34.578380+00:00</updated>
+    <summary>Article by Wendy Jean Katz
+DOI: https://doi.org/10.1515/ang-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Circulating Superheroes in City Mystery Novels: Prefigurations of a Popular Serial Figure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0008/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0008</id>
+    <updated>2025-05-04T22:02:34.578387+00:00</updated>
+    <summary>Article by Daniel Stein
+DOI: https://doi.org/10.1515/ang-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>The Experiment of Condensed Fiction in theReview of Reviews</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0009/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0009</id>
+    <updated>2025-05-04T22:02:34.578393+00:00</updated>
+    <summary>Article by Mark W. Turner
+DOI: https://doi.org/10.1515/ang-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Erasure and Seriality: The “Serial Attitude” inA HumumentandTree of Codes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0010/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0010</id>
+    <updated>2025-05-04T22:02:34.578400+00:00</updated>
+    <summary>Article by Mahshid Mayar
+DOI: https://doi.org/10.1515/ang-2025-0010</summary>
+  </entry>
+  <entry>
+    <title>Power the Dark Lord Knows Not: The Fractal Serialities of Fanfiction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0011/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0011</id>
+    <updated>2025-05-04T22:02:34.578406+00:00</updated>
+    <summary>Article by Cat Ashton, Sarah Erik Sackville-McLauchlan
+DOI: https://doi.org/10.1515/ang-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ang-2025-frontmatter1</id>
+    <updated>2025-05-04T22:02:34.578412+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ang-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Annette Kern-Stähler and Elizabeth Robertson (eds.). 2023.Literature and the Senses. Oxford: Oxford University Press, xix + 544 pp., 20 illustr., $ 155.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0012/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0012</id>
+    <updated>2025-05-04T22:02:34.578419+00:00</updated>
+    <summary>Article by Erica Fretwell
+DOI: https://doi.org/10.1515/ang-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Martin Procházka (ed.). 2024.From Shakespeare to Autofiction: Approaches to Authorship after Barthes and Foucault.London: UCL Press, 207 pp., 10 figures, £40.00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0013/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0013</id>
+    <updated>2025-05-04T22:02:34.578425+00:00</updated>
+    <summary>Article by Ingo Berensmeyer
+DOI: https://doi.org/10.1515/ang-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Irmtraud Huber. 2023.Time and Timelessness in Victorian Poetry. Edinburgh Critical Studies in Victorian Culture. Edinburgh: Edinburgh University Press, viii + 288 pp., £ 95.00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0014/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0014</id>
+    <updated>2025-05-04T22:02:34.578432+00:00</updated>
+    <summary>Article by Herbert F. Tucker
+DOI: https://doi.org/10.1515/ang-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>Arnaud Schmitt (ed.). 2024.Hybridity in Life Writing: Combining Text and Images. Palgrave Studies in Life Writing. Cham: Palgrave Macmillan, xii + 296 pp., 20 figures, CHF 177.00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0015/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0015</id>
+    <updated>2025-05-04T22:02:34.578439+00:00</updated>
+    <summary>Article by Nassim Winnie Balestrini
+DOI: https://doi.org/10.1515/ang-2025-0015</summary>
+  </entry>
+  <entry>
+    <title>Richard Müller (ed.).2024.The Emerging Contours of the Medium:Literature and Mediality. Thinking Media. New York, NY: Bloomsbury, xvi + 501 pp., 17 figures, 4 illustrations, 4 tables, 4 diagrams, £ 90.00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0016/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0016</id>
+    <updated>2025-05-04T22:02:34.578445+00:00</updated>
+    <summary>Article by Werner Wolf
+DOI: https://doi.org/10.1515/ang-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>Yvonne Reddick. 2024.Anthropocene Poetry: Place, Environment, and Planet.Cham: Palgrave Macmillan, xiii + 389 pp, € 139.09.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0017/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0017</id>
+    <updated>2025-05-04T22:02:34.578452+00:00</updated>
+    <summary>Article by Michaela Frey
+DOI: https://doi.org/10.1515/ang-2025-0017</summary>
+  </entry>
+  <entry>
+    <title>Ann Rea (ed.).2024.Sexuality and Gender in Fictions of Espionage: Spying Undercover(s). London/New York: Bloomsbury, xi + 235 pp., £ 85.00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0018/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0018</id>
+    <updated>2025-05-04T22:02:34.578458+00:00</updated>
+    <summary>Article by Mark David Kaufman
+DOI: https://doi.org/10.1515/ang-2025-0018</summary>
+  </entry>
+  <entry>
+    <title>Susan E. Kirtley.2021.Typical Girls: The Rhetoric of Womanhood in Comic Strips.Columbus, OH: Ohio State University Press, 268 pp., 59 illustrations, $134.95.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0019/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0019</id>
+    <updated>2025-05-04T22:02:34.578465+00:00</updated>
+    <summary>Article by Shiamin Kwa
+DOI: https://doi.org/10.1515/ang-2025-0019</summary>
+  </entry>
+  <entry>
+    <title>Matthew Scully. 2024.Democratic Anarchy: Aesthetics and Political Resistance in U. S. Literature.New York, NY: Fordham University Press, 256 pp., 5 illustr., $ 125.00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ang-2025-0020/html"/>
+    <id>https://doi.org/10.1515/ang-2025-0020</id>
+    <updated>2025-05-04T22:02:34.578471+00:00</updated>
+    <summary>Article by Thomas Austenfeld
+DOI: https://doi.org/10.1515/ang-2025-0020</summary>
+  </entry>
+</feed>

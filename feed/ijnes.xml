@@ -1,16 +1,118 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>International Journal of Nursing Education Scholarship</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in International Journal of Nursing Education Scholarship</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijnes.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Gerontological educational interventions for student nurses: a systematic review of qualitative findings</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ijnes-2023-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ijnes-2023-0042/html</guid>
-      <description>Article by Sherry Dahlke, Jo-Anne Rayner, Deirdre Fetherstonhaugh, Jeffrey I. Butler, Megan Kennedy DOI: https://doi.org/10.1515/ijnes-2023-0042</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>International Journal of Nursing Education Scholarship</title>
+  <link href="https://www.degruyterbrill.com/journal/key/ijnes/22/1/html"/>
+  <updated>2025-05-04T22:06:48.927495+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijnes.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in International Journal of Nursing Education Scholarship</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijnes.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Association between admission criteria to nurse practitioner program in Israel and academic success: a retrospective study analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0049/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0049</id>
+    <updated>2025-05-04T22:06:48.927529+00:00</updated>
+    <summary>Article by Anat Romem, Beth G. Zalcman, Ronit Pinchas-Mizrachi
+DOI: https://doi.org/10.1515/ijnes-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>Predictors of classroom exams, standardized exams, and nursing licensure exams in U.S. and international undergraduate RN and PN nursing programs: a scoping review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0092/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0092</id>
+    <updated>2025-05-04T22:06:48.927540+00:00</updated>
+    <summary>Article by Carolyn J. Kerns, Andrea Sartain, Kimberly Rogers
+DOI: https://doi.org/10.1515/ijnes-2024-0092</summary>
+  </entry>
+  <entry>
+    <title>Transfer of learning in baccalaureate nursing education: a systematic scoping review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0022/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0022</id>
+    <updated>2025-05-04T22:06:48.927549+00:00</updated>
+    <summary>Article by Cathleen A. Evans, Barbara Patterson, Brenda Elliott, Katie A. Chargualaf, Mary L. Baumberger-Henry
+DOI: https://doi.org/10.1515/ijnes-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Examining perspectives of instructors and students on the instruction of care plans within the nursing process – a qualitative inquiry</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0079/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0079</id>
+    <updated>2025-05-04T22:06:48.927565+00:00</updated>
+    <summary>Article by Meltem Özduyan Kılıç, Fatoş Korkmaz
+DOI: https://doi.org/10.1515/ijnes-2024-0079</summary>
+  </entry>
+  <entry>
+    <title>The Doctoral Seminar in nursing: an exploration of the literature and trends found in Canadian syllabi</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2022-0029/html"/>
+    <id>https://doi.org/10.1515/ijnes-2022-0029</id>
+    <updated>2025-05-04T22:06:48.927574+00:00</updated>
+    <summary>Article by Cheryl van Daalen-Smith, Ramesh Venkatesaperumal, Samantha Johnson, Steven Cairns, Bev Beattie, Billie Hilborn
+DOI: https://doi.org/10.1515/ijnes-2022-0029</summary>
+  </entry>
+  <entry>
+    <title>Deliberate practice of medication administration among nursing students: a pilot study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0056/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0056</id>
+    <updated>2025-05-04T22:06:48.927585+00:00</updated>
+    <summary>Article by Ginger Schroers, Jill Pfieffer, Dina Tell, Kimberly D. Johnson, Jenny O'Rourke
+DOI: https://doi.org/10.1515/ijnes-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Canadian nursing students and education in medical and recreational cannabis: a preliminary evidence</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0009/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0009</id>
+    <updated>2025-05-04T22:06:48.927592+00:00</updated>
+    <summary>Article by Margareth Santos Zanchetta, Kateryna Metersky, Valerie Tan, Stephanie Pedrotti Lucchese, Yana Siganevich, Prashajini Sivasundaram, Truong Thanh Binh Nguyen, Charissa Cordon, Imran Qureshi
+DOI: https://doi.org/10.1515/ijnes-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>Flourishing in nursing: positive factors that contributed to mental wellbeing of nursing students in Thailand</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0076/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0076</id>
+    <updated>2025-05-04T22:06:48.927601+00:00</updated>
+    <summary>Article by Nop Thodsama Ratanasiripong, Sirinat Sri-Umporn, Pakatip Singkham, Sarinya Chansuk, Terri Ares
+DOI: https://doi.org/10.1515/ijnes-2024-0076</summary>
+  </entry>
+  <entry>
+    <title>Exploring the perceptions of practical nursing students on caring for the older person</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0019/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0019</id>
+    <updated>2025-05-04T22:06:48.927611+00:00</updated>
+    <summary>Article by Lisa Dale, Pria Nippak, Housne Begum, Julien Meyer, Nancy Snobelen, Annette Weeres
+DOI: https://doi.org/10.1515/ijnes-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Nurse educators’ experience in implementing concept-based curriculum: a phenomenology study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0074/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0074</id>
+    <updated>2025-05-04T22:06:48.927618+00:00</updated>
+    <summary>Article by Yasin M. Yasin, Areej Al-Hamad, Ihab Safi, Aalaa Salman
+DOI: https://doi.org/10.1515/ijnes-2024-0074</summary>
+  </entry>
+  <entry>
+    <title>Perception of nursing students on nursing teamwork in hospitals in Slovakia: a cross-sectional study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0031/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0031</id>
+    <updated>2025-05-04T22:06:48.927628+00:00</updated>
+    <summary>Article by Dominika Kohanová, Elena Gurková, Radka Kurucová, Katarína Žiaková
+DOI: https://doi.org/10.1515/ijnes-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>Lived experiences of international nursing students regarding the studying challenges: a phenomenology study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0038/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0038</id>
+    <updated>2025-05-04T22:06:48.927636+00:00</updated>
+    <summary>Article by Marzieh Hasanpour, Fatemeh Bakhshi, Mahboube Shali
+DOI: https://doi.org/10.1515/ijnes-2024-0038</summary>
+  </entry>
+  <entry>
+    <title>Effects of cooperative learning on undergraduate nursing students: a quasi- experimental study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijnes-2024-0069/html"/>
+    <id>https://doi.org/10.1515/ijnes-2024-0069</id>
+    <updated>2025-05-04T22:06:48.927643+00:00</updated>
+    <summary>Article by Hui Chen Lee, Yu Jung Lin, Lee Kuen Tai, Huang Ting Ting, Ching Ting Jenny Lai
+DOI: https://doi.org/10.1515/ijnes-2024-0069</summary>
+  </entry>
+</feed>

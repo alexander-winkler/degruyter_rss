@@ -1,82 +1,109 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Deutsche Zeitschrift für Philosophie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Deutsche Zeitschrift für Philosophie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-frontmatter3/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Kant und die metaethische Kritik der instrumentellen Rationalität</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0024/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0024</description>
-    </item>
-    <item>
-      <title>Lug und Selbstbetrug</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0025/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0025</description>
-    </item>
-    <item>
-      <title>Habermas und Fanon über koloniale Herrschaft</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0026/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0026</description>
-    </item>
-    <item>
-      <title>Schwerpunkt: Intentionalität – Mittelalterliche und phänomenologische Zugänge</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0027/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0027</description>
-    </item>
-    <item>
-      <title>Hervaeus Natalis und Franz Brentano über Intentionalität als Merkmal des Mentalen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0028/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0028</description>
-    </item>
-    <item>
-      <title>Edith Stein über Species Sensibilis und Transzendentalen Idealismus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0029/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0029</description>
-    </item>
-    <item>
-      <title>Über Erfüllung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0030/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0030</description>
-    </item>
-    <item>
-      <title>Die moralischen Ansprüche zukünftiger Menschen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0031/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0031</description>
-    </item>
-    <item>
-      <title>Ein Goldstandard des sinnvollen Lebens?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0032/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0032</description>
-    </item>
-    <item>
-      <title>Was heißt hier „transzendentale Lebendigkeit“?</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0033/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0033</description>
-    </item>
-    <item>
-      <title>Die Mittelalterfalle</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/dzph-2024-0034/html</guid>
-      <description>Article by Maarten J. F. M. Hoenen DOI: https://doi.org/10.1515/dzph-2024-0034</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Deutsche Zeitschrift für Philosophie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/dzph/72/5/html"/>
+  <updated>2025-05-04T22:04:51.619424+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Deutsche Zeitschrift für Philosophie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-frontmatter5/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-frontmatter5</id>
+    <updated>2025-05-04T22:04:51.619448+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dzph-2024-frontmatter5</summary>
+  </entry>
+  <entry>
+    <title>Das Ukraine-Dilemma, die Lehre vom gerechten Krieg und der Pazifismus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0047/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0047</id>
+    <updated>2025-05-04T22:04:51.619456+00:00</updated>
+    <summary>Article by Ulrich Steinvorth
+DOI: https://doi.org/10.1515/dzph-2024-0047</summary>
+  </entry>
+  <entry>
+    <title>Carnap und Heidegger</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0048/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0048</id>
+    <updated>2025-05-04T22:04:51.619467+00:00</updated>
+    <summary>Article by Christian Damböck
+DOI: https://doi.org/10.1515/dzph-2024-0048</summary>
+  </entry>
+  <entry>
+    <title>Einleitung: Krise und Zukunft der Religionsphilosophie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0049/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0049</id>
+    <updated>2025-05-04T22:04:51.619474+00:00</updated>
+    <summary>Article by Sebastian Gäb, Georg Gasser
+DOI: https://doi.org/10.1515/dzph-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>Zwischen Kontingenzeinsicht und Geltungsbegehren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0050/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0050</id>
+    <updated>2025-05-04T22:04:51.619481+00:00</updated>
+    <summary>Article by Annette Langner-Pitschmann
+DOI: https://doi.org/10.1515/dzph-2024-0050</summary>
+  </entry>
+  <entry>
+    <title>Gott nicht-personal gedacht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0051/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0051</id>
+    <updated>2025-05-04T22:04:51.619488+00:00</updated>
+    <summary>Article by Georg Gasser
+DOI: https://doi.org/10.1515/dzph-2024-0051</summary>
+  </entry>
+  <entry>
+    <title>Globale Religionsphilosophie und die notorische Unklarheit des Religionsbegriffs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0052/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0052</id>
+    <updated>2025-05-04T22:04:51.619495+00:00</updated>
+    <summary>Article by Sebastian Gäb
+DOI: https://doi.org/10.1515/dzph-2024-0052</summary>
+  </entry>
+  <entry>
+    <title>Materialismus im feministischen und queeren Denken</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0053/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0053</id>
+    <updated>2025-05-04T22:04:51.619501+00:00</updated>
+    <summary>Article by Cornelia Möser
+DOI: https://doi.org/10.1515/dzph-2024-0053</summary>
+  </entry>
+  <entry>
+    <title>Lässt sich der Fortschrittsbegriff retten?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0054/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0054</id>
+    <updated>2025-05-04T22:04:51.619508+00:00</updated>
+    <summary>Article by Peter Dews
+DOI: https://doi.org/10.1515/dzph-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Ist Lügen wie Schachspielen?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0055/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0055</id>
+    <updated>2025-05-04T22:04:51.619515+00:00</updated>
+    <summary>Article by Maike Albertzart
+DOI: https://doi.org/10.1515/dzph-2024-0055</summary>
+  </entry>
+  <entry>
+    <title>Sex im Patriarchat oder: Wir müssen reden!</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0056/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0056</id>
+    <updated>2025-05-04T22:04:51.619522+00:00</updated>
+    <summary>Article by Christine Bratu, Carlo Backer, Sarah Elizabeth Riemann
+DOI: https://doi.org/10.1515/dzph-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Die Theorie der Person als Morphologie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0057/html"/>
+    <id>https://doi.org/10.1515/dzph-2024-0057</id>
+    <updated>2025-05-04T22:04:51.619529+00:00</updated>
+    <summary>Article by Martin Hoffmann
+DOI: https://doi.org/10.1515/dzph-2024-0057</summary>
+  </entry>
+</feed>

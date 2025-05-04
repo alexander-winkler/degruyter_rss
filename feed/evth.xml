@@ -1,82 +1,99 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Evangelische Theologie</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Evangelische Theologie</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/evth.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-frontmatter8405/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-frontmatter8405/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-frontmatter8405</description>
-    </item>
-    <item>
-      <title>INHALT</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-toc8405/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-toc8405/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-toc8405</description>
-    </item>
-    <item>
-      <title>Die Autorinnen und Autoren dieses Heftes</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840501/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840501/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840501</description>
-    </item>
-    <item>
-      <title>Zu diesem Heft</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840502/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840502/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840502</description>
-    </item>
-    <item>
-      <title>Anwalt und Beistand der Bedrängten. Der Geist Gottes bei Lukas</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840503/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840503/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840503</description>
-    </item>
-    <item>
-      <title>Der johanneische Geist-Paraklet und die Frage nach seiner Verleiblichung</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840504/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840504/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840504</description>
-    </item>
-    <item>
-      <title>Was meint Paulus mit »im Geist sein«?</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840505/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840505/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840505</description>
-    </item>
-    <item>
-      <title>Der Geist im Römerbrief</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840506/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840506/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840506</description>
-    </item>
-    <item>
-      <title>Der Heilige Geist bei Paulus in kognitionswissenschaftlicher Perspektive</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840507/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840507/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840507</description>
-    </item>
-    <item>
-      <title>Ein Rollback der Lebensformen mit dem Neuen Testament? Matthias Becker, »Ehe, Familie, Agamie«</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840508/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840508/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840508</description>
-    </item>
-    <item>
-      <title>Bernd Janowski, »Biblischer Schöpfungsglaube. Religionsgeschichte – Theologie – Ethik«</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840509/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840509/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840509</description>
-    </item>
-    <item>
-      <title>Jürgen Moltmann. Theologe der Hoffnung, 1926–2024</title>
-      <link>https://www.degruyter.com/document/doi/10.14315/evth-2024-840510/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14315/evth-2024-840510/html</guid>
-      <description>Article by Michael Welker DOI: https://doi.org/10.14315/evth-2024-840510</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Evangelische Theologie</title>
+  <link href="https://www.degruyterbrill.com/journal/key/evth/85/2/html"/>
+  <updated>2025-05-04T22:05:23.277653+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/evth.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Evangelische Theologie</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/evth.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Die Autorinnen und Autoren dieses Heftes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850201/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850201</id>
+    <updated>2025-05-04T22:05:23.277681+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/evth-2025-850201</summary>
+  </entry>
+  <entry>
+    <title>INHALT</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-toc8502/html"/>
+    <id>https://doi.org/10.14315/evth-2025-toc8502</id>
+    <updated>2025-05-04T22:05:23.277689+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/evth-2025-toc8502</summary>
+  </entry>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-frontmatter8502/html"/>
+    <id>https://doi.org/10.14315/evth-2025-frontmatter8502</id>
+    <updated>2025-05-04T22:05:23.277695+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/evth-2025-frontmatter8502</summary>
+  </entry>
+  <entry>
+    <title>Zu diesem Heft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850202/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850202</id>
+    <updated>2025-05-04T22:05:23.277701+00:00</updated>
+    <summary>Article by Michael Domsgen
+DOI: https://doi.org/10.14315/evth-2025-850202</summary>
+  </entry>
+  <entry>
+    <title>Über, von und in empowerment lernen – und so Reflexionsräume neu ausloten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850203/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850203</id>
+    <updated>2025-05-04T22:05:23.277712+00:00</updated>
+    <summary>Article by Michael Domsgen
+DOI: https://doi.org/10.14315/evth-2025-850203</summary>
+  </entry>
+  <entry>
+    <title>›Research on empowerment – Empowerment through research‹? Überlegungen zur religionspädagogischen und praktisch-theologischen Empowerment-Forschung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850204/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850204</id>
+    <updated>2025-05-04T22:05:23.277720+00:00</updated>
+    <summary>Article by Georg Bucher
+DOI: https://doi.org/10.14315/evth-2025-850204</summary>
+  </entry>
+  <entry>
+    <title>Empowerment als geteilte Erfahrung. Eine erziehungswissenschaftliche und praxeologisch-wissenssoziologische Perspektivierung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850205/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850205</id>
+    <updated>2025-05-04T22:05:23.277727+00:00</updated>
+    <summary>Article by Anja Hackbarth
+DOI: https://doi.org/10.14315/evth-2025-850205</summary>
+  </entry>
+  <entry>
+    <title>Empowerment als Zentralbegriff einer Missions- und Kirchentheorie des Lutherischen Weltbundes. Ein Beitrag zur theologischen Profilierung von Empowerment und zur Entwicklung eines Empowerment-orientierten Kirchenverständnisses</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850206/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850206</id>
+    <updated>2025-05-04T22:05:23.277734+00:00</updated>
+    <summary>Article by Hanna Kauhaus
+DOI: https://doi.org/10.14315/evth-2025-850206</summary>
+  </entry>
+  <entry>
+    <title>Empowerment als Forschungsperspektive für missionale Kirchen- und Gemeindeentwicklung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850207/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850207</id>
+    <updated>2025-05-04T22:05:23.277740+00:00</updated>
+    <summary>Article by Felix Eiffler
+DOI: https://doi.org/10.14315/evth-2025-850207</summary>
+  </entry>
+  <entry>
+    <title>Ironies of Empowerment. Theological Reflections on Empowerment Pedagogy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850208/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850208</id>
+    <updated>2025-05-04T22:05:23.277746+00:00</updated>
+    <summary>Article by Gordon S. Mikoski
+DOI: https://doi.org/10.14315/evth-2025-850208</summary>
+  </entry>
+  <entry>
+    <title>Empowerment und Diakonie. Überlegungen zur (Arbeits)Relevanz christlicher Lebensform im Kontext der Säkularität</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850209/html"/>
+    <id>https://doi.org/10.14315/evth-2025-850209</id>
+    <updated>2025-05-04T22:05:23.277753+00:00</updated>
+    <summary>Article by Tobias Foß
+DOI: https://doi.org/10.14315/evth-2025-850209</summary>
+  </entry>
+</feed>

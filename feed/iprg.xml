@@ -1,58 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Intercultural Pragmatics</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Intercultural Pragmatics</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iprg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-frontmatter5/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>Interactional competence and performances of compliments and consolations by learners of Japanese</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5001/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5001</description>
-    </item>
-    <item>
-      <title>Exploring emoji usage in intercultural CMC: Insights from Colombian and Argentinian learners of German</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5002/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5002</description>
-    </item>
-    <item>
-      <title>Proper names as speech acts</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5003/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5003</description>
-    </item>
-    <item>
-      <title>Metapragmatic conventions and integrative context: Introducing Sībawayhian pragmatics</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5004/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5004</description>
-    </item>
-    <item>
-      <title>Andreas H. Jucker, Iris Hübscher, and Lucien Brown: Multimodal Im/politeness: Signed, spoken, written</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5005/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5005</description>
-    </item>
-    <item>
-      <title>Daniel N. Silva and Jacob L. Mey: The Pragmatics of Adaptability</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5006/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5006</description>
-    </item>
-    <item>
-      <title>Juliane House and Dániel Z. Kádár: Cross-cultural Pragmatics</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/ip-2024-5007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/ip-2024-5007/html</guid>
-      <description>Article by Yinxia Wei, Lin Shi DOI: https://doi.org/10.1515/ip-2024-5007</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Intercultural Pragmatics</title>
+  <link href="https://www.degruyterbrill.com/journal/key/iprg/22/1/html"/>
+  <updated>2025-05-04T22:06:56.076696+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iprg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Intercultural Pragmatics</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iprg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ip-2025-frontmatter1</id>
+    <updated>2025-05-04T22:06:56.076731+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ip-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Thematic issue in pragmatics and philosophy (TIPP)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0001/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0001</id>
+    <updated>2025-05-04T22:06:56.076740+00:00</updated>
+    <summary>Article by Alessandro Capone
+DOI: https://doi.org/10.1515/ip-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>The cultural evolution of speech act norms</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0002/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0002</id>
+    <updated>2025-05-04T22:06:56.076749+00:00</updated>
+    <summary>Article by Mitchell Green
+DOI: https://doi.org/10.1515/ip-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>On the unification ofwhich-interrogatives and alternative-interrogatives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0003/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0003</id>
+    <updated>2025-05-04T22:06:56.076756+00:00</updated>
+    <summary>Article by Yael Sharvit
+DOI: https://doi.org/10.1515/ip-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>A functional theory of proper names: Insights from quasi-proper names</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0004/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0004</id>
+    <updated>2025-05-04T22:06:56.076767+00:00</updated>
+    <summary>Article by Yoko Mizuta
+DOI: https://doi.org/10.1515/ip-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>The foundational role of sound quality for understanding demonstratives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0005/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0005</id>
+    <updated>2025-05-04T22:06:56.076774+00:00</updated>
+    <summary>Article by Jack Wilson
+DOI: https://doi.org/10.1515/ip-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Problems for a uniform analysis ofancorain Italian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0006/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0006</id>
+    <updated>2025-05-04T22:06:56.076782+00:00</updated>
+    <summary>Article by Daniele Panizza, Yasutada Sudo
+DOI: https://doi.org/10.1515/ip-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Speech act theory of quotation: Quotation indirect quotation and Japanese quasi-quotation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0007/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0007</id>
+    <updated>2025-05-04T22:06:56.076789+00:00</updated>
+    <summary>Article by Etsuko Oishi
+DOI: https://doi.org/10.1515/ip-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Topicality, accessibility, and causality in anaphora resolution: An eye-tracking study of null and overt pronouns in Italian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0008/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0008</id>
+    <updated>2025-05-04T22:06:56.076797+00:00</updated>
+    <summary>Article by Maria Vender, Andrea Nardon, Ilaria Venagli
+DOI: https://doi.org/10.1515/ip-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Clause-level coordination and discourse continuity in Tohono O’odham</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0009/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0009</id>
+    <updated>2025-05-04T22:06:56.076805+00:00</updated>
+    <summary>Article by Enrico Higginbotham
+DOI: https://doi.org/10.1515/ip-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Istvan Kecskes, Distinguished Professor of the State University of New York, affectionate friend and mentor</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ip-2025-0010/html"/>
+    <id>https://doi.org/10.1515/ip-2025-0010</id>
+    <updated>2025-05-04T22:06:56.076813+00:00</updated>
+    <summary>Article by Alessandro Capone
+DOI: https://doi.org/10.1515/ip-2025-0010</summary>
+  </entry>
+</feed>

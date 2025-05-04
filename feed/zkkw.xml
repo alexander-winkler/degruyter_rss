@@ -1,76 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Zeitschrift für Kultur- und Kollektivwissenschaft</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Zeitschrift für Kultur- und Kollektivwissenschaft</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkkw.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-frontmatter1001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-frontmatter1001/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-frontmatter1001</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-toc1001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-toc1001/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-toc1001</description>
-    </item>
-    <item>
-      <title>Editorial</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100101/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100101</description>
-    </item>
-    <item>
-      <title>Kollektive aus Menschen und Nichtmenschen</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100102/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100102</description>
-    </item>
-    <item>
-      <title>Kollektive der Verletzbarkeit am Beispiel von Bezugsgruppen, Buddys und Awareness-Team im Klimaaktivismus</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100103/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100103/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100103</description>
-    </item>
-    <item>
-      <title>Gruppen als symbolisch abgegrenzte Netzwerkphänomene</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100104/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100104/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100104</description>
-    </item>
-    <item>
-      <title>Die Schulklasse als Kollektiv</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100105/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100105/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100105</description>
-    </item>
-    <item>
-      <title>Ereigniskollektive</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100106/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100106/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100106</description>
-    </item>
-    <item>
-      <title>Improvisation als ‚Handeln im Kollektiv‘</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100107/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100107/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100107</description>
-    </item>
-    <item>
-      <title>Das Imaginäre des Kollektivs</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100108/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100108/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100108</description>
-    </item>
-    <item>
-      <title>Kollektivität, Tertiarität, Alterität, Identität</title>
-      <link>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100109/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.14361/zkkw-2024-100109/html</guid>
-      <description>Article by Joachim Fischer DOI: https://doi.org/10.14361/zkkw-2024-100109</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zeitschrift für Kultur- und Kollektivwissenschaft</title>
+  <link href="https://www.degruyterbrill.com/journal/key/zkkw/10/2/html"/>
+  <updated>2025-05-04T22:13:52.524060+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkkw.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Kultur- und Kollektivwissenschaft</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkkw.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-frontmatter1002/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-frontmatter1002</id>
+    <updated>2025-05-04T22:13:52.524091+00:00</updated>
+    <summary>DOI: https://doi.org/10.14361/zkkw-2024-frontmatter1002</summary>
+  </entry>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-toc1002/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-toc1002</id>
+    <updated>2025-05-04T22:13:52.524104+00:00</updated>
+    <summary>DOI: https://doi.org/10.14361/zkkw-2024-toc1002</summary>
+  </entry>
+  <entry>
+    <title>Editorial: Schemata und Kollektivität – Wissen durch und über Kollektive</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-100201/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-100201</id>
+    <updated>2025-05-04T22:13:52.524117+00:00</updated>
+    <summary>Article by Mark Oliver Carl, Jan-Christoph Marschelke
+DOI: https://doi.org/10.14361/zkkw-2024-100201</summary>
+  </entry>
+  <entry>
+    <title>Kollektive Einflüsse auf die Entwicklung diachroner kultureller Meta-Modelle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-100202/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-100202</id>
+    <updated>2025-05-04T22:13:52.524128+00:00</updated>
+    <summary>Article by Mark-Oliver Carl
+DOI: https://doi.org/10.14361/zkkw-2024-100202</summary>
+  </entry>
+  <entry>
+    <title>Kollektive, Kultur und Kognition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-100203/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-100203</id>
+    <updated>2025-05-04T22:13:52.524136+00:00</updated>
+    <summary>Article by Sven Strasen, Mark-Oliver Carl
+DOI: https://doi.org/10.14361/zkkw-2024-100203</summary>
+  </entry>
+  <entry>
+    <title>Von imagined communities zu Kollektivierungskulturen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-100204/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-100204</id>
+    <updated>2025-05-04T22:13:52.524142+00:00</updated>
+    <summary>Article by Jan-Christoph Marschelke
+DOI: https://doi.org/10.14361/zkkw-2024-100204</summary>
+  </entry>
+  <entry>
+    <title>Kollektivität als konzertierte Praxis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-100205/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-100205</id>
+    <updated>2025-05-04T22:13:52.524149+00:00</updated>
+    <summary>Article by Kristina Brümmer
+DOI: https://doi.org/10.14361/zkkw-2024-100205</summary>
+  </entry>
+  <entry>
+    <title>Kollektivwissenschaft und Schematheorie: Kann die Kulturwissenschaft ihnen durch Multiperspektivität und Normativität zu mehr Synergien verhelfen?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14361/zkkw-2024-100206/html"/>
+    <id>https://doi.org/10.14361/zkkw-2024-100206</id>
+    <updated>2025-05-04T22:13:52.524157+00:00</updated>
+    <summary>Article by Dominic Busch
+DOI: https://doi.org/10.14361/zkkw-2024-100206</summary>
+  </entry>
+</feed>

@@ -1,76 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Juristische Rundschau</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Juristische Rundschau</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-frontmatter12/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-frontmatter12/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-frontmatter12</description>
-    </item>
-    <item>
-      <title>Das Rückforderungsrecht des Schenkers wegen Verarmung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2056/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2056/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2056</description>
-    </item>
-    <item>
-      <title>Auch Standortdaten aus Funkzellen sind Standortdaten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2059/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2059/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2059</description>
-    </item>
-    <item>
-      <title>Das Rechtsgut der Freiheitsberaubung in der jüngeren Rechtsprechung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2078/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2078/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2078</description>
-    </item>
-    <item>
-      <title>Unmöglichkeit einer Forderungsübertragung fällt nicht unter Gewährleistungsrecht</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2058/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2058/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2058</description>
-    </item>
-    <item>
-      <title>Bemessung des angemessenen Unterhalts gem. § 529 Abs. 2 BGB</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2057/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2057/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2057</description>
-    </item>
-    <item>
-      <title>Einbeziehung einer Verurteilung nach allgemeinem Strafrecht wegen einer als Heranwachsender begangenen Tat in die Verurteilung einer als Jugendlicher begangenen Tat</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2055/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2055/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2055</description>
-    </item>
-    <item>
-      <title>Neue Anforderungen an die Übermittlung von Informationen durch Nachrichtendienste zu den Zwecken der Strafverfolgung und des administrativen Rechtsgüterschutzes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2085/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2085/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2085</description>
-    </item>
-    <item>
-      <title>Nachträgliche Ergänzung abgekürzter Urteilsgründe bei verspäteter Kenntnis des Tatgerichts von der Revisionseinlegung</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2062/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2062/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2062</description>
-    </item>
-    <item>
-      <title>Grüneberg, Bürgerliches Gesetzbuch</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2084/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2084/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2084</description>
-    </item>
-    <item>
-      <title>Leit- und Orientierungssätze</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/juru-2024-2090/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/juru-2024-2090/html</guid>
-      <description>Article by Daniel Klocke DOI: https://doi.org/10.1515/juru-2024-2090</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Juristische Rundschau</title>
+  <link href="https://www.degruyterbrill.com/journal/key/juru/2025/6/html"/>
+  <updated>2025-05-04T22:08:54.939621+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Juristische Rundschau</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-frontmatter6/html"/>
+    <id>https://doi.org/10.1515/juru-2025-frontmatter6</id>
+    <updated>2025-05-04T22:08:54.939650+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/juru-2025-frontmatter6</summary>
+  </entry>
+  <entry>
+    <title>Unklarheiten zum spätesten Zeitpunkt der Anmeldung zur Eintragung in das Verbandsklageregister bzw. der Rücknahme derselben nach § 46 VDuG</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2007/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2007</id>
+    <updated>2025-05-04T22:08:54.939660+00:00</updated>
+    <summary>Article by Dominik Skauradszun
+DOI: https://doi.org/10.1515/juru-2025-2007</summary>
+  </entry>
+  <entry>
+    <title>Der Missbrauch von Vorsorgevollmachten und seine strafrechtlichen Konsequenzen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2026/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2026</id>
+    <updated>2025-05-04T22:08:54.939669+00:00</updated>
+    <summary>Article by Marco Mansdörfer, Julia Aileen Kreutz
+DOI: https://doi.org/10.1515/juru-2025-2026</summary>
+  </entry>
+  <entry>
+    <title>Erwerb eines Miteigentumsanteils an nicht verpachtetem/vermietetem Grundstück ist rechtlich vorteilhaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2024-2072/html"/>
+    <id>https://doi.org/10.1515/juru-2024-2072</id>
+    <updated>2025-05-04T22:08:54.939678+00:00</updated>
+    <summary>Article by Andreas Spickhoff
+DOI: https://doi.org/10.1515/juru-2024-2072</summary>
+  </entry>
+  <entry>
+    <title>§ 2 GrdstVG gilt nicht für Verkauf und Abtretung von Forderungen, die aus Veräußerung eines landwirtschaftlichen Anwesens stammen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2024-2104/html"/>
+    <id>https://doi.org/10.1515/juru-2024-2104</id>
+    <updated>2025-05-04T22:08:54.939685+00:00</updated>
+    <summary>Article by Markus Gehrlein
+DOI: https://doi.org/10.1515/juru-2024-2104</summary>
+  </entry>
+  <entry>
+    <title>Tatbestandliche Verwandtschaft zwischen Straftatbeständen des Konsumcannabisgesetzes und denen des Betäubungsmittelgesetzes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2025/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2025</id>
+    <updated>2025-05-04T22:08:54.939693+00:00</updated>
+    <summary>Article by Maximilian Nussbaum
+DOI: https://doi.org/10.1515/juru-2025-2025</summary>
+  </entry>
+  <entry>
+    <title>Keine Strafbarkeit von finanziellen Zuwendungen an ein Mitglied einer terroristischen Vereinigung bei sozialüblichem Verhalten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2030/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2030</id>
+    <updated>2025-05-04T22:08:54.939700+00:00</updated>
+    <summary>Article by Mark A. Zöller
+DOI: https://doi.org/10.1515/juru-2025-2030</summary>
+  </entry>
+  <entry>
+    <title>Hawala-Banking-Organisation als kriminelle Vereinigung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2031/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2031</id>
+    <updated>2025-05-04T22:08:54.939707+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/juru-2025-2031</summary>
+  </entry>
+  <entry>
+    <title>Verursachen einer Gesundheitsschädigung einer großen Zahl von Menschen durch Zünden einer »Kugelbombe«</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2023/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2023</id>
+    <updated>2025-05-04T22:08:54.939714+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/juru-2025-2023</summary>
+  </entry>
+  <entry>
+    <title>Leit- und Orientierungssätze</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2043/html"/>
+    <id>https://doi.org/10.1515/juru-2025-2043</id>
+    <updated>2025-05-04T22:08:54.939721+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/juru-2025-2043</summary>
+  </entry>
+</feed>

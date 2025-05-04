@@ -1,76 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Advances in Geometry </title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Advances in Geometry </description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Local quasi-isometries and tangent cones of definable germs</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0020/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0020</description>
-    </item>
-    <item>
-      <title>On trialities and their absolute geometries</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0018/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0018</description>
-    </item>
-    <item>
-      <title>An isomorphism between unitals and between related classical groups</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0022/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0022</description>
-    </item>
-    <item>
-      <title>Betweenness isomorphisms in the plane — the case of a circle and points</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0027/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0027</description>
-    </item>
-    <item>
-      <title>Compact locally homogeneous manifolds with parallel Weyl tensor</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0019/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0019</description>
-    </item>
-    <item>
-      <title>Hamiltonian isotopies of relatively exact Lagrangians are orientation-preserving</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0021/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0021</description>
-    </item>
-    <item>
-      <title>Equiangular lines in ℂ3</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0025/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0025</description>
-    </item>
-    <item>
-      <title>Vanishing theorems for Mather–Jacobian multiplier ideals on a Gorenstein projective variety</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0026/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0026</description>
-    </item>
-    <item>
-      <title>Deformations of pairs of codimension one foliations</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0023/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0023</description>
-    </item>
-    <item>
-      <title>Arithmetic counts of tropical plane curves and their properties</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0028/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0028</description>
-    </item>
-    <item>
-      <title>Convex Fujita numbers are not determined by the fundamental group</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/advgeom-2024-0029/html</guid>
-      <description>Article by Jiaming Chen, Alex Küronya, Yusuf Mustopa, Jakob Stix DOI: https://doi.org/10.1515/advgeom-2024-0029</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Advances in Geometry </title>
+  <link href="https://www.degruyterbrill.com/journal/key/advg/25/1/html"/>
+  <updated>2025-05-04T22:02:16.186936+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Advances in Geometry </subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-frontmatter1</id>
+    <updated>2025-05-04T22:02:16.186960+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/advgeom-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>New rigidity results for critical metrics of some quadratic curvature functionals</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0032/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0032</id>
+    <updated>2025-05-04T22:02:16.186970+00:00</updated>
+    <summary>Article by Marco Bernardini
+DOI: https://doi.org/10.1515/advgeom-2024-0032</summary>
+  </entry>
+  <entry>
+    <title>Extremizers of the Alexandrov–Fenchel inequality within a new class of convex bodies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0030/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0030</id>
+    <updated>2025-05-04T22:02:16.186977+00:00</updated>
+    <summary>Article by Daniel Hug, Paul A. Reichert
+DOI: https://doi.org/10.1515/advgeom-2024-0030</summary>
+  </entry>
+  <entry>
+    <title>Perturbation theory of asymptotic operators of contact instantons and pseudoholomorphic curves on symplectization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0033/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0033</id>
+    <updated>2025-05-04T22:02:16.186983+00:00</updated>
+    <summary>Article by Taesu Kim, Yong-Geun Oh
+DOI: https://doi.org/10.1515/advgeom-2024-0033</summary>
+  </entry>
+  <entry>
+    <title>Cylinders in smooth del Pezzo surfaces of degree 2</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0034/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0034</id>
+    <updated>2025-05-04T22:02:16.186988+00:00</updated>
+    <summary>Article by Jaehyun Kim, Joonyeong Won
+DOI: https://doi.org/10.1515/advgeom-2024-0034</summary>
+  </entry>
+  <entry>
+    <title>The total absolute curvature of closed curves with singularities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0024/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0024</id>
+    <updated>2025-05-04T22:02:16.186994+00:00</updated>
+    <summary>Article by Atsufumi Honda, Chisa Tanaka, Yuta Yamauchi
+DOI: https://doi.org/10.1515/advgeom-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>On some relations between the perimeter, the area and the visual angle of a convex set</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0036/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0036</id>
+    <updated>2025-05-04T22:02:16.186998+00:00</updated>
+    <summary>Article by J. Bruna, J. Cufí, A. Reventós
+DOI: https://doi.org/10.1515/advgeom-2024-0036</summary>
+  </entry>
+  <entry>
+    <title>Fundamental polyhedra of projective elementary groups</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0035/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0035</id>
+    <updated>2025-05-04T22:02:16.187004+00:00</updated>
+    <summary>Article by Daniel E. Martin
+DOI: https://doi.org/10.1515/advgeom-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Study of the cone of sums of squares plus sums of nonnegative circuit forms</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0031/html"/>
+    <id>https://doi.org/10.1515/advgeom-2024-0031</id>
+    <updated>2025-05-04T22:02:16.187009+00:00</updated>
+    <summary>Article by Mareike Dressler, Salma Kuhlmann, Moritz Schick
+DOI: https://doi.org/10.1515/advgeom-2024-0031</summary>
+  </entry>
+</feed>

@@ -1,88 +1,92 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Materialdienst</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Materialdienst</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdki.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-frontmatter3/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-frontmatter3/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-frontmatter3</description>
-    </item>
-    <item>
-      <title>Täuferische Kirchen in der Ökumene</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0019/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0019</description>
-    </item>
-    <item>
-      <title>Last und Lust der Täufergeschichte – vom Konflikt zur Koinonia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0020/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0020</description>
-    </item>
-    <item>
-      <title>Heilung der Erinnerungen – Prozesse und Perspektiven</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0021/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0021</description>
-    </item>
-    <item>
-      <title>Römisch-katholische Perspektiven auf die Heilung der Erinnerungen mit den täuferischen Kirchen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0022/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0022</description>
-    </item>
-    <item>
-      <title>Beobachtungen zum trilateralen internationalen mennonitisch-lutherisch-römisch-katholischen Dialog zur Taufe (2012–2017)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0023/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0023</description>
-    </item>
-    <item>
-      <title>Baptism and the Process of Christian Initiation Reconsidered</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0024/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0024</description>
-    </item>
-    <item>
-      <title>Kirchengemeinschaft auf dem Weg</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0025/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0025</description>
-    </item>
-    <item>
-      <title>„Kirche im Defekt“ – „Kirche im Exzess“</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0026/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0026</description>
-    </item>
-    <item>
-      <title>Kulturelle und konfessionelle Diversität als Herausforderung für die verfassten Kirchen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0027/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0027</description>
-    </item>
-    <item>
-      <title>„Heilung der Erinnerungen – Das Verhältnis der evangelischen Frei- und Landeskirchen im 19. Jahrhundert“</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0028/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0028</description>
-    </item>
-    <item>
-      <title>Burkhard Neumann und Jürgen Stolze, Hg., Jesus Christus – Sohn Gottes und Erlöser. Freikirchliche und römisch-katholische Perspektiven (Paderborn: Bonifatius; Göttingen: Edition Ruprecht, 2021), 268 S., EUR 20,00, ISBN 978-3-89710-895-0.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0029/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0029</description>
-    </item>
-    <item>
-      <title>Rüdiger Halder, Ich bin da für dich! Gedanken zur Lehre über Gottvater, Systematisch-theologische Beiträge 2 (Erzhausen: Forum Theologie &amp; Gemeinde des Bundes Freikirchlicher Pfingstgemeinden, 2023), 201 S., EUR 20,00 (E-Book EUR 11,99), ISBN 978-3-942001-86-1.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mdki-2024-0030/html</guid>
-      <description>Article by Dirk Spornhauer DOI: https://doi.org/10.1515/mdki-2024-0030</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Materialdienst</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mdki/76/1/html"/>
+  <updated>2025-05-04T22:09:36.084960+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdki.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Materialdienst</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdki.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:36.084989+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mdki-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0001/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0001</id>
+    <updated>2025-05-04T22:09:36.084998+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mdki-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>75 JahreMaterialdienst des Konfessionskundlichen Instituts Bensheim(MdKI)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0002/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0002</id>
+    <updated>2025-05-04T22:09:36.085006+00:00</updated>
+    <summary>Article by Walter Fleischmann-Bisten
+DOI: https://doi.org/10.1515/mdki-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024: Catholica</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0003/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0003</id>
+    <updated>2025-05-04T22:09:36.085015+00:00</updated>
+    <summary>Article by Martin Bräuer, Daniel Lenski
+DOI: https://doi.org/10.1515/mdki-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024: Byzantinische und orientalische Orthodoxie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0004/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0004</id>
+    <updated>2025-05-04T22:09:36.085023+00:00</updated>
+    <summary>Article by Dagmar Heller
+DOI: https://doi.org/10.1515/mdki-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024: Anglikanismus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0005/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0005</id>
+    <updated>2025-05-04T22:09:36.085031+00:00</updated>
+    <summary>Article by Kai Funkschmidt
+DOI: https://doi.org/10.1515/mdki-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024: Freikirchen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0006/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0006</id>
+    <updated>2025-05-04T22:09:36.085038+00:00</updated>
+    <summary>Article by Lothar Triebel
+DOI: https://doi.org/10.1515/mdki-2025-0006</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024: Die Pfingst- und Charismatischen Bewegungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0007/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0007</id>
+    <updated>2025-05-04T22:09:36.085046+00:00</updated>
+    <summary>Article by Dirk Spornhauer
+DOI: https://doi.org/10.1515/mdki-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>Ökumenischer Lagebericht 2024: Weltökumene</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0008/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0008</id>
+    <updated>2025-05-04T22:09:36.085054+00:00</updated>
+    <summary>Article by Dominik Koy
+DOI: https://doi.org/10.1515/mdki-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Verena Hammes, Jens Haverland, Rainer Kiefer und Dietrich Werner, Hg.,In der Liebe Christi weitergehen. Zukunft und Neuaufbruch weltweiter Ökumene – ein Jahr nach Karlsruhe. Ein Arbeitsbuch(Leipzig: EVA, 2023), 324 S., EUR 34,00, ISBN 978-3-374-07506-5.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mdki-2025-0009/html"/>
+    <id>https://doi.org/10.1515/mdki-2025-0009</id>
+    <updated>2025-05-04T22:09:36.085063+00:00</updated>
+    <summary>Article by Jonathan Reinert
+DOI: https://doi.org/10.1515/mdki-2025-0009</summary>
+  </entry>
+</feed>

@@ -1,34 +1,37 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Phonetica</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Phonetica</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phon-2024-frontmatter5/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phon-2024-frontmatter5/html</guid>
-      <description>Article by Xingtong Wang, Mengzhu Yan DOI: https://doi.org/10.1515/phon-2024-frontmatter5</description>
-    </item>
-    <item>
-      <title>The Mason-Alberta Phonetic Segmenter: a forced alignment system based on deep neural networks and interpolation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phon-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phon-2024-0015/html</guid>
-      <description>Article by Xingtong Wang, Mengzhu Yan DOI: https://doi.org/10.1515/phon-2024-0015</description>
-    </item>
-    <item>
-      <title>What R Mandarin Chinese /ɹ/s? – acoustic and articulatory features of Mandarin Chinese rhotics</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phon-2023-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phon-2023-0023/html</guid>
-      <description>Article by Xingtong Wang, Mengzhu Yan DOI: https://doi.org/10.1515/phon-2023-0023</description>
-    </item>
-    <item>
-      <title>Tracey M. Derwing, Murray J. Munro, Ron I. Thomson: The Routledge Handbook of Second Language Acquisition and Speaking</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/phon-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/phon-2024-0003/html</guid>
-      <description>Article by Xingtong Wang, Mengzhu Yan DOI: https://doi.org/10.1515/phon-2024-0003</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Phonetica</title>
+  <link href="https://www.degruyterbrill.com/journal/key/phon/82/2/html"/>
+  <updated>2025-05-04T22:11:04.730374+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Phonetica</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/phon-2025-frontmatter2</id>
+    <updated>2025-05-04T22:11:04.730412+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phon-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>On the salience of prenuclear accents: evidence from an imitation study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0026/html"/>
+    <id>https://doi.org/10.1515/phon-2024-0026</id>
+    <updated>2025-05-04T22:11:04.730421+00:00</updated>
+    <summary>Article by Suyeon Im, José Ignacio Hualde, Jennifer Cole
+DOI: https://doi.org/10.1515/phon-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>Probing syllabic affiliation of word-initial and word-medial consonant sequences in north-central Peninsular Spanish</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0004/html"/>
+    <id>https://doi.org/10.1515/phon-2024-0004</id>
+    <updated>2025-05-04T22:11:04.730431+00:00</updated>
+    <summary>Article by Karthik Durvasula, Silvina Bongiovanni
+DOI: https://doi.org/10.1515/phon-2024-0004</summary>
+  </entry>
+</feed>

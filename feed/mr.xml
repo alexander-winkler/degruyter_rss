@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Medical Review</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mr/5/2/html"/>
+  <updated>2025-05-04T22:10:02.659427+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Medical Review</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/mr-2025-frontmatter2</id>
+    <updated>2025-05-04T22:10:02.659467+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mr-2025-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Antimicrobial, remineralization, and infiltration: advanced strategies for interrupting dental caries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0035/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0035</id>
+    <updated>2025-05-04T22:10:02.659477+00:00</updated>
+    <summary>Article by Qingyi Yang, Fan Li, Yangyang Ye, Xu Zhang
+DOI: https://doi.org/10.1515/mr-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Emerging magic bullet: subcellular organelle-targeted cancer therapy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0044/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0044</id>
+    <updated>2025-05-04T22:10:02.659488+00:00</updated>
+    <summary>Article by Yue Yan, Yimeng Zhang, Jianxiong Liu, Binlong Chen, Yiguang Wang
+DOI: https://doi.org/10.1515/mr-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>Genetic advances in neurodevelopmental disorders</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0040/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0040</id>
+    <updated>2025-05-04T22:10:02.659497+00:00</updated>
+    <summary>Article by Shilin Gao, Chaoyi Shan, Rong Zhang, Tianyun Wang
+DOI: https://doi.org/10.1515/mr-2024-0040</summary>
+  </entry>
+  <entry>
+    <title>Biomedical applications of organoids in genetic diseases</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0077/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0077</id>
+    <updated>2025-05-04T22:10:02.659510+00:00</updated>
+    <summary>Article by Wenhua Huang, Seogsong Jeong, Won Kim, Lei Chen
+DOI: https://doi.org/10.1515/mr-2024-0077</summary>
+  </entry>
+  <entry>
+    <title>Prevalence of fragile X syndrome in South Asia, and importance of diagnosis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0060/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0060</id>
+    <updated>2025-05-04T22:10:02.659518+00:00</updated>
+    <summary>Article by Aminath Fazna, Randi Jenssen Hagerman
+DOI: https://doi.org/10.1515/mr-2024-0060</summary>
+  </entry>
+  <entry>
+    <title>Embracing a new era of echocardiography-guided percutaneous and non-fluoroscopical procedure for structure heart disease</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0101/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0101</id>
+    <updated>2025-05-04T22:10:02.659527+00:00</updated>
+    <summary>Article by Jie Dong, Zeye Liu, Jing Dong, Fang Fang, Fengwen Zhang, Xiangbin Pan
+DOI: https://doi.org/10.1515/mr-2024-0101</summary>
+  </entry>
+  <entry>
+    <title>When biomarkers for major depressive disorder remain elusive</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mr-2024-0082/html"/>
+    <id>https://doi.org/10.1515/mr-2024-0082</id>
+    <updated>2025-05-04T22:10:02.659535+00:00</updated>
+    <summary>Article by Yao Xiao, Fei Wang, Xizhe Zhang
+DOI: https://doi.org/10.1515/mr-2024-0082</summary>
+  </entry>
+</feed>

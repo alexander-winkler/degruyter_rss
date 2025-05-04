@@ -1,58 +1,77 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Chinese as a Second Language Research</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Chinese as a Second Language Research</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/caslar.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-frontmatter2/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>Could L1 intonation patterns be applied in teaching Mandarin tones to atonal learners of Chinese? – An acoustic phonetic study</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2001/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2001</description>
-    </item>
-    <item>
-      <title>Sememe richness: a supplementary indicator of lexical richness in Chinese second-language writing</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2002/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2002</description>
-    </item>
-    <item>
-      <title>Multimodal reading in reading-only versus reading-while-listening modes: evidence from Chinese language learners</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2003/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2003</description>
-    </item>
-    <item>
-      <title>日籍華語學習者於「送」雙及物構式的使用</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2004/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2004</description>
-    </item>
-    <item>
-      <title>聚焦教學對華語「知道類」近義詞學習之效應</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2005/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2005</description>
-    </item>
-    <item>
-      <title>从语言交际性原则到语言交通性原则——关于国际中文教育总体性原则的哲学思考</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2006/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2006</description>
-    </item>
-    <item>
-      <title>多元文化交互语境下汉语二语语块的创造性特征及认知机制</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/caslar-2024-2007/html</guid>
-      <description>Article by Pang Yang, Gao Jing DOI: https://doi.org/10.1515/caslar-2024-2007</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chinese as a Second Language Research</title>
+  <link href="https://www.degruyterbrill.com/journal/key/caslar/13/2/html"/>
+  <updated>2025-05-04T22:03:36.820087+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/caslar.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Chinese as a Second Language Research</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/caslar.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-frontmatter2</id>
+    <updated>2025-05-04T22:03:36.820121+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/caslar-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Could L1 intonation patterns be applied in teaching Mandarin tones to atonal learners of Chinese? – An acoustic phonetic study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2001/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2001</id>
+    <updated>2025-05-04T22:03:36.820135+00:00</updated>
+    <summary>Article by Kornélia Juhász, Huba Bartos
+DOI: https://doi.org/10.1515/caslar-2024-2001</summary>
+  </entry>
+  <entry>
+    <title>Sememe richness: a supplementary indicator of lexical richness in Chinese second-language writing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2002/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2002</id>
+    <updated>2025-05-04T22:03:36.820147+00:00</updated>
+    <summary>Article by Ming Zhao
+DOI: https://doi.org/10.1515/caslar-2024-2002</summary>
+  </entry>
+  <entry>
+    <title>Multimodal reading in reading-only versus reading-while-listening modes: evidence from Chinese language learners</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2003/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2003</id>
+    <updated>2025-05-04T22:03:36.820157+00:00</updated>
+    <summary>Article by Peng Zhang, Yue Peng
+DOI: https://doi.org/10.1515/caslar-2024-2003</summary>
+  </entry>
+  <entry>
+    <title>日籍華語學習者於「送」雙及物構式的使用</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2004/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2004</id>
+    <updated>2025-05-04T22:03:36.820166+00:00</updated>
+    <summary>Article by 韻涵王 Wang, 宣妘林 Lin, 惠貞 蕭
+DOI: https://doi.org/10.1515/caslar-2024-2004</summary>
+  </entry>
+  <entry>
+    <title>聚焦教學對華語「知道類」近義詞學習之效應</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2005/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2005</id>
+    <updated>2025-05-04T22:03:36.820176+00:00</updated>
+    <summary>Article by Pin-hua Wu, Chun-yin Doris Chen, Huei-ling Lai
+DOI: https://doi.org/10.1515/caslar-2024-2005</summary>
+  </entry>
+  <entry>
+    <title>从语言交际性原则到语言交通性原则——关于国际中文教育总体性原则的哲学思考</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2006/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2006</id>
+    <updated>2025-05-04T22:03:36.820187+00:00</updated>
+    <summary>Article by Weimin Xu, Jian Wu, Juneon Ryu
+DOI: https://doi.org/10.1515/caslar-2024-2006</summary>
+  </entry>
+  <entry>
+    <title>多元文化交互语境下汉语二语语块的创造性特征及认知机制</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/caslar-2024-2007/html"/>
+    <id>https://doi.org/10.1515/caslar-2024-2007</id>
+    <updated>2025-05-04T22:03:36.820195+00:00</updated>
+    <summary>Article by Pang Yang, Gao Jing
+DOI: https://doi.org/10.1515/caslar-2024-2007</summary>
+  </entry>
+</feed>

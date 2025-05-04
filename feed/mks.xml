@@ -1,46 +1,76 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Monatsschrift für Kriminologie und Strafrechtsreform</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Monatsschrift für Kriminologie und Strafrechtsreform</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mks.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-frontmatter4/html</guid>
-      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Die Verbreitung antisemitischer Ressentiments unter Jugendlichen und Heranwachsenden in Deutschland: Zusammenhänge mit Migration und Religion</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0022/html</guid>
-      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0022</description>
-    </item>
-    <item>
-      <title>Inwiefern beeinflussen die Vorbeziehung und das Geschlecht von Täterin/Täter und Opfer die Beurteilung der Notwendigkeit rechtlicher und polizeilicher Maßnahmen bei Stalking? Eine experimentelle Studie an (angehenden) Polizeibeamtinnen/-beamten und Juristinnen/Juristen</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0019/html</guid>
-      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0019</description>
-    </item>
-    <item>
-      <title>Abweichendes Verhalten und Kriminalisierung im Kontext der Klimabewegung. Ein systematischer Literaturüberblick</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0015/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0015/html</guid>
-      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0015</description>
-    </item>
-    <item>
-      <title>Polizei: Vertrauen ist gut, Kontrolle auch</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0021/html</guid>
-      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0021</description>
-    </item>
-    <item>
-      <title>59. Kolloquium der Südwestdeutschen und Schweizerischen Kriminologischen Institute und Lehrstühle – Tagungsbericht</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mks-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mks-2024-0026/html</guid>
-      <description>Article by Hauke Brettel, Marisa Weinand, Christian Steffan, Christoph Schallert, Yannick Ramm, Marc Tries, Barbara Horten DOI: https://doi.org/10.1515/mks-2024-0026</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Monatsschrift für Kriminologie und Strafrechtsreform</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mks/108/1/html"/>
+  <updated>2025-05-04T22:09:52.930021+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mks.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Monatsschrift für Kriminologie und Strafrechtsreform</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mks.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/mks-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:52.930069+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mks-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Von Vorbereitungen für Stromausfälle bis zu extrem rechten Umsturzfantasien: Eine Analyse prepping-bezogener Gruppen und Kanäle auf Telegram</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2024-0009/html"/>
+    <id>https://doi.org/10.1515/mks-2024-0009</id>
+    <updated>2025-05-04T22:09:52.930080+00:00</updated>
+    <summary>Article by Pia Müller, Stefan Harrendorf
+DOI: https://doi.org/10.1515/mks-2024-0009</summary>
+  </entry>
+  <entry>
+    <title>Resozialisierung, Suchtmittelfreiheit und Legalbewährung nach einer Unterbringung gem. § 64 StGB – Ein mehrdimensionaler und kontrollierter Vergleich der Entlassgruppen Bewährung und Erledigung wegen Aussichtslosigkeit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2024-0029/html"/>
+    <id>https://doi.org/10.1515/mks-2024-0029</id>
+    <updated>2025-05-04T22:09:52.930107+00:00</updated>
+    <summary>Article by Jan Querengässer, Adelheid Bezzel, Christian Schlögl
+DOI: https://doi.org/10.1515/mks-2024-0029</summary>
+  </entry>
+  <entry>
+    <title>Das Soziale Anstaltsklima aus Sicht von Menschen in Ersatzfreiheitsstrafen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2024-0023/html"/>
+    <id>https://doi.org/10.1515/mks-2024-0023</id>
+    <updated>2025-05-04T22:09:52.930116+00:00</updated>
+    <summary>Article by Nicole Bögelein, Theresa Martinez Dreyer
+DOI: https://doi.org/10.1515/mks-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>A Drop in Crime and in Fear</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2025-0005/html"/>
+    <id>https://doi.org/10.1515/mks-2025-0005</id>
+    <updated>2025-05-04T22:09:52.930129+00:00</updated>
+    <summary>Article by Klaus Boers
+DOI: https://doi.org/10.1515/mks-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Wagner, Deliah, Führer, Jennifer Laura &amp; Asbrock, Frank, Von Kriminalitätsfurcht zu Feindseligkeit. Dynamiken der Kriminalitätswahrnehmung im politischen Kontext. Nomos Verlag, Baden-Baden 2024. 190 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2025-0001/html"/>
+    <id>https://doi.org/10.1515/mks-2025-0001</id>
+    <updated>2025-05-04T22:09:52.930139+00:00</updated>
+    <summary>Article by Helmut Hirtenlehner
+DOI: https://doi.org/10.1515/mks-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>David P. Farrington: Obituary for a giant in criminology and a wonderful man</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2025-0009/html"/>
+    <id>https://doi.org/10.1515/mks-2025-0009</id>
+    <updated>2025-05-04T22:09:52.930147+00:00</updated>
+    <summary>Article by Friedrich Lösel
+DOI: https://doi.org/10.1515/mks-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Reviewer 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mks-2025-0007/html"/>
+    <id>https://doi.org/10.1515/mks-2025-0007</id>
+    <updated>2025-05-04T22:09:52.930158+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mks-2025-0007</summary>
+  </entry>
+</feed>

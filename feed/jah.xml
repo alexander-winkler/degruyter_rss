@@ -1,52 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal of Ancient History</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal of Ancient History</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jah.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2024-frontmatter1/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Xenophon’s Memorabilia and Greek historiography. A comparative approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2021-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2021-0023/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2021-0023</description>
-    </item>
-    <item>
-      <title>The Dardanians and the Origin of the So-Called “Macedonian Phalanx”</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0006/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0006</description>
-    </item>
-    <item>
-      <title>Cato as Disruptor: Republican ideology and the frustrated imperatores of the 60 s and 50 s BCE</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0008/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0008</description>
-    </item>
-    <item>
-      <title>Augustus, Aediles and Censors in the Troubled Year of 22 BCE</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0001/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0001</description>
-    </item>
-    <item>
-      <title>Novae erogationis ordinatio: Frontinus, Domitian, Nerva, and the Aqua Traiana</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2023-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2023-0025/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2023-0025</description>
-    </item>
-    <item>
-      <title>Aspar and Apollonius–religion and politics in choosing the eastern consul for 460 CE</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/jah-2022-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/jah-2022-0022/html</guid>
-      <description>Article by Ronald A. Bleeker DOI: https://doi.org/10.1515/jah-2022-0022</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal of Ancient History</title>
+  <link href="https://www.degruyterbrill.com/journal/key/jah/12/2/html"/>
+  <updated>2025-05-04T22:07:16.153483+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jah.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal of Ancient History</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jah.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Social Biographies of the Ancient World. Studying Ahatabu, Jonathan, and Babatha through a Bourdieusian Approach: Towards a New HistoriographicalHabitus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0017/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0017</id>
+    <updated>2025-05-04T22:07:16.153508+00:00</updated>
+    <summary>Article by Jason M. Silverman, Alex Aissaoui, Rotem Avneri Meir, Jutta Jokiranta, Nina Nikki, Adrianne Spunaugle, Joanna Töyräänvuori, Caroline Wallis, Melanie Wasmuth
+DOI: https://doi.org/10.1515/jah-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Ancient Near Eastern Field Theory: Adapting Bourdieu for Social Biographies of the Ancient World</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0022/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0022</id>
+    <updated>2025-05-04T22:07:16.153522+00:00</updated>
+    <summary>Article by Adrianne Spunaugle
+DOI: https://doi.org/10.1515/jah-2024-0022</summary>
+  </entry>
+  <entry>
+    <title>Ahatabu and her Stela (ÄM 7707): FuneraryHabitusin Achaemenid Egypt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0018/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0018</id>
+    <updated>2025-05-04T22:07:16.153530+00:00</updated>
+    <summary>Article by Jason M. Silverman, Joanna Töyräänvuori, Melanie Wasmuth
+DOI: https://doi.org/10.1515/jah-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>Functional Differentiation in 1 Maccabees: Exploring Second Century BCE Judean Society Through the Character of Jonathan Apphus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0023/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0023</id>
+    <updated>2025-05-04T22:07:16.153538+00:00</updated>
+    <summary>Article by Rotem Avneri Meir, Jutta Jokiranta, Adrianne Spunaugle
+DOI: https://doi.org/10.1515/jah-2024-0023</summary>
+  </entry>
+  <entry>
+    <title>Falling Out with the In-Laws. Understanding the Babatha Archive with Pierre Bourdieu’s Field Theory and Theory of Practice.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0025/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0025</id>
+    <updated>2025-05-04T22:07:16.153546+00:00</updated>
+    <summary>Article by Caroline Wallis, Alex Aissaoui, Nina Nikki
+DOI: https://doi.org/10.1515/jah-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Ancient Individuals and Bourdieu in Context: A Historical Anthropological Response</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0019/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0019</id>
+    <updated>2025-05-04T22:07:16.153553+00:00</updated>
+    <summary>Article by Emanuel Pfoh
+DOI: https://doi.org/10.1515/jah-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>A Sociological Response: Challenging the Modernity-centrism of Pierre Bourdieu’s Field Approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0020/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0020</id>
+    <updated>2025-05-04T22:07:16.153561+00:00</updated>
+    <summary>Article by Olga Zeveleva
+DOI: https://doi.org/10.1515/jah-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>A Levantine Archaeological Response: Thinking with Bourdieu though Limited Data and Explicit Assumptions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-0021/html"/>
+    <id>https://doi.org/10.1515/jah-2024-0021</id>
+    <updated>2025-05-04T22:07:16.153568+00:00</updated>
+    <summary>Article by Helen Dixon
+DOI: https://doi.org/10.1515/jah-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jah-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jah-2024-frontmatter2</id>
+    <updated>2025-05-04T22:07:16.153575+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jah-2024-frontmatter2</summary>
+  </entry>
+</feed>

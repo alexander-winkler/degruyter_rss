@@ -1,160 +1,213 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Orientalistische Literaturzeitung</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Orientalistische Literaturzeitung</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/olzg.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-frontmatter2/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>The Jain Fast to Death: Exploring Some Legal, Medical, and Philosophical Perspectives</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0020/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0020/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0020</description>
-    </item>
-    <item>
-      <title>Levinson, Bernard / Erickson, Robert P. (Hg.): The Betrayal of the Humanities. The University during the Third Reich. Bloomington: Indiana University Press 2022. $ 40.00. ISBN 978-0-233-06979-2.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0021/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0021/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0021</description>
-    </item>
-    <item>
-      <title>Bricault, Laurent / Stadler, Martin Andreas (Hg.): Hymnen und Aretalogien im antiken Mittelmeerraum. Von Inana bis Isis. Wiesbaden: Harrassowitz 2021 (= Philippika 154). € 89,00. ISBN 978-3-447-11686-2.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0022/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0022</description>
-    </item>
-    <item>
-      <title>Dominicus, Brigitte / Jaritz, Horst: Merenptah VI. Kleinfunde, Ostraka und Tierknochen aus den Grabungen von 1972–2000. Mit Beiträgen von Monika Doll, Andreas Dorn und Matthias Müller. Gladbeck: PeWe 2023 (= Beiträge zur Ägyptischen Bauforschung und Altertumskunde 25). € 85,00. ISBN 9783935012591.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0023/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0023/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0023</description>
-    </item>
-    <item>
-      <title>Leitz, Christian: Hieroglyphica latopolitana. Eine Studie zu mehrdeutigen Schreibungen in Esna. Esna-Studien III. Wiesbaden: Harrassowitz 2023 (= Studien zur spätägyptischen Religion 39). € 68,00. ISBN 978-3-447-12040-1.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0024/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0024</description>
-    </item>
-    <item>
-      <title>Sövegjártó, Szilvia: Sumerische Glossenhandschriften als Quellen des altbabylonischen hermeneutischen Denkens. Münster: Zaphon 2020 (= dubsar 18). € 98,00. ISBN 978-3-96327-104-5.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0025/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0025</description>
-    </item>
-    <item>
-      <title>Müller, Achim: Theologische Bibelkunde. Leipzig: Evangelische Verlagsanstalt 2022 (= Einführung ins Alte Testament 2). € 28,00. ISBN: 978-3-374-06640-7.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0026/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0026</description>
-    </item>
-    <item>
-      <title>Wigand, Ann-Kristin: Achikar in Elephantine. Die aramäische Achikarkomposition im Kontext des perserzeitlichen Elephantine. Tübingen: Mohr Siebeck 2022 (= Orientalische Religionen in der Antike 50). € 119,00. ISBN: 978-3-16-161021-9.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0027/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0027</description>
-    </item>
-    <item>
-      <title>Krisel, William: Judges 19–21 and the “Othering” of Benjamin. A Golah Polemic against the Autochthonous Inhabitants of the Land? Leiden u. a.: Brill 2022 (= Oudtestamentische Studiën 81). € 147,66. ISBN 978-90-04-49934-8.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0028/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0028</description>
-    </item>
-    <item>
-      <title>Nünlist, Tobias: Schutz und Andacht im Islam. Dokumente in Rollenform aus dem 14.–19. Jahrhundert. Leiden / Boston: Brill 2022 (= Islamic History and Civilization 175). € 243,00. ISBN 978-90-04-42915-4.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0029/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0029/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0029</description>
-    </item>
-    <item>
-      <title>Kahl, Oliver / Cockrell, Henrietta Sharp: The Book of the Crown (Kitāb al-Iklīl) of Pseudo-Rhazes. A Facsimile Edition and Annotated English Translation. Leiden/Boston: Brill 2023 (= Islamic Philosophy, Theology and Science 123). € 116,63. ISBN 978-90-04-54402-4.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0030/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0030</description>
-    </item>
-    <item>
-      <title>Grigoryan, Sona: Neither Belief nor Unbelief. Intentional Ambivalence in al-Maʿarrī’s Luzūm. Berlin / Boston: De Gruyter 2023 (= Studies in the History and Culture of the Middle East 45). € 114,95. ISBN 978-3-11-077253-1.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0031/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0031/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0031</description>
-    </item>
-    <item>
-      <title>Ingenito, Domenico: Beholding Beauty. Saʿdi of Shiraz and the Aesthetics of Desire in Medieval Persian Poetry. Leiden/Boston: Brill 2021 (= Brill Studies in Middle Eastern Literatures 41). € 110,00. ISBN 978-90-04-43589-6.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0032/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0032</description>
-    </item>
-    <item>
-      <title>Galtung, Johan / Næss, Arne: Gandhis politische Ethik. Die Begründung der Satyagraha-Normen erstmals in deutscher Übersetzung. Herausgegeben von Reiner Steinweg. Übersetzt von Christine von Bülow, Christian Bartolf und Xaver Remsing. Baden-Baden: Nomos 2019 (= Religion – Konflikt – Frieden 10). € 34,00. ISBN 978-3-8487-6050-3.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0033/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0033</description>
-    </item>
-    <item>
-      <title>Balogh, Dániel (Hg.): Hunnic Peoples in Central and South Asia. Sources for their Origin and History. Groningen: Barkhuis 2020. € 103,55. ISBN 978-9493194014.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0034/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0034</description>
-    </item>
-    <item>
-      <title>Schuster-Löhlau, Pauline: ʻLeaving the Country, I Shall Be Freeʼ. The South Indian Siri Tradition as a Source of Identity. Wiesbaden: Harrassowitz 2020 (= Neuindische Studien 19). € 54,00. ISBN 978-3-447-11372-4.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0035/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0035</description>
-    </item>
-    <item>
-      <title>Salmi, Olli: Dungan-English Dictionary. Хуэйзў-Англия хуадян. Manchester: Eastbridge Books / Camphor Press Ltd 2018. $ 44,99. ISBN 978-1-78869-154-3.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0036/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0036</description>
-    </item>
-    <item>
-      <title>Yin, Kenneth J.: Dungan Folktales and Legends. New York / Bern / Berlin / Bruxelles / Oxford / Wien: Peter Lang 2021. CHF 117.50. ISBN 978-1-4331-8761-2.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0037/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0037</description>
-    </item>
-    <item>
-      <title>Monumenta Serica. Journal of Oriental 55 (2007). € ?. ISSN 0254-9948.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0038/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0038/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0038</description>
-    </item>
-    <item>
-      <title>Monumenta Serica. Journal of Oriental Studies 58 (2010). € ?. ISSN 02549948.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0039/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0039</description>
-    </item>
-    <item>
-      <title>Monumenta Serica. Journal of Oriental Studies 63 (2015). € ?. ISSN 02549948.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0040/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0040/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0040</description>
-    </item>
-    <item>
-      <title>Monumenta Serica. Journal of Oriental Studies 65 (2017). € ?. ISSN 02549948.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0041/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0041/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0041</description>
-    </item>
-    <item>
-      <title>Monumenta Serica. Journal of Oriental Studies 66 (2018). € ?. ISSN 02549948.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0042/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0042</description>
-    </item>
-    <item>
-      <title>Journal of Ancient Near Eastern History 10 (2023)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/olzg-2024-0043/html</guid>
-      <description>Article by Reettakaisa Sofia Salo DOI: https://doi.org/10.1515/olzg-2024-0043</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Orientalistische Literaturzeitung</title>
+  <link href="https://www.degruyterbrill.com/journal/key/olzg/119/3/html"/>
+  <updated>2025-05-04T22:10:37.283771+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/olzg.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Orientalistische Literaturzeitung</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/olzg.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-frontmatter3</id>
+    <updated>2025-05-04T22:10:37.283794+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/olzg-2024-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Kreide-Damani, Ingrid / Imeri, Sabine / Noack, Karoline / Scholze-Irrlitz, Leonore (Hg.):Ethnologie als Ethnographie.Interdisziplinarität, Transnationalität und Netzwerke der Disziplin in der DDR. Münster: Waxmann 2024. € 49,90. ISBN 978-3-8309-4820-9.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0044/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0044</id>
+    <updated>2025-05-04T22:10:37.283804+00:00</updated>
+    <summary>Article by Peter Heine
+DOI: https://doi.org/10.1515/olzg-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>De Putter, Thierry / Christina Karlshausen:Pierres de l’Égypte ancienne. Guide des matériaux de l’architecture, de la sculpture et de la joaillerie.Brüssel: Éditions Safran 2022 (= Connaissance de l‘Égypte ancienne 20). € 85,00. ISBN 978-2-87457-133-6.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0045/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0045</id>
+    <updated>2025-05-04T22:10:37.283813+00:00</updated>
+    <summary>Article by Stefan Baumann
+DOI: https://doi.org/10.1515/olzg-2024-0045</summary>
+  </entry>
+  <entry>
+    <title>Pries, Andreas Henning:Traditio obligat – Variatio delectat.Zur Überlieferungsdynamik altägyptischer Traditionsliteratur. Wiesbaden: Harrassowitz 2023 (= Ägyptologische Abhandlungen 83). € 148,00. ISBN 978-3-447-11887-3.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0046/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0046</id>
+    <updated>2025-05-04T22:10:37.283820+00:00</updated>
+    <summary>Article by Karl Jansen-Winkeln
+DOI: https://doi.org/10.1515/olzg-2024-0046</summary>
+  </entry>
+  <entry>
+    <title>Karlsson, Mattias:From the Nile to the Tigris. African Individuals and Groups in Texts from the Neo-Assyrian Empire. University Park, PA: Penn State University Press 2022 (= State Archives of Assyria. Studies 31). $ 49.95. ISBN 978-952-10-9510-8.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0047/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0047</id>
+    <updated>2025-05-04T22:10:37.283826+00:00</updated>
+    <summary>Article by Joachim Friedrich Quack
+DOI: https://doi.org/10.1515/olzg-2024-0047</summary>
+  </entry>
+  <entry>
+    <title>Blömer, Michael / Winter, Engelbert (Hg.):Exploring Urbanism in Ancient North Syria.Fieldwork in Doliche 2015–2020. Boston / Berlin: De Gruyter 2023 (= Doliche Urban Excavations 1). € 129,95. ISBN 978-3-11-074405-7.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0048/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0048</id>
+    <updated>2025-05-04T22:10:37.283833+00:00</updated>
+    <summary>Article by Elisabeth Katzy
+DOI: https://doi.org/10.1515/olzg-2024-0048</summary>
+  </entry>
+  <entry>
+    <title>Cancik-Kirschbaum, Eva / Gertzen, Thomas L. (Hg.):Der Babel-Bibel-Streit und die Wissenschaft des Judentums. Beiträge einer internationalen Konferenz vom 4. bis 6. November 2019 in Berlin. Münster: Zaphon 2021 (= Investigatio Orientis 6). € 58,00. ISBN 978-3-96327-098-7.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0049/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0049</id>
+    <updated>2025-05-04T22:10:37.283839+00:00</updated>
+    <summary>Article by Reettakaisa Sofia Salo
+DOI: https://doi.org/10.1515/olzg-2024-0049</summary>
+  </entry>
+  <entry>
+    <title>Adams, Matthew J. / Roux, Valentine (Hg.):Transitions during the Early Bronze Age in the Levant: Methodological Problems and Interpretative Perspectives. Münster: Zaphon 2022 (= Ägypten und Altes Testament 109). € 89,00. ISBN 978-3-96327-159-5.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0050/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0050</id>
+    <updated>2025-05-04T22:10:37.283845+00:00</updated>
+    <summary>Article by Bernd Müller-Neuhof
+DOI: https://doi.org/10.1515/olzg-2024-0050</summary>
+  </entry>
+  <entry>
+    <title>Hensel, Benediktin collaboration withJordan, Davies(Hg.):Transjordan and the Southern Levant.New Approaches Regarding the Iron Age and the Persian Period from Hebrew Bible Studies and Archaeology. Tübingen: Mohr Siebeck 2024 (= Archaeology and Bible 8). € 109,00. ISBN 978-3-16-163451-2.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0051/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0051</id>
+    <updated>2025-05-04T22:10:37.283852+00:00</updated>
+    <summary>Article by Eckart Otto
+DOI: https://doi.org/10.1515/olzg-2024-0051</summary>
+  </entry>
+  <entry>
+    <title>Castagna, Giuliano / Edzard, Lutz (Hg.):South Arabia: Old Issues, New Perspectives. Proceedings of the Workshop at the University of Erlangen-Nürnberg on December 19, 2019. Wiesbaden: Harrassowitz 2022 (= Abhandlungen für die Kunde des Morgenlandes 129). € 38,00. ISBN 978-3-447-11956-6.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0052/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0052</id>
+    <updated>2025-05-04T22:10:37.283859+00:00</updated>
+    <summary>Article by Vera Tsukanova
+DOI: https://doi.org/10.1515/olzg-2024-0052</summary>
+  </entry>
+  <entry>
+    <title>Sjörs, Ambjörn:Motion, Voice, and Mood in the Semitic Verb. University Park, PA: Penn State University Press 2023 (= Languages of the Ancient Near East 12). $ 99.95. ISBN 978-1-64602-226-7.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0053/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0053</id>
+    <updated>2025-05-04T22:10:37.283866+00:00</updated>
+    <summary>Article by Nikita Kuzin
+DOI: https://doi.org/10.1515/olzg-2024-0053</summary>
+  </entry>
+  <entry>
+    <title>Sartori, Manuel / Attia, Élodie (Hg.):Études Sémitiques. Mélanges rassemblés à la mémoire de Philippe Cassuto. Aix-en-Provence: Presses Universitaires de Provence 2023 (= Héritages méditerranéens). € 28,79. ISBN 979-1032004647.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0054/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0054</id>
+    <updated>2025-05-04T22:10:37.283873+00:00</updated>
+    <summary>Article by Anna Busa
+DOI: https://doi.org/10.1515/olzg-2024-0054</summary>
+  </entry>
+  <entry>
+    <title>Werner, Christoph U. / Szuppe, Maria / Michel, Nicolas / Fuess, Albrecht (Hg.):Families, Authority, and the Transmission of Knowledge in the Early Modern Middle East.Turnhout: Brepols 2022 (= Miroir de l’orient musulman 10). € 69,00. ISBN 978-2-503-59289-3.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0055/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0055</id>
+    <updated>2025-05-04T22:10:37.283880+00:00</updated>
+    <summary>Article by Henning Sievert
+DOI: https://doi.org/10.1515/olzg-2024-0055</summary>
+  </entry>
+  <entry>
+    <title>Symank, Katja:Warum Islamwissenschaft? Studiengründe, Berufsziele und Einstellungen von Studierenden des Faches in Deutschland. Baden-Baden: Tectum 2024 (= Young Academics: Der Nahe Osten in der Weltgesellschaft 2). € 49,00. ISBN 978-3-8288-4975-4.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0056/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0056</id>
+    <updated>2025-05-04T22:10:37.283886+00:00</updated>
+    <summary>Article by Abbas Poya
+DOI: https://doi.org/10.1515/olzg-2024-0056</summary>
+  </entry>
+  <entry>
+    <title>Strootman, Rolf / Versluys, Miguel John (Hg.):Persianism in Antiquity.Stuttgart: Franz Steiner 2017 (= Oriens et Occidens 25). € 84,00. ISBN 978-3-515-11382.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0057/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0057</id>
+    <updated>2025-05-04T22:10:37.283893+00:00</updated>
+    <summary>Article by Wolfgang Messerschmidt
+DOI: https://doi.org/10.1515/olzg-2024-0057</summary>
+  </entry>
+  <entry>
+    <title>Casari, Mario:Šeš ṭaraf-e donyā. « Les six côtés du monde ». Anthropologie de la narration dans la littérature persane classique. Paris: Association pour l’avancement des Études Iraniennes 2023 (= Cahiers de Studia Iranica 65). € 80,00. ISBN 978-2-910640-51-4.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0058/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0058</id>
+    <updated>2025-05-04T22:10:37.283899+00:00</updated>
+    <summary>Article by Christoph U. Werner
+DOI: https://doi.org/10.1515/olzg-2024-0058</summary>
+  </entry>
+  <entry>
+    <title>Pischel, Richard:Kleine Schriften.Herausgegeben von Nalini Balbir und Georges-Jean Pinault. 2 Bände. Wiesbaden: Harrassowitz 2020 (= Veröffentlichungen der Helmuth von Glasenapp-Stiftung 48). € 198,00. ISBN 978-3-447-11445-5.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0059/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0059</id>
+    <updated>2025-05-04T22:10:37.283911+00:00</updated>
+    <summary>Article by Klaus Karttunen
+DOI: https://doi.org/10.1515/olzg-2024-0059</summary>
+  </entry>
+  <entry>
+    <title>Knudsen, Toke Lindegaard / Schmidt-Madsen, Jacob / Speyer, Sara (Hg.):Body and Cosmos. Studies in Early Indian Medical and Astral Sciences in Honor of Kenneth G. Zysk. Leiden/Boston: Brill 2020 (= Sir Henry Wellcome Asian Series 20). € 148,73. ISBN 978-90-04-43669-5.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0060/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0060</id>
+    <updated>2025-05-04T22:10:37.283918+00:00</updated>
+    <summary>Article by Rahul Peter Das
+DOI: https://doi.org/10.1515/olzg-2024-0060</summary>
+  </entry>
+  <entry>
+    <title>Goodall, Dominic / Hatley, Shaman / Isaacson, Harunaga / Raman, Srilata (Hg.):Śaivism and the Tantric Traditions. Essays in Honour of Alexis G. J. S. Sanderson. Leiden/Boston: Brill 2020 (= Gonda Indological Studies 22). € 121,00. ISBN 978-90-04-43266-6.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0061/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0061</id>
+    <updated>2025-05-04T22:10:37.283924+00:00</updated>
+    <summary>Article by Gavin Flood
+DOI: https://doi.org/10.1515/olzg-2024-0061</summary>
+  </entry>
+  <entry>
+    <title>Steinkellner, Ernst:Dharmakīrti’sSambandhaparīkṣāandDevendrabuddhi’sSambandhaparīkṣāvṛtti. Beijing: China Tibetology Publishing House / Wien: Austrian Academy of Sciences Press 2022 (= Sanskrit Texts from the Tibetan Autonomous Region 23). € 40,00. ISBN: 978-3-7001-8840-7.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0062/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0062</id>
+    <updated>2025-05-04T22:10:37.283930+00:00</updated>
+    <summary>Article by Stanisław Jan Kania
+DOI: https://doi.org/10.1515/olzg-2024-0062</summary>
+  </entry>
+  <entry>
+    <title>Lasic, Horst / Li, Xuezhu / MacDonald, Anne:Candrakīrti’s Madhyamakāvatārabhāṣya. Chapters 1 to 5. Critically and Diplomatically Edited on the Basis of Preparatory Work by Helmut Krasser †.Beijing: China Tibetology Publishing House / Wien: Austrian Academy of Sciences Press 2022 (= Sanskrit Texts from the Tibetan Autonomous Region 22). EUR 59,00. ISBN 978-3-7001-8700-4.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0063/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0063</id>
+    <updated>2025-05-04T22:10:37.283938+00:00</updated>
+    <summary>Article by Stanisław Jan Kania
+DOI: https://doi.org/10.1515/olzg-2024-0063</summary>
+  </entry>
+  <entry>
+    <title>Delbrück, Berthold:Altindische Syntax. Korrigierter und um einen Stellenindex zum Rigveda erweiterter Neusatzvon Andreas Pohlus. Halle an der Saale: Universitätsverlag Halle-Wittenberg 2023 (= Studia Indologica Universitatis Halensis 25). € 138,00. ISBN 9783869772578.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0064/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0064</id>
+    <updated>2025-05-04T22:10:37.283944+00:00</updated>
+    <summary>Article by Rahul Peter Das
+DOI: https://doi.org/10.1515/olzg-2024-0064</summary>
+  </entry>
+  <entry>
+    <title>Gimm, Martin:Kleine Schriften.Zur Geschichte und Kultur der Qing-Dynastie. Wiesbaden: Harrassowitz 2023 (= Sinologica Coloniensia 38). € 68,00. ISBN 978-3-447-11985-6.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0065/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0065</id>
+    <updated>2025-05-04T22:10:37.283950+00:00</updated>
+    <summary>Article by Anne Schmiedl
+DOI: https://doi.org/10.1515/olzg-2024-0065</summary>
+  </entry>
+  <entry>
+    <title>Landa, Ishayahu:Marriage and Power in Mongol Eurasia.A History of the Chinggisid Sons-in-law. Wiesbaden: Harrassowitz 2023 (= Asiatische Forschungen 161). € 89,00. ISBN 978-3-447-12052-4.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0066/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0066</id>
+    <updated>2025-05-04T22:10:37.283956+00:00</updated>
+    <summary>Article by Timothy May
+DOI: https://doi.org/10.1515/olzg-2024-0066</summary>
+  </entry>
+  <entry>
+    <title>Zeitschrift der Deutschen Morgenländischen Gesellschaft168 (2018)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/olzg-2024-0067/html"/>
+    <id>https://doi.org/10.1515/olzg-2024-0067</id>
+    <updated>2025-05-04T22:10:37.283962+00:00</updated>
+    <summary>Article by Ludger Hiepel
+DOI: https://doi.org/10.1515/olzg-2024-0067</summary>
+  </entry>
+</feed>

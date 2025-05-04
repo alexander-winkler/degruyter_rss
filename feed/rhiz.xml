@@ -1,58 +1,61 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Rhizomata</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Rhizomata</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhiz.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelseiten</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-frontmatter1/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Anaximander on basic substances and the desiccation of the sea</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0001/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0001</description>
-    </item>
-    <item>
-      <title>Commensuration and Currency in Plato’s Phaedo</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0002/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0002</description>
-    </item>
-    <item>
-      <title>Plato on the Power of Dialectic and the Necessity of Forms</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0003/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0003</description>
-    </item>
-    <item>
-      <title>The Distinction between Chance and Fortune. Arist. Phys. II.6</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0004/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0004</description>
-    </item>
-    <item>
-      <title>On the So-called Focal Analysis of Friendship in Eudemian Ethics VII.2</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0005/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0005</description>
-    </item>
-    <item>
-      <title>Plínio Junqueira Smith, Sextus Empiricus’ Neo-Pyrrhonism: Skepticism as a Rationally Ordered Experience. Cham: Springer, 2022, xvi + 372 pp.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0007/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0007</description>
-    </item>
-    <item>
-      <title>Andrea Nightingale, Philosophy and Religion in Plato’s Dialogues. Cambridge University Press, Cambridge 2021. xii + 296 pp, ISBN 978-1108837309, US $ 39.99.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/rhiz-2024-0008/html</guid>
-      <description>Article by Robert Mayhew DOI: https://doi.org/10.1515/rhiz-2024-0008</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Rhizomata</title>
+  <link href="https://www.degruyterbrill.com/journal/key/rhiz/12/2/html"/>
+  <updated>2025-05-04T22:11:54.407655+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhiz.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Rhizomata</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rhiz.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelseiten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhiz-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/rhiz-2024-frontmatter2</id>
+    <updated>2025-05-04T22:11:54.407696+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rhiz-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Persuasion of the Laws in Plato’sCrito: When Does It Happen?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhiz-2024-0014/html"/>
+    <id>https://doi.org/10.1515/rhiz-2024-0014</id>
+    <updated>2025-05-04T22:11:54.407708+00:00</updated>
+    <summary>Article by Jakub Jirsa
+DOI: https://doi.org/10.1515/rhiz-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>The Descent of Reason: Reading Plato’s Cave as Psychic Drama</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhiz-2024-0013/html"/>
+    <id>https://doi.org/10.1515/rhiz-2024-0013</id>
+    <updated>2025-05-04T22:11:54.407721+00:00</updated>
+    <summary>Article by Ryan M. Brown
+DOI: https://doi.org/10.1515/rhiz-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Both Generable and Alterable in Aristotle’sOn Generation and CorruptionI.1 &amp; I.4</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhiz-2024-0010/html"/>
+    <id>https://doi.org/10.1515/rhiz-2024-0010</id>
+    <updated>2025-05-04T22:11:54.407731+00:00</updated>
+    <summary>Article by Scott O’Connor
+DOI: https://doi.org/10.1515/rhiz-2024-0010</summary>
+  </entry>
+  <entry>
+    <title>The Boogeyman in the Closet: A Cognitive-Behavioral Account of Epicurean Emotions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhiz-2024-0012/html"/>
+    <id>https://doi.org/10.1515/rhiz-2024-0012</id>
+    <updated>2025-05-04T22:11:54.407743+00:00</updated>
+    <summary>Article by Panagiotis Poulakidas
+DOI: https://doi.org/10.1515/rhiz-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>Barbara M. Sattler,The Concept of Motion in Ancient Greek Thought: Foundations in Logic, Method, and Mathematics.Cambridge University Press, Cambridge, 2020. x + 427 pp.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rhiz-2024-0009/html"/>
+    <id>https://doi.org/10.1515/rhiz-2024-0009</id>
+    <updated>2025-05-04T22:11:54.407753+00:00</updated>
+    <summary>Article by Daniel Kranzelbinder
+DOI: https://doi.org/10.1515/rhiz-2024-0009</summary>
+  </entry>
+</feed>

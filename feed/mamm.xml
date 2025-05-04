@@ -1,160 +1,133 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Mammalia</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Mammalia</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mamm.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-frontmatter6/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-frontmatter6/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-frontmatter6</description>
-    </item>
-    <item>
-      <title>Novel insights into red deer (Cervus elaphus) habitat use and suitability in human-dominated versus near-natural landscapes</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0176/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0176/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2023-0176</description>
-    </item>
-    <item>
-      <title>Effect of conifer afforestation on the occurrence and food availability for Zaedyus pichiy (Xenarthra: Chlamyphoridae) in the north-western Patagonian steppe of Argentina</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0002/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0002</description>
-    </item>
-    <item>
-      <title>Effect of seasonal variation on feeding and food preference of olive baboons (Papio anubis) in a protected Guinean savannah of West Africa</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0019/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0019/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0019</description>
-    </item>
-    <item>
-      <title>Noteworthy records of survival, longevity, and recruitment in a key area for jaguars in Western Mexico</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0043/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0043/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0043</description>
-    </item>
-    <item>
-      <title>The forbidden fruit: toque macaques (Macaca sinica) feeding on invasive pond apple (Annona glabra) in Sri Lankan mangroves</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0034/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0034/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0034</description>
-    </item>
-    <item>
-      <title>Electrocutions as an important cause of mortality for a mesocarnivore</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0013/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2023-0013</description>
-    </item>
-    <item>
-      <title>Eurasian red squirrels (Sciurus vulgaris) and mesocarnivores in a Mongolian protected area</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0054/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0054/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0054</description>
-    </item>
-    <item>
-      <title>Materials of garden dormouse summer nests in Germany</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0014/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0014/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0014</description>
-    </item>
-    <item>
-      <title>Increase in the frequency of melanism in Abert’s Squirrel in Boulder, Colorado</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0047/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0047/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0047</description>
-    </item>
-    <item>
-      <title>The importance of rodents to a specialist carnivore in an industrialized site</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0079/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2023-0079/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2023-0079</description>
-    </item>
-    <item>
-      <title>A stranding of pantropical spotted dolphin (Stenella attenuata) near Tulum, Quintana Roo, Mexico confirms the presence of the species in the Mexican Caribbean</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0007/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0007</description>
-    </item>
-    <item>
-      <title>First report of a leucistic Brown Agouti (Dasyprocta variegata) in Bolivia</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0101/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0101/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0101</description>
-    </item>
-    <item>
-      <title>Predation of Natalus macrourus (Chiroptera: Natalidae) by Trachops cirrhosus (Chiroptera: Phyllostomidae) in a ferriferous Brazilian Amazon cave</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0026/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0026/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0026</description>
-    </item>
-    <item>
-      <title>Current distribution of the Reeves’ muntjac Muntiacus reevesi (Ogilby, 1839) in France</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0022/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0022/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0022</description>
-    </item>
-    <item>
-      <title>Climate change impacts on the distribution of Dryomys laniger (woolly dormouse) in Türkiye: a data-driven approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0016/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0016/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0016</description>
-    </item>
-    <item>
-      <title>First record of the grand leaf-nosed bat, Hipposideros grandis (Hipposideridae), from Bangladesh</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0079/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0079/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0079</description>
-    </item>
-    <item>
-      <title>Rediscovery of the Bavarian pine vole (Microtus bavaricus) in Germany</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0075/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0075/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0075</description>
-    </item>
-    <item>
-      <title>Southernmost occurrence of Cuniculus paca (Rodentia, Cuniculidae): new Argentinean localities based on vouchers</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0035/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0035/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0035</description>
-    </item>
-    <item>
-      <title>New findings on the karyotype and distribution of two Rhipidomys Tschudi, 1845 species (Rodentia: Sigmodontinae) from Upper Purus River</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0028/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0028</description>
-    </item>
-    <item>
-      <title>Reproductive physiology of Indian pangolin (Manis crassicaudata) in Pothwar Plateau, Pakistan</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0032/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0032/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0032</description>
-    </item>
-    <item>
-      <title>Genetic analysis brings evidence of the sexual selection hypothesis for an infanticide event in giant armadillos (Priodontes maximus)</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0017/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0017/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0017</description>
-    </item>
-    <item>
-      <title>Three small species of shrews (Soricidae) from the Salonga National Park, Democratic Republic of the Congo, representing two new taxa and a new record</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0036/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0036</description>
-    </item>
-    <item>
-      <title>Molecular analysis reveals the evolutionary distinctiveness of the Silver-backed Chevrotain within the genus Tragulus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0004/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0004</description>
-    </item>
-    <item>
-      <title>The names of the Dusky Striped Squirrel (Funambulus obscurus, Sciuridae) and Kathleen Ryley in the Bombay Natural History Society’s Mammal Survey</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0055/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mammalia-2024-0055/html</guid>
-      <description>Article by Rajith Dissanayake, Jelle S. Zijlstra, Martina Darwich DOI: https://doi.org/10.1515/mammalia-2024-0055</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Mammalia</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mamm/89/3/html"/>
+  <updated>2025-05-04T22:09:29.774677+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mamm.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Mammalia</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mamm.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/mammalia-2025-frontmatter3</id>
+    <updated>2025-05-04T22:09:29.774704+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mammalia-2025-frontmatter3</summary>
+  </entry>
+  <entry>
+    <title>Tickell’s bat,Hesperoptenus tickelli(Blyth, 1851), in Sri Lanka with new records after 58 years and roosting ecology notes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0063/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0063</id>
+    <updated>2025-05-04T22:09:29.774713+00:00</updated>
+    <summary>Article by Tharaka Kusuminda, G.G. Thilakawansha Chandrathilake, Pasindu D. Abegunawardhana, Sameera Abeyrathne, Vithanage T. Senthila, Chamara Amarasinghe, Amani Mannakkara, Wipula B. Yapa
+DOI: https://doi.org/10.1515/mammalia-2024-0063</summary>
+  </entry>
+  <entry>
+    <title>New ecological aspects of the pacarana (Dinomys branickii) in southeastern Peru</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0127/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0127</id>
+    <updated>2025-05-04T22:09:29.774722+00:00</updated>
+    <summary>Article by Sam Pottie, Arianna Basto, Andrew Whitworth, Christopher Beirne, Ruthmery Pillco Huarcaya, Adrian Forsyth
+DOI: https://doi.org/10.1515/mammalia-2024-0127</summary>
+  </entry>
+  <entry>
+    <title>Variation in mammal ecological patterns in response to seasonality in a Brazilian tropical dry forest</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0066/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0066</id>
+    <updated>2025-05-04T22:09:29.774729+00:00</updated>
+    <summary>Article by Maria Luísa Falcão, Paulo Henrique Marinho, Eduardo Martins Venticinque
+DOI: https://doi.org/10.1515/mammalia-2024-0066</summary>
+  </entry>
+  <entry>
+    <title>Niche partitioning between two marsupials inhabiting the Yungas of Northwestern Argentina: overlapping diets in non-overlapping lifestyles?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0160/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0160</id>
+    <updated>2025-05-04T22:09:29.774736+00:00</updated>
+    <summary>Article by Gabriel M. Martin, Guillermo Omad, Nilton C. Cáceres
+DOI: https://doi.org/10.1515/mammalia-2024-0160</summary>
+  </entry>
+  <entry>
+    <title>Characteristics of tree hollows used by Nilgiri martenMartes gwatkinsiiin the Western Ghats, India</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0020/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0020</id>
+    <updated>2025-05-04T22:09:29.774743+00:00</updated>
+    <summary>Article by Peroth Balakrishnan
+DOI: https://doi.org/10.1515/mammalia-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>How much do we know about wild canid (Carnivora: Canidae) ectoparasites in Mexico? Current state of knowledge</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0151/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0151</id>
+    <updated>2025-05-04T22:09:29.774750+00:00</updated>
+    <summary>Article by Cesar Francisco Hernández-Urbina, Jesús A. Fernández, Mieke Titulaer, Nelson G. Aguilar-Palma, Roxana Acosta, Angela A. Camargo-Sanabria
+DOI: https://doi.org/10.1515/mammalia-2024-0151</summary>
+  </entry>
+  <entry>
+    <title>First and new records of albinism and leucism inJaculus orientalisandJaculus jaculus(Rodentia, Dipodidae)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0125/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0125</id>
+    <updated>2025-05-04T22:09:29.774757+00:00</updated>
+    <summary>Article by Firas Hayder, Emmanuel Do Linh San, Ali M.H. Fartoussi, Zimkitha J.K. Madikiza
+DOI: https://doi.org/10.1515/mammalia-2024-0125</summary>
+  </entry>
+  <entry>
+    <title>The first record of the long-eared hedgehog (Hemiechinus auritusGmelin, 1770) in Lebanon</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2025-0001/html"/>
+    <id>https://doi.org/10.1515/mammalia-2025-0001</id>
+    <updated>2025-05-04T22:09:29.774764+00:00</updated>
+    <summary>Article by Rami Khashab, Ehab Eid, Johnny Baaliny
+DOI: https://doi.org/10.1515/mammalia-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>First record of Andersen’s leaf-nosed bat,Hipposideros gentilis,and hairy-faced myotis,Myotis annectansfrom Bangladesh</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0140/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0140</id>
+    <updated>2025-05-04T22:09:29.774771+00:00</updated>
+    <summary>Article by Mohammad A. Aziz, Aung S. N. Marma
+DOI: https://doi.org/10.1515/mammalia-2024-0140</summary>
+  </entry>
+  <entry>
+    <title>Temperature and pups influence daytime roosting behavior of the great fruit-eating bat,Artibeus lituratus, in an urban southern Brazilian habitat</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0100/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0100</id>
+    <updated>2025-05-04T22:09:29.774777+00:00</updated>
+    <summary>Article by Sam Generoso, Victor Quintas Schaucoski, João M.D. Miranda, Renato Colares, Fernando Carvalho
+DOI: https://doi.org/10.1515/mammalia-2024-0100</summary>
+  </entry>
+  <entry>
+    <title>On the phylogenetic position ofRhinolophus sakejiensis(Chiroptera: Rhinolophidae)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0147/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0147</id>
+    <updated>2025-05-04T22:09:29.774784+00:00</updated>
+    <summary>Article by Petr Benda, Marek Uvizl
+DOI: https://doi.org/10.1515/mammalia-2024-0147</summary>
+  </entry>
+  <entry>
+    <title>New geographical records of Phyllostomidae (Chiroptera) for the Brazilian Caatinga, with taxonomic notes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0109/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0109</id>
+    <updated>2025-05-04T22:09:29.774792+00:00</updated>
+    <summary>Article by Franger J. García, José Ochoa-G, Fábio C. Falcão, Martín Roberto del Valle Alvarez
+DOI: https://doi.org/10.1515/mammalia-2024-0109</summary>
+  </entry>
+  <entry>
+    <title>Complete mitogenome ofPrionailurus bengalensis alleniand taxonomic revisions of leopard cat subspecies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0083/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0083</id>
+    <updated>2025-05-04T22:09:29.774798+00:00</updated>
+    <summary>Article by Feiyun Tu, Yaqin Qiao, Yiran Bai
+DOI: https://doi.org/10.1515/mammalia-2024-0083</summary>
+  </entry>
+  <entry>
+    <title>Karyotype of the lesser gymnureHylomys maxiand comparison with its Vietnamese congeners (Mammalia: Eulipotyphla: Erinaceidae)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mammalia-2024-0168/html"/>
+    <id>https://doi.org/10.1515/mammalia-2024-0168</id>
+    <updated>2025-05-04T22:09:29.774804+00:00</updated>
+    <summary>Article by Hoi-Sen Yong, Sze-Looi Song
+DOI: https://doi.org/10.1515/mammalia-2024-0168</summary>
+  </entry>
+</feed>

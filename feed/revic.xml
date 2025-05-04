@@ -1,106 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Reviews in Inorganic Chemistry</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Reviews in Inorganic Chemistry</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revic.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-frontmatter4/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-frontmatter4/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-frontmatter4</description>
-    </item>
-    <item>
-      <title>Unveiling the multifaceted roles of protonated 1,2-bis(4-pyridyl)ethylene (HBpe+) ligand in metal-driven supramolecular assembly: a comprehensive structural review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2023-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2023-0025/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2023-0025</description>
-    </item>
-    <item>
-      <title>Advanced synthetic routes of metal organic frameworks and their diverse applications</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2023-0024/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2023-0024/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2023-0024</description>
-    </item>
-    <item>
-      <title>Carbon materials derived by crystalline porous materials for capacitive energy storage</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2023-0039/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2023-0039/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2023-0039</description>
-    </item>
-    <item>
-      <title>BiVO4-based heterojunction nanophotocatalysts for water splitting and organic pollutant degradation: a comprehensive review of photocatalytic innovation</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0009/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0009</description>
-    </item>
-    <item>
-      <title>Synthesis, characterization, thermal, theoretical studies, antimicrobial, antioxidant activity, superoxide dismutase-like activity and catalase mimetics of metal(II) complexes derived from sugar and Schiff base</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2023-0028/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2023-0028/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2023-0028</description>
-    </item>
-    <item>
-      <title>Solid-phase extraction of organophosphates from polluted waters on a matrix-imprinted sorbent</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0010/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0010</description>
-    </item>
-    <item>
-      <title>Reduction mechanism and energy transfer between Eu3+ and Eu2+ in Eu-doped materials synthesized in air atmosphere</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0011/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0011/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0011</description>
-    </item>
-    <item>
-      <title>Green synthesis and applications of mono/bimetallic nanoparticles on mesoporous clay: a review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0008/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0008</description>
-    </item>
-    <item>
-      <title>Hydroxyapatite biomaterials: a comprehensive review of their properties, structures, clinical applications, and producing techniques</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0018/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0018/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0018</description>
-    </item>
-    <item>
-      <title>Water desalination, and energy consumption applications of 2D nano materials: hexagonal boron nitride, graphenes, and quantum dots</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0013/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0013/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0013</description>
-    </item>
-    <item>
-      <title>Transformative applications of “click” chemistry in the development of MOF architectures − a mini review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2023-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2023-0037/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2023-0037</description>
-    </item>
-    <item>
-      <title>A review of carbon-based adsorbents for the removal of organic and inorganic components</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0027/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0027/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0027</description>
-    </item>
-    <item>
-      <title>Mercury removal from water: insights from MOFs and their composites</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0056/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0056/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0056</description>
-    </item>
-    <item>
-      <title>Organometallic complexes and reaction methods for synthesis: a review</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0037/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0037</description>
-    </item>
-    <item>
-      <title>Comprehensive review of metal-based coordination compounds in cancer therapy: from design to biochemical reactivity</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/revic-2024-0030/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/revic-2024-0030/html</guid>
-      <description>Article by Peshang Khdir Omer, Nazk M. Aziz, Rebaz Anwar Omer DOI: https://doi.org/10.1515/revic-2024-0030</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Reviews in Inorganic Chemistry</title>
+  <link href="https://www.degruyterbrill.com/journal/key/revic/45/1/html"/>
+  <updated>2025-05-04T22:11:49.857623+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revic.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Reviews in Inorganic Chemistry</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revic.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/revic-2025-frontmatter1</id>
+    <updated>2025-05-04T22:11:49.857658+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/revic-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>A review of coordination compounds: structure, stability, and biological significance</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0035/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0035</id>
+    <updated>2025-05-04T22:11:49.857670+00:00</updated>
+    <summary>Article by Kwestan N. Aziz, Karzan Mahmood Ahmed, Rebaz A. Omer, Aryan F. Qader, Eman I. Abdulkareem
+DOI: https://doi.org/10.1515/revic-2024-0035</summary>
+  </entry>
+  <entry>
+    <title>Effluent wastewater technologies for textile industry: a review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0046/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0046</id>
+    <updated>2025-05-04T22:11:49.857680+00:00</updated>
+    <summary>Article by Satyajit M. Deshmukh, Sonali R. Dhokpande, Amaya Sankhe, Ajinkya Khandekar
+DOI: https://doi.org/10.1515/revic-2024-0046</summary>
+  </entry>
+  <entry>
+    <title>Efficient removal of Cr(VI) ions from industrial wastewater using carbon-based adsorbents functionalized with boronic acid</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0051/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0051</id>
+    <updated>2025-05-04T22:11:49.857689+00:00</updated>
+    <summary>Article by Sonali R. Dhokpande, Satyajit M. Deshmukh, Ajinkya Khandekar, Amaya Sankhe
+DOI: https://doi.org/10.1515/revic-2024-0051</summary>
+  </entry>
+  <entry>
+    <title>Exploring inorganic phosphors: basics, types, fabrications and their luminescence properties for LED/WLED/displays</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0044/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0044</id>
+    <updated>2025-05-04T22:11:49.857696+00:00</updated>
+    <summary>Article by Junaid Ur Rahman, Shahab Khan, Vicky Jain, Asha Rajiv, Shivakrishna Dasi, Khaled Fahmi Fawy, Pardeep Kumar Jindal, Reddi Sivaranjani
+DOI: https://doi.org/10.1515/revic-2024-0044</summary>
+  </entry>
+  <entry>
+    <title>Recent advances on hydrogen generation based on inorganic metal oxide nano-catalyst using water electrolysis approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0026/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0026</id>
+    <updated>2025-05-04T22:11:49.857704+00:00</updated>
+    <summary>Article by Muhammad Naeem Ayub, Muhammad Fazle Rabbee, Umer Shahzad, Mohsin Saeed, Saad M. Al-Baqami, Khalid A. Alzahrani, Md. Reazuddin Repon, Md. Rezaur Rahman, Mohammad Mizanur Rahman Khan, Mohammed M. Rahman
+DOI: https://doi.org/10.1515/revic-2024-0026</summary>
+  </entry>
+  <entry>
+    <title>Antituberculosis, antimicrobial, antioxidant, cytotoxicity and anti-inflammatory activity of Schiff base derived from 2,3-diaminophenazine moiety and its metal(II) complexes: structural elucidation, computational aspects, and biological evaluation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0007/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0007</id>
+    <updated>2025-05-04T22:11:49.857713+00:00</updated>
+    <summary>Article by Saleh M. Bufarwa, Reem M. El-Sefait, Dalal K. Thbayh, Mustapha Belaidi, Rehab K. Al-Shemary, Rema. M. Abdusamea, Marei M. El-Ajaily, Béla Fiser, Hanan A. Bader, Abdulsalam A. Saleh, Mohamad M. Bufarwa
+DOI: https://doi.org/10.1515/revic-2024-0007</summary>
+  </entry>
+  <entry>
+    <title>Carbon-based nanomaterials: synthesis, types and fuel applications: a mini-review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0017/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0017</id>
+    <updated>2025-05-04T22:11:49.857722+00:00</updated>
+    <summary>Article by Muhammad Sajid, Ghazala Iram, Aqsa Nawaz, Wajeeha Qayyum, Ahmad Farhan, Muhammad Azam Qamar, Haq Nawaz, Asma Shahid
+DOI: https://doi.org/10.1515/revic-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>Recent advances in carbon quantum dots for antibiotics detection</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0025/html"/>
+    <id>https://doi.org/10.1515/revic-2024-0025</id>
+    <updated>2025-05-04T22:11:49.857730+00:00</updated>
+    <summary>Article by Guojun Ding, Fanyong Yan, Shangpeng Yang, Yang Fu
+DOI: https://doi.org/10.1515/revic-2024-0025</summary>
+  </entry>
+  <entry>
+    <title>Modern innovations in the provision and efficient application of 2D inorganic nanoscale materials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2023-0036/html"/>
+    <id>https://doi.org/10.1515/revic-2023-0036</id>
+    <updated>2025-05-04T22:11:49.857737+00:00</updated>
+    <summary>Article by Muhammad Naeem Ayub, Umer Shahzad, Mohsin Saeed, Muhammad Fazle Rabbee, Jehan Y. Al-Humaidi, Raed H. Althomali, Kwang-Hyun Baek, Mohammed M. Rahman
+DOI: https://doi.org/10.1515/revic-2023-0036</summary>
+  </entry>
+  <entry>
+    <title>Bioinorganic metal nanoparticles and their potential applications as antimicrobial, antioxidant and catalytic agents: a review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2023-0040/html"/>
+    <id>https://doi.org/10.1515/revic-2023-0040</id>
+    <updated>2025-05-04T22:11:49.857746+00:00</updated>
+    <summary>Article by Khalida Naseem, Asad Aziz, Mohammad Ehtisham Khan, Shahzaib Ali, Awais Khalid
+DOI: https://doi.org/10.1515/revic-2023-0040</summary>
+  </entry>
+</feed>

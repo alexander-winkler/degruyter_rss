@@ -1,90 +1,115 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Internationale SteuerRundschau</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Internationale SteuerRundschau</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/isr.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Titelei</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-frontmatter1309/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-frontmatter1309/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-frontmatter1309</description>
-    </item>
-    <item>
-      <title>Inhalt</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-toc1309/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-toc1309/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-toc1309</description>
-    </item>
-    <item>
-      <title>Einkunftsquellen von Influencern und deren Besteuerung bei Wohnsitz im Ausland</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130901/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130901/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-130901</description>
-    </item>
-    <item>
-      <title>Hybride Gestaltungen: Der Entwurf eines BMF-Schreibens v. 13.7.2023 zu § 4k EStG</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130902/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130902/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-130902</description>
-    </item>
-    <item>
-      <title>Finanzierungspersonengesellschaft, -kapitalgesellschaft: Steuerliche Risiken und Gestaltungschancen bei der konzerninternen Finanzierung von Mitunternehmerschaften</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130903/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130903/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-130903</description>
-    </item>
-    <item>
-      <title>Frontex-Einsätze: Inländische Steuerpflicht von EU-Geldern im Rahmen von Frontex- Einsätzen</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130904/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130904/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-130904</description>
-    </item>
-    <item>
-      <title>Hinzurechnungsbesteuerung: Zum Tatbestandsmerkmal „Schädliche Mitwirkung“ in der Hinzurechnungsbesteuerung</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130905/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130905/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-130905</description>
-    </item>
-    <item>
-      <title>Impressum</title>
-      <link>https://www.degruyter.com/document/doi/10.9785/isr-2024-130906/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.9785/isr-2024-130906/html</guid>
-      <description>Article by 
-
-                Page range: r5-r10
-            
- DOI: https://doi.org/10.9785/isr-2024-130906</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Internationale SteuerRundschau</title>
+  <link href="https://www.degruyterbrill.com/journal/key/isr/14/4/html"/>
+  <updated>2025-05-04T22:07:04.693596+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/isr.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Internationale SteuerRundschau</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/isr.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-frontmatter1404/html"/>
+    <id>https://doi.org/10.9785/isr-2025-frontmatter1404</id>
+    <updated>2025-05-04T22:07:04.693630+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/isr-2025-frontmatter1404</summary>
+  </entry>
+  <entry>
+    <title>Inhalt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-toc1404/html"/>
+    <id>https://doi.org/10.9785/isr-2025-toc1404</id>
+    <updated>2025-05-04T22:07:04.693638+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/isr-2025-toc1404</summary>
+  </entry>
+  <entry>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140407/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140407</id>
+    <updated>2025-05-04T22:07:04.693648+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/isr-2025-140407</summary>
+  </entry>
+  <entry>
+    <title>Verrechnungspreisbesteuerung: Aktuelle Themen der Verrechnungspreisbesteuerung, u.a. § 1 Abs. 3d und 3c AStG und Funktionsverlagerung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140401/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140401</id>
+    <updated>2025-05-04T22:07:04.693656+00:00</updated>
+    <summary>Article by Christian Engelen, Lars Wargowske
+DOI: https://doi.org/10.9785/isr-2025-140401</summary>
+  </entry>
+  <entry>
+    <title>Verrechnungspreise: Die Auswirkung von Verrechnungspreisanpassungen auf die Zollerhebung – ein aktueller Stand</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140406/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140406</id>
+    <updated>2025-05-04T22:07:04.693666+00:00</updated>
+    <summary>Article by Stefan Vonderbank
+DOI: https://doi.org/10.9785/isr-2025-140406</summary>
+  </entry>
+  <entry>
+    <title>Risikobewertungsverfahren: Von Risiken zu Lösungen: Internationale Risikobewertungsverfahren und die Weichenstellung durch § 89b AO (Teil II)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140402/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140402</id>
+    <updated>2025-05-04T22:07:04.693674+00:00</updated>
+    <summary>Article by Christoph Schmidt
+DOI: https://doi.org/10.9785/isr-2025-140402</summary>
+  </entry>
+  <entry>
+    <title>Quellensteuererstattung an gebietsfremde Dividendenempfänger: Erstattung der Quellensteuer an gebietsansässige Dividendenempfänger mit einem negativen Ergebnis am Ende des Steuerjahres, in dem die Dividenden bezogen wurden – Keine Erstattung der Quellensteuer an gebietsfremde Dividendenempfänger</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140403/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140403</id>
+    <updated>2025-05-04T22:07:04.693684+00:00</updated>
+    <summary>Article by Gabriel Hörnicke
+DOI: https://doi.org/10.9785/isr-2025-140403</summary>
+  </entry>
+  <entry>
+    <title>Übergewinnsteuer: Vorläufige Rückerstattung des EU-Energiekrisenbeitrags: Übergewinnsteuer verfassungswidrig?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140404/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140404</id>
+    <updated>2025-05-04T22:07:04.693692+00:00</updated>
+    <summary>Article by Noah Zimmermann
+DOI: https://doi.org/10.9785/isr-2025-140404</summary>
+  </entry>
+  <entry>
+    <title>Versorungsbezüge: Beschränkte Steuerpflicht von nachträglichen gewerblichen Einkünften (hier: Versorgungsbezüge) aus einer früheren inländischen Betriebsstätte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140405/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140405</id>
+    <updated>2025-05-04T22:07:04.693700+00:00</updated>
+    <summary>Article by Sven-Eric Bärsch, Jan-Hendrik Hillers
+DOI: https://doi.org/10.9785/isr-2025-140405</summary>
+  </entry>
+  <entry>
+    <title>Quellensteuererstattung an gebietsfremde Dividendenempfänger: Erstattung der Quellensteuer an gebietsansässige Dividendenempfänger mit einem negativen Ergebnis am Ende des Steuerjahres, in dem die Dividenden bezogen wurden – Keine Erstattung der Quellensteuer an gebietsfremde Dividendenempfänger</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140403/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140403</id>
+    <updated>2025-05-04T22:07:04.693709+00:00</updated>
+    <summary>Article by Gabriel Hörnicke
+DOI: https://doi.org/10.9785/isr-2025-140403</summary>
+  </entry>
+  <entry>
+    <title>Übergewinnsteuer: Vorläufige Rückerstattung des EU-Energiekrisenbeitrags: Übergewinnsteuer verfassungswidrig?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140404/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140404</id>
+    <updated>2025-05-04T22:07:04.693716+00:00</updated>
+    <summary>Article by Noah Zimmermann
+DOI: https://doi.org/10.9785/isr-2025-140404</summary>
+  </entry>
+  <entry>
+    <title>Versorungsbezüge: Beschränkte Steuerpflicht von nachträglichen gewerblichen Einkünften (hier: Versorgungsbezüge) aus einer früheren inländischen Betriebsstätte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140405/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140405</id>
+    <updated>2025-05-04T22:07:04.693724+00:00</updated>
+    <summary>Article by Sven-Eric Bärsch, Jan-Hendrik Hillers
+DOI: https://doi.org/10.9785/isr-2025-140405</summary>
+  </entry>
+  <entry>
+    <title>Verrechnungspreise: Die Auswirkung von Verrechnungspreisanpassungen auf die Zollerhebung – ein aktueller Stand</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/isr-2025-140406/html"/>
+    <id>https://doi.org/10.9785/isr-2025-140406</id>
+    <updated>2025-05-04T22:07:04.693731+00:00</updated>
+    <summary>Article by Stefan Vonderbank
+DOI: https://doi.org/10.9785/isr-2025-140406</summary>
+  </entry>
+</feed>

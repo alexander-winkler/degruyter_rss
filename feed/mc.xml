@@ -1,76 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Multimodal Communication</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Multimodal Communication</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mc.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2024-frontmatter2/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2024-frontmatter2/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2024-frontmatter2</description>
-    </item>
-    <item>
-      <title>A multimodal analysis of Bob Marley’s “Natty Dread” album</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0033/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0033/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0033</description>
-    </item>
-    <item>
-      <title>Stance and food activism on Arabic Twitter (X): a multimodal analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0042/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0042/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0042</description>
-    </item>
-    <item>
-      <title>Image schemas in gestural metaphorical scenarios of swearing</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0060/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0060/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0060</description>
-    </item>
-    <item>
-      <title>Enabling participation in joint drumming within organizational workshops</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0070/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0070/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0070</description>
-    </item>
-    <item>
-      <title>“Propping up” the “I,” or the discursive constitution of subjectivity: a multimodal discourse analysis of informal talk in a kindergarten classroom</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0036/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0036/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0036</description>
-    </item>
-    <item>
-      <title>Tattoos as multimodal semiotic assemblages</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0068/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0068/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0068</description>
-    </item>
-    <item>
-      <title>The EU and environmental education: a multimodal ecological discourse analysis</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0073/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0073/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0073</description>
-    </item>
-    <item>
-      <title>A multimodal translation analysis of online app advertisements: the case of Careem as a Taxi-sharing app in Iraq</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0037/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0037/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0037</description>
-    </item>
-    <item>
-      <title>Representing slavery in visual art: a multimodal approach</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0025/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0025/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0025</description>
-    </item>
-    <item>
-      <title>Leaving one’s mark: self-authorized commemorative practices in a rural semiotic landscape</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/mc-2023-0102/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/mc-2023-0102/html</guid>
-      <description>Article by Gertrud K. Reershemius DOI: https://doi.org/10.1515/mc-2023-0102</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Multimodal Communication</title>
+  <link href="https://www.degruyterbrill.com/journal/key/mc/14/1/html"/>
+  <updated>2025-05-04T22:09:33.007449+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mc.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Multimodal Communication</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mc.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/mc-2025-frontmatter1</id>
+    <updated>2025-05-04T22:09:33.007471+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mc-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Introduction to the special issue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0113/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0113</id>
+    <updated>2025-05-04T22:09:33.007480+00:00</updated>
+    <summary>Article by Andrew Jocuns, Freek Olaf de Groot
+DOI: https://doi.org/10.1515/mc-2024-0113</summary>
+  </entry>
+  <entry>
+    <title>Digital writing, recreated orality, and identity: domestication and exoticization of multilingual speech on Chinese social media</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0114/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0114</id>
+    <updated>2025-05-04T22:09:33.007489+00:00</updated>
+    <summary>Article by Feifei Zhou, Chuanlin Liao, Liu Yang
+DOI: https://doi.org/10.1515/mc-2024-0114</summary>
+  </entry>
+  <entry>
+    <title>Geographies of discourse revisited</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0112/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0112</id>
+    <updated>2025-05-04T22:09:33.007497+00:00</updated>
+    <summary>Article by Andrew Jocuns, Freek Olaf de Groot
+DOI: https://doi.org/10.1515/mc-2024-0112</summary>
+  </entry>
+  <entry>
+    <title>Multimodal creativity and identity in digital discourse: meme practices in China</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0101/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0101</id>
+    <updated>2025-05-04T22:09:33.007504+00:00</updated>
+    <summary>Article by Freek Olaf de Groot
+DOI: https://doi.org/10.1515/mc-2024-0101</summary>
+  </entry>
+  <entry>
+    <title>Mind maps as multimodal and multilingual literacy practices in Chinese private universities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0110/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0110</id>
+    <updated>2025-05-04T22:09:33.007511+00:00</updated>
+    <summary>Article by Liping Shi
+DOI: https://doi.org/10.1515/mc-2024-0110</summary>
+  </entry>
+  <entry>
+    <title>Dialogues of materiality: unravelling the agency of discourse and objects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0105/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0105</id>
+    <updated>2025-05-04T22:09:33.007518+00:00</updated>
+    <summary>Article by Dariush Izadi, Alex Luke
+DOI: https://doi.org/10.1515/mc-2024-0105</summary>
+  </entry>
+  <entry>
+    <title>Visualizing identity: multimodal and multilingual practices in international student organizations’ on-campus artifacts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0100/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0100</id>
+    <updated>2025-05-04T22:09:33.007529+00:00</updated>
+    <summary>Article by Francesca Marino, Yuxuan Mu
+DOI: https://doi.org/10.1515/mc-2024-0100</summary>
+  </entry>
+  <entry>
+    <title>Moin Moin is schon Gesabbel: constructing Northern German identity in commercial Instagram posts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mc-2024-0099/html"/>
+    <id>https://doi.org/10.1515/mc-2024-0099</id>
+    <updated>2025-05-04T22:09:33.007536+00:00</updated>
+    <summary>Article by Frederike Schram
+DOI: https://doi.org/10.1515/mc-2024-0099</summary>
+  </entry>
+</feed>

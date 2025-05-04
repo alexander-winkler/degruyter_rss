@@ -1,76 +1,101 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Elenchos</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Elenchos</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-frontmatter1/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-frontmatter1/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-frontmatter1</description>
-    </item>
-    <item>
-      <title>Ricordo di Thomas Alexander Szlezák</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0001/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0001/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0001</description>
-    </item>
-    <item>
-      <title>Ferecide l’oscuro</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0002/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0002/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0002</description>
-    </item>
-    <item>
-      <title>Geometrical Oppositions as Coordinates for a Heraclitus’ Circular Cosmology</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0003/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0003/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0003</description>
-    </item>
-    <item>
-      <title>The Distinction between Philosophers and Sight-Lovers: Socrates’ First Line of Argument in Rep. V 476a1–d6.</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0004/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0004/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0004</description>
-    </item>
-    <item>
-      <title>Aristotle on τύχη and εὐτυχία</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0005/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0005/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0005</description>
-    </item>
-    <item>
-      <title>La botanique d’Aristote</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0006/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0006/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0006</description>
-    </item>
-    <item>
-      <title>Why Did Plato not Write the ‘Unwritten Doctrine’? Some Preliminary Remarks</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0007/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0007/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0007</description>
-    </item>
-    <item>
-      <title>On a Unique Christian Appropriation of Plato in the Dialogue Ammonius by Zacharias Scholasticus</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0008/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0008/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0008</description>
-    </item>
-    <item>
-      <title>Rossella Saetta Cottone: Soleil et connaissance. Empédocle avant Platon</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0009/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0009/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0009</description>
-    </item>
-    <item>
-      <title>Daniela Taormina: Plotin. Traité 41: Sur la sensation et mémoire</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/elen-2024-0010/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/elen-2024-0010/html</guid>
-      <description>Article by Dmitri Nikulin DOI: https://doi.org/10.1515/elen-2024-0010</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Elenchos</title>
+  <link href="https://www.degruyterbrill.com/journal/key/elen/45/2/html"/>
+  <updated>2025-05-04T22:05:05.594225+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Elenchos</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/elen-2024-frontmatter2</id>
+    <updated>2025-05-04T22:05:05.594259+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/elen-2024-frontmatter2</summary>
+  </entry>
+  <entry>
+    <title>Variazioni sul tema. Il cinismo antico e lo stile di vita: tra imitazione e interpretazione</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0011/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0011</id>
+    <updated>2025-05-04T22:05:05.594271+00:00</updated>
+    <summary>Article by Stefano Mecci
+DOI: https://doi.org/10.1515/elen-2024-0011</summary>
+  </entry>
+  <entry>
+    <title>Aristotle on Platonic Efficient Causes. A Rehabilitation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0012/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0012</id>
+    <updated>2025-05-04T22:05:05.594280+00:00</updated>
+    <summary>Article by Rareș Ilie Marinescu
+DOI: https://doi.org/10.1515/elen-2024-0012</summary>
+  </entry>
+  <entry>
+    <title>Aristotle’s Critique of Form-Number</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0013/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0013</id>
+    <updated>2025-05-04T22:05:05.594288+00:00</updated>
+    <summary>Article by Daniel Sung-hyun Yang
+DOI: https://doi.org/10.1515/elen-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>Yet Another Heuristic: AssessingEudaimonversusMakariosin Aristotle’sNicomachean Ethics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0014/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0014</id>
+    <updated>2025-05-04T22:05:05.594295+00:00</updated>
+    <summary>Article by Kelsey Boor
+DOI: https://doi.org/10.1515/elen-2024-0014</summary>
+  </entry>
+  <entry>
+    <title>L’interpretazione dei proemi dei dialoghi nelCommento all’Alcibiade Idi Proclo</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0015/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0015</id>
+    <updated>2025-05-04T22:05:05.594302+00:00</updated>
+    <summary>Article by Anna Motta
+DOI: https://doi.org/10.1515/elen-2024-0015</summary>
+  </entry>
+  <entry>
+    <title>Filone Alessandrino a Venezia nel ’500. Le prime traduzioni in volgare italiano</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0016/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0016</id>
+    <updated>2025-05-04T22:05:05.594309+00:00</updated>
+    <summary>Article by Francesca Calabi
+DOI: https://doi.org/10.1515/elen-2024-0016</summary>
+  </entry>
+  <entry>
+    <title>Un passo di Michele di Efeso e l’origine del commento composito all’Etica Nicomachea</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0017/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0017</id>
+    <updated>2025-05-04T22:05:05.594315+00:00</updated>
+    <summary>Article by Carlo Natali
+DOI: https://doi.org/10.1515/elen-2024-0017</summary>
+  </entry>
+  <entry>
+    <title>M. Laura Gemelli Marciano (a c. di):Presocratici. Volume I:Sentieri di sapienza attraverso la Ionia e oltre.Da Talete a Eraclito</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0018/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0018</id>
+    <updated>2025-05-04T22:05:05.594325+00:00</updated>
+    <summary>Article by Francesco Verde
+DOI: https://doi.org/10.1515/elen-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>Anca Vasiliu, Elsa Grasso:Platon et la Pensée de l’image</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0019/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0019</id>
+    <updated>2025-05-04T22:05:05.594332+00:00</updated>
+    <summary>Article by Federico Casella
+DOI: https://doi.org/10.1515/elen-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Pierre-Marie Morel:La nature et le bien. L’éthique d’Aristote et la question naturaliste</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0020/html"/>
+    <id>https://doi.org/10.1515/elen-2024-0020</id>
+    <updated>2025-05-04T22:05:05.594339+00:00</updated>
+    <summary>Article by Francesco Fronterotta
+DOI: https://doi.org/10.1515/elen-2024-0020</summary>
+  </entry>
+</feed>

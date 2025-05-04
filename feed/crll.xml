@@ -1,64 +1,85 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Journal für die reine und angewandte Mathematik</title>
-    <link>https://www.degruyter.com</link>
-    <description>A RSS feed containing the latest articles published in Journal für die reine und angewandte Mathematik</description>
-    <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
-    <atom:link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crll.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Frontmatter</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-frontmatter816/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-frontmatter816/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-frontmatter816</description>
-    </item>
-    <item>
-      <title>Semicontinuous maps on module varieties</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0049/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0049/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0049</description>
-    </item>
-    <item>
-      <title>A lifting principle for canonical stability indices of varieties of general type</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0054/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0054/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0054</description>
-    </item>
-    <item>
-      <title>Lifting globally 𝐹-split surfaces to characteristic zero</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0058/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0058/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0058</description>
-    </item>
-    <item>
-      <title>Extremal functions for twisted sharp Sobolev inequalities with lower order remainder terms. The high-dimensional case</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0056/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0056/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0056</description>
-    </item>
-    <item>
-      <title>The Chow ring of the moduli space of degree 2 quasi-polarized K3 surfaces</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0063/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0063/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0063</description>
-    </item>
-    <item>
-      <title>Mixed Hodge structures and Siegel operators</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0064/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0064/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0064</description>
-    </item>
-    <item>
-      <title>Ding stability and Kähler–Einstein metrics on manifolds with big anticanonical class</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0062/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0062/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0062</description>
-    </item>
-    <item>
-      <title>Rasmussen invariants of Whitehead doubles and other satellites</title>
-      <link>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0061/html</link>
-      <guid>https://www.degruyter.com/document/doi/10.1515/crelle-2024-0061/html</guid>
-      <description>Article by Lukas Lewark, Claudius Zibrowius DOI: https://doi.org/10.1515/crelle-2024-0061</description>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Journal für die reine und angewandte Mathematik</title>
+  <link href="https://www.degruyterbrill.com/journal/key/crll/2025/822/html"/>
+  <updated>2025-05-04T22:04:17.732934+00:00</updated>
+  <author>
+    <name>Alexander Winkler</name>
+    <uri>https://orcid.org/0000-0002-9145-7238</uri>
+  </author>
+  <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crll.xml</id>
+  <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
+  <subtitle>A RSS feed containing the latest articles published in Journal für die reine und angewandte Mathematik</subtitle>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crll.xml" type="application/rss+xml"/>
+  <entry>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-frontmatter822/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-frontmatter822</id>
+    <updated>2025-05-04T22:04:17.732971+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/crelle-2025-frontmatter822</summary>
+  </entry>
+  <entry>
+    <title>Intersection of transverse foliations in 3-manifolds: Hausdorff leaf space implies leafwise quasigeodesic</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0001/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0001</id>
+    <updated>2025-05-04T22:04:17.732981+00:00</updated>
+    <summary>Article by Sergio R. Fenley, Rafael Potrie
+DOI: https://doi.org/10.1515/crelle-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>F-stability, entropy and energy gap for supercritical Fujita equation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0004/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0004</id>
+    <updated>2025-05-04T22:04:17.732992+00:00</updated>
+    <summary>Article by Kelei Wang, Juncheng Wei, Ke Wu
+DOI: https://doi.org/10.1515/crelle-2025-0004</summary>
+  </entry>
+  <entry>
+    <title>On Darmon’s program for the generalized Fermat equation, I</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0014/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0014</id>
+    <updated>2025-05-04T22:04:17.733001+00:00</updated>
+    <summary>Article by Nicolas Billerey, Imin Chen, Luis Dieulefait, Nuno Freitas
+DOI: https://doi.org/10.1515/crelle-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>A smooth Birman–Hilden theory for hyper-Kähler manifolds</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0007/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0007</id>
+    <updated>2025-05-04T22:04:17.733008+00:00</updated>
+    <summary>Article by Sidhanth Raman
+DOI: https://doi.org/10.1515/crelle-2025-0007</summary>
+  </entry>
+  <entry>
+    <title>A new zero-free region for Rankin–Selberg 𝐿-functions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0009/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0009</id>
+    <updated>2025-05-04T22:04:17.733019+00:00</updated>
+    <summary>Article by Gergely Harcos, Jesse Thorner
+DOI: https://doi.org/10.1515/crelle-2025-0009</summary>
+  </entry>
+  <entry>
+    <title>Bergman metrics with constant holomorphic sectional curvatures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0013/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0013</id>
+    <updated>2025-05-04T22:04:17.733027+00:00</updated>
+    <summary>Article by Xiaojun Huang, Song-Ying Li, John N. Treuer
+DOI: https://doi.org/10.1515/crelle-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Futaki invariants and Yau’s Conjecture on the Hull–Strominger system</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0008/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0008</id>
+    <updated>2025-05-04T22:04:17.733034+00:00</updated>
+    <summary>Article by Mario Garcia-Fernandez, Raul Gonzalez Molina
+DOI: https://doi.org/10.1515/crelle-2025-0008</summary>
+  </entry>
+  <entry>
+    <title>Polyhedral surfaces in flat (2 + 1)-spacetimes and balanced cellulations on hyperbolic surfaces</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/crelle-2025-0010/html"/>
+    <id>https://doi.org/10.1515/crelle-2025-0010</id>
+    <updated>2025-05-04T22:04:17.733041+00:00</updated>
+    <summary>Article by François Fillastre, Roman Prosanov
+DOI: https://doi.org/10.1515/crelle-2025-0010</summary>
+  </entry>
+</feed>
