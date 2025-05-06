@@ -167,7 +167,7 @@ def getKeyList(file):
 def processFile(file):
     # read excel file into a dataframe, select columns that are needed
     df = pd.read_excel(fileurl, skiprows=3)
-    filtered_df = df[["Journal Code Klopotek", "Journal Code Online", "Title", "Print-ISSN", "Online-ISSN", "Subject Area", "URL"]]
+    filtered_df = df[["Journal Code Klopotek", "Journal Code Online", "Title", "Print-ISSN", "Online-ISSN", "Subject Area", "URL"]].copy()
 
     # run function on keys
     for index,row in filtered_df.iterrows():
