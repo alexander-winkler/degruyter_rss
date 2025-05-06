@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Online Media and Global Communication</title>
-  <link href="https://www.degruyterbrill.com/journal/key/omgc/4/1/html"/>
-  <updated>2025-05-04T22:10:38.796818+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/omgc/4/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/omgc.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/omgc/html" rel="related"/>
+  <updated>2025-05-06T05:03:13.067710+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/omgc.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Online Media and Global Communication</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/omgc.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/omgc-2025-frontmatter1</id>
-    <updated>2025-05-04T22:10:38.796857+00:00</updated>
+    <updated>2025-05-06T05:03:13.067741+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/omgc-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Structural challenges for the global circulation of knowledge and scientific sovereignty in a multipolar world</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2025-0002/html"/>
     <id>https://doi.org/10.1515/omgc-2025-0002</id>
-    <updated>2025-05-04T22:10:38.796867+00:00</updated>
+    <updated>2025-05-06T05:03:13.067752+00:00</updated>
     <summary>Article by Thaiane Oliveira, Francisco Paulo Jamil Marques, Manuel Goyanes, Mohan Dutta
 DOI: https://doi.org/10.1515/omgc-2025-0002</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/omgc-2025-0002</summary>
     <title>Academic imperialism meets media imperialism: the case of Abraji in Brazil</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0055/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0055</id>
-    <updated>2025-05-04T22:10:38.796879+00:00</updated>
+    <updated>2025-05-06T05:03:13.067763+00:00</updated>
     <summary>Article by Afonso de Albuquerque, Marcela Barba
 DOI: https://doi.org/10.1515/omgc-2024-0055</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/omgc-2024-0055</summary>
     <title>Geographic tokenism on editorial boards: a content analysis of highly ranked communication journals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0036/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0036</id>
-    <updated>2025-05-04T22:10:38.796888+00:00</updated>
+    <updated>2025-05-06T05:03:13.067773+00:00</updated>
     <summary>Article by Manfred Asuman, Abubakar Ibrahim, Meghan Sobel Cohen, Brian Ekdale
 DOI: https://doi.org/10.1515/omgc-2024-0036</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/omgc-2024-0036</summary>
     <title>Exploring the link between research funding, co-authorship and publication venues: an empirical study in communication, political science, and sociology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0046/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0046</id>
-    <updated>2025-05-04T22:10:38.796897+00:00</updated>
+    <updated>2025-05-06T05:03:13.067782+00:00</updated>
     <summary>Article by Marton Demeter, Manuel Goyanes, Zsolt Kohus, Homero Gil de Zúñiga
 DOI: https://doi.org/10.1515/omgc-2024-0046</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/omgc-2024-0046</summary>
     <title>Valuing diversity, from afar – A scientometric analysis of the Global North countries overrepresentation in top communication journals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0056/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0056</id>
-    <updated>2025-05-04T22:10:38.796910+00:00</updated>
+    <updated>2025-05-06T05:03:13.067792+00:00</updated>
     <summary>Article by Gergely Ferenc Lendvai
 DOI: https://doi.org/10.1515/omgc-2024-0056</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/omgc-2024-0056</summary>
     <title>China’s policies and investments in metaverse and AI development: implications for academic research</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0041/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0041</id>
-    <updated>2025-05-04T22:10:38.796919+00:00</updated>
+    <updated>2025-05-06T05:03:13.067806+00:00</updated>
     <summary>Article by Vincenzo De Masi, Qinke Di, Siyi Li, Yuhan Song
 DOI: https://doi.org/10.1515/omgc-2024-0041</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/omgc-2024-0041</summary>
     <title>Democratizing publishing in communication/media studies: a case study ofCommunication, Culture &amp; Critique</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0059/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0059</id>
-    <updated>2025-05-04T22:10:38.796927+00:00</updated>
+    <updated>2025-05-06T05:03:13.067815+00:00</updated>
     <summary>Article by Eve Ng, Melissa A. Click
 DOI: https://doi.org/10.1515/omgc-2024-0059</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/omgc-2024-0059</summary>
     <title>Multilingual science: discussing language as a place of encounter in knowledge production and exchange</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/omgc-2024-0058/html"/>
     <id>https://doi.org/10.1515/omgc-2024-0058</id>
-    <updated>2025-05-04T22:10:38.796935+00:00</updated>
+    <updated>2025-05-06T05:03:13.067824+00:00</updated>
     <summary>Article by Ana Cristina Suzina
 DOI: https://doi.org/10.1515/omgc-2024-0058</summary>
   </entry>

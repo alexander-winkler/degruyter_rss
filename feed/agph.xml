@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Archiv für Geschichte der Philosophie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/agph/107/1/html"/>
-  <updated>2025-05-04T22:02:24.210826+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/agph/107/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/agph.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/agph/html" rel="related"/>
+  <updated>2025-05-06T04:52:05.827877+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/agph.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Archiv für Geschichte der Philosophie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/agph.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/agph-2025-frontmatter1</id>
-    <updated>2025-05-04T22:02:24.210847+00:00</updated>
+    <updated>2025-05-06T04:52:05.827900+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/agph-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Socrates on Cookery and Rhetoric</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2023-0092/html"/>
     <id>https://doi.org/10.1515/agph-2023-0092</id>
-    <updated>2025-05-04T22:02:24.210854+00:00</updated>
+    <updated>2025-05-06T04:52:05.827908+00:00</updated>
     <summary>Article by Freya Möbus
 DOI: https://doi.org/10.1515/agph-2023-0092</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/agph-2023-0092</summary>
     <title>Idealism and Greek Philosophy: What Natorp Saw and Burnyeat Missed</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2022-0098/html"/>
     <id>https://doi.org/10.1515/agph-2022-0098</id>
-    <updated>2025-05-04T22:02:24.210862+00:00</updated>
+    <updated>2025-05-06T04:52:05.827917+00:00</updated>
     <summary>Article by Sylvain Delcomminette
 DOI: https://doi.org/10.1515/agph-2022-0098</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/agph-2022-0098</summary>
     <title>A Mereological Reading of theDictum de Omni et Nullo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2023-0101/html"/>
     <id>https://doi.org/10.1515/agph-2023-0101</id>
-    <updated>2025-05-04T22:02:24.210868+00:00</updated>
+    <updated>2025-05-06T04:52:05.827925+00:00</updated>
     <summary>Article by Phil Corkum
 DOI: https://doi.org/10.1515/agph-2023-0101</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/agph-2023-0101</summary>
     <title>Spinoza’s Re-Evaluation of Humility</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2023-0028/html"/>
     <id>https://doi.org/10.1515/agph-2023-0028</id>
-    <updated>2025-05-04T22:02:24.210875+00:00</updated>
+    <updated>2025-05-06T04:52:05.827932+00:00</updated>
     <summary>Article by Josefine Klingspor
 DOI: https://doi.org/10.1515/agph-2023-0028</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/agph-2023-0028</summary>
     <title>Incentives of the Mind: Kant and Baumgarten on the Impelling Causes of Desire</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2022-0108/html"/>
     <id>https://doi.org/10.1515/agph-2022-0108</id>
-    <updated>2025-05-04T22:02:24.210884+00:00</updated>
+    <updated>2025-05-06T04:52:05.827939+00:00</updated>
     <summary>Article by Michael Walschots
 DOI: https://doi.org/10.1515/agph-2022-0108</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/agph-2022-0108</summary>
     <title>Active Forgetting and Healthy Remembering in Nietzsche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2023-0065/html"/>
     <id>https://doi.org/10.1515/agph-2023-0065</id>
-    <updated>2025-05-04T22:02:24.210890+00:00</updated>
+    <updated>2025-05-06T04:52:05.827946+00:00</updated>
     <summary>Article by Emma Syea
 DOI: https://doi.org/10.1515/agph-2023-0065</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/agph-2023-0065</summary>
     <title>Striker, Gisela.From Aristotle to Cicero: Essays on Ancient Philosophy. Oxford: Oxford University Press 2022, x + 249 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2024-0009/html"/>
     <id>https://doi.org/10.1515/agph-2024-0009</id>
-    <updated>2025-05-04T22:02:24.210897+00:00</updated>
+    <updated>2025-05-06T04:52:05.827953+00:00</updated>
     <summary>Article by Margaret Graver
 DOI: https://doi.org/10.1515/agph-2024-0009</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/agph-2024-0009</summary>
     <title>Boeker, Ruth.Catharine Trotter Cockburn. Cambridge: Cambridge University Press 2023, 74 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2024-0008/html"/>
     <id>https://doi.org/10.1515/agph-2024-0008</id>
-    <updated>2025-05-04T22:02:24.210903+00:00</updated>
+    <updated>2025-05-06T04:52:05.827960+00:00</updated>
     <summary>Article by Patricia Sheridan
 DOI: https://doi.org/10.1515/agph-2024-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/agph-2024-0008</summary>
     <title>Browning, Gary.Iris Murdoch and the Political. Oxford: Oxford University Press 2024, vi + 221 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/agph-2024-0011/html"/>
     <id>https://doi.org/10.1515/agph-2024-0011</id>
-    <updated>2025-05-04T22:02:24.210909+00:00</updated>
+    <updated>2025-05-06T04:52:05.827970+00:00</updated>
     <summary>Article by Cathy Mason
 DOI: https://doi.org/10.1515/agph-2024-0011</summary>
   </entry>

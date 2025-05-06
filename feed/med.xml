@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Medicine</title>
-  <link href="https://www.degruyterbrill.com/journal/key/med/20/1/html"/>
-  <updated>2025-05-04T22:09:42.898560+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/med/20/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/med.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/med/html" rel="related"/>
+  <updated>2025-05-06T05:01:58.862540+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/med.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Medicine</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/med.xml" type="application/rss+xml"/>
   <entry>
     <title>Network pharmacological analysis andin vitrotesting of the rutin effects on triple-negative breast cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1079/html"/>
     <id>https://doi.org/10.1515/med-2024-1079</id>
-    <updated>2025-05-04T22:09:42.898577+00:00</updated>
+    <updated>2025-05-06T05:01:58.862560+00:00</updated>
     <summary>Article by Cheng Chang, Ruiying Jia, Bin Fang, Yaoyao Miao, Lili Zhang
 DOI: https://doi.org/10.1515/med-2024-1079</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/med-2024-1079</summary>
     <title>Impact of diabetes on long-term survival in elderly liver cancer patients: A retrospective study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1096/html"/>
     <id>https://doi.org/10.1515/med-2024-1096</id>
-    <updated>2025-05-04T22:09:42.898582+00:00</updated>
+    <updated>2025-05-06T05:01:58.862566+00:00</updated>
     <summary>Article by Dan Chen, Xiaoxiao Gao, Yaqing Wang
 DOI: https://doi.org/10.1515/med-2024-1096</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/med-2024-1096</summary>
     <title>Knockdown of CCNB1 alleviates high glucose-triggered trophoblast dysfunction during gestational diabetes via Wnt/β-catenin signaling pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1119/html"/>
     <id>https://doi.org/10.1515/med-2024-1119</id>
-    <updated>2025-05-04T22:09:42.898587+00:00</updated>
+    <updated>2025-05-06T05:01:58.862571+00:00</updated>
     <summary>Article by Biru Xiao, Wenmiao Zhang, Nini Ji, Qiuyue Chen
 DOI: https://doi.org/10.1515/med-2024-1119</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/med-2024-1119</summary>
     <title>Risk factors for severe adverse drug reactions in hospitalized patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1122/html"/>
     <id>https://doi.org/10.1515/med-2024-1122</id>
-    <updated>2025-05-04T22:09:42.898591+00:00</updated>
+    <updated>2025-05-06T05:01:58.862575+00:00</updated>
     <summary>Article by Nemanja Z. Petrović, Ana V. Pejčić, Miloš N. Milosavljević, Slobodan M. Janković
 DOI: https://doi.org/10.1515/med-2024-1122</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/med-2024-1122</summary>
     <title>Analysis of the effect of ALA-PDT on macrophages in footpad model of mice infected withFonsecaea monophorabased on single-cell sequencing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1132/html"/>
     <id>https://doi.org/10.1515/med-2024-1132</id>
-    <updated>2025-05-04T22:09:42.898596+00:00</updated>
+    <updated>2025-05-06T05:01:58.862581+00:00</updated>
     <summary>Article by Wenyi Chen, Xuelin Wu, Muhammad Danish Yaqoob, Kangxing Liu, Yanqing Hu, Xiuling Ke, Yongxuan Hu
 DOI: https://doi.org/10.1515/med-2024-1132</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/med-2024-1132</summary>
     <title>Development and validation of headspace gas chromatography with a flame ionization detector method for the determination of ethanol in the vitreous humor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1123/html"/>
     <id>https://doi.org/10.1515/med-2024-1123</id>
-    <updated>2025-05-04T22:09:42.898600+00:00</updated>
+    <updated>2025-05-06T05:01:58.862589+00:00</updated>
     <summary>Article by Filip Mihajlović, Ivana Andrić, Živana Slović, Maja Vujović, Kristina Piskulić, Snežana Đorđević
 DOI: https://doi.org/10.1515/med-2024-1123</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/med-2024-1123</summary>
     <title>CMSP exerts anti-tumor effects on small cell lung cancer cells by inducing mitochondrial dysfunction and ferroptosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1100/html"/>
     <id>https://doi.org/10.1515/med-2024-1100</id>
-    <updated>2025-05-04T22:09:42.898604+00:00</updated>
+    <updated>2025-05-06T05:01:58.862593+00:00</updated>
     <summary>Article by Xi Yan, Yinghao Niu, Yaojie Wang, Sisi Wei, Lina Han, Zhongyu Guo, Lianmei Zhao, Feng Gao
 DOI: https://doi.org/10.1515/med-2024-1100</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/med-2024-1100</summary>
     <title>Predictive value of plasma sB7-H3 and YKL-40 in pediatric refractory Mycoplasma pneumoniae pneumonia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1114/html"/>
     <id>https://doi.org/10.1515/med-2024-1114</id>
-    <updated>2025-05-04T22:09:42.898608+00:00</updated>
+    <updated>2025-05-06T05:01:58.862597+00:00</updated>
     <summary>Article by QiuMin Zhao, ShiYan Ji, HaiPing Jiang, DongMing Lu, LiFen Qian, JingWen Zhang, Yue Cui, Wei Lin, HaoYing Ge, Meng Gu
 DOI: https://doi.org/10.1515/med-2024-1114</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/med-2024-1114</summary>
     <title>Antiangiogenic potential ofElaeagnus umbellataextracts and molecular docking study by targeting VEGFR-2 pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1083/html"/>
     <id>https://doi.org/10.1515/med-2024-1083</id>
-    <updated>2025-05-04T22:09:42.898612+00:00</updated>
+    <updated>2025-05-06T05:01:58.862601+00:00</updated>
     <summary>Article by Nausheen Nazir, Arbaz Waqar, Amir Zaib Khan, Ayaz Ali Khan, Tariq Aziz, Abdullah F. Alasmari
 DOI: https://doi.org/10.1515/med-2024-1083</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/med-2024-1083</summary>
     <title>Comparison of the effectiveness of nurse-led preoperative counseling and postoperative follow-up care vs standard care for patients with gastric cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1098/html"/>
     <id>https://doi.org/10.1515/med-2024-1098</id>
-    <updated>2025-05-04T22:09:42.898621+00:00</updated>
+    <updated>2025-05-06T05:01:58.862609+00:00</updated>
     <summary>Article by Wenwen Wang, Yan Zhu, Yu Sun, Yandong Li
 DOI: https://doi.org/10.1515/med-2024-1098</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/med-2024-1098</summary>
     <title>Comparing the therapeutic efficacy of endoscopic minimally invasive surgery and traditional surgery for early-stage breast cancer: A meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1133/html"/>
     <id>https://doi.org/10.1515/med-2024-1133</id>
-    <updated>2025-05-04T22:09:42.898625+00:00</updated>
+    <updated>2025-05-06T05:01:58.862613+00:00</updated>
     <summary>Article by Qiyi Ma, Tingting Shi, Huan Wang, Jie Xing
 DOI: https://doi.org/10.1515/med-2024-1133</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/med-2024-1133</summary>
     <title>Adhered macrophages as an additional marker of cardiomyocyte injury in biopsies of patients with dilated cardiomyopathy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1099/html"/>
     <id>https://doi.org/10.1515/med-2024-1099</id>
-    <updated>2025-05-04T22:09:42.898629+00:00</updated>
+    <updated>2025-05-06T05:01:58.862617+00:00</updated>
     <summary>Article by Oliwia Warmusz, Arkadiusz Badziński, Edyta Reichman-Warmusz, Damian Dudek, Romuald Wojnicz
 DOI: https://doi.org/10.1515/med-2024-1099</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/med-2024-1099</summary>
     <title>Association between statin administration and outcome in patients with sepsis: A retrospective study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1112/html"/>
     <id>https://doi.org/10.1515/med-2024-1112</id>
-    <updated>2025-05-04T22:09:42.898632+00:00</updated>
+    <updated>2025-05-06T05:01:58.862621+00:00</updated>
     <summary>Article by Jianzhu Zhou, Zeying Feng, Hui Qiu, Tong Li, Xin Huang, Ling Ye, Longjian Huang, Chengjun Guo, Chengxian Guo, Li He
 DOI: https://doi.org/10.1515/med-2024-1112</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/med-2024-1112</summary>
     <title>Exploration of the association between estimated glucose disposal rate and osteoarthritis in middle-aged and older adults: An analysis of NHANES data from 2011 to 2018</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1120/html"/>
     <id>https://doi.org/10.1515/med-2024-1120</id>
-    <updated>2025-05-04T22:09:42.898636+00:00</updated>
+    <updated>2025-05-06T05:01:58.862625+00:00</updated>
     <summary>Article by XiaoPeng Gu, SongOu Zhang, WeiHu Ma
 DOI: https://doi.org/10.1515/med-2024-1120</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/med-2024-1120</summary>
     <title>A comparative analysis of the binary and multiclass classified chest X-ray images of pneumonia and COVID-19 with ML and DL models</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1110/html"/>
     <id>https://doi.org/10.1515/med-2024-1110</id>
-    <updated>2025-05-04T22:09:42.898640+00:00</updated>
+    <updated>2025-05-06T05:01:58.862629+00:00</updated>
     <summary>Article by Madhumita Pal, Ranjan K. Mohapatra, Ashish K. Sarangi, Alok Ranjan Sahu, Snehasish Mishra, Alok Patel, Sushil Kumar Bhoi, Ashraf Y. Elnaggar, Islam H. El Azab, Mohammed Alissa, Salah M. El-Bahy
 DOI: https://doi.org/10.1515/med-2024-1110</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/med-2024-1110</summary>
     <title>Lysophosphatidic acid 2 alleviates deep vein thrombosis via protective endothelial barrier function</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1137/html"/>
     <id>https://doi.org/10.1515/med-2024-1137</id>
-    <updated>2025-05-04T22:09:42.898644+00:00</updated>
+    <updated>2025-05-06T05:01:58.862633+00:00</updated>
     <summary>Article by Ruifeng Bai, Xinyang Yue, Xuan Tian, Huiru Zhao, Ying Liu, Tian Li, Jun Wu
 DOI: https://doi.org/10.1515/med-2024-1137</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/med-2024-1137</summary>
     <title>Transcription factor A, mitochondrial promotes lymph node metastasis and lymphangiogenesis in epithelial ovarian carcinoma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1089/html"/>
     <id>https://doi.org/10.1515/med-2024-1089</id>
-    <updated>2025-05-04T22:09:42.898648+00:00</updated>
+    <updated>2025-05-06T05:01:58.862638+00:00</updated>
     <summary>Article by Reziwanguli Wubuli, Mayinuer Niyazi, Lili Han, Mayinuer Aierken, Lingling Fan
 DOI: https://doi.org/10.1515/med-2024-1089</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/med-2024-1089</summary>
     <title>Serum PM20D1 levels are associated with nutritional status and inflammatory factors in gastric cancer patients undergoing early enteral nutrition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1111/html"/>
     <id>https://doi.org/10.1515/med-2024-1111</id>
-    <updated>2025-05-04T22:09:42.898652+00:00</updated>
+    <updated>2025-05-06T05:01:58.862641+00:00</updated>
     <summary>Article by Zhengyu Jin, Yuning Chen
 DOI: https://doi.org/10.1515/med-2024-1111</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/med-2024-1111</summary>
     <title>Hydromorphone reduced the incidence of emergence agitation after adenotonsillectomy in children with obstructive sleep apnea: A randomized, double-blind study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1129/html"/>
     <id>https://doi.org/10.1515/med-2024-1129</id>
-    <updated>2025-05-04T22:09:42.898656+00:00</updated>
+    <updated>2025-05-06T05:01:58.862645+00:00</updated>
     <summary>Article by Qiyuan Huang, Yang Chen, Xiaohui Sun, Yongwei Su, Ruihao Zhou, Guo Chen, Tao Zhu
 DOI: https://doi.org/10.1515/med-2024-1129</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/med-2024-1129</summary>
     <title>Vitamin D replacement therapy may regulate sleep habits in patients with restless leg syndrome</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1125/html"/>
     <id>https://doi.org/10.1515/med-2024-1125</id>
-    <updated>2025-05-04T22:09:42.898659+00:00</updated>
+    <updated>2025-05-06T05:01:58.862649+00:00</updated>
     <summary>Article by Feyza Ustabaş Kahraman, Ayşegül Doğan Demir, Mebrure Yazıcı, Fatma Betül Çakır, Hayrettin Temel, Abdülhamit Çollak, Ufuk Erenberk
 DOI: https://doi.org/10.1515/med-2024-1125</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/med-2024-1125</summary>
     <title>The first-line antihypertensive nitrendipine potentiated the therapeutic effect of oxaliplatin by downregulating CACNA1D in colorectal cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1138/html"/>
     <id>https://doi.org/10.1515/med-2024-1138</id>
-    <updated>2025-05-04T22:09:42.898664+00:00</updated>
+    <updated>2025-05-06T05:01:58.862655+00:00</updated>
     <summary>Article by Chengzhe Lai, Jinghu Liu, Jingna Zhou, Haokun Zhou
 DOI: https://doi.org/10.1515/med-2024-1138</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/med-2024-1138</summary>
     <title>Health literacy and health-related quality of life: The mediating role of irrational happiness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1148/html"/>
     <id>https://doi.org/10.1515/med-2025-1148</id>
-    <updated>2025-05-04T22:09:42.898672+00:00</updated>
+    <updated>2025-05-06T05:01:58.862659+00:00</updated>
     <summary>Article by Amil Huseynov, Begum Satici
 DOI: https://doi.org/10.1515/med-2025-1148</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/med-2025-1148</summary>
     <title>Modulatory effects ofLycium barbarumpolysaccharide on bone cell dynamics in osteoporosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1104/html"/>
     <id>https://doi.org/10.1515/med-2024-1104</id>
-    <updated>2025-05-04T22:09:42.898676+00:00</updated>
+    <updated>2025-05-06T05:01:58.862663+00:00</updated>
     <summary>Article by Qing Wang, Ting Zhang, Xinting Feng, Peng Chen, Ye Feng, Haoqiang Huang, Yinhua Qian, Yang Guo, Zifei Yin
 DOI: https://doi.org/10.1515/med-2024-1104</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/med-2024-1104</summary>
     <title>Mechanism research on inhibition of gastric cancerin vitroby the extract ofPinellia ternatabased on network pharmacology and cellular metabolomics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1131/html"/>
     <id>https://doi.org/10.1515/med-2024-1131</id>
-    <updated>2025-05-04T22:09:42.898680+00:00</updated>
+    <updated>2025-05-06T05:01:58.862667+00:00</updated>
     <summary>Article by Fan Feng, Ping Hu, Jun Chen, Lei Peng, Luyao Wang, Xingkui Tao, Chaoqun Lian
 DOI: https://doi.org/10.1515/med-2024-1131</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/med-2024-1131</summary>
     <title>Examination of the causal role of immune cells in non-alcoholic fatty liver disease by a bidirectional Mendelian randomization study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1154/html"/>
     <id>https://doi.org/10.1515/med-2025-1154</id>
-    <updated>2025-05-04T22:09:42.898683+00:00</updated>
+    <updated>2025-05-06T05:01:58.862671+00:00</updated>
     <summary>Article by Yu Li, Xiaodan Lv, Jianing Lin, Shiquan Li, Guangfu Lin, Zhixi Huang, Deyi Chen, Lichun Han, Lingling Zhan, Xiaoping Lv
 DOI: https://doi.org/10.1515/med-2025-1154</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/med-2025-1154</summary>
     <title>Clinical analysis of ten cases of HIV infection combined with acute leukemia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1081/html"/>
     <id>https://doi.org/10.1515/med-2024-1081</id>
-    <updated>2025-05-04T22:09:42.898687+00:00</updated>
+    <updated>2025-05-06T05:01:58.862675+00:00</updated>
     <summary>Article by Shanshan Fan, Chuan Qian, Pengfei Tao, Qiwen Zhou, Sen Lin, Konglong Li, Xi Wang, Haiyan Min
 DOI: https://doi.org/10.1515/med-2024-1081</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/med-2024-1081</summary>
     <title>Investigating the cardioprotective potential of quercetin against tacrolimus-induced cardiotoxicity in Wistar rats: A mechanistic insights</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1130/html"/>
     <id>https://doi.org/10.1515/med-2024-1130</id>
-    <updated>2025-05-04T22:09:42.898691+00:00</updated>
+    <updated>2025-05-06T05:01:58.862681+00:00</updated>
     <summary>Article by Ankit Verma, Tarique Anwer, Muzaffar Iqbal, Vinod Gahlot, Roshi Khan, Manju Sharma, Mohammad Sohail Akhtar
 DOI: https://doi.org/10.1515/med-2024-1130</summary>
   </entry>
@@ -231,7 +228,7 @@ DOI: https://doi.org/10.1515/med-2024-1130</summary>
     <title>Clinical observation of probiotics combined with mesalazine and Yiyi Baitouweng Decoction retention enema in treating mild-to-moderate ulcerative colitis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1126/html"/>
     <id>https://doi.org/10.1515/med-2024-1126</id>
-    <updated>2025-05-04T22:09:42.898695+00:00</updated>
+    <updated>2025-05-06T05:01:58.862684+00:00</updated>
     <summary>Article by Yanlong Li, Baoyu Li, Yuqin Gou, Xudong Tian, Lijun Chang, Chaoxu Qu
 DOI: https://doi.org/10.1515/med-2024-1126</summary>
   </entry>
@@ -239,7 +236,7 @@ DOI: https://doi.org/10.1515/med-2024-1126</summary>
     <title>Diagnostic value of ratio of blood inflammation to coagulation markers in periprosthetic joint infection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1150/html"/>
     <id>https://doi.org/10.1515/med-2025-1150</id>
-    <updated>2025-05-04T22:09:42.898698+00:00</updated>
+    <updated>2025-05-06T05:01:58.862688+00:00</updated>
     <summary>Article by Jincheng Huang, Xu Li, Yajun Chen, Meng Zhang, Zongyan Gao, Zhipeng Dai, Tao Liu, Yi Jin
 DOI: https://doi.org/10.1515/med-2025-1150</summary>
   </entry>
@@ -247,7 +244,7 @@ DOI: https://doi.org/10.1515/med-2025-1150</summary>
     <title>Sex-specific associations of sex hormone binding globulin and risk of bladder cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1163/html"/>
     <id>https://doi.org/10.1515/med-2025-1163</id>
-    <updated>2025-05-04T22:09:42.898702+00:00</updated>
+    <updated>2025-05-06T05:01:58.862692+00:00</updated>
     <summary>Article by Junyong Ou, Hai Bi, Haobin Zhou, Zhanyi Zhang, Peichen Duan, Haoming Yin, Zezhen Zhou, Zhixin Xie, Xiaojun Tian, Jianfei Ye, Shudong Zhang
 DOI: https://doi.org/10.1515/med-2025-1163</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.1515/med-2025-1163</summary>
     <title>Core muscle strength and stability-oriented breathing training reduces inter-recti distance in postpartum women</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1164/html"/>
     <id>https://doi.org/10.1515/med-2025-1164</id>
-    <updated>2025-05-04T22:09:42.898706+00:00</updated>
+    <updated>2025-05-06T05:01:58.862696+00:00</updated>
     <summary>Article by Chao Chen, Huai-ming Zhang, Lei Shen, Hua-ping He, Zhen-yu Ma, Yu-qin Zhu, Zhao-hui Geng, Yan-xia Qin
 DOI: https://doi.org/10.1515/med-2025-1164</summary>
   </entry>
@@ -263,7 +260,7 @@ DOI: https://doi.org/10.1515/med-2025-1164</summary>
     <title>The ERAS nursing care strategy for patients undergoing transsphenoidal endoscopic pituitary tumor resection: A randomized blinded controlled trial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1139/html"/>
     <id>https://doi.org/10.1515/med-2025-1139</id>
-    <updated>2025-05-04T22:09:42.898709+00:00</updated>
+    <updated>2025-05-06T05:01:58.862699+00:00</updated>
     <summary>Article by Min Tang, Seidu A. Richard, Chaofeng Fan, Zhen Luo, Wei Zhu, Qian He, Zhigang Lan, Lijuan Duan
 DOI: https://doi.org/10.1515/med-2025-1139</summary>
   </entry>
@@ -271,7 +268,7 @@ DOI: https://doi.org/10.1515/med-2025-1139</summary>
     <title>The serum IL-17A levels in patients with traumatic bowel rupture post-surgery and its predictive value for patient prognosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1135/html"/>
     <id>https://doi.org/10.1515/med-2024-1135</id>
-    <updated>2025-05-04T22:09:42.898714+00:00</updated>
+    <updated>2025-05-06T05:01:58.862703+00:00</updated>
     <summary>Article by Peng Zhou, Jie Yu, Bingmei Yan
 DOI: https://doi.org/10.1515/med-2024-1135</summary>
   </entry>
@@ -279,7 +276,7 @@ DOI: https://doi.org/10.1515/med-2024-1135</summary>
     <title>Impact of Kolb’s experiential learning theory-based nursing on caregiver burden and psychological state of caregivers of dementia patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1157/html"/>
     <id>https://doi.org/10.1515/med-2025-1157</id>
-    <updated>2025-05-04T22:09:42.898718+00:00</updated>
+    <updated>2025-05-06T05:01:58.862707+00:00</updated>
     <summary>Article by Yue Xu, Jingzheng Lu, Xinting Yu, Heguo Ding
 DOI: https://doi.org/10.1515/med-2025-1157</summary>
   </entry>
@@ -287,7 +284,7 @@ DOI: https://doi.org/10.1515/med-2025-1157</summary>
     <title>Analysis of serum NLR combined with intraoperative margin condition to predict the prognosis of cervical HSIL patients undergoing LEEP surgery</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1101/html"/>
     <id>https://doi.org/10.1515/med-2024-1101</id>
-    <updated>2025-05-04T22:09:42.898721+00:00</updated>
+    <updated>2025-05-06T05:01:58.862711+00:00</updated>
     <summary>Article by QiaoXian Tian, JiaYao Ma, YaHua Wu, LingYun Wang, WenJiao Yang
 DOI: https://doi.org/10.1515/med-2024-1101</summary>
   </entry>
@@ -295,7 +292,7 @@ DOI: https://doi.org/10.1515/med-2024-1101</summary>
     <title>Commiphora gileadensisameliorate infertility and erectile dysfunction in diabetic male mice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1166/html"/>
     <id>https://doi.org/10.1515/med-2025-1166</id>
-    <updated>2025-05-04T22:09:42.898725+00:00</updated>
+    <updated>2025-05-06T05:01:58.862714+00:00</updated>
     <summary>Article by Ayman Saeed Alhazmi
 DOI: https://doi.org/10.1515/med-2025-1166</summary>
   </entry>
@@ -303,7 +300,7 @@ DOI: https://doi.org/10.1515/med-2025-1166</summary>
     <title>The correlation between epithelial–mesenchymal transition classification and MMP2 expression of circulating tumor cells and prognosis of advanced or metastatic nasopharyngeal carcinoma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1074/html"/>
     <id>https://doi.org/10.1515/med-2024-1074</id>
-    <updated>2025-05-04T22:09:42.898729+00:00</updated>
+    <updated>2025-05-06T05:01:58.862719+00:00</updated>
     <summary>Article by Xiaoju Wang, Yuxin Zhang, Yiqing Wang, Lei Shi, Caiqin Yuan, Wei Yin, Yaoshu Teng, Jing Li, Yanjiao Mao
 DOI: https://doi.org/10.1515/med-2024-1074</summary>
   </entry>
@@ -311,7 +308,7 @@ DOI: https://doi.org/10.1515/med-2024-1074</summary>
     <title>Tetrahydropalmatine improves mitochondrial function in vascular smooth muscle cells of atherosclerosisin vitroby inhibiting Ras homolog gene family A/Rho-associated protein kinase-1 signaling pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1059/html"/>
     <id>https://doi.org/10.1515/med-2024-1059</id>
-    <updated>2025-05-04T22:09:42.898733+00:00</updated>
+    <updated>2025-05-06T05:01:58.862723+00:00</updated>
     <summary>Article by Ke Ding, Qiying Bao, Jiaqi He, Jiahong Wang, Hui Wang
 DOI: https://doi.org/10.1515/med-2024-1059</summary>
   </entry>
@@ -319,7 +316,7 @@ DOI: https://doi.org/10.1515/med-2024-1059</summary>
     <title>A cross-sectional study: Relationship between serum oxidative stress levels and arteriovenous fistula maturation in maintenance dialysis patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1149/html"/>
     <id>https://doi.org/10.1515/med-2025-1149</id>
-    <updated>2025-05-04T22:09:42.898737+00:00</updated>
+    <updated>2025-05-06T05:01:58.862727+00:00</updated>
     <summary>Article by Mian Wang, JiHong Lian, Bin Kuang, ChaoHui Zhang, MingHui Zhang
 DOI: https://doi.org/10.1515/med-2025-1149</summary>
   </entry>
@@ -327,7 +324,7 @@ DOI: https://doi.org/10.1515/med-2025-1149</summary>
     <title>A comparative analysis of the impact of repeated administration of flavan 3-ol on brown, subcutaneous, and visceral adipose tissue</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1152/html"/>
     <id>https://doi.org/10.1515/med-2025-1152</id>
-    <updated>2025-05-04T22:09:42.898741+00:00</updated>
+    <updated>2025-05-06T05:01:58.862731+00:00</updated>
     <summary>Article by Naomi Osakabe, Hitomi Nakamura, Yamato Yoshida, Sae Katsuragawa, Naoki Iida, Yasuyuki Fujii, Ursula M. Jacob, Tilman Fritsch, Ali Abdelhameed, Vittorio Calabrese
 DOI: https://doi.org/10.1515/med-2025-1152</summary>
   </entry>
@@ -335,7 +332,7 @@ DOI: https://doi.org/10.1515/med-2025-1152</summary>
     <title>Identifying early screening factors for depression in middle-aged and older adults: A cohort study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1160/html"/>
     <id>https://doi.org/10.1515/med-2025-1160</id>
-    <updated>2025-05-04T22:09:42.898745+00:00</updated>
+    <updated>2025-05-06T05:01:58.862735+00:00</updated>
     <summary>Article by Guanqun Chao, Lan Zhang, Zheli Zhan, Yang Bao
 DOI: https://doi.org/10.1515/med-2025-1160</summary>
   </entry>
@@ -343,7 +340,7 @@ DOI: https://doi.org/10.1515/med-2025-1160</summary>
     <title>Perform tumor-specific survival analysis for Merkel cell carcinoma patients undergoing surgical resection based on the SEER database by constructing a nomogram chart</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1103/html"/>
     <id>https://doi.org/10.1515/med-2024-1103</id>
-    <updated>2025-05-04T22:09:42.898748+00:00</updated>
+    <updated>2025-05-06T05:01:58.862739+00:00</updated>
     <summary>Article by Jingxuan Zhou, Hai Yu, Xichun Xia, Yanan Chen, Wai-kit Ming, Yuzhen Jiang, Yau Sun Lak, Chongchong Ip, Chaodi Huang, Qiqi Zhao, Suzheng Zheng, Liming Xia, Xinkai Zheng, Shi Wu, Jun Lyu, Liehua Deng
 DOI: https://doi.org/10.1515/med-2024-1103</summary>
   </entry>
@@ -351,7 +348,7 @@ DOI: https://doi.org/10.1515/med-2024-1103</summary>
     <title>Unveiling the role of CXCL10 in pancreatic cancer progression: A novel prognostic indicator</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1117/html"/>
     <id>https://doi.org/10.1515/med-2024-1117</id>
-    <updated>2025-05-04T22:09:42.898752+00:00</updated>
+    <updated>2025-05-06T05:01:58.862743+00:00</updated>
     <summary>Article by Xiaochao Wu, Longfei Rong, Ruiyi Tang, Quanpeng Li, Fei Wang, Xueting Deng, Lin Miao
 DOI: https://doi.org/10.1515/med-2024-1117</summary>
   </entry>
@@ -359,7 +356,7 @@ DOI: https://doi.org/10.1515/med-2024-1117</summary>
     <title>High-dose preoperative intraperitoneal erythropoietin and intravenous methylprednisolone in acute traumatic spinal cord injuries following decompression surgeries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1105/html"/>
     <id>https://doi.org/10.1515/med-2024-1105</id>
-    <updated>2025-05-04T22:09:42.898756+00:00</updated>
+    <updated>2025-05-06T05:01:58.862747+00:00</updated>
     <summary>Article by Luowen Wang, Genbing Shi, Yongjia Jin, Zongyi Mo, Zhaogan Ren, Zhanqiang Hua
 DOI: https://doi.org/10.1515/med-2024-1105</summary>
   </entry>
@@ -367,7 +364,7 @@ DOI: https://doi.org/10.1515/med-2024-1105</summary>
     <title>RAB39B: A novel biomarker for acute myeloid leukemia identified via multi-omics and functional validation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1168/html"/>
     <id>https://doi.org/10.1515/med-2025-1168</id>
-    <updated>2025-05-04T22:09:42.898763+00:00</updated>
+    <updated>2025-05-06T05:01:58.862750+00:00</updated>
     <summary>Article by Shuo Chen, Mengxing Li, Jishi Wang
 DOI: https://doi.org/10.1515/med-2025-1168</summary>
   </entry>
@@ -375,7 +372,7 @@ DOI: https://doi.org/10.1515/med-2025-1168</summary>
     <title>Impact of peripheral conditioning on reperfusion injury following primary percutaneous coronary intervention in diabetic and non-diabetic STEMI patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1175/html"/>
     <id>https://doi.org/10.1515/med-2025-1175</id>
-    <updated>2025-05-04T22:09:42.898767+00:00</updated>
+    <updated>2025-05-06T05:01:58.862754+00:00</updated>
     <summary>Article by Veljko Andric, Radica Zivkovic Zaric, Dusan Andric, Jovan Petrovic, Goran Davidovic
 DOI: https://doi.org/10.1515/med-2025-1175</summary>
   </entry>
@@ -383,7 +380,7 @@ DOI: https://doi.org/10.1515/med-2025-1175</summary>
     <title>Clinical efficacy of azacitidine in the treatment of middle- and high-risk myelodysplastic syndrome in middle-aged and elderly patients: A retrospective study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1151/html"/>
     <id>https://doi.org/10.1515/med-2025-1151</id>
-    <updated>2025-05-04T22:09:42.898771+00:00</updated>
+    <updated>2025-05-06T05:01:58.862757+00:00</updated>
     <summary>Article by Liang Li, Jianjun Bian, Yuxuan Su, Chunchun Zhang
 DOI: https://doi.org/10.1515/med-2025-1151</summary>
   </entry>
@@ -391,7 +388,7 @@ DOI: https://doi.org/10.1515/med-2025-1151</summary>
     <title>The effect of ambulatory blood pressure load on mitral regurgitation in continuous ambulatory peritoneal dialysis patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1155/html"/>
     <id>https://doi.org/10.1515/med-2025-1155</id>
-    <updated>2025-05-04T22:09:42.898775+00:00</updated>
+    <updated>2025-05-06T05:01:58.862761+00:00</updated>
     <summary>Article by Qingyun Li, Xinqiang Zhong, Tongxia Cui, Bairong Chen, Weiping Zhu
 DOI: https://doi.org/10.1515/med-2025-1155</summary>
   </entry>
@@ -399,7 +396,7 @@ DOI: https://doi.org/10.1515/med-2025-1155</summary>
     <title>Expression and clinical significance of ITGA3 in breast cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1113/html"/>
     <id>https://doi.org/10.1515/med-2024-1113</id>
-    <updated>2025-05-04T22:09:42.898778+00:00</updated>
+    <updated>2025-05-06T05:01:58.862765+00:00</updated>
     <summary>Article by Huachun Song, Meihui Gao, Zheng Bao, Yong Yang, Yang Chen, Jing Hao
 DOI: https://doi.org/10.1515/med-2024-1113</summary>
   </entry>
@@ -407,7 +404,7 @@ DOI: https://doi.org/10.1515/med-2024-1113</summary>
     <title>Single-nucleus RNA sequencing reveals ARHGAP28 expression of podocytes as a biomarker in human diabetic nephropathy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1146/html"/>
     <id>https://doi.org/10.1515/med-2025-1146</id>
-    <updated>2025-05-04T22:09:42.898782+00:00</updated>
+    <updated>2025-05-06T05:01:58.862769+00:00</updated>
     <summary>Article by Fengxia Zhang, Xianhu Tang, Zhimei Zeng, Chunyu Cao, Caocui Yun, Yue Shen, Chaohong Nie, Ying Xiong, Mao Chulian, Yueheng Wu, Ruiquan Xu
 DOI: https://doi.org/10.1515/med-2025-1146</summary>
   </entry>
@@ -415,7 +412,7 @@ DOI: https://doi.org/10.1515/med-2025-1146</summary>
     <title>rSIG combined with NLR in the prognostic assessment of patients with multiple injuries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1161/html"/>
     <id>https://doi.org/10.1515/med-2025-1161</id>
-    <updated>2025-05-04T22:09:42.898786+00:00</updated>
+    <updated>2025-05-06T05:01:58.862773+00:00</updated>
     <summary>Article by Dan Wei, Xing Liu, Yanlai Gu, Qiuhong Fu, Hua Tang
 DOI: https://doi.org/10.1515/med-2025-1161</summary>
   </entry>
@@ -423,7 +420,7 @@ DOI: https://doi.org/10.1515/med-2025-1161</summary>
     <title>Toxic metals and metalloids in collagen supplements of fish and jellyfish origin: Risk assessment for daily intake</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1141/html"/>
     <id>https://doi.org/10.1515/med-2025-1141</id>
-    <updated>2025-05-04T22:09:42.898789+00:00</updated>
+    <updated>2025-05-06T05:01:58.862777+00:00</updated>
     <summary>Article by Gaetano Cammilleri, Marina Tortorici, Licia Pantano, Francesco Giuseppe Galluzzo, Andrea Pulvirenti, Maria Drussilla Buscemi, Gianluigi Maria Lo Dico, Andrea Macaluso, Vittorio Calabrese, Ursula M. Jacob, Vincenzo Ferrantelli
 DOI: https://doi.org/10.1515/med-2025-1141</summary>
   </entry>
@@ -431,7 +428,7 @@ DOI: https://doi.org/10.1515/med-2025-1141</summary>
     <title>Exploring causal relationship between 41 inflammatory cytokines and marginal zone lymphoma: A bidirectional Mendelian randomization study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1171/html"/>
     <id>https://doi.org/10.1515/med-2025-1171</id>
-    <updated>2025-05-04T22:09:42.898793+00:00</updated>
+    <updated>2025-05-06T05:01:58.862781+00:00</updated>
     <summary>Article by Xinhang Hu, Fenglei Yu, Muyun Peng, Zhi Yang, Yifan Ouyang, Zhe Zhang, Wangcheng Zhao, Xuyang Yi, Huali Hu, Xingchun Huang, Li Wang
 DOI: https://doi.org/10.1515/med-2025-1171</summary>
   </entry>
@@ -439,7 +436,7 @@ DOI: https://doi.org/10.1515/med-2025-1171</summary>
     <title>Gender beliefs and legitimization of dating violence in adolescents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1188/html"/>
     <id>https://doi.org/10.1515/med-2025-1188</id>
-    <updated>2025-05-04T22:09:42.898797+00:00</updated>
+    <updated>2025-05-06T05:01:58.862785+00:00</updated>
     <summary>Article by Sónia Brás Ferreira, Mayana Bonfim Ferreira, Nadirlene Pereira Gomes, Amâncio António de Sousa Carvalho
 DOI: https://doi.org/10.1515/med-2025-1188</summary>
   </entry>
@@ -447,7 +444,7 @@ DOI: https://doi.org/10.1515/med-2025-1188</summary>
     <title>Effect of serum IL-6, CRP, and MMP-9 levels on the efficacy of modified preperitoneal Kugel repair in patients with inguinal hernia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1066/html"/>
     <id>https://doi.org/10.1515/med-2024-1066</id>
-    <updated>2025-05-04T22:09:42.898801+00:00</updated>
+    <updated>2025-05-06T05:01:58.862789+00:00</updated>
     <summary>Article by Lifang Li, Renjie Cui, Wanli Ma, Kunhou Yao
 DOI: https://doi.org/10.1515/med-2024-1066</summary>
   </entry>
@@ -455,7 +452,7 @@ DOI: https://doi.org/10.1515/med-2024-1066</summary>
     <title>Effect of smoking and smoking cessation on hematological parameters in polycythemic patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1181/html"/>
     <id>https://doi.org/10.1515/med-2025-1181</id>
-    <updated>2025-05-04T22:09:42.898806+00:00</updated>
+    <updated>2025-05-06T05:01:58.862793+00:00</updated>
     <summary>Article by Kadir Ilkkilic, Dilek Karadogan, Tahsin Gökhan Telatar, Osman Cure, Aleksandra Klisic
 DOI: https://doi.org/10.1515/med-2025-1181</summary>
   </entry>
@@ -463,7 +460,7 @@ DOI: https://doi.org/10.1515/med-2025-1181</summary>
     <title>Pathogen surveillance and risk factors for pulmonary infection in patients with lung cancer: A retrospective single-center study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1180/html"/>
     <id>https://doi.org/10.1515/med-2025-1180</id>
-    <updated>2025-05-04T22:09:42.898810+00:00</updated>
+    <updated>2025-05-06T05:01:58.862797+00:00</updated>
     <summary>Article by Hu Shan, Jing Wang, Qiuhong Zhang, Zongjuan Ming, Yonghong Zhang, Ping He, Ping Fang, Ming Zhang, Wei Li, Hongyang Shi, Yuanlin Guan, Shuanying Yang
 DOI: https://doi.org/10.1515/med-2025-1180</summary>
   </entry>
@@ -471,7 +468,7 @@ DOI: https://doi.org/10.1515/med-2025-1180</summary>
     <title>Necroptosis of hippocampal neurons in paclitaxel chemotherapy-induced cognitive impairment mediates microglial activation via TLR4/MyD88 signaling pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1182/html"/>
     <id>https://doi.org/10.1515/med-2025-1182</id>
-    <updated>2025-05-04T22:09:42.898813+00:00</updated>
+    <updated>2025-05-06T05:01:58.862800+00:00</updated>
     <summary>Article by Lan-Lan Liu, Xin Liu, Shuang Zhao, Zhao Li, Jia-Xin Liu, Dong-Yang Ma, Xiu-Li Wang
 DOI: https://doi.org/10.1515/med-2025-1182</summary>
   </entry>
@@ -479,7 +476,7 @@ DOI: https://doi.org/10.1515/med-2025-1182</summary>
     <title>The effects of enhanced external counter-pulsation on post-acute sequelae of COVID-19: A narrative review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1067/html"/>
     <id>https://doi.org/10.1515/med-2024-1067</id>
-    <updated>2025-05-04T22:09:42.898817+00:00</updated>
+    <updated>2025-05-06T05:01:58.862804+00:00</updated>
     <summary>Article by Jiecheng Huang, Yuxuan Fan, Yongshun Wang, Jingjin Liu
 DOI: https://doi.org/10.1515/med-2024-1067</summary>
   </entry>
@@ -487,7 +484,7 @@ DOI: https://doi.org/10.1515/med-2024-1067</summary>
     <title>Diabetes-related cognitive impairment: Mechanisms, symptoms, and treatments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1091/html"/>
     <id>https://doi.org/10.1515/med-2024-1091</id>
-    <updated>2025-05-04T22:09:42.898821+00:00</updated>
+    <updated>2025-05-06T05:01:58.862808+00:00</updated>
     <summary>Article by Xueting Yu, Huimei He, Jie Wen, Xiuyuan Xu, Zhaojuan Ruan, Rui Hu, Fang Wang, Haibing Ju
 DOI: https://doi.org/10.1515/med-2024-1091</summary>
   </entry>
@@ -495,7 +492,7 @@ DOI: https://doi.org/10.1515/med-2024-1091</summary>
     <title>Microscopic changes and gross morphology of placenta in women affected by gestational diabetes mellitus in dietary treatment: A systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1142/html"/>
     <id>https://doi.org/10.1515/med-2025-1142</id>
-    <updated>2025-05-04T22:09:42.898825+00:00</updated>
+    <updated>2025-05-06T05:01:58.862812+00:00</updated>
     <summary>Article by Rossella Molitierno, Amalia Imparato, Nicola Iavazzo, Cecilia Salzillo, Andrea Marzullo, Antonio Simone Laganà, Andrea Etrusco, Vittorio Agrifoglio, Antonio D’Amato, Esposito Renata, Maria Giovanna Vastarella, Pasquale De Franciscis, Marco La Verde
 DOI: https://doi.org/10.1515/med-2025-1142</summary>
   </entry>
@@ -503,7 +500,7 @@ DOI: https://doi.org/10.1515/med-2025-1142</summary>
     <title>Review of mechanisms and frontier applications in IL-17A-induced hypertension</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1159/html"/>
     <id>https://doi.org/10.1515/med-2025-1159</id>
-    <updated>2025-05-04T22:09:42.898830+00:00</updated>
+    <updated>2025-05-06T05:01:58.862817+00:00</updated>
     <summary>Article by Ruiyuan Li, Lipeng Guo, Bin Liang, Wei Sun, Feng Hai
 DOI: https://doi.org/10.1515/med-2025-1159</summary>
   </entry>
@@ -511,7 +508,7 @@ DOI: https://doi.org/10.1515/med-2025-1159</summary>
     <title>Research progress on the correlation between islet amyloid peptides and type 2 diabetes mellitus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1124/html"/>
     <id>https://doi.org/10.1515/med-2024-1124</id>
-    <updated>2025-05-04T22:09:42.898833+00:00</updated>
+    <updated>2025-05-06T05:01:58.862821+00:00</updated>
     <summary>Article by GuangZhi Li, Dongmei Zhang
 DOI: https://doi.org/10.1515/med-2024-1124</summary>
   </entry>
@@ -519,7 +516,7 @@ DOI: https://doi.org/10.1515/med-2024-1124</summary>
     <title>The safety and efficacy of BCG combined with mitomycin C compared with BCG monotherapy in patients with non-muscle-invasive bladder cancer: A systematic review and meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1134/html"/>
     <id>https://doi.org/10.1515/med-2024-1134</id>
-    <updated>2025-05-04T22:09:42.898837+00:00</updated>
+    <updated>2025-05-06T05:01:58.862825+00:00</updated>
     <summary>Article by Jianping Liu, Weijian Zhou, Wei Zhang, Congwang Chang, Peng Zhang, Guanghua Fu
 DOI: https://doi.org/10.1515/med-2024-1134</summary>
   </entry>
@@ -527,7 +524,7 @@ DOI: https://doi.org/10.1515/med-2024-1134</summary>
     <title>The application of augmented reality in robotic general surgery: A mini-review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1170/html"/>
     <id>https://doi.org/10.1515/med-2025-1170</id>
-    <updated>2025-05-04T22:09:42.898841+00:00</updated>
+    <updated>2025-05-06T05:01:58.862829+00:00</updated>
     <summary>Article by Gian Luigi Canu, Fabio Medas, Eleonora Noli, Giacomo Calini, Matteo Rottoli, Alessandra Ruggeri, Federico Cappellacci, Pietro Giorgio Calò
 DOI: https://doi.org/10.1515/med-2025-1170</summary>
   </entry>
@@ -535,7 +532,7 @@ DOI: https://doi.org/10.1515/med-2025-1170</summary>
     <title>Plant polyphenols, terpenes, and terpenoids in oral health</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1183/html"/>
     <id>https://doi.org/10.1515/med-2025-1183</id>
-    <updated>2025-05-04T22:09:42.898845+00:00</updated>
+    <updated>2025-05-06T05:01:58.862833+00:00</updated>
     <summary>Article by Vida Arzani, Mohsen Soleimani, Tilman Fritsch, Ursula M. Jacob, Vittorio Calabrese, Ahmad Arzani
 DOI: https://doi.org/10.1515/med-2025-1183</summary>
   </entry>
@@ -543,7 +540,7 @@ DOI: https://doi.org/10.1515/med-2025-1183</summary>
     <title>Delayed graft function after renal transplantation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1140/html"/>
     <id>https://doi.org/10.1515/med-2025-1140</id>
-    <updated>2025-05-04T22:09:42.898848+00:00</updated>
+    <updated>2025-05-06T05:01:58.862836+00:00</updated>
     <summary>Article by Darijus Skaudickas, Povilas Lenčiauskas, Augustas Skaudickas, Andrejus Bura
 DOI: https://doi.org/10.1515/med-2025-1140</summary>
   </entry>
@@ -551,7 +548,7 @@ DOI: https://doi.org/10.1515/med-2025-1140</summary>
     <title>Semaglutide treatment for type 2 diabetes in a patient with chronic myeloid leukemia: A case report and review of the literature</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1184/html"/>
     <id>https://doi.org/10.1515/med-2025-1184</id>
-    <updated>2025-05-04T22:09:42.898853+00:00</updated>
+    <updated>2025-05-06T05:01:58.862840+00:00</updated>
     <summary>Article by Yuchen Zhang, Anxin Li
 DOI: https://doi.org/10.1515/med-2025-1184</summary>
   </entry>
@@ -559,7 +556,7 @@ DOI: https://doi.org/10.1515/med-2025-1184</summary>
     <title>Diverse electrophysiological demyelinating features in a late-onset glycogen storage disease type IIIa case</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1172/html"/>
     <id>https://doi.org/10.1515/med-2025-1172</id>
-    <updated>2025-05-04T22:09:42.898857+00:00</updated>
+    <updated>2025-05-06T05:01:58.862844+00:00</updated>
     <summary>Article by Xiajun Zhou, Xingxing Zhong, Mingshi Gao, Dongyue Yue, Kai Qiao, Min Wang, Nan Zhi, Wenwei Cao, Lu Han, Jiahong Lu, Wenhua Zhu, Chongbo Zhao, Yangtai Guan
 DOI: https://doi.org/10.1515/med-2025-1172</summary>
   </entry>
@@ -567,7 +564,7 @@ DOI: https://doi.org/10.1515/med-2025-1172</summary>
     <title>Expression of concern “A ceRNA network mediated by LINC00475 in papillary thyroid carcinoma”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-9996/html"/>
     <id>https://doi.org/10.1515/med-2025-9996</id>
-    <updated>2025-05-04T22:09:42.898861+00:00</updated>
+    <updated>2025-05-06T05:01:58.862848+00:00</updated>
     <summary>Article by Editors of Open Medicine
 DOI: https://doi.org/10.1515/med-2025-9996</summary>
   </entry>
@@ -575,7 +572,7 @@ DOI: https://doi.org/10.1515/med-2025-9996</summary>
     <title>Expression of concern “Notoginsenoside R1 alleviates spinal cord injury through the miR-301a/KLF7 axis to activate Wnt/β-catenin pathway”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-9997/html"/>
     <id>https://doi.org/10.1515/med-2025-9997</id>
-    <updated>2025-05-04T22:09:42.898865+00:00</updated>
+    <updated>2025-05-06T05:01:58.862852+00:00</updated>
     <summary>Article by Editors of Open Medicine
 DOI: https://doi.org/10.1515/med-2025-9997</summary>
   </entry>
@@ -583,7 +580,7 @@ DOI: https://doi.org/10.1515/med-2025-9997</summary>
     <title>Expression of concern “circ_0020123 promotes cell proliferation and migration in lung adenocarcinoma via PDZD8”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-9998/html"/>
     <id>https://doi.org/10.1515/med-2025-9998</id>
-    <updated>2025-05-04T22:09:42.898868+00:00</updated>
+    <updated>2025-05-06T05:01:58.862855+00:00</updated>
     <summary>Article by Editors of Open Medicine
 DOI: https://doi.org/10.1515/med-2025-9998</summary>
   </entry>
@@ -591,7 +588,7 @@ DOI: https://doi.org/10.1515/med-2025-9998</summary>
     <title>Corrigendum to “Empagliflozin improves aortic injury in obese mice by regulating fatty acid metabolism”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-9999/html"/>
     <id>https://doi.org/10.1515/med-2025-9999</id>
-    <updated>2025-05-04T22:09:42.898872+00:00</updated>
+    <updated>2025-05-06T05:01:58.862860+00:00</updated>
     <summary>Article by Lin Yue, Yue Wang, Cuiying Wang, Shu Niu, Xihong Dong, Yaqing Guan, Shuchun Chen
 DOI: https://doi.org/10.1515/med-2025-9999</summary>
   </entry>
@@ -599,7 +596,7 @@ DOI: https://doi.org/10.1515/med-2025-9999</summary>
     <title>Corrigendum to “Comparing the therapeutic efficacy of endoscopic minimally invasive surgery and traditional surgery for early-stage breast cancer: A meta-analysis”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-9994/html"/>
     <id>https://doi.org/10.1515/med-2025-9994</id>
-    <updated>2025-05-04T22:09:42.898876+00:00</updated>
+    <updated>2025-05-06T05:01:58.862864+00:00</updated>
     <summary>Article by Qiji Ma, Tingting Shi, Huan Wang, Jie Xing
 DOI: https://doi.org/10.1515/med-2025-9994</summary>
   </entry>
@@ -607,7 +604,7 @@ DOI: https://doi.org/10.1515/med-2025-9994</summary>
     <title>Retraction of “miR-654-5p promotes gastric cancer progression via the GPRIN1/NF-κB pathway”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-9995/html"/>
     <id>https://doi.org/10.1515/med-2025-9995</id>
-    <updated>2025-05-04T22:09:42.898880+00:00</updated>
+    <updated>2025-05-06T05:01:58.862868+00:00</updated>
     <summary>Article by Weidong Zhou, Peifei Li, Peihua Jin
 DOI: https://doi.org/10.1515/med-2025-9995</summary>
   </entry>
@@ -615,7 +612,7 @@ DOI: https://doi.org/10.1515/med-2025-9995</summary>
     <title>Unveiling novel biomarkers for platinum chemoresistance in ovarian cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1084/html"/>
     <id>https://doi.org/10.1515/med-2024-1084</id>
-    <updated>2025-05-04T22:09:42.898883+00:00</updated>
+    <updated>2025-05-06T05:01:58.862871+00:00</updated>
     <summary>Article by Caixia Wang, Changsheng Peng, Chuan Xie
 DOI: https://doi.org/10.1515/med-2024-1084</summary>
   </entry>
@@ -623,7 +620,7 @@ DOI: https://doi.org/10.1515/med-2024-1084</summary>
     <title>Lathyrol affects the expression of AR and PSA and inhibits the malignant behavior of RCC cells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2024-1136/html"/>
     <id>https://doi.org/10.1515/med-2024-1136</id>
-    <updated>2025-05-04T22:09:42.898887+00:00</updated>
+    <updated>2025-05-06T05:01:58.862875+00:00</updated>
     <summary>Article by Shengyou Song, Lunwei Tai, Lei Zhou, Junling Jiang, Junfeng Zhao
 DOI: https://doi.org/10.1515/med-2024-1136</summary>
   </entry>
@@ -631,7 +628,7 @@ DOI: https://doi.org/10.1515/med-2024-1136</summary>
     <title>The era of increasing cancer survivorship: Trends in fertility preservation, medico-legal implications, and ethical challenges</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1144/html"/>
     <id>https://doi.org/10.1515/med-2025-1144</id>
-    <updated>2025-05-04T22:09:42.898891+00:00</updated>
+    <updated>2025-05-06T05:01:58.862879+00:00</updated>
     <summary>Article by Lina De Paola, Gabriele Napoletano, Giuseppe Gullo, Francesco Circosta, Gianluca Montanari Vergallo, Susanna Marinelli
 DOI: https://doi.org/10.1515/med-2025-1144</summary>
   </entry>
@@ -639,7 +636,7 @@ DOI: https://doi.org/10.1515/med-2025-1144</summary>
     <title>Bone scintigraphy and positron emission tomography in the early diagnosis of MRONJ</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1143/html"/>
     <id>https://doi.org/10.1515/med-2025-1143</id>
-    <updated>2025-05-04T22:09:42.898895+00:00</updated>
+    <updated>2025-05-06T05:01:58.862882+00:00</updated>
     <summary>Article by Daniele Pergolini, Mohamed Mohsen, Gianluca Tenore, Gaspare Palaia, Lorenzo Magnifico, Alessandro Del Vecchio, Umberto Romeo
 DOI: https://doi.org/10.1515/med-2025-1143</summary>
   </entry>
@@ -647,7 +644,7 @@ DOI: https://doi.org/10.1515/med-2025-1143</summary>
     <title>Exploration of mRNA-modifying METTL3 oncogene as momentous prognostic biomarker responsible for colorectal cancer development</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1167/html"/>
     <id>https://doi.org/10.1515/med-2025-1167</id>
-    <updated>2025-05-04T22:09:42.898899+00:00</updated>
+    <updated>2025-05-06T05:01:58.862886+00:00</updated>
     <summary>Article by Muhammad Naveed, Muhammad Saad Mughal, Tariq Aziz, Syeda Izma Makhdoom, Hamza Jamil, Ayaz Ali Khan, Nawal Al-Hoshani, Fakhria A. Al-Joufi, Roaa Mohammed Tahir Kassim, Maher S. Alwethaynani
 DOI: https://doi.org/10.1515/med-2025-1167</summary>
   </entry>
@@ -655,7 +652,7 @@ DOI: https://doi.org/10.1515/med-2025-1167</summary>
     <title>Interaction and verification of ferroptosis-related RNAs Rela and Stat3 in promoting sepsis-associated acute kidney injury</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1156/html"/>
     <id>https://doi.org/10.1515/med-2025-1156</id>
-    <updated>2025-05-04T22:09:42.898903+00:00</updated>
+    <updated>2025-05-06T05:01:58.862890+00:00</updated>
     <summary>Article by Yang Cao, Yansong Liu, Yunlong Li, Junbo Zheng, Yue Wang, Hongliang Wang
 DOI: https://doi.org/10.1515/med-2025-1156</summary>
   </entry>
@@ -663,7 +660,7 @@ DOI: https://doi.org/10.1515/med-2025-1156</summary>
     <title>Dynamic changes in lactate-related genes in microglia and their role in immune cell interactions after ischemic stroke</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/med-2025-1178/html"/>
     <id>https://doi.org/10.1515/med-2025-1178</id>
-    <updated>2025-05-04T22:09:42.898906+00:00</updated>
+    <updated>2025-05-06T05:01:58.862894+00:00</updated>
     <summary>Article by Jinzhong Yao, Huan Deng, Peng Wang, Bo Li, Zaisheng Qin
 DOI: https://doi.org/10.1515/med-2025-1178</summary>
   </entry>

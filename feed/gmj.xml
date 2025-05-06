@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Georgian Mathematical Journal</title>
-  <link href="https://www.degruyterbrill.com/journal/key/gmj/32/2/html"/>
-  <updated>2025-05-04T22:05:59.338648+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/gmj/32/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gmj.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/gmj/html" rel="related"/>
+  <updated>2025-05-06T04:56:53.805484+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gmj.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Georgian Mathematical Journal</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gmj.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/gmj-2025-frontmatter2</id>
-    <updated>2025-05-04T22:05:59.338669+00:00</updated>
+    <updated>2025-05-06T04:56:53.805507+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/gmj-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Global existence for hyperbolic Navier–Stokes equations in Gevrey class</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2056/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2056</id>
-    <updated>2025-05-04T22:05:59.338677+00:00</updated>
+    <updated>2025-05-06T04:56:53.805516+00:00</updated>
     <summary>Article by Bouthaina Abdelhedi, Rim Farhat
 DOI: https://doi.org/10.1515/gmj-2024-2056</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2056</summary>
     <title>Some properties of discrete classes of weights satisfying reverse Hölder inequality and reverse inequality for nonincreasing sequences</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2052/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2052</id>
-    <updated>2025-05-04T22:05:59.338684+00:00</updated>
+    <updated>2025-05-06T04:56:53.805524+00:00</updated>
     <summary>Article by Maryam M. Abuelwafa, Safi S. Rabie, Ravi P. Agarwal, Samir H. Saker
 DOI: https://doi.org/10.1515/gmj-2024-2052</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2052</summary>
     <title>Insights into a new class of unbounded operators</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2047/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2047</id>
-    <updated>2025-05-04T22:05:59.338691+00:00</updated>
+    <updated>2025-05-06T04:56:53.805531+00:00</updated>
     <summary>Article by Aymen Bahloul
 DOI: https://doi.org/10.1515/gmj-2024-2047</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2047</summary>
     <title>Study of a boundary value problem governed by the general elasticity system with a new boundary conditions in a thin domain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2044/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2044</id>
-    <updated>2025-05-04T22:05:59.338697+00:00</updated>
+    <updated>2025-05-06T04:56:53.805538+00:00</updated>
     <summary>Article by Abla Boulaouad, Youcef Djenaihi, Salah Boulaaras, Hamid Benseridi, Mourad Dilmi
 DOI: https://doi.org/10.1515/gmj-2024-2044</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2044</summary>
     <title>Dynamical mixed boundary-transmission problems of the generalized thermo-electro-magneto-elasticity theory for composed structures</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2051/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2051</id>
-    <updated>2025-05-04T22:05:59.338704+00:00</updated>
+    <updated>2025-05-06T04:56:53.805545+00:00</updated>
     <summary>Article by Tengiz Buchukuri, Otar Chkadua, David Natroshvili
 DOI: https://doi.org/10.1515/gmj-2024-2051</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2051</summary>
     <title>Weighted Rellich and Hardy inequalities inLp(·)spaces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2053/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2053</id>
-    <updated>2025-05-04T22:05:59.338711+00:00</updated>
+    <updated>2025-05-06T04:56:53.805552+00:00</updated>
     <summary>Article by David Edmunds, Alexander Meskhi
 DOI: https://doi.org/10.1515/gmj-2024-2053</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2053</summary>
     <title>Triple weak solution forp(x)-Laplacian like problem involving no flux boundary condition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2043/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2043</id>
-    <updated>2025-05-04T22:05:59.338717+00:00</updated>
+    <updated>2025-05-06T04:56:53.805559+00:00</updated>
     <summary>Article by Khaled Kefi, Nguyen Thanh Chung, Walid Abdelfattah
 DOI: https://doi.org/10.1515/gmj-2024-2043</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2043</summary>
     <title>Time-antiperiodic and space-periodic boundary value problem for one class of semilinear partial differential equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2046/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2046</id>
-    <updated>2025-05-04T22:05:59.338723+00:00</updated>
+    <updated>2025-05-06T04:56:53.805565+00:00</updated>
     <summary>Article by Sergo Kharibegashvili, Bidzina Midodashvili
 DOI: https://doi.org/10.1515/gmj-2024-2046</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2046</summary>
     <title>Modular structure theory on Hom-Lie algebras</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2048/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2048</id>
-    <updated>2025-05-04T22:05:59.338730+00:00</updated>
+    <updated>2025-05-06T04:56:53.805574+00:00</updated>
     <summary>Article by Dan Mao, Baoling Guan, Liangyun Chen
 DOI: https://doi.org/10.1515/gmj-2024-2048</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2048</summary>
     <title>Existence result for a Steklov problem involving a singular nonlinearity and variable exponents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2049/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2049</id>
-    <updated>2025-05-04T22:05:59.338738+00:00</updated>
+    <updated>2025-05-06T04:56:53.805580+00:00</updated>
     <summary>Article by Haikel Ouerghi, Khaled Ben Ali, Amor Drissi
 DOI: https://doi.org/10.1515/gmj-2024-2049</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2049</summary>
     <title>Approximation of functions inH⃗pη1,η2class by Fejér-type operators</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2041/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2041</id>
-    <updated>2025-05-04T22:05:59.338745+00:00</updated>
+    <updated>2025-05-06T04:56:53.805586+00:00</updated>
     <summary>Article by Yogeshkumar K. Patel, Rajendra G. Vyas
 DOI: https://doi.org/10.1515/gmj-2024-2041</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2041</summary>
     <title>Limit cycles for a kind of piecewise differential system with switching liney= 0</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2067/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2067</id>
-    <updated>2025-05-04T22:05:59.338751+00:00</updated>
+    <updated>2025-05-06T04:56:53.805593+00:00</updated>
     <summary>Article by Nabil Rezaiki, Amel Boulfoul
 DOI: https://doi.org/10.1515/gmj-2024-2067</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2067</summary>
     <title>Marcinkiewicz spaces with variable exponents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2040/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2040</id>
-    <updated>2025-05-04T22:05:59.338757+00:00</updated>
+    <updated>2025-05-06T04:56:53.805599+00:00</updated>
     <summary>Article by Liuye Xia, Yingxiao Han, Mi Fang, Hongya Gao
 DOI: https://doi.org/10.1515/gmj-2024-2040</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2040</summary>
     <title>On generalized fraction and power series properties of 𝒮-Noetherian rings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2054/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2054</id>
-    <updated>2025-05-04T22:05:59.338763+00:00</updated>
+    <updated>2025-05-06T04:56:53.805606+00:00</updated>
     <summary>Article by Xiaolei Zhang
 DOI: https://doi.org/10.1515/gmj-2024-2054</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/gmj-2024-2054</summary>
     <title>Existence of weak solutions for double phase fractional problems with variable exponents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gmj-2024-2055/html"/>
     <id>https://doi.org/10.1515/gmj-2024-2055</id>
-    <updated>2025-05-04T22:05:59.338770+00:00</updated>
+    <updated>2025-05-06T04:56:53.805612+00:00</updated>
     <summary>Article by Jiabin Zuo, J. Vanterler da C. Sousa
 DOI: https://doi.org/10.1515/gmj-2024-2055</summary>
   </entry>

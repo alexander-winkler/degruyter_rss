@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Der Islam</title>
-  <link href="https://www.degruyterbrill.com/journal/key/islm/102/1/html"/>
-  <updated>2025-05-04T22:07:03.224143+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/islm/102/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/islm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/islm/html" rel="related"/>
+  <updated>2025-05-06T04:58:19.105370+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/islm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Der Islam</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/islm.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/islam-2025-frontmatter1</id>
-    <updated>2025-05-04T22:07:03.224165+00:00</updated>
+    <updated>2025-05-06T04:58:19.105399+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/islam-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Werner Ende</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0001/html"/>
     <id>https://doi.org/10.1515/islam-2025-0001</id>
-    <updated>2025-05-04T22:07:03.224173+00:00</updated>
+    <updated>2025-05-06T04:58:19.105408+00:00</updated>
     <summary>Article by Stefan Reichmuth
 DOI: https://doi.org/10.1515/islam-2025-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/islam-2025-0001</summary>
     <title>Who are theSābiqūn? From the Companions of the Tree to theMuhājirūn:The Story of a Controversy and its Implications for theUmma(1st–2nd/7th–8th Century)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0002/html"/>
     <id>https://doi.org/10.1515/islam-2025-0002</id>
-    <updated>2025-05-04T22:07:03.224181+00:00</updated>
+    <updated>2025-05-06T04:58:19.105419+00:00</updated>
     <summary>Article by Adrien de Jarmy
 DOI: https://doi.org/10.1515/islam-2025-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/islam-2025-0002</summary>
     <title>Al-ʿAwtabī’sKitāb al-Ansāb: Challenges in Attribution and Composition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0003/html"/>
     <id>https://doi.org/10.1515/islam-2025-0003</id>
-    <updated>2025-05-04T22:07:03.224188+00:00</updated>
+    <updated>2025-05-06T04:58:19.105426+00:00</updated>
     <summary>Article by Hassan M. A. Al-Naboodah
 DOI: https://doi.org/10.1515/islam-2025-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/islam-2025-0003</summary>
     <title>Eleven Islamic Tombstones from Egypt: A Window into the Histories of Early Islamization and of Modern Dislocation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0004/html"/>
     <id>https://doi.org/10.1515/islam-2025-0004</id>
-    <updated>2025-05-04T22:07:03.224194+00:00</updated>
+    <updated>2025-05-06T04:58:19.105432+00:00</updated>
     <summary>Article by Teresa Bernheimer, Lorenz Korn
 DOI: https://doi.org/10.1515/islam-2025-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/islam-2025-0004</summary>
     <title>Water Communities in the Plain of Palermo. A Neglected Islamic Document from Norman Sicily</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0005/html"/>
     <id>https://doi.org/10.1515/islam-2025-0005</id>
-    <updated>2025-05-04T22:07:03.224200+00:00</updated>
+    <updated>2025-05-06T04:58:19.105438+00:00</updated>
     <summary>Article by Theresa Jäckh, Hossameldin Ali
 DOI: https://doi.org/10.1515/islam-2025-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/islam-2025-0005</summary>
     <title>Thinking Through Smell: Theories of Olfaction in Early Modern Ottoman and Islamic Culture</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0006/html"/>
     <id>https://doi.org/10.1515/islam-2025-0006</id>
-    <updated>2025-05-04T22:07:03.224206+00:00</updated>
+    <updated>2025-05-06T04:58:19.105444+00:00</updated>
     <summary>Article by Christian Lange
 DOI: https://doi.org/10.1515/islam-2025-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/islam-2025-0006</summary>
     <title>Odes to a Rūmī Qāḍī in Greater Syria and Egypt: Literary Networks Surrounding Zekeriyāzāde Yaḥyā Efendī (1561–1644)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0007/html"/>
     <id>https://doi.org/10.1515/islam-2025-0007</id>
-    <updated>2025-05-04T22:07:03.224213+00:00</updated>
+    <updated>2025-05-06T04:58:19.105450+00:00</updated>
     <summary>Article by Ercan Akyol, Ali Benli
 DOI: https://doi.org/10.1515/islam-2025-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/islam-2025-0007</summary>
     <title>The Reception of Ibn Taymiyya (d. 728/1328) in Ibrāhīm al-Kūrānī’s (d. 1101/1690) Works</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0008/html"/>
     <id>https://doi.org/10.1515/islam-2025-0008</id>
-    <updated>2025-05-04T22:07:03.224219+00:00</updated>
+    <updated>2025-05-06T04:58:19.105456+00:00</updated>
     <summary>Article by Naser Dumairieh
 DOI: https://doi.org/10.1515/islam-2025-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/islam-2025-0008</summary>
     <title>The Turkic Inscription at the Imam Ali Shrine in Najaf</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0009/html"/>
     <id>https://doi.org/10.1515/islam-2025-0009</id>
-    <updated>2025-05-04T22:07:03.224225+00:00</updated>
+    <updated>2025-05-06T04:58:19.105462+00:00</updated>
     <summary>Article by Mohammad Amir Hakimi Parsa
 DOI: https://doi.org/10.1515/islam-2025-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/islam-2025-0009</summary>
     <title>Ileana Baird and Hülya Yağcıoğlu,All Things Arabia: Arabian Identity and Material Culture, Leiden: Brill, 2021, hardback, 230 pp. + bibliography and index, ISBN 9789004435919.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0010/html"/>
     <id>https://doi.org/10.1515/islam-2025-0010</id>
-    <updated>2025-05-04T22:07:03.224232+00:00</updated>
+    <updated>2025-05-06T04:58:19.105479+00:00</updated>
     <summary>Article by Ellen Kenney
 DOI: https://doi.org/10.1515/islam-2025-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/islam-2025-0010</summary>
     <title>Norman Cigar,The Historical Chronicle of Abū ʿAdballāh Maḥammad Ibn Ibrāhim al-Dukkālī: Fes in the Mid-18thCentury (1149/1736–1179/1766), Brill, 2023, 348 pages, ISBN 978-90-04-52514-6.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0011/html"/>
     <id>https://doi.org/10.1515/islam-2025-0011</id>
-    <updated>2025-05-04T22:07:03.224239+00:00</updated>
+    <updated>2025-05-06T04:58:19.105488+00:00</updated>
     <summary>Article by Justin Stearns
 DOI: https://doi.org/10.1515/islam-2025-0011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/islam-2025-0011</summary>
     <title>Étienne de la Vaissière,Asie Centrale 300–850. Des routes et des royaumes, Paris (Les Belles Lettres) 2024, 638 pp., Zahlreiche Karten und Illustrationen, ISBN 978-2-251-45521-1.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0012/html"/>
     <id>https://doi.org/10.1515/islam-2025-0012</id>
-    <updated>2025-05-04T22:07:03.224251+00:00</updated>
+    <updated>2025-05-06T04:58:19.105494+00:00</updated>
     <summary>Article by Jürgen Paul
 DOI: https://doi.org/10.1515/islam-2025-0012</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/islam-2025-0012</summary>
     <title>Ahmed El Shamsy,Rediscovering the Islamic Classics. How Editors and Print Culture Transformed an Intellectual Tradition, Princeton/Oxford: Princeton University Press, 2020, 242 pp. + bibliography and index, ISBN: 9780691174563.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0013/html"/>
     <id>https://doi.org/10.1515/islam-2025-0013</id>
-    <updated>2025-05-04T22:07:03.224257+00:00</updated>
+    <updated>2025-05-06T04:58:19.105501+00:00</updated>
     <summary>Article by Cornelius Berthold
 DOI: https://doi.org/10.1515/islam-2025-0013</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/islam-2025-0013</summary>
     <title>Mohammad Gharaibeh (ed.),Beyond Authenticity: Alternative Approaches to Hadith Narratives and Collections, Islamic History and Civilization, Studies and Texts, vol. 203, Leiden: Brill, 2023, ix, 457 pp., index, illustrations, ISBN 978-90-04-52907 (hardback), 978-90-04-52908-3 (e-book).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0014/html"/>
     <id>https://doi.org/10.1515/islam-2025-0014</id>
-    <updated>2025-05-04T22:07:03.224267+00:00</updated>
+    <updated>2025-05-06T04:58:19.105508+00:00</updated>
     <summary>Article by Christopher Melchert
 DOI: https://doi.org/10.1515/islam-2025-0014</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/islam-2025-0014</summary>
     <title>George Dimitri Sawa,Ḥāwī l-Funūn wa-Salwat al-Maḥzūn, Encompasser of the Arts and Consoler of the Grief-Stricken by Ibn al-Ṭaḥḥān. Annotated Translation and Commentary, Leiden: Brill 2021, 353 pp., 1 Abb., Notenbeispiele, Appendix, Indices, ISBN 978-90-04-46547-6.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0015/html"/>
     <id>https://doi.org/10.1515/islam-2025-0015</id>
-    <updated>2025-05-04T22:07:03.224274+00:00</updated>
+    <updated>2025-05-06T04:58:19.105515+00:00</updated>
     <summary>Article by Ines Weinrich
 DOI: https://doi.org/10.1515/islam-2025-0015</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/islam-2025-0015</summary>
     <title>Walter Edward Young,The Dialectical Forge: Juridical Disputation and the Evolution of Islamic Law, Logic, Argumentation &amp; Reasoning 9, ed. Shahid Rahman, Cham, Switzerland: Springer, 2017, xiv + 643 pages, appendices, glossary, index, ISBN 978-3-319-25522-4 (hardback).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/islam-2025-0016/html"/>
     <id>https://doi.org/10.1515/islam-2025-0016</id>
-    <updated>2025-05-04T22:07:03.224280+00:00</updated>
+    <updated>2025-05-06T04:58:19.105522+00:00</updated>
     <summary>Article by David R. Vishanoff
 DOI: https://doi.org/10.1515/islam-2025-0016</summary>
   </entry>

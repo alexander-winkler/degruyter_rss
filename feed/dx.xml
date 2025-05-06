@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Diagnosis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dx/12/1/html"/>
-  <updated>2025-05-04T22:04:49.852164+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dx/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dx/html" rel="related"/>
+  <updated>2025-05-06T04:55:17.287946+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Diagnosis</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dx.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/dx-2025-frontmatter1</id>
-    <updated>2025-05-04T22:04:49.852181+00:00</updated>
+    <updated>2025-05-06T04:55:17.287973+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dx-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Systematic review and meta-analysis of observational studies evaluating glial fibrillary acidic protein (GFAP) and ubiquitin C-terminal hydrolase L1 (UCHL1) as blood biomarkers of mild acute traumatic brain injury (mTBI) or sport-related concussion (SRC) in adult subjects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0078/html"/>
     <id>https://doi.org/10.1515/dx-2024-0078</id>
-    <updated>2025-05-04T22:04:49.852189+00:00</updated>
+    <updated>2025-05-06T04:55:17.287987+00:00</updated>
     <summary>Article by Paolo Mastandrea, Silvia Mengozzi, Sergio Bernardini
 DOI: https://doi.org/10.1515/dx-2024-0078</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/dx-2024-0078</summary>
     <title>From stable teamwork to dynamic teaming in the ambulatory care diagnostic process</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0108/html"/>
     <id>https://doi.org/10.1515/dx-2024-0108</id>
-    <updated>2025-05-04T22:04:49.852197+00:00</updated>
+    <updated>2025-05-06T04:55:17.287995+00:00</updated>
     <summary>Article by Scott I. Tannenbaum, Eric J. Thomas, Sigall K. Bell, Eduardo Salas
 DOI: https://doi.org/10.1515/dx-2024-0108</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/dx-2024-0108</summary>
     <title>Bringing team science to the ambulatory diagnostic process: how do patients and clinicians develop shared mental models?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0115/html"/>
     <id>https://doi.org/10.1515/dx-2024-0115</id>
-    <updated>2025-05-04T22:04:49.852203+00:00</updated>
+    <updated>2025-05-06T04:55:17.288002+00:00</updated>
     <summary>Article by Aubrey Samost-Williams, Eric J. Thomas, Olivia Lounsbury, Scott I. Tannenbaum, Eduardo Salas, Sigall K. Bell
 DOI: https://doi.org/10.1515/dx-2024-0115</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/dx-2024-0115</summary>
     <title>Vitamin D assay and supplementation: still debatable issues</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0147/html"/>
     <id>https://doi.org/10.1515/dx-2024-0147</id>
-    <updated>2025-05-04T22:04:49.852210+00:00</updated>
+    <updated>2025-05-06T04:55:17.288012+00:00</updated>
     <summary>Article by Mario Plebani, Martina Zaninotto, Sandro Giannini, Stefania Sella, Maria Fusaro, Giovanni Tripepi, Maurizio Gallieni, Markus Herrmann, Mario Cozzolino
 DOI: https://doi.org/10.1515/dx-2024-0147</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/dx-2024-0147</summary>
     <title>Developing a framework for understanding diagnostic reconciliation based on evidence review, stakeholder engagement, and practice evaluation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0132/html"/>
     <id>https://doi.org/10.1515/dx-2024-0132</id>
-    <updated>2025-05-04T22:04:49.852217+00:00</updated>
+    <updated>2025-05-06T04:55:17.288019+00:00</updated>
     <summary>Article by Sandra Algarin Perneth, Gilberto Perez Rodriguez Garcia, Juan P. Brito, Tejal Gandhi, Carma L. Bylund, Ian G. Hargraves, Naykky Singh Ospina
 DOI: https://doi.org/10.1515/dx-2024-0132</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/dx-2024-0132</summary>
     <title>Validity and reliability of Brier scoring for assessment of probabilistic diagnostic reasoning</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2023-0109/html"/>
     <id>https://doi.org/10.1515/dx-2023-0109</id>
-    <updated>2025-05-04T22:04:49.852223+00:00</updated>
+    <updated>2025-05-06T04:55:17.288031+00:00</updated>
     <summary>Article by Nathan Stehouwer, Anastasia Rowland-Seymour, Larry Gruppen, Jeffrey M. Albert, Kelli Qua
 DOI: https://doi.org/10.1515/dx-2023-0109</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/dx-2023-0109</summary>
     <title>Impact of disclosing a working diagnosis during simulated patient handoff presentation in the emergency department: correctness matters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0121/html"/>
     <id>https://doi.org/10.1515/dx-2024-0121</id>
-    <updated>2025-05-04T22:04:49.852229+00:00</updated>
+    <updated>2025-05-06T04:55:17.288037+00:00</updated>
     <summary>Article by Masayuki Amano, Yukinori Harada, Taro Shimizu
 DOI: https://doi.org/10.1515/dx-2024-0121</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/dx-2024-0121</summary>
     <title>Implementation of a bundle to improve diagnosis in hospitalized patients: lessons learned</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0099/html"/>
     <id>https://doi.org/10.1515/dx-2024-0099</id>
-    <updated>2025-05-04T22:04:49.852235+00:00</updated>
+    <updated>2025-05-06T04:55:17.288044+00:00</updated>
     <summary>Article by Ashwin Gupta, Martha Quinn, M. Todd Greene, Karen E. Fowler, Vineet Chopra
 DOI: https://doi.org/10.1515/dx-2024-0099</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/dx-2024-0099</summary>
     <title>Time pressure in diagnosing written clinical cases: an experimental study on time constraints and perceived time pressure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0125/html"/>
     <id>https://doi.org/10.1515/dx-2024-0125</id>
-    <updated>2025-05-04T22:04:49.852241+00:00</updated>
+    <updated>2025-05-06T04:55:17.288049+00:00</updated>
     <summary>Article by Jacky Hooftman, Andrew P.J. Olson, Casey N. McQuade, Sílvia Mamede, Cordula Wagner, Laura Zwaan
 DOI: https://doi.org/10.1515/dx-2024-0125</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/dx-2024-0125</summary>
     <title>A decision support system to increase the compliance of diagnostic imaging examinations with imaging guidelines: focused on cerebrovascular diseases</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0072/html"/>
     <id>https://doi.org/10.1515/dx-2024-0072</id>
-    <updated>2025-05-04T22:04:49.852248+00:00</updated>
+    <updated>2025-05-06T04:55:17.288056+00:00</updated>
     <summary>Article by Hamid Moghaddasi, Fatemeh Rahimi, Amir Saied Seddighi, Leila Akbarpour, Arash Roshanpoor
 DOI: https://doi.org/10.1515/dx-2024-0072</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/dx-2024-0072</summary>
     <title>Bridging the divide: addressing discrepancies between clinical guidelines, policy guidelines, and biomarker utilization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0092/html"/>
     <id>https://doi.org/10.1515/dx-2024-0092</id>
-    <updated>2025-05-04T22:04:49.852254+00:00</updated>
+    <updated>2025-05-06T04:55:17.288062+00:00</updated>
     <summary>Article by Denis Horgan, Paul Hofman, Reinhard Buttner, Olaf Rieß, Iwona Lugowska, France Dube, Jaya Singh, Ernest Nadal, Tomasz Stokłosa, Elīna Sīviņa, Marc Van der Buckle, Silvia Mosoiu, Luca Bertolaccini, Nicolas Girard, Jan Van Meerbeeck, Imran Omar, Ettore D. Capoluongo, Stefan Bielack, Tanya Hills, David Baldwin, Vivek Subbiah
 DOI: https://doi.org/10.1515/dx-2024-0092</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/dx-2024-0092</summary>
     <title>Unnecessary repetitions of C-reactive protein and leukocyte count at the emergency department observation unit contribute to higher hospital admission rates</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0139/html"/>
     <id>https://doi.org/10.1515/dx-2024-0139</id>
-    <updated>2025-05-04T22:04:49.852262+00:00</updated>
+    <updated>2025-05-06T04:55:17.288070+00:00</updated>
     <summary>Article by Ivan Gornik, Ivana Lapić, Hana Franić, Bojana Radulović, Lea Miklić, Dunja Rogić
 DOI: https://doi.org/10.1515/dx-2024-0139</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/dx-2024-0139</summary>
     <title>Quality control of ultrasonography markers for Down’s syndrome screening: a retrospective study by the laboratory</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2021-0007/html"/>
     <id>https://doi.org/10.1515/dx-2021-0007</id>
-    <updated>2025-05-04T22:04:49.852272+00:00</updated>
+    <updated>2025-05-06T04:55:17.288077+00:00</updated>
     <summary>Article by Blanca Badal, Antonieta Ballesteros, Miriam Crespo, Daniel Morell-Garcia, Josep Miquel Bauçà, Maria Pastor, Rosa Ruiz de Gopegui, Inmaculada Martín
 DOI: https://doi.org/10.1515/dx-2021-0007</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/dx-2021-0007</summary>
     <title>Unclassified green dots on nucleated red blood cells (nRBC) plot in DxH900 from a patient with hyperviscosity syndrome</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0038/html"/>
     <id>https://doi.org/10.1515/dx-2024-0038</id>
-    <updated>2025-05-04T22:04:49.852278+00:00</updated>
+    <updated>2025-05-06T04:55:17.288084+00:00</updated>
     <summary>Article by Rafael José García Martínez, José Carlos Garrido Gomez, Enrique María Ocio San Miguel, María Josefa Muruzábal Sitges
 DOI: https://doi.org/10.1515/dx-2024-0038</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/dx-2024-0038</summary>
     <title>Bayesian intelligence for medical diagnosis: a pilot study on patient disposition for emergency medicine chest pain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0049/html"/>
     <id>https://doi.org/10.1515/dx-2024-0049</id>
-    <updated>2025-05-04T22:04:49.852285+00:00</updated>
+    <updated>2025-05-06T04:55:17.288090+00:00</updated>
     <summary>Article by Mark W. Perlin, Yves-Dany Accilien
 DOI: https://doi.org/10.1515/dx-2024-0049</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/dx-2024-0049</summary>
     <title>A delayed diagnosis of hyperthyroidism in a patient with persistent vomiting in the presence of Chiari type 1 malformation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0073/html"/>
     <id>https://doi.org/10.1515/dx-2024-0073</id>
-    <updated>2025-05-04T22:04:49.852291+00:00</updated>
+    <updated>2025-05-06T04:55:17.288099+00:00</updated>
     <summary>Article by Diana Rodriguez-Hurtado, José Camones-Huerta, Claudia Núñez Mochizaki
 DOI: https://doi.org/10.1515/dx-2024-0073</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/dx-2024-0073</summary>
     <title>Mpox (monkeypox) diagnostic kits – September 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-0145/html"/>
     <id>https://doi.org/10.1515/dx-2024-0145</id>
-    <updated>2025-05-04T22:04:49.852297+00:00</updated>
+    <updated>2025-05-06T04:55:17.288110+00:00</updated>
     <summary>Article by Camilla Mattiuzzi, Brandon M. Henry, John G. Rizk, Giuseppe Lippi
 DOI: https://doi.org/10.1515/dx-2024-0145</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/dx-2024-0145</summary>
     <title>Barriers to diagnostic error reduction in Japan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2021-0055/html"/>
     <id>https://doi.org/10.1515/dx-2021-0055</id>
-    <updated>2025-05-04T22:04:49.852302+00:00</updated>
+    <updated>2025-05-06T04:55:17.288115+00:00</updated>
     <summary>Article by Taku Harada, Taiju Miyagami, Takashi Watari, Teiko Kawahigashi, Yukinori Harada, Kiyoshi Shikino, Taro Shimizu
 DOI: https://doi.org/10.1515/dx-2021-0055</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/dx-2021-0055</summary>
     <title>Superwarfarin poisoning: a challenging diagnosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2021-0064/html"/>
     <id>https://doi.org/10.1515/dx-2021-0064</id>
-    <updated>2025-05-04T22:04:49.852308+00:00</updated>
+    <updated>2025-05-06T04:55:17.288122+00:00</updated>
     <summary>Article by Mario Pezzo, Marica Orioli, Mauro Pagani, Simone Caiola, Giancarlo Maria Liumbruno, Massimo Franchini
 DOI: https://doi.org/10.1515/dx-2021-0064</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/dx-2021-0064</summary>
     <title>Reviewer Acknowledgment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dx-2024-2001/html"/>
     <id>https://doi.org/10.1515/dx-2024-2001</id>
-    <updated>2025-05-04T22:04:49.852315+00:00</updated>
+    <updated>2025-05-06T04:55:17.288128+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dx-2024-2001</summary>
   </entry>
 </feed>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Studies in Hispanic and Lusophone Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/shll/18/1/html"/>
-  <updated>2025-05-04T22:12:23.577665+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/shll/18/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/shll.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/shll/html" rel="related"/>
+  <updated>2025-05-06T05:05:38.349912+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/shll.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Studies in Hispanic and Lusophone Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/shll.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/shll-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:23.577698+00:00</updated>
+    <updated>2025-05-06T05:05:38.349940+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/shll-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>The status of /f/ in Mayan-accented Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2001/html"/>
     <id>https://doi.org/10.1515/shll-2025-2001</id>
-    <updated>2025-05-04T22:12:23.577708+00:00</updated>
+    <updated>2025-05-06T05:05:38.349950+00:00</updated>
     <summary>Article by Brandon Baird, Brendan Regan
 DOI: https://doi.org/10.1515/shll-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/shll-2025-2001</summary>
     <title>“Fallo garrafal y común entre vascoparlantes:” attitudes and salience of grammatical gender agreement in Basque-Spanish contact</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2002/html"/>
     <id>https://doi.org/10.1515/shll-2025-2002</id>
-    <updated>2025-05-04T22:12:23.577721+00:00</updated>
+    <updated>2025-05-06T05:05:38.349962+00:00</updated>
     <summary>Article by Gorka Basterretxea Santiso
 DOI: https://doi.org/10.1515/shll-2025-2002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/shll-2025-2002</summary>
     <title>Animacy in the Brazilian Portuguese null object</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2003/html"/>
     <id>https://doi.org/10.1515/shll-2025-2003</id>
-    <updated>2025-05-04T22:12:23.577729+00:00</updated>
+    <updated>2025-05-06T05:05:38.349971+00:00</updated>
     <summary>Article by Rafael Camacho Ramírez
 DOI: https://doi.org/10.1515/shll-2025-2003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/shll-2025-2003</summary>
     <title>Genericity expression in child heritage Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2004/html"/>
     <id>https://doi.org/10.1515/shll-2025-2004</id>
-    <updated>2025-05-04T22:12:23.577737+00:00</updated>
+    <updated>2025-05-06T05:05:38.349980+00:00</updated>
     <summary>Article by Alejandro Cuza, Naomi Shin, Liliana Sánchez
 DOI: https://doi.org/10.1515/shll-2025-2004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/shll-2025-2004</summary>
     <title>“From left to right”: the influence of political orientation on the language attitudes of the population of Palma toward Catalan and Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2005/html"/>
     <id>https://doi.org/10.1515/shll-2025-2005</id>
-    <updated>2025-05-04T22:12:23.577746+00:00</updated>
+    <updated>2025-05-06T05:05:38.349990+00:00</updated>
     <summary>Article by Alejandro A. Jaume-Losa
 DOI: https://doi.org/10.1515/shll-2025-2005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/shll-2025-2005</summary>
     <title>The L2 phonetic developmental trajectory of native English learners of Spanish across a semester-long study abroad program</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2006/html"/>
     <id>https://doi.org/10.1515/shll-2025-2006</id>
-    <updated>2025-05-04T22:12:23.577754+00:00</updated>
+    <updated>2025-05-06T05:05:38.349998+00:00</updated>
     <summary>Article by Jeff Michno, Mark Amengual
 DOI: https://doi.org/10.1515/shll-2025-2006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/shll-2025-2006</summary>
     <title>The acquisition of the Spanish subjunctive by child heritage and L2 learners: evidence from a dual language program</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2007/html"/>
     <id>https://doi.org/10.1515/shll-2025-2007</id>
-    <updated>2025-05-04T22:12:23.577761+00:00</updated>
+    <updated>2025-05-06T05:05:38.350007+00:00</updated>
     <summary>Article by Patrick D. Thane, Jennifer Austin, Stephanie A. Rodríguez, Michele Goldin
 DOI: https://doi.org/10.1515/shll-2025-2007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/shll-2025-2007</summary>
     <title>‘Disfluency’ features in bilingual speech: meaning and methodology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2008/html"/>
     <id>https://doi.org/10.1515/shll-2025-2008</id>
-    <updated>2025-05-04T22:12:23.577769+00:00</updated>
+    <updated>2025-05-06T05:05:38.350015+00:00</updated>
     <summary>Article by Rachel Varra
 DOI: https://doi.org/10.1515/shll-2025-2008</summary>
   </entry>

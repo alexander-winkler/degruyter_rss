@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Restaurator. International Journal for the Preservation of Library and Archival Material</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rest/46/1/html"/>
-  <updated>2025-05-04T22:11:43.364662+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/rest/46/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rest.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rest/html" rel="related"/>
+  <updated>2025-05-06T05:04:42.336169+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rest.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Restaurator. International Journal for the Preservation of Library and Archival Material</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rest.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/res-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/res-2025-frontmatter1</id>
-    <updated>2025-05-04T22:11:43.364738+00:00</updated>
+    <updated>2025-05-06T05:04:42.336203+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/res-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Folium in Persian and Islamic Manuscripts (15th–19th Centuries): Historical Significance and Analytical Study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/res-2024-0020/html"/>
     <id>https://doi.org/10.1515/res-2024-0020</id>
-    <updated>2025-05-04T22:11:43.364754+00:00</updated>
+    <updated>2025-05-06T05:04:42.336214+00:00</updated>
     <summary>Article by Mandana Barkeshli, Maurizio Aceto, François Pacha-Miran, Maryam Shafiei Alavijeh, Amélie Couvrat Desvergnes, Francesca Robotti, Elisa Calà
 DOI: https://doi.org/10.1515/res-2024-0020</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/res-2024-0020</summary>
     <title>Utilizing Modern Technology for the Preservation of Ancient Manuscripts and Rare Books: The Digitization Project at King Abdulaziz Complex for Endowment Libraries as a Model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/res-2024-0016/html"/>
     <id>https://doi.org/10.1515/res-2024-0016</id>
-    <updated>2025-05-04T22:11:43.364767+00:00</updated>
+    <updated>2025-05-06T05:04:42.336227+00:00</updated>
     <summary>Article by Esra Abdoh
 DOI: https://doi.org/10.1515/res-2024-0016</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/res-2024-0016</summary>
     <title>The Influence of Papermaking Process on the Properties of Chinese Handmade Bamboo Paper</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/res-2024-0024/html"/>
     <id>https://doi.org/10.1515/res-2024-0024</id>
-    <updated>2025-05-04T22:11:43.364779+00:00</updated>
+    <updated>2025-05-06T05:04:42.336239+00:00</updated>
     <summary>Article by Jiajia Weng, Gang Chen
 DOI: https://doi.org/10.1515/res-2024-0024</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/res-2024-0024</summary>
     <title>Treatment of Paper with Persian Gum (Zedu) in Combination withSatureja khuzestanicaExtract: Increasing Mechanical Strength and Fungicidal Effects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/res-2024-0027/html"/>
     <id>https://doi.org/10.1515/res-2024-0027</id>
-    <updated>2025-05-04T22:11:43.364792+00:00</updated>
+    <updated>2025-05-06T05:04:42.336249+00:00</updated>
     <summary>Article by Azam Soheilipour, Mandana Barkeshli
 DOI: https://doi.org/10.1515/res-2024-0027</summary>
   </entry>

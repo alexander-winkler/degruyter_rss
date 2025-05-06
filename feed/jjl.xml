@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Japanese Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jjl/41/1/html"/>
-  <updated>2025-05-04T22:08:12.542104+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jjl/41/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jjl/html" rel="related"/>
+  <updated>2025-05-06T04:59:53.869896+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Japanese Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jjl-2025-frontmatter1</id>
-    <updated>2025-05-04T22:08:12.542148+00:00</updated>
+    <updated>2025-05-06T04:59:53.869934+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jjl-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Advancements in Japanese psycholinguistics: developmental and acquisitional perspectives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2001/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2001</id>
-    <updated>2025-05-04T22:08:12.542157+00:00</updated>
+    <updated>2025-05-06T04:59:53.869947+00:00</updated>
     <summary>Article by Masahiko Minami
 DOI: https://doi.org/10.1515/jjl-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2001</summary>
     <title>Guest Editors’ Notes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2002/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2002</id>
-    <updated>2025-05-04T22:08:12.542167+00:00</updated>
+    <updated>2025-05-06T04:59:53.869960+00:00</updated>
     <summary>Article by Masatoshi Koizumi
 DOI: https://doi.org/10.1515/jjl-2025-2002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2002</summary>
     <title>Prosodic influence on quantifier scope interpretation in Japanese-speaking children and adults: a picture-selection study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2003/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2003</id>
-    <updated>2025-05-04T22:08:12.542174+00:00</updated>
+    <updated>2025-05-06T04:59:53.869969+00:00</updated>
     <summary>Article by Ayaka Sugawara
 DOI: https://doi.org/10.1515/jjl-2025-2003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2003</summary>
     <title>Incorrect association of the focus particledake: new evidence from child Japanese</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2004/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2004</id>
-    <updated>2025-05-04T22:08:12.542181+00:00</updated>
+    <updated>2025-05-06T04:59:53.869979+00:00</updated>
     <summary>Article by Hiroyuki Shimada
 DOI: https://doi.org/10.1515/jjl-2025-2004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2004</summary>
     <title>Exploring the emergence of language-unique event perception and description in children</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2005/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2005</id>
-    <updated>2025-05-04T22:08:12.542187+00:00</updated>
+    <updated>2025-05-06T04:59:53.869987+00:00</updated>
     <summary>Article by Hajime Ito
 DOI: https://doi.org/10.1515/jjl-2025-2005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2005</summary>
     <title>The empathetic utterance-final particle -nein Japanese: a study on its phonological representation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2006/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2006</id>
-    <updated>2025-05-04T22:08:12.542194+00:00</updated>
+    <updated>2025-05-06T04:59:53.869995+00:00</updated>
     <summary>Article by Kuniya Nasukawa, Ge Song, Sachiko Kiyama
 DOI: https://doi.org/10.1515/jjl-2025-2006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2006</summary>
     <title>Similarity effect in morphological generalization: Using the volitional form elicited production task of Japanese verbs withsuruending</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2007/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2007</id>
-    <updated>2025-05-04T22:08:12.542201+00:00</updated>
+    <updated>2025-05-06T04:59:53.870004+00:00</updated>
     <summary>Article by Yoko Nakano
 DOI: https://doi.org/10.1515/jjl-2025-2007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jjl-2025-2007</summary>
     <title>The role of pitch accent in lexical recognition in Japanese: evidence from event-related potential and gamma-band activity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jjl-2025-2008/html"/>
     <id>https://doi.org/10.1515/jjl-2025-2008</id>
-    <updated>2025-05-04T22:08:12.542208+00:00</updated>
+    <updated>2025-05-06T04:59:53.870012+00:00</updated>
     <summary>Article by Taiga Naoe, Shingo Tokimoto, Qiong Ma, Min Wang, Masatoshi Koizumi, Sachiko Kiyama
 DOI: https://doi.org/10.1515/jjl-2025-2008</summary>
   </entry>

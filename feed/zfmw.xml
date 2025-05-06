@@ -1,70 +1,67 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ZfM - Zeitschrift für Medienwissenschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfmw/16/31-2/html"/>
-  <updated>2025-05-04T22:13:37.773121+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfmw/16/31-2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfmw.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfmw/html" rel="related"/>
+  <updated>2025-05-06T05:07:22.012171+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfmw.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in ZfM - Zeitschrift für Medienwissenschaft</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfmw.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-frontmatter1602/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-frontmatter1602</id>
-    <updated>2025-05-04T22:13:37.773148+00:00</updated>
+    <updated>2025-05-06T05:07:22.012190+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-frontmatter1602</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160201/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160201</id>
-    <updated>2025-05-04T22:13:37.773158+00:00</updated>
+    <updated>2025-05-06T05:07:22.012201+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-160201</summary>
   </entry>
   <entry>
     <title>INHALT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-toc1602/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-toc1602</id>
-    <updated>2025-05-04T22:13:37.773165+00:00</updated>
+    <updated>2025-05-06T05:07:22.012206+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-toc1602</summary>
   </entry>
   <entry>
     <title>AUTOR*INNEN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160217/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160217</id>
-    <updated>2025-05-04T22:13:37.773172+00:00</updated>
+    <updated>2025-05-06T05:07:22.012212+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-160217</summary>
   </entry>
   <entry>
     <title>BILD- UND SOUNDNACHWEISE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160218/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160218</id>
-    <updated>2025-05-04T22:13:37.773178+00:00</updated>
+    <updated>2025-05-06T05:07:22.012218+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-160218</summary>
   </entry>
   <entry>
     <title>IMPRESSUM</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160219/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160219</id>
-    <updated>2025-05-04T22:13:37.773183+00:00</updated>
+    <updated>2025-05-06T05:07:22.012223+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-160219</summary>
   </entry>
   <entry>
     <title>Image</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160202/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160202</id>
-    <updated>2025-05-04T22:13:37.773188+00:00</updated>
+    <updated>2025-05-06T05:07:22.012228+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfmw-2024-160202</summary>
   </entry>
   <entry>
     <title>Sound / Archive. Einleitung in den Schwerpunkt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160203/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160203</id>
-    <updated>2025-05-04T22:13:37.773194+00:00</updated>
+    <updated>2025-05-06T05:07:22.012234+00:00</updated>
     <summary>Article by Ute Holl, Emanuel Welinder
 DOI: https://doi.org/10.14361/zfmw-2024-160203</summary>
   </entry>
@@ -72,7 +69,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160203</summary>
     <title>Stimmen hören. Wissenspraktiken und restitutive Optionen kolonialer Tondokumente</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160204/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160204</id>
-    <updated>2025-05-04T22:13:37.773201+00:00</updated>
+    <updated>2025-05-06T05:07:22.012241+00:00</updated>
     <summary>Article by Jakob Claus
 DOI: https://doi.org/10.14361/zfmw-2024-160204</summary>
   </entry>
@@ -80,7 +77,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160204</summary>
     <title>Akustische Fragmente</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160205/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160205</id>
-    <updated>2025-05-04T22:13:37.773207+00:00</updated>
+    <updated>2025-05-06T05:07:22.012247+00:00</updated>
     <summary>Article by Anette Hoffmann
 DOI: https://doi.org/10.14361/zfmw-2024-160205</summary>
   </entry>
@@ -88,7 +85,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160205</summary>
     <title>Call and response. Robert Lachmanns orientalistisches Archiv und Jumana Mannas dekoloniale Kritik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160206/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160206</id>
-    <updated>2025-05-04T22:13:37.773213+00:00</updated>
+    <updated>2025-05-06T05:07:22.012254+00:00</updated>
     <summary>Article by Rebecca Hanna John
 DOI: https://doi.org/10.14361/zfmw-2024-160206</summary>
   </entry>
@@ -96,7 +93,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160206</summary>
     <title>Koloniale Expansion und faschistische Herrschaft durch Phonographie in Italienisch-Ostafrika</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160207/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160207</id>
-    <updated>2025-05-04T22:13:37.773221+00:00</updated>
+    <updated>2025-05-06T05:07:22.012260+00:00</updated>
     <summary>Article by Jonathan Thomas
 DOI: https://doi.org/10.14361/zfmw-2024-160207</summary>
   </entry>
@@ -104,7 +101,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160207</summary>
     <title>Exzentrische Hermeneutik und die Artikulation von Geschichte im kolonialen Klangarchiv</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160208/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160208</id>
-    <updated>2025-05-04T22:13:37.773227+00:00</updated>
+    <updated>2025-05-06T05:07:22.012266+00:00</updated>
     <summary>Article by William Fourie
 DOI: https://doi.org/10.14361/zfmw-2024-160208</summary>
   </entry>
@@ -112,7 +109,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160208</summary>
     <title>Archive hörbar machen. (Postdigitale) Emanzipation kolonialer Archive</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160209/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160209</id>
-    <updated>2025-05-04T22:13:37.773233+00:00</updated>
+    <updated>2025-05-06T05:07:22.012271+00:00</updated>
     <summary>Article by Budhaditya Chattopadhyay
 DOI: https://doi.org/10.14361/zfmw-2024-160209</summary>
   </entry>
@@ -120,7 +117,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160209</summary>
     <title>Das Archiv aufführen. Über Zuhören als situierte Praxis, Improvisation und künstlerische Forschung im Kontext der Arbeit mit und in Soundarchiven</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160210/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160210</id>
-    <updated>2025-05-04T22:13:37.773241+00:00</updated>
+    <updated>2025-05-06T05:07:22.012278+00:00</updated>
     <summary>Article by Miguel Buenrostro, Vanessa Engelmann
 DOI: https://doi.org/10.14361/zfmw-2024-160210</summary>
   </entry>
@@ -128,7 +125,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160210</summary>
     <title>«Hören Sie mich?»</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160211/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160211</id>
-    <updated>2025-05-04T22:13:37.773247+00:00</updated>
+    <updated>2025-05-06T05:07:22.012286+00:00</updated>
     <summary>Article by Anette Hoffmann
 DOI: https://doi.org/10.14361/zfmw-2024-160211</summary>
   </entry>
@@ -136,7 +133,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160211</summary>
     <title>Satelliten fliegen. Masten senden. Hörner rufen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160212/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160212</id>
-    <updated>2025-05-04T22:13:37.773252+00:00</updated>
+    <updated>2025-05-06T05:07:22.012292+00:00</updated>
     <summary>Article by Tuli Mekondjo, Frederike Moormann, Luka Mukhavele, Angelika Waniek, Henriette Gunkel, Katrin Köppert
 DOI: https://doi.org/10.14361/zfmw-2024-160212</summary>
   </entry>
@@ -144,7 +141,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160212</summary>
     <title>Ästhetische Medienpraxis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160213/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160213</id>
-    <updated>2025-05-04T22:13:37.773259+00:00</updated>
+    <updated>2025-05-06T05:07:22.012298+00:00</updated>
     <summary>Article by Oliver Ruf
 DOI: https://doi.org/10.14361/zfmw-2024-160213</summary>
   </entry>
@@ -152,7 +149,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160213</summary>
     <title>Medienbildung braucht Medienwissenschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160214/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160214</id>
-    <updated>2025-05-04T22:13:37.773264+00:00</updated>
+    <updated>2025-05-06T05:07:22.012304+00:00</updated>
     <summary>Article by Katja Grashöfer, Petra Missomelius
 DOI: https://doi.org/10.14361/zfmw-2024-160214</summary>
   </entry>
@@ -160,7 +157,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160214</summary>
     <title>Ästhetische Medienpraxis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160213/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160213</id>
-    <updated>2025-05-04T22:13:37.773270+00:00</updated>
+    <updated>2025-05-06T05:07:22.012310+00:00</updated>
     <summary>Article by Oliver Ruf
 DOI: https://doi.org/10.14361/zfmw-2024-160213</summary>
   </entry>
@@ -168,7 +165,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160213</summary>
     <title>Medienbildung braucht Medienwissenschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160214/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160214</id>
-    <updated>2025-05-04T22:13:37.773276+00:00</updated>
+    <updated>2025-05-06T05:07:22.012316+00:00</updated>
     <summary>Article by Katja Grashöfer, Petra Missomelius
 DOI: https://doi.org/10.14361/zfmw-2024-160214</summary>
   </entry>
@@ -176,7 +173,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160214</summary>
     <title>Große Sprachmodelle. Machine Learning als Lese- und Schreibermöglichung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160215/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160215</id>
-    <updated>2025-05-04T22:13:37.773282+00:00</updated>
+    <updated>2025-05-06T05:07:22.012324+00:00</updated>
     <summary>Article by Hannes Bajohr
 DOI: https://doi.org/10.14361/zfmw-2024-160215</summary>
   </entry>
@@ -184,7 +181,7 @@ DOI: https://doi.org/10.14361/zfmw-2024-160215</summary>
     <title>Ein Forschungsstand: Bildbegriffe, Bildpolitiken, Bildpraktiken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfmw-2024-160216/html"/>
     <id>https://doi.org/10.14361/zfmw-2024-160216</id>
-    <updated>2025-05-04T22:13:37.773290+00:00</updated>
+    <updated>2025-05-06T05:07:22.012330+00:00</updated>
     <summary>Article by Vera Tollmann
 DOI: https://doi.org/10.14361/zfmw-2024-160216</summary>
   </entry>

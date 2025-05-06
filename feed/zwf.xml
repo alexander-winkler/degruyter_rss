@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für wirtschaftlichen Fabrikbetrieb</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zwf/120/4/html"/>
-  <updated>2025-05-04T22:14:25.750227+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zwf/120/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwf.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zwf/html" rel="related"/>
+  <updated>2025-05-06T05:08:29.196595+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwf.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für wirtschaftlichen Fabrikbetrieb</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwf.xml" type="application/rss+xml"/>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-frontmatter4/html"/>
     <id>https://doi.org/10.1515/zwf-2025-frontmatter4</id>
-    <updated>2025-05-04T22:14:25.750249+00:00</updated>
+    <updated>2025-05-06T05:08:29.196615+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zwf-2025-frontmatter4</summary>
   </entry>
   <entry>
     <title>Höchste Qualität und maximale Effizienz Hand in Hand</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-2005/html"/>
     <id>https://doi.org/10.1515/zwf-2025-2005</id>
-    <updated>2025-05-04T22:14:25.750256+00:00</updated>
+    <updated>2025-05-06T05:08:29.196627+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zwf-2025-2005</summary>
   </entry>
   <entry>
     <title>Das Organisationsrätsel – mit System zum Erfolg</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1039/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1039</id>
-    <updated>2025-05-04T22:14:25.750263+00:00</updated>
+    <updated>2025-05-06T05:08:29.196633+00:00</updated>
     <summary>Article by Uwe Caspary, Uwe Dombrowski, Tim Mielke
 DOI: https://doi.org/10.1515/zwf-2025-1039</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1039</summary>
     <title>Integriertes Labornetzwerk zur Weiterentwicklung der Fügetechnik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1033/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1033</id>
-    <updated>2025-05-04T22:14:25.750270+00:00</updated>
+    <updated>2025-05-06T05:08:29.196641+00:00</updated>
     <summary>Article by Benjamin Hertweck
 DOI: https://doi.org/10.1515/zwf-2025-1033</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1033</summary>
     <title>Konzept einer selbststeuernden Inbound Supply Chain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1037/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1037</id>
-    <updated>2025-05-04T22:14:25.750276+00:00</updated>
+    <updated>2025-05-06T05:08:29.196648+00:00</updated>
     <summary>Article by Laura Grohs, Johannes Fottner
 DOI: https://doi.org/10.1515/zwf-2025-1037</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1037</summary>
     <title>Vorgehensweise zur Bestimmung eines optimalen C-Teile-Managements</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1041/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1041</id>
-    <updated>2025-05-04T22:14:25.750281+00:00</updated>
+    <updated>2025-05-06T05:08:29.196654+00:00</updated>
     <summary>Article by Alina Räder, Pascal Zuhr
 DOI: https://doi.org/10.1515/zwf-2025-1041</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1041</summary>
     <title>Das digitale Coil</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2024-0125/html"/>
     <id>https://doi.org/10.1515/zwf-2024-0125</id>
-    <updated>2025-05-04T22:14:25.750287+00:00</updated>
+    <updated>2025-05-06T05:08:29.196660+00:00</updated>
     <summary>Article by Alexander Frigge, Lucia Ortjohann, Ilya Popov, Tobias Kaufmann, Philipp Niemietz, Thomas Bergs
 DOI: https://doi.org/10.1515/zwf-2024-0125</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/zwf-2024-0125</summary>
     <title>Einfluss der Werkstücksteifigkeit auf den Zerspanungsprozess</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1042/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1042</id>
-    <updated>2025-05-04T22:14:25.750293+00:00</updated>
+    <updated>2025-05-06T05:08:29.196667+00:00</updated>
     <summary>Article by Robert Beckenlechner, Jens Rossaint
 DOI: https://doi.org/10.1515/zwf-2025-1042</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1042</summary>
     <title>Verzugsminimierung bei der Zerspanung von AM-Halbzeugen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1040/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1040</id>
-    <updated>2025-05-04T22:14:25.750298+00:00</updated>
+    <updated>2025-05-06T05:08:29.196673+00:00</updated>
     <summary>Article by Lasse Evers, Hannes Zapf, Melchior Blühm, Jan Hendrik Dege
 DOI: https://doi.org/10.1515/zwf-2025-1040</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1040</summary>
     <title>Planung resilienter Fabriken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1038/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1038</id>
-    <updated>2025-05-04T22:14:25.750309+00:00</updated>
+    <updated>2025-05-06T05:08:29.196680+00:00</updated>
     <summary>Article by Tobias Held, Frank Koppenhagen
 DOI: https://doi.org/10.1515/zwf-2025-1038</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1038</summary>
     <title>Wie entsteht „Flow“ in einem Unternehmen?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1034/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1034</id>
-    <updated>2025-05-04T22:14:25.750315+00:00</updated>
+    <updated>2025-05-06T05:08:29.196686+00:00</updated>
     <summary>Article by Andreas Wendt
 DOI: https://doi.org/10.1515/zwf-2025-1034</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1034</summary>
     <title>Vom linearen zum zirkulären Werteverständnis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1036/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1036</id>
-    <updated>2025-05-04T22:14:25.750323+00:00</updated>
+    <updated>2025-05-06T05:08:29.196692+00:00</updated>
     <summary>Article by Ivana Valentina Ljubicic-Shenouda, Joachim Metternich
 DOI: https://doi.org/10.1515/zwf-2025-1036</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1036</summary>
     <title>Hochqualitative industrielle KI für die Impfstoffproduktion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-1035/html"/>
     <id>https://doi.org/10.1515/zwf-2025-1035</id>
-    <updated>2025-05-04T22:14:25.750328+00:00</updated>
+    <updated>2025-05-06T05:08:29.196698+00:00</updated>
     <summary>Article by Henrik Heymann, Lars Leyendecker, Robert H. Schmitt
 DOI: https://doi.org/10.1515/zwf-2025-1035</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/zwf-2025-1035</summary>
     <title>KIKKI – KI-Unterstützung für Verpackungsprozesse</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2024-0127/html"/>
     <id>https://doi.org/10.1515/zwf-2024-0127</id>
-    <updated>2025-05-04T22:14:25.750334+00:00</updated>
+    <updated>2025-05-06T05:08:29.196706+00:00</updated>
     <summary>Article by Felix Pfeiffer, Mario Lorenz, Franziska Klimant
 DOI: https://doi.org/10.1515/zwf-2024-0127</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/zwf-2024-0127</summary>
     <title>Künstliche Intelligenz in Arbeitsprozessen – der Mensch im Fokus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2024-0149/html"/>
     <id>https://doi.org/10.1515/zwf-2024-0149</id>
-    <updated>2025-05-04T22:14:25.750339+00:00</updated>
+    <updated>2025-05-06T05:08:29.196712+00:00</updated>
     <summary>Article by Antonia Weirich, Florian Bülow, Dominik Arnold, Bernd Kuhlenkötter
 DOI: https://doi.org/10.1515/zwf-2024-0149</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/zwf-2024-0149</summary>
     <title>Potenziale für die Anwendung Künstlicher Intelligenz in der schiffbaulichen Fertigung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2024-0161/html"/>
     <id>https://doi.org/10.1515/zwf-2024-0161</id>
-    <updated>2025-05-04T22:14:25.750345+00:00</updated>
+    <updated>2025-05-06T05:08:29.196719+00:00</updated>
     <summary>Article by Alexander Luther, Alexander Zych, Jan Sender
 DOI: https://doi.org/10.1515/zwf-2024-0161</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/zwf-2024-0161</summary>
     <title>Hemmnisse und Herausforderungen für KMU im Zuge der digitalen Transformation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2024-1121/html"/>
     <id>https://doi.org/10.1515/zwf-2024-1121</id>
-    <updated>2025-05-04T22:14:25.750350+00:00</updated>
+    <updated>2025-05-06T05:08:29.196725+00:00</updated>
     <summary>Article by Patrick Ludwig, Siegfried Zürn, Christian Cseh
 DOI: https://doi.org/10.1515/zwf-2024-1121</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/zwf-2024-1121</summary>
     <title>LLM4SPS – Evaluierung von Large Language Models für die Generierung von SPS-Code</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2024-0115/html"/>
     <id>https://doi.org/10.1515/zwf-2024-0115</id>
-    <updated>2025-05-04T22:14:25.750355+00:00</updated>
+    <updated>2025-05-06T05:08:29.196731+00:00</updated>
     <summary>Article by Jérôme Pfeiffer, Robin Kimmel, Andreas Wortmann, Jingxi Zhang
 DOI: https://doi.org/10.1515/zwf-2024-0115</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/zwf-2024-0115</summary>
     <title>Vorschau</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zwf-2025-2006/html"/>
     <id>https://doi.org/10.1515/zwf-2025-2006</id>
-    <updated>2025-05-04T22:14:25.750360+00:00</updated>
+    <updated>2025-05-06T05:08:29.196737+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zwf-2025-2006</summary>
   </entry>
 </feed>

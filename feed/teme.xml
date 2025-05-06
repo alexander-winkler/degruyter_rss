@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>tm - Technisches Messen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/teme/92/5/html"/>
-  <updated>2025-05-04T22:12:53.002018+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/teme/92/5/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/teme/html" rel="related"/>
+  <updated>2025-05-06T05:06:19.581654+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in tm - Technisches Messen</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter5/html"/>
     <id>https://doi.org/10.1515/teme-2025-frontmatter5</id>
-    <updated>2025-05-04T22:12:53.002046+00:00</updated>
+    <updated>2025-05-06T05:06:19.581693+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter5</summary>
   </entry>
   <entry>
     <title>XXXVIII. Messtechnisches Symposium des AHMT in Hall in Tirol</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0046/html"/>
     <id>https://doi.org/10.1515/teme-2025-0046</id>
-    <updated>2025-05-04T22:12:53.002054+00:00</updated>
+    <updated>2025-05-06T05:06:19.581701+00:00</updated>
     <summary>Article by Alexander Sutor
 DOI: https://doi.org/10.1515/teme-2025-0046</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/teme-2025-0046</summary>
     <title>Review and perspectives of the force-displacement measurement system with electromagnetic and electrostatic force compensation principles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0005/html"/>
     <id>https://doi.org/10.1515/teme-2025-0005</id>
-    <updated>2025-05-04T22:12:53.002062+00:00</updated>
+    <updated>2025-05-06T05:06:19.581712+00:00</updated>
     <summary>Article by Valeriya Cherkasova
 DOI: https://doi.org/10.1515/teme-2025-0005</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/teme-2025-0005</summary>
     <title>Optimizing defect detection in connections of power electronics by laser speckle photometry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0006/html"/>
     <id>https://doi.org/10.1515/teme-2025-0006</id>
-    <updated>2025-05-04T22:12:53.002070+00:00</updated>
+    <updated>2025-05-06T05:06:19.581720+00:00</updated>
     <summary>Article by Lennard Surner, Lili Chen, Beatrice Bendjus, Gerald Gerlach
 DOI: https://doi.org/10.1515/teme-2025-0006</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/teme-2025-0006</summary>
     <title>Design methodology and uncertainty estimation of a wireless sensor network for surface strain and shape measurements</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0008/html"/>
     <id>https://doi.org/10.1515/teme-2025-0008</id>
-    <updated>2025-05-04T22:12:53.002076+00:00</updated>
+    <updated>2025-05-06T05:06:19.581727+00:00</updated>
     <summary>Article by Lars-Michel Bretthauer, Ralf Heynicke, Gerd Scholl
 DOI: https://doi.org/10.1515/teme-2025-0008</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/teme-2025-0008</summary>
     <title>High-resolution coherence scanning immersion interferometry for characterization of sub-micrometer surface structures</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0011/html"/>
     <id>https://doi.org/10.1515/teme-2025-0011</id>
-    <updated>2025-05-04T22:12:53.002082+00:00</updated>
+    <updated>2025-05-06T05:06:19.581734+00:00</updated>
     <summary>Article by Andre Stelter, Eireen Käkel, Hartmut Hillmer, Peter Lehmann
 DOI: https://doi.org/10.1515/teme-2025-0011</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/teme-2025-0011</summary>
     <title>Using laser Doppler extensometry with polarization diversity to measure strain in high-speed tensile testing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0014/html"/>
     <id>https://doi.org/10.1515/teme-2025-0014</id>
-    <updated>2025-05-04T22:12:53.002089+00:00</updated>
+    <updated>2025-05-06T05:06:19.581745+00:00</updated>
     <summary>Article by Fangjian Wang, Marcel Hess, Johannes Wölck, Christian Rembe
 DOI: https://doi.org/10.1515/teme-2025-0014</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/teme-2025-0014</summary>
     <title>Edge width and edge gradient: influence on accuracy when measuring areas in lossily compressed images</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0019/html"/>
     <id>https://doi.org/10.1515/teme-2025-0019</id>
-    <updated>2025-05-04T22:12:53.002094+00:00</updated>
+    <updated>2025-05-06T05:06:19.581753+00:00</updated>
     <summary>Article by Niels-Ole Rohweder, Lisa Alena Raimund, Christian Rembe
 DOI: https://doi.org/10.1515/teme-2025-0019</summary>
   </entry>

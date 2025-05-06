@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yearbook of Phraseology</title>
-  <link href="https://www.degruyterbrill.com/journal/key/yop/15/1/html"/>
-  <updated>2025-05-04T22:11:06.222086+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/yop/15/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/yop.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/yop/html" rel="related"/>
+  <updated>2025-05-06T05:03:50.520600+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/yop.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Yearbook of Phraseology</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/yop.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/phras-2024-frontmatter1</id>
-    <updated>2025-05-04T22:11:06.222115+00:00</updated>
+    <updated>2025-05-06T05:03:50.520620+00:00</updated>
     <summary>Article by Carmen Mellado Blanco, Fabio Mollica, Jean-Pierre Colson, Natalia Filatkina, Kathrin Steyer, Antonio Pamies-Bertrán
 DOI: https://doi.org/10.1515/phras-2024-frontmatter1</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/phras-2024-frontmatter1</summary>
     <title>Editorial (English)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0001/html"/>
     <id>https://doi.org/10.1515/phras-2024-0001</id>
-    <updated>2025-05-04T22:11:06.222124+00:00</updated>
+    <updated>2025-05-06T05:03:50.520627+00:00</updated>
     <summary>Article by Carmen Mellado Blanco, Fabio Mollica
 DOI: https://doi.org/10.1515/phras-2024-0001</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/phras-2024-0001</summary>
     <title>Editorial (Deutsch)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0002/html"/>
     <id>https://doi.org/10.1515/phras-2024-0002</id>
-    <updated>2025-05-04T22:11:06.222131+00:00</updated>
+    <updated>2025-05-06T05:03:50.520631+00:00</updated>
     <summary>Article by Carmen Mellado Blanco, Fabio Mollica
 DOI: https://doi.org/10.1515/phras-2024-0002</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/phras-2024-0002</summary>
     <title>Übersetzungsorientierte Didaktisierung juristischer Phraseologie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0003/html"/>
     <id>https://doi.org/10.1515/phras-2024-0003</id>
-    <updated>2025-05-04T22:11:06.222137+00:00</updated>
+    <updated>2025-05-06T05:03:50.520636+00:00</updated>
     <summary>Article by Paweł Bielawski
 DOI: https://doi.org/10.1515/phras-2024-0003</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/phras-2024-0003</summary>
     <title>Los fraseologismos en el aula de prácticas de traducción: estudio de caso sobre el impacto de los traductores automáticos</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0004/html"/>
     <id>https://doi.org/10.1515/phras-2024-0004</id>
-    <updated>2025-05-04T22:11:06.222144+00:00</updated>
+    <updated>2025-05-06T05:03:50.520641+00:00</updated>
     <summary>Article by Zuriñe Sanz-Villar
 DOI: https://doi.org/10.1515/phras-2024-0004</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/phras-2024-0004</summary>
     <title>Proposal of a catalogue of criteria for the identification and classification of metaphorical collocations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0005/html"/>
     <id>https://doi.org/10.1515/phras-2024-0005</id>
-    <updated>2025-05-04T22:11:06.222151+00:00</updated>
+    <updated>2025-05-06T05:03:50.520645+00:00</updated>
     <summary>Article by Aneta Stojić, Christine Konecny
 DOI: https://doi.org/10.1515/phras-2024-0005</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/phras-2024-0005</summary>
     <title>Metaphorical Idioms in Extended Conceptual Metaphor Theory</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0006/html"/>
     <id>https://doi.org/10.1515/phras-2024-0006</id>
-    <updated>2025-05-04T22:11:06.222157+00:00</updated>
+    <updated>2025-05-06T05:03:50.520650+00:00</updated>
     <summary>Article by Zoltán Kövecses
 DOI: https://doi.org/10.1515/phras-2024-0006</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/phras-2024-0006</summary>
     <title>Das also war des Pudels Kernoder: „Geflügelte Worte“ als Phrasemklasse? – Problemfelder und begriffliche Präzisierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0007/html"/>
     <id>https://doi.org/10.1515/phras-2024-0007</id>
-    <updated>2025-05-04T22:11:06.222163+00:00</updated>
+    <updated>2025-05-06T05:03:50.520654+00:00</updated>
     <summary>Article by Stephan Stein
 DOI: https://doi.org/10.1515/phras-2024-0007</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/phras-2024-0007</summary>
     <title>Phraseological Quotations: Two Shavian Case Studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0008/html"/>
     <id>https://doi.org/10.1515/phras-2024-0008</id>
-    <updated>2025-05-04T22:11:06.222169+00:00</updated>
+    <updated>2025-05-06T05:03:50.520658+00:00</updated>
     <summary>Article by Gustavo A. Rodríguez Martín
 DOI: https://doi.org/10.1515/phras-2024-0008</summary>
   </entry>
@@ -87,49 +84,49 @@ DOI: https://doi.org/10.1515/phras-2024-0008</summary>
     <title>Book reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0009/html"/>
     <id>https://doi.org/10.1515/phras-2024-0009</id>
-    <updated>2025-05-04T22:11:06.222182+00:00</updated>
+    <updated>2025-05-06T05:03:50.520669+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0009</summary>
   </entry>
   <entry>
     <title>Book reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0011/html"/>
     <id>https://doi.org/10.1515/phras-2024-0011</id>
-    <updated>2025-05-04T22:11:06.222187+00:00</updated>
+    <updated>2025-05-06T05:03:50.520673+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0011</summary>
   </entry>
   <entry>
     <title>Book reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0012/html"/>
     <id>https://doi.org/10.1515/phras-2024-0012</id>
-    <updated>2025-05-04T22:11:06.222193+00:00</updated>
+    <updated>2025-05-06T05:03:50.520676+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0012</summary>
   </entry>
   <entry>
     <title>Book reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0013/html"/>
     <id>https://doi.org/10.1515/phras-2024-0013</id>
-    <updated>2025-05-04T22:11:06.222197+00:00</updated>
+    <updated>2025-05-06T05:03:50.520679+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0013</summary>
   </entry>
   <entry>
     <title>Book reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0014/html"/>
     <id>https://doi.org/10.1515/phras-2024-0014</id>
-    <updated>2025-05-04T22:11:06.222202+00:00</updated>
+    <updated>2025-05-06T05:03:50.520683+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0014</summary>
   </entry>
   <entry>
     <title>Book reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0015/html"/>
     <id>https://doi.org/10.1515/phras-2024-0015</id>
-    <updated>2025-05-04T22:11:06.222208+00:00</updated>
+    <updated>2025-05-06T05:03:50.520687+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0015</summary>
   </entry>
   <entry>
     <title>Obituario para María Luisa Ortiz Álvarez (Cuba 1954 – Brasil 2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phras-2024-0010/html"/>
     <id>https://doi.org/10.1515/phras-2024-0010</id>
-    <updated>2025-05-04T22:11:06.222213+00:00</updated>
+    <updated>2025-05-06T05:03:50.520690+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phras-2024-0010</summary>
   </entry>
 </feed>

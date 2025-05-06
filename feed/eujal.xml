@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>European Journal of Applied Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/eujal/12/2/html"/>
-  <updated>2025-05-04T22:05:20.084990+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/eujal/12/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eujal.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/eujal/html" rel="related"/>
+  <updated>2025-05-06T04:56:00.369605+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eujal.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in European Journal of Applied Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eujal.xml" type="application/rss+xml"/>
   <entry>
     <title>Co-constructing devices in narrative sequences of multilingual preschool children</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0057/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0057</id>
-    <updated>2025-05-04T22:05:20.085026+00:00</updated>
+    <updated>2025-05-06T04:56:00.369626+00:00</updated>
     <summary>Article by Ruth Videsott, Katharina Salzmann
 DOI: https://doi.org/10.1515/eujal-2022-0057</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0057</summary>
     <title>Exploring multilingual writers in secondary education: insights from a trilingual corpus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2023-0022/html"/>
     <id>https://doi.org/10.1515/eujal-2023-0022</id>
-    <updated>2025-05-04T22:05:20.085037+00:00</updated>
+    <updated>2025-05-06T04:56:00.369635+00:00</updated>
     <summary>Article by Roberto Arias-Hermoso, Ainara Imaz Agirre
 DOI: https://doi.org/10.1515/eujal-2023-0022</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/eujal-2023-0022</summary>
     <title>Vocabulary Instruction in Textbooks of Italian as a Foreign Language: A Descriptive Analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0034/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0034</id>
-    <updated>2025-05-04T22:05:20.085045+00:00</updated>
+    <updated>2025-05-06T04:56:00.369643+00:00</updated>
     <summary>Article by Valentina Concu, Sara Noli
 DOI: https://doi.org/10.1515/eujal-2022-0034</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0034</summary>
     <title>Passive Sentences and Abstract Agents in German School Books</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0036/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0036</id>
-    <updated>2025-05-04T22:05:20.085053+00:00</updated>
+    <updated>2025-05-06T04:56:00.369649+00:00</updated>
     <summary>Article by Sarah Olthoff
 DOI: https://doi.org/10.1515/eujal-2022-0036</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0036</summary>
     <title>When correct spelling hardly matters: Teenagers’ production and perception of spelling error corrections in Dutch social media writing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0028/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0028</id>
-    <updated>2025-05-04T22:05:20.085066+00:00</updated>
+    <updated>2025-05-06T04:56:00.369657+00:00</updated>
     <summary>Article by Hanne Surkyn, Dominiek Sandra, Reinhild Vandekerckhove
 DOI: https://doi.org/10.1515/eujal-2022-0028</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0028</summary>
     <title>The teachers’ perspective on teaching languages to Polish seniors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2023-0004/html"/>
     <id>https://doi.org/10.1515/eujal-2023-0004</id>
-    <updated>2025-05-04T22:05:20.085074+00:00</updated>
+    <updated>2025-05-06T04:56:00.369664+00:00</updated>
     <summary>Article by Magdalena Smoleń-Wawrzusiszyn, Sylwia Niewczas
 DOI: https://doi.org/10.1515/eujal-2023-0004</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/eujal-2023-0004</summary>
     <title>The use of the semi-lexical word ‘while’ by non-native (Polish) and native users of English based on corpora studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0049/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0049</id>
-    <updated>2025-05-04T22:05:20.085082+00:00</updated>
+    <updated>2025-05-06T04:56:00.369672+00:00</updated>
     <summary>Article by Artur Świątek
 DOI: https://doi.org/10.1515/eujal-2022-0049</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0049</summary>
     <title>Illuminating the Impacts of Contextual Diversity on L2 Writing Proficiency: A Corpus-Based Analysis in the Measures of Linguistic Complexity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0004/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0004</id>
-    <updated>2025-05-04T22:05:20.085093+00:00</updated>
+    <updated>2025-05-06T04:56:00.369680+00:00</updated>
     <summary>Article by Masoomeh Estaji, Arya Ghoddousi
 DOI: https://doi.org/10.1515/eujal-2022-0004</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0004</summary>
     <title>Second Language Learners Listening to their Peers: Is There a Shared L1 Effect for L2 Comprehensibility and Accentedness?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0014/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0014</id>
-    <updated>2025-05-04T22:05:20.085100+00:00</updated>
+    <updated>2025-05-06T04:56:00.369687+00:00</updated>
     <summary>Article by Elina Tergujeff
 DOI: https://doi.org/10.1515/eujal-2022-0014</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0014</summary>
     <title>Some good news for the school: the levelling effect of the EFL class in FL vocabulary production and FL categorization of autochthonous learners and heritage speaker learners</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2022-0045/html"/>
     <id>https://doi.org/10.1515/eujal-2022-0045</id>
-    <updated>2025-05-04T22:05:20.085109+00:00</updated>
+    <updated>2025-05-06T04:56:00.369693+00:00</updated>
     <summary>Article by María-del-Pilar Agustín-Llach
 DOI: https://doi.org/10.1515/eujal-2022-0045</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/eujal-2022-0045</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eujal-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/eujal-2024-frontmatter2</id>
-    <updated>2025-05-04T22:05:20.085116+00:00</updated>
+    <updated>2025-05-06T04:56:00.369700+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/eujal-2024-frontmatter2</summary>
   </entry>
 </feed>

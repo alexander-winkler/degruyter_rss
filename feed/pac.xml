@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Pure and Applied Chemistry</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pac/97/4/html"/>
-  <updated>2025-05-04T22:10:53.557253+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pac/97/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pac.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pac/html" rel="related"/>
+  <updated>2025-05-06T05:03:33.081231+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pac.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Pure and Applied Chemistry</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pac.xml" type="application/rss+xml"/>
   <entry>
     <title>In this issue</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-graphabs4/html"/>
     <id>https://doi.org/10.1515/pac-2025-graphabs4</id>
-    <updated>2025-05-04T22:10:53.557283+00:00</updated>
+    <updated>2025-05-06T05:03:33.081262+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pac-2025-graphabs4</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-frontmatter4/html"/>
     <id>https://doi.org/10.1515/pac-2025-frontmatter4</id>
-    <updated>2025-05-04T22:10:53.557293+00:00</updated>
+    <updated>2025-05-06T05:03:33.081271+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pac-2025-frontmatter4</summary>
   </entry>
   <entry>
     <title>Blockchain technology: driving change in the scientific research workflow</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2023-1204/html"/>
     <id>https://doi.org/10.1515/pac-2023-1204</id>
-    <updated>2025-05-04T22:10:53.557300+00:00</updated>
+    <updated>2025-05-06T05:03:33.081278+00:00</updated>
     <summary>Article by Bonnie Lawlor, Stuart Chalk, Jeremy Frey, Kazuhiro Hayashi, David Kochalko, Richard Shute, Mirek Sopek
 DOI: https://doi.org/10.1515/pac-2023-1204</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/pac-2023-1204</summary>
     <title>Sequential sorption of crystal violet and emulsified oil onto poly(lauryl methacrylate-acrylamide) hybrid hydrogel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0270/html"/>
     <id>https://doi.org/10.1515/pac-2024-0270</id>
-    <updated>2025-05-04T22:10:53.557310+00:00</updated>
+    <updated>2025-05-06T05:03:33.081289+00:00</updated>
     <summary>Article by Hanif Subhan, Shehzad Khan, Hammad Ahmad, Izhar Ul Haq, Uzma, Zarif Gul, Sultan Alam, Luqman Ali Shah, Muhammad Zahoor, Muhammad Naveed Umar, Riaz Ullah, Abdelaaty A. Shahat
 DOI: https://doi.org/10.1515/pac-2024-0270</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/pac-2024-0270</summary>
     <title>Catalytic synthesis of DHHB over home-made catalysts and its kinetic calculations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0306/html"/>
     <id>https://doi.org/10.1515/pac-2024-0306</id>
-    <updated>2025-05-04T22:10:53.557319+00:00</updated>
+    <updated>2025-05-06T05:03:33.081298+00:00</updated>
     <summary>Article by Xin Hui-Fen, Feng Bai-Cheng, Wu Jin-Bo, Liu Ri-Hong, Qu Rong, Jin Yan
 DOI: https://doi.org/10.1515/pac-2024-0306</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/pac-2024-0306</summary>
     <title>Synthesis and characterization of tricyclodecyl-containing methacrylate polymer for optoelectronics applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0401/html"/>
     <id>https://doi.org/10.1515/pac-2024-0401</id>
-    <updated>2025-05-04T22:10:53.557327+00:00</updated>
+    <updated>2025-05-06T05:03:33.081306+00:00</updated>
     <summary>Article by Yin-Chiung Chang, Kuo-Hui Wu, Wen-Chien Huang, Je-Chuang Wang
 DOI: https://doi.org/10.1515/pac-2024-0401</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/pac-2024-0401</summary>
     <title>Spontaneous dehydration side reactions of core amino acids in GC-MS sample preparation: the role of drying conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0328/html"/>
     <id>https://doi.org/10.1515/pac-2024-0328</id>
-    <updated>2025-05-04T22:10:53.557334+00:00</updated>
+    <updated>2025-05-06T05:03:33.081313+00:00</updated>
     <summary>Article by Anastasia E. Karnaeva, Dmitry A. Korzhenevskii, Alexey M. Nesterenko
 DOI: https://doi.org/10.1515/pac-2024-0328</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/pac-2024-0328</summary>
     <title>Optimizing corrosion resistance: how pH shapes the inhibition mechanism of ZnAl-NO3-LDH on mild steel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0296/html"/>
     <id>https://doi.org/10.1515/pac-2024-0296</id>
-    <updated>2025-05-04T22:10:53.557342+00:00</updated>
+    <updated>2025-05-06T05:03:33.081321+00:00</updated>
     <summary>Article by Mohamad Nor Amirul Azhar Kamis, Hamizah Mohd Zaki, Zainiharyati Mohd Zain, Mohammad Noor Jalil, Mohamad Eimaduddin Khairul Azly
 DOI: https://doi.org/10.1515/pac-2024-0296</summary>
   </entry>

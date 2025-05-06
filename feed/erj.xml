@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Entrepreneurship Research Journal</title>
-  <link href="https://www.degruyterbrill.com/journal/key/erj/14/4/html"/>
-  <updated>2025-05-04T22:05:16.629335+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/erj/14/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/erj.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/erj/html" rel="related"/>
+  <updated>2025-05-06T04:55:55.906235+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/erj.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Entrepreneurship Research Journal</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/erj.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2024-frontmatter4/html"/>
     <id>https://doi.org/10.1515/erj-2024-frontmatter4</id>
-    <updated>2025-05-04T22:05:16.629359+00:00</updated>
+    <updated>2025-05-06T04:55:55.906255+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/erj-2024-frontmatter4</summary>
   </entry>
   <entry>
     <title>Impact of Entrepreneurial Orientation on MSME Performance: Mediating Role of Entrepreneurial Competency</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0315/html"/>
     <id>https://doi.org/10.1515/erj-2022-0315</id>
-    <updated>2025-05-04T22:05:16.629365+00:00</updated>
+    <updated>2025-05-06T04:55:55.906262+00:00</updated>
     <summary>Article by Arpita Goyal, Uma Sankar Mishra
 DOI: https://doi.org/10.1515/erj-2022-0315</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/erj-2022-0315</summary>
     <title>The Development of Corporate Entrepreneurship among Emerging Economy SMEs: Insights from Both Institutional and Contingency Theory</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0048/html"/>
     <id>https://doi.org/10.1515/erj-2022-0048</id>
-    <updated>2025-05-04T22:05:16.629373+00:00</updated>
+    <updated>2025-05-06T04:55:55.906270+00:00</updated>
     <summary>Article by Michael Mustafa
 DOI: https://doi.org/10.1515/erj-2022-0048</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/erj-2022-0048</summary>
     <title>The Dynamic Capabilities of High-Turbulent Markets: Indonesian Start-Up Cases During COVID-19 Pandemic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0225/html"/>
     <id>https://doi.org/10.1515/erj-2022-0225</id>
-    <updated>2025-05-04T22:05:16.629377+00:00</updated>
+    <updated>2025-05-06T04:55:55.906279+00:00</updated>
     <summary>Article by Indria Handoko, Hendro Adiarso Tjaturpriono
 DOI: https://doi.org/10.1515/erj-2022-0225</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/erj-2022-0225</summary>
     <title>Entrepreneurship, Resource Rents and Institutions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2023-0028/html"/>
     <id>https://doi.org/10.1515/erj-2023-0028</id>
-    <updated>2025-05-04T22:05:16.629381+00:00</updated>
+    <updated>2025-05-06T04:55:55.906285+00:00</updated>
     <summary>Article by Andre Mollick, Lu Sui
 DOI: https://doi.org/10.1515/erj-2023-0028</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/erj-2023-0028</summary>
     <title>The Scaling Strategies and the Scaling Performance of Chinese Social Enterprises: The Moderating Role of Organizational Resources</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0127/html"/>
     <id>https://doi.org/10.1515/erj-2022-0127</id>
-    <updated>2025-05-04T22:05:16.629385+00:00</updated>
+    <updated>2025-05-06T04:55:55.906292+00:00</updated>
     <summary>Article by Xiao-Min Yu, Xiang-Yang Bi
 DOI: https://doi.org/10.1515/erj-2022-0127</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/erj-2022-0127</summary>
     <title>Research on Corporate Entrepreneurship in Developing Countries: A Review and Agenda for Future Directions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2023-0060/html"/>
     <id>https://doi.org/10.1515/erj-2023-0060</id>
-    <updated>2025-05-04T22:05:16.629389+00:00</updated>
+    <updated>2025-05-06T04:55:55.906297+00:00</updated>
     <summary>Article by Jairo Orozco, Andreu Turro, David Urbano
 DOI: https://doi.org/10.1515/erj-2023-0060</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/erj-2023-0060</summary>
     <title>The Impact of Initial Intellectual Property Decisions of Start-Ups on Innovation Performance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0293/html"/>
     <id>https://doi.org/10.1515/erj-2022-0293</id>
-    <updated>2025-05-04T22:05:16.629393+00:00</updated>
+    <updated>2025-05-06T04:55:55.906306+00:00</updated>
     <summary>Article by Hong Li, Mengge Gan, Yibin Zhang
 DOI: https://doi.org/10.1515/erj-2022-0293</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/erj-2022-0293</summary>
     <title>Social Capital and Innovative Performance in Networks: The Journey of Romanian SaaS Entrepreneurs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0016/html"/>
     <id>https://doi.org/10.1515/erj-2022-0016</id>
-    <updated>2025-05-04T22:05:16.629397+00:00</updated>
+    <updated>2025-05-06T04:55:55.906312+00:00</updated>
     <summary>Article by Anca Maria Clipa, Iuliana M. Chițac, Cătălin Ioan Clipa, Nelu Florea
 DOI: https://doi.org/10.1515/erj-2022-0016</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/erj-2022-0016</summary>
     <title>Gender Differences in the use of Social Capital for Entrepreneurial Activity Within Contexts of Poverty</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2023-0124/html"/>
     <id>https://doi.org/10.1515/erj-2023-0124</id>
-    <updated>2025-05-04T22:05:16.629402+00:00</updated>
+    <updated>2025-05-06T04:55:55.906320+00:00</updated>
     <summary>Article by Fernando X. Proaño Sánchez, Ana M. Bojica
 DOI: https://doi.org/10.1515/erj-2023-0124</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/erj-2023-0124</summary>
     <title>Commitment Helps: The Positive Effects of Long-Term Orientation and Family Ownership on Firms’ International Expansion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0005/html"/>
     <id>https://doi.org/10.1515/erj-2022-0005</id>
-    <updated>2025-05-04T22:05:16.629406+00:00</updated>
+    <updated>2025-05-06T04:55:55.906327+00:00</updated>
     <summary>Article by Sören Frerich, Andrea Calabrò, Mariateresa Torchia
 DOI: https://doi.org/10.1515/erj-2022-0005</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/erj-2022-0005</summary>
     <title>Institutional Environment, Executive Equity Incentive, and Enterprise Innovation: The Case of China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0383/html"/>
     <id>https://doi.org/10.1515/erj-2022-0383</id>
-    <updated>2025-05-04T22:05:16.629422+00:00</updated>
+    <updated>2025-05-06T04:55:55.906336+00:00</updated>
     <summary>Article by Haijie Yu, Hong Li
 DOI: https://doi.org/10.1515/erj-2022-0383</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/erj-2022-0383</summary>
     <title>Determinants of Entrepreneurial Employee Activity in Saudi Arabia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0207/html"/>
     <id>https://doi.org/10.1515/erj-2022-0207</id>
-    <updated>2025-05-04T22:05:16.629427+00:00</updated>
+    <updated>2025-05-06T04:55:55.906342+00:00</updated>
     <summary>Article by Ahmed Basingab, Andreu Turro, David Urbano
 DOI: https://doi.org/10.1515/erj-2022-0207</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/erj-2022-0207</summary>
     <title>How Does Entrepreneurial Role Model Connect to Entrepreneurial Perceptions: The Moderating Role of Psychological Distance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2019-0284/html"/>
     <id>https://doi.org/10.1515/erj-2019-0284</id>
-    <updated>2025-05-04T22:05:16.629431+00:00</updated>
+    <updated>2025-05-06T04:55:55.906356+00:00</updated>
     <summary>Article by Haiyuan Zhao, Hui Jiang, Qinyi Fang, Qingxiong Weng
 DOI: https://doi.org/10.1515/erj-2019-0284</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/erj-2019-0284</summary>
     <title>The Influence of Top Management’s Strategic Planning Capacity and Entrepreneurial Orientation on Corporate Entrepreneurship</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0018/html"/>
     <id>https://doi.org/10.1515/erj-2022-0018</id>
-    <updated>2025-05-04T22:05:16.629435+00:00</updated>
+    <updated>2025-05-06T04:55:55.906362+00:00</updated>
     <summary>Article by Kuo-Ting Hung, Somnath Banerjee, Onnolee Nordstrom, Chanchai Tangpong, Yue Li, Jin Li
 DOI: https://doi.org/10.1515/erj-2022-0018</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/erj-2022-0018</summary>
     <title>Innovation Ambidexterity and Firm Performance: The Moderating Effects of Contextual Factors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/erj-2022-0138/html"/>
     <id>https://doi.org/10.1515/erj-2022-0138</id>
-    <updated>2025-05-04T22:05:16.629439+00:00</updated>
+    <updated>2025-05-06T04:55:55.906368+00:00</updated>
     <summary>Article by Rui Fragoso, Vanessa Scazziota, Luiz Guerrazzi, Rui Quaresma, Jorge Casas Novas
 DOI: https://doi.org/10.1515/erj-2022-0138</summary>
   </entry>

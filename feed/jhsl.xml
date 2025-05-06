@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Historical Sociolinguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jhsl/10/2/html"/>
-  <updated>2025-05-04T22:08:01.711978+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsl/10/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jhsl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsl/html" rel="related"/>
+  <updated>2025-05-06T04:59:38.863481+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jhsl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Historical Sociolinguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jhsl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jhsl-2024-frontmatter2</id>
-    <updated>2025-05-04T22:08:01.712007+00:00</updated>
+    <updated>2025-05-06T04:59:38.863507+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jhsl-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>The role of merchants in language standardisation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0049/html"/>
     <id>https://doi.org/10.1515/jhsl-2024-0049</id>
-    <updated>2025-05-04T22:08:01.712015+00:00</updated>
+    <updated>2025-05-06T04:59:38.863516+00:00</updated>
     <summary>Article by Joshua Brown, Anita Auer
 DOI: https://doi.org/10.1515/jhsl-2024-0049</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jhsl-2024-0049</summary>
     <title>Dialect levelling and merchant writing in Renaissance Italy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2024-0033/html"/>
     <id>https://doi.org/10.1515/jhsl-2024-0033</id>
-    <updated>2025-05-04T22:08:01.712025+00:00</updated>
+    <updated>2025-05-06T04:59:38.863525+00:00</updated>
     <summary>Article by Joshua Brown
 DOI: https://doi.org/10.1515/jhsl-2024-0033</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jhsl-2024-0033</summary>
     <title>The acquisition of sociolinguistic variation by multilingual merchants: the case of seventeenth-century Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0060/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0060</id>
-    <updated>2025-05-04T22:08:01.712032+00:00</updated>
+    <updated>2025-05-06T04:59:38.863533+00:00</updated>
     <summary>Article by Andrea Sánchez Vicente
 DOI: https://doi.org/10.1515/jhsl-2023-0060</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0060</summary>
     <title>Comparing the register of seventeenth-century Dutch business letters to private letters: formulaic language and French-origin items</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0003/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0003</id>
-    <updated>2025-05-04T22:08:01.712040+00:00</updated>
+    <updated>2025-05-06T04:59:38.863542+00:00</updated>
     <summary>Article by Marijke van der Wal, Gijsbert J. Rutten
 DOI: https://doi.org/10.1515/jhsl-2023-0003</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0003</summary>
     <title>Dialect polishing and solidarity with ‘the others’: merchants as language creators in the 19th century</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0054/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0054</id>
-    <updated>2025-05-04T22:08:01.712048+00:00</updated>
+    <updated>2025-05-06T04:59:38.863550+00:00</updated>
     <summary>Article by Agnete Nesse
 DOI: https://doi.org/10.1515/jhsl-2023-0054</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0054</summary>
     <title>Aneta Pavlenko:Multilingualism and History</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0022/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0022</id>
-    <updated>2025-05-04T22:08:01.712055+00:00</updated>
+    <updated>2025-05-06T04:59:38.863558+00:00</updated>
     <summary>Article by Jan Niklas Heinrich
 DOI: https://doi.org/10.1515/jhsl-2023-0022</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0022</summary>
     <title>Thomas Rosén:Russian in the 1740s</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0041/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0041</id>
-    <updated>2025-05-04T22:08:01.712062+00:00</updated>
+    <updated>2025-05-06T04:59:38.863565+00:00</updated>
     <summary>Article by Gesine Argent
 DOI: https://doi.org/10.1515/jhsl-2023-0041</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0041</summary>
     <title>Matteo Tarsi:Loanwords and Native Words in Old and Middle Icelandic. A Study in the History and Dynamics of the Icelandic Medieval Lexicon, from the Twelfth Century to 1550(Studies in Viking and Medieval Scandinavia 4)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0032/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0032</id>
-    <updated>2025-05-04T22:08:01.712070+00:00</updated>
+    <updated>2025-05-06T04:59:38.863574+00:00</updated>
     <summary>Article by Ivar Berg
 DOI: https://doi.org/10.1515/jhsl-2023-0032</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0032</summary>
     <title>Markus Schiegg and Judith Huber:Intra-Writer Variation in Historical Sociolinguistics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0049/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0049</id>
-    <updated>2025-05-04T22:08:01.712076+00:00</updated>
+    <updated>2025-05-06T04:59:38.863581+00:00</updated>
     <summary>Article by Hester Groot
 DOI: https://doi.org/10.1515/jhsl-2023-0049</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jhsl-2023-0049</summary>
     <title>Julia Hübner:Norm und Variation. Paradigmenwechsel anhand frühneuzeitlicher Fremdsprachenlehrwerke. (Studia Linguistica Germanica 144)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsl-2023-0048/html"/>
     <id>https://doi.org/10.1515/jhsl-2023-0048</id>
-    <updated>2025-05-04T22:08:01.712087+00:00</updated>
+    <updated>2025-05-06T04:59:38.863592+00:00</updated>
     <summary>Article by Laura Fischlhammer
 DOI: https://doi.org/10.1515/jhsl-2023-0048</summary>
   </entry>

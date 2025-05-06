@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Radiochimica Acta</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ract/113/5/html"/>
-  <updated>2025-05-04T22:11:38.696016+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ract/113/5/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ract.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ract/html" rel="related"/>
+  <updated>2025-05-06T05:04:35.840900+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ract.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Radiochimica Acta</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ract.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2025-frontmatter5/html"/>
     <id>https://doi.org/10.1515/ract-2025-frontmatter5</id>
-    <updated>2025-05-04T22:11:38.696046+00:00</updated>
+    <updated>2025-05-06T05:04:35.840931+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ract-2025-frontmatter5</summary>
   </entry>
   <entry>
     <title>An overview of production routes of the non-standard positron emitter86gY with emphasis on a comparative analysis of the86Sr(p,n)- and86Sr(d,2n)-reactions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0375/html"/>
     <id>https://doi.org/10.1515/ract-2024-0375</id>
-    <updated>2025-05-04T22:11:38.696055+00:00</updated>
+    <updated>2025-05-06T05:04:35.840940+00:00</updated>
     <summary>Article by M. Shuza Uddin, Ingo Spahn, M. Shamsuzzoha Basunia, Andrew S. Voyles, Stefan Spellerberg, Mazhar Hussain, Sándor Sudár, Lee A. Bernstein, Bernd Neumaier, Syed M. Qaim
 DOI: https://doi.org/10.1515/ract-2024-0375</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ract-2024-0375</summary>
     <title>Study on empirical formulae for (n,f) reaction cross sections of thorium isotopes between 1 and 20 MeV</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0370/html"/>
     <id>https://doi.org/10.1515/ract-2024-0370</id>
-    <updated>2025-05-04T22:11:38.696068+00:00</updated>
+    <updated>2025-05-06T05:04:35.840953+00:00</updated>
     <summary>Article by Hallo M. Abdullah
 DOI: https://doi.org/10.1515/ract-2024-0370</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ract-2024-0370</summary>
     <title>Radiolytic alterations to neptunium extraction and redox in 30 % tri-n-butyl phosphate</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0354/html"/>
     <id>https://doi.org/10.1515/ract-2024-0354</id>
-    <updated>2025-05-04T22:11:38.696077+00:00</updated>
+    <updated>2025-05-06T05:04:35.840962+00:00</updated>
     <summary>Article by Joshua R. Dunbar, Dean R. Peterman, Mark P. Jensen
 DOI: https://doi.org/10.1515/ract-2024-0354</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ract-2024-0354</summary>
     <title>Utilities of ionic liquid extraction with astatine ions and its extraction mechanism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0357/html"/>
     <id>https://doi.org/10.1515/ract-2024-0357</id>
-    <updated>2025-05-04T22:11:38.696084+00:00</updated>
+    <updated>2025-05-06T05:04:35.840969+00:00</updated>
     <summary>Article by Akihiko Yokoyama, Kohei Kawasaki, Yuta Nagai, Hisanori Tazuru, Yusuke Shimizu, Kohya Ganaha, Kohshin Washiyama, Ichiro Nishinaka, Yang Wang, Xiaojie Yin, Nozomi Sato, Akihiro Nambu, Yudai Shigekawa, Hiromitsu Haba
 DOI: https://doi.org/10.1515/ract-2024-0357</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ract-2024-0357</summary>
     <title>Gamma irradiation synthesis and characterization of Poly(N-vinyl-2-pyrrolidone/acrylic acid) superabsorbent hydrogels for treatment of ink waste</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0337/html"/>
     <id>https://doi.org/10.1515/ract-2024-0337</id>
-    <updated>2025-05-04T22:11:38.696093+00:00</updated>
+    <updated>2025-05-06T05:04:35.840980+00:00</updated>
     <summary>Article by Mai M. Mohamed, Saber Ibrahim, Salah Lotfy
 DOI: https://doi.org/10.1515/ract-2024-0337</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ract-2024-0337</summary>
     <title>Application of XRD, SEM-EDX and FTIR techniques for mineral characterization of geological ores</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0335/html"/>
     <id>https://doi.org/10.1515/ract-2024-0335</id>
-    <updated>2025-05-04T22:11:38.696100+00:00</updated>
+    <updated>2025-05-06T05:04:35.840991+00:00</updated>
     <summary>Article by Amina Zafar, Mohammad Wasim, Tahir Ali, Rashid Nazir Qureshi
 DOI: https://doi.org/10.1515/ract-2024-0335</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ract-2024-0335</summary>
     <title>Elucidating the effect of CdO–Na2O exchange on structure, mechanical and radiation shielding improvements of B2O3–P2O5–Na2O glass</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0356/html"/>
     <id>https://doi.org/10.1515/ract-2024-0356</id>
-    <updated>2025-05-04T22:11:38.696108+00:00</updated>
+    <updated>2025-05-06T05:04:35.840999+00:00</updated>
     <summary>Article by Kh. S. Shaaban, Ateyyah M. Al-Baradi, Dalal Abdullah Aloraini
 DOI: https://doi.org/10.1515/ract-2024-0356</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ract-2024-0356</summary>
     <title>Alpha emitters concentration of natural radionuclides and lung cancer cases in blood of smokers and non-smokers using passive detector</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ract-2024-0358/html"/>
     <id>https://doi.org/10.1515/ract-2024-0358</id>
-    <updated>2025-05-04T22:11:38.696115+00:00</updated>
+    <updated>2025-05-06T05:04:35.841015+00:00</updated>
     <summary>Article by Hiwa Mohammad Qadr, Alla Ahmed Muhamad Amin
 DOI: https://doi.org/10.1515/ract-2024-0358</summary>
   </entry>

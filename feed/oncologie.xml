@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Oncologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/oncologie/27/2/html"/>
-  <updated>2025-05-04T22:10:40.386455+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/oncologie/27/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/oncologie.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/oncologie/html" rel="related"/>
+  <updated>2025-05-06T05:03:15.181097+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/oncologie.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Oncologie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/oncologie.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/oncologie-2025-frontmatter2</id>
-    <updated>2025-05-04T22:10:40.386488+00:00</updated>
+    <updated>2025-05-06T05:03:15.181120+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/oncologie-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Targeting HER2 in metastatic urothelial carcinoma: a contemporary review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0580/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0580</id>
-    <updated>2025-05-04T22:10:40.386497+00:00</updated>
+    <updated>2025-05-06T05:03:15.181130+00:00</updated>
     <summary>Article by Albert Jang, Nirmala Ghimirey, Hamsa L.S. Kumar, Prateek Mendiratta, Santosh Rao, Iris Y. Sheng, Pedro C. Barata, Jorge A. Garcia, Jason R. Brown
 DOI: https://doi.org/10.1515/oncologie-2024-0580</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0580</summary>
     <title>Advances in research on the impact of exosomal miRNAs on liver metastasis of colorectal cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0571/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0571</id>
-    <updated>2025-05-04T22:10:40.386508+00:00</updated>
+    <updated>2025-05-06T05:03:15.181139+00:00</updated>
     <summary>Article by Xuemei Zhong, Dan Guo
 DOI: https://doi.org/10.1515/oncologie-2024-0571</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0571</summary>
     <title>Sebaceous carcinoma of the intraoral origin: a literature review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0476/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0476</id>
-    <updated>2025-05-04T22:10:40.386516+00:00</updated>
+    <updated>2025-05-06T05:03:15.181147+00:00</updated>
     <summary>Article by Yousef Katib
 DOI: https://doi.org/10.1515/oncologie-2024-0476</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0476</summary>
     <title>Role of emerging theranostic technologies in precision oncology: revolutionizing cancer diagnosis and treatment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0543/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0543</id>
-    <updated>2025-05-04T22:10:40.386524+00:00</updated>
+    <updated>2025-05-06T05:03:15.181155+00:00</updated>
     <summary>Article by Biruk Demisse Ayalew, Abdullah, Saim Mahmood Khan, Zemichael Getu Alemayehu, Mikiyas Gifawosen Teferi, Bethlehem Tamrat Aboye, Eyob Mekonnen Woldeyohannes, Brook Lelisa Sime, Yeamlak Tariku Tewodros, Muhidin Ibrahim Hundisa
 DOI: https://doi.org/10.1515/oncologie-2024-0543</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0543</summary>
     <title>Half-body irradiation with dose escalation in the era of advanced systemic therapies: unveiling new therapeutic opportunities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0693/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0693</id>
-    <updated>2025-05-04T22:10:40.386535+00:00</updated>
+    <updated>2025-05-06T05:03:15.181165+00:00</updated>
     <summary>Article by Valentina Zagardo, Stefano Forte, Giuseppe Emmanuele Umana, Gianluca Scalia, Gianluca Ferini
 DOI: https://doi.org/10.1515/oncologie-2024-0693</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0693</summary>
     <title>Characteristics of MMR protein expression in colorectal cancer and MMR gene variations in Vietnamese patients with Lynch syndrome</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0564/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0564</id>
-    <updated>2025-05-04T22:10:40.386543+00:00</updated>
+    <updated>2025-05-06T05:03:15.181180+00:00</updated>
     <summary>Article by Bich Mai Bui, Cam Phuong Pham, Van Thai Pham, Thi Lan Anh Luong, Van Tuyen Pham, Thuan Loi Nguyen, Quang Loc Bui, Minh Khuy Doan, Sy Tung Ha, Thanh Huyen Nguyen, Hong Phuc Dinh, Thi Kim Phuong Doan
 DOI: https://doi.org/10.1515/oncologie-2024-0564</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0564</summary>
     <title>BMPR1A promotes the proliferation of colorectal cancer cells through the activation of Smad1</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0534/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0534</id>
-    <updated>2025-05-04T22:10:40.386550+00:00</updated>
+    <updated>2025-05-06T05:03:15.181190+00:00</updated>
     <summary>Article by Pengjun Zhou, Wanning Li, Meiyi Ye, Chunlan Chen, Yifei Wang
 DOI: https://doi.org/10.1515/oncologie-2024-0534</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0534</summary>
     <title>Construction and validation of a diagnostic model for cholangiocarcinoma based on tumor-educated platelet RNA expression profiles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0520/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0520</id>
-    <updated>2025-05-04T22:10:40.386558+00:00</updated>
+    <updated>2025-05-06T05:03:15.181197+00:00</updated>
     <summary>Article by Haiyang Hu, Jiefeng He, Haoliang Zhao
 DOI: https://doi.org/10.1515/oncologie-2024-0520</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0520</summary>
     <title>Prognostic implications of PCSK9 expression in HER2-positive breast cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0542/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0542</id>
-    <updated>2025-05-04T22:10:40.386564+00:00</updated>
+    <updated>2025-05-06T05:03:15.181206+00:00</updated>
     <summary>Article by Zongwen Wu, Dina Wu, Chengsheng Huang, Jinhua Zhang, Shijun Sun, Yingzhi Chen, Yanxiang Sun, Shihui Ma
 DOI: https://doi.org/10.1515/oncologie-2024-0542</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0542</summary>
     <title>Potential impact of hormone replacement therapy on the risk of hepatocellular carcinoma in women of the PLCO cohort</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0547/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0547</id>
-    <updated>2025-05-04T22:10:40.386571+00:00</updated>
+    <updated>2025-05-06T05:03:15.181213+00:00</updated>
     <summary>Article by Nina S. McCarthy, Andrew Redfern, Suzanne G. Orchard, Justin Nguyen, Martha Hickey, Zhaoyu Li
 DOI: https://doi.org/10.1515/oncologie-2024-0547</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0547</summary>
     <title>“Plant-based and ketogenic diets as diverging paths to address cancer”: a commentary concerning the supposed superiority of a plant-based diet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2025-0033/html"/>
     <id>https://doi.org/10.1515/oncologie-2025-0033</id>
-    <updated>2025-05-04T22:10:40.386579+00:00</updated>
+    <updated>2025-05-06T05:03:15.181221+00:00</updated>
     <summary>Article by Rainer J. Klement, Reinhart A. Sweeney, Colin E. Champ
 DOI: https://doi.org/10.1515/oncologie-2025-0033</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/oncologie-2025-0033</summary>
     <title>Novel insights into molecular landscape of advanced renal cell carcinoma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2024-0637/html"/>
     <id>https://doi.org/10.1515/oncologie-2024-0637</id>
-    <updated>2025-05-04T22:10:40.386586+00:00</updated>
+    <updated>2025-05-06T05:03:15.181229+00:00</updated>
     <summary>Article by Giuseppe Lucarelli, Francesco Lasorsa
 DOI: https://doi.org/10.1515/oncologie-2024-0637</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/oncologie-2024-0637</summary>
     <title>Corrigendum to “Y27632 induces tongue squamous cell carcinoma cell apoptosis through MAPK-ERK/JNK signal”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/oncologie-2025-0027/html"/>
     <id>https://doi.org/10.1515/oncologie-2025-0027</id>
-    <updated>2025-05-04T22:10:40.386594+00:00</updated>
+    <updated>2025-05-06T05:03:15.181236+00:00</updated>
     <summary>Article by Xiuling Zhang, Tingjian Zu, Jie Wen, Qian Zhou
 DOI: https://doi.org/10.1515/oncologie-2025-0027</summary>
   </entry>

@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Informationen Deutsch als Fremdsprache</title>
-  <link href="https://www.degruyterbrill.com/journal/key/infodaf/52/2-3/html"/>
-  <updated>2025-05-04T22:06:54.514641+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/infodaf/52/2-3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/infodaf.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/infodaf/html" rel="related"/>
+  <updated>2025-05-06T04:58:07.752469+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/infodaf.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Informationen Deutsch als Fremdsprache</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/infodaf.xml" type="application/rss+xml"/>
   <entry>
     <title>Vorbemerkung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0013/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0013</id>
-    <updated>2025-05-04T22:06:54.514660+00:00</updated>
+    <updated>2025-05-06T04:58:07.752485+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/infodaf-2025-0013</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-frontmatter2-3/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-frontmatter2-3</id>
-    <updated>2025-05-04T22:06:54.514665+00:00</updated>
+    <updated>2025-05-06T04:58:07.752490+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/infodaf-2025-frontmatter2-3</summary>
   </entry>
   <entry>
     <title>Schreibwissenschaft und Schreibdidaktik[Sammelrezension] Bräuer, Gerd; Hollosi-Boigner, Christina; Lechleitner, Raffaela; Kreitz, David (Hrsg.): Literacy Management als Schlüsselkompetenz in einer digitalisierten Welt. Ein Arbeitsbuch für Schreibende, Lehrende und Studierende. Opladen: Barbara Budrich, 2023. – ISBN 978-3-8474-2742-1. 165 Seiten, € 26,90. Haake-Werron, Stefanie; Karsten, Andrea; Scharlau, Ingrid (Hrsg.): Reflexive Schreibwissenschaft. Disziplinäre und praktische Perspektiven. Bielefeld: wbv Media, 2022. – ISBN 978-3-7639-7251-7. 184 Seiten, € 34,90. Vode, Dzifa; Sowa, Frank (Hrsg.): Schreiben publikationsorientiert lehren. Hochschulische Schreiblehrkonzepte aus der Praxis. Bielefeld: wbv Media, 2022 (Theorie und Praxis der Schreibwissenschaft). – ISBN 978-3-7639-6309-6. 200 Seiten, € 36, 90.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0014/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0014</id>
-    <updated>2025-05-04T22:06:54.514672+00:00</updated>
+    <updated>2025-05-06T04:58:07.752497+00:00</updated>
     <summary>Article by Regina Graßmann
 DOI: https://doi.org/10.1515/infodaf-2025-0014</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0014</summary>
     <title>Übersetzen und Digitalisierung [Sammelrezension] Desjardins, Renèe; Larsonneur, Claire; Lacour, Philippe (Hrsg.): When Translation goes Digital. Case Studies and Critical Reflections. Cham: Palgrave Macmillan, 2021 (Palgrave Studies in Translating and Interpreting). – ISBN 978-3-030-51760-1. 285 Seiten, € 128,39. Rösener, Christoph; Canfora, Carmen; Dörflinger, Torsten (Hrsg.): Übersetzen im Wandel. Wie Technologisierung, Automatisierung und Künstliche Intelligenz das Übersetzen verändern. Wiesbaden: Springer Nature, 2024. – ISBN 978-3-658-42902-7. 158 Seiten, € 32,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0015/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0015</id>
-    <updated>2025-05-04T22:06:54.514678+00:00</updated>
+    <updated>2025-05-06T04:58:07.752506+00:00</updated>
     <summary>Article by Gunnar Klatt
 DOI: https://doi.org/10.1515/infodaf-2025-0015</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0015</summary>
     <title>Neues aus der Translationswissenschaft[Sammelrezension] Qin, Jingjing; Stapleton, Paul (Hrsg.):Technology in Second Language Writing. Advances in Composing, Translation, Writing Pedagogy and Data-Driven Learning.London: Routledge, 2023. – ISBN 978-1-032-24580-5. 196 Seiten, £ 31,19. Teng, Shuo: Metaphern in der chinesisch-deutschen Literaturübersetzung. Eine korpusbasierte Untersuchung zu Übersetzungsproblemen und Lösungsmöglichkeiten. München: iudicium, 2023. – ISBN 978-3-86205-065-9. 260 Seiten, € 29,00. Tockner Glova, Dijana; Primorac Aberer, Zrinka: Basiswissen für Dolmetscher und Übersetzer – Deutschland und Kroatien. Berlin: Frank &amp; Timme, 2023. – ISBN 978-3-7329-0807-3. 344 Seiten, € 29,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0016/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0016</id>
-    <updated>2025-05-04T22:06:54.514684+00:00</updated>
+    <updated>2025-05-06T04:58:07.752513+00:00</updated>
     <summary>Article by Alexandra Ludewig
 DOI: https://doi.org/10.1515/infodaf-2025-0016</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0016</summary>
     <title>Gendersensible Sprache [Sammelrezension] Meineke, Eckhard: Studien zum genderneutralen Maskulinum. Heidelberg: Universitätsverlag Winter, 2023. – ISBN 978-3-8253-9505-6. 358 Seiten, € 36,00. Trutkowski, Ewa; Meinunger, André (Hrsg.): Gendern – auf Teufel*in komm raus? Berlin: Kulturverlag Kadmos, 2024. – ISBN 978-3-86599-550-6. 280 Seiten, € 29,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0017/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0017</id>
-    <updated>2025-05-04T22:06:54.514690+00:00</updated>
+    <updated>2025-05-06T04:58:07.752520+00:00</updated>
     <summary>Article by Nathalie Stummer
 DOI: https://doi.org/10.1515/infodaf-2025-0017</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0017</summary>
     <title>Lehrwerke für Deutsch als Fremdsprache[Sammelrezension] Koithan, Ute; Mayr-Sieber, Tanja; Schmitz, Helen; Sonntag, Ralf:Aspekte neu C1. Lehrbuch.Stuttgart: Klett, 2021 [Erstausgabe 2016]. – ISBN 978-3-12-605035-7. 208 Seiten, € 23,50. Koithan, Ute; Mayr-Sieber, Tanja; Schmitz, Helen; Sonntag, Ralf:Aspekte neu C1. Arbeitsbuch.Stuttgart: Klett, 2024 [Erstausgabe 2016]. – ISBN 978-3-12-605036-4. 184 Seiten, € 19,50. Fröhlich, Birgitta:Aspekte neu C1. Unterrichtshandbuch.Stuttgart: Klett, 2022 [Erstausgabe 2016]. – ISBN 978-3-12-605246-7. 211 Seiten, € 41,50. Dengler, Stefanie; Koithan, Ute; Mayr-Sieber, Tanja; Pohlschmidt, Anna; Schmeiser, Daniela; Schmitz, Helen: Kontext C1. Kursbuch. Stuttgart: Klett, 2024. – ISBN 978-3-12-605349-5. 216 Seiten, € 25,99. Dengler, Stefanie; Koithan, Ute; Mayr-Sieber, Tanja; Pohlschmidt, Anna; Schmeiser, Daniela; Schmitz, Helen: Kontext C1. Übungsbuch. Stuttgart: Klett, 2024. – ISBN 978-3-12-605350-1. 183 Seiten, € 19,50. Fröhlich, Birgitta: Kontext C1. Unterrichtshandbuch. Stuttgart: Klett, 2024. – ISBN 978-3-12-605351-8. 192 Seiten, € 26,50.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0018/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0018</id>
-    <updated>2025-05-04T22:06:54.514696+00:00</updated>
+    <updated>2025-05-06T04:58:07.752528+00:00</updated>
     <summary>Article by Tim Neufert
 DOI: https://doi.org/10.1515/infodaf-2025-0018</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0018</summary>
     <title>Andersen, Christiane; Fredriksson, Christine: Gebrauchsbezogene Grammatik für Deutsch als Fremd- und Zweitsprache im mehrsprachigen Kontext. Berlin: Frank &amp; Timme, 2023. – 978-3-7329-9101-3. 438 Seiten, € 39,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0019/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0019</id>
-    <updated>2025-05-04T22:06:54.514700+00:00</updated>
+    <updated>2025-05-06T04:58:07.752536+00:00</updated>
     <summary>Article by Maike Lüssenhop, Annemarie Hülsmann
 DOI: https://doi.org/10.1515/infodaf-2025-0019</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0019</summary>
     <title>Aus dem Siepen, Stefan: Wie man schlecht schreibt. Die Kunst des stilistischen Missgriffs. Springe: Zu Klampen! Verlag, 2023. – ISBN 978-3-98737-001-4. 280 Seiten, € 24,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0020/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0020</id>
-    <updated>2025-05-04T22:06:54.514705+00:00</updated>
+    <updated>2025-05-06T04:58:07.752541+00:00</updated>
     <summary>Article by Monika Oertner
 DOI: https://doi.org/10.1515/infodaf-2025-0020</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0020</summary>
     <title>Bąk, Paweł; Żebrowska, Ewa (Hrsg.): Texte und Diskurse intra- und interlingual. Stuttgart: Franz Steiner, 2024. – ISBN 978-3-515-13654-9. 266 Seiten, € 52,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0021/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0021</id>
-    <updated>2025-05-04T22:06:54.514709+00:00</updated>
+    <updated>2025-05-06T04:58:07.752545+00:00</updated>
     <summary>Article by Mariusz Jakosz
 DOI: https://doi.org/10.1515/infodaf-2025-0021</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0021</summary>
     <title>Barczaitis, Irina; Brinkschulte, Melanie; Grieshammer, Ella; Stoian, Monica-Elena: Mehrsprachiges Schreiben im akademischen Kontext unterstützen, anleiten, begleiten. Bielefeld: wbv Media, 2022 (Theorie und Praxis der Schreibwissen-schaft 13). – ISBN 978-3-8252-5801-6. 152. Seiten, € 28,90.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0022/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0022</id>
-    <updated>2025-05-04T22:06:54.514719+00:00</updated>
+    <updated>2025-05-06T04:58:07.752555+00:00</updated>
     <summary>Article by Maxi Sander
 DOI: https://doi.org/10.1515/infodaf-2025-0022</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0022</summary>
     <title>Bärenfänger, Olaf; Feike, Julia; Magosch, Christine: Sprachliche Kompetenzen im Studium. Lernziele für die studienbezogene Deutschförderung. Stuttgart: Ernst Klett, 2024. – ISBN 978-3-12-676998-8. 175 Seiten, € 30,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0023/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0023</id>
-    <updated>2025-05-04T22:06:54.514724+00:00</updated>
+    <updated>2025-05-06T04:58:07.752559+00:00</updated>
     <summary>Article by Milica Sabo
 DOI: https://doi.org/10.1515/infodaf-2025-0023</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0023</summary>
     <title>Bezugla, Lillia; Ketzer-Nöltge, Almut; Spaniel-Weise, Dorothea; Wolbergs, Julia; Höfler, Lisa (Hrsg.): Brüche und Kontinuitäten. Aktuelle Themen der Ukrainischen Germanistik nach Februar 2022. Open-Access-Tagungsdoku-mentation eines Symposiums im Rahmen der Themenwoche „Krieg in der Ukraine – Perspektiven der Wissenschaft“. Universität Leipzig, 2023. 260 Seiten. DOI: https://doi.org/10.36730/2023.1.buk. Online: https://buk-symposium.de/ergebnisse (13.11.2024).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0024/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0024</id>
-    <updated>2025-05-04T22:06:54.514728+00:00</updated>
+    <updated>2025-05-06T04:58:07.752567+00:00</updated>
     <summary>Article by Camilla Badstübner-Kizik
 DOI: https://doi.org/10.1515/infodaf-2025-0024</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0024</summary>
     <title>Bieker, Nadine; Schindler, Kirsten: Deutschdidaktik und Geschlecht. Konzepte und Materialien für den Unterricht. Bielefeld: wbv, 2023. – ISBN 978-3-825-26020-0. 138 Seiten, € 19,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0025/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0025</id>
-    <updated>2025-05-04T22:06:54.514733+00:00</updated>
+    <updated>2025-05-06T04:58:07.752572+00:00</updated>
     <summary>Article by Nathalie Stummer
 DOI: https://doi.org/10.1515/infodaf-2025-0025</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0025</summary>
     <title>Bien-Miller, Lena; Michalak, Magdalena (Hrsg.): Aufgabenstellungen für sprachlich heterogene Gruppen. Perspektive auf DaZ- und Regelunterricht. Wiesbaden: Springer, 2024. – ISBN 978-3-658-42821-1. 189 Seiten, € 74,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0026/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0026</id>
-    <updated>2025-05-04T22:06:54.514737+00:00</updated>
+    <updated>2025-05-06T04:58:07.752576+00:00</updated>
     <summary>Article by Eliška Dunowski
 DOI: https://doi.org/10.1515/infodaf-2025-0026</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0026</summary>
     <title>Boguna, Julija; Reuter, Ewald; Schiewer, Gesine Lenore (Hrsg.): Forschendes Lernen in der interkulturellen Germanistik. Herausforderungen, Reflexionen, Lösungen. Bielefeld: transcript, 2023 (Interkulturelle Germanistik 4). ‒ ISBN 978-3-8376-6845-2. 266 Seiten, € 44,00 [Open Access unter www.transcript-verlag.de].</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0027/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0027</id>
-    <updated>2025-05-04T22:06:54.514741+00:00</updated>
+    <updated>2025-05-06T04:58:07.752584+00:00</updated>
     <summary>Article by Dinah Krenzler-Behm
 DOI: https://doi.org/10.1515/infodaf-2025-0027</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0027</summary>
     <title>Bordag, Denisa; Münster, Meike; Gruber, Verena; Meller, Lisa-Naomi; Opitz, Andreas: Handbuch synonymer grammatischer Mittel im Deutschen. Hamburg: Buske, 2024. – ISBN 978-3-96769-422-2. 238 Seiten, € 38,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0028/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0028</id>
-    <updated>2025-05-04T22:06:54.514745+00:00</updated>
+    <updated>2025-05-06T04:58:07.752588+00:00</updated>
     <summary>Article by Peggy Katelhön
 DOI: https://doi.org/10.1515/infodaf-2025-0028</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0028</summary>
     <title>Breuer, Esther; Güngör, Nagihan; Klassen, Mareike; Riesenweber, Martin; Vinnen, Johanna (Hrsg.): Wissenschaftlich schreiben – gewusst wie! Tipps von Studierenden für Studierende. 2. Auflage. Bielefeld: wbv Publikation, 2021. – ISBN 978-3-8252-5534-3. 172 Seiten, € 14,90.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0029/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0029</id>
-    <updated>2025-05-04T22:06:54.514754+00:00</updated>
+    <updated>2025-05-06T04:58:07.752592+00:00</updated>
     <summary>Article by Frank Nickel
 DOI: https://doi.org/10.1515/infodaf-2025-0029</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0029</summary>
     <title>Buck, Katharina; Hensch Jana (Hrsg.): Binnendifferenzierung. Berlin: Erich Schmidt, 2023 (Fremdsprache Deutsch 69). – ISBN 978-3-503-23701-2. 64 Seiten, € 15,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0030/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0030</id>
-    <updated>2025-05-04T22:06:54.514758+00:00</updated>
+    <updated>2025-05-06T04:58:07.752596+00:00</updated>
     <summary>Article by Lisa Widmann
 DOI: https://doi.org/10.1515/infodaf-2025-0030</summary>
   </entry>
@@ -165,7 +162,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0030</summary>
     <title>Burwitz-Melzer, Eva; Riemer, Claudia; Schmelter, Lars (Hrsg.): Berufsbezogene Sprache der Lehrenden im Fremd- und Zweitsprachenunterricht. Arbeitspapiere der 43. Frühjahrskonferenz zur Erforschung des Fremdsprachenunterrichts. Tübingen: Narr, 2023 (Gießener Beiträge zur Fremdsprachendidaktik). – ISBN 978-3-3811-0501-4. 227 Seiten, € 68,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0031/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0031</id>
-    <updated>2025-05-04T22:06:54.514763+00:00</updated>
+    <updated>2025-05-06T04:58:07.752600+00:00</updated>
     <summary>Article by Dorothea Spaniel-Weise
 DOI: https://doi.org/10.1515/infodaf-2025-0031</summary>
   </entry>
@@ -173,7 +170,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0031</summary>
     <title>Buscha, Anne; Raven, Susanne; Szita, Szilvia: Erkundungen Deutsch als Fremdsprache B2: Integriertes Kurs- und Arbeitsbuch. 4. überarbeitete Auflage. Leipzig: Schubert, 2024. – ISBN 978-3-96915-079-5. 292 Seiten, € 26,50. Buscha, Anne; Raven, Susanne; Szita, Szilvia: Erkundungen Deutsch als Fremdsprache C1: Integriertes Kurs- und Arbeitsbuch. 3. überarbeitete Auflage. Leipzig: Schubert, 2024. – ISBN 978-3-96915-075-7. 296 Seiten, € 26,50.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0032/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0032</id>
-    <updated>2025-05-04T22:06:54.514768+00:00</updated>
+    <updated>2025-05-06T04:58:07.752605+00:00</updated>
     <summary>Article by Lesław Tobiasz
 DOI: https://doi.org/10.1515/infodaf-2025-0032</summary>
   </entry>
@@ -181,7 +178,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0032</summary>
     <title>Buscha, Anne; Szita, Szilvia: A-Grammatik: Übungsgrammatik Deutsch als Fremdsprache. 2. vollständig überarbeitete Auflage. Leipzig: Schubert, 2023. – ISBN 978-3-96915-057-3. Seiten 198, € 21,50. Buscha, Anne; Szita, Szilvia: B-Grammatik: Übungsgrammatik Deutsch als Fremdsprache. 2. vollständig überarbeitete Auflage. Leipzig: Schubert, 2024. – ISBN 978-3-96915-077-1. Seiten 286, € 21,50.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0033/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0033</id>
-    <updated>2025-05-04T22:06:54.514772+00:00</updated>
+    <updated>2025-05-06T04:58:07.752611+00:00</updated>
     <summary>Article by Lesław Tobiasz
 DOI: https://doi.org/10.1515/infodaf-2025-0033</summary>
   </entry>
@@ -189,7 +186,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0033</summary>
     <title>Caspari, Daniela; Klippel, Friederike; Legutke, Michael K.; Schramm, Karen (Hrsg.): Forschungsmethoden in der Fremdsprachendidaktik. Ein Handbuch. 2., vollständig überarbeitete und erweiterte Auflage. Tübingen: Narr Francke Attempto, 2022. – ISBN 978-3-8233-8432-8. 538 Seiten, € 49,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0034/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0034</id>
-    <updated>2025-05-04T22:06:54.514778+00:00</updated>
+    <updated>2025-05-06T04:58:07.752615+00:00</updated>
     <summary>Article by Anja Lange, Tamara Sotnikova-Markvart
 DOI: https://doi.org/10.1515/infodaf-2025-0034</summary>
   </entry>
@@ -197,7 +194,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0034</summary>
     <title>De Florio-Hansen, Inez: KI-Tools für den Unterricht. Mit E-Book inside. Weinheim, Basel: Beltz, 2024. – ISBN 978-3-407-63310-1. 124 Seiten, € 25,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0035/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0035</id>
-    <updated>2025-05-04T22:06:54.514782+00:00</updated>
+    <updated>2025-05-06T04:58:07.752621+00:00</updated>
     <summary>Article by Anja Häusler
 DOI: https://doi.org/10.1515/infodaf-2025-0035</summary>
   </entry>
@@ -205,7 +202,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0035</summary>
     <title>Dietz, Gunther (Hrsg.): Hörkompetenzen entwickeln. Berlin: Erich Schmidt, 2024 (Fremdsprache Deutsch 70). – ISBN 978-3-503-23807-1. 64 Seiten, € 15,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0036/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0036</id>
-    <updated>2025-05-04T22:06:54.514787+00:00</updated>
+    <updated>2025-05-06T04:58:07.752628+00:00</updated>
     <summary>Article by Laura Ehrler
 DOI: https://doi.org/10.1515/infodaf-2025-0036</summary>
   </entry>
@@ -213,7 +210,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0036</summary>
     <title>Donalies, Elke: Nachdenken über Sprache. Laienansichten zur deutschen Sprache in Internetforen, Leserbriefen und Sprachratgebern. Heidelberg: Universitätsverlag Winter, 2024. – ISBN 978-3-8253-9569-8. 231 Seiten, € 28,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0037/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0037</id>
-    <updated>2025-05-04T22:06:54.514791+00:00</updated>
+    <updated>2025-05-06T04:58:07.752632+00:00</updated>
     <summary>Article by Krzysztof Nerlicki
 DOI: https://doi.org/10.1515/infodaf-2025-0037</summary>
   </entry>
@@ -221,7 +218,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0037</summary>
     <title>Dorren, Gaston: Die größten Sprachen und was sie so besonders macht. München: C. H. Beck, 2024. – ISBN 978-3-406-81508-9. 400 Seiten, € 18,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0038/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0038</id>
-    <updated>2025-05-04T22:06:54.514795+00:00</updated>
+    <updated>2025-05-06T04:58:07.752636+00:00</updated>
     <summary>Article by Bin Zhang
 DOI: https://doi.org/10.1515/infodaf-2025-0038</summary>
   </entry>
@@ -229,7 +226,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0038</summary>
     <title>Drösser, Christoph: Was macht KI mit unserer Sprache? Perspektiven auf ChatGPT und Co. Berlin: Dudenverlag, 2024 (Debattenbücher). – ISBN 978-3-411-77417-3. 80 Seiten, € 10,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0039/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0039</id>
-    <updated>2025-05-04T22:06:54.514799+00:00</updated>
+    <updated>2025-05-06T04:58:07.752644+00:00</updated>
     <summary>Article by Manuela von Papen
 DOI: https://doi.org/10.1515/infodaf-2025-0039</summary>
   </entry>
@@ -237,7 +234,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0039</summary>
     <title>Ebinger, Johanna; Kaufmann, Sven: Künstliche Intelligenz im Unterricht. Sprachgesteuerte KI praxisorientiert einsetzen. Berlin: Cornelsen, 2023. – ISBN 978-3-589-16940-5. 128 Seiten, € 24,50.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0040/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0040</id>
-    <updated>2025-05-04T22:06:54.514803+00:00</updated>
+    <updated>2025-05-06T04:58:07.752648+00:00</updated>
     <summary>Article by Brigitte Widmann
 DOI: https://doi.org/10.1515/infodaf-2025-0040</summary>
   </entry>
@@ -245,7 +242,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0040</summary>
     <title>Friebel, Harry: An den Nationalsozialismus erinnern. Entwicklung der Erinnerungskultur und zukünftige Perspektiven. Ein Essay. Opladen: Barbara Budrich, 2023. – ISBN 978-3-8474-2739-1. 99 Seiten, € 12,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0041/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0041</id>
-    <updated>2025-05-04T22:06:54.514807+00:00</updated>
+    <updated>2025-05-06T04:58:07.752652+00:00</updated>
     <summary>Article by Cornelius Partsch
 DOI: https://doi.org/10.1515/infodaf-2025-0041</summary>
   </entry>
@@ -253,7 +250,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0041</summary>
     <title>Fuhrhop, Nanna; Reinken, Niklas; Schreiber, Niklas (Hrsg.): Literarische Grammatik. Wie Literatur- und Sprachwissenschaft voneinander profitieren können. Heidelberg: Universitätsverlag Winter 2023. – ISBN 978-3-8253-9504-9. 201 Seiten, € 42,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0042/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0042</id>
-    <updated>2025-05-04T22:06:54.514811+00:00</updated>
+    <updated>2025-05-06T04:58:07.752661+00:00</updated>
     <summary>Article by Laura Kiefer
 DOI: https://doi.org/10.1515/infodaf-2025-0042</summary>
   </entry>
@@ -261,7 +258,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0042</summary>
     <title>Gammerl, Benno: Queer. Eine deutsche Geschichte vom Kaiserreich bis heute. München: Hanser, 2023. – ISBN 978-3-446-27607-9. 272 Seiten, € 24,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0043/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0043</id>
-    <updated>2025-05-04T22:06:54.514815+00:00</updated>
+    <updated>2025-05-06T04:58:07.752664+00:00</updated>
     <summary>Article by Arno Gimber
 DOI: https://doi.org/10.1515/infodaf-2025-0043</summary>
   </entry>
@@ -269,7 +266,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0043</summary>
     <title>Gründer, Horst: Geschichte der deutschen Kolonien. 8. aktualisierte Auflage. Paderborn: Brill / Schöningh, 2023 (UTB 1332). – ISBN 978-3-8252-5996-9. 372 Seiten, € 25,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0044/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0044</id>
-    <updated>2025-05-04T22:06:54.514819+00:00</updated>
+    <updated>2025-05-06T04:58:07.752668+00:00</updated>
     <summary>Article by Iris Bork-Goldfield
 DOI: https://doi.org/10.1515/infodaf-2025-0044</summary>
   </entry>
@@ -277,7 +274,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0044</summary>
     <title>Hofer-Robinson, Michael: Werte. Sprache. Integration. Zur Konstruktion von Werten in DaZ-Lehrmaterialien. Berlin, Heidelberg: J. B. Metzler, 2023. – ISBN 978-3-662-68317-0. 330 Seiten, € 74,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0045/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0045</id>
-    <updated>2025-05-04T22:06:54.514828+00:00</updated>
+    <updated>2025-05-06T04:58:07.752674+00:00</updated>
     <summary>Article by Laura Schmidt
 DOI: https://doi.org/10.1515/infodaf-2025-0045</summary>
   </entry>
@@ -285,7 +282,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0045</summary>
     <title>Huber, Ágnes: Lernersprache Deutsch bei ungarischen Germanistik-Studierenden. Eine Untersuchung schriftlicher Sprachprodukte fortgeschrittener Deutschlernender. Hamburg: Dr. Kovač, 2023 (LINGUA – Fremdsprachenunterricht in Forschung und Praxis 64). – ISBN 978-3-339-13410-3. 216 Seiten, € 88,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0046/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0046</id>
-    <updated>2025-05-04T22:06:54.514832+00:00</updated>
+    <updated>2025-05-06T04:58:07.752678+00:00</updated>
     <summary>Article by Zhoufeng Wang
 DOI: https://doi.org/10.1515/infodaf-2025-0046</summary>
   </entry>
@@ -293,7 +290,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0046</summary>
     <title>Huber-Ferber, Maria: KI und Unterricht. Strategien für Dozenten und Lehrer für effektive Online- und Offline-Schulungen. Berlin: epuli, 2023. – ISBN 978-3-7575-7065-1. 208 Seiten, € 28,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0047/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0047</id>
-    <updated>2025-05-04T22:06:54.514836+00:00</updated>
+    <updated>2025-05-06T04:58:07.752682+00:00</updated>
     <summary>Article by Meike Adams
 DOI: https://doi.org/10.1515/infodaf-2025-0047</summary>
   </entry>
@@ -301,7 +298,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0047</summary>
     <title>Jackson, Daniel O.: Task-Based Language Teaching. Cambridge: Cambridge University Press, 2022 (Elements in Language Teaching). – ISBN 978-1-009-06841-3. 76 Seiten, € 19,84.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0048/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0048</id>
-    <updated>2025-05-04T22:06:54.514840+00:00</updated>
+    <updated>2025-05-06T04:58:07.752686+00:00</updated>
     <summary>Article by Bin Zhang
 DOI: https://doi.org/10.1515/infodaf-2025-0048</summary>
   </entry>
@@ -309,7 +306,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0048</summary>
     <title>Kaehlbrandt, Roland: Deutsch. Eine Liebeserklärung. Die zehn großen Vorzüge unserer erstaunlichen Sprache. München: Piper, 2022. – ISBN 978-3-492-31756-6. 256 Seiten, € 12,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0049/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0049</id>
-    <updated>2025-05-04T22:06:54.514844+00:00</updated>
+    <updated>2025-05-06T04:58:07.752689+00:00</updated>
     <summary>Article by Werner L. Heidermann
 DOI: https://doi.org/10.1515/infodaf-2025-0049</summary>
   </entry>
@@ -317,7 +314,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0049</summary>
     <title>Kannangara, Sarasi: Mündliche Nicht-Beteiligung im L3-Deutschunterricht. Am Beispiel von Studierenden an der Universität Kelaniya, Sri Lanka. Tübingen: Stauffenburg, 2023 (Tertiärsprachen. Drei- und Mehrsprachigkeit 11). – ISBN 978-3-95809-611-0. 269 Seiten, € 49,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0050/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0050</id>
-    <updated>2025-05-04T22:06:54.514851+00:00</updated>
+    <updated>2025-05-06T04:58:07.752694+00:00</updated>
     <summary>Article by Krzysztof Nerlicki
 DOI: https://doi.org/10.1515/infodaf-2025-0050</summary>
   </entry>
@@ -325,7 +322,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0050</summary>
     <title>Kaplan, Ina: Einstellungen von Lehramtsstudierenden zu sprachlich-kultureller Vielfalt in der Schule. Eine qualitative Studie. Münster: Waxmann, 2023 (Sprachliche Bildung – Studien 15). – ISBN 978-3-8309-4748-6. 322 Seiten, € 37,90 [Open Access unter https://elibrary.utb.de].</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0051/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0051</id>
-    <updated>2025-05-04T22:06:54.514856+00:00</updated>
+    <updated>2025-05-06T04:58:07.752698+00:00</updated>
     <summary>Article by Eva Gerber, Maike Lüssenhop
 DOI: https://doi.org/10.1515/infodaf-2025-0051</summary>
   </entry>
@@ -333,7 +330,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0051</summary>
     <title>Kleber, Felicitas: Phonetik und Phonologie. Ein Lehr- und Arbeitsbuch. Tübingen: Narr Francke Attempto, 2023. – ISBN 978-3-8233-8337-6. 386 Seiten, € 32.00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0052/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0052</id>
-    <updated>2025-05-04T22:06:54.514860+00:00</updated>
+    <updated>2025-05-06T04:58:07.752702+00:00</updated>
     <summary>Article by Isabell Pfaff
 DOI: https://doi.org/10.1515/infodaf-2025-0052</summary>
   </entry>
@@ -341,7 +338,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0052</summary>
     <title>Knackstedt, Ralf; Sander, Jürgen; Kolomitchouk, Jennifer (Hrsg.): Kompetenzmodelle für den Digitalen Wandel. Orientierungshilfen und Anwendungsbeispiele. Berlin: Springer, 2022. – ISBN 978-3-662-63672-5. 266 Seiten, € 59,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0053/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0053</id>
-    <updated>2025-05-04T22:06:54.514863+00:00</updated>
+    <updated>2025-05-06T04:58:07.752706+00:00</updated>
     <summary>Article by Frank Nickel
 DOI: https://doi.org/10.1515/infodaf-2025-0053</summary>
   </entry>
@@ -349,7 +346,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0053</summary>
     <title>Kupietz, Marc; Schmidt, Thomas (Hrsg.): Neue Entwicklungen in der Korpuslandschaft der Germanistik. Beiträge zur IDS-Methodenmesse 2022. Tübingen: Narr Francke Attempto, 2023 (Korpuslinguistik und interdisziplinäre Perspektiven auf Sprache (CLIP) 11). – ISBN 978-3-8233-8602-5. 256 Seiten, € 88,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0054/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0054</id>
-    <updated>2025-05-04T22:06:54.514867+00:00</updated>
+    <updated>2025-05-06T04:58:07.752710+00:00</updated>
     <summary>Article by Matthias Schwendemann
 DOI: https://doi.org/10.1515/infodaf-2025-0054</summary>
   </entry>
@@ -357,7 +354,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0054</summary>
     <title>Lai, Miranda; Eser, Oktay; Crezee, Ineke (Hrsg.): Educating Community Interpreters in Unprecedented Times. Cham: Palgrave Macmillan, 2023 (Palgrave Studies in Translating and Interpreting). – ISBN 978-3-031-32676-9. 405 Seiten, € 149,79.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0055/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0055</id>
-    <updated>2025-05-04T22:06:54.514872+00:00</updated>
+    <updated>2025-05-06T04:58:07.752714+00:00</updated>
     <summary>Article by Gunnar Klatt
 DOI: https://doi.org/10.1515/infodaf-2025-0055</summary>
   </entry>
@@ -365,7 +362,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0055</summary>
     <title>Nolte, Andreas: „Der Mensch ist gut.“ Die Sprichwörter und Redensarten im Werk von Erich Kästner. Würzburg: Königshausen &amp; Neumann, 2023. – ISBN 978-3-8260-8343-3. 483 Seiten, € 49,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0056/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0056</id>
-    <updated>2025-05-04T22:06:54.514876+00:00</updated>
+    <updated>2025-05-06T04:58:07.752720+00:00</updated>
     <summary>Article by Lutz Köster
 DOI: https://doi.org/10.1515/infodaf-2025-0056</summary>
   </entry>
@@ -373,7 +370,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0056</summary>
     <title>Ohm, Udo; Ricart Brede, Julia (Hrsg.): Zum Seiteneinstieg neu zugewanderter Jugendlicher ins deutsche Schulsystem. Ergebnisse und Befunde aus dem Projekt EVA-Sek. Baltmannnsweiler: Schneider Verlag Hohengehren, 2023. – ISBN 978-3-8340-2227-1. 340 Seiten, € 24,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0057/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0057</id>
-    <updated>2025-05-04T22:06:54.514886+00:00</updated>
+    <updated>2025-05-06T04:58:07.752724+00:00</updated>
     <summary>Article by Karl-Walter Florin
 DOI: https://doi.org/10.1515/infodaf-2025-0057</summary>
   </entry>
@@ -381,7 +378,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0057</summary>
     <title>Overath, Santana: Interaktionskompetenz im Ausbildungskontext. Eine Untersuchung der Reparaturtechniken von Geflüchteten in betrieblichen Gesprächen und ihre longitudinale Entwicklung. Heidelberg: Universitätsverlag Winter, 2023 (OraLingua 23). – ISBN 978-3-8253-9519-3. 408 Seiten, € 72,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0058/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0058</id>
-    <updated>2025-05-04T22:06:54.514891+00:00</updated>
+    <updated>2025-05-06T04:58:07.752728+00:00</updated>
     <summary>Article by Lisa Teufele
 DOI: https://doi.org/10.1515/infodaf-2025-0058</summary>
   </entry>
@@ -389,7 +386,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0058</summary>
     <title>Pawlikowska-Asendrych, Elżbieta; Szczęk, Joanna (Hrsg.): Die kulinarische Welt in Sprache, Kultur und Literatur. Band 1. Hamburg: Dr. Kovač, 2023 (Studia Culinaria Interdisciplinaris). –­ ISBN 978-3-339-13434-9. 305 Seiten, € 97,80. Pawlikowska-Asendrych, Elżbieta; Szczęk, Joanna (Hrsg.): Die kulinarische Welt in Sprache, Kultur und Literatur. Band 2. Hamburg: Dr. Kovač, 2023 (Studia Culinaria Interdisciplinaris). –­ ISBN 978-3-339-13436-3. 295 Seiten, € 97,80.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0059/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0059</id>
-    <updated>2025-05-04T22:06:54.514895+00:00</updated>
+    <updated>2025-05-06T04:58:07.752733+00:00</updated>
     <summary>Article by Mariusz Jakosz
 DOI: https://doi.org/10.1515/infodaf-2025-0059</summary>
   </entry>
@@ -397,7 +394,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0059</summary>
     <title>Robin, Thérèse; Eroms, Hans-Werner (Hrsg.): La chute du mur des idées reçues / Der Fall der Mauer festgefügter Ansichten: Jean Fourquet grammairien et médiéviste / Jean Fourquet als Grammatiker und Mediävist. Berlin: Peter Lang, 2024 (Kontraste/Contrastes 8). – ISBN 978-3-631-89099-8. 264 Seiten, € 52,95.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0060/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0060</id>
-    <updated>2025-05-04T22:06:54.514899+00:00</updated>
+    <updated>2025-05-06T04:58:07.752737+00:00</updated>
     <summary>Article by Liliia Bezugla
 DOI: https://doi.org/10.1515/infodaf-2025-0060</summary>
   </entry>
@@ -405,7 +402,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0060</summary>
     <title>Rogina, Irene: Die Lernperspektive in DaF-Grammatiken: Grundlagen – Herausforderungen – Kriterien. Innsbruck: StudienVerlag, 2024 (ide-extra 24). – ISBN 978-3-7065-6280-5. 292 Seiten, € 29,90.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0061/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0061</id>
-    <updated>2025-05-04T22:06:54.514903+00:00</updated>
+    <updated>2025-05-06T04:58:07.752740+00:00</updated>
     <summary>Article by Dörthe Uphoff
 DOI: https://doi.org/10.1515/infodaf-2025-0061</summary>
   </entry>
@@ -413,7 +410,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0061</summary>
     <title>Rohde, Carsten (Hrsg.): Lyrik der Gegenwart. München: edition text+kritik, 2022 (KLG EXTRAKT). – ISBN 978-3-96707-665-3. 182 Seiten, € 18,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0062/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0062</id>
-    <updated>2025-05-04T22:06:54.514907+00:00</updated>
+    <updated>2025-05-06T04:58:07.752744+00:00</updated>
     <summary>Article by Wolfgang Braune-Steininger
 DOI: https://doi.org/10.1515/infodaf-2025-0062</summary>
   </entry>
@@ -421,7 +418,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0062</summary>
     <title>Silberstein, Dagmar:Modalpartikeln als Lerngegenstand. Partikelprofile für die Vermittlung vonaber,ja,doch,mal,denn,eigentlichundetwaim DaF-Unterricht. Berlin: Erich Schmidt, 2024. – ISBN 978-3-503-23754-8. 485 Seiten,€87,43.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0063/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0063</id>
-    <updated>2025-05-04T22:06:54.514912+00:00</updated>
+    <updated>2025-05-06T04:58:07.752748+00:00</updated>
     <summary>Article by Martina Lemmetti
 DOI: https://doi.org/10.1515/infodaf-2025-0063</summary>
   </entry>
@@ -429,7 +426,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0063</summary>
     <title>Szurawitzki, Michael; Wolf-Farré, Patrick (Hrsg.): Handbuch Deutsch als Fach- und Fremdsprache. Ein aktuelles Handbuch zeitgenössischer Forschung. Berlin: De Gruyter, 2024. – ISBN 978-3-11-069025-5. 1015 Seiten, € 230,00 [Open Access unter www.degruyter.com].</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0064/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0064</id>
-    <updated>2025-05-04T22:06:54.514919+00:00</updated>
+    <updated>2025-05-06T04:58:07.752752+00:00</updated>
     <summary>Article by Christian Krekeler
 DOI: https://doi.org/10.1515/infodaf-2025-0064</summary>
   </entry>
@@ -437,7 +434,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0064</summary>
     <title>Tracy, Rosemarie; Gawlitzek, Ira: Mehrsprachigkeit und Spracherwerb. Tübingen: Narr Francke Attempto, 2023 (LinguS 10: Linguistik und Schule. Von der Sprachtheorie zur Unterrichtspraxis). – ISBN 978-3-8233-8276-8. 168 Seiten, € 17,90.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0065/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0065</id>
-    <updated>2025-05-04T22:06:54.514923+00:00</updated>
+    <updated>2025-05-06T04:58:07.752756+00:00</updated>
     <summary>Article by Maria Lena Weinkam
 DOI: https://doi.org/10.1515/infodaf-2025-0065</summary>
   </entry>
@@ -445,7 +442,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0065</summary>
     <title>Ulrich, Winfried: Scheinbar oder anscheinend? Ähnliche sprachliche Ausdrücke unterscheiden und richtig verwenden! Anregungen und Arbeitsblätter für den Deutschunterricht und das Studium der deutschen Sprache. Baltmannsweiler: Schneider Verlag Hohengehren, 2023. – ISBN 978-3-8340-2224-0. 178 Seiten, € 20,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0066/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0066</id>
-    <updated>2025-05-04T22:06:54.514927+00:00</updated>
+    <updated>2025-05-06T04:58:07.752760+00:00</updated>
     <summary>Article by Manuela von Papen
 DOI: https://doi.org/10.1515/infodaf-2025-0066</summary>
   </entry>
@@ -453,7 +450,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0066</summary>
     <title>Vieweg, Stefan H. (Hrsg.): KI für das Gute. Künstliche Intelligenz und Ethik. Heidelberg: Springer Gabler, 2023. – ISBN 978-3-031-22776-9. 267 Seiten, € 64,99.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0067/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0067</id>
-    <updated>2025-05-04T22:06:54.514931+00:00</updated>
+    <updated>2025-05-06T04:58:07.752764+00:00</updated>
     <summary>Article by Anja Lange, Guldastan Ismailova
 DOI: https://doi.org/10.1515/infodaf-2025-0067</summary>
   </entry>
@@ -461,7 +458,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0067</summary>
     <title>Wehberg, Anne Simone: Handlungsorientierte Methoden im Übersetzungs-unterricht. München: Akademische Verlagsgemeinschaft, 2022 (Innovation in Didaktik, Theorie und Praxis von Sprache und Translation 9). – ISBN 978-3-96135-016-2. 472 Seiten, € 40,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0068/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0068</id>
-    <updated>2025-05-04T22:06:54.514936+00:00</updated>
+    <updated>2025-05-06T04:58:07.752769+00:00</updated>
     <summary>Article by Alexandra Ludewig
 DOI: https://doi.org/10.1515/infodaf-2025-0068</summary>
   </entry>
@@ -469,7 +466,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0068</summary>
     <title>Wühr, Jason: Künstliche Intelligenz im Autorenstuhl: Wie ChatGPT das Schreiben revolutioniert. KI mal anders betrachtet. Norderstedt: Books on Demand, 2023. – ISBN 978-3-7460-7719-2. 72 Seiten, € 9,49.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0069/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0069</id>
-    <updated>2025-05-04T22:06:54.514943+00:00</updated>
+    <updated>2025-05-06T04:58:07.752773+00:00</updated>
     <summary>Article by Caroline Köhncke
 DOI: https://doi.org/10.1515/infodaf-2025-0069</summary>
   </entry>
@@ -477,7 +474,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0069</summary>
     <title>ZHAW Angewandte Linguistik (Hrsg.): Angewandte Linguistik für Sprachberufe. 2. überarbeitete Auflage. Berlin: De Gruyter, 2022 (De Gruyter Studium). – eISBN 978-3-11-0788667-5. 191 Seiten [Open Access unter www.degruyter.com].</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0070/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0070</id>
-    <updated>2025-05-04T22:06:54.514948+00:00</updated>
+    <updated>2025-05-06T04:58:07.752777+00:00</updated>
     <summary>Article by Karl-Walter Florin
 DOI: https://doi.org/10.1515/infodaf-2025-0070</summary>
   </entry>
@@ -485,7 +482,7 @@ DOI: https://doi.org/10.1515/infodaf-2025-0070</summary>
     <title>Zima, Elisabeth: Einführung in die gebrauchsbasierte Kognitive Linguistik. Berlin: De Gruyter, 2021. – ISBN 978-3-11-066563-5. 352 Seiten, €29,95.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/infodaf-2025-0071/html"/>
     <id>https://doi.org/10.1515/infodaf-2025-0071</id>
-    <updated>2025-05-04T22:06:54.514953+00:00</updated>
+    <updated>2025-05-06T04:58:07.752781+00:00</updated>
     <summary>Article by Qing Li
 DOI: https://doi.org/10.1515/infodaf-2025-0071</summary>
   </entry>

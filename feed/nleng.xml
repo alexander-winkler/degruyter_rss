@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nonlinear Engineering</title>
-  <link href="https://www.degruyterbrill.com/journal/key/nleng/14/1/html"/>
-  <updated>2025-05-04T22:10:24.987094+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/nleng/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nleng.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/nleng/html" rel="related"/>
+  <updated>2025-05-06T05:02:55.481049+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nleng.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Nonlinear Engineering</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nleng.xml" type="application/rss+xml"/>
   <entry>
     <title>Generalized (ψ,φ)-contraction to investigate Volterra integral inclusions and fractal fractional PDEs in super-metric space with numerical experiments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0032/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0032</id>
-    <updated>2025-05-04T22:10:24.987119+00:00</updated>
+    <updated>2025-05-06T05:02:55.481073+00:00</updated>
     <summary>Article by Syed Khayyam Shah, Muhammad Sarwar, Manel Hleili, Mohammad Esmael Samei, Thabet Abdeljawad
 DOI: https://doi.org/10.1515/nleng-2024-0032</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0032</summary>
     <title>Solitons in ultrasound imaging: Exploring applications and enhancementsviathe Westervelt equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0033/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0033</id>
-    <updated>2025-05-04T22:10:24.987126+00:00</updated>
+    <updated>2025-05-06T05:02:55.481080+00:00</updated>
     <summary>Article by Dean Chou, Salah Mahmoud Boulaaras, Ifrah Iqbal, Hamood Ur Rehman, Tsi-Li Li
 DOI: https://doi.org/10.1515/nleng-2024-0033</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0033</summary>
     <title>Stochastic improved Simpson for solving nonlinear fractional-order systems using product integration rules</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0070/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0070</id>
-    <updated>2025-05-04T22:10:24.987130+00:00</updated>
+    <updated>2025-05-06T05:02:55.481087+00:00</updated>
     <summary>Article by Aisha F. Fareed, Mourad S. Semary
 DOI: https://doi.org/10.1515/nleng-2024-0070</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0070</summary>
     <title>Exploring dynamical features like bifurcation assessment, sensitivity visualization, and solitary wave solutions of the integrable Akbota equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0040/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0040</id>
-    <updated>2025-05-04T22:10:24.987134+00:00</updated>
+    <updated>2025-05-06T05:02:55.481093+00:00</updated>
     <summary>Article by Dean Chou, Azad Ali Sagher, Muhammad Imran Asjad, Yasser Salah Hamed
 DOI: https://doi.org/10.1515/nleng-2024-0040</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0040</summary>
     <title>Research on surface defect detection method and optimization of paper-plastic composite bag based on improved combined segmentation algorithm</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2022-0356/html"/>
     <id>https://doi.org/10.1515/nleng-2022-0356</id>
-    <updated>2025-05-04T22:10:24.987138+00:00</updated>
+    <updated>2025-05-06T05:02:55.481099+00:00</updated>
     <summary>Article by Yan Guoping, Han Yimeng, Xiao Lan, Wu Shiran, Zhong Fei, Zhang Jiansheng
 DOI: https://doi.org/10.1515/nleng-2022-0356</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/nleng-2022-0356</summary>
     <title>Impact the sulphur content in Iraqi crude oil on the mechanical properties and corrosion behaviour of carbon steel in various types of API 5L pipelines and ASTM 106 grade B</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0086/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0086</id>
-    <updated>2025-05-04T22:10:24.987142+00:00</updated>
+    <updated>2025-05-06T05:02:55.481104+00:00</updated>
     <summary>Article by Mohammed Yahya Lafth, Haider Mahdi Lieth
 DOI: https://doi.org/10.1515/nleng-2024-0086</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0086</summary>
     <title>Unravelling quiescent optical solitons: An exploration of the complex Ginzburg–Landau equation with nonlinear chromatic dispersion and self-phase modulation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0043/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0043</id>
-    <updated>2025-05-04T22:10:24.987146+00:00</updated>
+    <updated>2025-05-06T05:02:55.481110+00:00</updated>
     <summary>Article by Dean Chou, Aamna Amer, Hamood Ur Rehman, Ming-Lung Li
 DOI: https://doi.org/10.1515/nleng-2024-0043</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0043</summary>
     <title>Perturbation-iteration approach for fractional-order logistic differential equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0065/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0065</id>
-    <updated>2025-05-04T22:10:24.987149+00:00</updated>
+    <updated>2025-05-06T05:02:55.481116+00:00</updated>
     <summary>Article by Abiodun Ezekiel Owoyemi, Chang Phang, Abdulnasir Isah
 DOI: https://doi.org/10.1515/nleng-2024-0065</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0065</summary>
     <title>Variational formulations for the Euler and Navier–Stokes systems in fluid mechanics and related models</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0097/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0097</id>
-    <updated>2025-05-04T22:10:24.987153+00:00</updated>
+    <updated>2025-05-06T05:02:55.481122+00:00</updated>
     <summary>Article by Fabio Silva Botelho
 DOI: https://doi.org/10.1515/nleng-2025-0097</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0097</summary>
     <title>Rotor response to unbalanced load and system performance considering variable bearing profile</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0079/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0079</id>
-    <updated>2025-05-04T22:10:24.987157+00:00</updated>
+    <updated>2025-05-06T05:02:55.481128+00:00</updated>
     <summary>Article by H. S. S. Aljibori, M. N. Mohammed, Muhsin Jaber Jweeg, Hazim U. Jamali, Oday I. Abdullah, M. Alfiras
 DOI: https://doi.org/10.1515/nleng-2024-0079</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0079</summary>
     <title>DeepFowl: Disease prediction from chicken excreta images using deep learning</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0081/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0081</id>
-    <updated>2025-05-04T22:10:24.987161+00:00</updated>
+    <updated>2025-05-06T05:02:55.481134+00:00</updated>
     <summary>Article by Shahina Anwarul, Tanupriya Choudhury, Ketan Kotecha
 DOI: https://doi.org/10.1515/nleng-2024-0081</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0081</summary>
     <title>Channel flow of Ellis fluid due to cilia motion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0036/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0036</id>
-    <updated>2025-05-04T22:10:24.987166+00:00</updated>
+    <updated>2025-05-06T05:02:55.481140+00:00</updated>
     <summary>Article by Muhammad Bilal Arain, Sidra Shaheen, Kottakkaran Sooppy Nisar, Junhui Hu, Taseer Muhammad
 DOI: https://doi.org/10.1515/nleng-2024-0036</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0036</summary>
     <title>A case study of fractional-order varicella virus model to nonlinear dynamics strategy for control and prevalence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0072/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0072</id>
-    <updated>2025-05-04T22:10:24.987172+00:00</updated>
+    <updated>2025-05-06T05:02:55.481146+00:00</updated>
     <summary>Article by Kottakkaran Sooppy Nisar, Muhammad Farman, Manal Ghannam, Evren Hincal, Aceng Sambas
 DOI: https://doi.org/10.1515/nleng-2024-0072</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0072</summary>
     <title>Multi-point estimation weldment recognition and estimation of pose with data-driven robotics design</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0076/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0076</id>
-    <updated>2025-05-04T22:10:24.987175+00:00</updated>
+    <updated>2025-05-06T05:02:55.481150+00:00</updated>
     <summary>Article by XiangYi Meng
 DOI: https://doi.org/10.1515/nleng-2024-0076</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0076</summary>
     <title>Analysis of Hall current and nonuniform heating effects on magneto-convection between vertically aligned plates under the influence of electric and magnetic fields</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0083/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0083</id>
-    <updated>2025-05-04T22:10:24.987179+00:00</updated>
+    <updated>2025-05-06T05:02:55.481155+00:00</updated>
     <summary>Article by Richa Rajora, Anand Kumar
 DOI: https://doi.org/10.1515/nleng-2024-0083</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0083</summary>
     <title>A comparative study on residual power series method and differential transform method through the time-fractional telegraph equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0116/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0116</id>
-    <updated>2025-05-04T22:10:24.987183+00:00</updated>
+    <updated>2025-05-06T05:02:55.481159+00:00</updated>
     <summary>Article by Pratiksha Devshali, Prince Singh
 DOI: https://doi.org/10.1515/nleng-2025-0116</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0116</summary>
     <title>Insights from the nonlinear Schrödinger–Hirota equation with chromatic dispersion: Dynamics in fiber–optic communication</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0058/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0058</id>
-    <updated>2025-05-04T22:10:24.987187+00:00</updated>
+    <updated>2025-05-06T05:02:55.481164+00:00</updated>
     <summary>Article by Dean Chou, Hamood Ur Rehman, Muhammad Imran Asjad, Ifrah Iqbal
 DOI: https://doi.org/10.1515/nleng-2024-0058</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0058</summary>
     <title>Haar wavelet collocation method for existence and numerical solutions of fourth-order integro-differential equations with bounded coefficients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0125/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0125</id>
-    <updated>2025-05-04T22:10:24.987190+00:00</updated>
+    <updated>2025-05-06T05:02:55.481179+00:00</updated>
     <summary>Article by Rohul Amin, Muhammad Nawaz, Kamal Shah, Thabet Abdeljawad
 DOI: https://doi.org/10.1515/nleng-2025-0125</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0125</summary>
     <title>Silicon-based all-optical wavelength converter for on-chip optical interconnection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0059/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0059</id>
-    <updated>2025-05-04T22:10:24.987194+00:00</updated>
+    <updated>2025-05-06T05:02:55.481183+00:00</updated>
     <summary>Article by Shuhong Liu
 DOI: https://doi.org/10.1515/nleng-2024-0059</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0059</summary>
     <title>Research on a path-tracking control system of unmanned rollers based on an optimization algorithm and real-time feedback</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0042/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0042</id>
-    <updated>2025-05-04T22:10:24.987197+00:00</updated>
+    <updated>2025-05-06T05:02:55.481188+00:00</updated>
     <summary>Article by Haosen Ma
 DOI: https://doi.org/10.1515/nleng-2024-0042</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0042</summary>
     <title>Analysis of the sports action recognition model based on the LSTM recurrent neural network</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0050/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0050</id>
-    <updated>2025-05-04T22:10:24.987201+00:00</updated>
+    <updated>2025-05-06T05:02:55.481193+00:00</updated>
     <summary>Article by Ping Chen, Jiangui Peng
 DOI: https://doi.org/10.1515/nleng-2024-0050</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0050</summary>
     <title>Industrial robot trajectory error compensation based on enhanced transfer convolutional neural networks</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0088/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0088</id>
-    <updated>2025-05-04T22:10:24.987205+00:00</updated>
+    <updated>2025-05-06T05:02:55.481199+00:00</updated>
     <summary>Article by Pengzhan Zhao
 DOI: https://doi.org/10.1515/nleng-2024-0088</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0088</summary>
     <title>Research on IoT network performance prediction model of power grid warehouse based on nonlinear GA-BP neural network</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0061/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0061</id>
-    <updated>2025-05-04T22:10:24.987208+00:00</updated>
+    <updated>2025-05-06T05:02:55.481203+00:00</updated>
     <summary>Article by Lele Pang, Bo Xia, Zhanfeng Cheng, Zhiqiang Ren, Hao Shen, Pengfei Li
 DOI: https://doi.org/10.1515/nleng-2024-0061</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0061</summary>
     <title>Interactive recommendation of social network communication between cities based on GNN and user preferences</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0068/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0068</id>
-    <updated>2025-05-04T22:10:24.987213+00:00</updated>
+    <updated>2025-05-06T05:02:55.481207+00:00</updated>
     <summary>Article by Yanbo Gao, Lin Zhang
 DOI: https://doi.org/10.1515/nleng-2024-0068</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0068</summary>
     <title>Application of improved P-BEM in time varying channel prediction in 5G high-speed mobile communication system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0085/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0085</id>
-    <updated>2025-05-04T22:10:24.987217+00:00</updated>
+    <updated>2025-05-06T05:02:55.481213+00:00</updated>
     <summary>Article by Yuechao Hui
 DOI: https://doi.org/10.1515/nleng-2024-0085</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0085</summary>
     <title>Construction of a BIM smart building collaborative design model combining the Internet of Things</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0063/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0063</id>
-    <updated>2025-05-04T22:10:24.987220+00:00</updated>
+    <updated>2025-05-06T05:02:55.481217+00:00</updated>
     <summary>Article by Man Feng, Hanmei Wu
 DOI: https://doi.org/10.1515/nleng-2024-0063</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0063</summary>
     <title>Animation video frame prediction based on ConvGRU fine-grained synthesis flow</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0060/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0060</id>
-    <updated>2025-05-04T22:10:24.987224+00:00</updated>
+    <updated>2025-05-06T05:02:55.481222+00:00</updated>
     <summary>Article by Xue Duan
 DOI: https://doi.org/10.1515/nleng-2024-0060</summary>
   </entry>
@@ -231,7 +228,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0060</summary>
     <title>Application of GGNN inference propagation model for martial art intensity evaluation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0071/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0071</id>
-    <updated>2025-05-04T22:10:24.987227+00:00</updated>
+    <updated>2025-05-06T05:02:55.481226+00:00</updated>
     <summary>Article by Mingyuan Xie
 DOI: https://doi.org/10.1515/nleng-2024-0071</summary>
   </entry>
@@ -239,7 +236,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0071</summary>
     <title>Benefit evaluation of building energy-saving renovation projects based on BWM weighting method</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0075/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0075</id>
-    <updated>2025-05-04T22:10:24.987231+00:00</updated>
+    <updated>2025-05-06T05:02:55.481230+00:00</updated>
     <summary>Article by Chengke Zhou
 DOI: https://doi.org/10.1515/nleng-2024-0075</summary>
   </entry>
@@ -247,7 +244,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0075</summary>
     <title>Deep neural network application in real-time economic dispatch and frequency control of microgrids</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0074/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0074</id>
-    <updated>2025-05-04T22:10:24.987234+00:00</updated>
+    <updated>2025-05-06T05:02:55.481234+00:00</updated>
     <summary>Article by Jun Liu
 DOI: https://doi.org/10.1515/nleng-2024-0074</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0074</summary>
     <title>Real-time force/position control of soft growing robots: A data-driven model predictive approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0099/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0099</id>
-    <updated>2025-05-04T22:10:24.987238+00:00</updated>
+    <updated>2025-05-06T05:02:55.481238+00:00</updated>
     <summary>Article by Abdonoor Kalibala, Ayman A. Nada, Hiroyuki Ishii, Haitham El-Hussieny
 DOI: https://doi.org/10.1515/nleng-2025-0099</summary>
   </entry>
@@ -263,7 +260,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0099</summary>
     <title>Mechanical product design and manufacturing system based on CNN and server optimization algorithm</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0057/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0057</id>
-    <updated>2025-05-04T22:10:24.987241+00:00</updated>
+    <updated>2025-05-06T05:02:55.481242+00:00</updated>
     <summary>Article by Lei Tian, Ance Zhao
 DOI: https://doi.org/10.1515/nleng-2024-0057</summary>
   </entry>
@@ -271,7 +268,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0057</summary>
     <title>Application of finite element analysis in the formal analysis of ancient architectural plaque section</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0073/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0073</id>
-    <updated>2025-05-04T22:10:24.987245+00:00</updated>
+    <updated>2025-05-06T05:02:55.481246+00:00</updated>
     <summary>Article by Wen Su, Yixiong Hua
 DOI: https://doi.org/10.1515/nleng-2024-0073</summary>
   </entry>
@@ -279,7 +276,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0073</summary>
     <title>Research on territorial spatial planning based on data mining and geographic information visualization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0090/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0090</id>
-    <updated>2025-05-04T22:10:24.987248+00:00</updated>
+    <updated>2025-05-06T05:02:55.481251+00:00</updated>
     <summary>Article by Yingqiao Wang
 DOI: https://doi.org/10.1515/nleng-2025-0090</summary>
   </entry>
@@ -287,7 +284,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0090</summary>
     <title>Fault diagnosis of agricultural sprinkler irrigation machinery equipment based on machine vision</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0052/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0052</id>
-    <updated>2025-05-04T22:10:24.987253+00:00</updated>
+    <updated>2025-05-06T05:02:55.481255+00:00</updated>
     <summary>Article by Xinping Wu, Rongnian He, Mengyu Chen
 DOI: https://doi.org/10.1515/nleng-2024-0052</summary>
   </entry>
@@ -295,7 +292,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0052</summary>
     <title>Closure technology of large span steel truss arch bridge with temporarily fixed edge supports</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0067/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0067</id>
-    <updated>2025-05-04T22:10:24.987256+00:00</updated>
+    <updated>2025-05-06T05:02:55.481260+00:00</updated>
     <summary>Article by Laifa Wang, Jiyang Xu, Yexun Li, Sicheng Zhou
 DOI: https://doi.org/10.1515/nleng-2024-0067</summary>
   </entry>
@@ -303,7 +300,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0067</summary>
     <title>Intelligent accounting question-answering robot based on a large language model and knowledge graph</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0087/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0087</id>
-    <updated>2025-05-04T22:10:24.987260+00:00</updated>
+    <updated>2025-05-06T05:02:55.481264+00:00</updated>
     <summary>Article by Shengyun Shi, Guoxi Li, Yong Wang
 DOI: https://doi.org/10.1515/nleng-2024-0087</summary>
   </entry>
@@ -311,7 +308,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0087</summary>
     <title>Analysis of manufacturing and retailer blockchain decision based on resource recyclability</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0089/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0089</id>
-    <updated>2025-05-04T22:10:24.987264+00:00</updated>
+    <updated>2025-05-06T05:02:55.481268+00:00</updated>
     <summary>Article by Yao Wang
 DOI: https://doi.org/10.1515/nleng-2024-0089</summary>
   </entry>
@@ -319,7 +316,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0089</summary>
     <title>Flexible manufacturing workshop mechanical processing and product scheduling algorithm based on MES</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0077/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0077</id>
-    <updated>2025-05-04T22:10:24.987267+00:00</updated>
+    <updated>2025-05-06T05:02:55.481272+00:00</updated>
     <summary>Article by Biao Ma, Yanfang Zhang
 DOI: https://doi.org/10.1515/nleng-2024-0077</summary>
   </entry>
@@ -327,7 +324,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0077</summary>
     <title>Exploration of indoor environment perception and design model based on virtual reality technology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2024-0080/html"/>
     <id>https://doi.org/10.1515/nleng-2024-0080</id>
-    <updated>2025-05-04T22:10:24.987271+00:00</updated>
+    <updated>2025-05-06T05:02:55.481277+00:00</updated>
     <summary>Article by Mingli Zhang
 DOI: https://doi.org/10.1515/nleng-2024-0080</summary>
   </entry>
@@ -335,7 +332,7 @@ DOI: https://doi.org/10.1515/nleng-2024-0080</summary>
     <title>Experimental research on the degradation of chemical industrial wastewater by combined hydrodynamic cavitation based on nonlinear dynamic model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0103/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0103</id>
-    <updated>2025-05-04T22:10:24.987274+00:00</updated>
+    <updated>2025-05-06T05:02:55.481281+00:00</updated>
     <summary>Article by Kai Zhang, Huijun He, Lirong Liu, Junjie Zhang, Xiaobo Jiao
 DOI: https://doi.org/10.1515/nleng-2025-0103</summary>
   </entry>
@@ -343,7 +340,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0103</summary>
     <title>Study on low-cycle fatigue life of nickel-based superalloy GH4586 at various temperatures</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0093/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0093</id>
-    <updated>2025-05-04T22:10:24.987277+00:00</updated>
+    <updated>2025-05-06T05:02:55.481286+00:00</updated>
     <summary>Article by Yixin Ma, Bingyang Liu, Wei Wang, Ping Jin, Hui Jin, Guobiao Cai
 DOI: https://doi.org/10.1515/nleng-2025-0093</summary>
   </entry>
@@ -351,7 +348,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0093</summary>
     <title>Some results of solutions to neutral stochastic functional operator-differential equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0111/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0111</id>
-    <updated>2025-05-04T22:10:24.987281+00:00</updated>
+    <updated>2025-05-06T05:02:55.481290+00:00</updated>
     <summary>Article by Ling Hu, Zheng Wu, Lianglong Wang
 DOI: https://doi.org/10.1515/nleng-2025-0111</summary>
   </entry>
@@ -359,7 +356,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0111</summary>
     <title>Ultrasonic cavitation did not occur in high-pressure CO2liquid</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0112/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0112</id>
-    <updated>2025-05-04T22:10:24.987284+00:00</updated>
+    <updated>2025-05-06T05:02:55.481294+00:00</updated>
     <summary>Article by Xiaoguang Sun, Ruonan Wan, Yigang Lu, Guangzheng Yu
 DOI: https://doi.org/10.1515/nleng-2025-0112</summary>
   </entry>
@@ -367,7 +364,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0112</summary>
     <title>Research on the performance of a novel type of cemented filler material for coal mine opening and filling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0113/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0113</id>
-    <updated>2025-05-04T22:10:24.987288+00:00</updated>
+    <updated>2025-05-06T05:02:55.481299+00:00</updated>
     <summary>Article by Yue Yu
 DOI: https://doi.org/10.1515/nleng-2025-0113</summary>
   </entry>
@@ -375,7 +372,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0113</summary>
     <title>Testing of recycled fine aggregate concrete’s mechanical properties using recycled fine aggregate concrete and research on technology for highway construction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0109/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0109</id>
-    <updated>2025-05-04T22:10:24.987292+00:00</updated>
+    <updated>2025-05-06T05:02:55.481304+00:00</updated>
     <summary>Article by Yali Liu
 DOI: https://doi.org/10.1515/nleng-2025-0109</summary>
   </entry>
@@ -383,7 +380,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0109</summary>
     <title>A modified fuzzy TOPSIS approach for the condition assessment of existing bridges</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0106/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0106</id>
-    <updated>2025-05-04T22:10:24.987297+00:00</updated>
+    <updated>2025-05-06T05:02:55.481309+00:00</updated>
     <summary>Article by Bing Qu, Shiwei Lin, Haisheng Huang
 DOI: https://doi.org/10.1515/nleng-2025-0106</summary>
   </entry>
@@ -391,7 +388,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0106</summary>
     <title>Nonlinear structural and vibration analysis of straddle monorail pantograph under random excitations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0104/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0104</id>
-    <updated>2025-05-04T22:10:24.987300+00:00</updated>
+    <updated>2025-05-06T05:02:55.481313+00:00</updated>
     <summary>Article by Wenjie Sun, Xiaobin Tang
 DOI: https://doi.org/10.1515/nleng-2025-0104</summary>
   </entry>
@@ -399,7 +396,7 @@ DOI: https://doi.org/10.1515/nleng-2025-0104</summary>
     <title>Achieving high efficiency and stability in blue OLEDs: Role of wide-gap hosts and emitter interactions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nleng-2025-0107/html"/>
     <id>https://doi.org/10.1515/nleng-2025-0107</id>
-    <updated>2025-05-04T22:10:24.987304+00:00</updated>
+    <updated>2025-05-06T05:02:55.481317+00:00</updated>
     <summary>Article by Qi Zhu, Mingjian Zhang
 DOI: https://doi.org/10.1515/nleng-2025-0107</summary>
   </entry>

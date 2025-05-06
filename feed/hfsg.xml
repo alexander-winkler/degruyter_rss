@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Holzforschung</title>
-  <link href="https://www.degruyterbrill.com/journal/key/hfsg/79/4-5/html"/>
-  <updated>2025-05-04T22:06:07.291414+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/hfsg/79/4-5/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hfsg.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/hfsg/html" rel="related"/>
+  <updated>2025-05-06T04:57:04.655458+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hfsg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Holzforschung</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hfsg.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2025-frontmatter4-5/html"/>
     <id>https://doi.org/10.1515/hf-2025-frontmatter4-5</id>
-    <updated>2025-05-04T22:06:07.291446+00:00</updated>
+    <updated>2025-05-06T04:57:04.655491+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/hf-2025-frontmatter4-5</summary>
   </entry>
   <entry>
     <title>Optimizing recognition models for wood species identification using multi-spectral techniques</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0112/html"/>
     <id>https://doi.org/10.1515/hf-2024-0112</id>
-    <updated>2025-05-04T22:06:07.291455+00:00</updated>
+    <updated>2025-05-06T04:57:04.655500+00:00</updated>
     <summary>Article by Chengxuan Li, Yuan Wang
 DOI: https://doi.org/10.1515/hf-2024-0112</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/hf-2024-0112</summary>
     <title>Influence of moisture on the identification of tropical wood species by NIR spectroscopy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0111/html"/>
     <id>https://doi.org/10.1515/hf-2024-0111</id>
-    <updated>2025-05-04T22:06:07.291464+00:00</updated>
+    <updated>2025-05-06T04:57:04.655511+00:00</updated>
     <summary>Article by Jhennyfer Nayara Nogueira Gomes, Dayane Targino Medeiros, Lívia Cássia Viana, Paulo Ricardo Gherardi Hein
 DOI: https://doi.org/10.1515/hf-2024-0111</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/hf-2024-0111</summary>
     <title>Practical high-yield production of vanillins from kraft or soda lignin using highly alkaline hydrogen peroxide treatment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0121/html"/>
     <id>https://doi.org/10.1515/hf-2024-0121</id>
-    <updated>2025-05-04T22:06:07.291473+00:00</updated>
+    <updated>2025-05-06T04:57:04.655519+00:00</updated>
     <summary>Article by Masato Kuwabara, Kyoko S. Katsumata, Toshihiro Komatsu, Tomoya Yokoyama
 DOI: https://doi.org/10.1515/hf-2024-0121</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/hf-2024-0121</summary>
     <title>An investigation of mechanical properties of linden green wood</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0110/html"/>
     <id>https://doi.org/10.1515/hf-2024-0110</id>
-    <updated>2025-05-04T22:06:07.291481+00:00</updated>
+    <updated>2025-05-06T04:57:04.655532+00:00</updated>
     <summary>Article by Mojtaba Hassan Vand, Patrik Nop, Valentino Cristini, Jan Zlámal, Vít Šeda, Jan Tippner
 DOI: https://doi.org/10.1515/hf-2024-0110</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/hf-2024-0110</summary>
     <title>Free shrinkage characteristics ofEucalyptus urophylla×E. grandiswood prone to collapse</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0104/html"/>
     <id>https://doi.org/10.1515/hf-2024-0104</id>
-    <updated>2025-05-04T22:06:07.291491+00:00</updated>
+    <updated>2025-05-06T04:57:04.655541+00:00</updated>
     <summary>Article by Xiaokai Zhang, Yuchong Hu, Honghai Liu
 DOI: https://doi.org/10.1515/hf-2024-0104</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/hf-2024-0104</summary>
     <title>A study on the relationship between porosity and dielectric constant of wood considering the change of moisture content and frequency</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0084/html"/>
     <id>https://doi.org/10.1515/hf-2024-0084</id>
-    <updated>2025-05-04T22:06:07.291498+00:00</updated>
+    <updated>2025-05-06T04:57:04.655550+00:00</updated>
     <summary>Article by Ruixia Qin, Huadong Xu, Jiaxing Guo, Peng Wang, Kang Yang
 DOI: https://doi.org/10.1515/hf-2024-0084</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/hf-2024-0084</summary>
     <title>An investigation of marine wood boring organism’s attack on various wood materials in Korea</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hf-2024-0088/html"/>
     <id>https://doi.org/10.1515/hf-2024-0088</id>
-    <updated>2025-05-04T22:06:07.291506+00:00</updated>
+    <updated>2025-05-06T04:57:04.655557+00:00</updated>
     <summary>Article by Sae-Min Yoon, Yonggun Park, Hyun-Mi Lee, Won-Joung Hwang, Seong-Jae Jeong, Chul-Ki Kim, Min-Ji Kim, Yong-Seok Choi
 DOI: https://doi.org/10.1515/hf-2024-0088</summary>
   </entry>

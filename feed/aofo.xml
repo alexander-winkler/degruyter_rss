@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Altorientalische Forschungen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/aofo/51/2/html"/>
-  <updated>2025-05-04T22:02:44.574232+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/aofo/51/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/aofo.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/aofo/html" rel="related"/>
+  <updated>2025-05-06T04:52:30.026902+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/aofo.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Altorientalische Forschungen</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/aofo.xml" type="application/rss+xml"/>
   <entry>
     <title>An Inscribed Kassite Weight from Kermānšāh Province, Western Iran</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0021/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0021</id>
-    <updated>2025-05-04T22:02:44.574255+00:00</updated>
+    <updated>2025-05-06T04:52:30.026924+00:00</updated>
     <summary>Article by J. A. Brinkman, Shahram Aliyari, John MacGinnis, Sajjad Alibaigi
 DOI: https://doi.org/10.1515/aofo-2024-0021</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0021</summary>
     <title>A Praise to Ninisina and her Divine Domains</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0017/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0017</id>
-    <updated>2025-05-04T22:02:44.574264+00:00</updated>
+    <updated>2025-05-06T04:52:30.026934+00:00</updated>
     <summary>Article by Dylan Guerra
 DOI: https://doi.org/10.1515/aofo-2024-0017</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0017</summary>
     <title>Eine Nachlese zu Oluf Krückmann,Neubabylonische Rechts- und Verwaltungstexte(TMH 2/3), Teil 2</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0018/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0018</id>
-    <updated>2025-05-04T22:02:44.574271+00:00</updated>
+    <updated>2025-05-06T04:52:30.026941+00:00</updated>
     <summary>Article by Johannes Hackl
 DOI: https://doi.org/10.1515/aofo-2024-0018</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0018</summary>
     <title>Ezinan’s Seven Children</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0019/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0019</id>
-    <updated>2025-05-04T22:02:44.574277+00:00</updated>
+    <updated>2025-05-06T04:52:30.026950+00:00</updated>
     <summary>Article by Manfred Krebernik, Jan J.W. Lisman
 DOI: https://doi.org/10.1515/aofo-2024-0019</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0019</summary>
     <title>Mysians on the Borders of Lydia: The ‘Old-Phrygian’ Inscription on the Spindle-Whorl from the Thyateira Region (HP-101) Revisited</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0020/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0020</id>
-    <updated>2025-05-04T22:02:44.574285+00:00</updated>
+    <updated>2025-05-06T04:52:30.026957+00:00</updated>
     <summary>Article by Rostyslav Oreshko
 DOI: https://doi.org/10.1515/aofo-2024-0020</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0020</summary>
     <title>Johannes Friedrich – Zur Einleitung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0008/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0008</id>
-    <updated>2025-05-04T22:02:44.574291+00:00</updated>
+    <updated>2025-05-06T04:52:30.026963+00:00</updated>
     <summary>Article by Jörg Klinger
 DOI: https://doi.org/10.1515/aofo-2024-0008</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0008</summary>
     <title>Johannes Friedrich und die Anfänge der Hurritologie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0009/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0009</id>
-    <updated>2025-05-04T22:02:44.574298+00:00</updated>
+    <updated>2025-05-06T04:52:30.026970+00:00</updated>
     <summary>Article by Gernot Wilhelm
 DOI: https://doi.org/10.1515/aofo-2024-0009</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0009</summary>
     <title>Johannes Friedrich und die Urartäische Sprachforschung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0010/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0010</id>
-    <updated>2025-05-04T22:02:44.574304+00:00</updated>
+    <updated>2025-05-06T04:52:30.026977+00:00</updated>
     <summary>Article by Mirjo Salvini
 DOI: https://doi.org/10.1515/aofo-2024-0010</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0010</summary>
     <title>Gedanken zur Suffixaufnahme im Mittani-Brief</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0011/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0011</id>
-    <updated>2025-05-04T22:02:44.574315+00:00</updated>
+    <updated>2025-05-06T04:52:30.026987+00:00</updated>
     <summary>Article by Fabio Bastici
 DOI: https://doi.org/10.1515/aofo-2024-0011</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0011</summary>
     <title>Eine grammatikalische Beobachtung zum Hurritischen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0012/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0012</id>
-    <updated>2025-05-04T22:02:44.574321+00:00</updated>
+    <updated>2025-05-06T04:52:30.026995+00:00</updated>
     <summary>Article by Sebastian Fischer
 DOI: https://doi.org/10.1515/aofo-2024-0012</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0012</summary>
     <title>Zimrī-Lîm in dem hurritischsprachigen Text Mari 7+6</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0013/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0013</id>
-    <updated>2025-05-04T22:02:44.574328+00:00</updated>
+    <updated>2025-05-06T04:52:30.027002+00:00</updated>
     <summary>Article by Mauro Giorgieri
 DOI: https://doi.org/10.1515/aofo-2024-0013</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0013</summary>
     <title>ABoT 2.247, KBo. 57.180 und das Lied der Freilassung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0014/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0014</id>
-    <updated>2025-05-04T22:02:44.574334+00:00</updated>
+    <updated>2025-05-06T04:52:30.027011+00:00</updated>
     <summary>Article by Susanne Görke, Jürgen Lorenz
 DOI: https://doi.org/10.1515/aofo-2024-0014</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0014</summary>
     <title>Previously Unidentified Hurrian Words in Nuzi Texts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0015/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0015</id>
-    <updated>2025-05-04T22:02:44.574340+00:00</updated>
+    <updated>2025-05-06T04:52:30.027017+00:00</updated>
     <summary>Article by Albert Planelles
 DOI: https://doi.org/10.1515/aofo-2024-0015</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0015</summary>
     <title>Ergänzungen zum hurritischen Wörterbuch III</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-0016/html"/>
     <id>https://doi.org/10.1515/aofo-2024-0016</id>
-    <updated>2025-05-04T22:02:44.574347+00:00</updated>
+    <updated>2025-05-06T04:52:30.027027+00:00</updated>
     <summary>Article by Thomas Richter
 DOI: https://doi.org/10.1515/aofo-2024-0016</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/aofo-2024-0016</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/aofo-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/aofo-2024-frontmatter2</id>
-    <updated>2025-05-04T22:02:44.574353+00:00</updated>
+    <updated>2025-05-06T04:52:30.027033+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/aofo-2024-frontmatter2</summary>
   </entry>
 </feed>

@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Education Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/edu/7/1/html"/>
-  <updated>2025-05-04T22:04:57.603347+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/edu/7/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/edu.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/edu/html" rel="related"/>
+  <updated>2025-05-06T04:55:28.071035+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/edu.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Education Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/edu.xml" type="application/rss+xml"/>
   <entry>
     <title>Formation of STEM Competencies of Future Teachers: Kazakhstani Experience</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2024-0058/html"/>
     <id>https://doi.org/10.1515/edu-2024-0058</id>
-    <updated>2025-05-04T22:04:57.603383+00:00</updated>
+    <updated>2025-05-06T04:55:28.071067+00:00</updated>
     <summary>Article by Khadisha Abdrakhmanova, Roza Kadirbayeva, Kuralay Kudaibergenova, Serik Zharmukhanbetov, Gulira Nurmukhanbetova
 DOI: https://doi.org/10.1515/edu-2024-0058</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/edu-2024-0058</summary>
     <title>Technology Experiences in Initial Teacher Education: A Systematic Review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2024-0059/html"/>
     <id>https://doi.org/10.1515/edu-2024-0059</id>
-    <updated>2025-05-04T22:04:57.603397+00:00</updated>
+    <updated>2025-05-06T04:55:28.071080+00:00</updated>
     <summary>Article by Uaiana Prates, Mário Cruz, Daniela Mascarenhas, Cláudia Maia-Lima
 DOI: https://doi.org/10.1515/edu-2024-0059</summary>
   </entry>
@@ -31,15 +28,23 @@ DOI: https://doi.org/10.1515/edu-2024-0059</summary>
     <title>Ethnosocial-Based Differentiated Digital Learning Model to Enhance Nationalistic Insight</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0062/html"/>
     <id>https://doi.org/10.1515/edu-2025-0062</id>
-    <updated>2025-05-04T22:04:57.603406+00:00</updated>
+    <updated>2025-05-06T04:55:28.071091+00:00</updated>
     <summary>Article by Asnawi, Ary Kiswanto Kenedi, Tengku Muhammad Sahudra, Dini Ramadhani, Ronald Fransyaigu, Asna Mardin, Arwin
 DOI: https://doi.org/10.1515/edu-2025-0062</summary>
+  </entry>
+  <entry>
+    <title>Delimiting the Future in the Relationship Between AI and Photographic Pedagogy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0065/html"/>
+    <id>https://doi.org/10.1515/edu-2025-0065</id>
+    <updated>2025-05-06T04:55:28.071103+00:00</updated>
+    <summary>Article by Hugo Edgar Mesquita, Adriana Baptista, Olívia Silva
+DOI: https://doi.org/10.1515/edu-2025-0065</summary>
   </entry>
   <entry>
     <title>Examining the Link: Resilience Interventions and Creativity Enhancement among Undergraduate Students</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2024-0055/html"/>
     <id>https://doi.org/10.1515/edu-2024-0055</id>
-    <updated>2025-05-04T22:04:57.603414+00:00</updated>
+    <updated>2025-05-06T04:55:28.071113+00:00</updated>
     <summary>Article by Meghana Gowda, Ruchi Gautam
 DOI: https://doi.org/10.1515/edu-2024-0055</summary>
   </entry>
@@ -47,7 +52,7 @@ DOI: https://doi.org/10.1515/edu-2024-0055</summary>
     <title>The Use of Simulation in Self-Perception of Learning in Occupational Therapy Students</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2024-0054/html"/>
     <id>https://doi.org/10.1515/edu-2024-0054</id>
-    <updated>2025-05-04T22:04:57.603421+00:00</updated>
+    <updated>2025-05-06T04:55:28.071121+00:00</updated>
     <summary>Article by Fabiana Rocha, Vitor Simões-Silva, Raquel Simões de Almeida, Maria João Trigueiro
 DOI: https://doi.org/10.1515/edu-2024-0054</summary>
   </entry>
@@ -55,7 +60,7 @@ DOI: https://doi.org/10.1515/edu-2024-0054</summary>
     <title>Factors Influencing the Usage of Interactive Action Technologies in Mathematics Education: Insights from Hungarian Teachers’ ICT Usage Patterns</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0060/html"/>
     <id>https://doi.org/10.1515/edu-2025-0060</id>
-    <updated>2025-05-04T22:04:57.603430+00:00</updated>
+    <updated>2025-05-06T04:55:28.071131+00:00</updated>
     <summary>Article by Zoltán Kovács, Gergely Wintsche
 DOI: https://doi.org/10.1515/edu-2025-0060</summary>
   </entry>
@@ -63,7 +68,7 @@ DOI: https://doi.org/10.1515/edu-2025-0060</summary>
     <title>Study on the Effect of Self-Monitoring Tasks on Improving Pronunciation of Foreign Learners of Korean in Blended Courses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0069/html"/>
     <id>https://doi.org/10.1515/edu-2025-0069</id>
-    <updated>2025-05-04T22:04:57.603437+00:00</updated>
+    <updated>2025-05-06T04:55:28.071140+00:00</updated>
     <summary>Article by Esraa Hasan, Abdel Rahman Mitib Altakhaineh, Roh Chahwan
 DOI: https://doi.org/10.1515/edu-2025-0069</summary>
   </entry>
@@ -71,7 +76,7 @@ DOI: https://doi.org/10.1515/edu-2025-0069</summary>
     <title>The Effect of the Flipped Classroom on Students’ Soft Skill Development: Quasi-Experimental Study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0063/html"/>
     <id>https://doi.org/10.1515/edu-2025-0063</id>
-    <updated>2025-05-04T22:04:57.603444+00:00</updated>
+    <updated>2025-05-06T04:55:28.071149+00:00</updated>
     <summary>Article by Jaouad Elkhalladi, Amal Sefrioui, Lahoucine Amsdar
 DOI: https://doi.org/10.1515/edu-2025-0063</summary>
   </entry>
@@ -79,7 +84,7 @@ DOI: https://doi.org/10.1515/edu-2025-0063</summary>
     <title>The Impact of Perfectionism, Self-Efficacy, Academic Stress, and Workload on Academic Fatigue and Learning Achievement: Indonesian Perspectives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2025-0071/html"/>
     <id>https://doi.org/10.1515/edu-2025-0071</id>
-    <updated>2025-05-04T22:04:57.603451+00:00</updated>
+    <updated>2025-05-06T04:55:28.071164+00:00</updated>
     <summary>Article by Robi Hendra, Akhmad Habibi, Ahmad Ridwan, Dian Arisandy Eka Putra Sembiring, Tommy Tanu Wijaya, Denny Denmar, I Wayan Widana
 DOI: https://doi.org/10.1515/edu-2025-0071</summary>
   </entry>
@@ -87,7 +92,7 @@ DOI: https://doi.org/10.1515/edu-2025-0071</summary>
     <title>Current Trends in Augmented Reality to Improve Senior High School Students’ Skills in Education 4.0: A Systematic Literature Review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/edu-2024-0053/html"/>
     <id>https://doi.org/10.1515/edu-2024-0053</id>
-    <updated>2025-05-04T22:04:57.603461+00:00</updated>
+    <updated>2025-05-06T04:55:28.071173+00:00</updated>
     <summary>Article by Febri Yanti, Lufri Lufri, Yuni Ahda
 DOI: https://doi.org/10.1515/edu-2024-0053</summary>
   </entry>

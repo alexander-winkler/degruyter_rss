@@ -1,69 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Studies in Nonlinear Dynamics &amp; Econometrics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/snde/29/1/html"/>
-  <updated>2025-05-04T22:12:30.029687+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/snde/29/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/snde/html" rel="related"/>
+  <updated>2025-05-06T05:05:47.102974+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Studies in Nonlinear Dynamics &amp; Econometrics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/snde-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:30.029727+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter1</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/snde-2025-frontmatter2</id>
+    <updated>2025-05-06T05:05:47.102990+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter2</summary>
   </entry>
   <entry>
-    <title>Power of Unit Root Tests Against Nonlinear and Noncausal Alternatives with an Application to the Brent Crude Oil Price</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2022-0084/html"/>
-    <id>https://doi.org/10.1515/snde-2022-0084</id>
-    <updated>2025-05-04T22:12:30.029737+00:00</updated>
-    <summary>Article by Frédérique Bec, Alain Guay, Heino Bohn Nielsen, Sarra Saïdi
-DOI: https://doi.org/10.1515/snde-2022-0084</summary>
+    <title>Multiscale SUR Estimation of Systematic Risk</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0017/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0017</id>
+    <updated>2025-05-06T05:05:47.102995+00:00</updated>
+    <summary>Article by Antonis A. Michis
+DOI: https://doi.org/10.1515/snde-2023-0017</summary>
   </entry>
   <entry>
-    <title>Financial Condition Indices in an Incomplete Data Environment</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2022-0115/html"/>
-    <id>https://doi.org/10.1515/snde-2022-0115</id>
-    <updated>2025-05-04T22:12:30.029749+00:00</updated>
-    <summary>Article by Miguel C. Herculano, Punnoose Jacob
-DOI: https://doi.org/10.1515/snde-2022-0115</summary>
+    <title>A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0028/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0028</id>
+    <updated>2025-05-06T05:05:47.103001+00:00</updated>
+    <summary>Article by Jean-François Bégin, Mathieu Boudreault
+DOI: https://doi.org/10.1515/snde-2023-0028</summary>
   </entry>
   <entry>
-    <title>Investigating the Impact of Consumption Distribution on CRRA Estimation: Quantile-CCAPM-Based Approach</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0005/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0005</id>
-    <updated>2025-05-04T22:12:30.029758+00:00</updated>
-    <summary>Article by Sofia B. Ramos, Abderrahim Taamouti, Helena Veiga
-DOI: https://doi.org/10.1515/snde-2023-0005</summary>
+    <title>Core Inflation Rate for China and the ASEAN-10 Countries: Smoothed Signal for Score-Driven Local Level Plus Scale Models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0042/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0042</id>
+    <updated>2025-05-06T05:05:47.103006+00:00</updated>
+    <summary>Article by Szabolcs Blazsek, Adrian Licht, Astrid Ayala, Su-Ping Liu
+DOI: https://doi.org/10.1515/snde-2023-0042</summary>
   </entry>
   <entry>
-    <title>Controlling Chaotic Fluctuations through Monetary Policy</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0015/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0015</id>
-    <updated>2025-05-04T22:12:30.029767+00:00</updated>
-    <summary>Article by Takao Asano, Akihisa Shibata, Masanori Yokoo
-DOI: https://doi.org/10.1515/snde-2023-0015</summary>
+    <title>Diversified Reward-Risk Parity in Portfolio Construction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0012/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0012</id>
+    <updated>2025-05-06T05:05:47.103010+00:00</updated>
+    <summary>Article by Jaehyung Choi, Hyangju Kim, Young Shin Kim
+DOI: https://doi.org/10.1515/snde-2023-0012</summary>
   </entry>
   <entry>
-    <title>Information Content of Inflation Expectations: A Copula-Based Model</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0075/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0075</id>
-    <updated>2025-05-04T22:12:30.029775+00:00</updated>
-    <summary>Article by Omid M. Ardakani
-DOI: https://doi.org/10.1515/snde-2023-0075</summary>
+    <title>Time-Varying Parameter Four-Equation DSGE Model</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0010/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0010</id>
+    <updated>2025-05-06T05:05:47.103015+00:00</updated>
+    <summary>Article by Rangan Gupta, Xiaojin Sun
+DOI: https://doi.org/10.1515/snde-2023-0010</summary>
   </entry>
   <entry>
-    <title>Generalized Autoregressive Conditional Betas: A New Multivariate Score-Driven Filter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0019/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0019</id>
-    <updated>2025-05-04T22:12:30.029784+00:00</updated>
-    <summary>Article by Szabolcs Blazsek, August Jörding, Simran Rai
-DOI: https://doi.org/10.1515/snde-2023-0019</summary>
+    <title>Does State Dependence Matter in Relation to Oil Price Shocks on Global Economic Conditions?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0018/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0018</id>
+    <updated>2025-05-06T05:05:47.103019+00:00</updated>
+    <summary>Article by Gilles Dufrénot, William Ginn, Marc Pourroy, Adam Sullivan
+DOI: https://doi.org/10.1515/snde-2023-0018</summary>
   </entry>
 </feed>

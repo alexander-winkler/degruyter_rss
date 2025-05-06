@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Die Denkmalpflege</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dkp/83/1/html"/>
-  <updated>2025-05-04T22:04:40.238933+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dkp/83/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dkp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dkp/html" rel="related"/>
+  <updated>2025-05-06T04:55:03.919816+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dkp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Die Denkmalpflege</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dkp.xml" type="application/rss+xml"/>
   <entry>
     <title>Cover</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1000/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1000</id>
-    <updated>2025-05-04T22:04:40.238962+00:00</updated>
+    <updated>2025-05-06T04:55:03.919844+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dkp-2025-1000</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1001/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1001</id>
-    <updated>2025-05-04T22:04:40.238971+00:00</updated>
+    <updated>2025-05-06T04:55:03.919853+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dkp-2025-1001</summary>
   </entry>
   <entry>
     <title>Vorwort</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1002/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1002</id>
-    <updated>2025-05-04T22:04:40.238979+00:00</updated>
+    <updated>2025-05-06T04:55:03.919860+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dkp-2025-1002</summary>
   </entry>
   <entry>
     <title>Das Paradigma »Reparatur«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1003/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1003</id>
-    <updated>2025-05-04T22:04:40.238986+00:00</updated>
+    <updated>2025-05-06T04:55:03.919867+00:00</updated>
     <summary>Article by Pathmini L. Neuner-Ukwattage
 DOI: https://doi.org/10.1515/dkp-2025-1003</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1003</summary>
     <title>Eine Zukunft für wessen Vergangenheit?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1004/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1004</id>
-    <updated>2025-05-04T22:04:40.238997+00:00</updated>
+    <updated>2025-05-06T04:55:03.919876+00:00</updated>
     <summary>Article by Ulrich Knufinke
 DOI: https://doi.org/10.1515/dkp-2025-1004</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1004</summary>
     <title>Béton Brut</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1005/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1005</id>
-    <updated>2025-05-04T22:04:40.239005+00:00</updated>
+    <updated>2025-05-06T04:55:03.919883+00:00</updated>
     <summary>Article by Christian Schießl
 DOI: https://doi.org/10.1515/dkp-2025-1005</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1005</summary>
     <title>Unendliche Erhaltung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1006/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1006</id>
-    <updated>2025-05-04T22:04:40.239014+00:00</updated>
+    <updated>2025-05-06T04:55:03.919891+00:00</updated>
     <summary>Article by Pablo von Frankenberg
 DOI: https://doi.org/10.1515/dkp-2025-1006</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1006</summary>
     <title>Denkmalpflege und Erinnerungskultur</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1007/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1007</id>
-    <updated>2025-05-04T22:04:40.239022+00:00</updated>
+    <updated>2025-05-06T04:55:03.919898+00:00</updated>
     <summary>Article by Viviane Taubert, Susanne Willen
 DOI: https://doi.org/10.1515/dkp-2025-1007</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1007</summary>
     <title>Glaskunst in der Weltstadt des Entertainments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1008/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1008</id>
-    <updated>2025-05-04T22:04:40.239030+00:00</updated>
+    <updated>2025-05-06T04:55:03.919906+00:00</updated>
     <summary>Article by Tanja Kilzer
 DOI: https://doi.org/10.1515/dkp-2025-1008</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1008</summary>
     <title>Die MehrWert-Kampagne der VDL im Jubiläumsjahr des Europäischen Denkmalschutzjahres 1975</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1009/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1009</id>
-    <updated>2025-05-04T22:04:40.239038+00:00</updated>
+    <updated>2025-05-06T04:55:03.919913+00:00</updated>
     <summary>Article by Anna Joss, Christina Krafczyk, Doris Olbeter, Annika Tillmann
 DOI: https://doi.org/10.1515/dkp-2025-1009</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1009</summary>
     <title>Das Volontariat in der Denkmalpflege</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1010/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1010</id>
-    <updated>2025-05-04T22:04:40.239048+00:00</updated>
+    <updated>2025-05-06T04:55:03.919921+00:00</updated>
     <summary>Article by Niklas Irmen, Marion Kohnke, Karl Mühlbach
 DOI: https://doi.org/10.1515/dkp-2025-1010</summary>
   </entry>
@@ -100,14 +97,14 @@ DOI: https://doi.org/10.1515/dkp-2025-1010</summary>
     <title>Aktuelles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1011/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1011</id>
-    <updated>2025-05-04T22:04:40.239056+00:00</updated>
+    <updated>2025-05-06T04:55:03.919934+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dkp-2025-1011</summary>
   </entry>
   <entry>
     <title>Denkmalkritik. Für eine zukunftsfähige Denkmalpflege. Essay</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1012/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1012</id>
-    <updated>2025-05-04T22:04:40.239067+00:00</updated>
+    <updated>2025-05-06T04:55:03.919940+00:00</updated>
     <summary>Article by Udo Mainzer
 DOI: https://doi.org/10.1515/dkp-2025-1012</summary>
   </entry>
@@ -115,7 +112,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1012</summary>
     <title>Denkmal Postmoderne. Bestände einer (un)geliebten Epoche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1013/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1013</id>
-    <updated>2025-05-04T22:04:40.239075+00:00</updated>
+    <updated>2025-05-06T04:55:03.919948+00:00</updated>
     <summary>Article by Frank Schmitz
 DOI: https://doi.org/10.1515/dkp-2025-1013</summary>
   </entry>
@@ -123,7 +120,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1013</summary>
     <title>Das ehemalige Parlaments- und Regierungsviertel in Bonn</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1014/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1014</id>
-    <updated>2025-05-04T22:04:40.239082+00:00</updated>
+    <updated>2025-05-06T04:55:03.919955+00:00</updated>
     <summary>Article by Udo Mainzer
 DOI: https://doi.org/10.1515/dkp-2025-1014</summary>
   </entry>
@@ -131,7 +128,7 @@ DOI: https://doi.org/10.1515/dkp-2025-1014</summary>
     <title>Call for papers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dkp-2025-1015/html"/>
     <id>https://doi.org/10.1515/dkp-2025-1015</id>
-    <updated>2025-05-04T22:04:40.239090+00:00</updated>
+    <updated>2025-05-06T04:55:03.919961+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dkp-2025-1015</summary>
   </entry>
 </feed>

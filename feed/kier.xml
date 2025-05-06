@@ -1,49 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kierkegaard Studies Yearbook</title>
-  <link href="https://www.degruyterbrill.com/journal/key/kier/29/1/html"/>
-  <updated>2025-05-04T22:09:04.359314+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/kier/29/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kier.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/kier/html" rel="related"/>
+  <updated>2025-05-06T05:01:06.049899+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kier.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Kierkegaard Studies Yearbook</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kier.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/kierke-2024-frontmatter1</id>
-    <updated>2025-05-04T22:09:04.359337+00:00</updated>
+    <updated>2025-05-06T05:01:06.049919+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Preface</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0001/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0001</id>
-    <updated>2025-05-04T22:09:04.359344+00:00</updated>
+    <updated>2025-05-06T05:01:06.049926+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0001</summary>
   </entry>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/kierke-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:04.359350+00:00</updated>
+    <updated>2025-05-06T05:01:06.049931+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Section 1:Interpreting Kierkegaard’s Works and Journals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0999/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0999</id>
-    <updated>2025-05-04T22:09:04.359356+00:00</updated>
+    <updated>2025-05-06T05:01:06.049937+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0999</summary>
   </entry>
   <entry>
     <title>Demonic Pantheism:Either/Oron Boredom as the Modern Crisis of Faith</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0002/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0002</id>
-    <updated>2025-05-04T22:09:04.359361+00:00</updated>
+    <updated>2025-05-06T05:01:06.049942+00:00</updated>
     <summary>Article by Anna Louise Strelis Söderquist
 DOI: https://doi.org/10.1515/kierke-2024-0002</summary>
   </entry>
@@ -51,7 +48,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0002</summary>
     <title>Kierkegaard, Spiritual Crisis, and Anxious Faith: Battling for Faith inFear and TremblingandStrengthening in the Inner Being</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0003/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0003</id>
-    <updated>2025-05-04T22:09:04.359369+00:00</updated>
+    <updated>2025-05-06T05:01:06.049949+00:00</updated>
     <summary>Article by K. Brian Söderquist
 DOI: https://doi.org/10.1515/kierke-2024-0003</summary>
   </entry>
@@ -59,7 +56,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0003</summary>
     <title>“Existence is the Spatiating”: Typographical Thinking and the Concept of Existence in Kierkegaard’sPostscript</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0004/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0004</id>
-    <updated>2025-05-04T22:09:04.359375+00:00</updated>
+    <updated>2025-05-06T05:01:06.049955+00:00</updated>
     <summary>Article by Elizabeth X. Li
 DOI: https://doi.org/10.1515/kierke-2024-0004</summary>
   </entry>
@@ -67,7 +64,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0004</summary>
     <title>The Sickness unto DeathPenalty: To Condemn the Other to Despair for the Sake of One’s Own Despair</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0005/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0005</id>
-    <updated>2025-05-04T22:09:04.359382+00:00</updated>
+    <updated>2025-05-06T05:01:06.049966+00:00</updated>
     <summary>Article by Cassandre Caballero
 DOI: https://doi.org/10.1515/kierke-2024-0005</summary>
   </entry>
@@ -75,14 +72,14 @@ DOI: https://doi.org/10.1515/kierke-2024-0005</summary>
     <title>Section 2:Concepts and Problems in Kierkegaard</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0998/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0998</id>
-    <updated>2025-05-04T22:09:04.359387+00:00</updated>
+    <updated>2025-05-06T05:01:06.049971+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0998</summary>
   </entry>
   <entry>
     <title>Re-Staging Existence: Revisiting Kierkegaard’s Theory of Life Stages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0006/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0006</id>
-    <updated>2025-05-04T22:09:04.359396+00:00</updated>
+    <updated>2025-05-06T05:01:06.050000+00:00</updated>
     <summary>Article by Michael Regier
 DOI: https://doi.org/10.1515/kierke-2024-0006</summary>
   </entry>
@@ -90,7 +87,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0006</summary>
     <title>Ignorance, Frailty, and Defiance: The Anxiety of Freedom</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0007/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0007</id>
-    <updated>2025-05-04T22:09:04.359402+00:00</updated>
+    <updated>2025-05-06T05:01:06.050006+00:00</updated>
     <summary>Article by Lanxin Shi
 DOI: https://doi.org/10.1515/kierke-2024-0007</summary>
   </entry>
@@ -98,7 +95,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0007</summary>
     <title>Not a Negation, but a Position: Kierkegaard on Evil and Sin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0008/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0008</id>
-    <updated>2025-05-04T22:09:04.359408+00:00</updated>
+    <updated>2025-05-06T05:01:06.050011+00:00</updated>
     <summary>Article by Ingolf U. Dalferth
 DOI: https://doi.org/10.1515/kierke-2024-0008</summary>
   </entry>
@@ -106,7 +103,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0008</summary>
     <title>Original Sin and Transmission of Trauma: A Dialog between Kierkegaard’s Hamartiology and the Phenomenon of Transgenerationality</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0009/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0009</id>
-    <updated>2025-05-04T22:09:04.359417+00:00</updated>
+    <updated>2025-05-06T05:01:06.050017+00:00</updated>
     <summary>Article by Lena Isabell Mausbach
 DOI: https://doi.org/10.1515/kierke-2024-0009</summary>
   </entry>
@@ -114,7 +111,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0009</summary>
     <title>“A Satire on What It Is to Be a Human Being”: A Kierkegaardian Critique of Neoliberal Subjectivity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0010/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0010</id>
-    <updated>2025-05-04T22:09:04.359423+00:00</updated>
+    <updated>2025-05-06T05:01:06.050026+00:00</updated>
     <summary>Article by Sophie Höfer
 DOI: https://doi.org/10.1515/kierke-2024-0010</summary>
   </entry>
@@ -122,14 +119,14 @@ DOI: https://doi.org/10.1515/kierke-2024-0010</summary>
     <title>Section 3:Kierkegaard’s Sources and Historical Context</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0997/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0997</id>
-    <updated>2025-05-04T22:09:04.359433+00:00</updated>
+    <updated>2025-05-06T05:01:06.050032+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0997</summary>
   </entry>
   <entry>
     <title>Who Is the Father of Existentialism? The Historical Context of Kierkegaard’s Criticism of Hegel’s Interpretation of Actuality</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0011/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0011</id>
-    <updated>2025-05-04T22:09:04.359439+00:00</updated>
+    <updated>2025-05-06T05:01:06.050037+00:00</updated>
     <summary>Article by Jon Stewart
 DOI: https://doi.org/10.1515/kierke-2024-0011</summary>
   </entry>
@@ -137,7 +134,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0011</summary>
     <title>Kierkegaards Auseinandersetzung mit Magnús Eiríksson: Werkstattbericht und Übersetzung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0012/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0012</id>
-    <updated>2025-05-04T22:09:04.359444+00:00</updated>
+    <updated>2025-05-06T05:01:06.050042+00:00</updated>
     <summary>Article by Gerhard Schreiber
 DOI: https://doi.org/10.1515/kierke-2024-0012</summary>
   </entry>
@@ -145,14 +142,14 @@ DOI: https://doi.org/10.1515/kierke-2024-0012</summary>
     <title>Section 4:Receptions of Kierkegaard’s Thought</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0996/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0996</id>
-    <updated>2025-05-04T22:09:04.359450+00:00</updated>
+    <updated>2025-05-06T05:01:06.050047+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0996</summary>
   </entry>
   <entry>
     <title>Zwischen Glauben und Verzweiflung. Franz Werfel und Søren Kierkegaard</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0013/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0013</id>
-    <updated>2025-05-04T22:09:04.359455+00:00</updated>
+    <updated>2025-05-06T05:01:06.050052+00:00</updated>
     <summary>Article by Joanna Nowotny
 DOI: https://doi.org/10.1515/kierke-2024-0013</summary>
   </entry>
@@ -160,7 +157,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0013</summary>
     <title>La pensée existentielle de Kierkegaard et la philosophie de Charles De Koninck: contexte et résonances</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0014/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0014</id>
-    <updated>2025-05-04T22:09:04.359461+00:00</updated>
+    <updated>2025-05-06T05:01:06.050057+00:00</updated>
     <summary>Article by Maxime Valcourt-Blouin
 DOI: https://doi.org/10.1515/kierke-2024-0014</summary>
   </entry>
@@ -168,14 +165,14 @@ DOI: https://doi.org/10.1515/kierke-2024-0014</summary>
     <title>Section 5:Kierkegaard’s Contemporaries: Sources in Translation and Commentary</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0995/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0995</id>
-    <updated>2025-05-04T22:09:04.359467+00:00</updated>
+    <updated>2025-05-06T05:01:06.050063+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0995</summary>
   </entry>
   <entry>
     <title>Martensen’s Review of Heiberg’sNew Poemsand the Discussion on Speculative Poetry and the Crisis of the Age</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0015/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0015</id>
-    <updated>2025-05-04T22:09:04.359472+00:00</updated>
+    <updated>2025-05-06T05:01:06.050070+00:00</updated>
     <summary>Article by Nassim Bravo
 DOI: https://doi.org/10.1515/kierke-2024-0015</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0015</summary>
     <title>Hans Lassen Martensen’s “New Poemsby J.L. Heiberg”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0016/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0016</id>
-    <updated>2025-05-04T22:09:04.359477+00:00</updated>
+    <updated>2025-05-06T05:01:06.050075+00:00</updated>
     <summary>Article by Nassim Bravo
 DOI: https://doi.org/10.1515/kierke-2024-0016</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/kierke-2024-0016</summary>
     <title>Abbreviations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kierke-2024-0017/html"/>
     <id>https://doi.org/10.1515/kierke-2024-0017</id>
-    <updated>2025-05-04T22:09:04.359484+00:00</updated>
+    <updated>2025-05-06T05:01:06.050081+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kierke-2024-0017</summary>
   </entry>
 </feed>

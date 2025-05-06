@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Computer und Recht</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cr/41/4/html"/>
-  <updated>2025-05-04T22:04:15.767730+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cr/41/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cr/html" rel="related"/>
+  <updated>2025-05-06T04:54:29.090580+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Computer und Recht</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cr.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-frontmatter4104/html"/>
     <id>https://doi.org/10.9785/cr-2025-frontmatter4104</id>
-    <updated>2025-05-04T22:04:15.767760+00:00</updated>
+    <updated>2025-05-06T04:54:29.090597+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-frontmatter4104</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-toc4104/html"/>
     <id>https://doi.org/10.9785/cr-2025-toc4104</id>
-    <updated>2025-05-04T22:04:15.767766+00:00</updated>
+    <updated>2025-05-06T04:54:29.090603+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-toc4104</summary>
   </entry>
   <entry>
     <title>EuGH: Auskunftsumfang bei automatisierter Bonitätsbeurteilung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410402/html"/>
     <id>https://doi.org/10.9785/cr-2025-410402</id>
-    <updated>2025-05-04T22:04:15.767771+00:00</updated>
+    <updated>2025-05-06T04:54:29.090608+00:00</updated>
     <summary>Article by Maren K. Wöbbeking
 DOI: https://doi.org/10.9785/cr-2025-410402</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.9785/cr-2025-410402</summary>
     <title>EuGH: Neuer Geschlechtseintrag ohne geschlechtsangleichende Operation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410403/html"/>
     <id>https://doi.org/10.9785/cr-2025-410403</id>
-    <updated>2025-05-04T22:04:15.767778+00:00</updated>
+    <updated>2025-05-06T04:54:29.090615+00:00</updated>
     <summary>Article by Paul Limbach
 DOI: https://doi.org/10.9785/cr-2025-410403</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.9785/cr-2025-410403</summary>
     <title>BGH: Keine Telefonnummer in einer Widerrufsbelehrung erforderlich</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410404/html"/>
     <id>https://doi.org/10.9785/cr-2025-410404</id>
-    <updated>2025-05-04T22:04:15.767783+00:00</updated>
+    <updated>2025-05-06T04:54:29.090620+00:00</updated>
     <summary>Article by David Wasilewski
 DOI: https://doi.org/10.9785/cr-2025-410404</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.9785/cr-2025-410404</summary>
     <title>OLG Frankfurt: Verbot wettbewerbswidriger Werbung für medizinisches Cannabis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410405/html"/>
     <id>https://doi.org/10.9785/cr-2025-410405</id>
-    <updated>2025-05-04T22:04:15.767789+00:00</updated>
+    <updated>2025-05-06T04:54:29.090625+00:00</updated>
     <summary>Article by Katharina Stein
 DOI: https://doi.org/10.9785/cr-2025-410405</summary>
   </entry>
@@ -61,14 +58,14 @@ DOI: https://doi.org/10.9785/cr-2025-410405</summary>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410425/html"/>
     <id>https://doi.org/10.9785/cr-2025-410425</id>
-    <updated>2025-05-04T22:04:15.767794+00:00</updated>
+    <updated>2025-05-06T04:54:29.090629+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410425</summary>
   </entry>
   <entry>
     <title>BVerwG: Keine Sperrpflicht ohne Verantwortlichkeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410420/html"/>
     <id>https://doi.org/10.9785/cr-2025-410420</id>
-    <updated>2025-05-04T22:04:15.767799+00:00</updated>
+    <updated>2025-05-06T04:54:29.090635+00:00</updated>
     <summary>Article by Jan Pfeiffer
 DOI: https://doi.org/10.9785/cr-2025-410420</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.9785/cr-2025-410420</summary>
     <title>OLG Frankfurt: Prüfpflichten eines Hostproviders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410421/html"/>
     <id>https://doi.org/10.9785/cr-2025-410421</id>
-    <updated>2025-05-04T22:04:15.767804+00:00</updated>
+    <updated>2025-05-06T04:54:29.090640+00:00</updated>
     <summary>Article by Jan Pfeiffer
 DOI: https://doi.org/10.9785/cr-2025-410421</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.9785/cr-2025-410421</summary>
     <title>BGH: Überragende marktübergreifende Bedeutung Apples für den Wettbewerb</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410422/html"/>
     <id>https://doi.org/10.9785/cr-2025-410422</id>
-    <updated>2025-05-04T22:04:15.767808+00:00</updated>
+    <updated>2025-05-06T04:54:29.090644+00:00</updated>
     <summary>Article by Noel B. Berhane
 DOI: https://doi.org/10.9785/cr-2025-410422</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.9785/cr-2025-410422</summary>
     <title>Tagungsbericht: Kölner Tage IT‑Recht 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410423/html"/>
     <id>https://doi.org/10.9785/cr-2025-410423</id>
-    <updated>2025-05-04T22:04:15.767814+00:00</updated>
+    <updated>2025-05-06T04:54:29.090650+00:00</updated>
     <summary>Article by Matteo Martini
 DOI: https://doi.org/10.9785/cr-2025-410423</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.9785/cr-2025-410423</summary>
     <title>Lugowski, Raphael/Wagner, Kevin, Der Einsatz von KI in der Arbeitswelt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410424/html"/>
     <id>https://doi.org/10.9785/cr-2025-410424</id>
-    <updated>2025-05-04T22:04:15.767820+00:00</updated>
+    <updated>2025-05-06T04:54:29.090655+00:00</updated>
     <summary>Article by Thomas Stähler
 DOI: https://doi.org/10.9785/cr-2025-410424</summary>
   </entry>
@@ -108,28 +105,28 @@ DOI: https://doi.org/10.9785/cr-2025-410424</summary>
     <title>Neue Inhalte in Otto Schmidt online</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410401/html"/>
     <id>https://doi.org/10.9785/cr-2025-410401</id>
-    <updated>2025-05-04T22:04:15.767826+00:00</updated>
+    <updated>2025-05-06T04:54:29.090659+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410401</summary>
   </entry>
   <entry>
     <title>OLG Dresden: DSGVO-Schadensersatzpflicht des Verantwortlichen nach externer Auftragsverarbeitung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410410/html"/>
     <id>https://doi.org/10.9785/cr-2025-410410</id>
-    <updated>2025-05-04T22:04:15.767833+00:00</updated>
+    <updated>2025-05-06T04:54:29.090663+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410410</summary>
   </entry>
   <entry>
     <title>LG Weiden: Weitergabe von Positivdaten an Auskunftei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410411/html"/>
     <id>https://doi.org/10.9785/cr-2025-410411</id>
-    <updated>2025-05-04T22:04:15.767840+00:00</updated>
+    <updated>2025-05-06T04:54:29.090667+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410411</summary>
   </entry>
   <entry>
     <title>Training nicht-generativer KI mit urheberrechtlich geschütztem Material unter der Fair Use-Ausnahme — Überlegungen zur Entscheidung des District Court für den District von Delaware vom 11.2.2025 – 1:20-cv-613-SB</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410412/html"/>
     <id>https://doi.org/10.9785/cr-2025-410412</id>
-    <updated>2025-05-04T22:04:15.767848+00:00</updated>
+    <updated>2025-05-06T04:54:29.090682+00:00</updated>
     <summary>Article by Morten Petersenn, Vincent Maximilian Kühn
 DOI: https://doi.org/10.9785/cr-2025-410412</summary>
   </entry>
@@ -137,35 +134,35 @@ DOI: https://doi.org/10.9785/cr-2025-410412</summary>
     <title>BVerfG: Heimliche Überwachung von Kontaktperson eines Terrorverdächtigen – BKA-Gesetz II</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410413/html"/>
     <id>https://doi.org/10.9785/cr-2025-410413</id>
-    <updated>2025-05-04T22:04:15.767854+00:00</updated>
+    <updated>2025-05-06T04:54:29.090690+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410413</summary>
   </entry>
   <entry>
     <title>OLG Köln: Separate Abmahnung unterschiedlicher Wettbewerbsverstöße; Angebot auf Amazon-Marketplace mit geringwertiger Beigabe</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410414/html"/>
     <id>https://doi.org/10.9785/cr-2025-410414</id>
-    <updated>2025-05-04T22:04:15.767859+00:00</updated>
+    <updated>2025-05-06T04:54:29.090694+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410414</summary>
   </entry>
   <entry>
     <title>BGH: Überragende marktübergreifende Bedeutung für den Wettbewerb – Amazon</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410415/html"/>
     <id>https://doi.org/10.9785/cr-2025-410415</id>
-    <updated>2025-05-04T22:04:15.767863+00:00</updated>
+    <updated>2025-05-06T04:54:29.090701+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410415</summary>
   </entry>
   <entry>
     <title>OLG Hamburg: Urheberrechtsverletzung im Internet ohne Inlandsbezug</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410416/html"/>
     <id>https://doi.org/10.9785/cr-2025-410416</id>
-    <updated>2025-05-04T22:04:15.767871+00:00</updated>
+    <updated>2025-05-06T04:54:29.090706+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410416</summary>
   </entry>
   <entry>
     <title>Einbindung von KI‑Systemen in Software — Konsequenzen für die Verantwortlichkeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410406/html"/>
     <id>https://doi.org/10.9785/cr-2025-410406</id>
-    <updated>2025-05-04T22:04:15.767875+00:00</updated>
+    <updated>2025-05-06T04:54:29.090711+00:00</updated>
     <summary>Article by Thomas Sassenberg
 DOI: https://doi.org/10.9785/cr-2025-410406</summary>
   </entry>
@@ -173,7 +170,7 @@ DOI: https://doi.org/10.9785/cr-2025-410406</summary>
     <title>Die neue Produkthaftungs-Richtlinie und OSS: Wie weit reicht die Bereichsausnahme? — Ein Vorschlag zur Bildung von Fallgruppen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410407/html"/>
     <id>https://doi.org/10.9785/cr-2025-410407</id>
-    <updated>2025-05-04T22:04:15.767881+00:00</updated>
+    <updated>2025-05-06T04:54:29.090722+00:00</updated>
     <summary>Article by Georg Wenglorz, Andreas Witt
 DOI: https://doi.org/10.9785/cr-2025-410407</summary>
   </entry>
@@ -181,7 +178,7 @@ DOI: https://doi.org/10.9785/cr-2025-410407</summary>
     <title>Mittelbare Verletzung von Geschäftsgeheimnissen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410408/html"/>
     <id>https://doi.org/10.9785/cr-2025-410408</id>
-    <updated>2025-05-04T22:04:15.767886+00:00</updated>
+    <updated>2025-05-06T04:54:29.090727+00:00</updated>
     <summary>Article by Patrick Zurth
 DOI: https://doi.org/10.9785/cr-2025-410408</summary>
   </entry>
@@ -189,7 +186,7 @@ DOI: https://doi.org/10.9785/cr-2025-410408</summary>
     <title>OLG Frankfurt: Rechtsnatur des Vertrags zur Softwareentwicklung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410409/html"/>
     <id>https://doi.org/10.9785/cr-2025-410409</id>
-    <updated>2025-05-04T22:04:15.767890+00:00</updated>
+    <updated>2025-05-06T04:54:29.090731+00:00</updated>
     <summary>Article by Lars Howe
 DOI: https://doi.org/10.9785/cr-2025-410409</summary>
   </entry>
@@ -197,7 +194,7 @@ DOI: https://doi.org/10.9785/cr-2025-410409</summary>
     <title>Legal Prompt Engineering — Eine Schlüsselkompetenz im Zeitalter generativer KI</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410419/html"/>
     <id>https://doi.org/10.9785/cr-2025-410419</id>
-    <updated>2025-05-04T22:04:15.767895+00:00</updated>
+    <updated>2025-05-06T04:54:29.090736+00:00</updated>
     <summary>Article by Christian Djeffal
 DOI: https://doi.org/10.9785/cr-2025-410419</summary>
   </entry>
@@ -205,35 +202,35 @@ DOI: https://doi.org/10.9785/cr-2025-410419</summary>
     <title>OLG Köln: Tarif-Angebotspaket mit Router</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410417/html"/>
     <id>https://doi.org/10.9785/cr-2025-410417</id>
-    <updated>2025-05-04T22:04:15.767901+00:00</updated>
+    <updated>2025-05-06T04:54:29.090741+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410417</summary>
   </entry>
   <entry>
     <title>OLG Hamburg: Tk-Vertrag-Klausel: Überschreitung der zulässigen Laufzeit durch Beginn ab Anschlussfreischaltung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410418/html"/>
     <id>https://doi.org/10.9785/cr-2025-410418</id>
-    <updated>2025-05-04T22:04:15.767909+00:00</updated>
+    <updated>2025-05-06T04:54:29.090746+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410418</summary>
   </entry>
   <entry>
     <title>OLG Köln: Tarif-Angebotspaket mit Router</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410417/html"/>
     <id>https://doi.org/10.9785/cr-2025-410417</id>
-    <updated>2025-05-04T22:04:15.767913+00:00</updated>
+    <updated>2025-05-06T04:54:29.090751+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410417</summary>
   </entry>
   <entry>
     <title>OLG Hamburg: Tk-Vertrag-Klausel: Überschreitung der zulässigen Laufzeit durch Beginn ab Anschlussfreischaltung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410418/html"/>
     <id>https://doi.org/10.9785/cr-2025-410418</id>
-    <updated>2025-05-04T22:04:15.767918+00:00</updated>
+    <updated>2025-05-06T04:54:29.090755+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cr-2025-410418</summary>
   </entry>
   <entry>
     <title>BGH: Überragende marktübergreifende Bedeutung Apples für den Wettbewerb</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410422/html"/>
     <id>https://doi.org/10.9785/cr-2025-410422</id>
-    <updated>2025-05-04T22:04:15.767922+00:00</updated>
+    <updated>2025-05-06T04:54:29.090759+00:00</updated>
     <summary>Article by Noel B. Berhane
 DOI: https://doi.org/10.9785/cr-2025-410422</summary>
   </entry>
@@ -241,7 +238,7 @@ DOI: https://doi.org/10.9785/cr-2025-410422</summary>
     <title>BVerwG: Keine Sperrpflicht ohne Verantwortlichkeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410420/html"/>
     <id>https://doi.org/10.9785/cr-2025-410420</id>
-    <updated>2025-05-04T22:04:15.767927+00:00</updated>
+    <updated>2025-05-06T04:54:29.090765+00:00</updated>
     <summary>Article by Jan Pfeiffer
 DOI: https://doi.org/10.9785/cr-2025-410420</summary>
   </entry>
@@ -249,7 +246,7 @@ DOI: https://doi.org/10.9785/cr-2025-410420</summary>
     <title>OLG Frankfurt: Prüfpflichten eines Hostproviders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410421/html"/>
     <id>https://doi.org/10.9785/cr-2025-410421</id>
-    <updated>2025-05-04T22:04:15.767932+00:00</updated>
+    <updated>2025-05-06T04:54:29.090777+00:00</updated>
     <summary>Article by Jan Pfeiffer
 DOI: https://doi.org/10.9785/cr-2025-410421</summary>
   </entry>
@@ -257,7 +254,7 @@ DOI: https://doi.org/10.9785/cr-2025-410421</summary>
     <title>Tagungsbericht: Kölner Tage IT‑Recht 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410423/html"/>
     <id>https://doi.org/10.9785/cr-2025-410423</id>
-    <updated>2025-05-04T22:04:15.767937+00:00</updated>
+    <updated>2025-05-06T04:54:29.090783+00:00</updated>
     <summary>Article by Matteo Martini
 DOI: https://doi.org/10.9785/cr-2025-410423</summary>
   </entry>
@@ -265,7 +262,7 @@ DOI: https://doi.org/10.9785/cr-2025-410423</summary>
     <title>Lugowski, Raphael/Wagner, Kevin, Der Einsatz von KI in der Arbeitswelt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cr-2025-410424/html"/>
     <id>https://doi.org/10.9785/cr-2025-410424</id>
-    <updated>2025-05-04T22:04:15.767941+00:00</updated>
+    <updated>2025-05-06T04:54:29.090788+00:00</updated>
     <summary>Article by Thomas Stähler
 DOI: https://doi.org/10.9785/cr-2025-410424</summary>
   </entry>

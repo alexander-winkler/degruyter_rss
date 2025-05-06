@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Basic Income Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/bis/20/1/html"/>
-  <updated>2025-05-04T22:03:25.955475+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/bis/20/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bis.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bis/html" rel="related"/>
+  <updated>2025-05-06T04:53:20.258081+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bis.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Basic Income Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bis.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/bis-2025-frontmatter1</id>
-    <updated>2025-05-04T22:03:25.955501+00:00</updated>
+    <updated>2025-05-06T04:53:20.258115+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/bis-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Automation Creates a New Kind of Collective Property That Can Fund Basic Incomes, Equal in Size to the Total Incomes Lost to Automation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2023-0029/html"/>
     <id>https://doi.org/10.1515/bis-2023-0029</id>
-    <updated>2025-05-04T22:03:25.955509+00:00</updated>
+    <updated>2025-05-06T04:53:20.258125+00:00</updated>
     <summary>Article by John K. Davis
 DOI: https://doi.org/10.1515/bis-2023-0029</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/bis-2023-0029</summary>
     <title>What is the Essential Difference Between a Basic Income and an Income-tested Benefit System?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2023-0010/html"/>
     <id>https://doi.org/10.1515/bis-2023-0010</id>
-    <updated>2025-05-04T22:03:25.955519+00:00</updated>
+    <updated>2025-05-06T04:53:20.258136+00:00</updated>
     <summary>Article by Anne Glenda Miller
 DOI: https://doi.org/10.1515/bis-2023-0010</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/bis-2023-0010</summary>
     <title>Equal Opportunity Left-Libertarianism and a Basic Income Guarantee</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2024-0009/html"/>
     <id>https://doi.org/10.1515/bis-2024-0009</id>
-    <updated>2025-05-04T22:03:25.955525+00:00</updated>
+    <updated>2025-05-06T04:53:20.258146+00:00</updated>
     <summary>Article by Konstantin Morozov
 DOI: https://doi.org/10.1515/bis-2024-0009</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/bis-2024-0009</summary>
     <title>Evaluating the Sustainability of the Productive Effects of a Universal Cash Transfer in Rural Uganda: Do Impacts on Savings, Investment, Production and Labour Persist After Program end?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2023-0035/html"/>
     <id>https://doi.org/10.1515/bis-2023-0035</id>
-    <updated>2025-05-04T22:03:25.955531+00:00</updated>
+    <updated>2025-05-06T04:53:20.258155+00:00</updated>
     <summary>Article by Filippo Grisolia, Nathalie Holvoet, Sara Dewachter
 DOI: https://doi.org/10.1515/bis-2023-0035</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/bis-2023-0035</summary>
     <title>Guaranteed Income: A Policy Landscape Review of 105 Programs in the United States</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2023-0030/html"/>
     <id>https://doi.org/10.1515/bis-2023-0030</id>
-    <updated>2025-05-04T22:03:25.955537+00:00</updated>
+    <updated>2025-05-06T04:53:20.258164+00:00</updated>
     <summary>Article by Sarina Rodriguez, Rose Kagawa, Vikram Koundinya, Daniel Choe, Bapu Vaitla, Alyx Volzer, Catherine Brinkley
 DOI: https://doi.org/10.1515/bis-2023-0030</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/bis-2023-0030</summary>
     <title>Green Basic Income: Evaluating the Bolsa Verde Project in the Brazilian Amazon</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bis-2023-0031/html"/>
     <id>https://doi.org/10.1515/bis-2023-0031</id>
-    <updated>2025-05-04T22:03:25.955543+00:00</updated>
+    <updated>2025-05-06T04:53:20.258173+00:00</updated>
     <summary>Article by Timothy MacNeill, Clarisse Drummond
 DOI: https://doi.org/10.1515/bis-2023-0031</summary>
   </entry>

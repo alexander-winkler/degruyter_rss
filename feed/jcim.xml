@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Complementary and Integrative Medicine</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jcim/22/1/html"/>
-  <updated>2025-05-04T22:07:42.996960+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jcim/22/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcim.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jcim/html" rel="related"/>
+  <updated>2025-05-06T04:59:13.221332+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcim.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Complementary and Integrative Medicine</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcim.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jcim-2025-frontmatter1</id>
-    <updated>2025-05-04T22:07:42.996983+00:00</updated>
+    <updated>2025-05-06T04:59:13.221356+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jcim-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Terpene-based novel invasomes: pioneering cancer treatment strategies in traditional medicine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0131/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0131</id>
-    <updated>2025-05-04T22:07:42.996990+00:00</updated>
+    <updated>2025-05-06T04:59:13.221361+00:00</updated>
     <summary>Article by Renu Dwivedi, Rajni Bala, Reecha Madaan, Sumitra Singh, Rakesh K. Sindhu
 DOI: https://doi.org/10.1515/jcim-2024-0131</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0131</summary>
     <title>Mind-body practices for people living with dementia and their family carers: a systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0142/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0142</id>
-    <updated>2025-05-04T22:07:42.996998+00:00</updated>
+    <updated>2025-05-06T04:59:13.221367+00:00</updated>
     <summary>Article by Eva S. van der Ploeg, Rutger M. Bitane, Jan W. Schoones, Wilco P. Achterberg, Hanneke J.A. Smaling
 DOI: https://doi.org/10.1515/jcim-2024-0142</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0142</summary>
     <title>Methodological advances in formulation and assay of herbal resources-based topical drug delivery systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0181/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0181</id>
-    <updated>2025-05-04T22:07:42.997005+00:00</updated>
+    <updated>2025-05-06T04:59:13.221372+00:00</updated>
     <summary>Article by Shehara Gunawardana, Bhavantha Dias
 DOI: https://doi.org/10.1515/jcim-2024-0181</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0181</summary>
     <title>A potential therapeutic role of resveratrol in mitigating hepatotoxicity induced by paracetamol and alcohol</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0380/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0380</id>
-    <updated>2025-05-04T22:07:42.997011+00:00</updated>
+    <updated>2025-05-06T04:59:13.221376+00:00</updated>
     <summary>Article by Mahra Ali Almazrouei, Vijaya Paul Samuel, Ruaa Faris Tawfeeq, Noha Khizarali Hashmi, Yusur Abbas Mahmood, Maitha Rashed Abdulla, Bashayer Abdulla Alshamsi, Manjunatha Goud, Naveen Kumar
 DOI: https://doi.org/10.1515/jcim-2024-0380</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0380</summary>
     <title>A preclinical study on effect of betanin on sodium fluoride induced hepatorenal toxicity in Wistar rats</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0262/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0262</id>
-    <updated>2025-05-04T22:07:42.997018+00:00</updated>
+    <updated>2025-05-06T04:59:13.221382+00:00</updated>
     <summary>Article by Darrel Castelino, Amrita Parida, Bharti Chogtu Magazine, Aqsa Fathima, Mohandas Rao K.G.
 DOI: https://doi.org/10.1515/jcim-2024-0262</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0262</summary>
     <title>Phytochemical characterization and evaluation of the biological activity spectrum of ethanolic fruit extract ofGarcinia indica: a less explored plant of Ayurveda</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0234/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0234</id>
-    <updated>2025-05-04T22:07:42.997025+00:00</updated>
+    <updated>2025-05-06T04:59:13.221387+00:00</updated>
     <summary>Article by Pooja Kushwaha, Rumana Ahmad, Aditi Srivastava, Anchal Trivedi, Akshay Kumar Gupta, Sudhir Mehrotra
 DOI: https://doi.org/10.1515/jcim-2024-0234</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0234</summary>
     <title>Scientific investigation on antibacterial, antioxidant, cytotoxic effects and TLC bioautography ofTerminalia schimperianiastem bark extracts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0251/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0251</id>
-    <updated>2025-05-04T22:07:42.997031+00:00</updated>
+    <updated>2025-05-06T04:59:13.221393+00:00</updated>
     <summary>Article by Marius Sipping, T. Sathish Kumar, Nestor Kamdem
 DOI: https://doi.org/10.1515/jcim-2024-0251</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0251</summary>
     <title>Albizia ferruginea(Guill. &amp; Perr.) Benth. leaf abates deregulation of P53, IRS, HsD17β2, FTO, and CYP11a genes in polycystic ovarian syndrome rat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0287/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0287</id>
-    <updated>2025-05-04T22:07:42.997038+00:00</updated>
+    <updated>2025-05-06T04:59:13.221399+00:00</updated>
     <summary>Article by Akingbolabo Daniel Ogunlakin, Meek Oyinlola Meruwoma, Princewill Obinna Ihiasota, Oluwafemi Adeleke Ojo, Adeyemi Abdullahi Adegoke, Idayat Adeola Akinwumi, Owoola Azeezat Ambali, Oyindamola Esther Awosola, Mubo Adeola Sonibare
 DOI: https://doi.org/10.1515/jcim-2024-0287</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0287</summary>
     <title>Vernonia amygdalinaaqueous leaf extract modulates metformin pharmacokinetics, inhibits CYP3A4 and CYP2C9 enzymes in streptozotocin-induced diabetic rats</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0217/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0217</id>
-    <updated>2025-05-04T22:07:42.997046+00:00</updated>
+    <updated>2025-05-06T04:59:13.221408+00:00</updated>
     <summary>Article by Gabriel Akyirem Akowuah, Bassel Al Sabbagh, Vijayaraj Kumar Palanirajan, Yik-ling Chew, Jin Han Chin, Mariam Ahmad
 DOI: https://doi.org/10.1515/jcim-2024-0217</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0217</summary>
     <title>Quantitative determination of the antibacterial activity of licorice (Glycyrrhiza glabra) and tetracycline gel againstAggregatibacter actinomycetemcomitans(Aa),Porphyromonas gingivalis(Pg) andPrevotella intermedia(Pi) – a microbiologicalin vitrostudy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0183/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0183</id>
-    <updated>2025-05-04T22:07:42.997054+00:00</updated>
+    <updated>2025-05-06T04:59:13.221416+00:00</updated>
     <summary>Article by Konathala S. V. Ramesh, Mopati Nishanth Reddy Gokul, Gautami S. Penmetsa, Gottumukkala N. V. S. Sruthima, Pasupuleti Mohan Kumar, Pasupuleti Swetha, Bypalli Vivek
 DOI: https://doi.org/10.1515/jcim-2024-0183</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0183</summary>
     <title>In-silicoscreening of bioactive compounds ofMoringa oleiferaas potential inhibitors targeting HIF-1α/VEGF/GLUT-1 pathway against breast cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0176/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0176</id>
-    <updated>2025-05-04T22:07:42.997061+00:00</updated>
+    <updated>2025-05-06T04:59:13.221422+00:00</updated>
     <summary>Article by Neha Masarkar, Maynak Pal, Mithun Roy, Ashish K. Yadav, Bharati Pandya, Suryabhan Lokhande, Jagat R. Kanwar, Suman Kumar Ray, Sukhes Mukherjee
 DOI: https://doi.org/10.1515/jcim-2024-0176</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0176</summary>
     <title>Isolation, structural characterization, and molecular docking studies on the bioactive compound from n-Hexane extract ofEmilia sonchifolia(L.) DC against the pancreatic cancer target Aurora 2 Kinase</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0290/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0290</id>
-    <updated>2025-05-04T22:07:42.997068+00:00</updated>
+    <updated>2025-05-06T04:59:13.221428+00:00</updated>
     <summary>Article by Pratibha Prabhakaran, Chella Perumal Palanisamy, Abirami Shanmugam, Prabhu Damodharan, Harshini Swaminathan, Dhivya Devaraj, Rathi Muthaiyan Ahalliya, Gopalakrishnan Velliyur Kanniappan
 DOI: https://doi.org/10.1515/jcim-2024-0290</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0290</summary>
     <title>The impact of Omega-3 supplementation on arrhythmia reduction in acute coronary syndrome patients: a randomized clinical trial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0427/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0427</id>
-    <updated>2025-05-04T22:07:42.997075+00:00</updated>
+    <updated>2025-05-06T04:59:13.221434+00:00</updated>
     <summary>Article by Roholla Hemmati, Dorsa Bahrami Zanjanbar, Mohammad Iman Shishesaz, Abbas Soleimani, Tahereh Yari
 DOI: https://doi.org/10.1515/jcim-2024-0427</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0427</summary>
     <title>Evaluation of gastric tolerability for long-term use of diclofenac and celecoxib in male albino rats and potential gastroprotective benefits of royal jelly: a randomized controlled trial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0324/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0324</id>
-    <updated>2025-05-04T22:07:42.997083+00:00</updated>
+    <updated>2025-05-06T04:59:13.221439+00:00</updated>
     <summary>Article by Amira A.A. Othman
 DOI: https://doi.org/10.1515/jcim-2024-0324</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0324</summary>
     <title>The efficacy of thread embedding acupuncture on pain score, neck disability index, and pressure pain threshold for myofascial pain therapy in the upper trapezius muscle</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0132/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0132</id>
-    <updated>2025-05-04T22:07:42.997089+00:00</updated>
+    <updated>2025-05-06T04:59:13.221445+00:00</updated>
     <summary>Article by Emilia Puspitasari Winarno, Hasan Mihardja, Atikah Chalida Barasila, Stefanus Agung Budianto
 DOI: https://doi.org/10.1515/jcim-2024-0132</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/jcim-2024-0132</summary>
     <title>Correction of hypoxic effects on target organs in pneumonia with phytotherapy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcim-2024-0214/html"/>
     <id>https://doi.org/10.1515/jcim-2024-0214</id>
-    <updated>2025-05-04T22:07:42.997094+00:00</updated>
+    <updated>2025-05-06T04:59:13.221450+00:00</updated>
     <summary>Article by Alla Philippova, Raisa Aringazina, Roberto Lozano, Yuliya Tikhonova
 DOI: https://doi.org/10.1515/jcim-2024-0214</summary>
   </entry>

@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für das Privatrecht der Europäischen Union</title>
-  <link href="https://www.degruyterbrill.com/journal/key/gpr/22/1/html"/>
-  <updated>2025-05-04T22:06:00.850585+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/gpr/22/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gpr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/gpr/html" rel="related"/>
+  <updated>2025-05-06T04:56:55.894236+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gpr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für das Privatrecht der Europäischen Union</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gpr.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-frontmatter2201/html"/>
     <id>https://doi.org/10.9785/gpr-2025-frontmatter2201</id>
-    <updated>2025-05-04T22:06:00.850610+00:00</updated>
+    <updated>2025-05-06T04:56:55.894259+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gpr-2025-frontmatter2201</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-toc2201/html"/>
     <id>https://doi.org/10.9785/gpr-2025-toc2201</id>
-    <updated>2025-05-04T22:06:00.850620+00:00</updated>
+    <updated>2025-05-06T04:56:55.894267+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gpr-2025-toc2201</summary>
   </entry>
   <entry>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220109/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220109</id>
-    <updated>2025-05-04T22:06:00.850625+00:00</updated>
+    <updated>2025-05-06T04:56:55.894273+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gpr-2025-220109</summary>
   </entry>
   <entry>
     <title>Editorial — Kauf+ – mit besonderen Vorzügen?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220101/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220101</id>
-    <updated>2025-05-04T22:06:00.850631+00:00</updated>
+    <updated>2025-05-06T04:56:55.894280+00:00</updated>
     <summary>Article by Martin Schmidt-Kessel
 DOI: https://doi.org/10.9785/gpr-2025-220101</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220101</summary>
     <title>Aus eins mach zwei: Die neue Aufteilung des Vorabentscheidungsverfahrens zwischen EuGH und EuG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220102/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220102</id>
-    <updated>2025-05-04T22:06:00.850638+00:00</updated>
+    <updated>2025-05-06T04:56:55.894287+00:00</updated>
     <summary>Article by Frederik Schlosser
 DOI: https://doi.org/10.9785/gpr-2025-220102</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220102</summary>
     <title>Zur Möglichkeit der Antragsveranlagung eines in der Schweiz ansässigen deutschen Arbeitnehmers — Anmerkung zu EuGH v. 30.5.2024 – C-627/22 (FA Köln Süd)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220103/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220103</id>
-    <updated>2025-05-04T22:06:00.850644+00:00</updated>
+    <updated>2025-05-06T04:56:55.894295+00:00</updated>
     <summary>Article by Carsten Meinert, Elias Blaurock
 DOI: https://doi.org/10.9785/gpr-2025-220103</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220103</summary>
     <title>Die wirtschaftliche Einheit im internationalen Zivilverfahrensrecht — Anmerkung zu EuGH v. 4.7.2024 – C-425/22 (MOL ./. Mercedes-Benz Group), sowie EuGH v. 11.7.2024 – C-632/22 (Volvo ./. Transsaqui)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220104/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220104</id>
-    <updated>2025-05-04T22:06:00.850652+00:00</updated>
+    <updated>2025-05-06T04:56:55.894304+00:00</updated>
     <summary>Article by Felix M. Wilke, Michael Liebscher
 DOI: https://doi.org/10.9785/gpr-2025-220104</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220104</summary>
     <title>Details der internationalen Zuständigkeit in Fällen von Kindesentführung — Anmerkung zu EuGH v. 20.6.2024 – C-35/23 (Greislzel)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220105/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220105</id>
-    <updated>2025-05-04T22:06:00.850659+00:00</updated>
+    <updated>2025-05-06T04:56:55.894310+00:00</updated>
     <summary>Article by Christiane von Bary
 DOI: https://doi.org/10.9785/gpr-2025-220105</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220105</summary>
     <title>EU Law and Internal Judicial Independence – Hann-Invest Judgement and its Relevance for Procedural Autonomy and Common Rule of Law Standards</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220106/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220106</id>
-    <updated>2025-05-04T22:06:00.850665+00:00</updated>
+    <updated>2025-05-06T04:56:55.894317+00:00</updated>
     <summary>Article by Alan Uzelac
 DOI: https://doi.org/10.9785/gpr-2025-220106</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220106</summary>
     <title>Europäisches Arbeitsrecht vor dem Gerichtshof der Europäischen Union 2023/2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220107/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220107</id>
-    <updated>2025-05-04T22:06:00.850671+00:00</updated>
+    <updated>2025-05-06T04:56:55.894323+00:00</updated>
     <summary>Article by Christina Schnittler, Elisabeth Brameshuber
 DOI: https://doi.org/10.9785/gpr-2025-220107</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220107</summary>
     <title>Aus eins mach zwei: Die neue Aufteilung des Vorabentscheidungsverfahrens zwischen EuGH und EuG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220102/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220102</id>
-    <updated>2025-05-04T22:06:00.850677+00:00</updated>
+    <updated>2025-05-06T04:56:55.894331+00:00</updated>
     <summary>Article by Frederik Schlosser
 DOI: https://doi.org/10.9785/gpr-2025-220102</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220102</summary>
     <title>Zur Möglichkeit der Antragsveranlagung eines in der Schweiz ansässigen deutschen Arbeitnehmers — Anmerkung zu EuGH v. 30.5.2024 – C-627/22 (FA Köln Süd)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220103/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220103</id>
-    <updated>2025-05-04T22:06:00.850683+00:00</updated>
+    <updated>2025-05-06T04:56:55.894338+00:00</updated>
     <summary>Article by Carsten Meinert, Elias Blaurock
 DOI: https://doi.org/10.9785/gpr-2025-220103</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220103</summary>
     <title>Die wirtschaftliche Einheit im internationalen Zivilverfahrensrecht — Anmerkung zu EuGH v. 4.7.2024 – C-425/22 (MOL ./. Mercedes-Benz Group), sowie EuGH v. 11.7.2024 – C-632/22 (Volvo ./. Transsaqui)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220104/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220104</id>
-    <updated>2025-05-04T22:06:00.850689+00:00</updated>
+    <updated>2025-05-06T04:56:55.894345+00:00</updated>
     <summary>Article by Felix M. Wilke, Michael Liebscher
 DOI: https://doi.org/10.9785/gpr-2025-220104</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220104</summary>
     <title>Details der internationalen Zuständigkeit in Fällen von Kindesentführung — Anmerkung zu EuGH v. 20.6.2024 – C-35/23 (Greislzel)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220105/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220105</id>
-    <updated>2025-05-04T22:06:00.850697+00:00</updated>
+    <updated>2025-05-06T04:56:55.894352+00:00</updated>
     <summary>Article by Christiane von Bary
 DOI: https://doi.org/10.9785/gpr-2025-220105</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220105</summary>
     <title>EU Law and Internal Judicial Independence – Hann-Invest Judgement and its Relevance for Procedural Autonomy and Common Rule of Law Standards</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220106/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220106</id>
-    <updated>2025-05-04T22:06:00.850703+00:00</updated>
+    <updated>2025-05-06T04:56:55.894358+00:00</updated>
     <summary>Article by Alan Uzelac
 DOI: https://doi.org/10.9785/gpr-2025-220106</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220106</summary>
     <title>Europäisches Arbeitsrecht vor dem Gerichtshof der Europäischen Union 2023/2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220107/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220107</id>
-    <updated>2025-05-04T22:06:00.850708+00:00</updated>
+    <updated>2025-05-06T04:56:55.894365+00:00</updated>
     <summary>Article by Christina Schnittler, Elisabeth Brameshuber
 DOI: https://doi.org/10.9785/gpr-2025-220107</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.9785/gpr-2025-220107</summary>
     <title>Stand: 14.1.2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gpr-2025-220108/html"/>
     <id>https://doi.org/10.9785/gpr-2025-220108</id>
-    <updated>2025-05-04T22:06:00.850714+00:00</updated>
+    <updated>2025-05-06T04:56:55.894371+00:00</updated>
     <summary>Article by Martin Schmidt-Kessel, Isabelle Thiel
 DOI: https://doi.org/10.9785/gpr-2025-220108</summary>
   </entry>

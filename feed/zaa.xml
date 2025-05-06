@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Anglistik und Amerikanistik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zaa/73/1/html"/>
-  <updated>2025-05-04T22:13:21.290834+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zaa/73/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zaa/html" rel="related"/>
+  <updated>2025-05-06T05:06:58.596695+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Anglistik und Amerikanistik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zaa.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zaa-2025-frontmatter1</id>
-    <updated>2025-05-04T22:13:21.290863+00:00</updated>
+    <updated>2025-05-06T05:06:58.596715+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zaa-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2001/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2001</id>
-    <updated>2025-05-04T22:13:21.290874+00:00</updated>
+    <updated>2025-05-06T05:06:58.596724+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zaa-2025-2001</summary>
   </entry>
   <entry>
     <title>Editorial Note</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2002/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2002</id>
-    <updated>2025-05-04T22:13:21.290882+00:00</updated>
+    <updated>2025-05-06T05:06:58.596734+00:00</updated>
     <summary>Article by James Dowthwaite
 DOI: https://doi.org/10.1515/zaa-2025-2002</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2002</summary>
     <title>Decadence and Euphuism: Walter Pater, John Lyly, and ‘New English’ Style</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2003/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2003</id>
-    <updated>2025-05-04T22:13:21.290893+00:00</updated>
+    <updated>2025-05-06T05:06:58.596743+00:00</updated>
     <summary>Article by Giles Whiteley, Cecilia Lindskog Whiteley
 DOI: https://doi.org/10.1515/zaa-2025-2003</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2003</summary>
     <title>Revisiting the Decadence of Edward Gibbon’sThe History of the Decline and Fall of the Roman Empire(1776–1787)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2004/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2004</id>
-    <updated>2025-05-04T22:13:21.290902+00:00</updated>
+    <updated>2025-05-06T05:06:58.596751+00:00</updated>
     <summary>Article by James Dowthwaite
 DOI: https://doi.org/10.1515/zaa-2025-2004</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2004</summary>
     <title>“All Things Go to Decay”: Decadence in the Early Journals of Ralph Waldo Emerson</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2005/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2005</id>
-    <updated>2025-05-04T22:13:21.290911+00:00</updated>
+    <updated>2025-05-06T05:06:58.596759+00:00</updated>
     <summary>Article by Tim Clarke
 DOI: https://doi.org/10.1515/zaa-2025-2005</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2005</summary>
     <title>“Tired Hedonists” in Los Angeles: F. Scott Fitzgerald’sLast Tycoon</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2006/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2006</id>
-    <updated>2025-05-04T22:13:21.290919+00:00</updated>
+    <updated>2025-05-06T05:06:58.596766+00:00</updated>
     <summary>Article by Kate Hext
 DOI: https://doi.org/10.1515/zaa-2025-2006</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2006</summary>
     <title>Decadent Artwork in the Sixties Counterculture MagazinesInternational TimesandOz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2007/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2007</id>
-    <updated>2025-05-04T22:13:21.290927+00:00</updated>
+    <updated>2025-05-06T05:06:58.596773+00:00</updated>
     <summary>Article by Oliver Bock
 DOI: https://doi.org/10.1515/zaa-2025-2007</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2007</summary>
     <title>“Good Things Don’t Last Forever”: A Dalliance with Disco?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2008/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2008</id>
-    <updated>2025-05-04T22:13:21.290936+00:00</updated>
+    <updated>2025-05-06T05:06:58.596781+00:00</updated>
     <summary>Article by William D. J. Rees
 DOI: https://doi.org/10.1515/zaa-2025-2008</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2008</summary>
     <title>Decadence Today: Volutes, Unfurling Flowers, and Decolonial Excesses in Shola von Reinhold’sLOTEand Thuy On’sDecadence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2025-2009/html"/>
     <id>https://doi.org/10.1515/zaa-2025-2009</id>
-    <updated>2025-05-04T22:13:21.290947+00:00</updated>
+    <updated>2025-05-06T05:06:58.596791+00:00</updated>
     <summary>Article by Cherrie Kwok
 DOI: https://doi.org/10.1515/zaa-2025-2009</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/zaa-2025-2009</summary>
     <title>Willie van Peer and Anna Chesnokova:Experiencing Poetry: A Guidebook to Psychopoetics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2031/html"/>
     <id>https://doi.org/10.1515/zaa-2024-2031</id>
-    <updated>2025-05-04T22:13:21.290959+00:00</updated>
+    <updated>2025-05-06T05:06:58.596798+00:00</updated>
     <summary>Article by Prof. Dr. Peter Wenzel
 DOI: https://doi.org/10.1515/zaa-2024-2031</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/zaa-2024-2031</summary>
     <title>Franziska Quabeck:Not I – Kazuo Ishiguro and the Politics of Misrecognition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2033/html"/>
     <id>https://doi.org/10.1515/zaa-2024-2033</id>
-    <updated>2025-05-04T22:13:21.290968+00:00</updated>
+    <updated>2025-05-06T05:06:58.596805+00:00</updated>
     <summary>Article by Leonie Unkel
 DOI: https://doi.org/10.1515/zaa-2024-2033</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/zaa-2024-2033</summary>
     <title>Irmtraud Huber:Time and Timelessness in Victorian Poetry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2032/html"/>
     <id>https://doi.org/10.1515/zaa-2024-2032</id>
-    <updated>2025-05-04T22:13:21.290976+00:00</updated>
+    <updated>2025-05-06T05:06:58.596813+00:00</updated>
     <summary>Article by Tanja Kapp
 DOI: https://doi.org/10.1515/zaa-2024-2032</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/zaa-2024-2032</summary>
     <title>Stefanie Mueller:The Corporation in the Nineteenth-Century American Imagination</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaa-2024-2030/html"/>
     <id>https://doi.org/10.1515/zaa-2024-2030</id>
-    <updated>2025-05-04T22:13:21.290984+00:00</updated>
+    <updated>2025-05-06T05:06:58.596819+00:00</updated>
     <summary>Article by James Dorson
 DOI: https://doi.org/10.1515/zaa-2024-2030</summary>
   </entry>

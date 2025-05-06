@@ -1,168 +1,165 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Monatsschrift für Deutsches Recht</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mdtr/79/8/html"/>
-  <updated>2025-05-04T22:09:38.573890+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/mdtr/79/8/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdtr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mdtr/html" rel="related"/>
+  <updated>2025-05-06T05:01:53.368700+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdtr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Monatsschrift für Deutsches Recht</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mdtr.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-frontmatter7908/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-frontmatter7908</id>
-    <updated>2025-05-04T22:09:38.573914+00:00</updated>
+    <updated>2025-05-06T05:01:53.368715+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-frontmatter7908</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-toc7908/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-toc7908</id>
-    <updated>2025-05-04T22:09:38.573919+00:00</updated>
+    <updated>2025-05-06T05:01:53.368721+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-toc7908</summary>
   </entry>
   <entry>
     <title>Mietrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790803/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790803</id>
-    <updated>2025-05-04T22:09:38.573923+00:00</updated>
+    <updated>2025-05-06T05:01:53.368725+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790803</summary>
   </entry>
   <entry>
     <title>Verfahrensrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790802/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790802</id>
-    <updated>2025-05-04T22:09:38.573926+00:00</updated>
+    <updated>2025-05-06T05:01:53.368729+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790802</summary>
   </entry>
   <entry>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790859/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790859</id>
-    <updated>2025-05-04T22:09:38.573930+00:00</updated>
+    <updated>2025-05-06T05:01:53.368733+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790859</summary>
   </entry>
   <entry>
     <title>Vertragsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790850/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790850</id>
-    <updated>2025-05-04T22:09:38.573933+00:00</updated>
+    <updated>2025-05-06T05:01:53.368738+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790850</summary>
   </entry>
   <entry>
     <title>Wohnungseigentumsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790851/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790851</id>
-    <updated>2025-05-04T22:09:38.573936+00:00</updated>
+    <updated>2025-05-06T05:01:53.368741+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790851</summary>
   </entry>
   <entry>
     <title>Arbeitsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790852/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790852</id>
-    <updated>2025-05-04T22:09:38.573939+00:00</updated>
+    <updated>2025-05-06T05:01:53.368745+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790852</summary>
   </entry>
   <entry>
     <title>Kfz-Recht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790853/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790853</id>
-    <updated>2025-05-04T22:09:38.573943+00:00</updated>
+    <updated>2025-05-06T05:01:53.368749+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790853</summary>
   </entry>
   <entry>
     <title>Familienrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790854/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790854</id>
-    <updated>2025-05-04T22:09:38.573946+00:00</updated>
+    <updated>2025-05-06T05:01:53.368752+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790854</summary>
   </entry>
   <entry>
     <title>Bankrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790855/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790855</id>
-    <updated>2025-05-04T22:09:38.573949+00:00</updated>
+    <updated>2025-05-06T05:01:53.368760+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790855</summary>
   </entry>
   <entry>
     <title>Vormünder- und Betreuervergütung, RVG-Gebühren, LuftverkehrsschlichtungsVO</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790856/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790856</id>
-    <updated>2025-05-04T22:09:38.573952+00:00</updated>
+    <updated>2025-05-06T05:01:53.368764+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790856</summary>
   </entry>
   <entry>
     <title>Neue Bücher und Neuauflagen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790857/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790857</id>
-    <updated>2025-05-04T22:09:38.573957+00:00</updated>
+    <updated>2025-05-06T05:01:53.368767+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790857</summary>
   </entry>
   <entry>
     <title>Die Fristversäumnis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790858/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790858</id>
-    <updated>2025-05-04T22:09:38.573960+00:00</updated>
+    <updated>2025-05-06T05:01:53.368771+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790858</summary>
   </entry>
   <entry>
     <title>Bericht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790801/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790801</id>
-    <updated>2025-05-04T22:09:38.573963+00:00</updated>
+    <updated>2025-05-06T05:01:53.368774+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790801</summary>
   </entry>
   <entry>
     <title>Vertragsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790850/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790850</id>
-    <updated>2025-05-04T22:09:38.573966+00:00</updated>
+    <updated>2025-05-06T05:01:53.368777+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790850</summary>
   </entry>
   <entry>
     <title>Wohnungseigentumsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790851/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790851</id>
-    <updated>2025-05-04T22:09:38.573969+00:00</updated>
+    <updated>2025-05-06T05:01:53.368781+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790851</summary>
   </entry>
   <entry>
     <title>Arbeitsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790852/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790852</id>
-    <updated>2025-05-04T22:09:38.573972+00:00</updated>
+    <updated>2025-05-06T05:01:53.368784+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790852</summary>
   </entry>
   <entry>
     <title>Kfz-Recht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790853/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790853</id>
-    <updated>2025-05-04T22:09:38.573975+00:00</updated>
+    <updated>2025-05-06T05:01:53.368787+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790853</summary>
   </entry>
   <entry>
     <title>Familienrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790854/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790854</id>
-    <updated>2025-05-04T22:09:38.573978+00:00</updated>
+    <updated>2025-05-06T05:01:53.368790+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790854</summary>
   </entry>
   <entry>
     <title>Bankrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790855/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790855</id>
-    <updated>2025-05-04T22:09:38.573981+00:00</updated>
+    <updated>2025-05-06T05:01:53.368793+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790855</summary>
   </entry>
   <entry>
     <title>Die Teilabnahme während der Bauherstellung — Unterschiedliche Anforderungen für BGB- und VOB-Bauvertrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790804/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790804</id>
-    <updated>2025-05-04T22:09:38.573984+00:00</updated>
+    <updated>2025-05-06T05:01:53.368797+00:00</updated>
     <summary>Article by Holger Pauly
 DOI: https://doi.org/10.9785/mdtr-2025-790804</summary>
   </entry>
@@ -170,7 +167,7 @@ DOI: https://doi.org/10.9785/mdtr-2025-790804</summary>
     <title>Die Entwicklungen im Immobilienrecht — Rechtsprechungsüberblick für das Jahr 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790805/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790805</id>
-    <updated>2025-05-04T22:09:38.573989+00:00</updated>
+    <updated>2025-05-06T05:01:53.368803+00:00</updated>
     <summary>Article by Frank Walter, Christopher Walter
 DOI: https://doi.org/10.9785/mdtr-2025-790805</summary>
   </entry>
@@ -178,7 +175,7 @@ DOI: https://doi.org/10.9785/mdtr-2025-790805</summary>
     <title>Die Entwicklungen im Berufungsrecht — Rechtsprechungsübersicht 2023/2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790806/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790806</id>
-    <updated>2025-05-04T22:09:38.573992+00:00</updated>
+    <updated>2025-05-06T05:01:53.368807+00:00</updated>
     <summary>Article by Norbert Vossler
 DOI: https://doi.org/10.9785/mdtr-2025-790806</summary>
   </entry>
@@ -186,7 +183,7 @@ DOI: https://doi.org/10.9785/mdtr-2025-790806</summary>
     <title>Die Teilabnahme während der Bauherstellung — Unterschiedliche Anforderungen für BGB- und VOB-Bauvertrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790804/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790804</id>
-    <updated>2025-05-04T22:09:38.573997+00:00</updated>
+    <updated>2025-05-06T05:01:53.368811+00:00</updated>
     <summary>Article by Holger Pauly
 DOI: https://doi.org/10.9785/mdtr-2025-790804</summary>
   </entry>
@@ -194,7 +191,7 @@ DOI: https://doi.org/10.9785/mdtr-2025-790804</summary>
     <title>Die Entwicklungen im Immobilienrecht — Rechtsprechungsüberblick für das Jahr 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790805/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790805</id>
-    <updated>2025-05-04T22:09:38.574001+00:00</updated>
+    <updated>2025-05-06T05:01:53.368814+00:00</updated>
     <summary>Article by Frank Walter, Christopher Walter
 DOI: https://doi.org/10.9785/mdtr-2025-790805</summary>
   </entry>
@@ -202,49 +199,49 @@ DOI: https://doi.org/10.9785/mdtr-2025-790805</summary>
     <title>Verfahrenskostenvorschuss für eine vor- oder außergerichtliche Rechtsberatung oder Vertretung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790837/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790837</id>
-    <updated>2025-05-04T22:09:38.574004+00:00</updated>
+    <updated>2025-05-06T05:01:53.368818+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790837</summary>
   </entry>
   <entry>
     <title>Antrag auf Terminsverlegung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790838/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790838</id>
-    <updated>2025-05-04T22:09:38.574008+00:00</updated>
+    <updated>2025-05-06T05:01:53.368822+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790838</summary>
   </entry>
   <entry>
     <title>Zwangsmittel bei Entbehrlichkeit der Vernehmung der gegenbeweislich benannten Zeugin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790839/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790839</id>
-    <updated>2025-05-04T22:09:38.574011+00:00</updated>
+    <updated>2025-05-06T05:01:53.368825+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790839</summary>
   </entry>
   <entry>
     <title>Anordnung der Verlängerung der Aufbewahrung einer Betreuungsakte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790840/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790840</id>
-    <updated>2025-05-04T22:09:38.574014+00:00</updated>
+    <updated>2025-05-06T05:01:53.368829+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790840</summary>
   </entry>
   <entry>
     <title>Beiordnung eines Rechtsanwalts für ein Vermittlungsverfahren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790841/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790841</id>
-    <updated>2025-05-04T22:09:38.574017+00:00</updated>
+    <updated>2025-05-06T05:01:53.368832+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790841</summary>
   </entry>
   <entry>
     <title>Anfechtbarkeit von Beschlüssen über eine Rubrumsberichtigung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790842/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790842</id>
-    <updated>2025-05-04T22:09:38.574020+00:00</updated>
+    <updated>2025-05-06T05:01:53.368836+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790842</summary>
   </entry>
   <entry>
     <title>Rechtliches Gehör: Überhöhte Anforderungen an die Substantiierungspflicht zu psychischer Krankheit nach einem Unfall</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790807/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790807</id>
-    <updated>2025-05-04T22:09:38.574024+00:00</updated>
+    <updated>2025-05-06T05:01:53.368839+00:00</updated>
     <summary>Article by Hans-Willi Laumen
 DOI: https://doi.org/10.9785/mdtr-2025-790807</summary>
   </entry>
@@ -252,7 +249,7 @@ DOI: https://doi.org/10.9785/mdtr-2025-790807</summary>
     <title>Formelle Rechtskraft: Bekanntgabe eines Beschlusses durch Aufgabe zur Post</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790808/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790808</id>
-    <updated>2025-05-04T22:09:38.574028+00:00</updated>
+    <updated>2025-05-06T05:01:53.368843+00:00</updated>
     <summary>Article by Christoph Fellner
 DOI: https://doi.org/10.9785/mdtr-2025-790808</summary>
   </entry>
@@ -260,7 +257,7 @@ DOI: https://doi.org/10.9785/mdtr-2025-790808</summary>
     <title>Ordnungsgeld gegen Zeugen: Festsetzung trotz Entbehrlichkeit der Vernehmung?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790809/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790809</id>
-    <updated>2025-05-04T22:09:38.574031+00:00</updated>
+    <updated>2025-05-06T05:01:53.368846+00:00</updated>
     <summary>Article by Hannes Palmen
 DOI: https://doi.org/10.9785/mdtr-2025-790809</summary>
   </entry>
@@ -268,539 +265,539 @@ DOI: https://doi.org/10.9785/mdtr-2025-790809</summary>
     <title>Fluggastrechte: Bordkarte reicht als Buchungsbestätigung aus; Ausgleichsanspruch durch Unternehmen bei Verspätung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790810/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790810</id>
-    <updated>2025-05-04T22:09:38.574036+00:00</updated>
+    <updated>2025-05-06T05:01:53.368850+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790810</summary>
   </entry>
   <entry>
     <title>Abfrage des Geschlechts bei Fahrscheinkauf im Internet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790811/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790811</id>
-    <updated>2025-05-04T22:09:38.574039+00:00</updated>
+    <updated>2025-05-06T05:01:53.368853+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790811</summary>
   </entry>
   <entry>
     <title>Kündigungsfrist in AGB für ein Probe-Abonnement der BahnCard</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790812/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790812</id>
-    <updated>2025-05-04T22:09:38.574042+00:00</updated>
+    <updated>2025-05-06T05:01:53.368857+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790812</summary>
   </entry>
   <entry>
     <title>Unmöglichkeit der Beherbergungsleistung nach Absage einer Messe in Pandemiezeiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790813/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790813</id>
-    <updated>2025-05-04T22:09:38.574045+00:00</updated>
+    <updated>2025-05-06T05:01:53.368862+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790813</summary>
   </entry>
   <entry>
     <title>WEG-Gemeinschaftsordnung: Auslegung eines Zustimmungsvorbehalts zur Veräußerung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790814/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790814</id>
-    <updated>2025-05-04T22:09:38.574049+00:00</updated>
+    <updated>2025-05-06T05:01:53.368865+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790814</summary>
   </entry>
   <entry>
     <title>Sittenwidriger Mietvertrag: Benachteiligung des Ersteigerers durch unangemessen niedrige Miete</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790815/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790815</id>
-    <updated>2025-05-04T22:09:38.574052+00:00</updated>
+    <updated>2025-05-06T05:01:53.368869+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790815</summary>
   </entry>
   <entry>
     <title>Abgas-Skandal: Antrag auf Feststellung der Erledigung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790816/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790816</id>
-    <updated>2025-05-04T22:09:38.574055+00:00</updated>
+    <updated>2025-05-06T05:01:53.368872+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790816</summary>
   </entry>
   <entry>
     <title>Haftung des Presseinformanten für Persönlichkeitsrechtsverletzung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790817/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790817</id>
-    <updated>2025-05-04T22:09:38.574058+00:00</updated>
+    <updated>2025-05-06T05:01:53.368875+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790817</summary>
   </entry>
   <entry>
     <title>Arzthaftung: Belehrungspflicht im Hinblick auf mögliche Nervenschäden nach Eingriff</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790818/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790818</id>
-    <updated>2025-05-04T22:09:38.574061+00:00</updated>
+    <updated>2025-05-06T05:01:53.368878+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790818</summary>
   </entry>
   <entry>
     <title>Amtshaftung der Gemeinde bei Schäden durch Abkürzungsverkehr nach Straßensperrung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790819/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790819</id>
-    <updated>2025-05-04T22:09:38.574064+00:00</updated>
+    <updated>2025-05-06T05:01:53.368881+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790819</summary>
   </entry>
   <entry>
     <title>Arzthaftung: Behandlung einer minderjährigen Kunstturnerin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790820/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790820</id>
-    <updated>2025-05-04T22:09:38.574068+00:00</updated>
+    <updated>2025-05-06T05:01:53.368885+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790820</summary>
   </entry>
   <entry>
     <title>Entschädigungsanspruch bei Berichterstattung über sexuelle Orientierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790821/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790821</id>
-    <updated>2025-05-04T22:09:38.574071+00:00</updated>
+    <updated>2025-05-06T05:01:53.368888+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790821</summary>
   </entry>
   <entry>
     <title>Restschuldversicherung: Ausschluss bei Arbeitsunfähigkeit durch psychische Erkrankung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790822/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790822</id>
-    <updated>2025-05-04T22:09:38.574075+00:00</updated>
+    <updated>2025-05-06T05:01:53.368891+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790822</summary>
   </entry>
   <entry>
     <title>Benachteiligende Anpassungsklausel in einer fondsgebundenen Riester-Rentenversicherung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790823/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790823</id>
-    <updated>2025-05-04T22:09:38.574078+00:00</updated>
+    <updated>2025-05-06T05:01:53.368895+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790823</summary>
   </entry>
   <entry>
     <title>Anfechtbarkeit von Entscheidungen in Verfahren der einstweiligen Anordnung in Familiensachen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790824/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790824</id>
-    <updated>2025-05-04T22:09:38.574081+00:00</updated>
+    <updated>2025-05-06T05:01:53.368898+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790824</summary>
   </entry>
   <entry>
     <title>Kindschaftssache: Rechtsmittel bei fehlender Einbeziehung des Kindsvaters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790825/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790825</id>
-    <updated>2025-05-04T22:09:38.574085+00:00</updated>
+    <updated>2025-05-06T05:01:53.368902+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790825</summary>
   </entry>
   <entry>
     <title>Geltendmachung übergegangener Unterhaltsansprüche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790826/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790826</id>
-    <updated>2025-05-04T22:09:38.574088+00:00</updated>
+    <updated>2025-05-06T05:01:53.368906+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790826</summary>
   </entry>
   <entry>
     <title>Übertragung der elterlichen Sorge auf den Amtsvormund bei Verbleib der Kinder im Ausland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790827/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790827</id>
-    <updated>2025-05-04T22:09:38.574091+00:00</updated>
+    <updated>2025-05-06T05:01:53.368909+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790827</summary>
   </entry>
   <entry>
     <title>Ausschlagungserklärung durch bevollmächtigten Rechtsanwalt über das beA</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790828/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790828</id>
-    <updated>2025-05-04T22:09:38.574094+00:00</updated>
+    <updated>2025-05-06T05:01:53.368912+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790828</summary>
   </entry>
   <entry>
     <title>Erbausschlagung: Fristbeginn für unter rechtlicher Betreuung stehendem Erben</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790829/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790829</id>
-    <updated>2025-05-04T22:09:38.574098+00:00</updated>
+    <updated>2025-05-06T05:01:53.368915+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790829</summary>
   </entry>
   <entry>
     <title>Unstatthaftigkeit einer auf die Zulassung der Revisionsbeschwerde gerichtete Beschwerde</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790830/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790830</id>
-    <updated>2025-05-04T22:09:38.574101+00:00</updated>
+    <updated>2025-05-06T05:01:53.368919+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790830</summary>
   </entry>
   <entry>
     <title>Verbraucher-Girovertrag: Banken-AGB zu Verwahrund Guthabenentgelten (Negativzinsen)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790831/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790831</id>
-    <updated>2025-05-04T22:09:38.574104+00:00</updated>
+    <updated>2025-05-06T05:01:53.368922+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790831</summary>
   </entry>
   <entry>
     <title>Verbraucher-Girovertrag: Banken-AGB zu Verwahrund Guthabenentgelten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790832/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790832</id>
-    <updated>2025-05-04T22:09:38.574107+00:00</updated>
+    <updated>2025-05-06T05:01:53.368925+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790832</summary>
   </entry>
   <entry>
     <title>Verbraucher-Sparvertrag: Banken-AGB zu Verwahrund Guthabenentgelten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790833/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790833</id>
-    <updated>2025-05-04T22:09:38.574112+00:00</updated>
+    <updated>2025-05-06T05:01:53.368929+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790833</summary>
   </entry>
   <entry>
     <title>Verbraucher-Girovertrag und -Tagesgeldkonto: AGBKlauseln zu Verwahr- und Guthabenentgelten sowie Kosten für Ersatz-Bankkarte und -PIN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790834/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790834</id>
-    <updated>2025-05-04T22:09:38.574115+00:00</updated>
+    <updated>2025-05-06T05:01:53.368932+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790834</summary>
   </entry>
   <entry>
     <title>Patentrechtliche Vorbenutzung beim Vorrichtungsanspruch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790835/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790835</id>
-    <updated>2025-05-04T22:09:38.574118+00:00</updated>
+    <updated>2025-05-06T05:01:53.368935+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790835</summary>
   </entry>
   <entry>
     <title>Haftung des Online-Händlers für irreführende Angaben auf Google-Shopping</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790836/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790836</id>
-    <updated>2025-05-04T22:09:38.574121+00:00</updated>
+    <updated>2025-05-06T05:01:53.368940+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790836</summary>
   </entry>
   <entry>
     <title>Verfahrenskostenvorschuss für eine vor- oder außergerichtliche Rechtsberatung oder Vertretung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790837/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790837</id>
-    <updated>2025-05-04T22:09:38.574125+00:00</updated>
+    <updated>2025-05-06T05:01:53.368943+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790837</summary>
   </entry>
   <entry>
     <title>Antrag auf Terminsverlegung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790838/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790838</id>
-    <updated>2025-05-04T22:09:38.574128+00:00</updated>
+    <updated>2025-05-06T05:01:53.368946+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790838</summary>
   </entry>
   <entry>
     <title>Zwangsmittel bei Entbehrlichkeit der Vernehmung der gegenbeweislich benannten Zeugin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790839/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790839</id>
-    <updated>2025-05-04T22:09:38.574131+00:00</updated>
+    <updated>2025-05-06T05:01:53.368949+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790839</summary>
   </entry>
   <entry>
     <title>Anordnung der Verlängerung der Aufbewahrung einer Betreuungsakte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790840/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790840</id>
-    <updated>2025-05-04T22:09:38.574134+00:00</updated>
+    <updated>2025-05-06T05:01:53.368952+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790840</summary>
   </entry>
   <entry>
     <title>Beiordnung eines Rechtsanwalts für ein Vermittlungsverfahren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790841/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790841</id>
-    <updated>2025-05-04T22:09:38.574137+00:00</updated>
+    <updated>2025-05-06T05:01:53.368956+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790841</summary>
   </entry>
   <entry>
     <title>Anfechtbarkeit von Beschlüssen über eine Rubrumsberichtigung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790842/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790842</id>
-    <updated>2025-05-04T22:09:38.574141+00:00</updated>
+    <updated>2025-05-06T05:01:53.368959+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790842</summary>
   </entry>
   <entry>
     <title>Verweisungen wegen Unzuständigkeit im Verfahren auf Abgabe einer Vermögensauskunft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790843/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790843</id>
-    <updated>2025-05-04T22:09:38.574144+00:00</updated>
+    <updated>2025-05-06T05:01:53.368962+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790843</summary>
   </entry>
   <entry>
     <title>Vorläufig vollstreckbarer Titel und Zahlungsunfähigkeit des Schuldners</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790844/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790844</id>
-    <updated>2025-05-04T22:09:38.574147+00:00</updated>
+    <updated>2025-05-06T05:01:53.368966+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790844</summary>
   </entry>
   <entry>
     <title>Interventionsinteresse des InsO-Gläubigers an gegen InsO-Verwalter geführten Rechtsstreit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790845/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790845</id>
-    <updated>2025-05-04T22:09:38.574151+00:00</updated>
+    <updated>2025-05-06T05:01:53.368969+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790845</summary>
   </entry>
   <entry>
     <title>Insolvenzanfechtung: Pfändungsbeschränkungen i.R. e. Nachlassinsolvenzverfahrens</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790846/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790846</id>
-    <updated>2025-05-04T22:09:38.574155+00:00</updated>
+    <updated>2025-05-06T05:01:53.368972+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790846</summary>
   </entry>
   <entry>
     <title>Gebührenprivilegierung für die Grundbuchumschreibung nach Erbfall</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790847/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790847</id>
-    <updated>2025-05-04T22:09:38.574158+00:00</updated>
+    <updated>2025-05-06T05:01:53.368976+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790847</summary>
   </entry>
   <entry>
     <title>Notarkosten: Abgrenzung zwischen operativ tätigen und vermögensverwaltenden Gesellschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790848/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790848</id>
-    <updated>2025-05-04T22:09:38.574161+00:00</updated>
+    <updated>2025-05-06T05:01:53.368980+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790848</summary>
   </entry>
   <entry>
     <title>Befreiung für Universitätskliniken von Kostenpflicht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790849/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790849</id>
-    <updated>2025-05-04T22:09:38.574164+00:00</updated>
+    <updated>2025-05-06T05:01:53.368983+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790849</summary>
   </entry>
   <entry>
     <title>Fluggastrechte: Bordkarte reicht als Buchungsbestätigung aus; Ausgleichsanspruch durch Unternehmen bei Verspätung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790810/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790810</id>
-    <updated>2025-05-04T22:09:38.574168+00:00</updated>
+    <updated>2025-05-06T05:01:53.368987+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790810</summary>
   </entry>
   <entry>
     <title>Abfrage des Geschlechts bei Fahrscheinkauf im Internet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790811/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790811</id>
-    <updated>2025-05-04T22:09:38.574171+00:00</updated>
+    <updated>2025-05-06T05:01:53.368990+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790811</summary>
   </entry>
   <entry>
     <title>Kündigungsfrist in AGB für ein Probe-Abonnement der BahnCard</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790812/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790812</id>
-    <updated>2025-05-04T22:09:38.574174+00:00</updated>
+    <updated>2025-05-06T05:01:53.368993+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790812</summary>
   </entry>
   <entry>
     <title>Unmöglichkeit der Beherbergungsleistung nach Absage einer Messe in Pandemiezeiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790813/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790813</id>
-    <updated>2025-05-04T22:09:38.574178+00:00</updated>
+    <updated>2025-05-06T05:01:53.368996+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790813</summary>
   </entry>
   <entry>
     <title>WEG-Gemeinschaftsordnung: Auslegung eines Zustimmungsvorbehalts zur Veräußerung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790814/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790814</id>
-    <updated>2025-05-04T22:09:38.574181+00:00</updated>
+    <updated>2025-05-06T05:01:53.369000+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790814</summary>
   </entry>
   <entry>
     <title>Sittenwidriger Mietvertrag: Benachteiligung des Ersteigerers durch unangemessen niedrige Miete</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790815/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790815</id>
-    <updated>2025-05-04T22:09:38.574184+00:00</updated>
+    <updated>2025-05-06T05:01:53.369003+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790815</summary>
   </entry>
   <entry>
     <title>Abgas-Skandal: Antrag auf Feststellung der Erledigung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790816/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790816</id>
-    <updated>2025-05-04T22:09:38.574188+00:00</updated>
+    <updated>2025-05-06T05:01:53.369006+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790816</summary>
   </entry>
   <entry>
     <title>Haftung des Presseinformanten für Persönlichkeitsrechtsverletzung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790817/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790817</id>
-    <updated>2025-05-04T22:09:38.574191+00:00</updated>
+    <updated>2025-05-06T05:01:53.369009+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790817</summary>
   </entry>
   <entry>
     <title>Arzthaftung: Belehrungspflicht im Hinblick auf mögliche Nervenschäden nach Eingriff</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790818/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790818</id>
-    <updated>2025-05-04T22:09:38.574194+00:00</updated>
+    <updated>2025-05-06T05:01:53.369013+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790818</summary>
   </entry>
   <entry>
     <title>Amtshaftung der Gemeinde bei Schäden durch Abkürzungsverkehr nach Straßensperrung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790819/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790819</id>
-    <updated>2025-05-04T22:09:38.574198+00:00</updated>
+    <updated>2025-05-06T05:01:53.369016+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790819</summary>
   </entry>
   <entry>
     <title>Arzthaftung: Behandlung einer minderjährigen Kunstturnerin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790820/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790820</id>
-    <updated>2025-05-04T22:09:38.574201+00:00</updated>
+    <updated>2025-05-06T05:01:53.369020+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790820</summary>
   </entry>
   <entry>
     <title>Entschädigungsanspruch bei Berichterstattung über sexuelle Orientierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790821/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790821</id>
-    <updated>2025-05-04T22:09:38.574204+00:00</updated>
+    <updated>2025-05-06T05:01:53.369024+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790821</summary>
   </entry>
   <entry>
     <title>Restschuldversicherung: Ausschluss bei Arbeitsunfähigkeit durch psychische Erkrankung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790822/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790822</id>
-    <updated>2025-05-04T22:09:38.574207+00:00</updated>
+    <updated>2025-05-06T05:01:53.369027+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790822</summary>
   </entry>
   <entry>
     <title>Benachteiligende Anpassungsklausel in einer fondsgebundenen Riester-Rentenversicherung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790823/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790823</id>
-    <updated>2025-05-04T22:09:38.574210+00:00</updated>
+    <updated>2025-05-06T05:01:53.369030+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790823</summary>
   </entry>
   <entry>
     <title>Anfechtbarkeit von Entscheidungen in Verfahren der einstweiligen Anordnung in Familiensachen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790824/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790824</id>
-    <updated>2025-05-04T22:09:38.574214+00:00</updated>
+    <updated>2025-05-06T05:01:53.369033+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790824</summary>
   </entry>
   <entry>
     <title>Kindschaftssache: Rechtsmittel bei fehlender Einbeziehung des Kindsvaters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790825/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790825</id>
-    <updated>2025-05-04T22:09:38.574217+00:00</updated>
+    <updated>2025-05-06T05:01:53.369037+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790825</summary>
   </entry>
   <entry>
     <title>Geltendmachung übergegangener Unterhaltsansprüche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790826/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790826</id>
-    <updated>2025-05-04T22:09:38.574220+00:00</updated>
+    <updated>2025-05-06T05:01:53.369040+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790826</summary>
   </entry>
   <entry>
     <title>Übertragung der elterlichen Sorge auf den Amtsvormund bei Verbleib der Kinder im Ausland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790827/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790827</id>
-    <updated>2025-05-04T22:09:38.574223+00:00</updated>
+    <updated>2025-05-06T05:01:53.369043+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790827</summary>
   </entry>
   <entry>
     <title>Ausschlagungserklärung durch bevollmächtigten Rechtsanwalt über das beA</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790828/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790828</id>
-    <updated>2025-05-04T22:09:38.574227+00:00</updated>
+    <updated>2025-05-06T05:01:53.369046+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790828</summary>
   </entry>
   <entry>
     <title>Erbausschlagung: Fristbeginn für unter rechtlicher Betreuung stehendem Erben</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790829/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790829</id>
-    <updated>2025-05-04T22:09:38.574231+00:00</updated>
+    <updated>2025-05-06T05:01:53.369049+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790829</summary>
   </entry>
   <entry>
     <title>Unstatthaftigkeit einer auf die Zulassung der Revisionsbeschwerde gerichtete Beschwerde</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790830/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790830</id>
-    <updated>2025-05-04T22:09:38.574234+00:00</updated>
+    <updated>2025-05-06T05:01:53.369053+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790830</summary>
   </entry>
   <entry>
     <title>Verbraucher-Girovertrag: Banken-AGB zu Verwahrund Guthabenentgelten (Negativzinsen)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790831/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790831</id>
-    <updated>2025-05-04T22:09:38.574237+00:00</updated>
+    <updated>2025-05-06T05:01:53.369057+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790831</summary>
   </entry>
   <entry>
     <title>Verbraucher-Girovertrag: Banken-AGB zu Verwahrund Guthabenentgelten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790832/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790832</id>
-    <updated>2025-05-04T22:09:38.574240+00:00</updated>
+    <updated>2025-05-06T05:01:53.369060+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790832</summary>
   </entry>
   <entry>
     <title>Verbraucher-Sparvertrag: Banken-AGB zu Verwahrund Guthabenentgelten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790833/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790833</id>
-    <updated>2025-05-04T22:09:38.574243+00:00</updated>
+    <updated>2025-05-06T05:01:53.369064+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790833</summary>
   </entry>
   <entry>
     <title>Verbraucher-Girovertrag und -Tagesgeldkonto: AGBKlauseln zu Verwahr- und Guthabenentgelten sowie Kosten für Ersatz-Bankkarte und -PIN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790834/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790834</id>
-    <updated>2025-05-04T22:09:38.574247+00:00</updated>
+    <updated>2025-05-06T05:01:53.369067+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790834</summary>
   </entry>
   <entry>
     <title>Patentrechtliche Vorbenutzung beim Vorrichtungsanspruch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790835/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790835</id>
-    <updated>2025-05-04T22:09:38.574250+00:00</updated>
+    <updated>2025-05-06T05:01:53.369070+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790835</summary>
   </entry>
   <entry>
     <title>Haftung des Online-Händlers für irreführende Angaben auf Google-Shopping</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790836/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790836</id>
-    <updated>2025-05-04T22:09:38.574253+00:00</updated>
+    <updated>2025-05-06T05:01:53.369073+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790836</summary>
   </entry>
   <entry>
     <title>Verweisungen wegen Unzuständigkeit im Verfahren auf Abgabe einer Vermögensauskunft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790843/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790843</id>
-    <updated>2025-05-04T22:09:38.574256+00:00</updated>
+    <updated>2025-05-06T05:01:53.369077+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790843</summary>
   </entry>
   <entry>
     <title>Vorläufig vollstreckbarer Titel und Zahlungsunfähigkeit des Schuldners</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790844/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790844</id>
-    <updated>2025-05-04T22:09:38.574259+00:00</updated>
+    <updated>2025-05-06T05:01:53.369080+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790844</summary>
   </entry>
   <entry>
     <title>Interventionsinteresse des InsO-Gläubigers an gegen InsO-Verwalter geführten Rechtsstreit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790845/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790845</id>
-    <updated>2025-05-04T22:09:38.574263+00:00</updated>
+    <updated>2025-05-06T05:01:53.369083+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790845</summary>
   </entry>
   <entry>
     <title>Insolvenzanfechtung: Pfändungsbeschränkungen i.R. e. Nachlassinsolvenzverfahrens</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790846/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790846</id>
-    <updated>2025-05-04T22:09:38.574267+00:00</updated>
+    <updated>2025-05-06T05:01:53.369086+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790846</summary>
   </entry>
   <entry>
     <title>Gebührenprivilegierung für die Grundbuchumschreibung nach Erbfall</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790847/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790847</id>
-    <updated>2025-05-04T22:09:38.574270+00:00</updated>
+    <updated>2025-05-06T05:01:53.369089+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790847</summary>
   </entry>
   <entry>
     <title>Notarkosten: Abgrenzung zwischen operativ tätigen und vermögensverwaltenden Gesellschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790848/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790848</id>
-    <updated>2025-05-04T22:09:38.574273+00:00</updated>
+    <updated>2025-05-06T05:01:53.369092+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790848</summary>
   </entry>
   <entry>
     <title>Befreiung für Universitätskliniken von Kostenpflicht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790849/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790849</id>
-    <updated>2025-05-04T22:09:38.574276+00:00</updated>
+    <updated>2025-05-06T05:01:53.369096+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790849</summary>
   </entry>
   <entry>
     <title>Vormünder- und Betreuervergütung, RVG-Gebühren, LuftverkehrsschlichtungsVO</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790856/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790856</id>
-    <updated>2025-05-04T22:09:38.574280+00:00</updated>
+    <updated>2025-05-06T05:01:53.369100+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790856</summary>
   </entry>
   <entry>
     <title>Neue Bücher und Neuauflagen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790857/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790857</id>
-    <updated>2025-05-04T22:09:38.574283+00:00</updated>
+    <updated>2025-05-06T05:01:53.369103+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790857</summary>
   </entry>
   <entry>
     <title>Die Fristversäumnis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/mdtr-2025-790858/html"/>
     <id>https://doi.org/10.9785/mdtr-2025-790858</id>
-    <updated>2025-05-04T22:09:38.574286+00:00</updated>
+    <updated>2025-05-06T05:01:53.369106+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/mdtr-2025-790858</summary>
   </entry>
 </feed>

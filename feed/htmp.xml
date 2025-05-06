@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>High Temperature Materials and Processes</title>
-  <link href="https://www.degruyterbrill.com/journal/key/htmp/44/1/html"/>
-  <updated>2025-05-04T22:06:14.322057+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/htmp/44/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htmp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/htmp/html" rel="related"/>
+  <updated>2025-05-06T04:57:13.918882+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htmp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in High Temperature Materials and Processes</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/htmp.xml" type="application/rss+xml"/>
   <entry>
     <title>Endpoint carbon content and temperature prediction model in BOF steelmaking based on posterior probability and intra-cluster feature weight online dynamic feature selection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0067/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0067</id>
-    <updated>2025-05-04T22:06:14.322099+00:00</updated>
+    <updated>2025-05-06T04:57:13.918910+00:00</updated>
     <summary>Article by Haodong Wang, Hui Liu, FuGang Chen, Heng Li, XiaoJun Xue
 DOI: https://doi.org/10.1515/htmp-2024-0067</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0067</summary>
     <title>Thermal conductivity of lunar regolith simulant using a thermal microscope</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0068/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0068</id>
-    <updated>2025-05-04T22:06:14.322112+00:00</updated>
+    <updated>2025-05-06T04:57:13.918921+00:00</updated>
     <summary>Article by Naoto Kudo, Shunsuke Watanabe, Tsuyoshi Nishi, Hiromichi Ohta, Sumitaka Tachikawa, Rie Endo
 DOI: https://doi.org/10.1515/htmp-2024-0068</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0068</summary>
     <title>Multiobjective optimization of EDM machining parameters of TIB2ceramic materials using regression and gray relational analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0070/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0070</id>
-    <updated>2025-05-04T22:06:14.322126+00:00</updated>
+    <updated>2025-05-06T04:57:13.918930+00:00</updated>
     <summary>Article by Karthik Shanmugam, Sivakumar Annamalai, Nathiya Thangaraj
 DOI: https://doi.org/10.1515/htmp-2024-0070</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0070</summary>
     <title>Research on the magnesium reduction process by integrated calcination in vacuum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2025-0074/html"/>
     <id>https://doi.org/10.1515/htmp-2025-0074</id>
-    <updated>2025-05-04T22:06:14.322135+00:00</updated>
+    <updated>2025-05-06T04:57:13.918937+00:00</updated>
     <summary>Article by Vu Viet Quyen, Nguyen Duong Nam
 DOI: https://doi.org/10.1515/htmp-2025-0074</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/htmp-2025-0074</summary>
     <title>Microstructure stability and softening resistance of a novel Cr-Mo-V hot work die steel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0066/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0066</id>
-    <updated>2025-05-04T22:06:14.322144+00:00</updated>
+    <updated>2025-05-06T04:57:13.918945+00:00</updated>
     <summary>Article by Yasha Yuan, Wenyan Wang, Meng Zhou, Ruxing Shi, Zhengyu Wang, Yudong Zhang, Jingpei Xie
 DOI: https://doi.org/10.1515/htmp-2024-0066</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0066</summary>
     <title>Effect of bonding temperature on tensile behaviors and toughening mechanism of W/(Ti/Ta/Ti) multilayer composites</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2025-0075/html"/>
     <id>https://doi.org/10.1515/htmp-2025-0075</id>
-    <updated>2025-05-04T22:06:14.322153+00:00</updated>
+    <updated>2025-05-06T04:57:13.918952+00:00</updated>
     <summary>Article by Rui Liu, Houlong Liu, Jie Zhu, Huan Li, Jinping Wu
 DOI: https://doi.org/10.1515/htmp-2025-0075</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/htmp-2025-0075</summary>
     <title>Effects of heat treatment on microstructure and properties of CrVNiAlCu high-entropy alloy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0045/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0045</id>
-    <updated>2025-05-04T22:06:14.322162+00:00</updated>
+    <updated>2025-05-06T04:57:13.918959+00:00</updated>
     <summary>Article by Shijie Bai, Yifeng Xiao, Liang Wu, Qiankun Zhang
 DOI: https://doi.org/10.1515/htmp-2024-0045</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0045</summary>
     <title>Enhanced bioactivity and degradation behavior of zinc via micro-arc anodization for biomedical applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0065/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0065</id>
-    <updated>2025-05-04T22:06:14.322170+00:00</updated>
+    <updated>2025-05-06T04:57:13.918967+00:00</updated>
     <summary>Article by Hongzhou Dong, Weize Xu, Sannakaisa Virtanen, Yuxin Wang
 DOI: https://doi.org/10.1515/htmp-2024-0065</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0065</summary>
     <title>Study on the parameters optimization and the microstructure of spot welding joints of 304 stainless steel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2024-0039/html"/>
     <id>https://doi.org/10.1515/htmp-2024-0039</id>
-    <updated>2025-05-04T22:06:14.322181+00:00</updated>
+    <updated>2025-05-06T04:57:13.918977+00:00</updated>
     <summary>Article by Hui Liu, Lei Yu, Dayu Wang
 DOI: https://doi.org/10.1515/htmp-2024-0039</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/htmp-2024-0039</summary>
     <title>Research on rotating magnetic field–assisted HRFSW 6061-T6 thin plate</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2025-0072/html"/>
     <id>https://doi.org/10.1515/htmp-2025-0072</id>
-    <updated>2025-05-04T22:06:14.322196+00:00</updated>
+    <updated>2025-05-06T04:57:13.918984+00:00</updated>
     <summary>Article by Xinyi Chen, Shujin Chen, Zhidong Yang, Ruihai Duan, Yang Gao, Zhihong Liu, Shangdong Dong
 DOI: https://doi.org/10.1515/htmp-2025-0072</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/htmp-2025-0072</summary>
     <title>Microwave hybrid process-based fabrication of super duplex stainless steel joints using nickel and stainless steel filler materials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/htmp-2025-0071/html"/>
     <id>https://doi.org/10.1515/htmp-2025-0071</id>
-    <updated>2025-05-04T22:06:14.322204+00:00</updated>
+    <updated>2025-05-06T04:57:13.918995+00:00</updated>
     <summary>Article by Parminder Singh, Deoraj Prajapati, Shankar Sehgal
 DOI: https://doi.org/10.1515/htmp-2025-0071</summary>
   </entry>

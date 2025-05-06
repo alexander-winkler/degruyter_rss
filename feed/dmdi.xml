@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Drug Metabolism and Personalized Therapy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dmdi/40/1/html"/>
-  <updated>2025-05-04T22:04:43.360812+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dmdi/40/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmdi.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dmdi/html" rel="related"/>
+  <updated>2025-05-06T04:55:08.201461+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmdi.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Drug Metabolism and Personalized Therapy</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmdi.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/dmpt-2025-frontmatter1</id>
-    <updated>2025-05-04T22:04:43.360842+00:00</updated>
+    <updated>2025-05-06T04:55:08.201501+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dmpt-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Unlocking the therapeutic potential and personalized therapy of testosterone: a comprehensive review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0035/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0035</id>
-    <updated>2025-05-04T22:04:43.360851+00:00</updated>
+    <updated>2025-05-06T04:55:08.201515+00:00</updated>
     <summary>Article by Aditya V. Reddy, Ramasamy Kesavan, Rajendran Priyadharsini, Reka Deva
 DOI: https://doi.org/10.1515/dmpt-2024-0035</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/dmpt-2024-0035</summary>
     <title>Prolonged post-operative hydrocodone usage due to psychotropic drug interaction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0031/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0031</id>
-    <updated>2025-05-04T22:04:43.360863+00:00</updated>
+    <updated>2025-05-06T04:55:08.201527+00:00</updated>
     <summary>Article by Aaron G. Whitt, Viana F. Karimi, Jeremy T. Gaskins, Ruby E. Renfrow, Abbey R. Roach, Arthur L. Malkani, Brandi Hartley, Madhusudhan R. Yakkanti, Saeed A. Jortani
 DOI: https://doi.org/10.1515/dmpt-2024-0031</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/dmpt-2024-0031</summary>
     <title>An open-label, single dose, safety and pharmacokinetic study ofWithania somniferaroot extract in healthy volunteers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0089/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0089</id>
-    <updated>2025-05-04T22:04:43.360872+00:00</updated>
+    <updated>2025-05-06T04:55:08.201538+00:00</updated>
     <summary>Article by Eshita Sharma, Gayatri Ganu, Ketan Kshirsagar, Ashwin Shah, Umakant Mahale, Anirudh Mehta, Sujit Nair
 DOI: https://doi.org/10.1515/dmpt-2024-0089</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/dmpt-2024-0089</summary>
     <title>Effect of metformin on exercise capacity in treatment naïve type 2 diabetes patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0049/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0049</id>
-    <updated>2025-05-04T22:04:43.360880+00:00</updated>
+    <updated>2025-05-06T04:55:08.201546+00:00</updated>
     <summary>Article by Vikneswaran Gunaseelan, Sandhiya Selvarajan, Sadishkumar Kamalanathan, Tamilarasu Kadhiravan, Shravan Venkatraman
 DOI: https://doi.org/10.1515/dmpt-2024-0049</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/dmpt-2024-0049</summary>
     <title>Molecular docking andin vitroevaluation of glucosamine sulfate targeting MMP-3, MMP-9, and IL-4 for potential osteoarthritis treatment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0067/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0067</id>
-    <updated>2025-05-04T22:04:43.360888+00:00</updated>
+    <updated>2025-05-06T04:55:08.201554+00:00</updated>
     <summary>Article by Venkataramanan Srinivasan, Selvaraj Kunjiappan, Ponnusamy Palanisamy
 DOI: https://doi.org/10.1515/dmpt-2024-0067</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/dmpt-2024-0067</summary>
     <title>CYP2D6 genetic polymorphisms impact on tamsulosin efficacy and safety in patients with benign prostatic hyperplasia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0061/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0061</id>
-    <updated>2025-05-04T22:04:43.360896+00:00</updated>
+    <updated>2025-05-06T04:55:08.201562+00:00</updated>
     <summary>Article by Shokhrukh Abdullaev, Maksim Shatokhin, Ivan Sychev, Aleksandr Krasnov, Pavel Bochkov, Svetlana Tuchkova, Oleg Teodorovich, Oleg Loran, Sherzod Abdullaev, Dmitry Sychev
 DOI: https://doi.org/10.1515/dmpt-2024-0061</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/dmpt-2024-0061</summary>
     <title>Predicting of factors associated with valsartan response among hypertensive patients attending the Jordan University Hospital</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmpt-2024-0088/html"/>
     <id>https://doi.org/10.1515/dmpt-2024-0088</id>
-    <updated>2025-05-04T22:04:43.360903+00:00</updated>
+    <updated>2025-05-06T04:55:08.201574+00:00</updated>
     <summary>Article by Shahd Khalil, Aseel Quran, Leen Thalji, Malk Al-Adamat, Lina Sabha, Joud Khraisat, Abdel rahman Al Na’ami, Hatem Al-Jazzazi, Hussein Alhawari, Yazun Jarrar
 DOI: https://doi.org/10.1515/dmpt-2024-0088</summary>
   </entry>

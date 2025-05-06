@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>European Journal of Scandinavian Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ejss/54/2/html"/>
-  <updated>2025-05-04T22:05:03.979733+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ejss/54/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ejss.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ejss/html" rel="related"/>
+  <updated>2025-05-06T04:55:37.016072+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ejss.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in European Journal of Scandinavian Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ejss.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/ejss-2024-frontmatter2</id>
-    <updated>2025-05-04T22:05:03.979770+00:00</updated>
+    <updated>2025-05-06T04:55:37.016085+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ejss-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>In memoriam: Kurt Schier</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2025/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2025</id>
-    <updated>2025-05-04T22:05:03.979778+00:00</updated>
+    <updated>2025-05-06T04:55:37.016089+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ejss-2024-2025</summary>
   </entry>
   <entry>
     <title>Nordischer Klang 2023: Lese/Kulturen – Lektürepraktiken im Norden vom 18. Jahrhundert bis in die Gegenwart</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2013/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2013</id>
-    <updated>2025-05-04T22:05:03.979788+00:00</updated>
+    <updated>2025-05-06T04:55:37.016094+00:00</updated>
     <summary>Article by Clemens Räthel
 DOI: https://doi.org/10.1515/ejss-2024-2013</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2013</summary>
     <title>Drottning Sofia Magdalenas läsning. Böcker, konversation, och socialt spel vid det Gustavianska hovet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2014/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2014</id>
-    <updated>2025-05-04T22:05:03.979797+00:00</updated>
+    <updated>2025-05-06T04:55:37.016099+00:00</updated>
     <summary>Article by Tim Berndtsson
 DOI: https://doi.org/10.1515/ejss-2024-2014</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2014</summary>
     <title>Literarische Öffentlichkeit ohne Lesen. Zur Neubetrachtung vonRifbjergs lytterroman(1972)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2015/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2015</id>
-    <updated>2025-05-04T22:05:03.979804+00:00</updated>
+    <updated>2025-05-06T04:55:37.016103+00:00</updated>
     <summary>Article by Philipp Wagner
 DOI: https://doi.org/10.1515/ejss-2024-2015</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2015</summary>
     <title>Nordischer Klang 2023: Lese/Kulturen – Lektürepraktiken im Norden vom 18. Jahrhundert bis in die Gegenwart</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2013/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2013</id>
-    <updated>2025-05-04T22:05:03.979810+00:00</updated>
+    <updated>2025-05-06T04:55:37.016108+00:00</updated>
     <summary>Article by Clemens Räthel
 DOI: https://doi.org/10.1515/ejss-2024-2013</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2013</summary>
     <title>Drottning Sofia Magdalenas läsning. Böcker, konversation, och socialt spel vid det Gustavianska hovet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2014/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2014</id>
-    <updated>2025-05-04T22:05:03.979816+00:00</updated>
+    <updated>2025-05-06T04:55:37.016114+00:00</updated>
     <summary>Article by Tim Berndtsson
 DOI: https://doi.org/10.1515/ejss-2024-2014</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2014</summary>
     <title>Literarische Öffentlichkeit ohne Lesen. Zur Neubetrachtung vonRifbjergs lytterroman(1972)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2015/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2015</id>
-    <updated>2025-05-04T22:05:03.979823+00:00</updated>
+    <updated>2025-05-06T04:55:37.016118+00:00</updated>
     <summary>Article by Philipp Wagner
 DOI: https://doi.org/10.1515/ejss-2024-2015</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2015</summary>
     <title>Begegnungen mit dem Tod in der norwegischen Gegenwartsdramatik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2017/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2017</id>
-    <updated>2025-05-04T22:05:03.979829+00:00</updated>
+    <updated>2025-05-06T04:55:37.016122+00:00</updated>
     <summary>Article by Kristina Stark, Leonie Krutzinna, Kerstin Rottler
 DOI: https://doi.org/10.1515/ejss-2024-2017</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2017</summary>
     <title>Say that It Is so! Exclamation Marks and Affect in Eva-Stina Byggmästar’s Poetry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2018/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2018</id>
-    <updated>2025-05-04T22:05:03.979836+00:00</updated>
+    <updated>2025-05-06T04:55:37.016126+00:00</updated>
     <summary>Article by Jenny J. Wikström
 DOI: https://doi.org/10.1515/ejss-2024-2018</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2018</summary>
     <title>Bygda som postruralt landskap i Marit EikemosHardanger(2019)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2020/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2020</id>
-    <updated>2025-05-04T22:05:03.979842+00:00</updated>
+    <updated>2025-05-06T04:55:37.016131+00:00</updated>
     <summary>Article by John Brumo
 DOI: https://doi.org/10.1515/ejss-2024-2020</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2020</summary>
     <title>Ellen Key och klimatfrågan: drömmen om en ny natur</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2016/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2016</id>
-    <updated>2025-05-04T22:05:03.979849+00:00</updated>
+    <updated>2025-05-06T04:55:37.016135+00:00</updated>
     <summary>Article by Peter Henning
 DOI: https://doi.org/10.1515/ejss-2024-2016</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2016</summary>
     <title>Akkusativ med presens partisipp i norsk</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2019/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2019</id>
-    <updated>2025-05-04T22:05:03.979858+00:00</updated>
+    <updated>2025-05-06T04:55:37.016139+00:00</updated>
     <summary>Article by Geir Lima
 DOI: https://doi.org/10.1515/ejss-2024-2019</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2019</summary>
     <title>Camilla Storskog:Afterlives – Scandinavian Classics as Comic Art Adaptations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2024/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2024</id>
-    <updated>2025-05-04T22:05:03.979864+00:00</updated>
+    <updated>2025-05-06T04:55:37.016143+00:00</updated>
     <summary>Article by Øyvind Vågnes
 DOI: https://doi.org/10.1515/ejss-2024-2024</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2024</summary>
     <title>Walter Baumgartner:Ostsee-Barock (II). Theater, Gelegenheitsdichtung, Kirchenlied</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2021/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2021</id>
-    <updated>2025-05-04T22:05:03.979871+00:00</updated>
+    <updated>2025-05-06T04:55:37.016147+00:00</updated>
     <summary>Article by Anna Katharina Richter
 DOI: https://doi.org/10.1515/ejss-2024-2021</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2021</summary>
     <title>Daniel Alexander Nagelstutz:Die Neue Eiszeit. Eine imagologische Analyse des Grönland-Diskurses im deutschsprachigen Raum (1933–2021)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2022/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2022</id>
-    <updated>2025-05-04T22:05:03.979877+00:00</updated>
+    <updated>2025-05-06T04:55:37.016151+00:00</updated>
     <summary>Article by Michael Harbsmeier
 DOI: https://doi.org/10.1515/ejss-2024-2022</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2022</summary>
     <title>Wilhelm Heizmann:Völsi-Geschichten. Klaus Düwel: Die Geschichte vom Völsi. Wilhelm Heizmann: Die Inschrift von Fløksand und der Vǫlsa þáttr</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2023/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2023</id>
-    <updated>2025-05-04T22:05:03.979884+00:00</updated>
+    <updated>2025-05-06T04:55:37.016155+00:00</updated>
     <summary>Article by Klaus Böldl
 DOI: https://doi.org/10.1515/ejss-2024-2023</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2023</summary>
     <title>Dieter Strauch:Schwedisches historisches Recht. Vier Einblicke ins Mittelalter und in die frühe Neuzeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2011/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2011</id>
-    <updated>2025-05-04T22:05:03.979890+00:00</updated>
+    <updated>2025-05-06T04:55:37.016162+00:00</updated>
     <summary>Article by Roland Scheel
 DOI: https://doi.org/10.1515/ejss-2024-2011</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/ejss-2024-2011</summary>
     <title>Barbara Sjoholm:From Lapland to Sápmi. Collecting and Returning Sámi Craft and Culture</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ejss-2024-2012/html"/>
     <id>https://doi.org/10.1515/ejss-2024-2012</id>
-    <updated>2025-05-04T22:05:03.979896+00:00</updated>
+    <updated>2025-05-06T04:55:37.016166+00:00</updated>
     <summary>Article by Anna Katharina Richter
 DOI: https://doi.org/10.1515/ejss-2024-2012</summary>
   </entry>

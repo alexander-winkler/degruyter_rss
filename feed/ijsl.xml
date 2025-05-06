@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of the Sociology of Language</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijsl/2025/291/html"/>
-  <updated>2025-05-04T22:06:52.204830+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ijsl/2025/291/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijsl/html" rel="related"/>
+  <updated>2025-05-06T04:58:04.908432+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of the Sociology of Language</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijsl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2025-frontmatter291/html"/>
     <id>https://doi.org/10.1515/ijsl-2025-frontmatter291</id>
-    <updated>2025-05-04T22:06:52.204867+00:00</updated>
+    <updated>2025-05-06T04:58:04.908455+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ijsl-2025-frontmatter291</summary>
   </entry>
   <entry>
     <title>Negotiating sociolinguistic justice: turning spaces of inequality into spaces of conscientization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2022-0114/html"/>
     <id>https://doi.org/10.1515/ijsl-2022-0114</id>
-    <updated>2025-05-04T22:06:52.204881+00:00</updated>
+    <updated>2025-05-06T04:58:04.908463+00:00</updated>
     <summary>Article by Luisa Martín Rojo, Joan Pujolar, Estibaliz Amorrortu
 DOI: https://doi.org/10.1515/ijsl-2022-0114</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ijsl-2022-0114</summary>
     <title>Talking about sociolinguistic injustice: critical ethnographies towards speaker conscientization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0076/html"/>
     <id>https://doi.org/10.1515/ijsl-2023-0076</id>
-    <updated>2025-05-04T22:06:52.204894+00:00</updated>
+    <updated>2025-05-06T04:58:04.908472+00:00</updated>
     <summary>Article by Gabriela Prego-Vázquez, Clara Molina, Maite Puigdevall
 DOI: https://doi.org/10.1515/ijsl-2023-0076</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ijsl-2023-0076</summary>
     <title>Spaces of conscientization as a bridge between inequality and contestation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0078/html"/>
     <id>https://doi.org/10.1515/ijsl-2023-0078</id>
-    <updated>2025-05-04T22:06:52.204902+00:00</updated>
+    <updated>2025-05-06T04:58:04.908479+00:00</updated>
     <summary>Article by Estibaliz Amorrortu, Miren Otxotorena-Aranguren, Luz Zas
 DOI: https://doi.org/10.1515/ijsl-2023-0078</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ijsl-2023-0078</summary>
     <title>Voicing experiences of language surveillance to challenge social inequality</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2024-0128/html"/>
     <id>https://doi.org/10.1515/ijsl-2024-0128</id>
-    <updated>2025-05-04T22:06:52.204910+00:00</updated>
+    <updated>2025-05-06T04:58:04.908486+00:00</updated>
     <summary>Article by Luisa Martín Rojo, Adil Moustaoui, Ane Ortega
 DOI: https://doi.org/10.1515/ijsl-2024-0128</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ijsl-2024-0128</summary>
     <title>Agency as doing-together: learning from fieldwork experiences</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0080/html"/>
     <id>https://doi.org/10.1515/ijsl-2023-0080</id>
-    <updated>2025-05-04T22:06:52.204918+00:00</updated>
+    <updated>2025-05-06T04:58:04.908493+00:00</updated>
     <summary>Article by Jone M. Hernández García, Joan Pujolar, Noelia Fernández González
 DOI: https://doi.org/10.1515/ijsl-2023-0080</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ijsl-2023-0080</summary>
     <title>Relevance and effectiveness in translation planning into minoritized languages: an evaluation of translation subsidies in the Galician publishing industry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0114/html"/>
     <id>https://doi.org/10.1515/ijsl-2023-0114</id>
-    <updated>2025-05-04T22:06:52.204927+00:00</updated>
+    <updated>2025-05-06T04:58:04.908500+00:00</updated>
     <summary>Article by Marta García González
 DOI: https://doi.org/10.1515/ijsl-2023-0114</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ijsl-2023-0114</summary>
     <title>Ainu language use and display in the National Ainu Museum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijsl-2023-0104/html"/>
     <id>https://doi.org/10.1515/ijsl-2023-0104</id>
-    <updated>2025-05-04T22:06:52.204934+00:00</updated>
+    <updated>2025-05-06T04:58:04.908522+00:00</updated>
     <summary>Article by Saana Santalahti
 DOI: https://doi.org/10.1515/ijsl-2023-0104</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Translational Exercise Biomedicine</title>
-  <link href="https://www.degruyterbrill.com/journal/key/teb/2/1/html"/>
-  <updated>2025-05-04T22:12:51.225145+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/teb/2/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teb.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/teb/html" rel="related"/>
+  <updated>2025-05-06T05:06:17.152271+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Translational Exercise Biomedicine</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teb.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/teb-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:51.225165+00:00</updated>
+    <updated>2025-05-06T05:06:17.152307+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/teb-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Validation of marathon performance model based on physiological factors in world-class East African runners: a case series</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2024-0016/html"/>
     <id>https://doi.org/10.1515/teb-2024-0016</id>
-    <updated>2025-05-04T22:12:51.225170+00:00</updated>
+    <updated>2025-05-06T05:06:17.152316+00:00</updated>
     <summary>Article by Melanie Knopp, Fergus Guppy, Michael Joyner, Borja Muniz-Pardos, Henning Wackerhage, Martin Schönfelder, Yannis Pitsiladis, Daniel Ruiz
 DOI: https://doi.org/10.1515/teb-2024-0016</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/teb-2024-0016</summary>
     <title>Mitochondrial and cardiovascular responses to aerobic exercise training in supine and upright positions in healthy young adults: a randomized parallel arm trial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2025-0002/html"/>
     <id>https://doi.org/10.1515/teb-2025-0002</id>
-    <updated>2025-05-04T22:12:51.225177+00:00</updated>
+    <updated>2025-05-06T05:06:17.152327+00:00</updated>
     <summary>Article by Nicholas Preobrazenski, Stuart P.S. Mladen, Ejaz Causer, Eveline Menezes, Hashim Islam, Patrick J. Drouin, Michael E. Tschakovsky, Brendon J. Gurd
 DOI: https://doi.org/10.1515/teb-2025-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/teb-2025-0002</summary>
     <title>Exercise-induced neurogenesis through BDNF-TrkB pathway: implications for neurodegenerative disorders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2024-0038/html"/>
     <id>https://doi.org/10.1515/teb-2024-0038</id>
-    <updated>2025-05-04T22:12:51.225182+00:00</updated>
+    <updated>2025-05-06T05:06:17.152336+00:00</updated>
     <summary>Article by Jun Jie Lee, Patrick Henry Sebastian Sitjar, Eng Tat Ang, Jorming Goh
 DOI: https://doi.org/10.1515/teb-2024-0038</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/teb-2024-0038</summary>
     <title>The role of osteoprotegerin (OPG) in exercise-induced skeletal muscle adaptation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2024-0033/html"/>
     <id>https://doi.org/10.1515/teb-2024-0033</id>
-    <updated>2025-05-04T22:12:51.225186+00:00</updated>
+    <updated>2025-05-06T05:06:17.152345+00:00</updated>
     <summary>Article by Aaron Owens, Livia Dos Santos, Matthew Brook, John Hunt, Mathew Piasecki, Jessica Piasecki
 DOI: https://doi.org/10.1515/teb-2024-0033</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/teb-2024-0033</summary>
     <title>Impact of early and late morning supervised blood flow restriction training on body composition and skeletal muscle performance in older inactive adults</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2024-0025/html"/>
     <id>https://doi.org/10.1515/teb-2024-0025</id>
-    <updated>2025-05-04T22:12:51.225191+00:00</updated>
+    <updated>2025-05-06T05:06:17.152354+00:00</updated>
     <summary>Article by Logan E. Peskett, Amy M. Thomson, Julia K. Arnason, Yadab Paudel, Martin Sénéchal
 DOI: https://doi.org/10.1515/teb-2024-0025</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/teb-2024-0025</summary>
     <title>Anti-obesity drugs alone or combined with exercise training in the management of obesity: a systematic review with meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/teb-2024-0039/html"/>
     <id>https://doi.org/10.1515/teb-2024-0039</id>
-    <updated>2025-05-04T22:12:51.225196+00:00</updated>
+    <updated>2025-05-06T05:06:17.152363+00:00</updated>
     <summary>Article by Bruna Marmett, Igor da Silva, Fabio Lira, Gilson Dorneles
 DOI: https://doi.org/10.1515/teb-2024-0039</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cowrie: Comparative and World Literature</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cwl/1/2/html"/>
-  <updated>2025-05-04T22:04:28.035354+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cwl/1/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cwl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cwl/html" rel="related"/>
+  <updated>2025-05-06T04:54:46.807386+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cwl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Cowrie: Comparative and World Literature</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cwl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/cwl-2024-frontmatter2</id>
-    <updated>2025-05-04T22:04:28.035384+00:00</updated>
+    <updated>2025-05-06T04:54:46.807424+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cwl-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Validity in Intercultural Interpretation of Romanticism: A Case Study of Qu Yuan’sLisao</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2015/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2015</id>
-    <updated>2025-05-04T22:04:28.035394+00:00</updated>
+    <updated>2025-05-06T04:54:46.807437+00:00</updated>
     <summary>Article by Qingben Li, Duo Duo
 DOI: https://doi.org/10.1515/cwl-2024-2015</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2015</summary>
     <title>Abyss and Oppression:I ChingSymbolisms in Philip K. Dick’sThe Man in the High Castle</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2010/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2010</id>
-    <updated>2025-05-04T22:04:28.035403+00:00</updated>
+    <updated>2025-05-06T04:54:46.807446+00:00</updated>
     <summary>Article by John T. P. Lai
 DOI: https://doi.org/10.1515/cwl-2024-2010</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2010</summary>
     <title>The Perception of the Chinese Language by the “King’s Mathematicians” in the Age of Enlightenment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2011/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2011</id>
-    <updated>2025-05-04T22:04:28.035412+00:00</updated>
+    <updated>2025-05-06T04:54:46.807454+00:00</updated>
     <summary>Article by Zhimin Bai
 DOI: https://doi.org/10.1515/cwl-2024-2011</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2011</summary>
     <title>“Can I Tell What It Is that I Really Want?”: The Formation of Multiple and Unintelligible Selves in Ding Ling’s “Miss Sophia’s Diary”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2012/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2012</id>
-    <updated>2025-05-04T22:04:28.035421+00:00</updated>
+    <updated>2025-05-06T04:54:46.807463+00:00</updated>
     <summary>Article by Shuangting Xiong
 DOI: https://doi.org/10.1515/cwl-2024-2012</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2012</summary>
     <title>A Journey of Transition: The Formation, Deconstruction, and Reshaping of Du Fu’s Image in the Anglophone World</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2013/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2013</id>
-    <updated>2025-05-04T22:04:28.035429+00:00</updated>
+    <updated>2025-05-06T04:54:46.807471+00:00</updated>
     <summary>Article by Hua Zhao
 DOI: https://doi.org/10.1515/cwl-2024-2013</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2013</summary>
     <title>“A Simple-minded Boy and His Touched Wife”: Images of Madness in Pu Songling’s “Xiao-cui”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2014/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2014</id>
-    <updated>2025-05-04T22:04:28.035437+00:00</updated>
+    <updated>2025-05-06T04:54:46.807479+00:00</updated>
     <summary>Article by Longlong Ge
 DOI: https://doi.org/10.1515/cwl-2024-2014</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2014</summary>
     <title>Thresholds of Interpretation: Paratexts ofThe Four BooksTranslated by Cheng Lin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2016/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2016</id>
-    <updated>2025-05-04T22:04:28.035444+00:00</updated>
+    <updated>2025-05-06T04:54:46.807486+00:00</updated>
     <summary>Article by Peiwen Yu
 DOI: https://doi.org/10.1515/cwl-2024-2016</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/cwl-2024-2016</summary>
     <title>Athol Fugard’s Boesman and Lena: Unveiling the Coloured Ghost in South Africa</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cwl-2024-2017/html"/>
     <id>https://doi.org/10.1515/cwl-2024-2017</id>
-    <updated>2025-05-04T22:04:28.035451+00:00</updated>
+    <updated>2025-05-06T04:54:46.807496+00:00</updated>
     <summary>Article by Yu Mu
 DOI: https://doi.org/10.1515/cwl-2024-2017</summary>
   </entry>

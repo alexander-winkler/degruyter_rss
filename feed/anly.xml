@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Analysis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/anly/45/2/html"/>
-  <updated>2025-05-04T22:02:38.125690+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/anly/45/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anly.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/anly/html" rel="related"/>
+  <updated>2025-05-06T04:52:23.290413+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anly.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Analysis</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anly.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/anly-2025-frontmatter2</id>
-    <updated>2025-05-04T22:02:38.125712+00:00</updated>
+    <updated>2025-05-06T04:52:23.290431+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/anly-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Colombeau algebras of asymptotically almost automorphic generalized functions: Properties and applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2023-0030/html"/>
     <id>https://doi.org/10.1515/anly-2023-0030</id>
-    <updated>2025-05-04T22:02:38.125720+00:00</updated>
+    <updated>2025-05-06T04:52:23.290436+00:00</updated>
     <summary>Article by Mohamed Chaib, Abdellah Taqbibt, Said Melliani, M’hamed El Omari
 DOI: https://doi.org/10.1515/anly-2023-0030</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/anly-2023-0030</summary>
     <title>Lie symmetries, exact solution and conservation laws of (2 + 1)-dimensional time fractional Kadomtsev–Petviashvili system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0048/html"/>
     <id>https://doi.org/10.1515/anly-2024-0048</id>
-    <updated>2025-05-04T22:02:38.125730+00:00</updated>
+    <updated>2025-05-06T04:52:23.290442+00:00</updated>
     <summary>Article by Jicheng Yu, Yuqiang Feng
 DOI: https://doi.org/10.1515/anly-2024-0048</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/anly-2024-0048</summary>
     <title>Complex analytic solutions for the TQG model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0062/html"/>
     <id>https://doi.org/10.1515/anly-2024-0062</id>
-    <updated>2025-05-04T22:02:38.125737+00:00</updated>
+    <updated>2025-05-06T04:52:23.290447+00:00</updated>
     <summary>Article by Prince Romeo Mensah
 DOI: https://doi.org/10.1515/anly-2024-0062</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/anly-2024-0062</summary>
     <title>On spherical shells containing all the zeros of a quaternionic polynomial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0069/html"/>
     <id>https://doi.org/10.1515/anly-2024-0069</id>
-    <updated>2025-05-04T22:02:38.125744+00:00</updated>
+    <updated>2025-05-06T04:52:23.290451+00:00</updated>
     <summary>Article by Gradimir V. Milovanović, Abdullah Mir, Wasim Ahmad Thoker, Ashiq Hussain Bhat
 DOI: https://doi.org/10.1515/anly-2024-0069</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/anly-2024-0069</summary>
     <title>The fourth term of the asymptotic behavior near the boundary of a large solution to semilinear Poisson equation with double-power nonlinearity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0095/html"/>
     <id>https://doi.org/10.1515/anly-2024-0095</id>
-    <updated>2025-05-04T22:02:38.125751+00:00</updated>
+    <updated>2025-05-06T04:52:23.290456+00:00</updated>
     <summary>Article by Kazuhiro Takimoto, Yuxiao Zhang
 DOI: https://doi.org/10.1515/anly-2024-0095</summary>
   </entry>

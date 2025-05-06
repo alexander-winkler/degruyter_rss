@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chemistry Teacher International </title>
-  <link href="https://www.degruyterbrill.com/journal/key/cti/7/1/html"/>
-  <updated>2025-05-04T22:04:25.113000+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cti/7/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cti.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cti/html" rel="related"/>
+  <updated>2025-05-06T04:54:42.006310+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cti.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Chemistry Teacher International </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cti.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/cti-2025-frontmatter1</id>
-    <updated>2025-05-04T22:04:25.113028+00:00</updated>
+    <updated>2025-05-06T04:54:42.006340+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cti-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>How does using an AR learning environment affect student learning of a radical substitution mechanism?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0024/html"/>
     <id>https://doi.org/10.1515/cti-2024-0024</id>
-    <updated>2025-05-04T22:04:25.113036+00:00</updated>
+    <updated>2025-05-06T04:54:42.006350+00:00</updated>
     <summary>Article by Martin Bullock, Johannes Huwer, Nicole Graulich
 DOI: https://doi.org/10.1515/cti-2024-0024</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cti-2024-0024</summary>
     <title>Supporting career awareness through job shadowing and industry site visits</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0048/html"/>
     <id>https://doi.org/10.1515/cti-2024-0048</id>
-    <updated>2025-05-04T22:04:25.113048+00:00</updated>
+    <updated>2025-05-06T04:54:42.006359+00:00</updated>
     <summary>Article by Rachel Mamlok-Naaman, Ron Blonder, Jari M. J. Lavonen, Jack Holbrook, Miia Rannikmae
 DOI: https://doi.org/10.1515/cti-2024-0048</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cti-2024-0048</summary>
     <title>Unlocking chemistry calculation proficiency: uncovering student struggles and flipped classroom benefits</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0054/html"/>
     <id>https://doi.org/10.1515/cti-2024-0054</id>
-    <updated>2025-05-04T22:04:25.113057+00:00</updated>
+    <updated>2025-05-06T04:54:42.006367+00:00</updated>
     <summary>Article by Martin Rusek
 DOI: https://doi.org/10.1515/cti-2024-0054</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cti-2024-0054</summary>
     <title>Developments in Chemistry Teacher International (CTI)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2025-0026/html"/>
     <id>https://doi.org/10.1515/cti-2025-0026</id>
-    <updated>2025-05-04T22:04:25.113064+00:00</updated>
+    <updated>2025-05-06T04:54:42.006375+00:00</updated>
     <summary>Article by Mustafa Sözbilir
 DOI: https://doi.org/10.1515/cti-2025-0026</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cti-2025-0026</summary>
     <title>Don’t we know enough about models? Integrating a replication study into an introductory chemistry course in higher education</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2022-0032/html"/>
     <id>https://doi.org/10.1515/cti-2022-0032</id>
-    <updated>2025-05-04T22:04:25.113072+00:00</updated>
+    <updated>2025-05-06T04:54:42.006384+00:00</updated>
     <summary>Article by Marvin Rost, Ines Sonnenschein, Stephanie Möller, Anja Lembens
 DOI: https://doi.org/10.1515/cti-2022-0032</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cti-2022-0032</summary>
     <title>Analysing and developing linguistically responsive tasks within the frame-work of the cross-disciplinary Erasmus+ project sensiMINT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2022-0041/html"/>
     <id>https://doi.org/10.1515/cti-2022-0041</id>
-    <updated>2025-05-04T22:04:25.113080+00:00</updated>
+    <updated>2025-05-06T04:54:42.006392+00:00</updated>
     <summary>Article by Anja Lembens, Rita Elisabeth Krebs
 DOI: https://doi.org/10.1515/cti-2022-0041</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/cti-2022-0041</summary>
     <title>Accessible chemistry: the success of small-scale laboratory kits in South Africa</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2022-0042/html"/>
     <id>https://doi.org/10.1515/cti-2022-0042</id>
-    <updated>2025-05-04T22:04:25.113087+00:00</updated>
+    <updated>2025-05-06T04:54:42.006400+00:00</updated>
     <summary>Article by Maria Henriette du Toit, Jean Isabelle du Toit
 DOI: https://doi.org/10.1515/cti-2022-0042</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/cti-2022-0042</summary>
     <title>Does it occur or not? – A structured approach to support students in determining the spontaneity of chemical reactions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2022-0046/html"/>
     <id>https://doi.org/10.1515/cti-2022-0046</id>
-    <updated>2025-05-04T22:04:25.113094+00:00</updated>
+    <updated>2025-05-06T04:54:42.006408+00:00</updated>
     <summary>Article by Elisabeth Hofer, Rosina Steininger
 DOI: https://doi.org/10.1515/cti-2022-0046</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/cti-2022-0046</summary>
     <title>Teachers’ practices during Emergency Remote Teaching: an investigation of the needs for support and the role of Professional Learning Communities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2022-0048/html"/>
     <id>https://doi.org/10.1515/cti-2022-0048</id>
-    <updated>2025-05-04T22:04:25.113108+00:00</updated>
+    <updated>2025-05-06T04:54:42.006420+00:00</updated>
     <summary>Article by Anat Shauly, Shirly Avargil
 DOI: https://doi.org/10.1515/cti-2022-0048</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/cti-2022-0048</summary>
     <title>An interactive platform for formative assessment and immediate feedback in laboratory courses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2022-0049/html"/>
     <id>https://doi.org/10.1515/cti-2022-0049</id>
-    <updated>2025-05-04T22:04:25.113115+00:00</updated>
+    <updated>2025-05-06T04:54:42.006427+00:00</updated>
     <summary>Article by Ruthy Sfez
 DOI: https://doi.org/10.1515/cti-2022-0049</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/cti-2022-0049</summary>
     <title>Application of the criteria-based assessment system to the tasks of developing the functional literacy of students in teaching chemistry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0002/html"/>
     <id>https://doi.org/10.1515/cti-2024-0002</id>
-    <updated>2025-05-04T22:04:25.113122+00:00</updated>
+    <updated>2025-05-06T04:54:42.006436+00:00</updated>
     <summary>Article by Onlassyn Kulumbetova, Zulfiya Unerbayeva, Leilya Zhussupova, Nursulu Zhussupbekova, Assem Uzakova
 DOI: https://doi.org/10.1515/cti-2024-0002</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/cti-2024-0002</summary>
     <title>Chemistry laboratory experiments focusing on students’ engagement in scientific practices and central ideas of chemical practices</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0070/html"/>
     <id>https://doi.org/10.1515/cti-2024-0070</id>
-    <updated>2025-05-04T22:04:25.113129+00:00</updated>
+    <updated>2025-05-06T04:54:42.006448+00:00</updated>
     <summary>Article by Giannis Moutsakis, Katerina Paschalidou, Katerina Salta
 DOI: https://doi.org/10.1515/cti-2024-0070</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/cti-2024-0070</summary>
     <title>Responses of teachers in Scotland to the reintroduction of the practical project in the advanced higher chemistry curriculum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0073/html"/>
     <id>https://doi.org/10.1515/cti-2024-0073</id>
-    <updated>2025-05-04T22:04:25.113137+00:00</updated>
+    <updated>2025-05-06T04:54:42.006456+00:00</updated>
     <summary>Article by Erin Traynor, Fraser J. Scott, Patrick I. T. Thomson
 DOI: https://doi.org/10.1515/cti-2024-0073</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/cti-2024-0073</summary>
     <title>Analyzing the existing programs on promoting women scientists in chemistry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0076/html"/>
     <id>https://doi.org/10.1515/cti-2024-0076</id>
-    <updated>2025-05-04T22:04:25.113144+00:00</updated>
+    <updated>2025-05-06T04:54:42.006463+00:00</updated>
     <summary>Article by Fun Man Fung, Silvija Markic, Rachel Mamlok-Naaman, Mark Cesa, Mei-Hung Chiu
 DOI: https://doi.org/10.1515/cti-2024-0076</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/cti-2024-0076</summary>
     <title>Using innovative technology tools in organic chemistry education: bibliometric analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0055/html"/>
     <id>https://doi.org/10.1515/cti-2024-0055</id>
-    <updated>2025-05-04T22:04:25.113152+00:00</updated>
+    <updated>2025-05-06T04:54:42.006470+00:00</updated>
     <summary>Article by Aybüke Pabuçcu-Akış
 DOI: https://doi.org/10.1515/cti-2024-0055</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/cti-2024-0055</summary>
     <title>Augmented reality in developing students’ understanding of chemistry triplet: a systematic literature review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cti-2024-0060/html"/>
     <id>https://doi.org/10.1515/cti-2024-0060</id>
-    <updated>2025-05-04T22:04:25.113160+00:00</updated>
+    <updated>2025-05-06T04:54:42.006478+00:00</updated>
     <summary>Article by Luka Ribič, Iztok Devetak
 DOI: https://doi.org/10.1515/cti-2024-0060</summary>
   </entry>

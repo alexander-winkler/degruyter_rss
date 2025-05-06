@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Curved and Layered Structures</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cls/12/1/html"/>
-  <updated>2025-05-04T22:04:00.149377+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cls/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cls.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cls/html" rel="related"/>
+  <updated>2025-05-06T04:54:07.710981+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cls.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Curved and Layered Structures</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cls.xml" type="application/rss+xml"/>
   <entry>
     <title>Layerwise generalized formulation solvedviaa boundary discontinuous method for multilayered structures. Part 1: Plates</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cls-2024-0020/html"/>
     <id>https://doi.org/10.1515/cls-2024-0020</id>
-    <updated>2025-05-04T22:04:00.149408+00:00</updated>
+    <updated>2025-05-06T04:54:07.711009+00:00</updated>
     <summary>Article by Ronaldo Walter Laureano, José Luis Mantari
 DOI: https://doi.org/10.1515/cls-2024-0020</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/cls-2024-0020</summary>
     <title>Thermoelastic interactions in functionally graded materials without energy dissipation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cls-2024-0023/html"/>
     <id>https://doi.org/10.1515/cls-2024-0023</id>
-    <updated>2025-05-04T22:04:00.149416+00:00</updated>
+    <updated>2025-05-06T04:54:07.711023+00:00</updated>
     <summary>Article by Zuhur Alqahtani, Ibrahim Abbas, Alaa A. El-Bary, Areej Almuneef
 DOI: https://doi.org/10.1515/cls-2024-0023</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/cls-2024-0023</summary>
     <title>Layerwise generalized formulation solvedviaboundary discontinuous method for multilayered structures. Part 2: Shells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cls-2024-0022/html"/>
     <id>https://doi.org/10.1515/cls-2024-0022</id>
-    <updated>2025-05-04T22:04:00.149423+00:00</updated>
+    <updated>2025-05-06T04:54:07.711033+00:00</updated>
     <summary>Article by Ronaldo Walter Laureano, José Luis Mantari
 DOI: https://doi.org/10.1515/cls-2024-0022</summary>
   </entry>

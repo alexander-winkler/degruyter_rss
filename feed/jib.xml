@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Integrative Bioinformatics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jib/21/4/html"/>
-  <updated>2025-05-04T22:08:04.865665+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jib/21/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jib.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jib/html" rel="related"/>
+  <updated>2025-05-06T04:59:43.091601+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jib.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Integrative Bioinformatics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jib.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-frontmatter4/html"/>
     <id>https://doi.org/10.1515/jib-2024-frontmatter4</id>
-    <updated>2025-05-04T22:08:04.865712+00:00</updated>
+    <updated>2025-05-06T04:59:43.091634+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jib-2024-frontmatter4</summary>
   </entry>
   <entry>
     <title>TREMSUCS-TCGA – an integrated workflow for the identification of biomarkers for treatment success</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-0031/html"/>
     <id>https://doi.org/10.1515/jib-2024-0031</id>
-    <updated>2025-05-04T22:08:04.865723+00:00</updated>
+    <updated>2025-05-06T04:59:43.091645+00:00</updated>
     <summary>Article by Gabor Balogh, Natasha Jorge, Célia Dupain, Maud Kamal, Nicolas Servant, Christophe Le Tourneau, Peter F. Stadler, Stephan H. Bernhart
 DOI: https://doi.org/10.1515/jib-2024-0031</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jib-2024-0031</summary>
     <title>Exploring the therapeutic potential ofAsparagus africanusin polycystic ovarian syndrome: a computational analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-0019/html"/>
     <id>https://doi.org/10.1515/jib-2024-0019</id>
-    <updated>2025-05-04T22:08:04.865736+00:00</updated>
+    <updated>2025-05-06T04:59:43.091658+00:00</updated>
     <summary>Article by Sania Riaz, Fatima Haider, Rizwan- ur-Rehman, Aqsa Zafar
 DOI: https://doi.org/10.1515/jib-2024-0019</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jib-2024-0019</summary>
     <title>MiRNA target enrichment analysis of co-expression network modules reveals important miRNAs and their roles in breast cancer progression</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2022-0036/html"/>
     <id>https://doi.org/10.1515/jib-2022-0036</id>
-    <updated>2025-05-04T22:08:04.865749+00:00</updated>
+    <updated>2025-05-06T04:59:43.091669+00:00</updated>
     <summary>Article by Mohammad Javad Bazyari, Seyed Hamid Aghaee-Bakhtiari
 DOI: https://doi.org/10.1515/jib-2022-0036</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jib-2022-0036</summary>
     <title>The potential ofMitragyna speciosaleaves as a natural source of antioxidants for disease prevention</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2023-0030/html"/>
     <id>https://doi.org/10.1515/jib-2023-0030</id>
-    <updated>2025-05-04T22:08:04.865758+00:00</updated>
+    <updated>2025-05-06T04:59:43.091678+00:00</updated>
     <summary>Article by Ihsanul Arief, Gagus Ketut Sunnardianto, Syahrul Khairi, Wahyu Dita Saputri
 DOI: https://doi.org/10.1515/jib-2023-0030</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jib-2023-0030</summary>
     <title>Ion channel classification through machine learning and protein language model embeddings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2023-0047/html"/>
     <id>https://doi.org/10.1515/jib-2023-0047</id>
-    <updated>2025-05-04T22:08:04.865767+00:00</updated>
+    <updated>2025-05-06T04:59:43.091690+00:00</updated>
     <summary>Article by Hamed Ghazikhani, Gregory Butler
 DOI: https://doi.org/10.1515/jib-2023-0047</summary>
   </entry>

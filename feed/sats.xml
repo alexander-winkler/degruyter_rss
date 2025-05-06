@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SATS</title>
-  <link href="https://www.degruyterbrill.com/journal/key/sats/25/2/html"/>
-  <updated>2025-05-04T22:12:15.793242+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/sats/25/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/sats/html" rel="related"/>
+  <updated>2025-05-06T05:05:27.659713+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in SATS</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/sats-2024-frontmatter2</id>
-    <updated>2025-05-04T22:12:15.793276+00:00</updated>
+    <updated>2025-05-06T05:05:27.659749+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sats-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>A Brief Note from the Editors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0017/html"/>
     <id>https://doi.org/10.1515/sats-2024-0017</id>
-    <updated>2025-05-04T22:12:15.793287+00:00</updated>
+    <updated>2025-05-06T05:05:27.659758+00:00</updated>
     <summary>Article by Hans Marius Hansteen
 DOI: https://doi.org/10.1515/sats-2024-0017</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/sats-2024-0017</summary>
     <title>Philosophy as Passion for Knowledge: What Kind of History of Philosophy for the 21st Century?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0016/html"/>
     <id>https://doi.org/10.1515/sats-2024-0016</id>
-    <updated>2025-05-04T22:12:15.793297+00:00</updated>
+    <updated>2025-05-06T05:05:27.659769+00:00</updated>
     <summary>Article by Sabrina Ebbersmeyer
 DOI: https://doi.org/10.1515/sats-2024-0016</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/sats-2024-0016</summary>
     <title>Scientific Testability Following the Assumption of Insufficient Knowledge and Resources</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2023-0020/html"/>
     <id>https://doi.org/10.1515/sats-2023-0020</id>
-    <updated>2025-05-04T22:12:15.793306+00:00</updated>
+    <updated>2025-05-06T05:05:27.659776+00:00</updated>
     <summary>Article by Miguel López-Astorga
 DOI: https://doi.org/10.1515/sats-2023-0020</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/sats-2023-0020</summary>
     <title>Do Logical Aliens Think? Frege’s Agent-Relative View of Logic’s Constitutive Role for Thinking</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0002/html"/>
     <id>https://doi.org/10.1515/sats-2024-0002</id>
-    <updated>2025-05-04T22:12:15.793316+00:00</updated>
+    <updated>2025-05-06T05:05:27.659786+00:00</updated>
     <summary>Article by Kristoffer Balslev Willert
 DOI: https://doi.org/10.1515/sats-2024-0002</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/sats-2024-0002</summary>
     <title>Niklas Forsberg:Lectures on a Philosophy Less Ordinary: Language and Morality in J. L. Austin’s Philosophy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2003/html"/>
     <id>https://doi.org/10.1515/sats-2024-2003</id>
-    <updated>2025-05-04T22:12:15.793325+00:00</updated>
+    <updated>2025-05-06T05:05:27.659794+00:00</updated>
     <summary>Article by Rachael Wiseman
 DOI: https://doi.org/10.1515/sats-2024-2003</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/sats-2024-2003</summary>
     <title>Ditte Marie Munch-Jurisic:Perpetrator Disgust. The Moral Limits of Gut Feelings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2002/html"/>
     <id>https://doi.org/10.1515/sats-2024-2002</id>
-    <updated>2025-05-04T22:12:15.793333+00:00</updated>
+    <updated>2025-05-06T05:05:27.659802+00:00</updated>
     <summary>Article by Anne-Marie Søndergaard Christensen
 DOI: https://doi.org/10.1515/sats-2024-2002</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/sats-2024-2002</summary>
     <title>Axel Hutter:Narrative Ontology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2001/html"/>
     <id>https://doi.org/10.1515/sats-2024-2001</id>
-    <updated>2025-05-04T22:12:15.793342+00:00</updated>
+    <updated>2025-05-06T05:05:27.659810+00:00</updated>
     <summary>Article by Alexander Knopf
 DOI: https://doi.org/10.1515/sats-2024-2001</summary>
   </entry>

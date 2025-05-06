@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Forum Mathematicum </title>
-  <link href="https://www.degruyterbrill.com/journal/key/form/37/3/html"/>
-  <updated>2025-05-04T22:05:37.928583+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/form/37/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/form.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/form/html" rel="related"/>
+  <updated>2025-05-06T04:56:24.412226+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/form.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Forum Mathematicum </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/form.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2025-frontmatter3/html"/>
     <id>https://doi.org/10.1515/forum-2025-frontmatter3</id>
-    <updated>2025-05-04T22:05:37.928606+00:00</updated>
+    <updated>2025-05-06T04:56:24.412248+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/forum-2025-frontmatter3</summary>
   </entry>
   <entry>
     <title>Square-integrable representations and the coadjoint action of solvable Lie groups</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2024-0025/html"/>
     <id>https://doi.org/10.1515/forum-2024-0025</id>
-    <updated>2025-05-04T22:05:37.928613+00:00</updated>
+    <updated>2025-05-06T04:56:24.412256+00:00</updated>
     <summary>Article by Ingrid Beltiţă, Daniel Beltiţă
 DOI: https://doi.org/10.1515/forum-2024-0025</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/forum-2024-0025</summary>
     <title>Deviation probabilities for extremal eigenvalues of large Chiral non-Hermitian random matrices</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0253/html"/>
     <id>https://doi.org/10.1515/forum-2023-0253</id>
-    <updated>2025-05-04T22:05:37.928622+00:00</updated>
+    <updated>2025-05-06T04:56:24.412264+00:00</updated>
     <summary>Article by Yutao Ma, Siyu Wang
 DOI: https://doi.org/10.1515/forum-2023-0253</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/forum-2023-0253</summary>
     <title>Nef vector bundles on a hyperquadric with first Chern class two</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0459/html"/>
     <id>https://doi.org/10.1515/forum-2023-0459</id>
-    <updated>2025-05-04T22:05:37.928629+00:00</updated>
+    <updated>2025-05-06T04:56:24.412271+00:00</updated>
     <summary>Article by Masahiro Ohno
 DOI: https://doi.org/10.1515/forum-2023-0459</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/forum-2023-0459</summary>
     <title>Scaling spectrum of a class of self-similar measures with product form on ℝ</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0466/html"/>
     <id>https://doi.org/10.1515/forum-2023-0466</id>
-    <updated>2025-05-04T22:05:37.928636+00:00</updated>
+    <updated>2025-05-06T04:56:24.412277+00:00</updated>
     <summary>Article by Shan-Feng Yi, Min-Min Zhang
 DOI: https://doi.org/10.1515/forum-2023-0466</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/forum-2023-0466</summary>
     <title>Idempotent decomposition of regularity and characterization for the accumulation of associated spectrum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0376/html"/>
     <id>https://doi.org/10.1515/forum-2023-0376</id>
-    <updated>2025-05-04T22:05:37.928643+00:00</updated>
+    <updated>2025-05-06T04:56:24.412286+00:00</updated>
     <summary>Article by Ying Liu, Lining Jiang
 DOI: https://doi.org/10.1515/forum-2023-0376</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/forum-2023-0376</summary>
     <title>Geodesic orbit Randers metrics in homogeneous bundles over generalized Stiefel manifolds</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0256/html"/>
     <id>https://doi.org/10.1515/forum-2023-0256</id>
-    <updated>2025-05-04T22:05:37.928650+00:00</updated>
+    <updated>2025-05-06T04:56:24.412292+00:00</updated>
     <summary>Article by Shaoxiang Zhang, Huibin Chen
 DOI: https://doi.org/10.1515/forum-2023-0256</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/forum-2023-0256</summary>
     <title>Proof of some conjectures of Guo and of Tang</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2024-0101/html"/>
     <id>https://doi.org/10.1515/forum-2024-0101</id>
-    <updated>2025-05-04T22:05:37.928656+00:00</updated>
+    <updated>2025-05-06T04:56:24.412298+00:00</updated>
     <summary>Article by Guoping Gu, Xiaoxia Wang
 DOI: https://doi.org/10.1515/forum-2024-0101</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/forum-2024-0101</summary>
     <title>On Absolute and Quantitative Subspace Theorems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0247/html"/>
     <id>https://doi.org/10.1515/forum-2023-0247</id>
-    <updated>2025-05-04T22:05:37.928662+00:00</updated>
+    <updated>2025-05-06T04:56:24.412304+00:00</updated>
     <summary>Article by Hieu T. Ngo, Si Duc Quang
 DOI: https://doi.org/10.1515/forum-2023-0247</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/forum-2023-0247</summary>
     <title>Birational equivalence of the Zassenhaus varieties for basic classical Lie superalgebras and their purely-even reductive Lie subalgebras in odd characteristic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0326/html"/>
     <id>https://doi.org/10.1515/forum-2023-0326</id>
-    <updated>2025-05-04T22:05:37.928669+00:00</updated>
+    <updated>2025-05-06T04:56:24.412310+00:00</updated>
     <summary>Article by Bin Shu, Lisun Zheng, Ye Ren
 DOI: https://doi.org/10.1515/forum-2023-0326</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/forum-2023-0326</summary>
     <title>Geometric approach to the Moore–Penrose inverse and the polar decomposition of perturbations by operator ideals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2024-0010/html"/>
     <id>https://doi.org/10.1515/forum-2024-0010</id>
-    <updated>2025-05-04T22:05:37.928676+00:00</updated>
+    <updated>2025-05-06T04:56:24.412318+00:00</updated>
     <summary>Article by Eduardo Chiumiento, Pedro Massey
 DOI: https://doi.org/10.1515/forum-2024-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/forum-2024-0010</summary>
     <title>The Weil bound for generalized Kloosterman sums of half-integral weight</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0367/html"/>
     <id>https://doi.org/10.1515/forum-2023-0367</id>
-    <updated>2025-05-04T22:05:37.928682+00:00</updated>
+    <updated>2025-05-06T04:56:24.412324+00:00</updated>
     <summary>Article by Nickolas Andersen, Gradin Anderson, Amy Woodall
 DOI: https://doi.org/10.1515/forum-2023-0367</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/forum-2023-0367</summary>
     <title>Relative Rota–Baxter groups and skew left braces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2024-0020/html"/>
     <id>https://doi.org/10.1515/forum-2024-0020</id>
-    <updated>2025-05-04T22:05:37.928692+00:00</updated>
+    <updated>2025-05-06T04:56:24.412330+00:00</updated>
     <summary>Article by Nishant Rathee, Mahender Singh
 DOI: https://doi.org/10.1515/forum-2024-0020</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/forum-2024-0020</summary>
     <title>Asai gamma factors over finite fields</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2024-0135/html"/>
     <id>https://doi.org/10.1515/forum-2024-0135</id>
-    <updated>2025-05-04T22:05:37.928698+00:00</updated>
+    <updated>2025-05-06T04:56:24.412339+00:00</updated>
     <summary>Article by Jingsong Chai
 DOI: https://doi.org/10.1515/forum-2024-0135</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/forum-2024-0135</summary>
     <title>Representations of non-finitely graded Lie algebras related to Virasoro algebra</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0320/html"/>
     <id>https://doi.org/10.1515/forum-2023-0320</id>
-    <updated>2025-05-04T22:05:37.928705+00:00</updated>
+    <updated>2025-05-06T04:56:24.412345+00:00</updated>
     <summary>Article by Chunguang Xia, Tianyu Ma, Xiao Dong, Mingjing Zhang
 DOI: https://doi.org/10.1515/forum-2023-0320</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/forum-2023-0320</summary>
     <title>Multiple solutions for fractional elliptic systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0457/html"/>
     <id>https://doi.org/10.1515/forum-2023-0457</id>
-    <updated>2025-05-04T22:05:37.928711+00:00</updated>
+    <updated>2025-05-06T04:56:24.412351+00:00</updated>
     <summary>Article by Zhao Guo
 DOI: https://doi.org/10.1515/forum-2023-0457</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/forum-2023-0457</summary>
     <title>Arithmetic Bohr radius for the Minkowski space</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2023-0425/html"/>
     <id>https://doi.org/10.1515/forum-2023-0425</id>
-    <updated>2025-05-04T22:05:37.928718+00:00</updated>
+    <updated>2025-05-06T04:56:24.412356+00:00</updated>
     <summary>Article by Vasudevarao Allu, Himadri Halder, Subhadip Pal
 DOI: https://doi.org/10.1515/forum-2023-0425</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/forum-2023-0425</summary>
     <title>On Strichartz estimates for many-body Schrödinger equation in the periodic setting</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/forum-2024-0105/html"/>
     <id>https://doi.org/10.1515/forum-2024-0105</id>
-    <updated>2025-05-04T22:05:37.928724+00:00</updated>
+    <updated>2025-05-06T04:56:24.412362+00:00</updated>
     <summary>Article by Xiaoqi Huang, Xueying Yu, Zehua Zhao, Jiqiang Zheng
 DOI: https://doi.org/10.1515/forum-2024-0105</summary>
   </entry>

@@ -1,84 +1,81 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chinese Archaeology</title>
-  <link href="https://www.degruyterbrill.com/journal/key/char/24/1/html"/>
-  <updated>2025-05-04T22:03:50.744770+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/char/24/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/char.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/char/html" rel="related"/>
+  <updated>2025-05-06T04:53:54.916902+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/char.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Chinese Archaeology</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/char.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/char-2024-frontmatter1</id>
-    <updated>2025-05-04T22:03:50.744792+00:00</updated>
+    <updated>2025-05-06T04:53:54.916920+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Paleolithic site of Xuetang Liangzi in Shiyan, Hubei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0001/html"/>
     <id>https://doi.org/10.1515/char-2024-0001</id>
-    <updated>2025-05-04T22:03:50.744801+00:00</updated>
+    <updated>2025-05-06T04:53:54.916927+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0001</summary>
   </entry>
   <entry>
     <title>Sitai Neolithic site in Shangyi, Hebei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0002/html"/>
     <id>https://doi.org/10.1515/char-2024-0002</id>
-    <updated>2025-05-04T22:03:50.744805+00:00</updated>
+    <updated>2025-05-06T04:53:54.916934+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0002</summary>
   </entry>
   <entry>
     <title>Neolithic site of Nanzuo in Qingyang, Gansu</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0003/html"/>
     <id>https://doi.org/10.1515/char-2024-0003</id>
-    <updated>2025-05-04T22:03:50.744809+00:00</updated>
+    <updated>2025-05-06T04:53:54.916940+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0003</summary>
   </entry>
   <entry>
     <title>Shang royal mausoleum area and its surroundings at Yinxu in Anyang, Henan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0004/html"/>
     <id>https://doi.org/10.1515/char-2024-0004</id>
-    <updated>2025-05-04T22:03:50.744813+00:00</updated>
+    <updated>2025-05-06T04:53:54.916946+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0004</summary>
   </entry>
   <entry>
     <title>Bronze Age site at Hebosuo in Kunming, Yunnan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0005/html"/>
     <id>https://doi.org/10.1515/char-2024-0005</id>
-    <updated>2025-05-04T22:03:50.744817+00:00</updated>
+    <updated>2025-05-06T04:53:54.916952+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0005</summary>
   </entry>
   <entry>
     <title>Xixia Suyukou porcelain kiln site in Helan, Ningxia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0006/html"/>
     <id>https://doi.org/10.1515/char-2024-0006</id>
-    <updated>2025-05-04T22:03:50.744821+00:00</updated>
+    <updated>2025-05-06T04:53:54.916958+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0006</summary>
   </entry>
   <entry>
     <title>Dawenkou culture cemetery at the southern Gangshang site in Tengzhou, Shandong</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0007/html"/>
     <id>https://doi.org/10.1515/char-2024-0007</id>
-    <updated>2025-05-04T22:03:50.744825+00:00</updated>
+    <updated>2025-05-06T04:53:54.916964+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0007</summary>
   </entry>
   <entry>
     <title>The excavation of the Tang tombs of Dai Zhou and his wife in Chang’an District, Xi’an</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0008/html"/>
     <id>https://doi.org/10.1515/char-2024-0008</id>
-    <updated>2025-05-04T22:03:50.744829+00:00</updated>
+    <updated>2025-05-06T04:53:54.916973+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/char-2024-0008</summary>
   </entry>
   <entry>
     <title>The three grand cultural spheres of the Holocene Eurasian Continent</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0009/html"/>
     <id>https://doi.org/10.1515/char-2024-0009</id>
-    <updated>2025-05-04T22:03:50.744833+00:00</updated>
+    <updated>2025-05-06T04:53:54.916980+00:00</updated>
     <summary>Article by Jianye Han
 DOI: https://doi.org/10.1515/char-2024-0009</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/char-2024-0009</summary>
     <title>Preliminary discussions on painted pottery in Neolithic China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0010/html"/>
     <id>https://doi.org/10.1515/char-2024-0010</id>
-    <updated>2025-05-04T22:03:50.744838+00:00</updated>
+    <updated>2025-05-06T04:53:54.916987+00:00</updated>
     <summary>Article by Jun He
 DOI: https://doi.org/10.1515/char-2024-0010</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/char-2024-0010</summary>
     <title>A comparative study on the jade drilling technology of ancient Mesoamerican civilizations and prehistoric China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0011/html"/>
     <id>https://doi.org/10.1515/char-2024-0011</id>
-    <updated>2025-05-04T22:03:50.744843+00:00</updated>
+    <updated>2025-05-06T04:53:54.916994+00:00</updated>
     <summary>Article by Yadi Wen
 DOI: https://doi.org/10.1515/char-2024-0011</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/char-2024-0011</summary>
     <title>Seima-Turbino-type bronze spearheads from Xiawanggang in Xichuan and the implications for north-south cultural exchange</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0012/html"/>
     <id>https://doi.org/10.1515/char-2024-0012</id>
-    <updated>2025-05-04T22:03:50.744848+00:00</updated>
+    <updated>2025-05-06T04:53:54.917001+00:00</updated>
     <summary>Article by Peng Wang
 DOI: https://doi.org/10.1515/char-2024-0012</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/char-2024-0012</summary>
     <title>“Export” of ninth- to tenth-century Chinese bronze mirrors: Shipwreck findings from the Java Sea</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0013/html"/>
     <id>https://doi.org/10.1515/char-2024-0013</id>
-    <updated>2025-05-04T22:03:50.744853+00:00</updated>
+    <updated>2025-05-06T04:53:54.917008+00:00</updated>
     <summary>Article by Canping Chen
 DOI: https://doi.org/10.1515/char-2024-0013</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/char-2024-0013</summary>
     <title>Biological evolutionary insights into the origins of agriculture: Evidence from the origin of rice agriculture</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/char-2024-0014/html"/>
     <id>https://doi.org/10.1515/char-2024-0014</id>
-    <updated>2025-05-04T22:03:50.744858+00:00</updated>
+    <updated>2025-05-06T04:53:54.917014+00:00</updated>
     <summary>Article by Zhijun Zhao
 DOI: https://doi.org/10.1515/char-2024-0014</summary>
   </entry>

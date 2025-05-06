@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Perspektiven der Wirtschaftspolitik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pwp/25/3-4/html"/>
-  <updated>2025-05-04T22:11:31.594587+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pwp/25/3-4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pwp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pwp/html" rel="related"/>
+  <updated>2025-05-06T05:04:26.521813+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pwp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Perspektiven der Wirtschaftspolitik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pwp.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-frontmatter3-4/html"/>
     <id>https://doi.org/10.1515/pwp-2024-frontmatter3-4</id>
-    <updated>2025-05-04T22:11:31.594612+00:00</updated>
+    <updated>2025-05-06T05:04:26.521836+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pwp-2024-frontmatter3-4</summary>
   </entry>
   <entry>
     <title>Preisträger im Fokus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0033/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0033</id>
-    <updated>2025-05-04T22:11:31.594619+00:00</updated>
+    <updated>2025-05-06T05:04:26.521845+00:00</updated>
     <summary>Article by Achim Wambach
 DOI: https://doi.org/10.1515/pwp-2024-0033</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/pwp-2024-0033</summary>
     <title>„Die zweite Amtszeit Trumps wird vermutlich sehr viel folgenschwerer als die erste“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0031/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0031</id>
-    <updated>2025-05-04T22:11:31.594627+00:00</updated>
+    <updated>2025-05-06T05:04:26.521854+00:00</updated>
     <summary>Article by Christoph Trebesch
 DOI: https://doi.org/10.1515/pwp-2024-0031</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/pwp-2024-0031</summary>
     <title>„Es ist nicht so einfach, gegen falsche Überzeugungen anzugehen“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0025/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0025</id>
-    <updated>2025-05-04T22:11:31.594633+00:00</updated>
+    <updated>2025-05-06T05:04:26.521862+00:00</updated>
     <summary>Article by Philipp Strack
 DOI: https://doi.org/10.1515/pwp-2024-0025</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/pwp-2024-0025</summary>
     <title>Planetarische Müllabfuhr – Gamechanger der Klimapolitik?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0028/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0028</id>
-    <updated>2025-05-04T22:11:31.594639+00:00</updated>
+    <updated>2025-05-06T05:04:26.521869+00:00</updated>
     <summary>Article by Ottmar Edenhofer, Matthias Kalkuhl
 DOI: https://doi.org/10.1515/pwp-2024-0028</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/pwp-2024-0028</summary>
     <title>Der CO2-Preis in Deutschland: Verteilungswirkungen und Möglichkeiten der Rückverteilung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2023-0057/html"/>
     <id>https://doi.org/10.1515/pwp-2023-0057</id>
-    <updated>2025-05-04T22:11:31.594645+00:00</updated>
+    <updated>2025-05-06T05:04:26.521876+00:00</updated>
     <summary>Article by Kathrin Kaestner, Lisa Kruse, Antonia Schwarz, Stephan Sommer
 DOI: https://doi.org/10.1515/pwp-2023-0057</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/pwp-2023-0057</summary>
     <title>CO₂-Bepreisung in Deutschland: Kenntnisstand der Bevölkerung im Jahr 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2023-0031/html"/>
     <id>https://doi.org/10.1515/pwp-2023-0031</id>
-    <updated>2025-05-04T22:11:31.594651+00:00</updated>
+    <updated>2025-05-06T05:04:26.521884+00:00</updated>
     <summary>Article by Jana Eßer, Manuel Frondel, Stephan Sommer, Julia Wittmann
 DOI: https://doi.org/10.1515/pwp-2023-0031</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/pwp-2023-0031</summary>
     <title>Analyse der Einkommens- und Beschäftigungswirkungen einer Einführung des CDU-Konzepts der „Aktiv-Rente“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0022/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0022</id>
-    <updated>2025-05-04T22:11:31.594657+00:00</updated>
+    <updated>2025-05-06T05:04:26.521892+00:00</updated>
     <summary>Article by Eduard Brüll, Friedhelm Pfeiffer, Nicolas Ziebarth
 DOI: https://doi.org/10.1515/pwp-2024-0022</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/pwp-2024-0022</summary>
     <title>Nachhaltige Finanzierung der gesetzlichen Rentenversicherung durch inter- und intragenerative Umverteilung – ein Reformvorschlag als Generationenkompromiss</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0015/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0015</id>
-    <updated>2025-05-04T22:11:31.594664+00:00</updated>
+    <updated>2025-05-06T05:04:26.521900+00:00</updated>
     <summary>Article by Stefan Seuffert, Philipp Toussaint
 DOI: https://doi.org/10.1515/pwp-2024-0015</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/pwp-2024-0015</summary>
     <title>Die Bedeutung der beruflichen Weiterbildung für die Arbeitsmarktintegration von Geflüchteten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2023-0048/html"/>
     <id>https://doi.org/10.1515/pwp-2023-0048</id>
-    <updated>2025-05-04T22:11:31.594671+00:00</updated>
+    <updated>2025-05-06T05:04:26.521908+00:00</updated>
     <summary>Article by Julia Bredtmann, Lisa Sofie Höckel
 DOI: https://doi.org/10.1515/pwp-2023-0048</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/pwp-2023-0048</summary>
     <title>Bedingungsloses vs. haushaltstyp- und wohnortabhängiges Grundeinkommen: Simulation verschiedener Reformszenarien für Deutschland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2023-0036/html"/>
     <id>https://doi.org/10.1515/pwp-2023-0036</id>
-    <updated>2025-05-04T22:11:31.594677+00:00</updated>
+    <updated>2025-05-06T05:04:26.521915+00:00</updated>
     <summary>Article by Benjamin Bätz, Susanne Becker, Frank Calisse, Frank Englmann, Niklas Isaak, Robin Jessen, Jonathan Thiele
 DOI: https://doi.org/10.1515/pwp-2023-0036</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/pwp-2023-0036</summary>
     <title>Die Ungleichheit der zu versteuernden Vermögen in der Schweiz während der Covid-19-Pandemie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pwp-2024-0004/html"/>
     <id>https://doi.org/10.1515/pwp-2024-0004</id>
-    <updated>2025-05-04T22:11:31.594684+00:00</updated>
+    <updated>2025-05-06T05:04:26.521923+00:00</updated>
     <summary>Article by Matthias Krapf
 DOI: https://doi.org/10.1515/pwp-2024-0004</summary>
   </entry>

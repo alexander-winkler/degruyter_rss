@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SIRIUS – Zeitschrift für Strategische Analysen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/sirius/8/4/html"/>
-  <updated>2025-05-04T22:12:25.155869+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/sirius/8/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sirius.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/sirius/html" rel="related"/>
+  <updated>2025-05-06T05:05:40.485820+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sirius.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in SIRIUS – Zeitschrift für Strategische Analysen</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sirius.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-frontmatter4/html"/>
     <id>https://doi.org/10.1515/sirius-2024-frontmatter4</id>
-    <updated>2025-05-04T22:12:25.155892+00:00</updated>
+    <updated>2025-05-06T05:05:40.485841+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-frontmatter4</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4022/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4022</id>
-    <updated>2025-05-04T22:12:25.155899+00:00</updated>
+    <updated>2025-05-06T05:05:40.485848+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4022</summary>
   </entry>
   <entry>
     <title>Bildnachweise</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4021/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4021</id>
-    <updated>2025-05-04T22:12:25.155904+00:00</updated>
+    <updated>2025-05-06T05:05:40.485853+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4021</summary>
   </entry>
   <entry>
     <title>Quellen des Nahöstlichen Antisemitismus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4001/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4001</id>
-    <updated>2025-05-04T22:12:25.155909+00:00</updated>
+    <updated>2025-05-06T05:05:40.485858+00:00</updated>
     <summary>Article by Herbert Landolin Müller
 DOI: https://doi.org/10.1515/sirius-2024-4001</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4001</summary>
     <title>Der Informationskrieg des Irans</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4002/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4002</id>
-    <updated>2025-05-04T22:12:25.155916+00:00</updated>
+    <updated>2025-05-06T05:05:40.485865+00:00</updated>
     <summary>Article by Sara Bazoobandi
 DOI: https://doi.org/10.1515/sirius-2024-4002</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4002</summary>
     <title>Chinas Fähigkeiten im Bereich der Unterwasser-Seekriegsführung: Technologische Aspekte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4003/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4003</id>
-    <updated>2025-05-04T22:12:25.155922+00:00</updated>
+    <updated>2025-05-06T05:05:40.485871+00:00</updated>
     <summary>Article by Sarah Kirchberger
 DOI: https://doi.org/10.1515/sirius-2024-4003</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4003</summary>
     <title>Kritische Rohstoffabhängigkeiten und Lieferketten-Resilienz – ein Fall für die geheimen Nachrichtendienste?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4004/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4004</id>
-    <updated>2025-05-04T22:12:25.155928+00:00</updated>
+    <updated>2025-05-06T05:05:40.485878+00:00</updated>
     <summary>Article by Jakob Kullik, Sophia Hoffmann
 DOI: https://doi.org/10.1515/sirius-2024-4004</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4004</summary>
     <title>Vorschläge für eine neue Russland-Strategie der NATO</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4005/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4005</id>
-    <updated>2025-05-04T22:12:25.155933+00:00</updated>
+    <updated>2025-05-06T05:05:40.485883+00:00</updated>
     <summary>Article by Gerlinde Niehus
 DOI: https://doi.org/10.1515/sirius-2024-4005</summary>
   </entry>
@@ -76,147 +73,147 @@ DOI: https://doi.org/10.1515/sirius-2024-4005</summary>
     <title>Jack Watling/Nick Reynolds: Tactical Lessons from Israel Defense Forces Operations in Gaza, 2023. London: Royal United Services Institute (RUSI), Juli 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4006/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4006</id>
-    <updated>2025-05-04T22:12:25.155939+00:00</updated>
+    <updated>2025-05-06T05:05:40.485889+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4006</summary>
   </entry>
   <entry>
     <title>Hassan Alhasan/Camille Lons:Gulf Bailout Diplomacy: Aid as Economic Statecraft in a Turbulent Region. London: IISS, Oktober 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4007/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4007</id>
-    <updated>2025-05-04T22:12:25.155945+00:00</updated>
+    <updated>2025-05-06T05:05:40.485895+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4007</summary>
   </entry>
   <entry>
     <title>Brian Katulis, with Benjamin Freedman and Sydney Taylor: The Limits of Biden’s Middle East Diplomacy. An Assessment of US Policy. Washington, D.C.: The Middle East Institute, Juli 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4008/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4008</id>
-    <updated>2025-05-04T22:12:25.155952+00:00</updated>
+    <updated>2025-05-06T05:05:40.485902+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4008</summary>
   </entry>
   <entry>
     <title>Samual Charap/Khrystyna Holynska:Russia’s War Aims in Ukraine. Objective-Setting and the Kremlin’s Use of Force Abroad. St. Monica, Cal.: The RAND Corporation, August 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4009/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4009</id>
-    <updated>2025-05-04T22:12:25.155959+00:00</updated>
+    <updated>2025-05-06T05:05:40.485908+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4009</summary>
   </entry>
   <entry>
     <title>Dara Massicot:Russian Military Wartime Personnel Recruiting and Retention 2022–2023. St. Monica: The RAND Corporation, Juli 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4010/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4010</id>
-    <updated>2025-05-04T22:12:25.155966+00:00</updated>
+    <updated>2025-05-06T05:05:40.485913+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4010</summary>
   </entry>
   <entry>
     <title>Dapo Akande/Olivier Corten/Shotaro Hamamoto/Pierre Klein/Harold Hongju Koh/Paul Reichler/Hélène Ruiz Fabri/Philippe Sands/Nico Schrijver/Christian J. Tams/Philip Zelikow:On Proposed Countermeasures Against Russia to Compensate Injured States for Losses Caused by Russia’s War of Aggression Against Ukraine. London: International Institute for Strategic Studies, Mai 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4011/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4011</id>
-    <updated>2025-05-04T22:12:25.155973+00:00</updated>
+    <updated>2025-05-06T05:05:40.485920+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4011</summary>
   </entry>
   <entry>
     <title>Lt. General (Ret.) Keith Kellogg/Fred Fleitz:America First, Russia, &amp; Ukraine. Washington, D.C.: America First Policy Institute – Center for American Security, April 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4012/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4012</id>
-    <updated>2025-05-04T22:12:25.155978+00:00</updated>
+    <updated>2025-05-06T05:05:40.485925+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4012</summary>
   </entry>
   <entry>
     <title>Katherine L. Kuzminski/Taren Sylvester:Back to the Drafting Board. U.S. Draft Mobilization Capability for Modern Operational Requirements. Washington, D.C.: Center for a New American Security, Juni 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4013/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4013</id>
-    <updated>2025-05-04T22:12:25.155983+00:00</updated>
+    <updated>2025-05-06T05:05:40.485931+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4013</summary>
   </entry>
   <entry>
     <title>Stacie Pettyjohn/Hannah Dennis/Molly Campbell:Swarms over the Strait. Drone Warfare in a Future Fight to Defend Taiwan. Washington, D.C.: CNAS</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4014/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4014</id>
-    <updated>2025-05-04T22:12:25.155988+00:00</updated>
+    <updated>2025-05-06T05:05:40.485936+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4014</summary>
   </entry>
   <entry>
     <title>Markus Schiller:Der große Sprung. Chinas ballistisches Raketenprogramm. Ein technischer Bericht. Hamburg: Institut für Friedensforschung und Sicherheitspolitik, Mai 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4015/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4015</id>
-    <updated>2025-05-04T22:12:25.155993+00:00</updated>
+    <updated>2025-05-06T05:05:40.485942+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4015</summary>
   </entry>
   <entry>
     <title>Jack Watling/Nick Reynolds: Tactical Lessons from Israel Defense Forces Operations in Gaza, 2023. London: Royal United Services Institute (RUSI), Juli 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4006/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4006</id>
-    <updated>2025-05-04T22:12:25.155998+00:00</updated>
+    <updated>2025-05-06T05:05:40.485947+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4006</summary>
   </entry>
   <entry>
     <title>Hassan Alhasan/Camille Lons:Gulf Bailout Diplomacy: Aid as Economic Statecraft in a Turbulent Region. London: IISS, Oktober 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4007/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4007</id>
-    <updated>2025-05-04T22:12:25.156003+00:00</updated>
+    <updated>2025-05-06T05:05:40.485954+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4007</summary>
   </entry>
   <entry>
     <title>Brian Katulis, with Benjamin Freedman and Sydney Taylor: The Limits of Biden’s Middle East Diplomacy. An Assessment of US Policy. Washington, D.C.: The Middle East Institute, Juli 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4008/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4008</id>
-    <updated>2025-05-04T22:12:25.156008+00:00</updated>
+    <updated>2025-05-06T05:05:40.485959+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4008</summary>
   </entry>
   <entry>
     <title>Samual Charap/Khrystyna Holynska:Russia’s War Aims in Ukraine. Objective-Setting and the Kremlin’s Use of Force Abroad. St. Monica, Cal.: The RAND Corporation, August 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4009/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4009</id>
-    <updated>2025-05-04T22:12:25.156014+00:00</updated>
+    <updated>2025-05-06T05:05:40.485965+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4009</summary>
   </entry>
   <entry>
     <title>Dara Massicot:Russian Military Wartime Personnel Recruiting and Retention 2022–2023. St. Monica: The RAND Corporation, Juli 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4010/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4010</id>
-    <updated>2025-05-04T22:12:25.156019+00:00</updated>
+    <updated>2025-05-06T05:05:40.485970+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4010</summary>
   </entry>
   <entry>
     <title>Dapo Akande/Olivier Corten/Shotaro Hamamoto/Pierre Klein/Harold Hongju Koh/Paul Reichler/Hélène Ruiz Fabri/Philippe Sands/Nico Schrijver/Christian J. Tams/Philip Zelikow:On Proposed Countermeasures Against Russia to Compensate Injured States for Losses Caused by Russia’s War of Aggression Against Ukraine. London: International Institute for Strategic Studies, Mai 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4011/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4011</id>
-    <updated>2025-05-04T22:12:25.156026+00:00</updated>
+    <updated>2025-05-06T05:05:40.485976+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4011</summary>
   </entry>
   <entry>
     <title>Lt. General (Ret.) Keith Kellogg/Fred Fleitz:America First, Russia, &amp; Ukraine. Washington, D.C.: America First Policy Institute – Center for American Security, April 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4012/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4012</id>
-    <updated>2025-05-04T22:12:25.156031+00:00</updated>
+    <updated>2025-05-06T05:05:40.485982+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4012</summary>
   </entry>
   <entry>
     <title>Katherine L. Kuzminski/Taren Sylvester:Back to the Drafting Board. U.S. Draft Mobilization Capability for Modern Operational Requirements. Washington, D.C.: Center for a New American Security, Juni 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4013/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4013</id>
-    <updated>2025-05-04T22:12:25.156036+00:00</updated>
+    <updated>2025-05-06T05:05:40.485987+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4013</summary>
   </entry>
   <entry>
     <title>Stacie Pettyjohn/Hannah Dennis/Molly Campbell:Swarms over the Strait. Drone Warfare in a Future Fight to Defend Taiwan. Washington, D.C.: CNAS</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4014/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4014</id>
-    <updated>2025-05-04T22:12:25.156041+00:00</updated>
+    <updated>2025-05-06T05:05:40.485992+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4014</summary>
   </entry>
   <entry>
     <title>Markus Schiller:Der große Sprung. Chinas ballistisches Raketenprogramm. Ein technischer Bericht. Hamburg: Institut für Friedensforschung und Sicherheitspolitik, Mai 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4015/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4015</id>
-    <updated>2025-05-04T22:12:25.156046+00:00</updated>
+    <updated>2025-05-06T05:05:40.485997+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sirius-2024-4015</summary>
   </entry>
   <entry>
     <title>Rashid Khalidi:Der Hundertjährige Krieg um Palästina. Eine Geschichte von Siedlerkolonialismus und Widerstand. Zürich: Unionsverlag 2024, 379 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4016/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4016</id>
-    <updated>2025-05-04T22:12:25.156051+00:00</updated>
+    <updated>2025-05-06T05:05:40.486003+00:00</updated>
     <summary>Article by Eckhard Jesse
 DOI: https://doi.org/10.1515/sirius-2024-4016</summary>
   </entry>
@@ -224,7 +221,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4016</summary>
     <title>Henry Farrell/ Abraham Newman:Underground Empire. How America Weaponized the World Economy. London: Allen Lane 2023, 278 Seiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4017/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4017</id>
-    <updated>2025-05-04T22:12:25.156057+00:00</updated>
+    <updated>2025-05-06T05:05:40.486008+00:00</updated>
     <summary>Article by Joachim Krause
 DOI: https://doi.org/10.1515/sirius-2024-4017</summary>
   </entry>
@@ -232,7 +229,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4017</summary>
     <title>Boris Bondarew:Im Ministerium der Lügen. Ein russischer Diplomat über Moskaus Machtspiele, seinen Bruch mit dem Putin-Regime und die Zukunft Russlands. München: Wilhelm Heyne Verlag 2023, 255 Seiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4018/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4018</id>
-    <updated>2025-05-04T22:12:25.156063+00:00</updated>
+    <updated>2025-05-06T05:05:40.486014+00:00</updated>
     <summary>Article by Jakob Kullik
 DOI: https://doi.org/10.1515/sirius-2024-4018</summary>
   </entry>
@@ -240,7 +237,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4018</summary>
     <title>Frank Bösch:Deals mit Diktaturen. Eine andere Geschichte der Bundesrepublik. C.H. Beck: München 2024, 622 Seiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4019/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4019</id>
-    <updated>2025-05-04T22:12:25.156068+00:00</updated>
+    <updated>2025-05-06T05:05:40.486021+00:00</updated>
     <summary>Article by Jakob Kullik
 DOI: https://doi.org/10.1515/sirius-2024-4019</summary>
   </entry>
@@ -248,7 +245,7 @@ DOI: https://doi.org/10.1515/sirius-2024-4019</summary>
     <title>Antje Nötzold/ Enrico Fels/ Andrea Rotter/ Moritz Brake (Hrsg.):Strategischer Wettbewerb im Weltraum. Politik, Recht, Sicherheit und Wirtschaft im All. Wiesbaden: Springer Nature, 2024, 883 Seiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sirius-2024-4020/html"/>
     <id>https://doi.org/10.1515/sirius-2024-4020</id>
-    <updated>2025-05-04T22:12:25.156074+00:00</updated>
+    <updated>2025-05-06T05:05:40.486027+00:00</updated>
     <summary>Article by Kai-Uwe Schrogl
 DOI: https://doi.org/10.1515/sirius-2024-4020</summary>
   </entry>

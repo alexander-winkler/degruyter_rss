@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Digital Culture &amp; Society</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dcs/10/1/html"/>
-  <updated>2025-05-04T22:04:32.573066+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dcs/10/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dcs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dcs/html" rel="related"/>
+  <updated>2025-05-06T04:54:53.095019+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dcs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Digital Culture &amp; Society</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dcs.xml" type="application/rss+xml"/>
   <entry>
     <title>Title</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-frontmatter01/html"/>
     <id>https://doi.org/10.14361/dcs-2024-frontmatter01</id>
-    <updated>2025-05-04T22:04:32.573098+00:00</updated>
+    <updated>2025-05-06T04:54:53.095055+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/dcs-2024-frontmatter01</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0111/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0111</id>
-    <updated>2025-05-04T22:04:32.573109+00:00</updated>
+    <updated>2025-05-06T04:54:53.095064+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/dcs-2024-0111</summary>
   </entry>
   <entry>
     <title>Content</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-toc01/html"/>
     <id>https://doi.org/10.14361/dcs-2024-toc01</id>
-    <updated>2025-05-04T22:04:32.573116+00:00</updated>
+    <updated>2025-05-06T04:54:53.095071+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/dcs-2024-toc01</summary>
   </entry>
   <entry>
     <title>Digital War</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0102/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0102</id>
-    <updated>2025-05-04T22:04:32.573123+00:00</updated>
+    <updated>2025-05-06T04:54:53.095078+00:00</updated>
     <summary>Article by Anna Näslund, Ramón Reichert
 DOI: https://doi.org/10.14361/dcs-2024-0102</summary>
   </entry>
@@ -44,14 +41,14 @@ DOI: https://doi.org/10.14361/dcs-2024-0102</summary>
     <title>Biographical Notes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0110/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0110</id>
-    <updated>2025-05-04T22:04:32.573133+00:00</updated>
+    <updated>2025-05-06T04:54:53.095089+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/dcs-2024-0110</summary>
   </entry>
   <entry>
     <title>War, Authoritarianism &amp; Technology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0103/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0103</id>
-    <updated>2025-05-04T22:04:32.573140+00:00</updated>
+    <updated>2025-05-06T04:54:53.095096+00:00</updated>
     <summary>Article by Tatsiana Astrouskaya
 DOI: https://doi.org/10.14361/dcs-2024-0103</summary>
   </entry>
@@ -59,7 +56,7 @@ DOI: https://doi.org/10.14361/dcs-2024-0103</summary>
     <title>Izolyatsia: A Factory, But a Different One</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0104/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0104</id>
-    <updated>2025-05-04T22:04:32.573147+00:00</updated>
+    <updated>2025-05-06T04:54:53.095103+00:00</updated>
     <summary>Article by Lesia Kulchynska
 DOI: https://doi.org/10.14361/dcs-2024-0104</summary>
   </entry>
@@ -67,7 +64,7 @@ DOI: https://doi.org/10.14361/dcs-2024-0104</summary>
     <title>Sensitive Subjects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0105/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0105</id>
-    <updated>2025-05-04T22:04:32.573154+00:00</updated>
+    <updated>2025-05-06T04:54:53.095110+00:00</updated>
     <summary>Article by Yana Lysenko
 DOI: https://doi.org/10.14361/dcs-2024-0105</summary>
   </entry>
@@ -75,7 +72,7 @@ DOI: https://doi.org/10.14361/dcs-2024-0105</summary>
     <title>Living Through Narratives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0106/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0106</id>
-    <updated>2025-05-04T22:04:32.573161+00:00</updated>
+    <updated>2025-05-06T04:54:53.095116+00:00</updated>
     <summary>Article by Serhii Zasiekin
 DOI: https://doi.org/10.14361/dcs-2024-0106</summary>
   </entry>
@@ -83,7 +80,7 @@ DOI: https://doi.org/10.14361/dcs-2024-0106</summary>
     <title>Strategic Deception</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0107/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0107</id>
-    <updated>2025-05-04T22:04:32.573168+00:00</updated>
+    <updated>2025-05-06T04:54:53.095123+00:00</updated>
     <summary>Article by Maksim Markelov
 DOI: https://doi.org/10.14361/dcs-2024-0107</summary>
   </entry>
@@ -91,7 +88,7 @@ DOI: https://doi.org/10.14361/dcs-2024-0107</summary>
     <title>Strategies and Tactics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0108/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0108</id>
-    <updated>2025-05-04T22:04:32.573177+00:00</updated>
+    <updated>2025-05-06T04:54:53.095132+00:00</updated>
     <summary>Article by Max Kramer
 DOI: https://doi.org/10.14361/dcs-2024-0108</summary>
   </entry>
@@ -99,7 +96,7 @@ DOI: https://doi.org/10.14361/dcs-2024-0108</summary>
     <title>When the war goes viral</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/dcs-2024-0109/html"/>
     <id>https://doi.org/10.14361/dcs-2024-0109</id>
-    <updated>2025-05-04T22:04:32.573187+00:00</updated>
+    <updated>2025-05-06T04:54:53.095139+00:00</updated>
     <summary>Article by Elena Korowin
 DOI: https://doi.org/10.14361/dcs-2024-0109</summary>
   </entry>

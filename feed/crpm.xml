@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Case Reports in Perinatal Medicine</title>
-  <link href="https://www.degruyterbrill.com/journal/key/crpm/14/1/html"/>
-  <updated>2025-05-04T22:04:20.527114+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/crpm/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crpm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/crpm/html" rel="related"/>
+  <updated>2025-05-06T04:54:35.551118+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crpm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Case Reports in Perinatal Medicine</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/crpm.xml" type="application/rss+xml"/>
   <entry>
     <title>Serial echocardiography in preterm infants with bronchopulmonary dysplasia: diagnosing and managing recurrent pulmonary vein stenosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/crpm-2024-0038/html"/>
     <id>https://doi.org/10.1515/crpm-2024-0038</id>
-    <updated>2025-05-04T22:04:20.527143+00:00</updated>
+    <updated>2025-05-06T04:54:35.551138+00:00</updated>
     <summary>Article by Oishi Sikdar, Mahesh Nanjundappa, Aaron Bell, Matthew Jones, Anne Greenough
 DOI: https://doi.org/10.1515/crpm-2024-0038</summary>
   </entry>

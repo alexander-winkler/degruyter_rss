@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Revista Internacional de Lingüística Iberoamericana</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rili/22/44/html"/>
-  <updated>2025-05-04T22:11:56.054161+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/rili/22/44/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rili.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rili/html" rel="related"/>
+  <updated>2025-05-06T05:04:59.908241+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rili.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Revista Internacional de Lingüística Iberoamericana</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rili.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-frontmatter2244/html"/>
     <id>https://doi.org/10.31819/rili-2024-frontmatter2244</id>
-    <updated>2025-05-04T22:11:56.054184+00:00</updated>
+    <updated>2025-05-06T05:04:59.908257+00:00</updated>
     <summary>DOI: https://doi.org/10.31819/rili-2024-frontmatter2244</summary>
   </entry>
   <entry>
     <title>ÍNDICE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-toc2244/html"/>
     <id>https://doi.org/10.31819/rili-2024-toc2244</id>
-    <updated>2025-05-04T22:11:56.054192+00:00</updated>
+    <updated>2025-05-06T05:04:59.908263+00:00</updated>
     <summary>DOI: https://doi.org/10.31819/rili-2024-toc2244</summary>
   </entry>
   <entry>
     <title>Normas editoriales</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224427/html"/>
     <id>https://doi.org/10.31819/rili-2024-224427</id>
-    <updated>2025-05-04T22:11:56.054197+00:00</updated>
+    <updated>2025-05-06T05:04:59.908268+00:00</updated>
     <summary>DOI: https://doi.org/10.31819/rili-2024-224427</summary>
   </entry>
   <entry>
     <title>Géneros textuales y tradiciones discursivas en la historia de los lenguajes de especialidad. Introducción a la sección temática / Textual Genres and Discursive Traditions in the History of Specialized Languages. Introduction to the Thematic Section</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224401/html"/>
     <id>https://doi.org/10.31819/rili-2024-224401</id>
-    <updated>2025-05-04T22:11:56.054203+00:00</updated>
+    <updated>2025-05-06T05:04:59.908274+00:00</updated>
     <summary>Article by Jenny Brumme, Natalia Terrón Vinagre
 DOI: https://doi.org/10.31819/rili-2024-224401</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.31819/rili-2024-224401</summary>
     <title>¿Nuevas tradiciones discursivas? Reflexiones sobre la actualización de tradiciones discursivas utilizando el ejemplo de las enciclopedias medievales / New Discourse Traditions? Reflections about the Actualization of Discourse Traditions, Using the Example of Medieval Encyclopedias</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224402/html"/>
     <id>https://doi.org/10.31819/rili-2024-224402</id>
-    <updated>2025-05-04T22:11:56.054212+00:00</updated>
+    <updated>2025-05-06T05:04:59.908282+00:00</updated>
     <summary>Article by Elmar Eggert
 DOI: https://doi.org/10.31819/rili-2024-224402</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.31819/rili-2024-224402</summary>
     <title>Análisis discursivo del lenguaje científico español emergente en dos manuscritos farmacéuticos del siglo XVIII / Discursive Analysis of the Emerging Spanish Scientific Language in Two Pharmaceutical Manuscripts from the 18thCentury</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224403/html"/>
     <id>https://doi.org/10.31819/rili-2024-224403</id>
-    <updated>2025-05-04T22:11:56.054219+00:00</updated>
+    <updated>2025-05-06T05:04:59.908288+00:00</updated>
     <summary>Article by Leonie Ette
 DOI: https://doi.org/10.31819/rili-2024-224403</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.31819/rili-2024-224403</summary>
     <title>El “mozo de laboratorio” del Madrid científico: la prensa como género discursivo crítico para el debate sobre las lenguas de especialidad* / The “mozo de laboratorio” of Madrid científico: The Press as a Critical Discursive Genre for the Discussion on Specialized Languages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224404/html"/>
     <id>https://doi.org/10.31819/rili-2024-224404</id>
-    <updated>2025-05-04T22:11:56.054226+00:00</updated>
+    <updated>2025-05-06T05:04:59.908295+00:00</updated>
     <summary>Article by Miguel Ángel Puche Lorenzo, Cecilio Garriga Escribano
 DOI: https://doi.org/10.31819/rili-2024-224404</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.31819/rili-2024-224404</summary>
     <title>Los vocabularios de los Manuales Gallach y la divulgación del lenguaje especializado / The Vocabularies of the Manuales Gallach and the Dissemination of Specialized Language</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224405/html"/>
     <id>https://doi.org/10.31819/rili-2024-224405</id>
-    <updated>2025-05-04T22:11:56.054232+00:00</updated>
+    <updated>2025-05-06T05:04:59.908301+00:00</updated>
     <summary>Article by José Antonio Moreno Villanueva
 DOI: https://doi.org/10.31819/rili-2024-224405</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.31819/rili-2024-224405</summary>
     <title>Doble translación del lenguaje de especialidad: en género textual y en idioma. El ejemplo de Marianela de Pérez Galdós en dos versiones alemanas / Double Translation of Language for Special Purposes: In Textual Genre and in Language. The Example of Benito Pérez Galdós’ Novel Marianela in Two German Versions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224406/html"/>
     <id>https://doi.org/10.31819/rili-2024-224406</id>
-    <updated>2025-05-04T22:11:56.054239+00:00</updated>
+    <updated>2025-05-06T05:04:59.908308+00:00</updated>
     <summary>Article by Ursula Wienen
 DOI: https://doi.org/10.31819/rili-2024-224406</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.31819/rili-2024-224406</summary>
     <title>L’aforística al servei de la higiene. Una aproximació a la Higiene rural ó reglas de sanitat al us dels homes del camp (1888) de Narcís Fages de Romà / Aphorisms to Serve Hygiene. An Approach to the Rural Hygiene or Health Rules for the Use of Country Men (1888) by Narcís Fages de Romà.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224407/html"/>
     <id>https://doi.org/10.31819/rili-2024-224407</id>
-    <updated>2025-05-04T22:11:56.054246+00:00</updated>
+    <updated>2025-05-06T05:04:59.908314+00:00</updated>
     <summary>Article by Jenny Brumme
 DOI: https://doi.org/10.31819/rili-2024-224407</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.31819/rili-2024-224407</summary>
     <title>Definición, surgimiento y transformaciones de un género lexicográfico en español: el caso de los diccionarios de sinónimos* / Definition, Emergence and Transformations of a Lexicographic Genre in Spanish: The Case of the Synonym Dictionaries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224408/html"/>
     <id>https://doi.org/10.31819/rili-2024-224408</id>
-    <updated>2025-05-04T22:11:56.054252+00:00</updated>
+    <updated>2025-05-06T05:04:59.908342+00:00</updated>
     <summary>Article by Daniel M. Sáez Rivera
 DOI: https://doi.org/10.31819/rili-2024-224408</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.31819/rili-2024-224408</summary>
     <title>Construcciones multiverbales de verbo finito coordinadas en español / Coordinated Finite Multiverb Constructions in Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224409/html"/>
     <id>https://doi.org/10.31819/rili-2024-224409</id>
-    <updated>2025-05-04T22:11:56.054258+00:00</updated>
+    <updated>2025-05-06T05:04:59.908347+00:00</updated>
     <summary>Article by Carlos González Vergara, Verónica Orqueda, Matías Jaque Hidalgo, Felipe Hasler Sandoval, Silvana Guerrero González
 DOI: https://doi.org/10.31819/rili-2024-224409</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.31819/rili-2024-224409</summary>
     <title>Anda ya, venga ya. La peculiar historia de dos fórmulas pragmáticas del español peninsular / Anda ya, venga ya. The Peculiar History of Two Pragmatic Formulas in Peninsular Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224410/html"/>
     <id>https://doi.org/10.31819/rili-2024-224410</id>
-    <updated>2025-05-04T22:11:56.054264+00:00</updated>
+    <updated>2025-05-06T05:04:59.908353+00:00</updated>
     <summary>Article by Carmela Pérez-Salazar
 DOI: https://doi.org/10.31819/rili-2024-224410</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.31819/rili-2024-224410</summary>
     <title>Orientaciones idiolectacles ante la variación y el cambio lingüístico en los textos de Valle-Inclán / Idiolectal Orientations to Lingüístic Variation and Change in the Texts of Valle-Inclán</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224411/html"/>
     <id>https://doi.org/10.31819/rili-2024-224411</id>
-    <updated>2025-05-04T22:11:56.054270+00:00</updated>
+    <updated>2025-05-06T05:04:59.908358+00:00</updated>
     <summary>Article by Francisco Javier Vellón Lahoz
 DOI: https://doi.org/10.31819/rili-2024-224411</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.31819/rili-2024-224411</summary>
     <title>Susana Rodríguez Rosique / Jordi M. Antolí Martínez (eds.): Verb and Context. The Impact of Shared Knowledge on TAME Categories</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224412/html"/>
     <id>https://doi.org/10.31819/rili-2024-224412</id>
-    <updated>2025-05-04T22:11:56.054279+00:00</updated>
+    <updated>2025-05-06T05:04:59.908364+00:00</updated>
     <summary>Article by Borja Alonso Pascua
 DOI: https://doi.org/10.31819/rili-2024-224412</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.31819/rili-2024-224412</summary>
     <title>Miguel Rodríguez Monteavaro: Estudiu llingüísticu nel centru-occidente asturianu. Pequeñu atles dialectográficu.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224413/html"/>
     <id>https://doi.org/10.31819/rili-2024-224413</id>
-    <updated>2025-05-04T22:11:56.054285+00:00</updated>
+    <updated>2025-05-06T05:04:59.908369+00:00</updated>
     <summary>Article by Elena Álvarez Rodríguez, Diego García Riesgo
 DOI: https://doi.org/10.31819/rili-2024-224413</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.31819/rili-2024-224413</summary>
     <title>Eva Patricia Velásquez-Upegui / Diana Marcela Muñoz-Builes (eds.): El estudio de la entonación. Enfoques y perspectivas</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224414/html"/>
     <id>https://doi.org/10.31819/rili-2024-224414</id>
-    <updated>2025-05-04T22:11:56.054291+00:00</updated>
+    <updated>2025-05-06T05:04:59.908374+00:00</updated>
     <summary>Article by Víctor Bargiela
 DOI: https://doi.org/10.31819/rili-2024-224414</summary>
   </entry>
@@ -148,7 +145,7 @@ DOI: https://doi.org/10.31819/rili-2024-224414</summary>
     <title>Silvina Montrul. The Acquisition of Heritage Languages. Cambridge: Cambridge University Press</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224415/html"/>
     <id>https://doi.org/10.31819/rili-2024-224415</id>
-    <updated>2025-05-04T22:11:56.054297+00:00</updated>
+    <updated>2025-05-06T05:04:59.908379+00:00</updated>
     <summary>Article by Ivo H. G. Boers
 DOI: https://doi.org/10.31819/rili-2024-224415</summary>
   </entry>
@@ -156,7 +153,7 @@ DOI: https://doi.org/10.31819/rili-2024-224415</summary>
     <title>Carsten Sinner (ed.): Clases y categorías en el análisis de la variación lingüística</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224416/html"/>
     <id>https://doi.org/10.31819/rili-2024-224416</id>
-    <updated>2025-05-04T22:11:56.054302+00:00</updated>
+    <updated>2025-05-06T05:04:59.908384+00:00</updated>
     <summary>Article by Amina Claire Cadiñanos Chapman
 DOI: https://doi.org/10.31819/rili-2024-224416</summary>
   </entry>
@@ -164,7 +161,7 @@ DOI: https://doi.org/10.31819/rili-2024-224416</summary>
     <title>Andreas H. Jucker / Heiko Hausendorf (eds.): Pragmatics of Space</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224417/html"/>
     <id>https://doi.org/10.31819/rili-2024-224417</id>
-    <updated>2025-05-04T22:11:56.054308+00:00</updated>
+    <updated>2025-05-06T05:04:59.908389+00:00</updated>
     <summary>Article by Victoria Escandell-Vidal
 DOI: https://doi.org/10.31819/rili-2024-224417</summary>
   </entry>
@@ -172,7 +169,7 @@ DOI: https://doi.org/10.31819/rili-2024-224417</summary>
     <title>Silvia Iglesias Recuero (coord.): Pragmática histórica del español. Formas de tratamiento, actos de habla y construcción del diálogo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224418/html"/>
     <id>https://doi.org/10.31819/rili-2024-224418</id>
-    <updated>2025-05-04T22:11:56.054313+00:00</updated>
+    <updated>2025-05-06T05:04:59.908394+00:00</updated>
     <summary>Article by Marta Fernández Alcaide
 DOI: https://doi.org/10.31819/rili-2024-224418</summary>
   </entry>
@@ -180,7 +177,7 @@ DOI: https://doi.org/10.31819/rili-2024-224418</summary>
     <title>Miguel Casas Gómez / Carmen Varo Varo (coords.): La terminología de la semántica</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224419/html"/>
     <id>https://doi.org/10.31819/rili-2024-224419</id>
-    <updated>2025-05-04T22:11:56.054319+00:00</updated>
+    <updated>2025-05-06T05:04:59.908400+00:00</updated>
     <summary>Article by Iolanda Galanes-Santos
 DOI: https://doi.org/10.31819/rili-2024-224419</summary>
   </entry>
@@ -188,7 +185,7 @@ DOI: https://doi.org/10.31819/rili-2024-224419</summary>
     <title>Papeletas lexicográficas del Padre Galo. Edición preparada por Ramón d’Andrés, Marta Pérez Toral, Mª Teresa Cristina García Álvarez</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224420/html"/>
     <id>https://doi.org/10.31819/rili-2024-224420</id>
-    <updated>2025-05-04T22:11:56.054324+00:00</updated>
+    <updated>2025-05-06T05:04:59.908406+00:00</updated>
     <summary>Article by José Enrique Gargallo Gil, Claudia Elena Menéndez Fernández
 DOI: https://doi.org/10.31819/rili-2024-224420</summary>
   </entry>
@@ -196,7 +193,7 @@ DOI: https://doi.org/10.31819/rili-2024-224420</summary>
     <title>Lola Pons Rodríguez: El español es un mundo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224421/html"/>
     <id>https://doi.org/10.31819/rili-2024-224421</id>
-    <updated>2025-05-04T22:11:56.054330+00:00</updated>
+    <updated>2025-05-06T05:04:59.908411+00:00</updated>
     <summary>Article by Carlos Miguel Guardiola Díaz
 DOI: https://doi.org/10.31819/rili-2024-224421</summary>
   </entry>
@@ -204,7 +201,7 @@ DOI: https://doi.org/10.31819/rili-2024-224421</summary>
     <title>Ignacio Tirapu León: Semántica de la sufijación valorativa en español oral contemporáneo. M.ª</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224422/html"/>
     <id>https://doi.org/10.31819/rili-2024-224422</id>
-    <updated>2025-05-04T22:11:56.054336+00:00</updated>
+    <updated>2025-05-06T05:04:59.908417+00:00</updated>
     <summary>Article by Natalia Medina Domínguez
 DOI: https://doi.org/10.31819/rili-2024-224422</summary>
   </entry>
@@ -212,7 +209,7 @@ DOI: https://doi.org/10.31819/rili-2024-224422</summary>
     <title>Chase Wesles Raymond / Luis Manuel Olguín: Análisis de la conversación: fundamentos, metodología y alcances</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224423/html"/>
     <id>https://doi.org/10.31819/rili-2024-224423</id>
-    <updated>2025-05-04T22:11:56.054341+00:00</updated>
+    <updated>2025-05-06T05:04:59.908422+00:00</updated>
     <summary>Article by María Morcillo Aparicio
 DOI: https://doi.org/10.31819/rili-2024-224423</summary>
   </entry>
@@ -220,7 +217,7 @@ DOI: https://doi.org/10.31819/rili-2024-224423</summary>
     <title>Miguel Á Perdomo-Batista: Filología e ilustración en España. El discurso sobre la decadencia en las letras españolas del siglo XVIII</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224424/html"/>
     <id>https://doi.org/10.31819/rili-2024-224424</id>
-    <updated>2025-05-04T22:11:56.054347+00:00</updated>
+    <updated>2025-05-06T05:04:59.908427+00:00</updated>
     <summary>Article by Mario Pedrazuela Fuentes
 DOI: https://doi.org/10.31819/rili-2024-224424</summary>
   </entry>
@@ -228,7 +225,7 @@ DOI: https://doi.org/10.31819/rili-2024-224424</summary>
     <title>Ralph Hayward Keniston: The Syntax of Castilian Prose. The Sixteenth Century, introducción de Lola Pons</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224425/html"/>
     <id>https://doi.org/10.31819/rili-2024-224425</id>
-    <updated>2025-05-04T22:11:56.054353+00:00</updated>
+    <updated>2025-05-06T05:04:59.908432+00:00</updated>
     <summary>Article by Marta Puente González
 DOI: https://doi.org/10.31819/rili-2024-224425</summary>
   </entry>
@@ -236,7 +233,7 @@ DOI: https://doi.org/10.31819/rili-2024-224425</summary>
     <title>Brandon Baird / Osmer Balam / M. Carmen Parafita Couto (eds.): Linguistic Advances in Central American Spanish.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31819/rili-2024-224426/html"/>
     <id>https://doi.org/10.31819/rili-2024-224426</id>
-    <updated>2025-05-04T22:11:56.054358+00:00</updated>
+    <updated>2025-05-06T05:04:59.908437+00:00</updated>
     <summary>Article by José Luis Ramírez Luengo
 DOI: https://doi.org/10.31819/rili-2024-224426</summary>
   </entry>

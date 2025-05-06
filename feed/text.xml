@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Text &amp; Talk</title>
-  <link href="https://www.degruyterbrill.com/journal/key/text/45/3/html"/>
-  <updated>2025-05-04T22:12:54.687595+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/text/45/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/text.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/text/html" rel="related"/>
+  <updated>2025-05-06T05:06:21.790317+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/text.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Text &amp; Talk</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/text.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2025-frontmatter3/html"/>
     <id>https://doi.org/10.1515/text-2025-frontmatter3</id>
-    <updated>2025-05-04T22:12:54.687638+00:00</updated>
+    <updated>2025-05-06T05:06:21.790351+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/text-2025-frontmatter3</summary>
   </entry>
   <entry>
     <title>How do AI and human users interact? Positioning of AI and human users in customer service</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2023-0116/html"/>
     <id>https://doi.org/10.1515/text-2023-0116</id>
-    <updated>2025-05-04T22:12:54.687649+00:00</updated>
+    <updated>2025-05-06T05:06:21.790360+00:00</updated>
     <summary>Article by So-Yeon Ahn, Seonghoon Kim, Eun-Young Lee, Hyunjong Lee, Eun-Young Song, Junehwa Song, Jongseo Won
 DOI: https://doi.org/10.1515/text-2023-0116</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/text-2023-0116</summary>
     <title>Turning talk into text: the representation of contemporary urban vernaculars in Swedish fiction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2023-0084/html"/>
     <id>https://doi.org/10.1515/text-2023-0084</id>
-    <updated>2025-05-04T22:12:54.687661+00:00</updated>
+    <updated>2025-05-06T05:06:21.790370+00:00</updated>
     <summary>Article by Natalia Ganuza, Maria Rydell
 DOI: https://doi.org/10.1515/text-2023-0084</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/text-2023-0084</summary>
     <title>Children’s invoking of school rules in directive sequences with adults at home and school: mobilizing the teacher and school artefacts as authoritative sources</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2023-0101/html"/>
     <id>https://doi.org/10.1515/text-2023-0101</id>
-    <updated>2025-05-04T22:12:54.687671+00:00</updated>
+    <updated>2025-05-06T05:06:21.790384+00:00</updated>
     <summary>Article by Nicola Nasi, Vittoria Colla
 DOI: https://doi.org/10.1515/text-2023-0101</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/text-2023-0101</summary>
     <title>“The results might not fully represent…”:Negationin the limitations sections of doctoral theses by Chinese and American students</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2023-0076/html"/>
     <id>https://doi.org/10.1515/text-2023-0076</id>
-    <updated>2025-05-04T22:12:54.687681+00:00</updated>
+    <updated>2025-05-06T05:06:21.790392+00:00</updated>
     <summary>Article by Shuyi Amelia Sun, Feng (Kevin) Jiang
 DOI: https://doi.org/10.1515/text-2023-0076</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/text-2023-0076</summary>
     <title>“We usually use paragraph one to introduce the topic”: trust building via appraisals by practicum EFL teachers in classroom interactions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2023-0111/html"/>
     <id>https://doi.org/10.1515/text-2023-0111</id>
-    <updated>2025-05-04T22:12:54.687690+00:00</updated>
+    <updated>2025-05-06T05:06:21.790400+00:00</updated>
     <summary>Article by Xueyu Wang, Xiangxiang Ni
 DOI: https://doi.org/10.1515/text-2023-0111</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/text-2023-0111</summary>
     <title>“Guided by the science”: a keyword analysis of government ministers’ and scientists’ stance in the UK government’s COVID-19 press briefings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/text-2023-0100/html"/>
     <id>https://doi.org/10.1515/text-2023-0100</id>
-    <updated>2025-05-04T22:12:54.687699+00:00</updated>
+    <updated>2025-05-06T05:06:21.790407+00:00</updated>
     <summary>Article by Ying Wang
 DOI: https://doi.org/10.1515/text-2023-0100</summary>
   </entry>

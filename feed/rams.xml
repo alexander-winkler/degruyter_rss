@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>REVIEWS ON ADVANCED MATERIALS SCIENCE</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rams/64/1/html"/>
-  <updated>2025-05-04T22:11:40.318336+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/rams/64/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rams.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rams/html" rel="related"/>
+  <updated>2025-05-06T05:04:38.109270+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rams.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in REVIEWS ON ADVANCED MATERIALS SCIENCE</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rams.xml" type="application/rss+xml"/>
   <entry>
     <title>Utilization of steel slag in concrete: A review on durability and microstructure analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0086/html"/>
     <id>https://doi.org/10.1515/rams-2025-0086</id>
-    <updated>2025-05-04T22:11:40.318364+00:00</updated>
+    <updated>2025-05-06T05:04:38.109290+00:00</updated>
     <summary>Article by Hisham Jahangir Qureshi, Saeed Abdulkhaliq Alghamdi, Ali Majdi, Jawad Ahmad, Cut Rahmawati, Wael Alattyih, Abdullah Alzlfawi
 DOI: https://doi.org/10.1515/rams-2025-0086</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/rams-2025-0086</summary>
     <title>Technical development of modified emulsion asphalt: A review on the preparation, performance, and applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2024-0078/html"/>
     <id>https://doi.org/10.1515/rams-2024-0078</id>
-    <updated>2025-05-04T22:11:40.318373+00:00</updated>
+    <updated>2025-05-06T05:04:38.109299+00:00</updated>
     <summary>Article by Yang Zhang, Jing Hao, Hao Liu, Conglin Chen, Shuang Shi
 DOI: https://doi.org/10.1515/rams-2024-0078</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/rams-2024-0078</summary>
     <title>Recent developments in ultrasonic welding of similar and dissimilar joints of carbon fiber reinforcement thermoplastics with and without interlayer: A state-of-the-art review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2024-0077/html"/>
     <id>https://doi.org/10.1515/rams-2024-0077</id>
-    <updated>2025-05-04T22:11:40.318382+00:00</updated>
+    <updated>2025-05-06T05:04:38.109306+00:00</updated>
     <summary>Article by Zummurd Al Mahmoud, Mohammed Asmael, Rosli Ahmad, Saeid Sahmani, Kamila Kotrasova, Mária Mihaliková, David Hui, Babak Safaei
 DOI: https://doi.org/10.1515/rams-2024-0077</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/rams-2024-0077</summary>
     <title>Unveiling the crucial factors and coating mitigation of solid particle erosion in steam turbine blade failures: A review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0089/html"/>
     <id>https://doi.org/10.1515/rams-2025-0089</id>
-    <updated>2025-05-04T22:11:40.318389+00:00</updated>
+    <updated>2025-05-06T05:04:38.109314+00:00</updated>
     <summary>Article by Nur Syahirah Zainuddin, Wan Fathul Hakim W. Zamri, Mohd Zaidi Omar, Muhamad Faiz bin Md Din, Ahmad Afiq bin Pauzi
 DOI: https://doi.org/10.1515/rams-2025-0089</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/rams-2025-0089</summary>
     <title>From magnesium oxide, magnesium oxide concrete to magnesium oxide concrete dams</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0094/html"/>
     <id>https://doi.org/10.1515/rams-2025-0094</id>
-    <updated>2025-05-04T22:11:40.318398+00:00</updated>
+    <updated>2025-05-06T05:04:38.109320+00:00</updated>
     <summary>Article by Changli Chen, Rongfei Chen
 DOI: https://doi.org/10.1515/rams-2025-0094</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/rams-2025-0094</summary>
     <title>Properties and potential applications of polymer composites containing secondary fillers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0105/html"/>
     <id>https://doi.org/10.1515/rams-2025-0105</id>
-    <updated>2025-05-04T22:11:40.318404+00:00</updated>
+    <updated>2025-05-06T05:04:38.109326+00:00</updated>
     <summary>Article by Ahmad Adlie Shamsuri, Siti Nurul Ain Md. Jamil, Mazni Abu Zarin, Khalina Abdan
 DOI: https://doi.org/10.1515/rams-2025-0105</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/rams-2025-0105</summary>
     <title>A scientometric review on the utilization of copper slag as a substitute constituent of ordinary Portland cement concrete</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2024-0082/html"/>
     <id>https://doi.org/10.1515/rams-2024-0082</id>
-    <updated>2025-05-04T22:11:40.318410+00:00</updated>
+    <updated>2025-05-06T05:04:38.109332+00:00</updated>
     <summary>Article by Raheel Arif, Muhammad Faisal Javed, Raheel Asghar, Ammar Iqtidar, Bilal Ahmed, Rayed Alyousef, Mohsin Ali Khan
 DOI: https://doi.org/10.1515/rams-2024-0082</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/rams-2024-0082</summary>
     <title>Investigation of the corrosion performance of HVOF-sprayed WC-CoCr coatings applied on offshore hydraulic equipment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2024-0066/html"/>
     <id>https://doi.org/10.1515/rams-2024-0066</id>
-    <updated>2025-05-04T22:11:40.318416+00:00</updated>
+    <updated>2025-05-06T05:04:38.109338+00:00</updated>
     <summary>Article by Zhihui Xing, Na Wang, Lei Fan, Li Shang, Lianzhou Yu
 DOI: https://doi.org/10.1515/rams-2024-0066</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/rams-2024-0066</summary>
     <title>A systematic review of metakaolin-based alkali-activated and geopolymer concrete: A step toward green concrete</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2024-0076/html"/>
     <id>https://doi.org/10.1515/rams-2024-0076</id>
-    <updated>2025-05-04T22:11:40.318428+00:00</updated>
+    <updated>2025-05-06T05:04:38.109345+00:00</updated>
     <summary>Article by Diyar N. Qader, Ary Shehab Jamil, Alireza Bahrami, Mujahid Ali, Krishna Prakash Arunachalam
 DOI: https://doi.org/10.1515/rams-2024-0076</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/rams-2024-0076</summary>
     <title>Evaluation of color matching of three single-shade composites employing simulated 3D printed cavities with different thicknesses using CIELAB and CIEDE2000 color difference formulae</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0087/html"/>
     <id>https://doi.org/10.1515/rams-2025-0087</id>
-    <updated>2025-05-04T22:11:40.318435+00:00</updated>
+    <updated>2025-05-06T05:04:38.109351+00:00</updated>
     <summary>Article by Engin Kariper, Aylin Cilingir
 DOI: https://doi.org/10.1515/rams-2025-0087</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/rams-2025-0087</summary>
     <title>Novel approaches in prediction of tensile strain capacity of engineered cementitious composites using interpretable approaches</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0088/html"/>
     <id>https://doi.org/10.1515/rams-2025-0088</id>
-    <updated>2025-05-04T22:11:40.318441+00:00</updated>
+    <updated>2025-05-06T05:04:38.109358+00:00</updated>
     <summary>Article by Turki S. Alahmari, Furqan Farooq
 DOI: https://doi.org/10.1515/rams-2025-0088</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/rams-2025-0088</summary>
     <title>Effect of TiB2particles on the compressive, hardness, and water absorption responses of Kulkual fiber-reinforced epoxy composites</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0090/html"/>
     <id>https://doi.org/10.1515/rams-2025-0090</id>
-    <updated>2025-05-04T22:11:40.318447+00:00</updated>
+    <updated>2025-05-06T05:04:38.109364+00:00</updated>
     <summary>Article by Kiran Shahapurkar, Gangadhar Kanaginahal, Venkatesh Chenrayan, Nik Nazri Nik Ghazali, Tze Mei Kuan, Azrul Mohd Ariffin, Arulraj Arunachalam, Yasser Fouad, Manzoore Elahi M. Soudagar, Hanabe Chowdappa Ananda Murthy
 DOI: https://doi.org/10.1515/rams-2025-0090</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/rams-2025-0090</summary>
     <title>Analyzing the compressive strength, eco-strength, and cost–strength ratio of agro-waste-derived concrete using advanced machine learning methods</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0091/html"/>
     <id>https://doi.org/10.1515/rams-2025-0091</id>
-    <updated>2025-05-04T22:11:40.318456+00:00</updated>
+    <updated>2025-05-06T05:04:38.109371+00:00</updated>
     <summary>Article by Muhammad Nasir Amin, Bawar Iftikhar, Kaffayatullah Khan, Muhammad Tahir Qadir
 DOI: https://doi.org/10.1515/rams-2025-0091</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/rams-2025-0091</summary>
     <title>Tensile behavior evaluation of two-stage concrete using an innovative model optimization approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0097/html"/>
     <id>https://doi.org/10.1515/rams-2025-0097</id>
-    <updated>2025-05-04T22:11:40.318462+00:00</updated>
+    <updated>2025-05-06T05:04:38.109377+00:00</updated>
     <summary>Article by Muhammad Nasir Amin, Faizullah Jan, Kaffayatullah Khan, Suleman Ayub Khan, Muhammad Tahir Qadir, Marcin Kujawa
 DOI: https://doi.org/10.1515/rams-2025-0097</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/rams-2025-0097</summary>
     <title>Tailoring the mechanical and degradation properties of 3DP PLA/PCL scaffolds for biomedical applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0098/html"/>
     <id>https://doi.org/10.1515/rams-2025-0098</id>
-    <updated>2025-05-04T22:11:40.318467+00:00</updated>
+    <updated>2025-05-06T05:04:38.109383+00:00</updated>
     <summary>Article by Sumama Nuthana Kalva, Yahya Zakaria, Carlos A. Velasquez, Muammer Koç
 DOI: https://doi.org/10.1515/rams-2025-0098</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/rams-2025-0098</summary>
     <title>Optimizing compressive strength prediction in glass powder-modified concrete: A comprehensive study on silicon dioxide and calcium oxide influence across varied sample dimensions and strength ranges</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0095/html"/>
     <id>https://doi.org/10.1515/rams-2025-0095</id>
-    <updated>2025-05-04T22:11:40.318473+00:00</updated>
+    <updated>2025-05-06T05:04:38.109389+00:00</updated>
     <summary>Article by Maryam Basil Ishaq, Ahmed Salih Mohammed
 DOI: https://doi.org/10.1515/rams-2025-0095</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/rams-2025-0095</summary>
     <title>Experimental study on solid particle erosion of protective aircraft coatings at different impact angles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0100/html"/>
     <id>https://doi.org/10.1515/rams-2025-0100</id>
-    <updated>2025-05-04T22:11:40.318478+00:00</updated>
+    <updated>2025-05-06T05:04:38.109396+00:00</updated>
     <summary>Article by Minggong Sha, Yutong Li, Ying Sun, Yiming Liu, Aleksei Mednikov, Aleksander Tkhabisimov, Sergey Grigoryev, Yulong Li
 DOI: https://doi.org/10.1515/rams-2025-0100</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/rams-2025-0100</summary>
     <title>Compatibility between polyurea resin modifier and asphalt binder based on segregation and rheological parameters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0102/html"/>
     <id>https://doi.org/10.1515/rams-2025-0102</id>
-    <updated>2025-05-04T22:11:40.318484+00:00</updated>
+    <updated>2025-05-06T05:04:38.109402+00:00</updated>
     <summary>Article by Jianfeng Gao, Tao Guo, Sen Chen, Xiaolong Sun, Xiao Qin, Yunchu Zhu
 DOI: https://doi.org/10.1515/rams-2025-0102</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/rams-2025-0102</summary>
     <title>Fe-containing nominal wollastonite (CaSiO3)–Na2O glass-ceramic: Characterization and biocompatibility</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0101/html"/>
     <id>https://doi.org/10.1515/rams-2025-0101</id>
-    <updated>2025-05-04T22:11:40.318489+00:00</updated>
+    <updated>2025-05-06T05:04:38.109408+00:00</updated>
     <summary>Article by Samah S. Eldera, Sarah Aldawsari, Esmat M. A. Hamzawy, Gehan T. El-Bassyouni
 DOI: https://doi.org/10.1515/rams-2025-0101</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/rams-2025-0101</summary>
     <title>Relevance of pore network connectivity in tannin-derived carbons for rapid detection of BTEX traces in indoor air</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0103/html"/>
     <id>https://doi.org/10.1515/rams-2025-0103</id>
-    <updated>2025-05-04T22:11:40.318494+00:00</updated>
+    <updated>2025-05-06T05:04:38.109417+00:00</updated>
     <summary>Article by Achraf El Mohajir, Jimena Castro-Gutiérrez, Alain Celzard, Franck Berger, Vanessa Fierro, Jean-Baptiste Sanchez
 DOI: https://doi.org/10.1515/rams-2025-0103</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/rams-2025-0103</summary>
     <title>A life cycle and environmental impact analysis of sustainable concrete incorporating date palm ash and eggshell powder as supplementary cementitious materials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0104/html"/>
     <id>https://doi.org/10.1515/rams-2025-0104</id>
-    <updated>2025-05-04T22:11:40.318500+00:00</updated>
+    <updated>2025-05-06T05:04:38.109423+00:00</updated>
     <summary>Article by Musa Adamu, Mohammed Rihan Maaze, Ashwin Raut, Yasser E. Ibrahim, Hani Alanazi
 DOI: https://doi.org/10.1515/rams-2025-0104</summary>
   </entry>
@@ -183,15 +180,23 @@ DOI: https://doi.org/10.1515/rams-2025-0104</summary>
     <title>Eco-friendly utilisation of agricultural waste: Assessing mixture performance and physical properties of asphalt modified with peanut husk ash using response surface methodology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0107/html"/>
     <id>https://doi.org/10.1515/rams-2025-0107</id>
-    <updated>2025-05-04T22:11:40.318505+00:00</updated>
+    <updated>2025-05-06T05:04:38.109430+00:00</updated>
     <summary>Article by Alaaeldin A. A. Abdelmagid, Aichen Yue, Guocan Chen, Hai Guo, Aboubaker I. B. Idriss
 DOI: https://doi.org/10.1515/rams-2025-0107</summary>
+  </entry>
+  <entry>
+    <title>Benefits and limitations of N2addition with Ar as shielding gas on microstructure change and their effect on hardness and corrosion resistance of duplex stainless steel weldments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0108/html"/>
+    <id>https://doi.org/10.1515/rams-2025-0108</id>
+    <updated>2025-05-06T05:04:38.109436+00:00</updated>
+    <summary>Article by Mohamed S. Melad, Mohamed A. Gebril, Farag M. Shuaeib, Thabet M. Elrabei, Dawod Elabar, Farag I. Haider, Osama M. Irfan
+DOI: https://doi.org/10.1515/rams-2025-0108</summary>
   </entry>
   <entry>
     <title>Investigating the effect of locally available volcanic ash on mechanical and microstructure properties of concrete</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2024-0085/html"/>
     <id>https://doi.org/10.1515/rams-2024-0085</id>
-    <updated>2025-05-04T22:11:40.318511+00:00</updated>
+    <updated>2025-05-06T05:04:38.109441+00:00</updated>
     <summary>Article by Abdullah F. Al Asmari, Muhammad Iqbal Bashir, Furqan Farooq, Usama Asif
 DOI: https://doi.org/10.1515/rams-2024-0085</summary>
   </entry>
@@ -199,7 +204,7 @@ DOI: https://doi.org/10.1515/rams-2024-0085</summary>
     <title>Flexural performance evaluation using computational tools for plastic-derived mortar modified with blends of industrial waste powders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0092/html"/>
     <id>https://doi.org/10.1515/rams-2025-0092</id>
-    <updated>2025-05-04T22:11:40.318517+00:00</updated>
+    <updated>2025-05-06T05:04:38.109447+00:00</updated>
     <summary>Article by Ahmed A. Alawi Al-Naghi, Suleman Ayub Khan, Nawaf Alnawmasi, Muhammad Nasir Amin, Omar Algassem, Muhammad Faisal Javed, Enamur R. Latifee
 DOI: https://doi.org/10.1515/rams-2025-0092</summary>
   </entry>
@@ -207,7 +212,7 @@ DOI: https://doi.org/10.1515/rams-2025-0092</summary>
     <title>Foamed geopolymers as low carbon materials for fire-resistant and lightweight applications in construction: A review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rams-2025-0096/html"/>
     <id>https://doi.org/10.1515/rams-2025-0096</id>
-    <updated>2025-05-04T22:11:40.318523+00:00</updated>
+    <updated>2025-05-06T05:04:38.109454+00:00</updated>
     <summary>Article by Muhammad Nasir Amin, Bawar Iftikhar, Kaffayatullah Khan, Nashwan Adnan Othman, Muhammad Tahir Qadir
 DOI: https://doi.org/10.1515/rams-2025-0096</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Practical Metallography</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pm/62/5/html"/>
-  <updated>2025-05-04T22:11:11.822772+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pm/62/5/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pm/html" rel="related"/>
+  <updated>2025-05-06T05:03:58.584502+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Practical Metallography</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml" type="application/rss+xml"/>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-frontmatter5/html"/>
     <id>https://doi.org/10.1515/pm-2025-frontmatter5</id>
-    <updated>2025-05-04T22:11:11.822795+00:00</updated>
+    <updated>2025-05-06T05:03:58.584519+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pm-2025-frontmatter5</summary>
   </entry>
   <entry>
     <title>How can stainless CrNi steel be etched to clearly characterize the individual phases?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0025/html"/>
     <id>https://doi.org/10.1515/pm-2025-0025</id>
-    <updated>2025-05-04T22:11:11.822803+00:00</updated>
+    <updated>2025-05-06T05:03:58.584524+00:00</updated>
     <summary>Article by G. Weilnhammer
 DOI: https://doi.org/10.1515/pm-2025-0025</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/pm-2025-0025</summary>
     <title>Study on the microstructure and tensile properties of GH5188 high-temperature alloy laser welded joints</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0026/html"/>
     <id>https://doi.org/10.1515/pm-2025-0026</id>
-    <updated>2025-05-04T22:11:11.822814+00:00</updated>
+    <updated>2025-05-06T05:03:58.584529+00:00</updated>
     <summary>Article by W.-Q. Song, X. Wang, G.-D. Liu, Y. Du, N.-N. Zhang
 DOI: https://doi.org/10.1515/pm-2025-0026</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/pm-2025-0026</summary>
     <title>Characterization of an electric resistance welded steel plate</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0027/html"/>
     <id>https://doi.org/10.1515/pm-2025-0027</id>
-    <updated>2025-05-04T22:11:11.822821+00:00</updated>
+    <updated>2025-05-06T05:03:58.584533+00:00</updated>
     <summary>Article by K. K. Patel, R. Nagar, D. Chauhan
 DOI: https://doi.org/10.1515/pm-2025-0027</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/pm-2025-0027</summary>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0024/html"/>
     <id>https://doi.org/10.1515/pm-2025-0024</id>
-    <updated>2025-05-04T22:11:11.822828+00:00</updated>
+    <updated>2025-05-06T05:03:58.584537+00:00</updated>
     <summary>Article by Frank Mücklich
 DOI: https://doi.org/10.1515/pm-2025-0024</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/pm-2025-0024</summary>
     <title>Failure of an impeller blade of a first stage air compressor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0028/html"/>
     <id>https://doi.org/10.1515/pm-2025-0028</id>
-    <updated>2025-05-04T22:11:11.822835+00:00</updated>
+    <updated>2025-05-06T05:03:58.584541+00:00</updated>
     <summary>Article by B. Fischer, M. Giller, A. Neidel
 DOI: https://doi.org/10.1515/pm-2025-0028</summary>
   </entry>
@@ -62,21 +59,21 @@ DOI: https://doi.org/10.1515/pm-2025-0028</summary>
     <title>Picture of the Month</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0029/html"/>
     <id>https://doi.org/10.1515/pm-2025-0029</id>
-    <updated>2025-05-04T22:11:11.822841+00:00</updated>
+    <updated>2025-05-06T05:03:58.584545+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pm-2025-0029</summary>
   </entry>
   <entry>
     <title>News</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0030/html"/>
     <id>https://doi.org/10.1515/pm-2025-0030</id>
-    <updated>2025-05-04T22:11:11.822847+00:00</updated>
+    <updated>2025-05-06T05:03:58.584548+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pm-2025-0030</summary>
   </entry>
   <entry>
     <title>Meeting Diary</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0031/html"/>
     <id>https://doi.org/10.1515/pm-2025-0031</id>
-    <updated>2025-05-04T22:11:11.822853+00:00</updated>
+    <updated>2025-05-06T05:03:58.584551+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pm-2025-0031</summary>
   </entry>
 </feed>

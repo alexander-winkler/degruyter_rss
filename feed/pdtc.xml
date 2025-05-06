@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Preservation, Digital Technology &amp; Culture (PDT&amp;C)</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pdtc/54/1/html"/>
-  <updated>2025-05-04T22:10:58.366292+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pdtc/54/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pdtc/html" rel="related"/>
+  <updated>2025-05-06T05:03:39.740786+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Preservation, Digital Technology &amp; Culture (PDT&amp;C)</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pdtc.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/pdtc-2025-frontmatter1</id>
-    <updated>2025-05-04T22:10:58.366318+00:00</updated>
+    <updated>2025-05-06T05:03:39.740814+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pdtc-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Moving into 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2025-0011/html"/>
     <id>https://doi.org/10.1515/pdtc-2025-0011</id>
-    <updated>2025-05-04T22:10:58.366326+00:00</updated>
+    <updated>2025-05-06T05:03:39.740823+00:00</updated>
     <summary>Article by Bogdan Trifunović
 DOI: https://doi.org/10.1515/pdtc-2025-0011</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/pdtc-2025-0011</summary>
     <title>New Contributions to Iron Gall Ink Inspection Protocols Using Open Source Surface Analysis and Digital Imaging</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0055/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0055</id>
-    <updated>2025-05-04T22:10:58.366336+00:00</updated>
+    <updated>2025-05-06T05:03:39.740836+00:00</updated>
     <summary>Article by Ania Rodríguez-Maciel, Elisa Díaz-González
 DOI: https://doi.org/10.1515/pdtc-2024-0055</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0055</summary>
     <title>Passing Down Local Memories: Generativity and Photo Donations in Preservation Institutions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0051/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0051</id>
-    <updated>2025-05-04T22:10:58.366344+00:00</updated>
+    <updated>2025-05-06T05:03:39.740847+00:00</updated>
     <summary>Article by Ryo Shiozaki
 DOI: https://doi.org/10.1515/pdtc-2024-0051</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0051</summary>
     <title>Oral History Metadata and AI: A Study from an LGBTQ+ Archival Context</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0054/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0054</id>
-    <updated>2025-05-04T22:10:58.366351+00:00</updated>
+    <updated>2025-05-06T05:03:39.740855+00:00</updated>
     <summary>Article by Anthony Cocciolo
 DOI: https://doi.org/10.1515/pdtc-2024-0054</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0054</summary>
     <title>Exploring Design Aspects of Online Museums: From Cultural Heritage to Art, Science and Fashion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0044/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0044</id>
-    <updated>2025-05-04T22:10:58.366358+00:00</updated>
+    <updated>2025-05-06T05:03:39.740863+00:00</updated>
     <summary>Article by Olga Yezhova, Jingjie Zhao, Kalina Pashkevych
 DOI: https://doi.org/10.1515/pdtc-2024-0044</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0044</summary>
     <title>Can Social Media Pave the Way for the Preservation and Promotion of Heritage Sites?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0041/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0041</id>
-    <updated>2025-05-04T22:10:58.366365+00:00</updated>
+    <updated>2025-05-06T05:03:39.740872+00:00</updated>
     <summary>Article by Anirban Baitalik
 DOI: https://doi.org/10.1515/pdtc-2024-0041</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0041</summary>
     <title>Exploring the Potential of Mobile Phone Applications in the Transmission of Intangible Cultural Heritage Among the Younger Generation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0058/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0058</id>
-    <updated>2025-05-04T22:10:58.366372+00:00</updated>
+    <updated>2025-05-06T05:03:39.740882+00:00</updated>
     <summary>Article by Huang Yidan, Jinchi Yip, Vickram Theavar
 DOI: https://doi.org/10.1515/pdtc-2024-0058</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0058</summary>
     <title>The Application of Interaction Design in Cultural Heritage Tourism: A Systematic Literature Review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2024-0053/html"/>
     <id>https://doi.org/10.1515/pdtc-2024-0053</id>
-    <updated>2025-05-04T22:10:58.366379+00:00</updated>
+    <updated>2025-05-06T05:03:39.740890+00:00</updated>
     <summary>Article by Zhe Wang, Hassan Alli, Irwan Syah Md Yusoff
 DOI: https://doi.org/10.1515/pdtc-2024-0053</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/pdtc-2024-0053</summary>
     <title>PDT&amp;C Peer-Reviewers in 2023–2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pdtc-2025-2001/html"/>
     <id>https://doi.org/10.1515/pdtc-2025-2001</id>
-    <updated>2025-05-04T22:10:58.366385+00:00</updated>
+    <updated>2025-05-06T05:03:39.740899+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pdtc-2025-2001</summary>
   </entry>
 </feed>

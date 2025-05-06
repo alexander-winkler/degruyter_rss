@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zrgg/141/1/html"/>
-  <updated>2025-05-04T22:14:10.511588+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zrgg/141/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgg.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zrgg/html" rel="related"/>
+  <updated>2025-05-06T05:08:08.137982+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Germanistische Abteilung</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgg.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-frontmatter1</id>
-    <updated>2025-05-04T22:14:10.511613+00:00</updated>
+    <updated>2025-05-06T05:08:08.138002+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zrgg-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>I. Die Vorbilder der sog. Liber Papiensis-Handschriften</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0001/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0001</id>
-    <updated>2025-05-04T22:14:10.511625+00:00</updated>
+    <updated>2025-05-06T05:08:08.138008+00:00</updated>
     <summary>Article by Takanori Shibata
 DOI: https://doi.org/10.1515/zrgg-2024-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0001</summary>
     <title>II. Loi de Beaumont 1182</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0002/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0002</id>
-    <updated>2025-05-04T22:14:10.511631+00:00</updated>
+    <updated>2025-05-06T05:08:08.138016+00:00</updated>
     <summary>Article by Michael Prinz zu Löwenstein
 DOI: https://doi.org/10.1515/zrgg-2024-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0002</summary>
     <title>III. Der Schwabenspiegel als norddeutsches Kaiserrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0003/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0003</id>
-    <updated>2025-05-04T22:14:10.511639+00:00</updated>
+    <updated>2025-05-06T05:08:08.138021+00:00</updated>
     <summary>Article by Peter Oestmann
 DOI: https://doi.org/10.1515/zrgg-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0003</summary>
     <title>IV. Das Einlager. Forderungsdurchsetzung in der Frühen Neuzeit zwischen Autonomie und Heteronomie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0004/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0004</id>
-    <updated>2025-05-04T22:14:10.511644+00:00</updated>
+    <updated>2025-05-06T05:08:08.138025+00:00</updated>
     <summary>Article by Carsten Fischer
 DOI: https://doi.org/10.1515/zrgg-2024-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0004</summary>
     <title>V. Aufbruch in die Moderne? Der Humanismus und die Jurisprudenz des 16. Jahrhunderts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0005/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0005</id>
-    <updated>2025-05-04T22:14:10.511648+00:00</updated>
+    <updated>2025-05-06T05:08:08.138029+00:00</updated>
     <summary>Article by Nils Jansen
 DOI: https://doi.org/10.1515/zrgg-2024-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0005</summary>
     <title>VI. Zur ambivalenten Rolle des Telefons beim Waren-Terminhandel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0006/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0006</id>
-    <updated>2025-05-04T22:14:10.511653+00:00</updated>
+    <updated>2025-05-06T05:08:08.138033+00:00</updated>
     <summary>Article by Hubert Treiber
 DOI: https://doi.org/10.1515/zrgg-2024-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0006</summary>
     <title>VII. Eine Entwicklungsgeschichte des chinesischen Familien- und Erbrechts im Lichte der Rezeption des deutschen BGB</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0007/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0007</id>
-    <updated>2025-05-04T22:14:10.511657+00:00</updated>
+    <updated>2025-05-06T05:08:08.138037+00:00</updated>
     <summary>Article by Qiang Wang
 DOI: https://doi.org/10.1515/zrgg-2024-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0007</summary>
     <title>VIII. Der Gastaufenthalt Otto Koellreutters in Tokio (1938/39): Eine Facette der Rezeption der nationalsozialistischen Staatslehre in Japan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0008/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0008</id>
-    <updated>2025-05-04T22:14:10.511661+00:00</updated>
+    <updated>2025-05-06T05:08:08.138040+00:00</updated>
     <summary>Article by Hajime Konno
 DOI: https://doi.org/10.1515/zrgg-2024-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0008</summary>
     <title>IX. Die Juristische Fakultät der Universität Heidelberg im ersten Nachkriegsjahrzehnt – Forschungen und Berichte aus dem öffentlichen Recht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0009/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0009</id>
-    <updated>2025-05-04T22:14:10.511666+00:00</updated>
+    <updated>2025-05-06T05:08:08.138045+00:00</updated>
     <summary>Article by Torben Ellerbrok, Paul Hüther
 DOI: https://doi.org/10.1515/zrgg-2024-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0009</summary>
     <title>X. „Eycke von Repkow war kein Revolutionär“ – Festrede von Hilde Benjamin am 28. Juni 1959 im Eike-von-Repgow-Dorf Reppichau</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0010/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0010</id>
-    <updated>2025-05-04T22:14:10.511674+00:00</updated>
+    <updated>2025-05-06T05:08:08.138050+00:00</updated>
     <summary>Article by Heiner Lück
 DOI: https://doi.org/10.1515/zrgg-2024-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0010</summary>
     <title>Gastbeitrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0011/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0011</id>
-    <updated>2025-05-04T22:14:10.511679+00:00</updated>
+    <updated>2025-05-06T05:08:08.138054+00:00</updated>
     <summary>Article by Joachim Rückert
 DOI: https://doi.org/10.1515/zrgg-2024-0011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0011</summary>
     <title>Lehr- und Handbücher der Rechtsgeschichte in Italien von der Nachkriegszeit bis heute</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0012/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0012</id>
-    <updated>2025-05-04T22:14:10.511684+00:00</updated>
+    <updated>2025-05-06T05:08:08.138058+00:00</updated>
     <summary>Article by Italo Birocchi
 DOI: https://doi.org/10.1515/zrgg-2024-0012</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0012</summary>
     <title>Lupus, der (un)bekannte Verfasser des Liber legum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0013/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0013</id>
-    <updated>2025-05-04T22:14:10.511688+00:00</updated>
+    <updated>2025-05-06T05:08:08.138063+00:00</updated>
     <summary>Article by Britta Mischke
 DOI: https://doi.org/10.1515/zrgg-2024-0013</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0013</summary>
     <title>The right of re-measurement of settlements in the Middle Ages in the light of the legal practice of Bohemia and Silesia in the 13thand 14thcenturies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0014/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0014</id>
-    <updated>2025-05-04T22:14:10.511692+00:00</updated>
+    <updated>2025-05-06T05:08:08.138067+00:00</updated>
     <summary>Article by Krzysztof Fokt, Tomáš Klír
 DOI: https://doi.org/10.1515/zrgg-2024-0014</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0014</summary>
     <title>Drei Geschichten zur richterlichen Begründungspflicht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0015/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0015</id>
-    <updated>2025-05-04T22:14:10.511697+00:00</updated>
+    <updated>2025-05-06T05:08:08.138071+00:00</updated>
     <summary>Article by Ulrich Falk
 DOI: https://doi.org/10.1515/zrgg-2024-0015</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0015</summary>
     <title>Ergänzungen zu „Deutsche Rechtsbücher des Mittelalters und ihre Handschriften“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0016/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0016</id>
-    <updated>2025-05-04T22:14:10.511701+00:00</updated>
+    <updated>2025-05-06T05:08:08.138075+00:00</updated>
     <summary>Article by Ulrich-Dieter Oppitz
 DOI: https://doi.org/10.1515/zrgg-2024-0016</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0016</summary>
     <title>600 Jahre Niedersächsische Juristen. Ein biografisches Lexikon mit einer landesgeschichtlichen Einführung und einer Bibliografie zur niedersächsischen Rechtsgeschichte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0017/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0017</id>
-    <updated>2025-05-04T22:14:10.511705+00:00</updated>
+    <updated>2025-05-06T05:08:08.138079+00:00</updated>
     <summary>Article by Thomas Krause
 DOI: https://doi.org/10.1515/zrgg-2024-0017</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0017</summary>
     <title>25 Jahre Fritz Bauer Institut. Zur Auseinandersetzung mit den nationalsozialistischen Verbrechen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0018/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0018</id>
-    <updated>2025-05-04T22:14:10.511709+00:00</updated>
+    <updated>2025-05-06T05:08:08.138083+00:00</updated>
     <summary>Article by Martin Moll
 DOI: https://doi.org/10.1515/zrgg-2024-0018</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0018</summary>
     <title>Bachmann, Benedikt, Das Gäubahn-Gutachten. Der Einzelfall als Katalysator und Korrektiv in Rudolf von Jherings Rechtsdenken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0019/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0019</id>
-    <updated>2025-05-04T22:14:10.511714+00:00</updated>
+    <updated>2025-05-06T05:08:08.138087+00:00</updated>
     <summary>Article by Jan Schröder
 DOI: https://doi.org/10.1515/zrgg-2024-0019</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0019</summary>
     <title>Behrmann, Heiko, Instrument des Vertrauens in einer unvollkommenen Gesellschaft. Der Eid im politischen Handeln, religiösen Denken und geschichtlichen Selbstverständnis der späten Karolingerzeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0020/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0020</id>
-    <updated>2025-05-04T22:14:10.511719+00:00</updated>
+    <updated>2025-05-06T05:08:08.138091+00:00</updated>
     <summary>Article by Mathias Schmoeckel
 DOI: https://doi.org/10.1515/zrgg-2024-0020</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0020</summary>
     <title>Boestad, Tobias, Pour le profit du commun marchand</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0021/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0021</id>
-    <updated>2025-05-04T22:14:10.511723+00:00</updated>
+    <updated>2025-05-06T05:08:08.138095+00:00</updated>
     <summary>Article by Mathias Schmoeckel
 DOI: https://doi.org/10.1515/zrgg-2024-0021</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0021</summary>
     <title>William E. Butler, Grotius on War and Peace in English Translation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0022/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0022</id>
-    <updated>2025-05-04T22:14:10.511730+00:00</updated>
+    <updated>2025-05-06T05:08:08.138098+00:00</updated>
     <summary>Article by Joachim Stüben
 DOI: https://doi.org/10.1515/zrgg-2024-0022</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0022</summary>
     <title>Der Einfluss der Kanonistik auf die europäische Rechtskultur, Bd. 6: Völkerrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0023/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0023</id>
-    <updated>2025-05-04T22:14:10.511734+00:00</updated>
+    <updated>2025-05-06T05:08:08.138102+00:00</updated>
     <summary>Article by Elisabetta Fiocchi Malaspina
 DOI: https://doi.org/10.1515/zrgg-2024-0023</summary>
   </entry>
@@ -206,7 +203,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0023</summary>
     <title>Die Protokolle des cisleithanischen Ministerrates 1867–1918, Bd. I: 1867 (19. Februar 1867–15. Dezember 1867)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0024/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0024</id>
-    <updated>2025-05-04T22:14:10.511739+00:00</updated>
+    <updated>2025-05-06T05:08:08.138107+00:00</updated>
     <summary>Article by Gerald Kohl
 DOI: https://doi.org/10.1515/zrgg-2024-0024</summary>
   </entry>
@@ -214,7 +211,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0024</summary>
     <title>Dubber, Markus D., Der doppelte Strafstaat. Die Krise des modernen Strafrechts in vergleichend-historischer Perspektive</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0025/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0025</id>
-    <updated>2025-05-04T22:14:10.511743+00:00</updated>
+    <updated>2025-05-06T05:08:08.138111+00:00</updated>
     <summary>Article by Milan Kuhli
 DOI: https://doi.org/10.1515/zrgg-2024-0025</summary>
   </entry>
@@ -222,7 +219,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0025</summary>
     <title>Erdmann, Max, Die Vernunft zwischen den Staaten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0026/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0026</id>
-    <updated>2025-05-04T22:14:10.511747+00:00</updated>
+    <updated>2025-05-06T05:08:08.138115+00:00</updated>
     <summary>Article by Jochen Bung
 DOI: https://doi.org/10.1515/zrgg-2024-0026</summary>
   </entry>
@@ -230,7 +227,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0026</summary>
     <title>Falk, Georg D./Stump, Ulrich/Hartleib, Rudolf H./Schlitz, Klaus/Braun, Jens-Daniel, Willige Vollstrecker oder standhafte Richter?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0027/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0027</id>
-    <updated>2025-05-04T22:14:10.511751+00:00</updated>
+    <updated>2025-05-06T05:08:08.138118+00:00</updated>
     <summary>Article by Martin Moll
 DOI: https://doi.org/10.1515/zrgg-2024-0027</summary>
   </entry>
@@ -238,7 +235,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0027</summary>
     <title>Große Gesellschaftsverträge aus Geschichte und Gegenwart</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0028/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0028</id>
-    <updated>2025-05-04T22:14:10.511756+00:00</updated>
+    <updated>2025-05-06T05:08:08.138122+00:00</updated>
     <summary>Article by Michael Zwanzger
 DOI: https://doi.org/10.1515/zrgg-2024-0028</summary>
   </entry>
@@ -246,7 +243,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0028</summary>
     <title>Haase, Jeannette, Das Ende des Kaperwesens in der europäischen Literatur und dem Recht Englands und Frankreichs bis zur Pariser Seerechtsdeklaration von 1856</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0029/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0029</id>
-    <updated>2025-05-04T22:14:10.511760+00:00</updated>
+    <updated>2025-05-06T05:08:08.138126+00:00</updated>
     <summary>Article by Philipp Höhn
 DOI: https://doi.org/10.1515/zrgg-2024-0029</summary>
   </entry>
@@ -254,7 +251,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0029</summary>
     <title>Hilaire, Max, The Evolution and Transformation of International Law</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0030/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0030</id>
-    <updated>2025-05-04T22:14:10.511764+00:00</updated>
+    <updated>2025-05-06T05:08:08.138129+00:00</updated>
     <summary>Article by Elisabetta Fiocchi Malaspina
 DOI: https://doi.org/10.1515/zrgg-2024-0030</summary>
   </entry>
@@ -262,7 +259,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0030</summary>
     <title>Hiltl, Oliver, Rechtsbegründung in multikultureller Gesellschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0031/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0031</id>
-    <updated>2025-05-04T22:14:10.511768+00:00</updated>
+    <updated>2025-05-06T05:08:08.138133+00:00</updated>
     <summary>Article by Christiane Liermann Traniello
 DOI: https://doi.org/10.1515/zrgg-2024-0031</summary>
   </entry>
@@ -270,7 +267,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0031</summary>
     <title>Hof und Regierungspraxis im Fürstentum Braunschweig-Wolfenbüttel 1735</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0032/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0032</id>
-    <updated>2025-05-04T22:14:10.511772+00:00</updated>
+    <updated>2025-05-06T05:08:08.138137+00:00</updated>
     <summary>Article by Tobias Schenk
 DOI: https://doi.org/10.1515/zrgg-2024-0032</summary>
   </entry>
@@ -278,7 +275,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0032</summary>
     <title>Kiehnle, Arndt, Das Öffentliche im Privaten. Was war und ist am öffentlichen Glauben im Privatrecht öffentlich?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0033/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0033</id>
-    <updated>2025-05-04T22:14:10.511776+00:00</updated>
+    <updated>2025-05-06T05:08:08.138140+00:00</updated>
     <summary>Article by Gregor Albers
 DOI: https://doi.org/10.1515/zrgg-2024-0033</summary>
   </entry>
@@ -286,7 +283,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0033</summary>
     <title>Krach, Tillmann, Das Novemberpogrom in Mainz im Spiegel seiner strafrechtlichen Aufarbeitung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0034/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0034</id>
-    <updated>2025-05-04T22:14:10.511780+00:00</updated>
+    <updated>2025-05-06T05:08:08.138144+00:00</updated>
     <summary>Article by Martin Moll
 DOI: https://doi.org/10.1515/zrgg-2024-0034</summary>
   </entry>
@@ -294,7 +291,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0034</summary>
     <title>Mohnhaupt, Heinz, Rechtsvergleichung als Erkenntnismethode. Historische Perspektiven vom Spätmittelalter bis ins 19. Jahrhundert</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0035/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0035</id>
-    <updated>2025-05-04T22:14:10.511788+00:00</updated>
+    <updated>2025-05-06T05:08:08.138149+00:00</updated>
     <summary>Article by Lukas Rademacher
 DOI: https://doi.org/10.1515/zrgg-2024-0035</summary>
   </entry>
@@ -302,7 +299,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0035</summary>
     <title>Neumeier, Christian, Kompetenzen. Zur Entstehung des deutschen öffentlichen Rechts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0036/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0036</id>
-    <updated>2025-05-04T22:14:10.511792+00:00</updated>
+    <updated>2025-05-06T05:08:08.138152+00:00</updated>
     <summary>Article by Kenichi Moriya
 DOI: https://doi.org/10.1515/zrgg-2024-0036</summary>
   </entry>
@@ -310,7 +307,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0036</summary>
     <title>Odenweller, Kristina, Diplomatie und Pergament. Karriere und Selbstbild des gelehrten Juristen Giovan Francesco Capodilista</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0037/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0037</id>
-    <updated>2025-05-04T22:14:10.511796+00:00</updated>
+    <updated>2025-05-06T05:08:08.138156+00:00</updated>
     <summary>Article by Susanne Lepsius
 DOI: https://doi.org/10.1515/zrgg-2024-0037</summary>
   </entry>
@@ -318,7 +315,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0037</summary>
     <title>Payk, Marcus M., Frieden durch Recht? Der Aufstieg des modernen Völkerrechts und der Friedensschluss nach dem Ersten Weltkrieg</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0038/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0038</id>
-    <updated>2025-05-04T22:14:10.511800+00:00</updated>
+    <updated>2025-05-06T05:08:08.138160+00:00</updated>
     <summary>Article by Matthias Packeiser
 DOI: https://doi.org/10.1515/zrgg-2024-0038</summary>
   </entry>
@@ -326,7 +323,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0038</summary>
     <title>Prosperi, Adriano, Crime and Forgiveness. Christianizing Execution in Medieval Europe</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0039/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0039</id>
-    <updated>2025-05-04T22:14:10.511804+00:00</updated>
+    <updated>2025-05-06T05:08:08.138163+00:00</updated>
     <summary>Article by Thomas Krause
 DOI: https://doi.org/10.1515/zrgg-2024-0039</summary>
   </entry>
@@ -334,7 +331,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0039</summary>
     <title>Puricel, Christian, Funktionen von Gesetzeskommentaren. Die zwischen 1910 und 1920 publizierten Kommentare zum Reichsstrafgesetzbuch im Vergleich</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0040/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0040</id>
-    <updated>2025-05-04T22:14:10.511808+00:00</updated>
+    <updated>2025-05-06T05:08:08.138167+00:00</updated>
     <summary>Article by David Kästle-Lamparter
 DOI: https://doi.org/10.1515/zrgg-2024-0040</summary>
   </entry>
@@ -342,7 +339,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0040</summary>
     <title>Recht und Geschichte –  Psyche und Gewalt. Symposium anlässlich des 70. Geburtstags von Günter Jerouschek</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0041/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0041</id>
-    <updated>2025-05-04T22:14:10.511813+00:00</updated>
+    <updated>2025-05-06T05:08:08.138171+00:00</updated>
     <summary>Article by Thomas Krause
 DOI: https://doi.org/10.1515/zrgg-2024-0041</summary>
   </entry>
@@ -350,7 +347,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0041</summary>
     <title>Recht zur Intervention –  Pflicht zur Intervention? Zum Verhältnis von Schutzverantwortung, Reputation und Sicherheit in der Frühen Neuzeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0042/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0042</id>
-    <updated>2025-05-04T22:14:10.511817+00:00</updated>
+    <updated>2025-05-06T05:08:08.138174+00:00</updated>
     <summary>Article by Harald Kleinschmidt
 DOI: https://doi.org/10.1515/zrgg-2024-0042</summary>
   </entry>
@@ -358,7 +355,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0042</summary>
     <title>Scheidung ohne Schuld? Genese und Auswirkungen der Eherechtsreform 1977</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0043/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0043</id>
-    <updated>2025-05-04T22:14:10.511821+00:00</updated>
+    <updated>2025-05-06T05:08:08.138178+00:00</updated>
     <summary>Article by Dagmar Coester-Waltjen
 DOI: https://doi.org/10.1515/zrgg-2024-0043</summary>
   </entry>
@@ -366,7 +363,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0043</summary>
     <title>Schenk, Tobias, Actum et judicium als analytisches Problem der Justizforschung. Interdisziplinäre Perspektiven auf kollegiale Entscheidungskulturen am Beispiel des kaiserlichen Reichshofrats</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0044/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0044</id>
-    <updated>2025-05-04T22:14:10.511826+00:00</updated>
+    <updated>2025-05-06T05:08:08.138182+00:00</updated>
     <summary>Article by Peter Oestmann
 DOI: https://doi.org/10.1515/zrgg-2024-0044</summary>
   </entry>
@@ -374,7 +371,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0044</summary>
     <title>Schildbach, Carola, Rückerstattungs- und Entschädigungsansprüche von NS- Opfern nach dem Zweiten Weltkrieg. Berliner Fallbeispiele der 1950er und 1960er Jahre aus der Sicht der NS-Opfer und eines Rechtsanwalts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0045/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0045</id>
-    <updated>2025-05-04T22:14:10.511830+00:00</updated>
+    <updated>2025-05-06T05:08:08.138186+00:00</updated>
     <summary>Article by Martin Moll
 DOI: https://doi.org/10.1515/zrgg-2024-0045</summary>
   </entry>
@@ -382,7 +379,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0045</summary>
     <title>Schulz, Maximilian, Philipp Hecks Rechts- und Begriffstheorie und ihre erkenntnistheoretischen Voraussetzungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0046/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0046</id>
-    <updated>2025-05-04T22:14:10.511834+00:00</updated>
+    <updated>2025-05-06T05:08:08.138189+00:00</updated>
     <summary>Article by Joachim Rückert
 DOI: https://doi.org/10.1515/zrgg-2024-0046</summary>
   </entry>
@@ -390,7 +387,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0046</summary>
     <title>Scott, James C., Die Mühlen der Zivilisation. Eine Tiefengeschichte der frühesten Staaten. Aus dem Amerikanischen von Horst Brühmann</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0047/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0047</id>
-    <updated>2025-05-04T22:14:10.511840+00:00</updated>
+    <updated>2025-05-06T05:08:08.138194+00:00</updated>
     <summary>Article by Peter Oestmann
 DOI: https://doi.org/10.1515/zrgg-2024-0047</summary>
   </entry>
@@ -398,7 +395,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0047</summary>
     <title>Stadtrechte und Stadtrechtsreformationen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0048/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0048</id>
-    <updated>2025-05-04T22:14:10.511844+00:00</updated>
+    <updated>2025-05-06T05:08:08.138198+00:00</updated>
     <summary>Article by Peter Oestmann
 DOI: https://doi.org/10.1515/zrgg-2024-0048</summary>
   </entry>
@@ -406,7 +403,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0048</summary>
     <title>Tenere et habere. Leihen als soziale Praxis im frühen und hohen Mittelalter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0049/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0049</id>
-    <updated>2025-05-04T22:14:10.511848+00:00</updated>
+    <updated>2025-05-06T05:08:08.138201+00:00</updated>
     <summary>Article by Simon Groth
 DOI: https://doi.org/10.1515/zrgg-2024-0049</summary>
   </entry>
@@ -414,7 +411,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0049</summary>
     <title>The Range of Science. Studies on the Interdisciplinary Legacy of Johannes von Kries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0050/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0050</id>
-    <updated>2025-05-04T22:14:10.511852+00:00</updated>
+    <updated>2025-05-06T05:08:08.138205+00:00</updated>
     <summary>Article by Hubert Treiber, Wolfgang Mathis
 DOI: https://doi.org/10.1515/zrgg-2024-0050</summary>
   </entry>
@@ -422,7 +419,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0050</summary>
     <title>Veicht, Matthias, Rezeption und Zivilrechtskodifikation in China seit 1900. Eine rechtsvergleichende Untersuchung unter besonderer Berücksichtigung der kaufrechtlichen Mängelhaftung in Deutschland, Festlandchina und Taiwan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0051/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0051</id>
-    <updated>2025-05-04T22:14:10.511856+00:00</updated>
+    <updated>2025-05-06T05:08:08.138209+00:00</updated>
     <summary>Article by Wen-chi Kao
 DOI: https://doi.org/10.1515/zrgg-2024-0051</summary>
   </entry>
@@ -430,7 +427,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0051</summary>
     <title>Roling, Norbert, Drensteinfurter Steuer- und Personenlisten, Teil 1: Schatzungsregister und andere Listen von Personen und Leistungen 1498–1803</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0052/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0052</id>
-    <updated>2025-05-04T22:14:10.511860+00:00</updated>
+    <updated>2025-05-06T05:08:08.138213+00:00</updated>
     <summary>Article by Tobias Schenk
 DOI: https://doi.org/10.1515/zrgg-2024-0052</summary>
   </entry>
@@ -438,7 +435,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0052</summary>
     <title>Würzburger Ratsprotokolle der Riemenschneiderzeit, Teil 1: 1504–1513</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0053/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0053</id>
-    <updated>2025-05-04T22:14:10.511864+00:00</updated>
+    <updated>2025-05-06T05:08:08.138216+00:00</updated>
     <summary>Article by Tobias Schenk
 DOI: https://doi.org/10.1515/zrgg-2024-0053</summary>
   </entry>
@@ -446,7 +443,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0053</summary>
     <title>Zur kritischen Funktion von Rechtsgeschichte und Rechtsphilosophie. Symposium zu Ehren von Marcel Senn</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0054/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0054</id>
-    <updated>2025-05-04T22:14:10.511868+00:00</updated>
+    <updated>2025-05-06T05:08:08.138220+00:00</updated>
     <summary>Article by Nils Jansen
 DOI: https://doi.org/10.1515/zrgg-2024-0054</summary>
   </entry>
@@ -454,7 +451,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0054</summary>
     <title>Neuerscheinungsliste ZRG 141 (2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0055/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0055</id>
-    <updated>2025-05-04T22:14:10.511872+00:00</updated>
+    <updated>2025-05-06T05:08:08.138223+00:00</updated>
     <summary>Article by Hans-Peter Haferkamp, Peter Oestmann, Tilman Repgen
 DOI: https://doi.org/10.1515/zrgg-2024-0055</summary>
   </entry>
@@ -462,7 +459,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0055</summary>
     <title>Klaus Luig 11. September 1935–25. April 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0056/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0056</id>
-    <updated>2025-05-04T22:14:10.511877+00:00</updated>
+    <updated>2025-05-06T05:08:08.138227+00:00</updated>
     <summary>Article by Tilman Repgen
 DOI: https://doi.org/10.1515/zrgg-2024-0056</summary>
   </entry>
@@ -470,7 +467,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0056</summary>
     <title>Stanisław Salmonowicz 9. November 1931–24. Mai 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0057/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0057</id>
-    <updated>2025-05-04T22:14:10.511881+00:00</updated>
+    <updated>2025-05-06T05:08:08.138231+00:00</updated>
     <summary>Article by Danuta Janicka
 DOI: https://doi.org/10.1515/zrgg-2024-0057</summary>
   </entry>
@@ -478,7 +475,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0057</summary>
     <title>Clausdieter Schott 1. November 1936–17. Juli 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0058/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0058</id>
-    <updated>2025-05-04T22:14:10.511895+00:00</updated>
+    <updated>2025-05-06T05:08:08.138234+00:00</updated>
     <summary>Article by Heiner Lück
 DOI: https://doi.org/10.1515/zrgg-2024-0058</summary>
   </entry>
@@ -486,7 +483,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0058</summary>
     <title>Landrechte und Landrechtsreformationen Interdisziplinäre Tagung der Forschungsstelle Deutsches Rechtswörterbuch Heidelberg, 29.3.2023–31.3.2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0059/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0059</id>
-    <updated>2025-05-04T22:14:10.511900+00:00</updated>
+    <updated>2025-05-06T05:08:08.138239+00:00</updated>
     <summary>Article by Raphael Holfeld
 DOI: https://doi.org/10.1515/zrgg-2024-0059</summary>
   </entry>
@@ -494,7 +491,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0059</summary>
     <title>Ausnahme und Vielfalt im Recht der Vormoderne Münster, 7.–9. September 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0060/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0060</id>
-    <updated>2025-05-04T22:14:10.511904+00:00</updated>
+    <updated>2025-05-06T05:08:08.138243+00:00</updated>
     <summary>Article by Sebastian Fuchs
 DOI: https://doi.org/10.1515/zrgg-2024-0060</summary>
   </entry>
@@ -502,7 +499,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0060</summary>
     <title>Das Rheinische Recht. Neue Perspektiven auf die Geschichte des französischen Rechts an Rhein und Mosel, ca. 1750 bis 1900 Trier, 22./23. September 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0061/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0061</id>
-    <updated>2025-05-04T22:14:10.511908+00:00</updated>
+    <updated>2025-05-06T05:08:08.138246+00:00</updated>
     <summary>Article by Anna Hermes, Philip Zang
 DOI: https://doi.org/10.1515/zrgg-2024-0061</summary>
   </entry>
@@ -510,7 +507,7 @@ DOI: https://doi.org/10.1515/zrgg-2024-0061</summary>
     <title>Von der Weimarer Hochbuchdruckerei zum Böhlau Verlag. Buchdruck und Verlagswesen in Thüringen 1624–2024, 14.–16. März 2024 in Weimar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgg-2024-0062/html"/>
     <id>https://doi.org/10.1515/zrgg-2024-0062</id>
-    <updated>2025-05-04T22:14:10.511912+00:00</updated>
+    <updated>2025-05-06T05:08:08.138250+00:00</updated>
     <summary>Article by Reingard Rauch
 DOI: https://doi.org/10.1515/zrgg-2024-0062</summary>
   </entry>

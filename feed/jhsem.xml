@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Homeland Security and Emergency Management</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jhsem/22/1/html"/>
-  <updated>2025-05-04T22:08:00.242338+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsem/22/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jhsem.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jhsem/html" rel="related"/>
+  <updated>2025-05-06T04:59:36.804965+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jhsem.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Homeland Security and Emergency Management</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jhsem.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsem-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jhsem-2025-frontmatter1</id>
-    <updated>2025-05-04T22:08:00.242388+00:00</updated>
+    <updated>2025-05-06T04:59:36.804995+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jhsem-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Safety First or Saving Lives? How Medical Responders Would Decide when Facing an Active Violent Incident. Results from an Explorative Cross-National Survey</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsem-2022-0051/html"/>
     <id>https://doi.org/10.1515/jhsem-2022-0051</id>
-    <updated>2025-05-04T22:08:00.242399+00:00</updated>
+    <updated>2025-05-06T04:59:36.805005+00:00</updated>
     <summary>Article by Nils Ellebrecht, Anna Joval, Tomer Kaplan, Oren Wacht, Eric S. Weinstein
 DOI: https://doi.org/10.1515/jhsem-2022-0051</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jhsem-2022-0051</summary>
     <title>Use of Crisis Communication Strategies by Food Bank Network During a Global Pandemic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsem-2023-0018/html"/>
     <id>https://doi.org/10.1515/jhsem-2023-0018</id>
-    <updated>2025-05-04T22:08:00.242415+00:00</updated>
+    <updated>2025-05-06T04:59:36.805017+00:00</updated>
     <summary>Article by Brittany “Brie” Haupt, Lauren Azevedo, Michael O’Grady
 DOI: https://doi.org/10.1515/jhsem-2023-0018</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jhsem-2023-0018</summary>
     <title>Strategic Planning for Post-Earthquake Health Services Continuity: Leveraging Family Healthcare Centers in Istanbul</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsem-2024-0003/html"/>
     <id>https://doi.org/10.1515/jhsem-2024-0003</id>
-    <updated>2025-05-04T22:08:00.242425+00:00</updated>
+    <updated>2025-05-06T04:59:36.805028+00:00</updated>
     <summary>Article by Irem Ucal Sari, Mustafa Mert Adana, Onurhan Atilgan
 DOI: https://doi.org/10.1515/jhsem-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jhsem-2024-0003</summary>
     <title>Beyond Chinese Spy Balloons: Why We Need to Teach East Asian Studies in U.S. Homeland Security and Emergency Preparedness Programs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsem-2023-0029/html"/>
     <id>https://doi.org/10.1515/jhsem-2023-0029</id>
-    <updated>2025-05-04T22:08:00.242434+00:00</updated>
+    <updated>2025-05-06T04:59:36.805037+00:00</updated>
     <summary>Article by Benjamin R. Young
 DOI: https://doi.org/10.1515/jhsem-2023-0029</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jhsem-2023-0029</summary>
     <title>How a Chemical Weapons Threat Positively Impacted a Hospital’s Emergency Preparedness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jhsem-2023-0044/html"/>
     <id>https://doi.org/10.1515/jhsem-2023-0044</id>
-    <updated>2025-05-04T22:08:00.242442+00:00</updated>
+    <updated>2025-05-06T04:59:36.805046+00:00</updated>
     <summary>Article by Tara Long, Belinda Corder
 DOI: https://doi.org/10.1515/jhsem-2023-0044</summary>
   </entry>

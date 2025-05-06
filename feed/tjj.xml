@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of Turbo &amp; Jet-Engines </title>
-  <link href="https://www.degruyterbrill.com/journal/key/tjj/42/2/html"/>
-  <updated>2025-05-04T22:12:59.672232+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/tjj/42/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tjj.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/tjj/html" rel="related"/>
+  <updated>2025-05-06T05:06:28.606707+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tjj.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of Turbo &amp; Jet-Engines </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/tjj.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/tjj-2025-frontmatter2</id>
-    <updated>2025-05-04T22:12:59.672256+00:00</updated>
+    <updated>2025-05-06T05:06:28.606726+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/tjj-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Deep residual ensemble model for predicting remaining useful life of turbo fan engines</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0025/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0025</id>
-    <updated>2025-05-04T22:12:59.672264+00:00</updated>
+    <updated>2025-05-06T05:06:28.606734+00:00</updated>
     <summary>Article by Sharanya Selvaraj, Jyothi Narayanan Thulasi, Muruga lal Jeyan Johnrose Vijayakumari, Karthikeyan Selvaraj
 DOI: https://doi.org/10.1515/tjj-2024-0025</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0025</summary>
     <title>Review of gliding arc plasma assisted ignition and combustion for gas turbine application</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0045/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0045</id>
-    <updated>2025-05-04T22:12:59.672274+00:00</updated>
+    <updated>2025-05-06T05:06:28.606743+00:00</updated>
     <summary>Article by Ka Gong, Yibo Liu, Honghua Zhao, Zhikai Wang
 DOI: https://doi.org/10.1515/tjj-2024-0045</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0045</summary>
     <title>Interaction effects between the rotor wake and hub leakage flow in a multi-stage cantilevered compressor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2023-0003/html"/>
     <id>https://doi.org/10.1515/tjj-2023-0003</id>
-    <updated>2025-05-04T22:12:59.672281+00:00</updated>
+    <updated>2025-05-06T05:06:28.606750+00:00</updated>
     <summary>Article by Hefang Deng, Kailong Xia, Xiaoqing Qiang, Mingmin Zhu, Jinfang Teng, Shaopeng Lu
 DOI: https://doi.org/10.1515/tjj-2023-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/tjj-2023-0003</summary>
     <title>Determination of the modern marine single shaft gas turbine rotor blades fatigue strength parameters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0057/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0057</id>
-    <updated>2025-05-04T22:12:59.672288+00:00</updated>
+    <updated>2025-05-06T05:06:28.606756+00:00</updated>
     <summary>Article by Natalia Smetankina, Serhii Morhun
 DOI: https://doi.org/10.1515/tjj-2024-0057</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0057</summary>
     <title>Role of different cavity flame holders on the performance characteristics of supersonic combustor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0037/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0037</id>
-    <updated>2025-05-04T22:12:59.672294+00:00</updated>
+    <updated>2025-05-06T05:06:28.606763+00:00</updated>
     <summary>Article by Shaik Shajahan, Santhosh Kumar Gugulothu, Raju Muthyala, Praveen Barmavatu
 DOI: https://doi.org/10.1515/tjj-2024-0037</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0037</summary>
     <title>Thermal performance of teardrop pin fins and zig zag ribs in a wedge channel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0071/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0071</id>
-    <updated>2025-05-04T22:12:59.672300+00:00</updated>
+    <updated>2025-05-06T05:06:28.606770+00:00</updated>
     <summary>Article by Goveraiahgari Venkatesh, Reddygari Meenakshi Reddy
 DOI: https://doi.org/10.1515/tjj-2024-0071</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0071</summary>
     <title>Investigation of varying tip clearance gap and operating conditions on the fulfilment of low-speed axial flow fan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0067/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0067</id>
-    <updated>2025-05-04T22:12:59.672306+00:00</updated>
+    <updated>2025-05-06T05:06:28.606776+00:00</updated>
     <summary>Article by Jignesh R. Vala, Dinesh K. Patel, Anand P. Darji, L. Natrayan
 DOI: https://doi.org/10.1515/tjj-2024-0067</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0067</summary>
     <title>Upgraded one-dimensional code for the design of a micro gas turbine mixed flow compressor stage with various crossover diffuser configurations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0016/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0016</id>
-    <updated>2025-05-04T22:12:59.672312+00:00</updated>
+    <updated>2025-05-06T05:06:28.606782+00:00</updated>
     <summary>Article by Hano van Eck, Sybrand J. van der Spuy
 DOI: https://doi.org/10.1515/tjj-2024-0016</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0016</summary>
     <title>Performance evaluation of a scramjet engine utilizing varied cavity aft wall divergence with parallel injection in a reacting flow field</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0020/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0020</id>
-    <updated>2025-05-04T22:12:59.672318+00:00</updated>
+    <updated>2025-05-06T05:06:28.606794+00:00</updated>
     <summary>Article by Nagarathinam Maheswaran, Suppandipillai Jeyakumar, Kandasamy Jayaraman, Mehmet Karaca
 DOI: https://doi.org/10.1515/tjj-2024-0020</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0020</summary>
     <title>Speed controller design for turboshaft engine using a high-fidelity AeroThermal model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0060/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0060</id>
-    <updated>2025-05-04T22:12:59.672324+00:00</updated>
+    <updated>2025-05-06T05:06:28.606800+00:00</updated>
     <summary>Article by Isil Yazar
 DOI: https://doi.org/10.1515/tjj-2024-0060</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0060</summary>
     <title>Multi-nozzle thrust matching control of STOVL engine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0054/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0054</id>
-    <updated>2025-05-04T22:12:59.672330+00:00</updated>
+    <updated>2025-05-06T05:06:28.606806+00:00</updated>
     <summary>Article by Shuwei Pang, Xueting Fu, Qiuhong Li, Wenxiang Zhou
 DOI: https://doi.org/10.1515/tjj-2024-0054</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0054</summary>
     <title>Numerical analysis of brush seal hysteresis based on orthogonal test method</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0078/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0078</id>
-    <updated>2025-05-04T22:12:59.672335+00:00</updated>
+    <updated>2025-05-06T05:06:28.606813+00:00</updated>
     <summary>Article by Furen Xiao, Yuchi Kang, Yuanlun Wang, Sharon Kao-Walter
 DOI: https://doi.org/10.1515/tjj-2024-0078</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0078</summary>
     <title>Conjugated heat transfer characteristics of ribbed-swirl cooling in turbine blade under rotation condition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0046/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0046</id>
-    <updated>2025-05-04T22:12:59.672341+00:00</updated>
+    <updated>2025-05-06T05:06:28.606819+00:00</updated>
     <summary>Article by Kun Xiao, Xiandi Zhao, Juan He, Zhaokai Ma, Zhenping Feng
 DOI: https://doi.org/10.1515/tjj-2024-0046</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0046</summary>
     <title>Flow pattern formation due to the interdependency of multi-component interactions and their impact on the performance of turbine and exhaust duct of gas turbine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0079/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0079</id>
-    <updated>2025-05-04T22:12:59.672348+00:00</updated>
+    <updated>2025-05-06T05:06:28.606825+00:00</updated>
     <summary>Article by Thuraganur V. Yogesh, Laasya P. Nidamarty, Seepana V. Ramanamurty, Sashi K. Panigrahi
 DOI: https://doi.org/10.1515/tjj-2024-0079</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0079</summary>
     <title>Flight trajectory optimization study of a variable-cycle turbine-based combined cycle engine hypersonic vehicle based on airframe/engine integration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0085/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0085</id>
-    <updated>2025-05-04T22:12:59.672355+00:00</updated>
+    <updated>2025-05-06T05:06:28.606832+00:00</updated>
     <summary>Article by Yu Fu, Wenyan Song, Qiuyin Wang, Xiaoting Wang, Jianping Li
 DOI: https://doi.org/10.1515/tjj-2024-0085</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0085</summary>
     <title>Constant temperature line identification on prototype gas turbine combustor with multi-colour change coating</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0083/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0083</id>
-    <updated>2025-05-04T22:12:59.672361+00:00</updated>
+    <updated>2025-05-06T05:06:28.606838+00:00</updated>
     <summary>Article by Gnana Sagaya Raj Antony Raj, Ravikumar Jayabal, Prabhu Buramoorthi, Rajangam Veeruchinnan
 DOI: https://doi.org/10.1515/tjj-2024-0083</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0083</summary>
     <title>Sensitivity analysis of aero-engine performance optimization control system and its hardware test verification</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0082/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0082</id>
-    <updated>2025-05-04T22:12:59.672367+00:00</updated>
+    <updated>2025-05-06T05:06:28.606844+00:00</updated>
     <summary>Article by Juan Fang, Nan Zhang, Weimin Liu
 DOI: https://doi.org/10.1515/tjj-2024-0082</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0082</summary>
     <title>Compensator based improved model predictive control for Aero-engine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2024-0052/html"/>
     <id>https://doi.org/10.1515/tjj-2024-0052</id>
-    <updated>2025-05-04T22:12:59.672372+00:00</updated>
+    <updated>2025-05-06T05:06:28.606851+00:00</updated>
     <summary>Article by Shuwei Pang, Tao Wang, Jingmei Cong, Hongyi Chen, Qiuhong Li, Wenxiang Zhou, Xueting Fu
 DOI: https://doi.org/10.1515/tjj-2024-0052</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/tjj-2024-0052</summary>
     <title>Ignition experimental study based on rotating gliding arc</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tjj-2022-0041/html"/>
     <id>https://doi.org/10.1515/tjj-2022-0041</id>
-    <updated>2025-05-04T22:12:59.672378+00:00</updated>
+    <updated>2025-05-06T05:06:28.606857+00:00</updated>
     <summary>Article by Ting Peng, Changxin Peng, Yibo Liu, Hao Yang
 DOI: https://doi.org/10.1515/tjj-2022-0041</summary>
   </entry>

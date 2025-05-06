@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Internationales Handelsrecht</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ihr/25/2/html"/>
-  <updated>2025-05-04T22:06:34.000734+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ihr/25/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ihr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ihr/html" rel="related"/>
+  <updated>2025-05-06T04:57:40.495700+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ihr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Internationales Handelsrecht</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ihr.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-frontmatter2502/html"/>
     <id>https://doi.org/10.9785/ihr-2025-frontmatter2502</id>
-    <updated>2025-05-04T22:06:34.000766+00:00</updated>
+    <updated>2025-05-06T04:57:40.495721+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-frontmatter2502</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-toc2502/html"/>
     <id>https://doi.org/10.9785/ihr-2025-toc2502</id>
-    <updated>2025-05-04T22:06:34.000779+00:00</updated>
+    <updated>2025-05-06T04:57:40.495730+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-toc2502</summary>
   </entry>
   <entry>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250207/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250207</id>
-    <updated>2025-05-04T22:06:34.000786+00:00</updated>
+    <updated>2025-05-06T04:57:40.495737+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250207</summary>
   </entry>
   <entry>
     <title>Rahmenverträge in internationalen Lieferbeziehungen und das CISG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250201/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250201</id>
-    <updated>2025-05-04T22:06:34.000793+00:00</updated>
+    <updated>2025-05-06T04:57:40.495744+00:00</updated>
     <summary>Article by Julian Juhasz
 DOI: https://doi.org/10.9785/ihr-2025-250201</summary>
   </entry>
@@ -44,63 +41,63 @@ DOI: https://doi.org/10.9785/ihr-2025-250201</summary>
     <title>Schweizer BG überprüft auch dann nicht sämtliche Rechtsfragen und den Sachverhalt frei, wenn als Vorinstanz ein HG als einzige kantonale Instanz entschied</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250202/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250202</id>
-    <updated>2025-05-04T22:06:34.000803+00:00</updated>
+    <updated>2025-05-06T04:57:40.495753+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250202</summary>
   </entry>
   <entry>
     <title>Bei sich widersprechenden AGB geht das CISG den Weg der „mirror image rule“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250203/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250203</id>
-    <updated>2025-05-04T22:06:34.000810+00:00</updated>
+    <updated>2025-05-06T04:57:40.495761+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250203</summary>
   </entry>
   <entry>
     <title>Geltendmachung eines Zurückbehaltungsrechts gem. § 320 Abs. 1 BGB unter Berufung auf Nacherfüllungsanspruch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250204/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250204</id>
-    <updated>2025-05-04T22:06:34.000817+00:00</updated>
+    <updated>2025-05-06T04:57:40.495768+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250204</summary>
   </entry>
   <entry>
     <title>Zur Anerkennung von Schiedssprüchen im Zusammenhang mit Russlandsanktionen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250205/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250205</id>
-    <updated>2025-05-04T22:06:34.000824+00:00</updated>
+    <updated>2025-05-06T04:57:40.495774+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250205</summary>
   </entry>
   <entry>
     <title>Schweizer BG überprüft auch dann nicht sämtliche Rechtsfragen und den Sachverhalt frei, wenn als Vorinstanz ein HG als einzige kantonale Instanz entschied</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250202/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250202</id>
-    <updated>2025-05-04T22:06:34.000831+00:00</updated>
+    <updated>2025-05-06T04:57:40.495781+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250202</summary>
   </entry>
   <entry>
     <title>Bei sich widersprechenden AGB geht das CISG den Weg der „mirror image rule“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250203/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250203</id>
-    <updated>2025-05-04T22:06:34.000842+00:00</updated>
+    <updated>2025-05-06T04:57:40.495788+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250203</summary>
   </entry>
   <entry>
     <title>Geltendmachung eines Zurückbehaltungsrechts gem. § 320 Abs. 1 BGB unter Berufung auf Nacherfüllungsanspruch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250204/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250204</id>
-    <updated>2025-05-04T22:06:34.000855+00:00</updated>
+    <updated>2025-05-06T04:57:40.495799+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250204</summary>
   </entry>
   <entry>
     <title>Zur Anerkennung von Schiedssprüchen im Zusammenhang mit Russlandsanktionen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250205/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250205</id>
-    <updated>2025-05-04T22:06:34.000861+00:00</updated>
+    <updated>2025-05-06T04:57:40.495805+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ihr-2025-250205</summary>
   </entry>
   <entry>
     <title>RTVs – What Do They Mean for Suppliers, Agents and Distributors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ihr-2025-250206/html"/>
     <id>https://doi.org/10.9785/ihr-2025-250206</id>
-    <updated>2025-05-04T22:06:34.000867+00:00</updated>
+    <updated>2025-05-06T04:57:40.495812+00:00</updated>
     <summary>Article by Stephen Sidkin
 DOI: https://doi.org/10.9785/ihr-2025-250206</summary>
   </entry>

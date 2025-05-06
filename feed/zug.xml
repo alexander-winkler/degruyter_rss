@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Unternehmensgeschichte</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zug/70/1/html"/>
-  <updated>2025-05-04T22:14:22.565112+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zug/70/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zug.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zug/html" rel="related"/>
+  <updated>2025-05-06T05:08:24.720713+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zug.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Unternehmensgeschichte</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zug.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zug-2025-frontmatter1</id>
-    <updated>2025-05-04T22:14:22.565141+00:00</updated>
+    <updated>2025-05-06T05:08:24.720744+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zug-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Konfliktstrategien.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2024-0023/html"/>
     <id>https://doi.org/10.1515/zug-2024-0023</id>
-    <updated>2025-05-04T22:14:22.565148+00:00</updated>
+    <updated>2025-05-06T05:08:24.720754+00:00</updated>
     <summary>Article by Louis Pahlow
 DOI: https://doi.org/10.1515/zug-2024-0023</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zug-2024-0023</summary>
     <title>Rechtsbeugung durch Rechtsprechung?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2024-0028/html"/>
     <id>https://doi.org/10.1515/zug-2024-0028</id>
-    <updated>2025-05-04T22:14:22.565162+00:00</updated>
+    <updated>2025-05-06T05:08:24.720764+00:00</updated>
     <summary>Article by Eva-Maria Roelevink
 DOI: https://doi.org/10.1515/zug-2024-0028</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zug-2024-0028</summary>
     <title>Designpiraterie, Geschmacksmusterschutz und Konfliktstrategien in der Industrie der Barmer Artikel (20er bis 60er Jahre)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2024-0027/html"/>
     <id>https://doi.org/10.1515/zug-2024-0027</id>
-    <updated>2025-05-04T22:14:22.565168+00:00</updated>
+    <updated>2025-05-06T05:08:24.720773+00:00</updated>
     <summary>Article by Boris Gehlen
 DOI: https://doi.org/10.1515/zug-2024-0027</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zug-2024-0027</summary>
     <title>Markenunternehmen und Markenrechtskonflikte.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2024-0025/html"/>
     <id>https://doi.org/10.1515/zug-2024-0025</id>
-    <updated>2025-05-04T22:14:22.565173+00:00</updated>
+    <updated>2025-05-06T05:08:24.720780+00:00</updated>
     <summary>Article by Christian Kleinschmidt, Louis Pahlow
 DOI: https://doi.org/10.1515/zug-2024-0025</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zug-2024-0025</summary>
     <title>Patentkonflikte in der deutschen metallurgischen Industrie in der Zwischenkriegszeit am Beispiel der Isabellenhütte Heusler GmbH</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2024-0026/html"/>
     <id>https://doi.org/10.1515/zug-2024-0026</id>
-    <updated>2025-05-04T22:14:22.565179+00:00</updated>
+    <updated>2025-05-06T05:08:24.720790+00:00</updated>
     <summary>Article by Michael C. Schneider
 DOI: https://doi.org/10.1515/zug-2024-0026</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zug-2024-0026</summary>
     <title>Hartmut Berghoff/Manfred Grieger,Die Geschichte des Hauses Bahlsen: Keks – Krieg – Konsum, 1911–1974, Wallstein Verlag, Göttingen 2024, 602 S., € 29,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0003/html"/>
     <id>https://doi.org/10.1515/zug-2025-0003</id>
-    <updated>2025-05-04T22:14:22.565185+00:00</updated>
+    <updated>2025-05-06T05:08:24.720799+00:00</updated>
     <summary>Article by Kristina Huttenlocher
 DOI: https://doi.org/10.1515/zug-2025-0003</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zug-2025-0003</summary>
     <title>Stephanie Tilly,Delius. Seit 1722, Wissenschaftliche Buchgesellschaft, Darmstadt 2022, 280 S., € 40,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0002/html"/>
     <id>https://doi.org/10.1515/zug-2025-0002</id>
-    <updated>2025-05-04T22:14:22.565191+00:00</updated>
+    <updated>2025-05-06T05:08:24.720806+00:00</updated>
     <summary>Article by Roman Köster
 DOI: https://doi.org/10.1515/zug-2025-0002</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zug-2025-0002</summary>
     <title>Andrea H. Schneider-Braunberger,Miele im Nationalsozialismus: Ein Familienunternehmen in der Rüstungs- und Kriegswirtschaft, Siedler Verlag, München 2023, 352 S., € 38,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2024-0022/html"/>
     <id>https://doi.org/10.1515/zug-2024-0022</id>
-    <updated>2025-05-04T22:14:22.565198+00:00</updated>
+    <updated>2025-05-06T05:08:24.720821+00:00</updated>
     <summary>Article by Jeffrey Fear
 DOI: https://doi.org/10.1515/zug-2024-0022</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zug-2024-0022</summary>
     <title>Johanna Steinfeld,Unternehmen ohne Eigentümer. Unternehmerische Entscheidungen der Optischen Werkstätte Carl Zeiss von 1889 bis 1933, De Gruyter Oldenbourg, Berlin/Boston 2023, 399 S., € 89,95.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0005/html"/>
     <id>https://doi.org/10.1515/zug-2025-0005</id>
-    <updated>2025-05-04T22:14:22.565204+00:00</updated>
+    <updated>2025-05-06T05:08:24.720833+00:00</updated>
     <summary>Article by André Steiner
 DOI: https://doi.org/10.1515/zug-2025-0005</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zug-2025-0005</summary>
     <title>Friederike Sattler/Reinhard H. Schmidt/Harald Wixforth/Dieter Ziegler,200 Jahre Frankfurter Sparkasse, Franz Steiner Verlag, Stuttgart 2023, 374 S., € 49,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0006/html"/>
     <id>https://doi.org/10.1515/zug-2025-0006</id>
-    <updated>2025-05-04T22:14:22.565215+00:00</updated>
+    <updated>2025-05-06T05:08:24.720841+00:00</updated>
     <summary>Article by Sebastian Teupe
 DOI: https://doi.org/10.1515/zug-2025-0006</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/zug-2025-0006</summary>
     <title>Michael Wetzel,Graf Detlev von Einsiedel (1773–1861). Sächsischer Staatsmann, Unternehmer und Exponent der Erweckungsbewegung zwischen Alter Welt und bürgerlicher Moderne, Leipziger Universitätsverlag, Leipzig 2023, 392 S., € 62,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0001/html"/>
     <id>https://doi.org/10.1515/zug-2025-0001</id>
-    <updated>2025-05-04T22:14:22.565221+00:00</updated>
+    <updated>2025-05-06T05:08:24.720849+00:00</updated>
     <summary>Article by Maren-Sophie Fünderich
 DOI: https://doi.org/10.1515/zug-2025-0001</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/zug-2025-0001</summary>
     <title>Richard N. Langlois,The corporation and the twentieth century. The history of American business enterprise, Princeton University Press, Princton/Oxford 2023, 816 S., $ 50,00/£ 42,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0004/html"/>
     <id>https://doi.org/10.1515/zug-2025-0004</id>
-    <updated>2025-05-04T22:14:22.565227+00:00</updated>
+    <updated>2025-05-06T05:08:24.720857+00:00</updated>
     <summary>Article by Michael C. Schneider
 DOI: https://doi.org/10.1515/zug-2025-0004</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/zug-2025-0004</summary>
     <title>Mareike Witkowski,Arbeitsplatz Haushalt. Städtische Hausgehilfinnen im 20. Jahrhundert, Vandenhoeck &amp; Ruprecht, Göttingen 2023, 373 S., € 65,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0007/html"/>
     <id>https://doi.org/10.1515/zug-2025-0007</id>
-    <updated>2025-05-04T22:14:22.565235+00:00</updated>
+    <updated>2025-05-06T05:08:24.720864+00:00</updated>
     <summary>Article by Jonathan Voges
 DOI: https://doi.org/10.1515/zug-2025-0007</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/zug-2025-0007</summary>
     <title>Franz Hederer,Politik der Ökonomie. Der Reichswirtschaftsrat in der Weimarer Republik, Campus Verlag, Frankfurt a.M. 2024, 415 S., € 54,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0009/html"/>
     <id>https://doi.org/10.1515/zug-2025-0009</id>
-    <updated>2025-05-04T22:14:22.565243+00:00</updated>
+    <updated>2025-05-06T05:08:24.720870+00:00</updated>
     <summary>Article by Werner Bührer
 DOI: https://doi.org/10.1515/zug-2025-0009</summary>
   </entry>
@@ -134,21 +131,21 @@ DOI: https://doi.org/10.1515/zug-2025-0009</summary>
     <title>Preis für Unternehmensgeschichte Ausschreibung 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0011/html"/>
     <id>https://doi.org/10.1515/zug-2025-0011</id>
-    <updated>2025-05-04T22:14:22.565248+00:00</updated>
+    <updated>2025-05-06T05:08:24.720877+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zug-2025-0011</summary>
   </entry>
   <entry>
     <title>Reisestipendien Ausschreibung 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0012/html"/>
     <id>https://doi.org/10.1515/zug-2025-0012</id>
-    <updated>2025-05-04T22:14:22.565253+00:00</updated>
+    <updated>2025-05-06T05:08:24.720882+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zug-2025-0012</summary>
   </entry>
   <entry>
     <title>Zur Rezension in der Geschäftsstelle eingegangene Bücher</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zug-2025-0013/html"/>
     <id>https://doi.org/10.1515/zug-2025-0013</id>
-    <updated>2025-05-04T22:14:22.565258+00:00</updated>
+    <updated>2025-05-06T05:08:24.720888+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zug-2025-0013</summary>
   </entry>
 </feed>

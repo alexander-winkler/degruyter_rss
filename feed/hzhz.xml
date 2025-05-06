@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Historische Zeitschrift</title>
-  <link href="https://www.degruyterbrill.com/journal/key/hzhz/320/2/html"/>
-  <updated>2025-05-04T22:06:21.499309+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/hzhz/320/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hzhz.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/hzhz/html" rel="related"/>
+  <updated>2025-05-06T04:57:23.305711+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hzhz.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Historische Zeitschrift</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hzhz.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-frontmatter3202/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-frontmatter3202</id>
-    <updated>2025-05-04T22:06:21.499334+00:00</updated>
+    <updated>2025-05-06T04:57:23.305729+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/hzhz-2025-frontmatter3202</summary>
   </entry>
   <entry>
     <title>Das Ende des Aufstiegs? Die Idee von einer „Abschließung des Ritterstandes“ neu gedacht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-0007/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-0007</id>
-    <updated>2025-05-04T22:06:21.499341+00:00</updated>
+    <updated>2025-05-06T04:57:23.305735+00:00</updated>
     <summary>Article by Markus Jansen
 DOI: https://doi.org/10.1515/hzhz-2025-0007</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-0007</summary>
     <title>„Kosmopolitischer Idealismus“ und „nationale Realpolitik“ Aspekte der Sicherheitspolitik der deutschen Liberalen zur Mitte des 19. Jahrhunderts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-0008/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-0008</id>
-    <updated>2025-05-04T22:06:21.499348+00:00</updated>
+    <updated>2025-05-06T04:57:23.305743+00:00</updated>
     <summary>Article by Miroslav Šedivý
 DOI: https://doi.org/10.1515/hzhz-2025-0008</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-0008</summary>
     <title>Adenauer und die Kernwaffen. Neue Antworten auf alte Probleme</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-0009/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-0009</id>
-    <updated>2025-05-04T22:06:21.499353+00:00</updated>
+    <updated>2025-05-06T04:57:23.305748+00:00</updated>
     <summary>Article by Dominik Geppert, Holger Löttel
 DOI: https://doi.org/10.1515/hzhz-2025-0009</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-0009</summary>
     <title>Privatrechtsgeschichte als Imperiengeschichte. Neue Wege zur Rechtsgeschichte des Habsburgerreichs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-0010/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-0010</id>
-    <updated>2025-05-04T22:06:21.499358+00:00</updated>
+    <updated>2025-05-06T04:57:23.305753+00:00</updated>
     <summary>Article by Sebastian M. Spitra
 DOI: https://doi.org/10.1515/hzhz-2025-0010</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-0010</summary>
     <title>John W. Arthur, Beer. A Global Journey through the Past and Present. Oxford, Oxford University Press 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1052/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1052</id>
-    <updated>2025-05-04T22:06:21.499363+00:00</updated>
+    <updated>2025-05-06T04:57:23.305757+00:00</updated>
     <summary>Article by Christof Paulus
 DOI: https://doi.org/10.1515/hzhz-2025-1052</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1052</summary>
     <title>Christian Alexander Neumann (Ed.), Old Age Before Modernity. Case Studies and Methodological Perspectives, 500 BC – 1700 AD. Heidelberg, Heidelberg University Publishing 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1053/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1053</id>
-    <updated>2025-05-04T22:06:21.499369+00:00</updated>
+    <updated>2025-05-06T04:57:23.305763+00:00</updated>
     <summary>Article by Winfried Schmitz
 DOI: https://doi.org/10.1515/hzhz-2025-1053</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1053</summary>
     <title>Birgit Aschmann / Klaus Herbers, Eine andere Geschichte Spaniens. Schlüsselgestalten vom Mittelalter bis ins 20. Jahrhundert. Köln, Böhlau 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1054/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1054</id>
-    <updated>2025-05-04T22:06:21.499377+00:00</updated>
+    <updated>2025-05-06T04:57:23.305768+00:00</updated>
     <summary>Article by Christin Hansen
 DOI: https://doi.org/10.1515/hzhz-2025-1054</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1054</summary>
     <title>Giacomo Bonan / Katia Occhi (Eds.), Environment and Infrastructure. Challenges, Knowledge and Innovation from the Early Modern Period to the Present. (Studies in Early Modern and Contemporary European History, Vol. 6.) Berlin/Boston, De Gruyter 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1055/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1055</id>
-    <updated>2025-05-04T22:06:21.499383+00:00</updated>
+    <updated>2025-05-06T04:57:23.305773+00:00</updated>
     <summary>Article by Jan Hansen
 DOI: https://doi.org/10.1515/hzhz-2025-1055</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1055</summary>
     <title>Christian Jansen / Oliver Janz, Geschichte Italiens. Vom 18. Jahrhundert bis in die Gegenwart. Stuttgart, Kohlhammer 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1056/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1056</id>
-    <updated>2025-05-04T22:06:21.499388+00:00</updated>
+    <updated>2025-05-06T04:57:23.305782+00:00</updated>
     <summary>Article by Christoph Cornelißen
 DOI: https://doi.org/10.1515/hzhz-2025-1056</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1056</summary>
     <title>Christof Dipper, Die Entdeckung der Gesellschaft. Sattelzeit in Europa, 1770–1850. Berlin, Vergangenheitsverlag 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1057/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1057</id>
-    <updated>2025-05-04T22:06:21.499393+00:00</updated>
+    <updated>2025-05-06T04:57:23.305786+00:00</updated>
     <summary>Article by Hartmut Kaelble
 DOI: https://doi.org/10.1515/hzhz-2025-1057</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1057</summary>
     <title>Rainer Nicolaysen (Hrsg.), Hamburger Historikerinnen und Historiker im Gespräch. Interviews mit Gabriele Clemens, Hans-Werner Goetz, Frank Golczewski, Arno Herzig, Franklin Kopitzsch und Barbara Vogel. Göttingen, Wallstein 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1058/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1058</id>
-    <updated>2025-05-04T22:06:21.499399+00:00</updated>
+    <updated>2025-05-06T04:57:23.305792+00:00</updated>
     <summary>Article by Christof Dipper
 DOI: https://doi.org/10.1515/hzhz-2025-1058</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1058</summary>
     <title>Frank Bernstein, Vergessen als politische Option. Zur Einhegung interner Konflikte in der Antike. Stuttgart, Steiner 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1059/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1059</id>
-    <updated>2025-05-04T22:06:21.499404+00:00</updated>
+    <updated>2025-05-06T04:57:23.305796+00:00</updated>
     <summary>Article by Jan B. Meister
 DOI: https://doi.org/10.1515/hzhz-2025-1059</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1059</summary>
     <title>John W. I. Lee, The First Black Archaeologist. A Life of John Wesley Gilbert. Oxford, Oxford University Press 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1060/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1060</id>
-    <updated>2025-05-04T22:06:21.499411+00:00</updated>
+    <updated>2025-05-06T04:57:23.305800+00:00</updated>
     <summary>Article by Achim Lichtenberger
 DOI: https://doi.org/10.1515/hzhz-2025-1060</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1060</summary>
     <title>Silvia Castelli / Ineke Sluiter (Eds.), Agents of Change in the Greco-Roman and Early Modern Periods. Ten Case Studies in Agency in Innovation. (Euhormos. Greco-Roman Studies in Anchoring Innovation, Vol. 4.) Leiden, Brill 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1061/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1061</id>
-    <updated>2025-05-04T22:06:21.499416+00:00</updated>
+    <updated>2025-05-06T04:57:23.305805+00:00</updated>
     <summary>Article by Roxana Kath
 DOI: https://doi.org/10.1515/hzhz-2025-1061</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1061</summary>
     <title>Aaron Gebler, Die Verwendung und Bedeutung von Losverfahren in Athen und im griechischen Raum vom 7. bis 5. Jahrhundert v. Chr. (Hamburger Studien zu Gesellschaften und Kulturen der Vormoderne, Bd. 27.) Stuttgart, Steiner 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1062/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1062</id>
-    <updated>2025-05-04T22:06:21.499420+00:00</updated>
+    <updated>2025-05-06T04:57:23.305809+00:00</updated>
     <summary>Article by Angela Pabst
 DOI: https://doi.org/10.1515/hzhz-2025-1062</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1062</summary>
     <title>Madalina Dana, La correspondance grecque privée sur plomb et sur tesson. Corpus épigraphique et commentaire historique. (Vestigia. Beiträge zur alten Geschichte, vol. 73.) München, Beck 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1063/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1063</id>
-    <updated>2025-05-04T22:06:21.499425+00:00</updated>
+    <updated>2025-05-06T04:57:23.305814+00:00</updated>
     <summary>Article by Patrick Reinard
 DOI: https://doi.org/10.1515/hzhz-2025-1063</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1063</summary>
     <title>Julian Wünsch, Großmacht gegen lokale Machthaber. Die Herrschaftspraxis der Seleukiden an den Rändern ihres Reiches. (Philippika. Altertumswissenschaftliche Abhandlungen, Bd. 164.) Wiesbaden, Harrassowitz 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1064/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1064</id>
-    <updated>2025-05-04T22:06:21.499430+00:00</updated>
+    <updated>2025-05-06T04:57:23.305818+00:00</updated>
     <summary>Article by Timo Klär
 DOI: https://doi.org/10.1515/hzhz-2025-1064</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1064</summary>
     <title>Panayiotis Christoforou, Imagining the Roman Emperor. Perceptions of Rulers in the High Empire. Cambridge, Cambridge University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1065/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1065</id>
-    <updated>2025-05-04T22:06:21.499435+00:00</updated>
+    <updated>2025-05-06T04:57:23.305823+00:00</updated>
     <summary>Article by Philipp Brockkötter
 DOI: https://doi.org/10.1515/hzhz-2025-1065</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1065</summary>
     <title>Angela Hug, Fertility, Ideology, and the Cultural Politics of Reproduction at Rome. (Impact of Empire, Vol. 45.) Leiden, Brill 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1066/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1066</id>
-    <updated>2025-05-04T22:06:21.499440+00:00</updated>
+    <updated>2025-05-06T04:57:23.305827+00:00</updated>
     <summary>Article by Ann Cathrin Harders
 DOI: https://doi.org/10.1515/hzhz-2025-1066</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1066</summary>
     <title>Brenda Longfellow / Molly Swetnam-Burland (Eds.), Women’s Lives, Women’s Voices. Roman Material Culture and Female Agency in the Bay of Naples. Austin, TX, University of Texas Press 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1067/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1067</id>
-    <updated>2025-05-04T22:06:21.499445+00:00</updated>
+    <updated>2025-05-06T04:57:23.305832+00:00</updated>
     <summary>Article by Beate Wagner-Hasel
 DOI: https://doi.org/10.1515/hzhz-2025-1067</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1067</summary>
     <title>Isidor Brodersen, Das Spiel mit der Vergangenheit in der Zweiten Sophistik. (Potsdamer Altertumswissenschaftliche Beiträge, Bd. 86.) Stuttgart, Steiner 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1068/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1068</id>
-    <updated>2025-05-04T22:06:21.499449+00:00</updated>
+    <updated>2025-05-06T04:57:23.305838+00:00</updated>
     <summary>Article by Heinz-Günther Nesselrath
 DOI: https://doi.org/10.1515/hzhz-2025-1068</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1068</summary>
     <title>Steve Mason, Jews and Christians in the Roman World. From Historical Method to Cases. (Ancient Judaism and Early Christianity, Vol. 116.) Leiden, Brill 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1069/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1069</id>
-    <updated>2025-05-04T22:06:21.499454+00:00</updated>
+    <updated>2025-05-06T04:57:23.305842+00:00</updated>
     <summary>Article by Ruben A. Bühner
 DOI: https://doi.org/10.1515/hzhz-2025-1069</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1069</summary>
     <title>Brouria Bitton-Ashkelony / Martin Goodman (Eds.), Essays on Jews and Christians in Late Antiquity in Honour of Oded Irshai. (Cultural Encounters in Late Antiquity and the Middle Ages, Vol. 40.) Turnhout, Brepols 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1070/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1070</id>
-    <updated>2025-05-04T22:06:21.499458+00:00</updated>
+    <updated>2025-05-06T04:57:23.305847+00:00</updated>
     <summary>Article by Walter Ameling
 DOI: https://doi.org/10.1515/hzhz-2025-1070</summary>
   </entry>
@@ -206,7 +203,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1070</summary>
     <title>Tabea L. Meurer / Veronika Egetenmeyr (Eds.), Gallia docta? Education and In-/Exclusion in Late Antique Gaul. Tübingen, Mohr Siebeck 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1071/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1071</id>
-    <updated>2025-05-04T22:06:21.499463+00:00</updated>
+    <updated>2025-05-06T04:57:23.305851+00:00</updated>
     <summary>Article by John F. Drinkwater
 DOI: https://doi.org/10.1515/hzhz-2025-1071</summary>
   </entry>
@@ -214,7 +211,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1071</summary>
     <title>Lucy Grig, Popular Culture and the End of Antiquity in Southern Gaul, c. 400–550. Cambridge, Cambridge University Press 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1072/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1072</id>
-    <updated>2025-05-04T22:06:21.499469+00:00</updated>
+    <updated>2025-05-06T04:57:23.305855+00:00</updated>
     <summary>Article by Tabea L. Meurer
 DOI: https://doi.org/10.1515/hzhz-2025-1072</summary>
   </entry>
@@ -222,7 +219,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1072</summary>
     <title>Peter Brown, Journeys of the Mind. A Life in History. Princeton, NJ, Princeton University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1073/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1073</id>
-    <updated>2025-05-04T22:06:21.499473+00:00</updated>
+    <updated>2025-05-06T04:57:23.305859+00:00</updated>
     <summary>Article by Julia Hillner
 DOI: https://doi.org/10.1515/hzhz-2025-1073</summary>
   </entry>
@@ -230,7 +227,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1073</summary>
     <title>Johannes Preiser-Kapeller, Der lange Sommer und die kleine Eiszeit. Klima, Pandemien und der Wandel der Alten Welt von 500 bis 1500 n. Chr. (Globalhistorische Skizzen, Bd. 38.) Wien, Mandelbaum 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1074/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1074</id>
-    <updated>2025-05-04T22:06:21.499477+00:00</updated>
+    <updated>2025-05-06T04:57:23.305864+00:00</updated>
     <summary>Article by Peter Zeller
 DOI: https://doi.org/10.1515/hzhz-2025-1074</summary>
   </entry>
@@ -238,7 +235,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1074</summary>
     <title>Christoph Mauntel, Die Erdteile in der Weltordnung des Mittelalters. Asien – Europa – Afrika. Stuttgart, Hiersemann 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1075/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1075</id>
-    <updated>2025-05-04T22:06:21.499482+00:00</updated>
+    <updated>2025-05-06T04:57:23.305868+00:00</updated>
     <summary>Article by Hans-Werner Goetz
 DOI: https://doi.org/10.1515/hzhz-2025-1075</summary>
   </entry>
@@ -246,7 +243,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1075</summary>
     <title>Józef Dobosz, The Church and Cistercians in Medieval Poland. Foundations, Documents, People. (East Central Europe, 476–1795, Vol. 2.) Turnhout, Brepols 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1076/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1076</id>
-    <updated>2025-05-04T22:06:21.499486+00:00</updated>
+    <updated>2025-05-06T04:57:23.305873+00:00</updated>
     <summary>Article by Olga Keller
 DOI: https://doi.org/10.1515/hzhz-2025-1076</summary>
   </entry>
@@ -254,7 +251,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1076</summary>
     <title>Frank-Michael Kaufmann (Hrsg.), Glossen zum Sachsenspiegel-Landrecht. Petrinische Glosse. (Monumenta Germaniae Historica. Fontes Iuris Germanici Antiqui, Bd. 11.) Wiesbaden, Harrassowitz 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1077/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1077</id>
-    <updated>2025-05-04T22:06:21.499491+00:00</updated>
+    <updated>2025-05-06T04:57:23.305877+00:00</updated>
     <summary>Article by Ulrich Andermann
 DOI: https://doi.org/10.1515/hzhz-2025-1077</summary>
   </entry>
@@ -262,7 +259,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1077</summary>
     <title>Katherine Ludwig Jansen, Peace and Penance in Late Medieval Italy. Princeton, NJ, Princeton University Press 2020</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1078/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1078</id>
-    <updated>2025-05-04T22:06:21.499495+00:00</updated>
+    <updated>2025-05-06T04:57:23.305881+00:00</updated>
     <summary>Article by Martin Bauch
 DOI: https://doi.org/10.1515/hzhz-2025-1078</summary>
   </entry>
@@ -270,7 +267,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1078</summary>
     <title>Volker Leppin, Ruhen in Gott. Eine Geschichte der christlichen Mystik. München, Beck 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1079/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1079</id>
-    <updated>2025-05-04T22:06:21.499499+00:00</updated>
+    <updated>2025-05-06T04:57:23.305886+00:00</updated>
     <summary>Article by Jörg Sonntag
 DOI: https://doi.org/10.1515/hzhz-2025-1079</summary>
   </entry>
@@ -278,7 +275,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1079</summary>
     <title>Susanne Thürigen, Turm, Spiegel, Buch. Astronomische Tischuhren in Süddeutschland zwischen 1450 und 1650. (Object Studies in Art History, Bd. 6.) Berlin/Boston, De Gruyter 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1080/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1080</id>
-    <updated>2025-05-04T22:06:21.499504+00:00</updated>
+    <updated>2025-05-06T04:57:23.305891+00:00</updated>
     <summary>Article by Matthias Rekow
 DOI: https://doi.org/10.1515/hzhz-2025-1080</summary>
   </entry>
@@ -286,7 +283,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1080</summary>
     <title>Daniel Bellingradt / Anna Reynolds (Eds.), The Paper Trade in Early Modern Europe. Practices, Materials, Networks. (Library of the Written Word, Vol. 89.) Leiden, Brill 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1081/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1081</id>
-    <updated>2025-05-04T22:06:21.499508+00:00</updated>
+    <updated>2025-05-06T04:57:23.305895+00:00</updated>
     <summary>Article by Ulrich Pfister
 DOI: https://doi.org/10.1515/hzhz-2025-1081</summary>
   </entry>
@@ -294,7 +291,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1081</summary>
     <title>Joachim Fichtel, Die Zwickauer Propheten. Nicolaus Storch und die radikale Reformation. Leipzig, Leipziger Universitätsverlag 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1082/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1082</id>
-    <updated>2025-05-04T22:06:21.499512+00:00</updated>
+    <updated>2025-05-06T04:57:23.305900+00:00</updated>
     <summary>Article by Anselm Schubert
 DOI: https://doi.org/10.1515/hzhz-2025-1082</summary>
   </entry>
@@ -302,7 +299,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1082</summary>
     <title>James R. Fichter, Tea. Consumption, Politics, and Revolution, 1773–1776. Ithaca, NY, Cornell University Press Services 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1083/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1083</id>
-    <updated>2025-05-04T22:06:21.499518+00:00</updated>
+    <updated>2025-05-06T04:57:23.305909+00:00</updated>
     <summary>Article by Martin Krieger
 DOI: https://doi.org/10.1515/hzhz-2025-1083</summary>
   </entry>
@@ -310,7 +307,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1083</summary>
     <title>Jeremy Adler, Goethe. Die Erfindung der Moderne. München, Beck 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1084/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1084</id>
-    <updated>2025-05-04T22:06:21.499523+00:00</updated>
+    <updated>2025-05-06T04:57:23.305913+00:00</updated>
     <summary>Article by Georg Schmidt
 DOI: https://doi.org/10.1515/hzhz-2025-1084</summary>
   </entry>
@@ -318,7 +315,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1084</summary>
     <title>Eduardo Posada-Carbó / Joanna Innes / Mark Philp (Eds.), Re-imagining Democracy in Latin America and the Caribbean, 1780–1870. Oxford, Oxford University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1085/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1085</id>
-    <updated>2025-05-04T22:06:21.499527+00:00</updated>
+    <updated>2025-05-06T04:57:23.305917+00:00</updated>
     <summary>Article by Stefan Rinke
 DOI: https://doi.org/10.1515/hzhz-2025-1085</summary>
   </entry>
@@ -326,7 +323,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1085</summary>
     <title>Daniel Ristau, Die Familie Bondi und das „Jüdische“. Beziehungsgeschichte unter dem bürgerlichen Wertehimmel, 1790–1870. (Bürgertum. NF., Bd. 22.) Göttingen, Vandenhoeck &amp; Ruprecht 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1086/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1086</id>
-    <updated>2025-05-04T22:06:21.499532+00:00</updated>
+    <updated>2025-05-06T04:57:23.305921+00:00</updated>
     <summary>Article by Ulf Morgenstern
 DOI: https://doi.org/10.1515/hzhz-2025-1086</summary>
   </entry>
@@ -334,7 +331,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1086</summary>
     <title>Hans-Joachim Hoffmann, Johann Anton Joseph Hansen (1801–1875). Ein streitbarer Trierer Theologe und seine Anstöße zu Reformen in Kirche, Staat und Gesellschaft. Münster, Aschendorff 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1087/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1087</id>
-    <updated>2025-05-04T22:06:21.499537+00:00</updated>
+    <updated>2025-05-06T04:57:23.305926+00:00</updated>
     <summary>Article by Martin Belz
 DOI: https://doi.org/10.1515/hzhz-2025-1087</summary>
   </entry>
@@ -342,7 +339,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1087</summary>
     <title>Katrin Brösicke, Kulturkontakt Krieg. Spanienbilder deutschsprachiger Teilnehmer am spanischen Unabhängigkeitskrieg 1808–1814. 2., durchges. und korr. Aufl. (Krieg in der Geschichte, Bd. 116.) Paderborn, Schöningh 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1088/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1088</id>
-    <updated>2025-05-04T22:06:21.499542+00:00</updated>
+    <updated>2025-05-06T04:57:23.305931+00:00</updated>
     <summary>Article by Martin Kauder
 DOI: https://doi.org/10.1515/hzhz-2025-1088</summary>
   </entry>
@@ -350,7 +347,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1088</summary>
     <title>M. Talha Çiçek, Negotiating Empire in the Middle East. Ottomans and Arab Nomads in the Modern Era, 1840–1914. Cambridge, Cambridge University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1089/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1089</id>
-    <updated>2025-05-04T22:06:21.499546+00:00</updated>
+    <updated>2025-05-06T04:57:23.305935+00:00</updated>
     <summary>Article by Robin F. C. Schmahl
 DOI: https://doi.org/10.1515/hzhz-2025-1089</summary>
   </entry>
@@ -358,7 +355,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1089</summary>
     <title>Jennifer C. Snow, Mission, Race, and Empire. The Episcopal Church in Global Context. New York, Oxford University Press 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1090/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1090</id>
-    <updated>2025-05-04T22:06:21.499551+00:00</updated>
+    <updated>2025-05-06T04:57:23.305940+00:00</updated>
     <summary>Article by Benedikt Stuchtey
 DOI: https://doi.org/10.1515/hzhz-2025-1090</summary>
   </entry>
@@ -366,7 +363,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1090</summary>
     <title>Saskia Coenen Snyder, A Brilliant Commodity. Diamonds and Jews in a Modern Setting. Oxford, Oxford University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1091/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1091</id>
-    <updated>2025-05-04T22:06:21.499555+00:00</updated>
+    <updated>2025-05-06T04:57:23.305945+00:00</updated>
     <summary>Article by Mona Rudolph
 DOI: https://doi.org/10.1515/hzhz-2025-1091</summary>
   </entry>
@@ -374,7 +371,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1091</summary>
     <title>Kevin Kenny, The Problem of Immigration in a Slaveholding Republic. Policing Mobility in the Nineteenth-Century United States. Oxford, Oxford University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1092/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1092</id>
-    <updated>2025-05-04T22:06:21.499559+00:00</updated>
+    <updated>2025-05-06T04:57:23.305949+00:00</updated>
     <summary>Article by Manfred Berg
 DOI: https://doi.org/10.1515/hzhz-2025-1092</summary>
   </entry>
@@ -382,7 +379,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1092</summary>
     <title>Alexander Sievers, Die Ökonomisierung der Kartografie. Kartenhandel im 19. Jahrhundert in Deutschland. (Jahrbuch für Wirtschaftsgeschichte, Beih. 31.) Berlin/Boston, De Gruyter 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1093/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1093</id>
-    <updated>2025-05-04T22:06:21.499564+00:00</updated>
+    <updated>2025-05-06T04:57:23.305953+00:00</updated>
     <summary>Article by Philipp Kröger
 DOI: https://doi.org/10.1515/hzhz-2025-1093</summary>
   </entry>
@@ -390,7 +387,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1093</summary>
     <title>Gundula Gahlen, Nerven, Krieg und militärische Führung. Psychisch erkrankte Offiziere in Deutschland (1890–1939). (Krieg und Konflikt, Bd. 17.) Frankfurt am Main, Campus 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1094/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1094</id>
-    <updated>2025-05-04T22:06:21.499569+00:00</updated>
+    <updated>2025-05-06T04:57:23.305958+00:00</updated>
     <summary>Article by Nicole Kramer
 DOI: https://doi.org/10.1515/hzhz-2025-1094</summary>
   </entry>
@@ -398,7 +395,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1094</summary>
     <title>Ew. Kaiserlichen und Königlichen Majestät alleruntertänigster Diener (Bearb.), „Ew. Kaiserlichen und Königlichen Majestät alleruntertänigster Diener“. Briefe Georg Ernst Hinzpeters an Kaiser Wilhelm II. aus den Jahren 1897–1906. Edition und Kommentar vonGeorg Schneider. (Sonderveröffentlichung des Historischen Vereins für die Grafschaft Ravensberg e. V., Bd. 27.) Bielefeld, Verlag für Regionalgeschichte 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1095/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1095</id>
-    <updated>2025-05-04T22:06:21.499576+00:00</updated>
+    <updated>2025-05-06T04:57:23.305963+00:00</updated>
     <summary>Article by Ulf Morgenstern
 DOI: https://doi.org/10.1515/hzhz-2025-1095</summary>
   </entry>
@@ -406,7 +403,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1095</summary>
     <title>Antonio Scaglia, Max Weber – Der revolutionäre Wandel zur Moderne. Nichtlegitime Herrschaft und Demokratisches Charisma. Berlin, Duncker &amp; Humblot 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1096/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1096</id>
-    <updated>2025-05-04T22:06:21.499581+00:00</updated>
+    <updated>2025-05-06T04:57:23.305968+00:00</updated>
     <summary>Article by Franz Hederer
 DOI: https://doi.org/10.1515/hzhz-2025-1096</summary>
   </entry>
@@ -414,7 +411,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1096</summary>
     <title>Stefan Berger / Philipp Müller (Eds.), Dynamics of Emigration. Émigré Scholars and the Production of Historical Knowledge in the 20th Century. Oxford, Berghahn 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1097/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1097</id>
-    <updated>2025-05-04T22:06:21.499585+00:00</updated>
+    <updated>2025-05-06T04:57:23.305972+00:00</updated>
     <summary>Article by Birte Meinschien
 DOI: https://doi.org/10.1515/hzhz-2025-1097</summary>
   </entry>
@@ -422,7 +419,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1097</summary>
     <title>Hans-Peter Ullmann, Kontrolle und Beratung. Der deutsche Rechnungshof im Wechsel der politischen Systeme des 20. Jahrhunderts. Göttingen, Wallstein 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1098/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1098</id>
-    <updated>2025-05-04T22:06:21.499589+00:00</updated>
+    <updated>2025-05-06T04:57:23.305976+00:00</updated>
     <summary>Article by Mark Spoerer
 DOI: https://doi.org/10.1515/hzhz-2025-1098</summary>
   </entry>
@@ -430,7 +427,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1098</summary>
     <title>Pepijn Corduwener, The Rise and Fall of the People’s Parties. A History of Democracy in Western Europe since 1918. Oxford, Oxford University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1099/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1099</id>
-    <updated>2025-05-04T22:06:21.499594+00:00</updated>
+    <updated>2025-05-06T04:57:23.305981+00:00</updated>
     <summary>Article by Wolfram Kaiser
 DOI: https://doi.org/10.1515/hzhz-2025-1099</summary>
   </entry>
@@ -438,7 +435,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1099</summary>
     <title>Dennis Werberg, Der Stahlhelm – Bund der Frontsoldaten. Eine Veteranenorganisation und ihr Verhältnis zum Nationalsozialismus. (Zeitalter der Weltkriege, Bd. 25.) Berlin/Boston, De Gruyter 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1100/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1100</id>
-    <updated>2025-05-04T22:06:21.499599+00:00</updated>
+    <updated>2025-05-06T04:57:23.305985+00:00</updated>
     <summary>Article by Anke Hoffstadt
 DOI: https://doi.org/10.1515/hzhz-2025-1100</summary>
   </entry>
@@ -446,7 +443,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1100</summary>
     <title>Günter Erbe, Nicolaus Sombart. Utopist, Libertin, Dandy. Köln, Böhlau 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1101/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1101</id>
-    <updated>2025-05-04T22:06:21.499603+00:00</updated>
+    <updated>2025-05-06T04:57:23.305989+00:00</updated>
     <summary>Article by Norman Domeier
 DOI: https://doi.org/10.1515/hzhz-2025-1101</summary>
   </entry>
@@ -454,7 +451,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1101</summary>
     <title>Jens Wehner, „Technik können Sie von der Taktik nicht trennen“. Die Jagdflieger der Wehrmacht. (Krieg und Konflikt, Bd. 15.) Frankfurt am Main, Campus 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1102/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1102</id>
-    <updated>2025-05-04T22:06:21.499607+00:00</updated>
+    <updated>2025-05-06T04:57:23.305994+00:00</updated>
     <summary>Article by Niklas Lenhard-Schramm
 DOI: https://doi.org/10.1515/hzhz-2025-1102</summary>
   </entry>
@@ -462,7 +459,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1102</summary>
     <title>Stefanie Palm, Fördern und Zensieren. Die Medienpolitik des Bundesinnenministeriums nach dem Nationalsozialismus. (Veröffentlichungen zur Geschichte der deutschen Innenministerien nach 1945, Bd. 7.) Göttingen, Wallstein 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1103/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1103</id>
-    <updated>2025-05-04T22:06:21.499612+00:00</updated>
+    <updated>2025-05-06T04:57:23.305999+00:00</updated>
     <summary>Article by Frederic Schulz
 DOI: https://doi.org/10.1515/hzhz-2025-1103</summary>
   </entry>
@@ -470,7 +467,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1103</summary>
     <title>Andrea Erkenbrecher, Oradour und die Deutschen. Geschichtsrevisionismus, strafrechtliche Verfolgung, Entschädigungszahlungen und Versöhnungsgesten ab 1949. (Quellen und Darstellungen zur Zeitgeschichte, Bd. 126.) Berlin/Boston, De Gruyter 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1104/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1104</id>
-    <updated>2025-05-04T22:06:21.499616+00:00</updated>
+    <updated>2025-05-06T04:57:23.306004+00:00</updated>
     <summary>Article by Annette Weinke
 DOI: https://doi.org/10.1515/hzhz-2025-1104</summary>
   </entry>
@@ -478,7 +475,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1104</summary>
     <title>Jutta Braun, Politische Medizin. Das Ministerium für Gesundheitswesen der DDR 1950 bis 1970. Göttingen, Wallstein 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1105/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1105</id>
-    <updated>2025-05-04T22:06:21.499621+00:00</updated>
+    <updated>2025-05-06T04:57:23.306008+00:00</updated>
     <summary>Article by Hartmut Bettin
 DOI: https://doi.org/10.1515/hzhz-2025-1105</summary>
   </entry>
@@ -486,7 +483,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1105</summary>
     <title>Luiz Guilherme Burlamaqui, The Making of a Global FIFA. Cold War Politics and the Rise of João Havelange to the FIFA Presidency, 1950–1974. Übers. von John Ellis-Guardiola. (RERIS Studies in International Sport Relations, Vol. 1.) Berlin/Boston, De Gruyter 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1106/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1106</id>
-    <updated>2025-05-04T22:06:21.499628+00:00</updated>
+    <updated>2025-05-06T04:57:23.306013+00:00</updated>
     <summary>Article by Christiane Eisenberg
 DOI: https://doi.org/10.1515/hzhz-2025-1106</summary>
   </entry>
@@ -494,7 +491,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1106</summary>
     <title>Louis Howard Porter, Reds in Blue. UNESCO, World Governance, and the Soviet Internationalist Imagination. Oxford, Oxford University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1107/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1107</id>
-    <updated>2025-05-04T22:06:21.499633+00:00</updated>
+    <updated>2025-05-06T04:57:23.306017+00:00</updated>
     <summary>Article by Julia Gehrke
 DOI: https://doi.org/10.1515/hzhz-2025-1107</summary>
   </entry>
@@ -502,7 +499,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1107</summary>
     <title>Erik Linstrum, Age of Emergency. Living with Violence at the End of the British Empire. Oxford, Oxford University Press 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1108/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1108</id>
-    <updated>2025-05-04T22:06:21.499637+00:00</updated>
+    <updated>2025-05-06T04:57:23.306021+00:00</updated>
     <summary>Article by Benedikt Stuchtey
 DOI: https://doi.org/10.1515/hzhz-2025-1108</summary>
   </entry>
@@ -510,7 +507,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1108</summary>
     <title>Jane Freeland, Feminist Transformations and Domestic Violence Activism in Divided Berlin, 1968–2002. (British Academy Monographs.) Oxford, Oxford University Press 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1109/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1109</id>
-    <updated>2025-05-04T22:06:21.499641+00:00</updated>
+    <updated>2025-05-06T04:57:23.306026+00:00</updated>
     <summary>Article by Carina Gabriel-Kinz
 DOI: https://doi.org/10.1515/hzhz-2025-1109</summary>
   </entry>
@@ -518,7 +515,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1109</summary>
     <title>Stephen Brooke, London, 1984. Conflict and Change in the Radical City. Oxford, Oxford University Press 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1110/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1110</id>
-    <updated>2025-05-04T22:06:21.499646+00:00</updated>
+    <updated>2025-05-06T04:57:23.306030+00:00</updated>
     <summary>Article by Andreas Fahrmeir
 DOI: https://doi.org/10.1515/hzhz-2025-1110</summary>
   </entry>
@@ -526,7 +523,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1110</summary>
     <title>Michael Hecker / Bärbel Friedrich, Die ostdeutschen Universitäten im vereinten Deutschland. Eine Erfolgsgeschichte in Ost-West-Perspektive. Halle, Mitteldeutscher Verlag 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-1111/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-1111</id>
-    <updated>2025-05-04T22:06:21.499650+00:00</updated>
+    <updated>2025-05-06T04:57:23.306035+00:00</updated>
     <summary>Article by Krijn Thijs
 DOI: https://doi.org/10.1515/hzhz-2025-1111</summary>
   </entry>
@@ -534,7 +531,7 @@ DOI: https://doi.org/10.1515/hzhz-2025-1111</summary>
     <title>Eingegangene Bücher</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hzhz-2025-0011/html"/>
     <id>https://doi.org/10.1515/hzhz-2025-0011</id>
-    <updated>2025-05-04T22:06:21.499655+00:00</updated>
+    <updated>2025-05-06T04:57:23.306039+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/hzhz-2025-0011</summary>
   </entry>
 </feed>

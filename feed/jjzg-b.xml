@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jahrbuch der Juristischen Zeitgeschichte</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jjzg-b/24/1/html"/>
-  <updated>2025-05-04T22:07:17.683382+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jjzg-b/24/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjzg-b.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jjzg-b/html" rel="related"/>
+  <updated>2025-05-06T04:58:38.929242+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjzg-b.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Jahrbuch der Juristischen Zeitgeschichte</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jjzg-b.xml" type="application/rss+xml"/>
   <entry>
     <title>Das vierundzwanzigste Jahrbuch der juristischen Zeitgeschichte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0001/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0001</id>
-    <updated>2025-05-04T22:07:17.683402+00:00</updated>
+    <updated>2025-05-06T04:58:38.929269+00:00</updated>
     <summary>Article by Thomas Vormbaum
 DOI: https://doi.org/10.1515/jajuz-2024-0001</summary>
   </entry>
@@ -23,21 +20,21 @@ DOI: https://doi.org/10.1515/jajuz-2024-0001</summary>
     <title>Inhaltsverzeichnis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-toc2401/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-toc2401</id>
-    <updated>2025-05-04T22:07:17.683411+00:00</updated>
+    <updated>2025-05-06T04:58:38.929280+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jajuz-2024-toc2401</summary>
   </entry>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-frontmatter2401/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-frontmatter2401</id>
-    <updated>2025-05-04T22:07:17.683417+00:00</updated>
+    <updated>2025-05-06T04:58:38.929288+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jajuz-2024-frontmatter2401</summary>
   </entry>
   <entry>
     <title>Das Richterleitbild im ʻDritten Reichʼ Eine Diskursanalyse zum Bedeutungswandel anhand ausgewählter juristischer Zeitschriften</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0002/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0002</id>
-    <updated>2025-05-04T22:07:17.683424+00:00</updated>
+    <updated>2025-05-06T04:58:38.929295+00:00</updated>
     <summary>Article by Dan Aradovsky
 DOI: https://doi.org/10.1515/jajuz-2024-0002</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0002</summary>
     <title>Vom fragmentarischen zum flächendeckenden Strafrecht? Ein Überblick zur Expansion des Strafrechts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0003/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0003</id>
-    <updated>2025-05-04T22:07:17.683430+00:00</updated>
+    <updated>2025-05-06T04:58:38.929303+00:00</updated>
     <summary>Article by Ulrich Schumacher
 DOI: https://doi.org/10.1515/jajuz-2024-0003</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0003</summary>
     <title>Das Strafrecht und die Zeit. Zeiten der Norm, des Verfahrens und der Strafe</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0004/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0004</id>
-    <updated>2025-05-04T22:07:17.683437+00:00</updated>
+    <updated>2025-05-06T04:58:38.929311+00:00</updated>
     <summary>Article by Domenico Pulitanò
 DOI: https://doi.org/10.1515/jajuz-2024-0004</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0004</summary>
     <title>Hitlerputsch 1923</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0005/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0005</id>
-    <updated>2025-05-04T22:07:17.683443+00:00</updated>
+    <updated>2025-05-06T04:58:38.929319+00:00</updated>
     <summary>Article by Franz Josef Düwell
 DOI: https://doi.org/10.1515/jajuz-2024-0005</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0005</summary>
     <title>Arnold-Freymuth Preis 2024 an Annette Ramelsberger verliehen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0006/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0006</id>
-    <updated>2025-05-04T22:07:17.683449+00:00</updated>
+    <updated>2025-05-06T04:58:38.929326+00:00</updated>
     <summary>Article by Franz Josef Düwell
 DOI: https://doi.org/10.1515/jajuz-2024-0006</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0006</summary>
     <title>Verkündung der Jury-Entscheidung zur Verleihung des Arnold-Freymuth-Preises 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0007/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0007</id>
-    <updated>2025-05-04T22:07:17.683455+00:00</updated>
+    <updated>2025-05-06T04:58:38.929333+00:00</updated>
     <summary>Article by Gudrun Schäpers
 DOI: https://doi.org/10.1515/jajuz-2024-0007</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0007</summary>
     <title>Laudatio Annette Ramelsberger</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0008/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0008</id>
-    <updated>2025-05-04T22:07:17.683461+00:00</updated>
+    <updated>2025-05-06T04:58:38.929340+00:00</updated>
     <summary>Article by Seda Basay-Yildiz
 DOI: https://doi.org/10.1515/jajuz-2024-0008</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0008</summary>
     <title>Die Entwicklung von Demokratie und Rechtsstaat in Deutschland nach 1945 Festrede zur Verleihung des Arnold-Freymuth-Preises 2024 an Annette Ramelsberger, Hamm, 6. Oktober 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0009/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0009</id>
-    <updated>2025-05-04T22:07:17.683467+00:00</updated>
+    <updated>2025-05-06T04:58:38.929350+00:00</updated>
     <summary>Article by Georg D. Falk
 DOI: https://doi.org/10.1515/jajuz-2024-0009</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0009</summary>
     <title>Dankesrede für den Arnold-Freymuth-Preis am 6. Oktober 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0010/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0010</id>
-    <updated>2025-05-04T22:07:17.683473+00:00</updated>
+    <updated>2025-05-06T04:58:38.929357+00:00</updated>
     <summary>Article by Annette Ramelsberger
 DOI: https://doi.org/10.1515/jajuz-2024-0010</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0010</summary>
     <title>Der Prozeß um den Ritter Christian Friedrich von Kahlbutz. Hintergründe, Fakten/Beweise, Recherchen. Das Urteil</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0011/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0011</id>
-    <updated>2025-05-04T22:07:17.683480+00:00</updated>
+    <updated>2025-05-06T04:58:38.929364+00:00</updated>
     <summary>Article by Klaus Przybilla
 DOI: https://doi.org/10.1515/jajuz-2024-0011</summary>
   </entry>
@@ -117,14 +114,14 @@ DOI: https://doi.org/10.1515/jajuz-2024-0011</summary>
     <title>BUNDESVERFASSUNGSGERICHT. Urteil vom 31. Oktober 2023 – 2 BvR 900/22 (Wiederaufnahme zuungunsten des Freigesprochenen)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0012/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0012</id>
-    <updated>2025-05-04T22:07:17.683486+00:00</updated>
+    <updated>2025-05-06T04:58:38.929372+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jajuz-2024-0012</summary>
   </entry>
   <entry>
     <title>Notwehr und Zeitgeist. Ein rechtshistorischer Essay</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0013/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0013</id>
-    <updated>2025-05-04T22:07:17.683492+00:00</updated>
+    <updated>2025-05-06T04:58:38.929378+00:00</updated>
     <summary>Article by Ulrich Schumacher
 DOI: https://doi.org/10.1515/jajuz-2024-0013</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0013</summary>
     <title>Hideo Hatoyama. Ein Bonner Student der Rechtswissenschaft am Anfang des 20. Jahrhunderts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0014/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0014</id>
-    <updated>2025-05-04T22:07:17.683497+00:00</updated>
+    <updated>2025-05-06T04:58:38.929385+00:00</updated>
     <summary>Article by Ulrich Eisenhardt
 DOI: https://doi.org/10.1515/jajuz-2024-0014</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0014</summary>
     <title>Klimastrafrecht und materieller Unrechtsbegriff. Probleme einer liberalen Strafrechtsbegründung angesichts der Herausforderungen des Klimawandels</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0015/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0015</id>
-    <updated>2025-05-04T22:07:17.683508+00:00</updated>
+    <updated>2025-05-06T04:58:38.929393+00:00</updated>
     <summary>Article by Philipp-Alexander Hirsch
 DOI: https://doi.org/10.1515/jajuz-2024-0015</summary>
   </entry>
@@ -148,7 +145,7 @@ DOI: https://doi.org/10.1515/jajuz-2024-0015</summary>
     <title>Verzeichnis der Autorinnen und Autoren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jajuz-2024-0016/html"/>
     <id>https://doi.org/10.1515/jajuz-2024-0016</id>
-    <updated>2025-05-04T22:07:17.683514+00:00</updated>
+    <updated>2025-05-06T04:58:38.929400+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jajuz-2024-0016</summary>
   </entry>
 </feed>

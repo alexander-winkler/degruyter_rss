@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kritikon Litterarum</title>
-  <link href="https://www.degruyterbrill.com/journal/key/kl/51/3-4/html"/>
-  <updated>2025-05-04T22:09:05.861889+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/kl/51/3-4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/kl/html" rel="related"/>
+  <updated>2025-05-06T05:01:08.345913+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Kritikon Litterarum</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kl.xml" type="application/rss+xml"/>
   <entry>
     <title>Allen, Meagan S.Roger Bacon and the Incorruptible Human 1220–1292. Alchemy, Pharmacology and the Desire to Prolong Life.Cham (Switzerland) : Springer Nature Switzerland AG, 2023 (« Palgrave Studies in Medieval and Early Modern Medicine »), 296 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0023/html"/>
     <id>https://doi.org/10.1515/kl-2024-0023</id>
-    <updated>2025-05-04T22:09:05.861917+00:00</updated>
+    <updated>2025-05-06T05:01:08.345935+00:00</updated>
     <summary>Article by Antoine Calvet
 DOI: https://doi.org/10.1515/kl-2024-0023</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/kl-2024-0023</summary>
     <title>Bentick, Eoin.Literatures of Alchemy in Medieval and Early Modern England.Cambridge : D. S. Brewer, 2022, 213 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0024/html"/>
     <id>https://doi.org/10.1515/kl-2024-0024</id>
-    <updated>2025-05-04T22:09:05.861927+00:00</updated>
+    <updated>2025-05-06T05:01:08.345945+00:00</updated>
     <summary>Article by Antoine Calvet
 DOI: https://doi.org/10.1515/kl-2024-0024</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/kl-2024-0024</summary>
     <title>Hasse, Dag Nikolaus.Who was Anonymous the Translator or Author of ‘al-Kindī’s De radiis’ ? Philological and Computational Attempts of Identification.Séminaire « La pratique des sciences astrales : approches philologiques » organisé par Eleonora Andriani (IRHT-CNRS). Aubervilliers : Campus Condorcet, 4 avril 2024.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0025/html"/>
     <id>https://doi.org/10.1515/kl-2024-0025</id>
-    <updated>2025-05-04T22:09:05.861936+00:00</updated>
+    <updated>2025-05-06T05:01:08.345954+00:00</updated>
     <summary>Article by Sylvain Matton
 DOI: https://doi.org/10.1515/kl-2024-0025</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/kl-2024-0025</summary>
     <title>Furlan, Francesco.Umanesimo, identità e liberalismo: Silloge breve sull’origine (e la fine) della modernità, s. l.[Paris] : S.I.L.B. A. &amp; Pisa-Roma : Serra, 2022 (= « Albertiana », XXV [n. s. VII], 2022 · 2). 196 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0026/html"/>
     <id>https://doi.org/10.1515/kl-2024-0026</id>
-    <updated>2025-05-04T22:09:05.861944+00:00</updated>
+    <updated>2025-05-06T05:01:08.345961+00:00</updated>
     <summary>Article by Oscar Schiavone
 DOI: https://doi.org/10.1515/kl-2024-0026</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/kl-2024-0026</summary>
     <title>Réflexions morales et métaphysiques sur les religions et sur les connaissances des hommes.Manuscrit clandestin attribuable à Camille Falconet (1671–1762).Édition et notes par Antony McKenna et Gianluca Mori. Paris : H. Champion, 2023 (« Libre pensée et littérature clandestine », 80). 715 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0027/html"/>
     <id>https://doi.org/10.1515/kl-2024-0027</id>
-    <updated>2025-05-04T22:09:05.861952+00:00</updated>
+    <updated>2025-05-06T05:01:08.345969+00:00</updated>
     <summary>Article by Miguel Benítez
 DOI: https://doi.org/10.1515/kl-2024-0027</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/kl-2024-0027</summary>
     <title>Il militare filosofo o difficoltà sulla Religione.Proposte al R. P. Malebranche, padre dell’oratoria, da un ex ufficiale.Introduzione e traduzione a cura di Simone Billeci. Prefazione di Nicola Filippone. Caltanissetta-Roma : Salvatore Sciascia Editore, 2023 (= « Anthropine sophia », 6). 167 pp. Naigeon, Jacques-André ; d’Holbach, Paul-Henri Thiry.Il militare filosofo. Obiezioni sulla religione rivolte a Padre Malebranche.A cura di Mario Cosenza. Milano-Udine : Mimesis Edizioni, 2023 (= « Filosofia/Scienza », 36). 290 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0028/html"/>
     <id>https://doi.org/10.1515/kl-2024-0028</id>
-    <updated>2025-05-04T22:09:05.861962+00:00</updated>
+    <updated>2025-05-06T05:01:08.345977+00:00</updated>
     <summary>Article by Maria Teresa Bruno
 DOI: https://doi.org/10.1515/kl-2024-0028</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/kl-2024-0028</summary>
     <title>Šišmanov, Ivan.Slavische Welt. Freiburger Vorlesungen 1923/1924.Hrsg. von E. Cheauré und R. Koneva. Kommentiert von E. Cheauré und K. Rapp unter Mitarbeit von R. Nohejl. Paderborn: Brill/Fink, 2023 (= Kulturtransfer und ‚kulturelle Identität‘; 13). 408 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0029/html"/>
     <id>https://doi.org/10.1515/kl-2024-0029</id>
-    <updated>2025-05-04T22:09:05.861970+00:00</updated>
+    <updated>2025-05-06T05:01:08.345985+00:00</updated>
     <summary>Article by Holger Siegel
 DOI: https://doi.org/10.1515/kl-2024-0029</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/kl-2024-0029</summary>
     <title>Dannhorn, Melanie.Das eigene Fremde. Russland in den expressionistischen Zeitschriften Der Sturm und Die Aktion (1910–1932).Hrsg. von Elisabeth Cheauré, Dirk Kemper, Weertje Wilms. Paderborn: Brill/Fink, 2023 (= Kulturtransfer und ‚Kulturelle Identität‘; 11). 421 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0030/html"/>
     <id>https://doi.org/10.1515/kl-2024-0030</id>
-    <updated>2025-05-04T22:09:05.861978+00:00</updated>
+    <updated>2025-05-06T05:01:08.345992+00:00</updated>
     <summary>Article by Ada Raev
 DOI: https://doi.org/10.1515/kl-2024-0030</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/kl-2024-0030</summary>
     <title>Bluhm, Katherina.Russland und der Westen. Ideologie, Ökonomie und Politik seit dem Ende der Sowjetunion.Berlin: Matthes &amp; Seitz,22024. 490 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0031/html"/>
     <id>https://doi.org/10.1515/kl-2024-0031</id>
-    <updated>2025-05-04T22:09:05.861985+00:00</updated>
+    <updated>2025-05-06T05:01:08.345998+00:00</updated>
     <summary>Article by Norbert Franz
 DOI: https://doi.org/10.1515/kl-2024-0031</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/kl-2024-0031</summary>
     <title>Kozakova, Slata.Der Mann im Untergrund: Zu einem Männlichkeitstypus in der russischen Literatur der zweiten Hälfte des 19. Jahrhunderts.Göttingen: Vandenhoeck &amp; Ruprecht, 2022 (= Studien zum östlichen und südöstlichen Europa; 23). 212 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0032/html"/>
     <id>https://doi.org/10.1515/kl-2024-0032</id>
-    <updated>2025-05-04T22:09:05.861994+00:00</updated>
+    <updated>2025-05-06T05:01:08.346007+00:00</updated>
     <summary>Article by Anneke Sittner
 DOI: https://doi.org/10.1515/kl-2024-0032</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/kl-2024-0032</summary>
     <title>Zehnder, Christian.Handlungsspielraum. Neuschreibungen des romantischen Aktivismus in der polnischen Literatur.Wien, Köln: Böhlau 2022 (= Bausteine zur slavischen Philologie und Kulturgeschichte. Reihe A: Slavistische Forschungen; 94). 539 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0033/html"/>
     <id>https://doi.org/10.1515/kl-2024-0033</id>
-    <updated>2025-05-04T22:09:05.862001+00:00</updated>
+    <updated>2025-05-06T05:01:08.346014+00:00</updated>
     <summary>Article by Andrea Meyer-Fraatz
 DOI: https://doi.org/10.1515/kl-2024-0033</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/kl-2024-0033</summary>
     <title>Schmidt, Henrike:Anthologiespiele. Den Kanon erfinden.Hildesheim, Zürich, New York: Olms Verlag, 2022 (= Literatur – Wissen – Poetik). 445 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0034/html"/>
     <id>https://doi.org/10.1515/kl-2024-0034</id>
-    <updated>2025-05-04T22:09:05.862009+00:00</updated>
+    <updated>2025-05-06T05:01:08.346020+00:00</updated>
     <summary>Article by Ulrike Jekutsch
 DOI: https://doi.org/10.1515/kl-2024-0034</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/kl-2024-0034</summary>
     <title>Seth, James.Maritime Musicians and Performers on Early Modern English Voyages. The Lives of the Seafaring Middle Class.Amsterdam: Amsterdam University Press, 2022 (= Maritime Humanities, 1400–1800). 212 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0035/html"/>
     <id>https://doi.org/10.1515/kl-2024-0035</id>
-    <updated>2025-05-04T22:09:05.862019+00:00</updated>
+    <updated>2025-05-06T05:01:08.346027+00:00</updated>
     <summary>Article by James Revell Carr
 DOI: https://doi.org/10.1515/kl-2024-0035</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/kl-2024-0035</summary>
     <title>Review Essay</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0036/html"/>
     <id>https://doi.org/10.1515/kl-2024-0036</id>
-    <updated>2025-05-04T22:09:05.862025+00:00</updated>
+    <updated>2025-05-06T05:01:08.346033+00:00</updated>
     <summary>Article by Zainab Cheema
 DOI: https://doi.org/10.1515/kl-2024-0036</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/kl-2024-0036</summary>
     <title>Patrick Colm Hogan, Bradley J. Irish, and Lalita Pandit Hogan (eds.).The Routledge Companion to Literature and Emotion.London and New York: Routledge / Taylor &amp; Francis Group, 2022. 496 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0037/html"/>
     <id>https://doi.org/10.1515/kl-2024-0037</id>
-    <updated>2025-05-04T22:09:05.862032+00:00</updated>
+    <updated>2025-05-06T05:01:08.346039+00:00</updated>
     <summary>Article by Susan Rojas
 DOI: https://doi.org/10.1515/kl-2024-0037</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/kl-2024-0037</summary>
     <title>Parris, Benjamin.Vital Strife. Sleep, Insomnia, and the Early Modern Ethics of Care. Ithaca: Cornell University Press, 2022. 288 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-0038/html"/>
     <id>https://doi.org/10.1515/kl-2024-0038</id>
-    <updated>2025-05-04T22:09:05.862039+00:00</updated>
+    <updated>2025-05-06T05:01:08.346046+00:00</updated>
     <summary>Article by Nancy Simpson-Younger
 DOI: https://doi.org/10.1515/kl-2024-0038</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/kl-2024-0038</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kl-2024-frontmatter3-4/html"/>
     <id>https://doi.org/10.1515/kl-2024-frontmatter3-4</id>
-    <updated>2025-05-04T22:09:05.862045+00:00</updated>
+    <updated>2025-05-06T05:01:08.346052+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kl-2024-frontmatter3-4</summary>
   </entry>
 </feed>

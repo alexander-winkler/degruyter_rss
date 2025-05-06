@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Corpus Linguistics and Linguistic Theory</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cllt/21/1/html"/>
-  <updated>2025-05-04T22:03:58.717829+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cllt/21/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cllt/html" rel="related"/>
+  <updated>2025-05-06T04:54:05.710322+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Corpus Linguistics and Linguistic Theory</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cllt.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/cllt-2025-frontmatter1</id>
-    <updated>2025-05-04T22:03:58.717851+00:00</updated>
+    <updated>2025-05-06T04:54:05.710348+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cllt-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>I couldn’t help but wonder: do modals and negation attract?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0029/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0029</id>
-    <updated>2025-05-04T22:03:58.717856+00:00</updated>
+    <updated>2025-05-06T04:54:05.710358+00:00</updated>
     <summary>Article by Ulrike Schneider
 DOI: https://doi.org/10.1515/cllt-2023-0029</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cllt-2023-0029</summary>
     <title>Reliable detection and quantification of selective forces in language change</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0064/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0064</id>
-    <updated>2025-05-04T22:03:58.717862+00:00</updated>
+    <updated>2025-05-06T04:54:05.710368+00:00</updated>
     <summary>Article by Juan Guerrero Montero, Andres Karjus, Kenny Smith, Richard A. Blythe
 DOI: https://doi.org/10.1515/cllt-2023-0064</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cllt-2023-0064</summary>
     <title>Alternation in the Mandarin disposal constructions: quantifying their evolutionary dynamics across twelve centuries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0038/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0038</id>
-    <updated>2025-05-04T22:03:58.717866+00:00</updated>
+    <updated>2025-05-06T04:54:05.710376+00:00</updated>
     <summary>Article by Meili Liu, Hubert Cuyckens
 DOI: https://doi.org/10.1515/cllt-2023-0038</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cllt-2023-0038</summary>
     <title>Critical contingency competition in L2 clause positioning acquisition: the case of concessive clause by Chinese EFL learners</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0068/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0068</id>
-    <updated>2025-05-04T22:03:58.717870+00:00</updated>
+    <updated>2025-05-06T04:54:05.710384+00:00</updated>
     <summary>Article by Jiajin Xu, Hui Kang
 DOI: https://doi.org/10.1515/cllt-2023-0068</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cllt-2023-0068</summary>
     <title>The distributional properties of long nominal compounds in scientific articles: an investigation based on the uniform information density hypothesis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0028/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0028</id>
-    <updated>2025-05-04T22:03:58.717875+00:00</updated>
+    <updated>2025-05-06T04:54:05.710395+00:00</updated>
     <summary>Article by John Gamboa, Kristina Braun, Juhani Järvikivi, Shanley E. M. Allen
 DOI: https://doi.org/10.1515/cllt-2023-0028</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cllt-2023-0028</summary>
     <title>The counting principle makes number words unique</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0105/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0105</id>
-    <updated>2025-05-04T22:03:58.717882+00:00</updated>
+    <updated>2025-05-06T04:54:05.710403+00:00</updated>
     <summary>Article by Mira Ariel, Natalia Levshina
 DOI: https://doi.org/10.1515/cllt-2023-0105</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/cllt-2023-0105</summary>
     <title>Profiling analytic causative construction in Chinese: a multifactorial analysis of diachronic change</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cllt-2023-0062/html"/>
     <id>https://doi.org/10.1515/cllt-2023-0062</id>
-    <updated>2025-05-04T22:03:58.717886+00:00</updated>
+    <updated>2025-05-06T04:54:05.710411+00:00</updated>
     <summary>Article by Qiaoyun Chen
 DOI: https://doi.org/10.1515/cllt-2023-0062</summary>
   </entry>

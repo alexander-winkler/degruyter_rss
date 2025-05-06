@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Life Sciences </title>
-  <link href="https://www.degruyterbrill.com/journal/key/biol/20/1/html"/>
-  <updated>2025-05-04T22:03:24.349326+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/biol/20/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/biol.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/biol/html" rel="related"/>
+  <updated>2025-05-06T04:53:18.167931+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/biol.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Life Sciences </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/biol.xml" type="application/rss+xml"/>
   <entry>
     <title>Mechanism of triptolide regulating proliferation and apoptosis of hepatoma cells by inhibiting JAK/STAT pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1018/html"/>
     <id>https://doi.org/10.1515/biol-2022-1018</id>
-    <updated>2025-05-04T22:03:24.349345+00:00</updated>
+    <updated>2025-05-06T04:53:18.167958+00:00</updated>
     <summary>Article by Guanglian Wang, Zhenxin Zhu, Zhengang Sun, Zhiqi Yang
 DOI: https://doi.org/10.1515/biol-2022-1018</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/biol-2022-1018</summary>
     <title>Maslinic acid improves mitochondrial function and inhibits oxidative stress and autophagy in human gastric smooth muscle cells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1036/html"/>
     <id>https://doi.org/10.1515/biol-2022-1036</id>
-    <updated>2025-05-04T22:03:24.349352+00:00</updated>
+    <updated>2025-05-06T04:53:18.167967+00:00</updated>
     <summary>Article by Xiaoying Zheng, Shuning Zhang, Qiaobin Chen
 DOI: https://doi.org/10.1515/biol-2022-1036</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/biol-2022-1036</summary>
     <title>Comparative analysis of inflammatory biomarkers for the diagnosis of neonatal sepsis: IL-6, IL-8, SAA, CRP, and PCT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1005/html"/>
     <id>https://doi.org/10.1515/biol-2022-1005</id>
-    <updated>2025-05-04T22:03:24.349356+00:00</updated>
+    <updated>2025-05-06T04:53:18.167972+00:00</updated>
     <summary>Article by Ying Chen, Aixia Yan, Li Zhang, Xiaoming Hu, Liang Chen, Jun Cui, Zichuan Fan, Ying Li
 DOI: https://doi.org/10.1515/biol-2022-1005</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/biol-2022-1005</summary>
     <title>Post-pandemic insights on COVID-19 and premature ovarian insufficiency</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1028/html"/>
     <id>https://doi.org/10.1515/biol-2022-1028</id>
-    <updated>2025-05-04T22:03:24.349361+00:00</updated>
+    <updated>2025-05-06T04:53:18.167978+00:00</updated>
     <summary>Article by Yaguang Han, Yang Dai, Kexin Wang, Xin Zhang, Zishen Shao, Xiaolin Zhu
 DOI: https://doi.org/10.1515/biol-2022-1028</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/biol-2022-1028</summary>
     <title>Proteome differences of dental stem cells between permanent and deciduous teeth by data-independent acquisition proteomics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0998/html"/>
     <id>https://doi.org/10.1515/biol-2022-0998</id>
-    <updated>2025-05-04T22:03:24.349365+00:00</updated>
+    <updated>2025-05-06T04:53:18.167983+00:00</updated>
     <summary>Article by Suping Zhang, Yuqing Liu, Jin Dong, Min Jiao, Yongchun Gu, Liling Chen, Na Yuan, Jianrong Wang, Dezhao Yang, Fanwen Meng
 DOI: https://doi.org/10.1515/biol-2022-0998</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/biol-2022-0998</summary>
     <title>Optimizing a modified cetyltrimethylammonium bromide protocol for fungal DNA extraction: Insights from multilocus gene amplification</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1006/html"/>
     <id>https://doi.org/10.1515/biol-2022-1006</id>
-    <updated>2025-05-04T22:03:24.349370+00:00</updated>
+    <updated>2025-05-06T04:53:18.167988+00:00</updated>
     <summary>Article by Gulam Jeelani Dar, Ruqeya Nazir, Shakil A. Wani, Saleem Farooq, Tariq Aziz, Thamer H. Albekairi
 DOI: https://doi.org/10.1515/biol-2022-1006</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/biol-2022-1006</summary>
     <title>Preliminary analysis of the role of small hepatitis B surface proteins mutations in the pathogenesis of occult hepatitis B infection via the endoplasmic reticulum stress-induced UPR-ERAD pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0951/html"/>
     <id>https://doi.org/10.1515/biol-2022-0951</id>
-    <updated>2025-05-04T22:03:24.349374+00:00</updated>
+    <updated>2025-05-06T04:53:18.167995+00:00</updated>
     <summary>Article by Chengrong Huang, Hao Zhang, Jing Wang, Jianfei Li, Qian Liu, Qiyin Zong, Yunyun Zhang, Qin Wang, Qiang Zhou
 DOI: https://doi.org/10.1515/biol-2022-0951</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/biol-2022-0951</summary>
     <title>Efficacy of alginate-coated gold nanoparticles against antibiotics-resistantStaphylococcusandStreptococcuspathogens of acne origins</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1045/html"/>
     <id>https://doi.org/10.1515/biol-2022-1045</id>
-    <updated>2025-05-04T22:03:24.349379+00:00</updated>
+    <updated>2025-05-06T04:53:18.168001+00:00</updated>
     <summary>Article by Hanan A. Abbas, Ali A. Taha, Ghassan M. Sulaiman, Amer Al Ali, Humood Al Shmrany, Haralambos Stamatis, Hamdoon A. Mohammed, Riaz A. Khan
 DOI: https://doi.org/10.1515/biol-2022-1045</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/biol-2022-1045</summary>
     <title>Battling COVID-19 leveraging nanobiotechnology: Gold and silver nanoparticle–B-escin conjugates as SARS-CoV-2 inhibitors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1047/html"/>
     <id>https://doi.org/10.1515/biol-2022-1047</id>
-    <updated>2025-05-04T22:03:24.349383+00:00</updated>
+    <updated>2025-05-06T04:53:18.168008+00:00</updated>
     <summary>Article by Ilyes Zatla, Lamia Boublenza
 DOI: https://doi.org/10.1515/biol-2022-1047</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/biol-2022-1047</summary>
     <title>Neurodegenerative diseases and neuroinflammation-induced apoptosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1051/html"/>
     <id>https://doi.org/10.1515/biol-2022-1051</id>
-    <updated>2025-05-04T22:03:24.349391+00:00</updated>
+    <updated>2025-05-06T04:53:18.168015+00:00</updated>
     <summary>Article by Shi Huang, Yaxin Lu, Wanzhen Fang, Yanjiao Huang, Qiang Li, Zhiliang Xu
 DOI: https://doi.org/10.1515/biol-2022-1051</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/biol-2022-1051</summary>
     <title>Impact of fracture fixation surgery on cognitive function and the gut microbiota in mice with a history of stroke</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1061/html"/>
     <id>https://doi.org/10.1515/biol-2022-1061</id>
-    <updated>2025-05-04T22:03:24.349396+00:00</updated>
+    <updated>2025-05-06T04:53:18.168022+00:00</updated>
     <summary>Article by Yu Lu, Zixuan Li, Rukun Xu, Yajie Xu, Wenwen Zhang, Yong Zhang, Zhaojing Fang, Cailong Pan, Xiaoliang Wang
 DOI: https://doi.org/10.1515/biol-2022-1061</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/biol-2022-1061</summary>
     <title>COLEC10: A potential tumor suppressor and prognostic biomarker in hepatocellular carcinoma through modulation of EMT and PI3K-AKT pathways</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0988/html"/>
     <id>https://doi.org/10.1515/biol-2022-0988</id>
-    <updated>2025-05-04T22:03:24.349401+00:00</updated>
+    <updated>2025-05-06T04:53:18.168027+00:00</updated>
     <summary>Article by Rui-Sheng Ke, Yun Dai, Yan-ling Tu, Zhao-Hui Liu, Kun-Zhai Huang, Fu-Xing Zhang
 DOI: https://doi.org/10.1515/biol-2022-0988</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/biol-2022-0988</summary>
     <title>High-temperature requirement serine protease A2 inhibitor UCF-101 ameliorates damaged neurons in traumatic brain-injured rats by the AMPK/NF-κB pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0971/html"/>
     <id>https://doi.org/10.1515/biol-2022-0971</id>
-    <updated>2025-05-04T22:03:24.349406+00:00</updated>
+    <updated>2025-05-06T04:53:18.168033+00:00</updated>
     <summary>Article by Tian-Wen Qiu, Zhan Jin, Zhi-Zhan Fu, Xin-Jiang Yan, Cheng-Peng Zhan, Hui-Wen Zheng, Mei-Ying Li, Guo-Feng Yu
 DOI: https://doi.org/10.1515/biol-2022-0971</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/biol-2022-0971</summary>
     <title>SIK1 inhibits IL-1β-stimulated cartilage apoptosis and inflammationin vitrothrough the CRTC2/CREB1 signaling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1016/html"/>
     <id>https://doi.org/10.1515/biol-2022-1016</id>
-    <updated>2025-05-04T22:03:24.349410+00:00</updated>
+    <updated>2025-05-06T04:53:18.168038+00:00</updated>
     <summary>Article by Mangmang Chen, Luyou Ye, Shenglei Lin
 DOI: https://doi.org/10.1515/biol-2022-1016</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/biol-2022-1016</summary>
     <title>Rutin–chitooligosaccharide complex: Comprehensive evaluation of its anti-inflammatory and analgesic propertiesin vitroandin vivo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1021/html"/>
     <id>https://doi.org/10.1515/biol-2022-1021</id>
-    <updated>2025-05-04T22:03:24.349414+00:00</updated>
+    <updated>2025-05-06T04:53:18.168044+00:00</updated>
     <summary>Article by Chuanyun Wen, Mei Zhu, Yin Wang, Jinyu Man, Ramesh Priyanka
 DOI: https://doi.org/10.1515/biol-2022-1021</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/biol-2022-1021</summary>
     <title>Knockdown of Aurora kinase B alleviates high glucose-triggered trophoblast cells damage and inflammation during gestational diabetes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1031/html"/>
     <id>https://doi.org/10.1515/biol-2022-1031</id>
-    <updated>2025-05-04T22:03:24.349418+00:00</updated>
+    <updated>2025-05-06T04:53:18.168050+00:00</updated>
     <summary>Article by Yuzhuo Ma, Yongyun Shi, Yujie Liu
 DOI: https://doi.org/10.1515/biol-2022-1031</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/biol-2022-1031</summary>
     <title>Calcium-sensing receptors promoted Homer1 expression and osteogenic differentiation in bone marrow mesenchymal stem cells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1059/html"/>
     <id>https://doi.org/10.1515/biol-2022-1059</id>
-    <updated>2025-05-04T22:03:24.349422+00:00</updated>
+    <updated>2025-05-06T04:53:18.168056+00:00</updated>
     <summary>Article by Kainan Liu, Tianjie Xu, Jiaxin Fan, Yueyuan Li, Xiaoling Guo, Hui Zhang, Qian Wang
 DOI: https://doi.org/10.1515/biol-2022-1059</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/biol-2022-1059</summary>
     <title>ABI3BP can inhibit the proliferation, invasion, and epithelial–mesenchymal transition of non-small-cell lung cancer cells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1034/html"/>
     <id>https://doi.org/10.1515/biol-2022-1034</id>
-    <updated>2025-05-04T22:03:24.349426+00:00</updated>
+    <updated>2025-05-06T04:53:18.168062+00:00</updated>
     <summary>Article by Jian Wu, Xiaokun Yan, Zewen Cheng
 DOI: https://doi.org/10.1515/biol-2022-1034</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/biol-2022-1034</summary>
     <title>Changes in blood glucose and metabolism in hyperuricemia mice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1057/html"/>
     <id>https://doi.org/10.1515/biol-2022-1057</id>
-    <updated>2025-05-04T22:03:24.349430+00:00</updated>
+    <updated>2025-05-06T04:53:18.168067+00:00</updated>
     <summary>Article by Fan Yang, Yan Zhao, Xingsan Li, Fengge Lou
 DOI: https://doi.org/10.1515/biol-2022-1057</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/biol-2022-1057</summary>
     <title>Rapid detection of theGJB2c.235delC mutation based on CRISPR-Cas13a combined with lateral flow dipstick</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1064/html"/>
     <id>https://doi.org/10.1515/biol-2025-1064</id>
-    <updated>2025-05-04T22:03:24.349434+00:00</updated>
+    <updated>2025-05-06T04:53:18.168072+00:00</updated>
     <summary>Article by Yueqin Deng, Juan Xu, Ming Yang, Yin Huang, Yifang Yang
 DOI: https://doi.org/10.1515/biol-2025-1064</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/biol-2025-1064</summary>
     <title>IL-11 promotes Ang II-induced autophagy inhibition and mitochondrial dysfunction in atrial fibroblasts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1063/html"/>
     <id>https://doi.org/10.1515/biol-2025-1063</id>
-    <updated>2025-05-04T22:03:24.349438+00:00</updated>
+    <updated>2025-05-06T04:53:18.168077+00:00</updated>
     <summary>Article by Jun Wang, Qianyu Zhang, Yunjie Han, Jun Zhang, Nan Zheng
 DOI: https://doi.org/10.1515/biol-2025-1063</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/biol-2025-1063</summary>
     <title>Short-chain fatty acid attenuates intestinal inflammation by regulation of gut microbial composition in antibiotic-associated diarrhea</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0931/html"/>
     <id>https://doi.org/10.1515/biol-2022-0931</id>
-    <updated>2025-05-04T22:03:24.349442+00:00</updated>
+    <updated>2025-05-06T04:53:18.168083+00:00</updated>
     <summary>Article by Li Lin, Lihong Han, Cuihong Gu, Lihong Wang, Zhihua Zhang
 DOI: https://doi.org/10.1515/biol-2022-0931</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/biol-2022-0931</summary>
     <title>Application of metagenomic next-generation sequencing in the diagnosis of pathogens in patients with diabetes complicated by community-acquired pneumonia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1048/html"/>
     <id>https://doi.org/10.1515/biol-2022-1048</id>
-    <updated>2025-05-04T22:03:24.349446+00:00</updated>
+    <updated>2025-05-06T04:53:18.168088+00:00</updated>
     <summary>Article by Hong-bo Chen, Jie Liu, Yu Zhang, Hao Huang, Li-na Wang
 DOI: https://doi.org/10.1515/biol-2022-1048</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/biol-2022-1048</summary>
     <title>NAT10 promotes radiotherapy resistance in non-small cell lung cancer by regulating KPNB1-mediated PD-L1 nuclear translocation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1065/html"/>
     <id>https://doi.org/10.1515/biol-2025-1065</id>
-    <updated>2025-05-04T22:03:24.349451+00:00</updated>
+    <updated>2025-05-06T04:53:18.168093+00:00</updated>
     <summary>Article by Dagao Zhu, Mingliang Lu, Hongmin Cheng
 DOI: https://doi.org/10.1515/biol-2025-1065</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/biol-2025-1065</summary>
     <title>Phytol-mixed micelles alleviate dexamethasone-induced osteoporosis in zebrafish: Activation of the MMP3–OPN–MAPK pathway-mediating bone remodeling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1015/html"/>
     <id>https://doi.org/10.1515/biol-2022-1015</id>
-    <updated>2025-05-04T22:03:24.349455+00:00</updated>
+    <updated>2025-05-06T04:53:18.168099+00:00</updated>
     <summary>Article by Bo Liu, Peng Wang, Xiangyang Lv
 DOI: https://doi.org/10.1515/biol-2022-1015</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/biol-2022-1015</summary>
     <title>Association between TGF-β1 and β-catenin expression in the vaginal wall of patients with pelvic organ prolapse</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1058/html"/>
     <id>https://doi.org/10.1515/biol-2022-1058</id>
-    <updated>2025-05-04T22:03:24.349460+00:00</updated>
+    <updated>2025-05-06T04:53:18.168105+00:00</updated>
     <summary>Article by Feng-Qin Xue, Dan Xu, Shu-Rui Zhao, Ying Ma, Ye Zhao
 DOI: https://doi.org/10.1515/biol-2022-1058</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/biol-2022-1058</summary>
     <title>Primary pleomorphic liposarcoma involving bilateral ovaries: Case report and literature review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1068/html"/>
     <id>https://doi.org/10.1515/biol-2025-1068</id>
-    <updated>2025-05-04T22:03:24.349464+00:00</updated>
+    <updated>2025-05-06T04:53:18.168111+00:00</updated>
     <summary>Article by Huan Chen, Jing Luo, Ke Zhang, Puxiang Chen
 DOI: https://doi.org/10.1515/biol-2025-1068</summary>
   </entry>
@@ -231,7 +228,7 @@ DOI: https://doi.org/10.1515/biol-2025-1068</summary>
     <title>Effects ofde novodonor-specific Class I and II antibodies on graft outcomes after liver transplantation: A pilot cohort study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1078/html"/>
     <id>https://doi.org/10.1515/biol-2025-1078</id>
-    <updated>2025-05-04T22:03:24.349468+00:00</updated>
+    <updated>2025-05-06T04:53:18.168118+00:00</updated>
     <summary>Article by Necip Altundaş, Eda Balkan, Murat Kizilkaya, Nurhak Aksungur, Salih Kara, Elif Demirci, Ercan Korkut, Gürkan Öztürk, Hakan Dursun
 DOI: https://doi.org/10.1515/biol-2025-1078</summary>
   </entry>
@@ -239,7 +236,7 @@ DOI: https://doi.org/10.1515/biol-2025-1078</summary>
     <title>Sleep architecture in Alzheimer’s disease continuum: The deep sleep question</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1077/html"/>
     <id>https://doi.org/10.1515/biol-2025-1077</id>
-    <updated>2025-05-04T22:03:24.349473+00:00</updated>
+    <updated>2025-05-06T04:53:18.168126+00:00</updated>
     <summary>Article by Ioannis Foukarakis, Stefanos N. Sampatakakis, Eirini Mamalaki, Andreas Kyrozis, Eva Ntanasi, Angeliki Tsapanou, Mary Yannakoulia, Konstantinos Rouskas, Nikolaos Scarmeas
 DOI: https://doi.org/10.1515/biol-2025-1077</summary>
   </entry>
@@ -247,7 +244,7 @@ DOI: https://doi.org/10.1515/biol-2025-1077</summary>
     <title>Ephedra fragilisplant extract: A groundbreaking corrosion inhibitor for mild steel in acidic environments – electrochemical, EDX, DFT, and Monte Carlo studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1050/html"/>
     <id>https://doi.org/10.1515/biol-2022-1050</id>
-    <updated>2025-05-04T22:03:24.349478+00:00</updated>
+    <updated>2025-05-06T04:53:18.168133+00:00</updated>
     <summary>Article by Mohamed Adil Mahraz, Rajae Salim, El Hassania Loukili, Abdelouahid Laftouhi, Salima Haddou, Amal Elrherabi, Mohamed Bouhrim, Rashed N. Herqash, Abdelaaty A. Shahat, Bruno Eto, Belkheir Hammouti, Zakia Rais, Mustapha Taleb
 DOI: https://doi.org/10.1515/biol-2022-1050</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.1515/biol-2022-1050</summary>
     <title>Langerhans cell histiocytosis in an adult patient with upper jaw and pulmonary involvement: A case report</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1022/html"/>
     <id>https://doi.org/10.1515/biol-2022-1022</id>
-    <updated>2025-05-04T22:03:24.349483+00:00</updated>
+    <updated>2025-05-06T04:53:18.168138+00:00</updated>
     <summary>Article by Yingjie Xiong, Fei Xu
 DOI: https://doi.org/10.1515/biol-2022-1022</summary>
   </entry>
@@ -263,7 +260,7 @@ DOI: https://doi.org/10.1515/biol-2022-1022</summary>
     <title>Inhibition of mast cell activation by Jaranol-targeted Pirin ameliorates allergic responses in mouse allergic rhinitis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1030/html"/>
     <id>https://doi.org/10.1515/biol-2022-1030</id>
-    <updated>2025-05-04T22:03:24.349486+00:00</updated>
+    <updated>2025-05-06T04:53:18.168143+00:00</updated>
     <summary>Article by Yue Huang, Shuhua Su, Bo Duan, Yunfei Zhang, Zhengmin Xu
 DOI: https://doi.org/10.1515/biol-2022-1030</summary>
   </entry>
@@ -271,7 +268,7 @@ DOI: https://doi.org/10.1515/biol-2022-1030</summary>
     <title>Aeromonas veronii-induced septic arthritis of the hip in a child with acute lymphoblastic leukemia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1042/html"/>
     <id>https://doi.org/10.1515/biol-2022-1042</id>
-    <updated>2025-05-04T22:03:24.349491+00:00</updated>
+    <updated>2025-05-06T04:53:18.168148+00:00</updated>
     <summary>Article by Yuan Tian, Xuying Yang, Ying Yang, Tianwei Lin, Guoxia Wang, Ye Zhang, Haibin Wu, Juan Wang
 DOI: https://doi.org/10.1515/biol-2022-1042</summary>
   </entry>
@@ -279,7 +276,7 @@ DOI: https://doi.org/10.1515/biol-2022-1042</summary>
     <title>Clusterin activates the heat shock response via the PI3K/Akt pathway to protect cardiomyocytes from high-temperature-induced apoptosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1082/html"/>
     <id>https://doi.org/10.1515/biol-2025-1082</id>
-    <updated>2025-05-04T22:03:24.349495+00:00</updated>
+    <updated>2025-05-06T04:53:18.168153+00:00</updated>
     <summary>Article by Jianguo Zhou, Xiupan Lu, Yiming Xie, Guangyao Mao
 DOI: https://doi.org/10.1515/biol-2025-1082</summary>
   </entry>
@@ -287,7 +284,7 @@ DOI: https://doi.org/10.1515/biol-2025-1082</summary>
     <title>Research progress on fecal microbiota transplantation in tumor prevention and treatment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0954/html"/>
     <id>https://doi.org/10.1515/biol-2022-0954</id>
-    <updated>2025-05-04T22:03:24.349500+00:00</updated>
+    <updated>2025-05-06T04:53:18.168158+00:00</updated>
     <summary>Article by Yijia Wu, Xi Chen, Qingming Wu, Qiang Wang
 DOI: https://doi.org/10.1515/biol-2022-0954</summary>
   </entry>
@@ -295,7 +292,7 @@ DOI: https://doi.org/10.1515/biol-2022-0954</summary>
     <title>Low-pressure exposure influences the development of HAPE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1029/html"/>
     <id>https://doi.org/10.1515/biol-2022-1029</id>
-    <updated>2025-05-04T22:03:24.349504+00:00</updated>
+    <updated>2025-05-06T04:53:18.168163+00:00</updated>
     <summary>Article by Bo Wang, JinXiu Hou, Jing Li, Shuaijie Pei, Keliang Xie, Wenbo Liu
 DOI: https://doi.org/10.1515/biol-2022-1029</summary>
   </entry>
@@ -303,7 +300,7 @@ DOI: https://doi.org/10.1515/biol-2022-1029</summary>
     <title>Stigmasterol alleviates endplate chondrocyte degeneration through inducing mitophagy by enhancing PINK1 mRNA acetylation via the ESR1/NAT10 axis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0913/html"/>
     <id>https://doi.org/10.1515/biol-2022-0913</id>
-    <updated>2025-05-04T22:03:24.349508+00:00</updated>
+    <updated>2025-05-06T04:53:18.168169+00:00</updated>
     <summary>Article by Hao Li, Xiaofeng Chen, Baoci Huang, Junjie He, Junxian Xie, Weijun Guo, Jinjun Liang, Jiajian Ruan, Jincheng Liu, Zhen Xiang, Lixin Zhu
 DOI: https://doi.org/10.1515/biol-2022-0913</summary>
   </entry>
@@ -311,7 +308,7 @@ DOI: https://doi.org/10.1515/biol-2022-0913</summary>
     <title>AKAP12, mediated by transcription factor 21, inhibits cell proliferation, metastasis, and glycolysis in lung squamous cell carcinoma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0912/html"/>
     <id>https://doi.org/10.1515/biol-2022-0912</id>
-    <updated>2025-05-04T22:03:24.349512+00:00</updated>
+    <updated>2025-05-06T04:53:18.168174+00:00</updated>
     <summary>Article by Juan Chen, Hehe Liao, Kaibin Wang, Tan Yan, Shaofei Ma, Guodong Bai
 DOI: https://doi.org/10.1515/biol-2022-0912</summary>
   </entry>
@@ -319,7 +316,7 @@ DOI: https://doi.org/10.1515/biol-2022-0912</summary>
     <title>Association betweenPAX9orMSX1gene polymorphism and tooth agenesis risk: A meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0987/html"/>
     <id>https://doi.org/10.1515/biol-2022-0987</id>
-    <updated>2025-05-04T22:03:24.349516+00:00</updated>
+    <updated>2025-05-06T04:53:18.168185+00:00</updated>
     <summary>Article by Xiaoyi Zhong, Kaixin Liu, Zhenmin Liu, Cuiping Li, Wenxia Chen
 DOI: https://doi.org/10.1515/biol-2022-0987</summary>
   </entry>
@@ -327,7 +324,7 @@ DOI: https://doi.org/10.1515/biol-2022-0987</summary>
     <title>A case of bloodstream infection caused byNeisseria gonorrhoeae</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1017/html"/>
     <id>https://doi.org/10.1515/biol-2022-1017</id>
-    <updated>2025-05-04T22:03:24.349520+00:00</updated>
+    <updated>2025-05-06T04:53:18.168190+00:00</updated>
     <summary>Article by Danhui Kong, Yue Qiu, Limin Zou, Qi Zhang, Wenjun Zhou, Jie Yang
 DOI: https://doi.org/10.1515/biol-2022-1017</summary>
   </entry>
@@ -335,7 +332,7 @@ DOI: https://doi.org/10.1515/biol-2022-1017</summary>
     <title>Case of nasopharyngeal tuberculosis complicated with cervical lymph node and pulmonary tuberculosis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1041/html"/>
     <id>https://doi.org/10.1515/biol-2022-1041</id>
-    <updated>2025-05-04T22:03:24.349524+00:00</updated>
+    <updated>2025-05-06T04:53:18.168195+00:00</updated>
     <summary>Article by Jialin Cao, Hui Gan, Jian-Hui Wu, Yue Yuan, Fei Ye
 DOI: https://doi.org/10.1515/biol-2022-1041</summary>
   </entry>
@@ -343,7 +340,7 @@ DOI: https://doi.org/10.1515/biol-2022-1041</summary>
     <title>p-Cymene inhibits pro-fibrotic and inflammatory mediators to prevent hepatic dysfunction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1054/html"/>
     <id>https://doi.org/10.1515/biol-2022-1054</id>
-    <updated>2025-05-04T22:03:24.349528+00:00</updated>
+    <updated>2025-05-06T04:53:18.168200+00:00</updated>
     <summary>Article by Muhammad Atif, Muhammad Nasir Hayat Malik, Tariq G. Alsahli, Muhammad Ali, Waqas Younis, Khalid Saad Alharbi, Sami I. Alzare, Bader Alsuwayt, Tahir Maqbool, Irfan Anjum, Shah Jahan, Abdullah R. Alanzi, Gideon F. B. Solre, Hafiz Muhammad Bilal
 DOI: https://doi.org/10.1515/biol-2022-1054</summary>
   </entry>
@@ -351,7 +348,7 @@ DOI: https://doi.org/10.1515/biol-2022-1054</summary>
     <title>GFPT2 promotes paclitaxel resistance in epithelial ovarian cancer cells via activating NF-κB signaling pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1039/html"/>
     <id>https://doi.org/10.1515/biol-2022-1039</id>
-    <updated>2025-05-04T22:03:24.349532+00:00</updated>
+    <updated>2025-05-06T04:53:18.168206+00:00</updated>
     <summary>Article by Zi-Jun Xu, Bin Liu, Ruo-Nan Li, Hua Linghu
 DOI: https://doi.org/10.1515/biol-2022-1039</summary>
   </entry>
@@ -359,7 +356,7 @@ DOI: https://doi.org/10.1515/biol-2022-1039</summary>
     <title>Transfer RNA-derived fragment tRF-36 modulates varicose vein progression via human vascular smooth muscle cell Notch signaling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1075/html"/>
     <id>https://doi.org/10.1515/biol-2025-1075</id>
-    <updated>2025-05-04T22:03:24.349536+00:00</updated>
+    <updated>2025-05-06T04:53:18.168210+00:00</updated>
     <summary>Article by Guojun Chen, Chong Yu, Yu Shi, Danna Cai, Bin Zhou
 DOI: https://doi.org/10.1515/biol-2025-1075</summary>
   </entry>
@@ -367,7 +364,7 @@ DOI: https://doi.org/10.1515/biol-2025-1075</summary>
     <title>RTA-408 attenuates the hepatic ischemia reperfusion injury in mice possibly by activating the Nrf2/HO-1 signaling pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1093/html"/>
     <id>https://doi.org/10.1515/biol-2025-1093</id>
-    <updated>2025-05-04T22:03:24.349540+00:00</updated>
+    <updated>2025-05-06T04:53:18.168214+00:00</updated>
     <summary>Article by Huilian Hua, Yao Quan, Zhiqin Li, Bo Pan, Fang Zhang, Jun Wang, Jindong Li, Su Jiang
 DOI: https://doi.org/10.1515/biol-2025-1093</summary>
   </entry>
@@ -375,7 +372,7 @@ DOI: https://doi.org/10.1515/biol-2025-1093</summary>
     <title>Decreased serum TIMP4 levels in patients with rheumatoid arthritis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1037/html"/>
     <id>https://doi.org/10.1515/biol-2022-1037</id>
-    <updated>2025-05-04T22:03:24.349548+00:00</updated>
+    <updated>2025-05-06T04:53:18.168218+00:00</updated>
     <summary>Article by Jinyu Chen, Yanyan Fan, Shengyu Cui, Haiping Zhang, Ziliang Yu, Yali Jiang, Xiaogang Zhou
 DOI: https://doi.org/10.1515/biol-2022-1037</summary>
   </entry>
@@ -383,7 +380,7 @@ DOI: https://doi.org/10.1515/biol-2022-1037</summary>
     <title>Sirt1 protects lupus nephritis by inhibiting the NLRP3 signaling pathway in human glomerular mesangial cells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1038/html"/>
     <id>https://doi.org/10.1515/biol-2022-1038</id>
-    <updated>2025-05-04T22:03:24.349552+00:00</updated>
+    <updated>2025-05-06T04:53:18.168223+00:00</updated>
     <summary>Article by Yu Zhao, Ai-Ping Zhang, Bei-Yan Bao, Heng Fan, Xu-Yan Yang
 DOI: https://doi.org/10.1515/biol-2022-1038</summary>
   </entry>
@@ -391,7 +388,7 @@ DOI: https://doi.org/10.1515/biol-2022-1038</summary>
     <title>Sodium butyrate aids brain injury repair in neonatal rats</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1046/html"/>
     <id>https://doi.org/10.1515/biol-2022-1046</id>
-    <updated>2025-05-04T22:03:24.349556+00:00</updated>
+    <updated>2025-05-06T04:53:18.168227+00:00</updated>
     <summary>Article by Jing Zhao, Jun Zhang, Can Yang, Linlin Yin, Li Hou, Lin Jiang
 DOI: https://doi.org/10.1515/biol-2022-1046</summary>
   </entry>
@@ -399,7 +396,7 @@ DOI: https://doi.org/10.1515/biol-2022-1046</summary>
     <title>Interaction ofMTHFRpolymorphism withPAX1methylation in cervical cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1052/html"/>
     <id>https://doi.org/10.1515/biol-2022-1052</id>
-    <updated>2025-05-04T22:03:24.349560+00:00</updated>
+    <updated>2025-05-06T04:53:18.168231+00:00</updated>
     <summary>Article by Xiao-Yan Zhou, Meng-Meng Chen, Jun-mei Yu, Yang Zhou, Yan-Song Luan, Bing-Qiang Zhang, Yun-Yuan Zhang
 DOI: https://doi.org/10.1515/biol-2022-1052</summary>
   </entry>
@@ -407,7 +404,7 @@ DOI: https://doi.org/10.1515/biol-2022-1052</summary>
     <title>Convallatoxin inhibits proliferation and angiogenesis of glioma cells via regulating JAK/STAT3 pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1056/html"/>
     <id>https://doi.org/10.1515/biol-2022-1056</id>
-    <updated>2025-05-04T22:03:24.349564+00:00</updated>
+    <updated>2025-05-06T04:53:18.168236+00:00</updated>
     <summary>Article by Zhongfei Hao, Yaming Han, Yunfei Bo, Liwen Cao, Huijie Fang, Yufei Zhang, Qingbin Li
 DOI: https://doi.org/10.1515/biol-2022-1056</summary>
   </entry>
@@ -415,7 +412,7 @@ DOI: https://doi.org/10.1515/biol-2022-1056</summary>
     <title>The effect of the PKR inhibitor, 2-aminopurine, on the replication of influenza A virus, and segment 8 mRNA splicing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1098/html"/>
     <id>https://doi.org/10.1515/biol-2025-1098</id>
-    <updated>2025-05-04T22:03:24.349568+00:00</updated>
+    <updated>2025-05-06T04:53:18.168241+00:00</updated>
     <summary>Article by Dagny Lorent, Rafal Nowak, Monika Gazecka, Pawel Zmora, Elzbieta Lenartowicz Onyekaa
 DOI: https://doi.org/10.1515/biol-2025-1098</summary>
   </entry>
@@ -423,7 +420,7 @@ DOI: https://doi.org/10.1515/biol-2025-1098</summary>
     <title>Effects of Ire1 gene on virulence and pathogenicity ofCandida albicans</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1062/html"/>
     <id>https://doi.org/10.1515/biol-2022-1062</id>
-    <updated>2025-05-04T22:03:24.349572+00:00</updated>
+    <updated>2025-05-06T04:53:18.168245+00:00</updated>
     <summary>Article by Huihai Zhao, Lixia Qin, Mengyan Li, Mengyu Jiang, Mengge Cui, Hua Wang, Baohua Hou, Fukun Wang, Keran Jia
 DOI: https://doi.org/10.1515/biol-2022-1062</summary>
   </entry>
@@ -431,7 +428,7 @@ DOI: https://doi.org/10.1515/biol-2022-1062</summary>
     <title>Small cell lung cancer with small intestinal metastasis: Case report and literature review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1073/html"/>
     <id>https://doi.org/10.1515/biol-2025-1073</id>
-    <updated>2025-05-04T22:03:24.349576+00:00</updated>
+    <updated>2025-05-06T04:53:18.168257+00:00</updated>
     <summary>Article by Hai Zeng, Ziguo Liu, Min Zhu, Tian-e Zhang
 DOI: https://doi.org/10.1515/biol-2025-1073</summary>
   </entry>
@@ -439,7 +436,7 @@ DOI: https://doi.org/10.1515/biol-2025-1073</summary>
     <title>GRB14: A prognostic biomarker driving tumor progression in gastric cancer through the PI3K/AKT signaling pathway by interacting with COBLL1</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1084/html"/>
     <id>https://doi.org/10.1515/biol-2025-1084</id>
-    <updated>2025-05-04T22:03:24.349579+00:00</updated>
+    <updated>2025-05-06T04:53:18.168262+00:00</updated>
     <summary>Article by Chun-Bin Gu, Chuang Wang
 DOI: https://doi.org/10.1515/biol-2025-1084</summary>
   </entry>
@@ -447,15 +444,31 @@ DOI: https://doi.org/10.1515/biol-2025-1084</summary>
     <title>15-Lipoxygenase-2deficiency induces foam cell formation that can be restored by salidroside through the inhibition of arachidonic acid effects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1091/html"/>
     <id>https://doi.org/10.1515/biol-2025-1091</id>
-    <updated>2025-05-04T22:03:24.349583+00:00</updated>
+    <updated>2025-05-06T04:53:18.168267+00:00</updated>
     <summary>Article by Rong Huang, Xi Yong, Tingting Li, Huling Wen, Xing Zhou, Yichen Liao, Jun You, Chunlei Yu, Peng Xu, Yuquan Wang, Dan Wen, Tianqin Xia, Hao Yang, Yanqin Chen, Lei Xu, Xiaorong Zhong, Xianfu Li, Zhengmin Xu, Chunyang Zhou
 DOI: https://doi.org/10.1515/biol-2025-1091</summary>
+  </entry>
+  <entry>
+    <title>FTO alleviated the diabetic nephropathy progression by regulating the N6-methyladenosine levels of DACT1</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1049/html"/>
+    <id>https://doi.org/10.1515/biol-2022-1049</id>
+    <updated>2025-05-06T04:53:18.168273+00:00</updated>
+    <summary>Article by Xuanwen Li, Qing Huang, Shinong Gu, Ping Zheng
+DOI: https://doi.org/10.1515/biol-2022-1049</summary>
+  </entry>
+  <entry>
+    <title>Clinical relevance of inflammatory markers in the evaluation of severity of ulcerative colitis: A retrospective study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1088/html"/>
+    <id>https://doi.org/10.1515/biol-2025-1088</id>
+    <updated>2025-05-06T04:53:18.168278+00:00</updated>
+    <summary>Article by Tao He, Lian-Qiang Song, Xiao-Yu Weng, Peng Pan, Hui Ding, Mei-Qin Liu, Shi-Lin Qiu, Shan-Ming Sun
+DOI: https://doi.org/10.1515/biol-2025-1088</summary>
   </entry>
   <entry>
     <title>Optimization and comparative study ofBacillusconsortia for cellulolytic potential and cellulase enzyme activity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1066/html"/>
     <id>https://doi.org/10.1515/biol-2025-1066</id>
-    <updated>2025-05-04T22:03:24.349588+00:00</updated>
+    <updated>2025-05-06T04:53:18.168282+00:00</updated>
     <summary>Article by Ogechukwu Bose Chukwuma, Mohd Rafatullah, Riti Thapar Kapoor, Husnul Azan Tajarudin, Norli Ismail, Mahboob Alam, Masoom Raza Siddiqui
 DOI: https://doi.org/10.1515/biol-2025-1066</summary>
   </entry>
@@ -463,7 +476,7 @@ DOI: https://doi.org/10.1515/biol-2025-1066</summary>
     <title>The complete mitochondrial genome analysis ofHaemaphysalis hystricisSupino, 1897 (Ixodida: Ixodidae) and its phylogenetic implications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0875/html"/>
     <id>https://doi.org/10.1515/biol-2022-0875</id>
-    <updated>2025-05-04T22:03:24.349596+00:00</updated>
+    <updated>2025-05-06T04:53:18.168286+00:00</updated>
     <summary>Article by Zhong-Bo Li, Min Xiang, Tian Yang, Hui Hu, Ming Shu, Cui-qin Huang
 DOI: https://doi.org/10.1515/biol-2022-0875</summary>
   </entry>
@@ -471,7 +484,7 @@ DOI: https://doi.org/10.1515/biol-2022-0875</summary>
     <title>Epidemiological characteristics and risk factors analysis of multidrug-resistant tuberculosis among tuberculosis population in Huzhou City, Eastern China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1081/html"/>
     <id>https://doi.org/10.1515/biol-2025-1081</id>
-    <updated>2025-05-04T22:03:24.349600+00:00</updated>
+    <updated>2025-05-06T04:53:18.168291+00:00</updated>
     <summary>Article by Haiyan Chen, Zhaowei Tong, Jianfeng Zhong, Qingqiu Zeng, Bin Shen, Fuchu Qian, Xin Xiao
 DOI: https://doi.org/10.1515/biol-2025-1081</summary>
   </entry>
@@ -479,7 +492,7 @@ DOI: https://doi.org/10.1515/biol-2025-1081</summary>
     <title>Indices of human impacts on landscapes: How do they reflect the proportions of natural habitats?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1085/html"/>
     <id>https://doi.org/10.1515/biol-2025-1085</id>
-    <updated>2025-05-04T22:03:24.349604+00:00</updated>
+    <updated>2025-05-06T04:53:18.168296+00:00</updated>
     <summary>Article by Markéta Šantrůčková, Katarína Demková, Tomáš Frantík, Jiří Dostálek
 DOI: https://doi.org/10.1515/biol-2025-1085</summary>
   </entry>
@@ -487,7 +500,7 @@ DOI: https://doi.org/10.1515/biol-2025-1085</summary>
     <title>Integrated analysis of transcriptome, sRNAome, and degradome involved in the drought-response of maize Zhengdan958</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1044/html"/>
     <id>https://doi.org/10.1515/biol-2022-1044</id>
-    <updated>2025-05-04T22:03:24.349608+00:00</updated>
+    <updated>2025-05-06T04:53:18.168304+00:00</updated>
     <summary>Article by Shuqiong Yang, Jiafei Liu, Lingling Cao, Jibao Chen, Pengfei Duan
 DOI: https://doi.org/10.1515/biol-2022-1044</summary>
   </entry>
@@ -495,7 +508,7 @@ DOI: https://doi.org/10.1515/biol-2022-1044</summary>
     <title>Effect of sex ratio on the life history traits of an important invasive species,Spodoptera frugiperda</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0873/html"/>
     <id>https://doi.org/10.1515/biol-2022-0873</id>
-    <updated>2025-05-04T22:03:24.349612+00:00</updated>
+    <updated>2025-05-06T04:53:18.168309+00:00</updated>
     <summary>Article by Su-Ran Wu, Hui Wang, Chun-Jie Zhao, Yan Xiong, Jun-Hua Ren
 DOI: https://doi.org/10.1515/biol-2022-0873</summary>
   </entry>
@@ -503,7 +516,7 @@ DOI: https://doi.org/10.1515/biol-2022-0873</summary>
     <title>Hairpin in a haystack:In silicoidentification and characterization of plant-conserved microRNA in Rafflesiaceae</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1033/html"/>
     <id>https://doi.org/10.1515/biol-2022-1033</id>
-    <updated>2025-05-04T22:03:24.349616+00:00</updated>
+    <updated>2025-05-06T04:53:18.168314+00:00</updated>
     <summary>Article by Adhityo Wicaksono, Karlia Meitha, Kiew-Lian Wan, Mohd Noor Mat Isa, Arli Aditya Parikesit, Jeanmaire Molina
 DOI: https://doi.org/10.1515/biol-2022-1033</summary>
   </entry>
@@ -511,7 +524,7 @@ DOI: https://doi.org/10.1515/biol-2022-1033</summary>
     <title>Widely targeted metabolomics of different tissues inRubus corchorifolius</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-0996/html"/>
     <id>https://doi.org/10.1515/biol-2022-0996</id>
-    <updated>2025-05-04T22:03:24.349620+00:00</updated>
+    <updated>2025-05-06T04:53:18.168319+00:00</updated>
     <summary>Article by Xiangmei Chen, Liang Liang, Shan Chang, Xiang Chun, Yun Qing
 DOI: https://doi.org/10.1515/biol-2022-0996</summary>
   </entry>
@@ -519,7 +532,7 @@ DOI: https://doi.org/10.1515/biol-2022-0996</summary>
     <title>The complete chloroplast genome ofGerbera piloselloides(L.) Cass., 1820 (Carduoideae, Asteraceae) and its phylogenetic analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1070/html"/>
     <id>https://doi.org/10.1515/biol-2025-1070</id>
-    <updated>2025-05-04T22:03:24.349624+00:00</updated>
+    <updated>2025-05-06T04:53:18.168324+00:00</updated>
     <summary>Article by Wentao Sheng
 DOI: https://doi.org/10.1515/biol-2025-1070</summary>
   </entry>
@@ -527,7 +540,7 @@ DOI: https://doi.org/10.1515/biol-2025-1070</summary>
     <title>Field trial to correlate mineral solubilization activity ofPseudomonas aeruginosaand biochemical content of groundnut plants</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1008/html"/>
     <id>https://doi.org/10.1515/biol-2022-1008</id>
-    <updated>2025-05-04T22:03:24.349628+00:00</updated>
+    <updated>2025-05-06T04:53:18.168328+00:00</updated>
     <summary>Article by Sunitha Kumari Krishnan Kutty, Padma Devi Skandasamy Natchimuthu, Rajamani Ranjithkumar, Sinouvassane Djearamane, Lai-Hock Tey, Ling Shing Wong, Saminathan Kayarohanam, Natarajan Arumugam, Abdulrahman I. Almansour, Sakkarapalayam M. Mahalingam
 DOI: https://doi.org/10.1515/biol-2022-1008</summary>
   </entry>
@@ -535,7 +548,7 @@ DOI: https://doi.org/10.1515/biol-2022-1008</summary>
     <title>Phytochemical analysis ofStachys iva: Discovering the optimal extract conditions and its bioactive compounds</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1053/html"/>
     <id>https://doi.org/10.1515/biol-2022-1053</id>
-    <updated>2025-05-04T22:03:24.349632+00:00</updated>
+    <updated>2025-05-06T04:53:18.168332+00:00</updated>
     <summary>Article by Aikaterina Vantsioti, Ioannis Makrygiannis, Vassilis Athanasiadis, Stavros I. Lalas, Paraskevi Mitlianga
 DOI: https://doi.org/10.1515/biol-2022-1053</summary>
   </entry>
@@ -543,7 +556,7 @@ DOI: https://doi.org/10.1515/biol-2022-1053</summary>
     <title>Review on role of honey in disease prevention and treatment through modulation of biological activities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1069/html"/>
     <id>https://doi.org/10.1515/biol-2025-1069</id>
-    <updated>2025-05-04T22:03:24.349636+00:00</updated>
+    <updated>2025-05-06T04:53:18.168337+00:00</updated>
     <summary>Article by Arshad Husain Rahmani, Ali Yousif Babiker
 DOI: https://doi.org/10.1515/biol-2025-1069</summary>
   </entry>
@@ -551,7 +564,7 @@ DOI: https://doi.org/10.1515/biol-2025-1069</summary>
     <title>Computational analysis of polymorphic residues in maltose and maltotriose transporters of a wildSaccharomyces cerevisiaestrain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1080/html"/>
     <id>https://doi.org/10.1515/biol-2025-1080</id>
-    <updated>2025-05-04T22:03:24.349642+00:00</updated>
+    <updated>2025-05-06T04:53:18.168341+00:00</updated>
     <summary>Article by Oscar A. Faz-Cortez, Alma Y. Sánchez-López, César I. Hernández-Vásquez, Andre Segura-Ruiz, Benito Pereyra-Alférez, Jorge H. García-García
 DOI: https://doi.org/10.1515/biol-2025-1080</summary>
   </entry>
@@ -559,7 +572,7 @@ DOI: https://doi.org/10.1515/biol-2025-1080</summary>
     <title>Optimization of phenolic compound extraction from Tunisian squash by-products: A sustainable approach for antioxidant and antibacterial applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1096/html"/>
     <id>https://doi.org/10.1515/biol-2025-1096</id>
-    <updated>2025-05-04T22:03:24.349646+00:00</updated>
+    <updated>2025-05-06T04:53:18.168345+00:00</updated>
     <summary>Article by Walid Yeddes, Feten Zar Kalai, Iness Bettaieb Rebey, Majdi Hammami, Neji Tarchoun, Lilian Barros, Spyridon A. Petropoulos, Hanen Falleh, Riadh Ksouri
 DOI: https://doi.org/10.1515/biol-2025-1096</summary>
   </entry>
@@ -567,7 +580,7 @@ DOI: https://doi.org/10.1515/biol-2025-1096</summary>
     <title>Impact of hyaluronic acid-modified hafnium metalorganic frameworks containing rhynchophylline on Alzheimer’s disease</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2022-1043/html"/>
     <id>https://doi.org/10.1515/biol-2022-1043</id>
-    <updated>2025-05-04T22:03:24.349650+00:00</updated>
+    <updated>2025-05-06T04:53:18.168350+00:00</updated>
     <summary>Article by Shiguo Lin, Yanshan Ye, Sujin Lin
 DOI: https://doi.org/10.1515/biol-2022-1043</summary>
   </entry>
@@ -575,7 +588,7 @@ DOI: https://doi.org/10.1515/biol-2022-1043</summary>
     <title>Emerging patterns in nanoparticle-based therapeutic approaches for rheumatoid arthritis: A comprehensive bibliometric and visual analysis spanning two decades</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-1071/html"/>
     <id>https://doi.org/10.1515/biol-2025-1071</id>
-    <updated>2025-05-04T22:03:24.349654+00:00</updated>
+    <updated>2025-05-06T04:53:18.168358+00:00</updated>
     <summary>Article by Shenwei Xie, Pan Liao, Shuang Mi, Liang Song, Xiaoyuan Chen
 DOI: https://doi.org/10.1515/biol-2025-1071</summary>
   </entry>
@@ -583,7 +596,7 @@ DOI: https://doi.org/10.1515/biol-2025-1071</summary>
     <title>Corrigendum to “Utilization of convolutional neural networks to analyze microscopic images for high-throughput screening of mesenchymal stem cells”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/biol-2025-0001/html"/>
     <id>https://doi.org/10.1515/biol-2025-0001</id>
-    <updated>2025-05-04T22:03:24.349658+00:00</updated>
+    <updated>2025-05-06T04:53:18.168363+00:00</updated>
     <summary>Article by MuYun Liu, XiangXi Du, JunYuan Hu, Xiao Liang, HaiJun Wang
 DOI: https://doi.org/10.1515/biol-2025-0001</summary>
   </entry>

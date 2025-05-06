@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ICL Journal</title>
-  <link href="https://www.degruyterbrill.com/journal/key/icl/19/1/html"/>
-  <updated>2025-05-04T22:06:26.266565+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/icl/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/icl/html" rel="related"/>
+  <updated>2025-05-06T04:57:29.849855+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in ICL Journal</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/icl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/icl-2025-frontmatter1</id>
-    <updated>2025-05-04T22:06:26.266608+00:00</updated>
+    <updated>2025-05-06T04:57:29.849883+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/icl-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>In Memoriam Theo Öhlinger (1939–2023)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2025-0005/html"/>
     <id>https://doi.org/10.1515/icl-2025-0005</id>
-    <updated>2025-05-04T22:06:26.266621+00:00</updated>
+    <updated>2025-05-06T04:57:29.849892+00:00</updated>
     <summary>Article by Harald Eberhard
 DOI: https://doi.org/10.1515/icl-2025-0005</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/icl-2025-0005</summary>
     <title>The Transformation of China: Constitutional Review in Action</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2025-0003/html"/>
     <id>https://doi.org/10.1515/icl-2025-0003</id>
-    <updated>2025-05-04T22:06:26.266635+00:00</updated>
+    <updated>2025-05-06T04:57:29.849902+00:00</updated>
     <summary>Article by Han Liu
 DOI: https://doi.org/10.1515/icl-2025-0003</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/icl-2025-0003</summary>
     <title>Situating Hong Kong’s ‘Rule of Law’ Internationally</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0015/html"/>
     <id>https://doi.org/10.1515/icl-2024-0015</id>
-    <updated>2025-05-04T22:06:26.266645+00:00</updated>
+    <updated>2025-05-06T04:57:29.849910+00:00</updated>
     <summary>Article by Daniel Pascoe, Noam Zamir
 DOI: https://doi.org/10.1515/icl-2024-0015</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/icl-2024-0015</summary>
     <title>The Role of the Constitution in Sweden: Addressing its Patchy Legal Legitimacy and the (Half-Way) Transition from Political to Legal Constitutionalism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0023/html"/>
     <id>https://doi.org/10.1515/icl-2024-0023</id>
-    <updated>2025-05-04T22:06:26.266659+00:00</updated>
+    <updated>2025-05-06T04:57:29.849918+00:00</updated>
     <summary>Article by Mauro Zamboni
 DOI: https://doi.org/10.1515/icl-2024-0023</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/icl-2024-0023</summary>
     <title>The Emergence of Constitutionally Conforming Interpretation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0031/html"/>
     <id>https://doi.org/10.1515/icl-2024-0031</id>
-    <updated>2025-05-04T22:06:26.266669+00:00</updated>
+    <updated>2025-05-06T04:57:29.849927+00:00</updated>
     <summary>Article by Daniel Christian Gosch
 DOI: https://doi.org/10.1515/icl-2024-0031</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/icl-2024-0031</summary>
     <title>Conditional Right to Child Education in Nigeria: Punishing the Child for the Parents’ Sins</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/icl-2024-0017/html"/>
     <id>https://doi.org/10.1515/icl-2024-0017</id>
-    <updated>2025-05-04T22:06:26.266680+00:00</updated>
+    <updated>2025-05-06T04:57:29.849935+00:00</updated>
     <summary>Article by Mujib Jimoh
 DOI: https://doi.org/10.1515/icl-2024-0017</summary>
   </entry>

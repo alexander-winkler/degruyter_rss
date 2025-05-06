@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Computational Methods in Applied Mathematics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cmam/25/2/html"/>
-  <updated>2025-05-04T22:04:01.897052+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cmam/25/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cmam.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cmam/html" rel="related"/>
+  <updated>2025-05-06T04:54:10.026352+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cmam.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Computational Methods in Applied Mathematics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cmam.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/cmam-2025-frontmatter2</id>
-    <updated>2025-05-04T22:04:01.897075+00:00</updated>
+    <updated>2025-05-06T04:54:10.026379+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cmam-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>In Memoriam of Raytcho Lazarov</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2025-0023/html"/>
     <id>https://doi.org/10.1515/cmam-2025-0023</id>
-    <updated>2025-05-04T22:04:01.897082+00:00</updated>
+    <updated>2025-05-06T04:54:10.026386+00:00</updated>
     <summary>Article by Oleg Iliev, Svetozar Margenov
 DOI: https://doi.org/10.1515/cmam-2025-0023</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cmam-2025-0023</summary>
     <title>A Finite Element Analysis in Balanced Norms for a Coupled System of Singularly Perturbed Reaction-Diffusion Equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2023-0219/html"/>
     <id>https://doi.org/10.1515/cmam-2023-0219</id>
-    <updated>2025-05-04T22:04:01.897090+00:00</updated>
+    <updated>2025-05-06T04:54:10.026395+00:00</updated>
     <summary>Article by María Gabriela Armentano, Ariel L. Lombardi, Cecilia Penessi
 DOI: https://doi.org/10.1515/cmam-2023-0219</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cmam-2023-0219</summary>
     <title>Analysis of a Combined Spherical Harmonics and Discontinuous Galerkin Discretization for the Boltzmann Transport Equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2024-0021/html"/>
     <id>https://doi.org/10.1515/cmam-2024-0021</id>
-    <updated>2025-05-04T22:04:01.897097+00:00</updated>
+    <updated>2025-05-06T04:54:10.026406+00:00</updated>
     <summary>Article by Kenneth Assogba, Grégoire Allaire, Lahbib Bourhrara
 DOI: https://doi.org/10.1515/cmam-2024-0021</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cmam-2024-0021</summary>
     <title>On Error Estimates of a Discontinuous Galerkin Method of the Boussinesq System of Equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2023-0202/html"/>
     <id>https://doi.org/10.1515/cmam-2023-0202</id>
-    <updated>2025-05-04T22:04:01.897104+00:00</updated>
+    <updated>2025-05-06T04:54:10.026412+00:00</updated>
     <summary>Article by Saumya Bajpai, Debendra Kumar Swain
 DOI: https://doi.org/10.1515/cmam-2023-0202</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cmam-2023-0202</summary>
     <title>Finite Element Formulations for Maxwell’s Eigenvalue Problem Using Continuous Lagrangian Interpolations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2023-0081/html"/>
     <id>https://doi.org/10.1515/cmam-2023-0081</id>
-    <updated>2025-05-04T22:04:01.897111+00:00</updated>
+    <updated>2025-05-06T04:54:10.026419+00:00</updated>
     <summary>Article by Daniele Boffi, Ramon Codina, Önder Türk
 DOI: https://doi.org/10.1515/cmam-2023-0081</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cmam-2023-0081</summary>
     <title>Variational Approximation for a Non-Isothermal Coupled Phase-Field System: Structure-Preservation &amp; Nonlinear Stability</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2023-0274/html"/>
     <id>https://doi.org/10.1515/cmam-2023-0274</id>
-    <updated>2025-05-04T22:04:01.897117+00:00</updated>
+    <updated>2025-05-06T04:54:10.026426+00:00</updated>
     <summary>Article by Aaron Brunk, Oliver Habrich, Timileyin David Oyedeji, Yangyiwei Yang, Bai-Xiang Xu
 DOI: https://doi.org/10.1515/cmam-2023-0274</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/cmam-2023-0274</summary>
     <title>Error Analysis of the Vector Penalty-Projection Methods for the Time-Dependent Stokes Equations with Open Boundary Conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2023-0261/html"/>
     <id>https://doi.org/10.1515/cmam-2023-0261</id>
-    <updated>2025-05-04T22:04:01.897124+00:00</updated>
+    <updated>2025-05-06T04:54:10.026432+00:00</updated>
     <summary>Article by Rima Cheaytou, Philippe Angot
 DOI: https://doi.org/10.1515/cmam-2023-0261</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/cmam-2023-0261</summary>
     <title>Numerical Analysis of a Second-Order Algorithm for the Time-Dependent Natural Convection Problem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2023-0225/html"/>
     <id>https://doi.org/10.1515/cmam-2023-0225</id>
-    <updated>2025-05-04T22:04:01.897130+00:00</updated>
+    <updated>2025-05-06T04:54:10.026439+00:00</updated>
     <summary>Article by Yiru Chen, Yun-Bo Yang
 DOI: https://doi.org/10.1515/cmam-2023-0225</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/cmam-2023-0225</summary>
     <title>A Space-Time Finite Element Method for the Eddy Current Approximation of Rotating Electric Machines</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2024-0033/html"/>
     <id>https://doi.org/10.1515/cmam-2024-0033</id>
-    <updated>2025-05-04T22:04:01.897138+00:00</updated>
+    <updated>2025-05-06T04:54:10.026448+00:00</updated>
     <summary>Article by Peter Gangl, Mario Gobrial, Olaf Steinbach
 DOI: https://doi.org/10.1515/cmam-2024-0033</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/cmam-2024-0033</summary>
     <title>AP2H-Div-Nonconforming-H-Curl Finite Element for the Stokes Equations on Triangular Meshes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2024-0060/html"/>
     <id>https://doi.org/10.1515/cmam-2024-0060</id>
-    <updated>2025-05-04T22:04:01.897144+00:00</updated>
+    <updated>2025-05-06T04:54:10.026455+00:00</updated>
     <summary>Article by Yunqing Huang, Xuejun Xu, Shangyou Zhang
 DOI: https://doi.org/10.1515/cmam-2024-0060</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/cmam-2024-0060</summary>
     <title>An Inverse Matrix Eigenvalue Problem for Constructing a Vibrating Rod</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2024-0001/html"/>
     <id>https://doi.org/10.1515/cmam-2024-0001</id>
-    <updated>2025-05-04T22:04:01.897150+00:00</updated>
+    <updated>2025-05-06T04:54:10.026461+00:00</updated>
     <summary>Article by Hanif Mirzaei, Vahid Abbasnavaz, Kazem Ghanbari
 DOI: https://doi.org/10.1515/cmam-2024-0001</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/cmam-2024-0001</summary>
     <title>Anisotropic Adaptive Finite Elements for ap-Laplacian Problem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2022-0205/html"/>
     <id>https://doi.org/10.1515/cmam-2022-0205</id>
-    <updated>2025-05-04T22:04:01.897156+00:00</updated>
+    <updated>2025-05-06T04:54:10.026471+00:00</updated>
     <summary>Article by Paride Passelli, Marco Picasso
 DOI: https://doi.org/10.1515/cmam-2022-0205</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/cmam-2022-0205</summary>
     <title>On an Optimal AFEM for Elastoplasticity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cmam-2024-0052/html"/>
     <id>https://doi.org/10.1515/cmam-2024-0052</id>
-    <updated>2025-05-04T22:04:01.897162+00:00</updated>
+    <updated>2025-05-06T04:54:10.026477+00:00</updated>
     <summary>Article by Miriam Schönauer, Andreas Schröder
 DOI: https://doi.org/10.1515/cmam-2024-0052</summary>
   </entry>

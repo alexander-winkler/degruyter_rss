@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Analyse &amp; Kritik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/auk/46/2/html"/>
-  <updated>2025-05-04T22:03:11.769062+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/auk/46/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auk.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/auk/html" rel="related"/>
+  <updated>2025-05-06T04:53:02.113363+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auk.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Analyse &amp; Kritik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auk.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/auk-2024-frontmatter2</id>
-    <updated>2025-05-04T22:03:11.769084+00:00</updated>
+    <updated>2025-05-06T04:53:02.113393+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/auk-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Précis ofPhilosophizing the Indefensible</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2018/html"/>
     <id>https://doi.org/10.1515/auk-2024-2018</id>
-    <updated>2025-05-04T22:03:11.769092+00:00</updated>
+    <updated>2025-05-06T04:53:02.113404+00:00</updated>
     <summary>Article by Shmuel Nili
 DOI: https://doi.org/10.1515/auk-2024-2018</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/auk-2024-2018</summary>
     <title>Should we Distinguish Between Repugnant and Non-Repugnant Unreasonable Views?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2016/html"/>
     <id>https://doi.org/10.1515/auk-2024-2016</id>
-    <updated>2025-05-04T22:03:11.769099+00:00</updated>
+    <updated>2025-05-06T04:53:02.113412+00:00</updated>
     <summary>Article by Alasia Nuti
 DOI: https://doi.org/10.1515/auk-2024-2016</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/auk-2024-2016</summary>
     <title>Property Rights, Fossil Fuel Imports, and Climate Change</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2017/html"/>
     <id>https://doi.org/10.1515/auk-2024-2017</id>
-    <updated>2025-05-04T22:03:11.769105+00:00</updated>
+    <updated>2025-05-06T04:53:02.113420+00:00</updated>
     <summary>Article by Francisco Garcia-Gibson
 DOI: https://doi.org/10.1515/auk-2024-2017</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/auk-2024-2017</summary>
     <title>Civic Friendship, the Burdens of Politics, and the Ethics of Attention</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2022/html"/>
     <id>https://doi.org/10.1515/auk-2024-2022</id>
-    <updated>2025-05-04T22:03:11.769111+00:00</updated>
+    <updated>2025-05-06T04:53:02.113427+00:00</updated>
     <summary>Article by Zsolt Kapelner
 DOI: https://doi.org/10.1515/auk-2024-2022</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/auk-2024-2022</summary>
     <title>Philosophizing the Indefensible: Reply to Critics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2021/html"/>
     <id>https://doi.org/10.1515/auk-2024-2021</id>
-    <updated>2025-05-04T22:03:11.769117+00:00</updated>
+    <updated>2025-05-06T04:53:02.113437+00:00</updated>
     <summary>Article by Shmuel Nili
 DOI: https://doi.org/10.1515/auk-2024-2021</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/auk-2024-2021</summary>
     <title>What Can Historicising Rawls Achieve?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2020/html"/>
     <id>https://doi.org/10.1515/auk-2024-2020</id>
-    <updated>2025-05-04T22:03:11.769123+00:00</updated>
+    <updated>2025-05-06T04:53:02.113444+00:00</updated>
     <summary>Article by Emil Andersson, Nicolas Olsson Yaouzis
 DOI: https://doi.org/10.1515/auk-2024-2020</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/auk-2024-2020</summary>
     <title>Can Two Opposing Narratives Be Equally Valid? Reflections on Zreik’s Reflections on the War in Gaza</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2014/html"/>
     <id>https://doi.org/10.1515/auk-2024-2014</id>
-    <updated>2025-05-04T22:03:11.769129+00:00</updated>
+    <updated>2025-05-06T04:53:02.113450+00:00</updated>
     <summary>Article by David Heyd
 DOI: https://doi.org/10.1515/auk-2024-2014</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/auk-2024-2014</summary>
     <title>Just Independence Wars and the October 7th Massacre</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2015/html"/>
     <id>https://doi.org/10.1515/auk-2024-2015</id>
-    <updated>2025-05-04T22:03:11.769135+00:00</updated>
+    <updated>2025-05-06T04:53:02.113457+00:00</updated>
     <summary>Article by Yitzhak Benbaji
 DOI: https://doi.org/10.1515/auk-2024-2015</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/auk-2024-2015</summary>
     <title>Past, Present, and Future: A Reply to Heyd and Benbaji</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2019/html"/>
     <id>https://doi.org/10.1515/auk-2024-2019</id>
-    <updated>2025-05-04T22:03:11.769141+00:00</updated>
+    <updated>2025-05-06T04:53:02.113463+00:00</updated>
     <summary>Article by Raef Zreik
 DOI: https://doi.org/10.1515/auk-2024-2019</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/auk-2024-2019</summary>
     <title>Proportionality and Necessity in Israel’s Invasion of Gaza, 2023–2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2024/html"/>
     <id>https://doi.org/10.1515/auk-2024-2024</id>
-    <updated>2025-05-04T22:03:11.769148+00:00</updated>
+    <updated>2025-05-06T04:53:02.113471+00:00</updated>
     <summary>Article by Jeff McMahan
 DOI: https://doi.org/10.1515/auk-2024-2024</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/auk-2024-2024</summary>
     <title>Response to My Critics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auk-2024-2023/html"/>
     <id>https://doi.org/10.1515/auk-2024-2023</id>
-    <updated>2025-05-04T22:03:11.769154+00:00</updated>
+    <updated>2025-05-06T04:53:02.113477+00:00</updated>
     <summary>Article by Laura Valentini
 DOI: https://doi.org/10.1515/auk-2024-2023</summary>
   </entry>

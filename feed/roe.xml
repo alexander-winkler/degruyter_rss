@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Review of Economics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/roe/75/3/html"/>
-  <updated>2025-05-04T22:12:06.512257+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/roe/75/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roe.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/roe/html" rel="related"/>
+  <updated>2025-05-06T05:05:14.887571+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roe.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Review of Economics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roe.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roe-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/roe-2024-frontmatter3</id>
-    <updated>2025-05-04T22:12:06.512293+00:00</updated>
+    <updated>2025-05-06T05:05:14.887613+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/roe-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>Is Money Supply Endogenous a Markov-Switch Exploration in the Zero Lower Bound Interest Rate in the USA</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roe-2024-0026/html"/>
     <id>https://doi.org/10.1515/roe-2024-0026</id>
-    <updated>2025-05-04T22:12:06.512304+00:00</updated>
+    <updated>2025-05-06T05:05:14.887621+00:00</updated>
     <summary>Article by Eugene Msizi Buthelezi
 DOI: https://doi.org/10.1515/roe-2024-0026</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/roe-2024-0026</summary>
     <title>Inflation Forecast Combination: Evidence from Taiwan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roe-2024-0054/html"/>
     <id>https://doi.org/10.1515/roe-2024-0054</id>
-    <updated>2025-05-04T22:12:06.512316+00:00</updated>
+    <updated>2025-05-06T05:05:14.887635+00:00</updated>
     <summary>Article by Kuo-Hsuan Chin, Chi Ho Lau
 DOI: https://doi.org/10.1515/roe-2024-0054</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/roe-2024-0054</summary>
     <title>Does Income Inequality Play a Role in Renewable Energy Consumption? A Dynamic Panel Evidence of Developing Countries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roe-2024-0052/html"/>
     <id>https://doi.org/10.1515/roe-2024-0052</id>
-    <updated>2025-05-04T22:12:06.512325+00:00</updated>
+    <updated>2025-05-06T05:05:14.887641+00:00</updated>
     <summary>Article by Debasis Chakraborty
 DOI: https://doi.org/10.1515/roe-2024-0052</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/roe-2024-0052</summary>
     <title>Exploring the Impact of ESG Practices on Sustainable Development Goals Achievement in South Asia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roe-2024-0053/html"/>
     <id>https://doi.org/10.1515/roe-2024-0053</id>
-    <updated>2025-05-04T22:12:06.512335+00:00</updated>
+    <updated>2025-05-06T05:05:14.887650+00:00</updated>
     <summary>Article by Masud Rana, Md. Abdullah Al Mamun, Hasibul Islam, Md. Kamal Hossain
 DOI: https://doi.org/10.1515/roe-2024-0053</summary>
   </entry>

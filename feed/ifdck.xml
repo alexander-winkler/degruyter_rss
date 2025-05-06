@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Interkulturelles Forum der deutsch-chinesischen Kommunikation </title>
-  <link href="https://www.degruyterbrill.com/journal/key/ifdck/4/1/html"/>
-  <updated>2025-05-04T22:06:30.913936+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ifdck/4/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ifdck.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ifdck/html" rel="related"/>
+  <updated>2025-05-06T04:57:36.186111+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ifdck.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Interkulturelles Forum der deutsch-chinesischen Kommunikation </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ifdck.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/ifdck-2024-frontmatter1</id>
-    <updated>2025-05-04T22:06:30.913981+00:00</updated>
+    <updated>2025-05-06T04:57:36.186144+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ifdck-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Der chinesische Messenger WeChat: Praktiken der Automatisierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2023-0014/html"/>
     <id>https://doi.org/10.1515/ifdck-2023-0014</id>
-    <updated>2025-05-04T22:06:30.913989+00:00</updated>
+    <updated>2025-05-06T04:57:36.186155+00:00</updated>
     <summary>Article by Michael Szurawitzki
 DOI: https://doi.org/10.1515/ifdck-2023-0014</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ifdck-2023-0014</summary>
     <title>Schillers Turandot zwischen Maskenspiel und Ideendrama:Betrachtungen zu einer Chinoiserie als eurasische Verschränkung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2023-0018/html"/>
     <id>https://doi.org/10.1515/ifdck-2023-0018</id>
-    <updated>2025-05-04T22:06:30.914003+00:00</updated>
+    <updated>2025-05-06T04:57:36.186167+00:00</updated>
     <summary>Article by Jialai Deng, Weidong Ren
 DOI: https://doi.org/10.1515/ifdck-2023-0018</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ifdck-2023-0018</summary>
     <title>Zwei Exilgedichte mit einer China-Komponente von Bertolt Brecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2024-0009/html"/>
     <id>https://doi.org/10.1515/ifdck-2024-0009</id>
-    <updated>2025-05-04T22:06:30.914011+00:00</updated>
+    <updated>2025-05-06T04:57:36.186176+00:00</updated>
     <summary>Article by Jing Jing, Changke Li
 DOI: https://doi.org/10.1515/ifdck-2024-0009</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ifdck-2024-0009</summary>
     <title>Interaktion und Innovation – Studie zur Übersetzung deutschsprachiger Literatur in der ZeitschriftAusländische Literatur und Kunst(1978–2022)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2024-0003/html"/>
     <id>https://doi.org/10.1515/ifdck-2024-0003</id>
-    <updated>2025-05-04T22:06:30.914023+00:00</updated>
+    <updated>2025-05-06T04:57:36.186186+00:00</updated>
     <summary>Article by Lihui She, Fan Zhang
 DOI: https://doi.org/10.1515/ifdck-2024-0003</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ifdck-2024-0003</summary>
     <title>Attraktive Employer Brand aus der Perspektive deutscher Studierender und Anregungen zum Employer Branding chinesischer Unternehmen in Deutschland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2024-0004/html"/>
     <id>https://doi.org/10.1515/ifdck-2024-0004</id>
-    <updated>2025-05-04T22:06:30.914031+00:00</updated>
+    <updated>2025-05-06T04:57:36.186194+00:00</updated>
     <summary>Article by Qian Zhao, Yuhao Song
 DOI: https://doi.org/10.1515/ifdck-2024-0004</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ifdck-2024-0004</summary>
     <title>Höfliche Ausdrucksweisen in der interkulturellen Kommunikation: Eine Analyse von chinesischen Studierenden in Deutschland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2024-0002/html"/>
     <id>https://doi.org/10.1515/ifdck-2024-0002</id>
-    <updated>2025-05-04T22:06:30.914038+00:00</updated>
+    <updated>2025-05-06T04:57:36.186203+00:00</updated>
     <summary>Article by Wenjing Gu
 DOI: https://doi.org/10.1515/ifdck-2024-0002</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ifdck-2024-0002</summary>
     <title>Diskurslinguistik. Eine Einführung in Theorien und Methoden der transtextuellen Sprachanalyse: Eine Besprechung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ifdck-2024-0008/html"/>
     <id>https://doi.org/10.1515/ifdck-2024-0008</id>
-    <updated>2025-05-04T22:06:30.914046+00:00</updated>
+    <updated>2025-05-06T04:57:36.186212+00:00</updated>
     <summary>Article by Hailong Tian
 DOI: https://doi.org/10.1515/ifdck-2024-0008</summary>
   </entry>

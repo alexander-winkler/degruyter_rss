@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kant Yearbook</title>
-  <link href="https://www.degruyterbrill.com/journal/key/kantyb/16/1/html"/>
-  <updated>2025-05-04T22:09:01.027046+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/kantyb/16/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kantyb.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/kantyb/html" rel="related"/>
+  <updated>2025-05-06T05:01:01.535383+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kantyb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Kant Yearbook</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kantyb.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-frontmatter1</id>
-    <updated>2025-05-04T22:09:01.027072+00:00</updated>
+    <updated>2025-05-06T05:01:01.535408+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kantyb-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:01.027080+00:00</updated>
+    <updated>2025-05-06T05:01:01.535420+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kantyb-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>On Kant’s Schema of Reality</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-0001/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-0001</id>
-    <updated>2025-05-04T22:09:01.027088+00:00</updated>
+    <updated>2025-05-06T05:01:01.535430+00:00</updated>
     <summary>Article by Farhad Alavi
 DOI: https://doi.org/10.1515/kantyb-2024-0001</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/kantyb-2024-0001</summary>
     <title>Kant’s Prize Essay and Nineteenth Century Formalism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-0002/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-0002</id>
-    <updated>2025-05-04T22:09:01.027098+00:00</updated>
+    <updated>2025-05-06T05:01:01.535441+00:00</updated>
     <summary>Article by Richard Lawrence
 DOI: https://doi.org/10.1515/kantyb-2024-0002</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/kantyb-2024-0002</summary>
     <title>Reflections on Kant on Reflections</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-0003/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-0003</id>
-    <updated>2025-05-04T22:09:01.027105+00:00</updated>
+    <updated>2025-05-06T05:01:01.535449+00:00</updated>
     <summary>Article by Daniel Sutherland
 DOI: https://doi.org/10.1515/kantyb-2024-0003</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/kantyb-2024-0003</summary>
     <title>Magnitude, Matter, and Kant’s Principle of Mechanism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-0004/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-0004</id>
-    <updated>2025-05-04T22:09:01.027113+00:00</updated>
+    <updated>2025-05-06T05:01:01.535458+00:00</updated>
     <summary>Article by Aaron Wells
 DOI: https://doi.org/10.1515/kantyb-2024-0004</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/kantyb-2024-0004</summary>
     <title>The Impossible Biangle and the Possibility of Geometry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-0005/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-0005</id>
-    <updated>2025-05-04T22:09:01.027120+00:00</updated>
+    <updated>2025-05-06T05:01:01.535466+00:00</updated>
     <summary>Article by Jeffrey L. Wilson
 DOI: https://doi.org/10.1515/kantyb-2024-0005</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/kantyb-2024-0005</summary>
     <title>Topics of theKant Yearbook2025, 2026 and 2027</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/kantyb-2024-0006/html"/>
     <id>https://doi.org/10.1515/kantyb-2024-0006</id>
-    <updated>2025-05-04T22:09:01.027127+00:00</updated>
+    <updated>2025-05-06T05:01:01.535475+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/kantyb-2024-0006</summary>
   </entry>
 </feed>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Sociolinguistica</title>
-  <link href="https://www.degruyterbrill.com/journal/key/soci/38/2/html"/>
-  <updated>2025-05-04T22:12:34.793241+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/soci/38/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soci.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/soci/html" rel="related"/>
+  <updated>2025-05-06T05:05:53.788279+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soci.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Sociolinguistica</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soci.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/soci-2024-frontmatter2</id>
-    <updated>2025-05-04T22:12:34.793271+00:00</updated>
+    <updated>2025-05-06T05:05:53.788301+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/soci-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Current trends in Icelandic sociolinguistics: An introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0041/html"/>
     <id>https://doi.org/10.1515/soci-2024-0041</id>
-    <updated>2025-05-04T22:12:34.793279+00:00</updated>
+    <updated>2025-05-06T05:05:53.788310+00:00</updated>
     <summary>Article by Ari Páll Kristinsson
 DOI: https://doi.org/10.1515/soci-2024-0041</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/soci-2024-0041</summary>
     <title>Perceived threats to the future of Icelandic and the importance of language acquisition research</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0029/html"/>
     <id>https://doi.org/10.1515/soci-2024-0029</id>
-    <updated>2025-05-04T22:12:34.793290+00:00</updated>
+    <updated>2025-05-06T05:05:53.788321+00:00</updated>
     <summary>Article by Iris Nowenstein, Sigríður Sigurjónsdóttir
 DOI: https://doi.org/10.1515/soci-2024-0029</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/soci-2024-0029</summary>
     <title>Folk perceptions and evaluations of L2-accented Icelandic with regard to pleasantness and correctness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0027/html"/>
     <id>https://doi.org/10.1515/soci-2024-0027</id>
-    <updated>2025-05-04T22:12:34.793297+00:00</updated>
+    <updated>2025-05-06T05:05:53.788330+00:00</updated>
     <summary>Article by Stefanie Bade
 DOI: https://doi.org/10.1515/soci-2024-0027</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/soci-2024-0027</summary>
     <title>Icelandic on Facebook: Linguistic practices in an informal communication space</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0030/html"/>
     <id>https://doi.org/10.1515/soci-2024-0030</id>
-    <updated>2025-05-04T22:12:34.793307+00:00</updated>
+    <updated>2025-05-06T05:05:53.788338+00:00</updated>
     <summary>Article by Vanessa M. Isenmann
 DOI: https://doi.org/10.1515/soci-2024-0030</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/soci-2024-0030</summary>
     <title>Young Icelanders and popular culture: An empirical study of Anglicisms in conversation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0031/html"/>
     <id>https://doi.org/10.1515/soci-2024-0031</id>
-    <updated>2025-05-04T22:12:34.793314+00:00</updated>
+    <updated>2025-05-06T05:05:53.788346+00:00</updated>
     <summary>Article by Helga Hilmisdóttir
 DOI: https://doi.org/10.1515/soci-2024-0031</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/soci-2024-0031</summary>
     <title>Language change across the lifespan: The changing status of a local variant</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0032/html"/>
     <id>https://doi.org/10.1515/soci-2024-0032</id>
-    <updated>2025-05-04T22:12:34.793320+00:00</updated>
+    <updated>2025-05-06T05:05:53.788354+00:00</updated>
     <summary>Article by Margrét Guðmundsdóttir
 DOI: https://doi.org/10.1515/soci-2024-0032</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/soci-2024-0032</summary>
     <title>Icelandic regional pronunciation, attitudes and real-time change: Latest developments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0028/html"/>
     <id>https://doi.org/10.1515/soci-2024-0028</id>
-    <updated>2025-05-04T22:12:34.793327+00:00</updated>
+    <updated>2025-05-06T05:05:53.788361+00:00</updated>
     <summary>Article by Finnur Friðriksson, Ásgrímur Angantýsson, Stefanie Bade
 DOI: https://doi.org/10.1515/soci-2024-0028</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/soci-2024-0028</summary>
     <title>Icelandic in late modernity: On language policy discourses, stylistic variation, and the fate of purism and standard language ideology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0026/html"/>
     <id>https://doi.org/10.1515/soci-2024-0026</id>
-    <updated>2025-05-04T22:12:34.793333+00:00</updated>
+    <updated>2025-05-06T05:05:53.788369+00:00</updated>
     <summary>Article by Ari Páll Kristinsson, Kristján Árnason
 DOI: https://doi.org/10.1515/soci-2024-0026</summary>
   </entry>
@@ -86,21 +83,21 @@ DOI: https://doi.org/10.1515/soci-2024-0026</summary>
     <title>An interview with Ernst Håkon Jahr</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0035/html"/>
     <id>https://doi.org/10.1515/soci-2024-0035</id>
-    <updated>2025-05-04T22:12:34.793341+00:00</updated>
+    <updated>2025-05-06T05:05:53.788378+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/soci-2024-0035</summary>
   </entry>
   <entry>
     <title>An interview with Leena Huss</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0033/html"/>
     <id>https://doi.org/10.1515/soci-2024-0033</id>
-    <updated>2025-05-04T22:12:34.793346+00:00</updated>
+    <updated>2025-05-06T05:05:53.788385+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/soci-2024-0033</summary>
   </entry>
   <entry>
     <title>Arnbjörnsdóttir, Birna, Höskuldur Thráinsson &amp; Úlfar Bragason (eds.)(2023):Icelandic heritage in North America. Winnipeg: University of Manitoba Press. 313 p.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soci-2024-0036/html"/>
     <id>https://doi.org/10.1515/soci-2024-0036</id>
-    <updated>2025-05-04T22:12:34.793352+00:00</updated>
+    <updated>2025-05-06T05:05:53.788392+00:00</updated>
     <summary>Article by Ari Páll Kristinsson
 DOI: https://doi.org/10.1515/soci-2024-0036</summary>
   </entry>

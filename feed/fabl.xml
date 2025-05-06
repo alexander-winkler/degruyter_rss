@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Fabula</title>
-  <link href="https://www.degruyterbrill.com/journal/key/fabl/65/3-4/html"/>
-  <updated>2025-05-04T22:05:24.790743+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/fabl/65/3-4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fabl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/fabl/html" rel="related"/>
+  <updated>2025-05-06T04:56:06.888133+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fabl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Fabula</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fabl.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/fabula-2024-frontmatter3</id>
-    <updated>2025-05-04T22:05:24.790770+00:00</updated>
+    <updated>2025-05-06T04:56:06.888168+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fabula-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>Kohle zu Gold</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0013/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0013</id>
-    <updated>2025-05-04T22:05:24.790778+00:00</updated>
+    <updated>2025-05-06T04:56:06.888177+00:00</updated>
     <summary>Article by Harm-Peer Zimmermann mit Hisako Ono, Alfred Messerli
 DOI: https://doi.org/10.1515/fabula-2024-0013</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0013</summary>
     <title>Wettererscheinungen in Märchen, Sagen und anderen Volkserzählungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0014/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0014</id>
-    <updated>2025-05-04T22:05:24.790793+00:00</updated>
+    <updated>2025-05-06T04:56:06.888188+00:00</updated>
     <summary>Article by Hans-Jörg Uther
 DOI: https://doi.org/10.1515/fabula-2024-0014</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0014</summary>
     <title>Wilde Jagd, Ostwind, Westwind, himmlisches Kind</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0015/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0015</id>
-    <updated>2025-05-04T22:05:24.790803+00:00</updated>
+    <updated>2025-05-06T04:56:06.888197+00:00</updated>
     <summary>Article by Christine Shojaei Kawan
 DOI: https://doi.org/10.1515/fabula-2024-0015</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0015</summary>
     <title>Dornröschen im deutschen Mittelalter?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0016/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0016</id>
-    <updated>2025-05-04T22:05:24.790810+00:00</updated>
+    <updated>2025-05-06T04:56:06.888205+00:00</updated>
     <summary>Article by Mirna Kjorveziroska
 DOI: https://doi.org/10.1515/fabula-2024-0016</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0016</summary>
     <title>“Memory of stones”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0017/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0017</id>
-    <updated>2025-05-04T22:05:24.790819+00:00</updated>
+    <updated>2025-05-06T04:56:06.888219+00:00</updated>
     <summary>Article by Robert Piotrowski, Violetta Wróblewska
 DOI: https://doi.org/10.1515/fabula-2024-0017</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0017</summary>
     <title>Le motif de laDurée Surnaturelle du Temps au Pays des Féesdans les romans et leslaisde la littérature médiévale</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0018/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0018</id>
-    <updated>2025-05-04T22:05:24.790826+00:00</updated>
+    <updated>2025-05-06T04:56:06.888228+00:00</updated>
     <summary>Article by Margherita Lecco
 DOI: https://doi.org/10.1515/fabula-2024-0018</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0018</summary>
     <title>From theGeste FrancortoLohodann:A Comparative Analysis of an African Variant of Roland’s Birth and Youth</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0019/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0019</id>
-    <updated>2025-05-04T22:05:24.790833+00:00</updated>
+    <updated>2025-05-06T04:56:06.888236+00:00</updated>
     <summary>Article by Jeroen Dewulf
 DOI: https://doi.org/10.1515/fabula-2024-0019</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0019</summary>
     <title>“Ti Tiin Itiin”: An Introduction to the Performance Esthetics of the Konkomba Folktale</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0020/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0020</id>
-    <updated>2025-05-04T22:05:24.790840+00:00</updated>
+    <updated>2025-05-06T04:56:06.888243+00:00</updated>
     <summary>Article by E. Tasun Tidorchibe
 DOI: https://doi.org/10.1515/fabula-2024-0020</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0020</summary>
     <title>But They Still Lived Happily Ever After– or at Least, Happily</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0021/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0021</id>
-    <updated>2025-05-04T22:05:24.790846+00:00</updated>
+    <updated>2025-05-06T04:56:06.888251+00:00</updated>
     <summary>Article by Michelle Anya Anjirbag
 DOI: https://doi.org/10.1515/fabula-2024-0021</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0021</summary>
     <title>Nachruf – Leander Petzoldt (1934–2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0022/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0022</id>
-    <updated>2025-05-04T22:05:24.790853+00:00</updated>
+    <updated>2025-05-06T04:56:06.888260+00:00</updated>
     <summary>Article by Ingo Schneider
 DOI: https://doi.org/10.1515/fabula-2024-0022</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0022</summary>
     <title>ISFNR’s 19 Congress “Folk Narratives in the Changing World”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0023/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0023</id>
-    <updated>2025-05-04T22:05:24.790863+00:00</updated>
+    <updated>2025-05-06T04:56:06.888268+00:00</updated>
     <summary>Article by Rok Mrvič, Anastasiya Fiadotava, Saša Babič, Vita Džekčioriūtė
 DOI: https://doi.org/10.1515/fabula-2024-0023</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0023</summary>
     <title>Schröder, Friedrich:Die „Femme Fatale“ in Märchen und Bibel. Stuttgart: opus magnum 2023, 312 Seiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0024/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0024</id>
-    <updated>2025-05-04T22:05:24.790870+00:00</updated>
+    <updated>2025-05-06T04:56:06.888276+00:00</updated>
     <summary>Article by Bernd Rieken
 DOI: https://doi.org/10.1515/fabula-2024-0024</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/fabula-2024-0024</summary>
     <title>Submitted Books</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fabula-2024-0025/html"/>
     <id>https://doi.org/10.1515/fabula-2024-0025</id>
-    <updated>2025-05-04T22:05:24.790881+00:00</updated>
+    <updated>2025-05-06T04:56:06.888283+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fabula-2024-0025</summary>
   </entry>
 </feed>

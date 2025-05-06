@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>New Global Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ngs/19/1/html"/>
-  <updated>2025-05-04T22:10:18.179852+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ngs/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ngs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ngs/html" rel="related"/>
+  <updated>2025-05-06T05:02:46.221427+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ngs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in New Global Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ngs.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/ngs-2025-frontmatter1</id>
-    <updated>2025-05-04T22:10:18.179901+00:00</updated>
+    <updated>2025-05-06T05:02:46.221469+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ngs-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>EU Finalité Conceptions After Brexit: A Comparison of Polish and German Parties</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2023-0034/html"/>
     <id>https://doi.org/10.1515/ngs-2023-0034</id>
-    <updated>2025-05-04T22:10:18.179914+00:00</updated>
+    <updated>2025-05-06T05:02:46.221482+00:00</updated>
     <summary>Article by Thomas Mehlhausen, Adrian Wagstyl, Ireneusz Pawel Karolewski, Robert Grzeszczak
 DOI: https://doi.org/10.1515/ngs-2023-0034</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ngs-2023-0034</summary>
     <title>Hegemonic Discourses Surrounding United States’ Leadership in Post-Ebola Development in Liberia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2023-0030/html"/>
     <id>https://doi.org/10.1515/ngs-2023-0030</id>
-    <updated>2025-05-04T22:10:18.179929+00:00</updated>
+    <updated>2025-05-06T05:02:46.221496+00:00</updated>
     <summary>Article by Elinam Balimenuku Amevor
 DOI: https://doi.org/10.1515/ngs-2023-0030</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ngs-2023-0030</summary>
     <title>The United Nations and Blockchain Technology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2022-0048/html"/>
     <id>https://doi.org/10.1515/ngs-2022-0048</id>
-    <updated>2025-05-04T22:10:18.179940+00:00</updated>
+    <updated>2025-05-06T05:02:46.221505+00:00</updated>
     <summary>Article by Fait Muedini
 DOI: https://doi.org/10.1515/ngs-2022-0048</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ngs-2022-0048</summary>
     <title>De-globalization: Delusion or Logical Error?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2024-0021/html"/>
     <id>https://doi.org/10.1515/ngs-2024-0021</id>
-    <updated>2025-05-04T22:10:18.179951+00:00</updated>
+    <updated>2025-05-06T05:02:46.221513+00:00</updated>
     <summary>Article by Alexander Nikolaevich Chumakov
 DOI: https://doi.org/10.1515/ngs-2024-0021</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ngs-2024-0021</summary>
     <title>Eileen Boris, Heidi Gottfried, Julie Greene, and Joo-Cheong Tham:Global Labor Migration: New Directions(Studies of World Migrations)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2024-0032/html"/>
     <id>https://doi.org/10.1515/ngs-2024-0032</id>
-    <updated>2025-05-04T22:10:18.179962+00:00</updated>
+    <updated>2025-05-06T05:02:46.221523+00:00</updated>
     <summary>Article by Ronaldo Munck
 DOI: https://doi.org/10.1515/ngs-2024-0032</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ngs-2024-0032</summary>
     <title>Khaled A. Beydoun:The New Crusades: Islamophobia and the Global War on Muslims</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ngs-2024-0033/html"/>
     <id>https://doi.org/10.1515/ngs-2024-0033</id>
-    <updated>2025-05-04T22:10:18.179972+00:00</updated>
+    <updated>2025-05-06T05:02:46.221532+00:00</updated>
     <summary>Article by Katherine Alissar Tannous
 DOI: https://doi.org/10.1515/ngs-2024-0033</summary>
   </entry>

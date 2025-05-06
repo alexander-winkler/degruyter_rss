@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chinese Journal of Slavic Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cjss/4/2/html"/>
-  <updated>2025-05-04T22:03:57.079265+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cjss/4/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cjss.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cjss/html" rel="related"/>
+  <updated>2025-05-06T04:54:03.503236+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cjss.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Chinese Journal of Slavic Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cjss.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/cjss-2024-frontmatter2</id>
-    <updated>2025-05-04T22:03:57.079283+00:00</updated>
+    <updated>2025-05-06T04:54:03.503263+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cjss-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Social Transition and Modernization of Eurasian Countries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0021/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0021</id>
-    <updated>2025-05-04T22:03:57.079288+00:00</updated>
+    <updated>2025-05-06T04:54:03.503273+00:00</updated>
     <summary>Article by Zhuangzhi Sun
 DOI: https://doi.org/10.1515/cjss-2024-0021</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0021</summary>
     <title>The Three Forms of Dostoevsky’s Philosophy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0022/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0022</id>
-    <updated>2025-05-04T22:03:57.079293+00:00</updated>
+    <updated>2025-05-06T04:54:03.503284+00:00</updated>
     <summary>Article by Fenglin Xu
 DOI: https://doi.org/10.1515/cjss-2024-0022</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0022</summary>
     <title>Polish Expatriates in Harbin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0024/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0024</id>
-    <updated>2025-05-04T22:03:57.079304+00:00</updated>
+    <updated>2025-05-06T04:54:03.503292+00:00</updated>
     <summary>Article by Longbin Gao
 DOI: https://doi.org/10.1515/cjss-2024-0024</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0024</summary>
     <title>Страницы истории журнала «Искусство и художественная промышленность» (1898–1902)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0013/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0013</id>
-    <updated>2025-05-04T22:03:57.079311+00:00</updated>
+    <updated>2025-05-06T04:54:03.503301+00:00</updated>
     <summary>Article by Svetlana Mikhailovna Gracheva
 DOI: https://doi.org/10.1515/cjss-2024-0013</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0013</summary>
     <title>Грамматика молчания в современной русской поэзии</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0020/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0020</id>
-    <updated>2025-05-04T22:03:57.079315+00:00</updated>
+    <updated>2025-05-06T04:54:03.503309+00:00</updated>
     <summary>Article by Liudmila Vladimirovna Zubova
 DOI: https://doi.org/10.1515/cjss-2024-0020</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0020</summary>
     <title>Бездомный, Голодный и Ясный: революционные псевдонимы и конструкция «Я + адъективный предикат»</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0018/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0018</id>
-    <updated>2025-05-04T22:03:57.079319+00:00</updated>
+    <updated>2025-05-06T04:54:03.503317+00:00</updated>
     <summary>Article by Elena Valerievna Markasova
 DOI: https://doi.org/10.1515/cjss-2024-0018</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0018</summary>
     <title>Русские катойконимы глазами носителей языка: конкуренция символических ценностей</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0014/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0014</id>
-    <updated>2025-05-04T22:03:57.079324+00:00</updated>
+    <updated>2025-05-06T04:54:03.503325+00:00</updated>
     <summary>Article by Maria Viacheslavovna Akhmetova
 DOI: https://doi.org/10.1515/cjss-2024-0014</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/cjss-2024-0014</summary>
     <title>Русская фольклорная загадка: лингвокогнитивный анализ речевого жанра</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cjss-2024-0017/html"/>
     <id>https://doi.org/10.1515/cjss-2024-0017</id>
-    <updated>2025-05-04T22:03:57.079327+00:00</updated>
+    <updated>2025-05-06T04:54:03.503333+00:00</updated>
     <summary>Article by Elena Valerianovna Buzalskaia
 DOI: https://doi.org/10.1515/cjss-2024-0017</summary>
   </entry>

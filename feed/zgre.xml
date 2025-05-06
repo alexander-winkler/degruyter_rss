@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Unternehmens- und Gesellschaftsrecht</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zgre/54/2/html"/>
-  <updated>2025-05-04T22:13:48.241725+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zgre/54/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zgre.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zgre/html" rel="related"/>
+  <updated>2025-05-06T05:07:37.050045+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zgre.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Unternehmens- und Gesellschaftsrecht</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zgre.xml" type="application/rss+xml"/>
   <entry>
     <title>Ein Leben für das Recht: vielfältig, fordernd, bewegend</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgr-2025-0006/html"/>
     <id>https://doi.org/10.1515/zgr-2025-0006</id>
-    <updated>2025-05-04T22:13:48.241758+00:00</updated>
+    <updated>2025-05-06T05:07:37.050067+00:00</updated>
     <summary>Article by Wulf Goette
 DOI: https://doi.org/10.1515/zgr-2025-0006</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/zgr-2025-0006</summary>
     <title>Der fehlende Gewinnverwendungsbeschluss im Kapitalgesellschaftsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgr-2025-0007/html"/>
     <id>https://doi.org/10.1515/zgr-2025-0007</id>
-    <updated>2025-05-04T22:13:48.241767+00:00</updated>
+    <updated>2025-05-06T05:07:37.050074+00:00</updated>
     <summary>Article by Jens Koch
 DOI: https://doi.org/10.1515/zgr-2025-0007</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/zgr-2025-0007</summary>
     <title>Plädoyer für einen übernahmerechtlichen Beherrschungs- und/oder Gewinnabführungsvertrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgr-2025-0008/html"/>
     <id>https://doi.org/10.1515/zgr-2025-0008</id>
-    <updated>2025-05-04T22:13:48.241778+00:00</updated>
+    <updated>2025-05-06T05:07:37.050078+00:00</updated>
     <summary>Article by Heiko Gotsche, Arne le Dandeck
 DOI: https://doi.org/10.1515/zgr-2025-0008</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/zgr-2025-0008</summary>
     <title>Startup-Förderung zwischen Gesellschaftsrecht, Schuldrecht und Privatautonomie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgr-2025-0009/html"/>
     <id>https://doi.org/10.1515/zgr-2025-0009</id>
-    <updated>2025-05-04T22:13:48.241785+00:00</updated>
+    <updated>2025-05-06T05:07:37.050082+00:00</updated>
     <summary>Article by Philip Maximilian Bender
 DOI: https://doi.org/10.1515/zgr-2025-0009</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/zgr-2025-0009</summary>
     <title>Nach dem Spiel ist vor dem Spiel? Höchstrichterliche Wegweiser im Dickicht von Satzungsdurchbrechungen, Stimmbindungsvereinbarungen und Profifußball</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgr-2025-0010/html"/>
     <id>https://doi.org/10.1515/zgr-2025-0010</id>
-    <updated>2025-05-04T22:13:48.241792+00:00</updated>
+    <updated>2025-05-06T05:07:37.050087+00:00</updated>
     <summary>Article by Nina Benz
 DOI: https://doi.org/10.1515/zgr-2025-0010</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/zgr-2025-0010</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zgr-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/zgr-2025-frontmatter2</id>
-    <updated>2025-05-04T22:13:48.241799+00:00</updated>
+    <updated>2025-05-06T05:07:37.050091+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zgr-2025-frontmatter2</summary>
   </entry>
 </feed>

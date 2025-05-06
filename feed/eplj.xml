@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>European Property Law Journal </title>
-  <link href="https://www.degruyterbrill.com/journal/key/eplj/14/1/html"/>
-  <updated>2025-05-04T22:05:10.272781+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/eplj/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eplj.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/eplj/html" rel="related"/>
+  <updated>2025-05-06T04:55:47.192342+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eplj.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in European Property Law Journal </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eplj.xml" type="application/rss+xml"/>
   <entry>
     <title>Editorial EPLJ</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0001/html"/>
     <id>https://doi.org/10.1515/eplj-2025-0001</id>
-    <updated>2025-05-04T22:05:10.272827+00:00</updated>
+    <updated>2025-05-06T04:55:47.192360+00:00</updated>
     <summary>Article by Christine Godt, Björn Hoops
 DOI: https://doi.org/10.1515/eplj-2025-0001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/eplj-2025-0001</summary>
     <title>Property and contract in a climate of disruption: just processes for change in private agreements made for public purposes that burden land</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0002/html"/>
     <id>https://doi.org/10.1515/eplj-2025-0002</id>
-    <updated>2025-05-04T22:05:10.272842+00:00</updated>
+    <updated>2025-05-06T04:55:47.192368+00:00</updated>
     <summary>Article by Bonnie Holligan
 DOI: https://doi.org/10.1515/eplj-2025-0002</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/eplj-2025-0002</summary>
     <title>Reaching for the Stars ... and the Planets</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0003/html"/>
     <id>https://doi.org/10.1515/eplj-2025-0003</id>
-    <updated>2025-05-04T22:05:10.272851+00:00</updated>
+    <updated>2025-05-06T04:55:47.192374+00:00</updated>
     <summary>Article by Katja Zimmermann
 DOI: https://doi.org/10.1515/eplj-2025-0003</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/eplj-2025-0003</summary>
     <title>Deep-tier regulation: on governance by and of private regulators</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-0004/html"/>
     <id>https://doi.org/10.1515/eplj-2025-0004</id>
-    <updated>2025-05-04T22:05:10.272860+00:00</updated>
+    <updated>2025-05-06T04:55:47.192379+00:00</updated>
     <summary>Article by Dan Wielsch
 DOI: https://doi.org/10.1515/eplj-2025-0004</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/eplj-2025-0004</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eplj-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/eplj-2025-frontmatter1</id>
-    <updated>2025-05-04T22:05:10.272870+00:00</updated>
+    <updated>2025-05-06T04:55:47.192384+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/eplj-2025-frontmatter1</summary>
   </entry>
 </feed>

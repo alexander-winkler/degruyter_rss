@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Frontiers of Narrative Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/fns/10/2/html"/>
-  <updated>2025-05-04T22:05:32.367637+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/fns/10/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fns.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/fns/html" rel="related"/>
+  <updated>2025-05-06T04:56:17.258331+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fns.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Frontiers of Narrative Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fns.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/fns-2024-frontmatter2</id>
-    <updated>2025-05-04T22:05:32.367662+00:00</updated>
+    <updated>2025-05-06T04:56:17.258375+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fns-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Exploring cross-cultural narratives in literary studies: tradition, subjectivity, and strategy: an interview with Xiuyan Fu and Marco Caracciolo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2001/html"/>
     <id>https://doi.org/10.1515/fns-2025-2001</id>
-    <updated>2025-05-04T22:05:32.367670+00:00</updated>
+    <updated>2025-05-06T04:56:17.258390+00:00</updated>
     <summary>Article by Shaomin Zheng, Xiuyan Fu, Marco Caracciolo
 DOI: https://doi.org/10.1515/fns-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/fns-2025-2001</summary>
     <title>Cognition and literature: an interdisciplinary approach to E. Hemingway’sin our time</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2002/html"/>
     <id>https://doi.org/10.1515/fns-2025-2002</id>
-    <updated>2025-05-04T22:05:32.367680+00:00</updated>
+    <updated>2025-05-06T04:56:17.258407+00:00</updated>
     <summary>Article by Gabriela Tucan
 DOI: https://doi.org/10.1515/fns-2025-2002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/fns-2025-2002</summary>
     <title>Recipient-oriented playful design in Daniel Benmergui’sStoryteller(2023)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2003/html"/>
     <id>https://doi.org/10.1515/fns-2025-2003</id>
-    <updated>2025-05-04T22:05:32.367687+00:00</updated>
+    <updated>2025-05-06T04:56:17.258416+00:00</updated>
     <summary>Article by Kieron Brown
 DOI: https://doi.org/10.1515/fns-2025-2003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/fns-2025-2003</summary>
     <title>AI panopticon surveillance and dystopian worldmaking in Philip K. Dick’sVulcan’s Hammer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2004/html"/>
     <id>https://doi.org/10.1515/fns-2025-2004</id>
-    <updated>2025-05-04T22:05:32.367697+00:00</updated>
+    <updated>2025-05-06T04:56:17.258426+00:00</updated>
     <summary>Article by Kanjing He
 DOI: https://doi.org/10.1515/fns-2025-2004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/fns-2025-2004</summary>
     <title>Visualizing affect inJimmy Corrigan: The Smartest Kid on Earth</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2005/html"/>
     <id>https://doi.org/10.1515/fns-2025-2005</id>
-    <updated>2025-05-04T22:05:32.367704+00:00</updated>
+    <updated>2025-05-06T04:56:17.258437+00:00</updated>
     <summary>Article by Yun Lan
 DOI: https://doi.org/10.1515/fns-2025-2005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/fns-2025-2005</summary>
     <title>Articulating love: the narrative mechanisms and allegories of subjectivity in Chinese romance micro-dramas</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fns-2025-2006/html"/>
     <id>https://doi.org/10.1515/fns-2025-2006</id>
-    <updated>2025-05-04T22:05:32.367711+00:00</updated>
+    <updated>2025-05-06T04:56:17.258451+00:00</updated>
     <summary>Article by Lichan Deng
 DOI: https://doi.org/10.1515/fns-2025-2006</summary>
   </entry>

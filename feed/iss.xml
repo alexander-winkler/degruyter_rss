@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Innovative Surgical Sciences</title>
-  <link href="https://www.degruyterbrill.com/journal/key/iss/10/1/html"/>
-  <updated>2025-05-04T22:07:06.245094+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/iss/10/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iss.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/iss/html" rel="related"/>
+  <updated>2025-05-06T04:58:23.379566+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iss.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Innovative Surgical Sciences</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iss.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/iss-2025-frontmatter1</id>
-    <updated>2025-05-04T22:07:06.245129+00:00</updated>
+    <updated>2025-05-06T04:58:23.379587+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/iss-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>The evolving role of esophageal surgery – advancements, challenges, and the path forward</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2025-0005/html"/>
     <id>https://doi.org/10.1515/iss-2025-0005</id>
-    <updated>2025-05-04T22:07:06.245140+00:00</updated>
+    <updated>2025-05-06T04:58:23.379594+00:00</updated>
     <summary>Article by Stefan P. Mönig, Mickael Chevallay
 DOI: https://doi.org/10.1515/iss-2025-0005</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/iss-2025-0005</summary>
     <title>Neoadjuvant treatment of esophageal cancer: chemotherapy, chemoradiation, immunotherapy, and future trends of therapy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0005/html"/>
     <id>https://doi.org/10.1515/iss-2023-0005</id>
-    <updated>2025-05-04T22:07:06.245152+00:00</updated>
+    <updated>2025-05-06T04:58:23.379602+00:00</updated>
     <summary>Article by Freschta Malekzada, Miljana Vladimiriov, Michael Leitz, Julia Michel, Fabian Nimzewski, Jens Hoeppner
 DOI: https://doi.org/10.1515/iss-2023-0005</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/iss-2023-0005</summary>
     <title>Active surveillance in patients with a complete clinical response after neoadjuvant chemoradiotherapy for esophageal- and gastroesophageal junction cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0010/html"/>
     <id>https://doi.org/10.1515/iss-2023-0010</id>
-    <updated>2025-05-04T22:07:06.245161+00:00</updated>
+    <updated>2025-05-06T04:58:23.379608+00:00</updated>
     <summary>Article by Tamara J. Huizer, Sjoerd M. Lagarde, Joost J.M.E. Nuyttens, Lindsey Oudijk, Manon C.W. Spaander, Roelf Valkema, Bianca Mostert, Bas P.L. Wijnhoven, SANO- study group
 DOI: https://doi.org/10.1515/iss-2023-0010</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/iss-2023-0010</summary>
     <title>Management of subepithelial esophageal tumors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0011/html"/>
     <id>https://doi.org/10.1515/iss-2023-0011</id>
-    <updated>2025-05-04T22:07:06.245171+00:00</updated>
+    <updated>2025-05-06T04:58:23.379614+00:00</updated>
     <summary>Article by Marcel A. Schneider, Diana Vetter, Christian A. Gutschow
 DOI: https://doi.org/10.1515/iss-2023-0011</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/iss-2023-0011</summary>
     <title>What is the best surgical approach for esophageal cancer?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0021/html"/>
     <id>https://doi.org/10.1515/iss-2023-0021</id>
-    <updated>2025-05-04T22:07:06.245180+00:00</updated>
+    <updated>2025-05-06T04:58:23.379620+00:00</updated>
     <summary>Article by Verena Tripke, Vladimir J. Lozanovski, Carolina Mann, Hauke Lang, Peter P. Grimminger
 DOI: https://doi.org/10.1515/iss-2023-0021</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/iss-2023-0021</summary>
     <title>Immunotherapy as a new perspective for the therapy of esophageal cancer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0023/html"/>
     <id>https://doi.org/10.1515/iss-2023-0023</id>
-    <updated>2025-05-04T22:07:06.245190+00:00</updated>
+    <updated>2025-05-06T04:58:23.379625+00:00</updated>
     <summary>Article by Yvonne Huber, Markus Moehler, Anica Högner
 DOI: https://doi.org/10.1515/iss-2023-0023</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/iss-2023-0023</summary>
     <title>Voluminous hiatal hernias – the role of robotic surgery</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0033/html"/>
     <id>https://doi.org/10.1515/iss-2023-0033</id>
-    <updated>2025-05-04T22:07:06.245199+00:00</updated>
+    <updated>2025-05-06T04:58:23.379631+00:00</updated>
     <summary>Article by Michel Dosch, Mickael Chevallay, Minoa K. Jung, Stefan Mönig
 DOI: https://doi.org/10.1515/iss-2023-0033</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/iss-2023-0033</summary>
     <title>Oligometastatic disease – a renaissance for surgery?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iss-2023-0044/html"/>
     <id>https://doi.org/10.1515/iss-2023-0044</id>
-    <updated>2025-05-04T22:07:06.245209+00:00</updated>
+    <updated>2025-05-06T04:58:23.379636+00:00</updated>
     <summary>Article by Thorsten Goetze, Mickael Chevallay, Michel Dosch, Jordan Marcelis, Salah-Eddin Al-Batran, Stefan Paul Mönig
 DOI: https://doi.org/10.1515/iss-2023-0044</summary>
   </entry>

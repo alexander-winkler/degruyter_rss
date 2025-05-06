@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Wirtschaftspolitik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfwp/74/1/html"/>
-  <updated>2025-05-04T22:13:45.260172+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfwp/74/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfwp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfwp/html" rel="related"/>
+  <updated>2025-05-06T05:07:32.784158+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfwp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Wirtschaftspolitik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfwp.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zfwp-2025-frontmatter1</id>
-    <updated>2025-05-04T22:13:45.260197+00:00</updated>
+    <updated>2025-05-06T05:07:32.784188+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfwp-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Forschungskooperationen bei kritischen Technologien: Europas strategischer Balanceakt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2024-2021/html"/>
     <id>https://doi.org/10.1515/zfwp-2024-2021</id>
-    <updated>2025-05-04T22:13:45.260205+00:00</updated>
+    <updated>2025-05-06T05:07:32.784197+00:00</updated>
     <summary>Article by André Wolf
 DOI: https://doi.org/10.1515/zfwp-2024-2021</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zfwp-2024-2021</summary>
     <title>Variable Sperrklauseln in Parlamenten am Beispiel der Bundestagswahl 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2024-2022/html"/>
     <id>https://doi.org/10.1515/zfwp-2024-2022</id>
-    <updated>2025-05-04T22:13:45.260213+00:00</updated>
+    <updated>2025-05-06T05:07:32.784207+00:00</updated>
     <summary>Article by Tobias Hiller
 DOI: https://doi.org/10.1515/zfwp-2024-2022</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zfwp-2024-2022</summary>
     <title>Wachstumsbooster Arbeitsmarkt: Welchen Effekt hätte die Aktivierung des ungenutzten Arbeitskräftepotenzials in Deutschland?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2025-2003/html"/>
     <id>https://doi.org/10.1515/zfwp-2025-2003</id>
-    <updated>2025-05-04T22:13:45.260223+00:00</updated>
+    <updated>2025-05-06T05:07:32.784215+00:00</updated>
     <summary>Article by Eliana Coschignano, Niklas Isaak, Robin Jessen
 DOI: https://doi.org/10.1515/zfwp-2025-2003</summary>
   </entry>
@@ -46,14 +43,14 @@ DOI: https://doi.org/10.1515/zfwp-2025-2003</summary>
     <title>„Wie sieht die Zukunft der internationalen Klimapolitik aus?“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2025-2005/html"/>
     <id>https://doi.org/10.1515/zfwp-2025-2005</id>
-    <updated>2025-05-04T22:13:45.260230+00:00</updated>
+    <updated>2025-05-06T05:07:32.784222+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfwp-2025-2005</summary>
   </entry>
   <entry>
     <title>Das Pariser Abkommen droht zu scheitern. Was jetzt?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2025-2002/html"/>
     <id>https://doi.org/10.1515/zfwp-2025-2002</id>
-    <updated>2025-05-04T22:13:45.260236+00:00</updated>
+    <updated>2025-05-06T05:07:32.784229+00:00</updated>
     <summary>Article by Axel Ockenfels, Michael Pahle
 DOI: https://doi.org/10.1515/zfwp-2025-2002</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/zfwp-2025-2002</summary>
     <title>Neue Kräfteverhältnisse auf der 29. Weltklimakonferenz. Die Zukunft der internationalen Klimapolitik nach den US-Wahlen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2025-2001/html"/>
     <id>https://doi.org/10.1515/zfwp-2025-2001</id>
-    <updated>2025-05-04T22:13:45.260245+00:00</updated>
+    <updated>2025-05-06T05:07:32.784237+00:00</updated>
     <summary>Article by Ole Adolphsen, Jule Könneke
 DOI: https://doi.org/10.1515/zfwp-2025-2001</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/zfwp-2025-2001</summary>
     <title>Eine neue Zeitrechnung in der Klimafinanzierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfwp-2025-2004/html"/>
     <id>https://doi.org/10.1515/zfwp-2025-2004</id>
-    <updated>2025-05-04T22:13:45.260252+00:00</updated>
+    <updated>2025-05-06T05:07:32.784244+00:00</updated>
     <summary>Article by David Ryfisch
 DOI: https://doi.org/10.1515/zfwp-2025-2004</summary>
   </entry>

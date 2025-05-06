@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Soziologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfsoz/54/1/html"/>
-  <updated>2025-05-04T22:13:42.333814+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfsoz/54/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfsoz.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfsoz/html" rel="related"/>
+  <updated>2025-05-06T05:07:28.502658+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfsoz.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Soziologie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfsoz.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-frontmatter1</id>
-    <updated>2025-05-04T22:13:42.333834+00:00</updated>
+    <updated>2025-05-06T05:07:28.502697+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfsoz-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Verletzbarkeit und Gesellschaft: Soziologische Perspektiven auf Vulnerabilität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2010/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2010</id>
-    <updated>2025-05-04T22:13:42.333843+00:00</updated>
+    <updated>2025-05-06T05:07:28.502706+00:00</updated>
     <summary>Article by Eddie Hartmann, Frithjof Nungesser
 DOI: https://doi.org/10.1515/zfsoz-2025-2010</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2010</summary>
     <title>Pandemische Verletzbarkeit im städtischen Raum. Humandifferenzierung im historischen Seuchenvergleich</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2004/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2004</id>
-    <updated>2025-05-04T22:13:42.333848+00:00</updated>
+    <updated>2025-05-06T05:07:28.502719+00:00</updated>
     <summary>Article by Aaron Hock
 DOI: https://doi.org/10.1515/zfsoz-2025-2004</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2004</summary>
     <title>#moralischverletzt – Berufsethische Ansprüche und die Artikulation kollektiver Ungerechtigkeitserfahrungen von Pflegekräften während der Coronapandemie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2005/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2005</id>
-    <updated>2025-05-04T22:13:42.333853+00:00</updated>
+    <updated>2025-05-06T05:07:28.502728+00:00</updated>
     <summary>Article by Ruth Abramowski, Till Hilmar
 DOI: https://doi.org/10.1515/zfsoz-2025-2005</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2005</summary>
     <title>Menschen im Amt. Verletzbarkeit in der politischen Kommunikation der Gegenwart</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2002/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2002</id>
-    <updated>2025-05-04T22:13:42.333858+00:00</updated>
+    <updated>2025-05-06T05:07:28.502735+00:00</updated>
     <summary>Article by Julian Müller, Astrid Séville
 DOI: https://doi.org/10.1515/zfsoz-2025-2002</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2002</summary>
     <title>Multiple Vulnerabilitäten: Zur Wissenspolitik der Schulschließungen während der COVID-19-Pandemie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2008/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2008</id>
-    <updated>2025-05-04T22:13:42.333862+00:00</updated>
+    <updated>2025-05-06T05:07:28.502743+00:00</updated>
     <summary>Article by David Kaldewey, Pascal Berger, Lea Weigel, Caitlin Blome, Paula Kuhn, Nicole Meck
 DOI: https://doi.org/10.1515/zfsoz-2025-2008</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2008</summary>
     <title>Verletzbarkeit und Gewalt in der Pflege von Menschen mit Demenz: Wie die Fähigkeit zur Gewalt und die Wahrscheinlichkeit, sie zu erleiden, sozial verteilt wird</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2009/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2009</id>
-    <updated>2025-05-04T22:13:42.333866+00:00</updated>
+    <updated>2025-05-06T05:07:28.502752+00:00</updated>
     <summary>Article by Jonas Barth
 DOI: https://doi.org/10.1515/zfsoz-2025-2009</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2009</summary>
     <title>Verletzungen in der Grauzone. Eine rekonstruktive Studie zur Indexikalität sexueller Gewalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2001/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2001</id>
-    <updated>2025-05-04T22:13:42.333870+00:00</updated>
+    <updated>2025-05-06T05:07:28.502763+00:00</updated>
     <summary>Article by Olga Kedenburg
 DOI: https://doi.org/10.1515/zfsoz-2025-2001</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2001</summary>
     <title>Die übersehene Verletzbarkeit? Erfahrungen geflüchteter Männer zwischen Verletzung, Solidarität und Gewalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2003/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2003</id>
-    <updated>2025-05-04T22:13:42.333874+00:00</updated>
+    <updated>2025-05-06T05:07:28.502771+00:00</updated>
     <summary>Article by Matthias Schneider
 DOI: https://doi.org/10.1515/zfsoz-2025-2003</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2003</summary>
     <title>Ein verletzliches Leben. Vulnerable Existenzweisen, performative Praktiken und ihre politische Beziehung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2006/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2006</id>
-    <updated>2025-05-04T22:13:42.333878+00:00</updated>
+    <updated>2025-05-06T05:07:28.502778+00:00</updated>
     <summary>Article by Conrad Lluis
 DOI: https://doi.org/10.1515/zfsoz-2025-2006</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zfsoz-2025-2006</summary>
     <title>Verletzbarkeit und Verletzung erfahren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfsoz-2025-2007/html"/>
     <id>https://doi.org/10.1515/zfsoz-2025-2007</id>
-    <updated>2025-05-04T22:13:42.333886+00:00</updated>
+    <updated>2025-05-06T05:07:28.502785+00:00</updated>
     <summary>Article by Claudia Peter, Marc Strotmann
 DOI: https://doi.org/10.1515/zfsoz-2025-2007</summary>
   </entry>

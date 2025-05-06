@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Physikalische Chemie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zpch/239/4/html"/>
-  <updated>2025-05-04T22:14:06.629572+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zpch/239/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpch.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zpch/html" rel="related"/>
+  <updated>2025-05-06T05:08:02.928550+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpch.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Physikalische Chemie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpch.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2025-frontmatter4/html"/>
     <id>https://doi.org/10.1515/zpch-2025-frontmatter4</id>
-    <updated>2025-05-04T22:14:06.629597+00:00</updated>
+    <updated>2025-05-06T05:08:02.928568+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zpch-2025-frontmatter4</summary>
   </entry>
   <entry>
     <title>Strategic analysis of lithium resources by addressing challenges and opportunities for sustainable electric vehicle battery development in the era of global EV domination</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2023-0524/html"/>
     <id>https://doi.org/10.1515/zpch-2023-0524</id>
-    <updated>2025-05-04T22:14:06.629605+00:00</updated>
+    <updated>2025-05-06T05:08:02.928576+00:00</updated>
     <summary>Article by Arun Thirumurugan, Rajesh Govindaraj, Shanmugasundar Dhanabalan, Pandurengan Sakthivel, Natarajan Chidhambaram, Rednam Udayabhaskar, Sathish Kumar Kamaraj, Carolina Venegas Abarzúa, Juan Campos Nazer, Mauricio J. Morel
 DOI: https://doi.org/10.1515/zpch-2023-0524</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zpch-2023-0524</summary>
     <title>Investigation on electrochemical corrosion behavior and mechanical properties of Fe-nano particles produced by high-energy ball milling technique</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2023-0515/html"/>
     <id>https://doi.org/10.1515/zpch-2023-0515</id>
-    <updated>2025-05-04T22:14:06.629619+00:00</updated>
+    <updated>2025-05-06T05:08:02.928587+00:00</updated>
     <summary>Article by Prince Herald Milton, Sivasenthil Elangeeran, Fohad Mabood Husain, Shanmugam Vignesh, Viji Arangarajan
 DOI: https://doi.org/10.1515/zpch-2023-0515</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zpch-2023-0515</summary>
     <title>Investigation of structural properties of Nd3+doped ZnO to produce capable dye sensitized solar cells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2023-0408/html"/>
     <id>https://doi.org/10.1515/zpch-2023-0408</id>
-    <updated>2025-05-04T22:14:06.629626+00:00</updated>
+    <updated>2025-05-06T05:08:02.928594+00:00</updated>
     <summary>Article by Abi Belvia Anthony Dass, Bharathi Bernadsha Singarayar, Senthil Subban
 DOI: https://doi.org/10.1515/zpch-2023-0408</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zpch-2023-0408</summary>
     <title>Exploring the impact of hybridization on green composites: pineapple leaf and sisal fiber reinforcement using poly(furfuryl alcohol) bioresin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2024-0772/html"/>
     <id>https://doi.org/10.1515/zpch-2024-0772</id>
-    <updated>2025-05-04T22:14:06.629632+00:00</updated>
+    <updated>2025-05-06T05:08:02.928600+00:00</updated>
     <summary>Article by Baburao Gaddala, Sumanth Ratna Kandavalli, Giri Raghavendran, Agiladevi Sivaprakash, Revathi Rallabandi, Venkatesa Prabhu Sundramurthy, Mayakannan Selvaraju, Mohanasundaram Sugumar
 DOI: https://doi.org/10.1515/zpch-2024-0772</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zpch-2024-0772</summary>
     <title>Degradation of reactive blue dye under UV irradation using iron based nanocomposites</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2023-0402/html"/>
     <id>https://doi.org/10.1515/zpch-2023-0402</id>
-    <updated>2025-05-04T22:14:06.629639+00:00</updated>
+    <updated>2025-05-06T05:08:02.928607+00:00</updated>
     <summary>Article by Prakalathan Duraisamy, Kavitha Gurusamy, Dinesh Kumar Ganeshan
 DOI: https://doi.org/10.1515/zpch-2023-0402</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zpch-2023-0402</summary>
     <title>Enhancement of optical and electrical properties of tin oxide thin films through Zr + Ag doping for photocatalytic and photovoltaic applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2024-0610/html"/>
     <id>https://doi.org/10.1515/zpch-2024-0610</id>
-    <updated>2025-05-04T22:14:06.629645+00:00</updated>
+    <updated>2025-05-06T05:08:02.928613+00:00</updated>
     <summary>Article by Viji Arangarajan, Vijayakumar Rajendran, Sahariya Priya, Janaki Manoharan, Vanasundari Karuppaiya, Govindasami Periyasami, Sung Soo Han, Esakki Muthu Sankaran
 DOI: https://doi.org/10.1515/zpch-2024-0610</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zpch-2024-0610</summary>
     <title>Facile sol–gel synthesis process and electrochemical performance of MgNiO2act as an electrode for supercapacitor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2024-0611/html"/>
     <id>https://doi.org/10.1515/zpch-2024-0611</id>
-    <updated>2025-05-04T22:14:06.629655+00:00</updated>
+    <updated>2025-05-06T05:08:02.928620+00:00</updated>
     <summary>Article by Meiyazhagan Selvakumar, Kiruthika Thirumalaisamy, Perumal Kaliyappan, Sabah Ansar, Ashok Kumar Kaliamurthy, Arangarajan Viji
 DOI: https://doi.org/10.1515/zpch-2024-0611</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zpch-2024-0611</summary>
     <title>An efficient ZnO and Ag/ZnO honeycomb nanosheets for catalytic green one-pot synthesis of coumarins through Knoevenagel condensation and antibacterial activity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2024-0607/html"/>
     <id>https://doi.org/10.1515/zpch-2024-0607</id>
-    <updated>2025-05-04T22:14:06.629661+00:00</updated>
+    <updated>2025-05-06T05:08:02.928627+00:00</updated>
     <summary>Article by Prashanth Kumar PN, Pramod KS, Shivarudrappa H Pattanashetty, Vasantha Kumar BC, Arun Aravindakshan KV, Annu Laya Abraham, Fibin Varghese TV, Areej Al Bahir
 DOI: https://doi.org/10.1515/zpch-2024-0607</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zpch-2024-0607</summary>
     <title>Development of biogenic mediated Ag/ZrO2nanocomposite photocatalyst for degradation of toxic dyes in textile effluents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2024-0597/html"/>
     <id>https://doi.org/10.1515/zpch-2024-0597</id>
-    <updated>2025-05-04T22:14:06.629669+00:00</updated>
+    <updated>2025-05-06T05:08:02.928638+00:00</updated>
     <summary>Article by Karuppaiya Vanasundari, Sivaprakash Paramasivam, Arangarajan Viji, Fohad Mabood Husain, Esakki Muthu Sankaran, Ikhyun Kim
 DOI: https://doi.org/10.1515/zpch-2024-0597</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zpch-2024-0597</summary>
     <title>An investigation on the photocatalytic and antibacterial response of green fluorescent carbon dots synthesized from corn flour</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpch-2024-0793/html"/>
     <id>https://doi.org/10.1515/zpch-2024-0793</id>
-    <updated>2025-05-04T22:14:06.629677+00:00</updated>
+    <updated>2025-05-06T05:08:02.928645+00:00</updated>
     <summary>Article by Rachana R, Aswathy M, Vinitha N, Ancy Mariya, Mini Krishna K
 DOI: https://doi.org/10.1515/zpch-2024-0793</summary>
   </entry>

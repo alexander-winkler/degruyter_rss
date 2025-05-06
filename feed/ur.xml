@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>UmsatzsteuerRundschau</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ur/74/8/html"/>
-  <updated>2025-05-04T22:13:10.476627+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ur/74/8/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ur/html" rel="related"/>
+  <updated>2025-05-06T05:06:43.418794+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in UmsatzsteuerRundschau</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ur.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-frontmatter7408/html"/>
     <id>https://doi.org/10.9785/ur-2025-frontmatter7408</id>
-    <updated>2025-05-04T22:13:10.476652+00:00</updated>
+    <updated>2025-05-06T05:06:43.418811+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-frontmatter7408</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-toc7408/html"/>
     <id>https://doi.org/10.9785/ur-2025-toc7408</id>
-    <updated>2025-05-04T22:13:10.476658+00:00</updated>
+    <updated>2025-05-06T05:06:43.418816+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-toc7408</summary>
   </entry>
   <entry>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740808/html"/>
     <id>https://doi.org/10.9785/ur-2025-740808</id>
-    <updated>2025-05-04T22:13:10.476663+00:00</updated>
+    <updated>2025-05-06T05:06:43.418820+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-740808</summary>
   </entry>
   <entry>
     <title>Der BFH, der Durchgangserwerb bei der Geschäftsveräußerung im Ganzen und die Tücken des Berichtigungsverfahrens nach § 14c UStG — Anmerkungen zum Urteil des BFH v. 25.9.2024 – XI R 19/22</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740801/html"/>
     <id>https://doi.org/10.9785/ur-2025-740801</id>
-    <updated>2025-05-04T22:13:10.476671+00:00</updated>
+    <updated>2025-05-06T05:06:43.418827+00:00</updated>
     <summary>Article by Georg von Streit, Thomas Streit
 DOI: https://doi.org/10.9785/ur-2025-740801</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.9785/ur-2025-740801</summary>
     <title>Die (fehlende) umsatzsteuerrechtliche Begünstigung der Anlagemünzen aus Silber</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740802/html"/>
     <id>https://doi.org/10.9785/ur-2025-740802</id>
-    <updated>2025-05-04T22:13:10.476678+00:00</updated>
+    <updated>2025-05-06T05:06:43.418832+00:00</updated>
     <summary>Article by Wojciech Stiller
 DOI: https://doi.org/10.9785/ur-2025-740802</summary>
   </entry>
@@ -52,21 +49,21 @@ DOI: https://doi.org/10.9785/ur-2025-740802</summary>
     <title>Verzicht auf Steuerbefreiungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740803/html"/>
     <id>https://doi.org/10.9785/ur-2025-740803</id>
-    <updated>2025-05-04T22:13:10.476683+00:00</updated>
+    <updated>2025-05-06T05:06:43.418836+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-740803</summary>
   </entry>
   <entry>
     <title>Vorsteuerabzug</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740804/html"/>
     <id>https://doi.org/10.9785/ur-2025-740804</id>
-    <updated>2025-05-04T22:13:10.476687+00:00</updated>
+    <updated>2025-05-06T05:06:43.418839+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-740804</summary>
   </entry>
   <entry>
     <title>Besteuerungsverfahren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740805/html"/>
     <id>https://doi.org/10.9785/ur-2025-740805</id>
-    <updated>2025-05-04T22:13:10.476692+00:00</updated>
+    <updated>2025-05-06T05:06:43.418843+00:00</updated>
     <summary>Article by Werner Widmann
 DOI: https://doi.org/10.9785/ur-2025-740805</summary>
   </entry>
@@ -74,14 +71,14 @@ DOI: https://doi.org/10.9785/ur-2025-740805</summary>
     <title>Rechtsschutzgarantie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740806/html"/>
     <id>https://doi.org/10.9785/ur-2025-740806</id>
-    <updated>2025-05-04T22:13:10.476697+00:00</updated>
+    <updated>2025-05-06T05:06:43.418847+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-740806</summary>
   </entry>
   <entry>
     <title>Reiseleistungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ur-2025-740807/html"/>
     <id>https://doi.org/10.9785/ur-2025-740807</id>
-    <updated>2025-05-04T22:13:10.476702+00:00</updated>
+    <updated>2025-05-06T05:06:43.418853+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ur-2025-740807</summary>
   </entry>
 </feed>

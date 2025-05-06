@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Muslim World Journal of Human Rights</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mwjhr/21/1/html"/>
-  <updated>2025-05-04T22:10:10.761382+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/mwjhr/21/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mwjhr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mwjhr/html" rel="related"/>
+  <updated>2025-05-06T05:02:36.247145+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mwjhr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Muslim World Journal of Human Rights</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mwjhr.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mwjhr-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/mwjhr-2024-frontmatter1</id>
-    <updated>2025-05-04T22:10:10.761427+00:00</updated>
+    <updated>2025-05-06T05:02:36.247169+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/mwjhr-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Defending ‘Islamic Belief’ Against Discrimination: Religious Minority Group Discourse in Indonesia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mwjhr-2023-0004/html"/>
     <id>https://doi.org/10.1515/mwjhr-2023-0004</id>
-    <updated>2025-05-04T22:10:10.761441+00:00</updated>
+    <updated>2025-05-06T05:02:36.247181+00:00</updated>
     <summary>Article by Andi Muhammad Irawan, Andi Syurganda, Zul Afdal
 DOI: https://doi.org/10.1515/mwjhr-2023-0004</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/mwjhr-2023-0004</summary>
     <title>From Abrogation to Dominion: Navigating India’s Neo-Colonial Settler Agenda in Kashmir and Elimination of Kashmiri Identity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mwjhr-2023-0006/html"/>
     <id>https://doi.org/10.1515/mwjhr-2023-0006</id>
-    <updated>2025-05-04T22:10:10.761455+00:00</updated>
+    <updated>2025-05-06T05:02:36.247187+00:00</updated>
     <summary>Article by Mehmood Hussain
 DOI: https://doi.org/10.1515/mwjhr-2023-0006</summary>
   </entry>

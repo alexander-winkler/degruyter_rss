@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Rechtssoziologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfrs/45/1/html"/>
-  <updated>2025-05-04T22:13:40.675813+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfrs/45/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfrs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfrs/html" rel="related"/>
+  <updated>2025-05-06T05:07:26.221551+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfrs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Rechtssoziologie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfrs.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-frontmatter1</id>
-    <updated>2025-05-04T22:13:40.675831+00:00</updated>
+    <updated>2025-05-06T05:07:26.221593+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfrs-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>“The Influence of Media and the Influence of New Technologies on Law: Socio-Legal Approach” – Introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2011/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2011</id>
-    <updated>2025-05-04T22:13:40.675837+00:00</updated>
+    <updated>2025-05-06T05:07:26.221602+00:00</updated>
     <summary>Article by Stefan Machura, Iker Nabaskues Martínez de Eulate, Francisco Javier Fernández Galarreta
 DOI: https://doi.org/10.1515/zfrs-2025-2011</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2011</summary>
     <title>Character Development and Legal Message in Popular Culture</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2005/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2005</id>
-    <updated>2025-05-04T22:13:40.675844+00:00</updated>
+    <updated>2025-05-06T05:07:26.221613+00:00</updated>
     <summary>Article by Stefan Machura
 DOI: https://doi.org/10.1515/zfrs-2025-2005</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2005</summary>
     <title>The Shifting Sands of “Impact” in Law and Popular Culture – Some Reflections</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2003/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2003</id>
-    <updated>2025-05-04T22:13:40.675852+00:00</updated>
+    <updated>2025-05-06T05:07:26.221621+00:00</updated>
     <summary>Article by Peter Robson
 DOI: https://doi.org/10.1515/zfrs-2025-2003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2003</summary>
     <title>The True Crime Genre: A Positive Influence for Criminal Justice?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2002/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2002</id>
-    <updated>2025-05-04T22:13:40.675857+00:00</updated>
+    <updated>2025-05-06T05:07:26.221628+00:00</updated>
     <summary>Article by Steve Greenfield
 DOI: https://doi.org/10.1515/zfrs-2025-2002</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2002</summary>
     <title>Cancel culture and due process of law  The use of social media against constitutional rights</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2007/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2007</id>
-    <updated>2025-05-04T22:13:40.675862+00:00</updated>
+    <updated>2025-05-06T05:07:26.221637+00:00</updated>
     <summary>Article by Jesus Ezurmendia, Flavia Carbonell
 DOI: https://doi.org/10.1515/zfrs-2025-2007</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2007</summary>
     <title>On Transhumanism. A Socio-legal Approach beyond T-800 and The Replicant with Reference to Arendt and Aristotle</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2010/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2010</id>
-    <updated>2025-05-04T22:13:40.675866+00:00</updated>
+    <updated>2025-05-06T05:07:26.221644+00:00</updated>
     <summary>Article by Iker Nabaskues Martínez de Eulate
 DOI: https://doi.org/10.1515/zfrs-2025-2010</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2010</summary>
     <title>The Impact of Artificial Intelligence Technologies on the Justice Administration and on the Judicial Office Personnel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2008/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2008</id>
-    <updated>2025-05-04T22:13:40.675871+00:00</updated>
+    <updated>2025-05-06T05:07:26.221652+00:00</updated>
     <summary>Article by Francisco Javier Fernández Galarreta
 DOI: https://doi.org/10.1515/zfrs-2025-2008</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2008</summary>
     <title>Law 3.0: Technology and Law in the Entertainment Industry – The Case of Ticket Touting</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2006/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2006</id>
-    <updated>2025-05-04T22:13:40.675875+00:00</updated>
+    <updated>2025-05-06T05:07:26.221660+00:00</updated>
     <summary>Article by Mark James, Guy Osborn
 DOI: https://doi.org/10.1515/zfrs-2025-2006</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2006</summary>
     <title>Navigating Jurisdictional Boundaries: Traditional Lawyers vs. Legal Tech Firms in the German Legal Services Market</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2004/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2004</id>
-    <updated>2025-05-04T22:13:40.675880+00:00</updated>
+    <updated>2025-05-06T05:07:26.221669+00:00</updated>
     <summary>Article by Philipp Günther, Johanna Behr, Leonie Thies
 DOI: https://doi.org/10.1515/zfrs-2025-2004</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2004</summary>
     <title>Maximilian Steinbeis, Die verwundbare Demokratie – Strategien gegen die populistische Übernahme, 1. Auflage, München, Hanser Verlag 2024, 304 Seiten, ISBN 978-3-446-28129-5, 25,00 €.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2001/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2001</id>
-    <updated>2025-05-04T22:13:40.675889+00:00</updated>
+    <updated>2025-05-06T05:07:26.221679+00:00</updated>
     <summary>Article by Wolfgang Hecker
 DOI: https://doi.org/10.1515/zfrs-2025-2001</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/zfrs-2025-2001</summary>
     <title>Zugängliche Rechtsforschung? Reflexionen zur Positionierung rechtssoziologischer Forschung zwischen Anwendungsorientierung und wissenschaftlicher Exzellenz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfrs-2025-2009/html"/>
     <id>https://doi.org/10.1515/zfrs-2025-2009</id>
-    <updated>2025-05-04T22:13:40.675894+00:00</updated>
+    <updated>2025-05-06T05:07:26.221686+00:00</updated>
     <summary>Article by Hemma Mayrhofer
 DOI: https://doi.org/10.1515/zfrs-2025-2009</summary>
   </entry>

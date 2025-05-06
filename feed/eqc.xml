@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Stochastics and Quality Control </title>
-  <link href="https://www.degruyterbrill.com/journal/key/eqc/40/1/html"/>
-  <updated>2025-05-04T22:05:13.329291+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/eqc/40/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eqc.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/eqc/html" rel="related"/>
+  <updated>2025-05-06T04:55:51.483186+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eqc.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Stochastics and Quality Control </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/eqc.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/eqc-2025-frontmatter1</id>
-    <updated>2025-05-04T22:05:13.329325+00:00</updated>
+    <updated>2025-05-06T04:55:51.483211+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/eqc-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Profit and Reliability Analysis of a Gas Production Unit with the Concept of Optimal Age Replacement Policy: A Copula Approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0017/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0017</id>
-    <updated>2025-05-04T22:05:13.329334+00:00</updated>
+    <updated>2025-05-06T04:55:51.483219+00:00</updated>
     <summary>Article by Surabhi Sengar
 DOI: https://doi.org/10.1515/eqc-2024-0017</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/eqc-2024-0017</summary>
     <title>A Comprehensive Analysis Using Maximum Likelihood Estimation and Artificial Neural Networks for Modeling Arthritic Pain Relief Data</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0023/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0023</id>
-    <updated>2025-05-04T22:05:13.329344+00:00</updated>
+    <updated>2025-05-06T04:55:51.483229+00:00</updated>
     <summary>Article by Deepthy G S, Sujesh Areekara, Nicy Sebastian
 DOI: https://doi.org/10.1515/eqc-2024-0023</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/eqc-2024-0023</summary>
     <title>A Comparative Study of Six Process Capability Indices and Their Applications to Electronic and Food Industries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0027/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0027</id>
-    <updated>2025-05-04T22:05:13.329352+00:00</updated>
+    <updated>2025-05-06T04:55:51.483236+00:00</updated>
     <summary>Article by Mahendra Saha, Sanku Dey, Sudhansu S. Maiti, Abhimanyu S. Yadav
 DOI: https://doi.org/10.1515/eqc-2024-0027</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/eqc-2024-0027</summary>
     <title>Estimation of a New Asymmetry Based Process Capability Index 𝐶𝑐for Gamma Distribution</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0029/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0029</id>
-    <updated>2025-05-04T22:05:13.329361+00:00</updated>
+    <updated>2025-05-06T04:55:51.483246+00:00</updated>
     <summary>Article by Sanku Dey, Mahendra Saha
 DOI: https://doi.org/10.1515/eqc-2024-0029</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/eqc-2024-0029</summary>
     <title>Double and Group Acceptance Sampling Inspection Plans Based on Truncated Life Test for the Quasi-Xgamma Distribution</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0035/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0035</id>
-    <updated>2025-05-04T22:05:13.329368+00:00</updated>
+    <updated>2025-05-06T04:55:51.483253+00:00</updated>
     <summary>Article by Subhradev Sen, Mahendra Saha, Harsh Tripathi
 DOI: https://doi.org/10.1515/eqc-2024-0035</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/eqc-2024-0035</summary>
     <title>E-Bayesian Estimation of the Weighted Power Function Distribution with Application to Medical Data</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0038/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0038</id>
-    <updated>2025-05-04T22:05:13.329376+00:00</updated>
+    <updated>2025-05-06T04:55:51.483259+00:00</updated>
     <summary>Article by R. B. Athirakrishnan, E. I. Abdul Sathar
 DOI: https://doi.org/10.1515/eqc-2024-0038</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/eqc-2024-0038</summary>
     <title>Comparing Ridge Regression Estimators: Exploring Both New and Old Methods</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/eqc-2024-0043/html"/>
     <id>https://doi.org/10.1515/eqc-2024-0043</id>
-    <updated>2025-05-04T22:05:13.329384+00:00</updated>
+    <updated>2025-05-06T04:55:51.483267+00:00</updated>
     <summary>Article by R. Lakshmi, T. A. Sajesh
 DOI: https://doi.org/10.1515/eqc-2024-0043</summary>
   </entry>

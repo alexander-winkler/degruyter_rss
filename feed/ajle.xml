@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Asian Journal of Law and Economics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ajle/15/3/html"/>
-  <updated>2025-05-04T22:02:25.680233+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ajle/15/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ajle.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ajle/html" rel="related"/>
+  <updated>2025-05-06T04:52:07.955212+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ajle.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Asian Journal of Law and Economics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ajle.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/ajle-2024-frontmatter3</id>
-    <updated>2025-05-04T22:02:25.680262+00:00</updated>
+    <updated>2025-05-06T04:52:07.955259+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ajle-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>The Role of Judges in Selecting Efficient Norms in a Common Law System: A Law and Economics Perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2023-0179/html"/>
     <id>https://doi.org/10.1515/ajle-2023-0179</id>
-    <updated>2025-05-04T22:02:25.680271+00:00</updated>
+    <updated>2025-05-06T04:52:07.955268+00:00</updated>
     <summary>Article by Diogo Augusto Vidal Padre, Leandro Chaves Rêgo
 DOI: https://doi.org/10.1515/ajle-2023-0179</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ajle-2023-0179</summary>
     <title>Law-and-Economics of Business Judgment Rule in India</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2023-0045/html"/>
     <id>https://doi.org/10.1515/ajle-2023-0045</id>
-    <updated>2025-05-04T22:02:25.680280+00:00</updated>
+    <updated>2025-05-06T04:52:07.955279+00:00</updated>
     <summary>Article by Rahul Singh, Pratyay Amrit
 DOI: https://doi.org/10.1515/ajle-2023-0045</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ajle-2023-0045</summary>
     <title>Does Antitakeover Provision Harm Shareholders? Indexing for Antitakeover Provisions in China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2023-0119/html"/>
     <id>https://doi.org/10.1515/ajle-2023-0119</id>
-    <updated>2025-05-04T22:02:25.680288+00:00</updated>
+    <updated>2025-05-06T04:52:07.955287+00:00</updated>
     <summary>Article by Sirui Han
 DOI: https://doi.org/10.1515/ajle-2023-0119</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ajle-2023-0119</summary>
     <title>Seventy Years of Marriage and Family Law in China: Achievements, Challenges and Prospects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2023-0166/html"/>
     <id>https://doi.org/10.1515/ajle-2023-0166</id>
-    <updated>2025-05-04T22:02:25.680296+00:00</updated>
+    <updated>2025-05-06T04:52:07.955295+00:00</updated>
     <summary>Article by Qingmin Guo
 DOI: https://doi.org/10.1515/ajle-2023-0166</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ajle-2023-0166</summary>
     <title>Estimating the International Cocaine Market: A Novel Combination of Excess Compensation and Stochastic Frontier Analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2023-0129/html"/>
     <id>https://doi.org/10.1515/ajle-2023-0129</id>
-    <updated>2025-05-04T22:02:25.680303+00:00</updated>
+    <updated>2025-05-06T04:52:07.955303+00:00</updated>
     <summary>Article by Ba Tam Le, Xuan Thi Thanh Mai, Thanh Ngo, Tu D. Q. Le
 DOI: https://doi.org/10.1515/ajle-2023-0129</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ajle-2023-0129</summary>
     <title>Is the Korea Fair Trade Commission Abusing the Provision for Abuse of Superior Trading Position?: A Critical Analysis of the Act on Fair Intermediary Trade of Online Platforms</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ajle-2023-0176/html"/>
     <id>https://doi.org/10.1515/ajle-2023-0176</id>
-    <updated>2025-05-04T22:02:25.680311+00:00</updated>
+    <updated>2025-05-06T04:52:07.955314+00:00</updated>
     <summary>Article by Youngsoog Na
 DOI: https://doi.org/10.1515/ajle-2023-0176</summary>
   </entry>

@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Angermion </title>
-  <link href="https://www.degruyterbrill.com/journal/key/ang/17/1/html"/>
-  <updated>2025-05-04T22:02:36.600483+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ang/17/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ang.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ang/html" rel="related"/>
+  <updated>2025-05-06T04:52:21.187446+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ang.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Angermion </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ang.xml" type="application/rss+xml"/>
   <entry>
     <title>Contents/Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-toc1701/html"/>
     <id>https://doi.org/10.1515/anger-2024-toc1701</id>
-    <updated>2025-05-04T22:02:36.600508+00:00</updated>
+    <updated>2025-05-06T04:52:21.187472+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/anger-2024-toc1701</summary>
   </entry>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-frontmatter1701/html"/>
     <id>https://doi.org/10.1515/anger-2024-frontmatter1701</id>
-    <updated>2025-05-04T22:02:36.600515+00:00</updated>
+    <updated>2025-05-06T04:52:21.187480+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/anger-2024-frontmatter1701</summary>
   </entry>
   <entry>
     <title>English/German Bilingual Lexicography in the Nineteenth Century</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0001/html"/>
     <id>https://doi.org/10.1515/anger-2024-0001</id>
-    <updated>2025-05-04T22:02:36.600522+00:00</updated>
+    <updated>2025-05-06T04:52:21.187487+00:00</updated>
     <summary>Article by Nicola McLelland
 DOI: https://doi.org/10.1515/anger-2024-0001</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/anger-2024-0001</summary>
     <title>Cartoon Connections</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0002/html"/>
     <id>https://doi.org/10.1515/anger-2024-0002</id>
-    <updated>2025-05-04T22:02:36.600530+00:00</updated>
+    <updated>2025-05-06T04:52:21.187498+00:00</updated>
     <summary>Article by Richard Scully
 DOI: https://doi.org/10.1515/anger-2024-0002</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/anger-2024-0002</summary>
     <title>A histoire croisée of Anglo-German Relations in the 1920s to 1940s</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0003/html"/>
     <id>https://doi.org/10.1515/anger-2024-0003</id>
-    <updated>2025-05-04T22:02:36.600537+00:00</updated>
+    <updated>2025-05-06T04:52:21.187505+00:00</updated>
     <summary>Article by Kathryn Batchelor
 DOI: https://doi.org/10.1515/anger-2024-0003</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/anger-2024-0003</summary>
     <title>Serialisation, Translation, Recirculation, Anthologisation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0004/html"/>
     <id>https://doi.org/10.1515/anger-2024-0004</id>
-    <updated>2025-05-04T22:02:36.600543+00:00</updated>
+    <updated>2025-05-06T04:52:21.187511+00:00</updated>
     <summary>Article by Nora Ramtke
 DOI: https://doi.org/10.1515/anger-2024-0004</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/anger-2024-0004</summary>
     <title>Relational Reading</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0005/html"/>
     <id>https://doi.org/10.1515/anger-2024-0005</id>
-    <updated>2025-05-04T22:02:36.600549+00:00</updated>
+    <updated>2025-05-06T04:52:21.187516+00:00</updated>
     <summary>Article by Thomas Wild
 DOI: https://doi.org/10.1515/anger-2024-0005</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/anger-2024-0005</summary>
     <title>“Gott segne dieses Land. Ich liebe es nicht.“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0006/html"/>
     <id>https://doi.org/10.1515/anger-2024-0006</id>
-    <updated>2025-05-04T22:02:36.600556+00:00</updated>
+    <updated>2025-05-06T04:52:21.187525+00:00</updated>
     <summary>Article by Jack Arscott
 DOI: https://doi.org/10.1515/anger-2024-0006</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/anger-2024-0006</summary>
     <title>Andrew Cusack (ed.), Deutsch-britischer Kulturtransfer im Vormärz. Jahrbuch Forum Vormärz-Forschung 29/2023 (Bielefeld: Aisthesis, 2024), 323 pp. (Pb.)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0007/html"/>
     <id>https://doi.org/10.1515/anger-2024-0007</id>
-    <updated>2025-05-04T22:02:36.600563+00:00</updated>
+    <updated>2025-05-06T04:52:21.187533+00:00</updated>
     <summary>Article by Anna Ananieva
 DOI: https://doi.org/10.1515/anger-2024-0007</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/anger-2024-0007</summary>
     <title>Briefe aus Helfenberg. Eine Familienkorrespondenz zwischen Sachsen und England, 1909–1948. Herausgegeben von John Falconer (Dresden: Fabian Hille 2022), 458 S. (Geb.)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anger-2024-0008/html"/>
     <id>https://doi.org/10.1515/anger-2024-0008</id>
-    <updated>2025-05-04T22:02:36.600570+00:00</updated>
+    <updated>2025-05-06T04:52:21.187539+00:00</updated>
     <summary>Article by Astrid Köhler
 DOI: https://doi.org/10.1515/anger-2024-0008</summary>
   </entry>

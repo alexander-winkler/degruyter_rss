@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Information – Wissenschaft &amp; Praxis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/iwp/76/2-3/html"/>
-  <updated>2025-05-04T22:07:09.556968+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/iwp/76/2-3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iwp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/iwp/html" rel="related"/>
+  <updated>2025-05-06T04:58:27.822422+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iwp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Information – Wissenschaft &amp; Praxis</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iwp.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-frontmatter2-3/html"/>
     <id>https://doi.org/10.1515/iwp-2025-frontmatter2-3</id>
-    <updated>2025-05-04T22:07:09.556989+00:00</updated>
+    <updated>2025-05-06T04:58:27.822452+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/iwp-2025-frontmatter2-3</summary>
   </entry>
   <entry>
     <title>Beruflicher Quereinstieg als Karrierechance: Ergebnisse einer quantitativen Befragung von Führungskräften und Quereinsteigenden in NRW-Bibliotheken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2024-2051/html"/>
     <id>https://doi.org/10.1515/iwp-2024-2051</id>
-    <updated>2025-05-04T22:07:09.556997+00:00</updated>
+    <updated>2025-05-06T04:58:27.822468+00:00</updated>
     <summary>Article by Katja Bartlakowski, Anke Petschenka
 DOI: https://doi.org/10.1515/iwp-2024-2051</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/iwp-2024-2051</summary>
     <title>Der KI-Chatbot „BibKI“ der KIT-Bibliothek</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2002/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2002</id>
-    <updated>2025-05-04T22:07:09.557005+00:00</updated>
+    <updated>2025-05-06T04:58:27.822478+00:00</updated>
     <summary>Article by Uwe Dierolf, Tobias Kurze, Frank Polgart, Michael Skarupianski, Bernadette Breyer
 DOI: https://doi.org/10.1515/iwp-2025-2002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2002</summary>
     <title>Generative künstliche Intelligenz im Innovationsmanagement: Potenziale und Herausforderungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2024-2054/html"/>
     <id>https://doi.org/10.1515/iwp-2024-2054</id>
-    <updated>2025-05-04T22:07:09.557012+00:00</updated>
+    <updated>2025-05-06T04:58:27.822488+00:00</updated>
     <summary>Article by Lukas Keicher, Anne Spitzley, Antonino Ardilio, Maike Arnold
 DOI: https://doi.org/10.1515/iwp-2024-2054</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/iwp-2024-2054</summary>
     <title>Die neue KI-Verordnung der EU und ihre Bedeutung für Hochschulen, Kommunen und Bibliotheken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2003/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2003</id>
-    <updated>2025-05-04T22:07:09.557019+00:00</updated>
+    <updated>2025-05-06T04:58:27.822497+00:00</updated>
     <summary>Article by Katja Bartlakowski
 DOI: https://doi.org/10.1515/iwp-2025-2003</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2003</summary>
     <title>Disziplinen verbinden, Netzwerke knüpfen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2004/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2004</id>
-    <updated>2025-05-04T22:07:09.557025+00:00</updated>
+    <updated>2025-05-06T04:58:27.822505+00:00</updated>
     <summary>Article by Burcu Koçlu
 DOI: https://doi.org/10.1515/iwp-2025-2004</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2004</summary>
     <title>Selbstständig als Berater im Informationssektor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2011/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2011</id>
-    <updated>2025-05-04T22:07:09.557031+00:00</updated>
+    <updated>2025-05-06T04:58:27.822514+00:00</updated>
     <summary>Article by Josef Wandeler, Gudrun Schmidt
 DOI: https://doi.org/10.1515/iwp-2025-2011</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2011</summary>
     <title>Informationskompetenz, KI und Terminologie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2010/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2010</id>
-    <updated>2025-05-04T22:07:09.557037+00:00</updated>
+    <updated>2025-05-06T04:58:27.822521+00:00</updated>
     <summary>Article by Nicolas Bach, Timucin Cicek
 DOI: https://doi.org/10.1515/iwp-2025-2010</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2010</summary>
     <title>Kollaborative Rezension Informationsverhalten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2009/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2009</id>
-    <updated>2025-05-04T22:07:09.557043+00:00</updated>
+    <updated>2025-05-06T04:58:27.822528+00:00</updated>
     <summary>Article by Timucin Cicek, Ines Schnell, Julia Ulffers
 DOI: https://doi.org/10.1515/iwp-2025-2009</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2009</summary>
     <title>Geribert Jakob – Abschied vom Volontariat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2008/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2008</id>
-    <updated>2025-05-04T22:07:09.557054+00:00</updated>
+    <updated>2025-05-06T04:58:27.822540+00:00</updated>
     <summary>Article by Marlies Ockenfeld
 DOI: https://doi.org/10.1515/iwp-2025-2008</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/iwp-2025-2008</summary>
     <title>Archivists meet Historians – Transferring source criticism to the digital age.Beiträge zum 27. Archivwissenschaftlichen Kolloquium der Archivschule Marburg. – Irmgard Christa Becker, Dominik Haffer, Florian Lehrmann und Robert Meier (Hrsg.). Marburg: Archivschule Marburg, 2024. (Veröffentlichungen der Archivschule Marburg; Nr. 71) 297 S. – ISBN 978-3-923833-89-4, 31,80 Euro</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2024-2056/html"/>
     <id>https://doi.org/10.1515/iwp-2024-2056</id>
-    <updated>2025-05-04T22:07:09.557062+00:00</updated>
+    <updated>2025-05-06T04:58:27.822552+00:00</updated>
     <summary>Article by Marlies Ockenfeld
 DOI: https://doi.org/10.1515/iwp-2024-2056</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/iwp-2024-2056</summary>
     <title>Lernwelt Schule. Innovative Lernorte und Konzepte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2006/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2006</id>
-    <updated>2025-05-04T22:07:09.557068+00:00</updated>
+    <updated>2025-05-06T04:58:27.822559+00:00</updated>
     <summary>Article by Barbara Müller-Heiden
 DOI: https://doi.org/10.1515/iwp-2025-2006</summary>
   </entry>
@@ -110,21 +107,21 @@ DOI: https://doi.org/10.1515/iwp-2025-2006</summary>
     <title>Aus der DGI</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2013/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2013</id>
-    <updated>2025-05-04T22:07:09.557074+00:00</updated>
+    <updated>2025-05-06T04:58:27.822566+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/iwp-2025-2013</summary>
   </entry>
   <entry>
     <title>Informationen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2012/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2012</id>
-    <updated>2025-05-04T22:07:09.557079+00:00</updated>
+    <updated>2025-05-06T04:58:27.822572+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/iwp-2025-2012</summary>
   </entry>
   <entry>
     <title>Terminkalender</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iwp-2025-2014/html"/>
     <id>https://doi.org/10.1515/iwp-2025-2014</id>
-    <updated>2025-05-04T22:07:09.557085+00:00</updated>
+    <updated>2025-05-06T04:58:27.822578+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/iwp-2025-2014</summary>
   </entry>
 </feed>

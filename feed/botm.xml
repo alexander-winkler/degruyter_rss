@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Botanica Marina</title>
-  <link href="https://www.degruyterbrill.com/journal/key/botm/68/2/html"/>
-  <updated>2025-05-04T22:03:30.867350+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/botm/68/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/botm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/botm/html" rel="related"/>
+  <updated>2025-05-06T04:53:27.812279+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/botm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Botanica Marina</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/botm.xml" type="application/rss+xml"/>
   <entry>
     <title>In this issue</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2025-graphabs2/html"/>
     <id>https://doi.org/10.1515/bot-2025-graphabs2</id>
-    <updated>2025-05-04T22:03:30.867397+00:00</updated>
+    <updated>2025-05-06T04:53:27.812296+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/bot-2025-graphabs2</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/bot-2025-frontmatter2</id>
-    <updated>2025-05-04T22:03:30.867406+00:00</updated>
+    <updated>2025-05-06T04:53:27.812301+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/bot-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Influence of mesoscale eddies on the spring phytoplankton groups in the Southern Gulf of Mexico</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0042/html"/>
     <id>https://doi.org/10.1515/bot-2024-0042</id>
-    <updated>2025-05-04T22:03:30.867415+00:00</updated>
+    <updated>2025-05-06T04:53:27.812305+00:00</updated>
     <summary>Article by José Manuel González-Fernández, Ruth Luna-Soria, Héctor Mauricio Alexander-Valdés, Elizabeth Durán-Campos, Erik Coria-Monter, Adolfo Gracia
 DOI: https://doi.org/10.1515/bot-2024-0042</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/bot-2024-0042</summary>
     <title>The benthic marine algae of the Maldives: historical insights into their diversity and distribution</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0063/html"/>
     <id>https://doi.org/10.1515/bot-2024-0063</id>
-    <updated>2025-05-04T22:03:30.867429+00:00</updated>
+    <updated>2025-05-06T04:53:27.812312+00:00</updated>
     <summary>Article by Rossella Nicolai, Giuseppe C. Zuccarello, Ulf Karsten, Yohan D. Louis, Federico Cerri, Giulia Senna, Shazla Mohamed, Paolo Galli
 DOI: https://doi.org/10.1515/bot-2024-0063</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/bot-2024-0063</summary>
     <title>Growth rates, standing stocks, and estimates of net primary production for the kelpsAgarum clathratum,Hedophyllum nigripes, andEualaria fistulosa(Phaeophyceae, Laminariales) in Kachemak Bay, Cook Inlet, Alaska</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0064/html"/>
     <id>https://doi.org/10.1515/bot-2024-0064</id>
-    <updated>2025-05-04T22:03:30.867437+00:00</updated>
+    <updated>2025-05-06T04:53:27.812317+00:00</updated>
     <summary>Article by Dennis Cody Lees, William B. Driskell, David E. Erikson
 DOI: https://doi.org/10.1515/bot-2024-0064</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/bot-2024-0064</summary>
     <title>Similarity in growth response ofAspergillus terreusisolates under mimic hydrothermal vent conditions suggests no physiological growth barrier between terrestrial and marine environments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0070/html"/>
     <id>https://doi.org/10.1515/bot-2024-0070</id>
-    <updated>2025-05-04T22:03:30.867446+00:00</updated>
+    <updated>2025-05-06T04:53:27.812322+00:00</updated>
     <summary>Article by Sheng-Yu Guo, Michael W.L. Chiang, Wan-Rou Lin, Sung-Yuan Hsieh, Thossaporn Phatthongkleang, E.B. Gareth Jones, Ka-Lai Pang
 DOI: https://doi.org/10.1515/bot-2024-0070</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/bot-2024-0070</summary>
     <title>Paraloratospora edkuensissp. nov. (Ascomycota, Phaeosphaeriaceae) from the brackish Lake Edku, Egypt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0084/html"/>
     <id>https://doi.org/10.1515/bot-2024-0084</id>
-    <updated>2025-05-04T22:03:30.867453+00:00</updated>
+    <updated>2025-05-06T04:53:27.812326+00:00</updated>
     <summary>Article by Mahmoud S. Bakhit, Mohamed A. Abdel-Wahab
 DOI: https://doi.org/10.1515/bot-2024-0084</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/bot-2024-0084</summary>
     <title>Morphological and molecular characterization of Kareniaceae (Dinophyceae, Gymnodiniales) in Kuwait’s waters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0083/html"/>
     <id>https://doi.org/10.1515/bot-2024-0083</id>
-    <updated>2025-05-04T22:03:30.867462+00:00</updated>
+    <updated>2025-05-06T04:53:27.812331+00:00</updated>
     <summary>Article by Manal Al-Kandari, Maria Saburova, Igor Polikarpov, Jacob Larsen, Nina Lundholm, Sumaiah Hussain
 DOI: https://doi.org/10.1515/bot-2024-0083</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/bot-2024-0083</summary>
     <title>Exploration of thein-vitroantibacterial-antioxidant potentials and GC-MS metabolite profiling of seaweeds from the southwest coast of India</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bot-2024-0057/html"/>
     <id>https://doi.org/10.1515/bot-2024-0057</id>
-    <updated>2025-05-04T22:03:30.867470+00:00</updated>
+    <updated>2025-05-06T04:53:27.812335+00:00</updated>
     <summary>Article by Hafish M. Peedika Parambil, Aditya H. Kamath, Madhu N. Velappan, Cathrine S. Manohar, Jithin P. Edavalath, Nishad M. Thottingal
 DOI: https://doi.org/10.1515/bot-2024-0057</summary>
   </entry>

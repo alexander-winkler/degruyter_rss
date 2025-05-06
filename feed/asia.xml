@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Asiatische Studien - Études Asiatiques</title>
-  <link href="https://www.degruyterbrill.com/journal/key/asia/78/4/html"/>
-  <updated>2025-05-04T22:03:07.430770+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/asia/78/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/asia/html" rel="related"/>
+  <updated>2025-05-06T04:52:55.881515+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Asiatische Studien - Études Asiatiques</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/asia.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2024-frontmatter4/html"/>
     <id>https://doi.org/10.1515/asia-2024-frontmatter4</id>
-    <updated>2025-05-04T22:03:07.430797+00:00</updated>
+    <updated>2025-05-06T04:52:55.881546+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/asia-2024-frontmatter4</summary>
   </entry>
   <entry>
     <title>The Emergence of Arabic Scientific Terminology at the Eastern Contact Zone: Calque and Loanword in Early ʿAbbāsid Time (750–800 CE)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0030/html"/>
     <id>https://doi.org/10.1515/asia-2023-0030</id>
-    <updated>2025-05-04T22:03:07.430806+00:00</updated>
+    <updated>2025-05-06T04:52:55.881555+00:00</updated>
     <summary>Article by Milad Abedi, Johannes Thomann
 DOI: https://doi.org/10.1515/asia-2023-0030</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/asia-2023-0030</summary>
     <title>The ‘Orthodoxisation’ of the Ancient Indian Marriage by Bride Price (śulka). Insights into the Ārṣa and Āsura Forms of Marriage in and out of the Dharmaśāstric Tradition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0035/html"/>
     <id>https://doi.org/10.1515/asia-2023-0035</id>
-    <updated>2025-05-04T22:03:07.430815+00:00</updated>
+    <updated>2025-05-06T04:52:55.881566+00:00</updated>
     <summary>Article by Alessandro Giudice
 DOI: https://doi.org/10.1515/asia-2023-0035</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/asia-2023-0035</summary>
     <title>Getrennte Wege der Rezeption: Susanne Hornfecks RomanIna aus Chinain Taiwan und Festlandchina</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0007/html"/>
     <id>https://doi.org/10.1515/asia-2023-0007</id>
-    <updated>2025-05-04T22:03:07.430824+00:00</updated>
+    <updated>2025-05-06T04:52:55.881574+00:00</updated>
     <summary>Article by Yu Weicheng
 DOI: https://doi.org/10.1515/asia-2023-0007</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/asia-2023-0007</summary>
     <title>Sūrdās’ poetry in the community of Dādūpanth</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2023-0013/html"/>
     <id>https://doi.org/10.1515/asia-2023-0013</id>
-    <updated>2025-05-04T22:03:07.430831+00:00</updated>
+    <updated>2025-05-06T04:52:55.881581+00:00</updated>
     <summary>Article by Biljana Zrnic
 DOI: https://doi.org/10.1515/asia-2023-0013</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/asia-2023-0013</summary>
     <title>Reinhard, A. Kevin:Lived Islam: Colloquial Religion in a Cosmopolitan Tradition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2022-0039/html"/>
     <id>https://doi.org/10.1515/asia-2022-0039</id>
-    <updated>2025-05-04T22:03:07.430838+00:00</updated>
+    <updated>2025-05-06T04:52:55.881588+00:00</updated>
     <summary>Article by Majid Daneshgar
 DOI: https://doi.org/10.1515/asia-2022-0039</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/asia-2022-0039</summary>
     <title>Yoga und Yogi, ein Überblick: Besprechung vonTardan-Masquelier, Ysé, dir.:Yoga: L’encyclopédie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2024-0025/html"/>
     <id>https://doi.org/10.1515/asia-2024-0025</id>
-    <updated>2025-05-04T22:03:07.430845+00:00</updated>
+    <updated>2025-05-06T04:52:55.881606+00:00</updated>
     <summary>Article by Peter Schreiner
 DOI: https://doi.org/10.1515/asia-2024-0025</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/asia-2024-0025</summary>
     <title>Xiong, Victor Cunrui (trans.):A Thorough Exploration in Historiography: Shitong 史通 / Liu Zhiji (661–721)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/asia-2024-0027/html"/>
     <id>https://doi.org/10.1515/asia-2024-0027</id>
-    <updated>2025-05-04T22:03:07.430851+00:00</updated>
+    <updated>2025-05-06T04:52:55.881613+00:00</updated>
     <summary>Article by Kathrin Leese-Messing
 DOI: https://doi.org/10.1515/asia-2024-0027</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Clinical Chemistry and Laboratory Medicine (CCLM)</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cclm/63/6/html"/>
-  <updated>2025-05-04T22:03:40.777797+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cclm/63/6/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cclm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cclm/html" rel="related"/>
+  <updated>2025-05-06T04:53:41.766284+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cclm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Clinical Chemistry and Laboratory Medicine (CCLM)</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cclm.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-frontmatter6/html"/>
     <id>https://doi.org/10.1515/cclm-2025-frontmatter6</id>
-    <updated>2025-05-04T22:03:40.777821+00:00</updated>
+    <updated>2025-05-06T04:53:41.766307+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cclm-2025-frontmatter6</summary>
   </entry>
   <entry>
     <title>The Friedewald formula strikes back</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0211/html"/>
     <id>https://doi.org/10.1515/cclm-2025-0211</id>
-    <updated>2025-05-04T22:03:40.777826+00:00</updated>
+    <updated>2025-05-06T04:53:41.766312+00:00</updated>
     <summary>Article by Michel R. Langlois
 DOI: https://doi.org/10.1515/cclm-2025-0211</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cclm-2025-0211</summary>
     <title>Liquid biopsy in oncology: navigating technical hurdles and future transition for precision medicine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0271/html"/>
     <id>https://doi.org/10.1515/cclm-2025-0271</id>
-    <updated>2025-05-04T22:03:40.777831+00:00</updated>
+    <updated>2025-05-06T04:53:41.766320+00:00</updated>
     <summary>Article by Mengxiao Xie, Shiyang Pan, Mario Plebani
 DOI: https://doi.org/10.1515/cclm-2025-0271</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cclm-2025-0271</summary>
     <title>The neglected issue of pyridoxal- 5′ phosphate</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0258/html"/>
     <id>https://doi.org/10.1515/cclm-2025-0258</id>
-    <updated>2025-05-04T22:03:40.777836+00:00</updated>
+    <updated>2025-05-06T04:53:41.766325+00:00</updated>
     <summary>Article by Mario Plebani, Joris Delanghe
 DOI: https://doi.org/10.1515/cclm-2025-0258</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cclm-2025-0258</summary>
     <title>Health literacy: a new challenge for laboratory medicine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1158/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1158</id>
-    <updated>2025-05-04T22:03:40.777840+00:00</updated>
+    <updated>2025-05-06T04:53:41.766329+00:00</updated>
     <summary>Article by Federico Pennestrì, Giuseppe Banfi
 DOI: https://doi.org/10.1515/cclm-2024-1158</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1158</summary>
     <title>Clinical applications of circulating tumor cell detection: challenges and strategies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-0959/html"/>
     <id>https://doi.org/10.1515/cclm-2024-0959</id>
-    <updated>2025-05-04T22:03:40.777844+00:00</updated>
+    <updated>2025-05-06T04:53:41.766334+00:00</updated>
     <summary>Article by Chunhui Ma, Yang Li, Hai Zhu, Zhiyong Li, Yi Liu
 DOI: https://doi.org/10.1515/cclm-2024-0959</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cclm-2024-0959</summary>
     <title>Pleural effusion as a sample matrix for laboratory analyses in cancer management: a perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0197/html"/>
     <id>https://doi.org/10.1515/cclm-2025-0197</id>
-    <updated>2025-05-04T22:03:40.777848+00:00</updated>
+    <updated>2025-05-06T04:53:41.766337+00:00</updated>
     <summary>Article by Martina Spisarová, Hana Študentová, Kateřina Holá, Bohuslav Melichar
 DOI: https://doi.org/10.1515/cclm-2025-0197</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/cclm-2025-0197</summary>
     <title>Interest of hair tests to discriminate a tail end of a doping regimen from a possible unpredictable source of a prohibited substance in case of challenging an anti-doping rule violation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1407/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1407</id>
-    <updated>2025-05-04T22:03:40.777853+00:00</updated>
+    <updated>2025-05-06T04:53:41.766342+00:00</updated>
     <summary>Article by Pascal Kintz
 DOI: https://doi.org/10.1515/cclm-2024-1407</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1407</summary>
     <title>Sigma Metrics misconceptions and limitations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1380/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1380</id>
-    <updated>2025-05-04T22:03:40.777857+00:00</updated>
+    <updated>2025-05-06T04:53:41.766346+00:00</updated>
     <summary>Article by Xincen Duan, Elvar Theodorsson, Wei Guo, Tony Badrick
 DOI: https://doi.org/10.1515/cclm-2024-1380</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1380</summary>
     <title>EN ISO 15189 revision: EFLM Committee Accreditation and ISO/CEN standards (C: A/ISO) analysis and general remarks on the changes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1451/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1451</id>
-    <updated>2025-05-04T22:03:40.777862+00:00</updated>
+    <updated>2025-05-06T04:53:41.766350+00:00</updated>
     <summary>Article by Solveig Linko, Guilaine Boursier, Francisco A. Bernabeu-Andreu, Nana Dzneladze, Florent Vanstapel, Pika Meško Brguljan, Katerina Tosheska-Trajkovska, Hélène Mehay, Mauro Panteghini, Duilio Brugnoni, Neda Milinkovic, Maria Lohmander, Luděk Šprongl, Hikmet Can Çubukçu, Marc Thelen
 DOI: https://doi.org/10.1515/cclm-2024-1451</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1451</summary>
     <title>Evaluation of current indirect methods for measuring LDL-cholesterol</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0024/html"/>
     <id>https://doi.org/10.1515/cclm-2025-0024</id>
-    <updated>2025-05-04T22:03:40.777871+00:00</updated>
+    <updated>2025-05-06T04:53:41.766360+00:00</updated>
     <summary>Article by Sophia Drobnik, Hubert Scharnagl, Nilesh J. Samani, Peter S. Braund, Christopher P. Nelson, Tim Hollstein, Ursula Kassner, Alexander Dressel, Wolfgang Drobnik, Winfried März
 DOI: https://doi.org/10.1515/cclm-2025-0024</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/cclm-2025-0024</summary>
     <title>Verification of automated review, release and reporting of results with assessment of the risk of harm for patients: the procedure algorithm proposal for clinical laboratories</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1164/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1164</id>
-    <updated>2025-05-04T22:03:40.777876+00:00</updated>
+    <updated>2025-05-06T04:53:41.766365+00:00</updated>
     <summary>Article by Marijana Miler, Nora Nikolac Gabaj, Gordan Šimić, Adriana Unić, Lara Milevoj Kopčinović, Marija Božović, Anita Radman, Alen Vrtarić, Mario Štefanović, Ines Vukasović
 DOI: https://doi.org/10.1515/cclm-2024-1164</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1164</summary>
     <title>Progranulin measurement with a new automated method: a step forward in the diagnostic approach to neurodegenerative disorders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1143/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1143</id>
-    <updated>2025-05-04T22:03:40.777881+00:00</updated>
+    <updated>2025-05-06T04:53:41.766374+00:00</updated>
     <summary>Article by Chiara Cosma, Ilaria Talli, Elisa Pangrazzi, Andrea Padoan, Helena Cerutti, Martina Zaninotto, Carlo Gabelli, Mario Plebani
 DOI: https://doi.org/10.1515/cclm-2024-1143</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1143</summary>
     <title>A comparative analysis of current С-peptide assays compared to a reference method: can we overcome inertia to standardization?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1260/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1260</id>
-    <updated>2025-05-04T22:03:40.777885+00:00</updated>
+    <updated>2025-05-06T04:53:41.766378+00:00</updated>
     <summary>Article by Curt Rohlfing, Gregory Petroski, Shawn M. Connolly, Steven Hanson, Randie R. Little, Kuanysh Kabytaev
 DOI: https://doi.org/10.1515/cclm-2024-1260</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1260</summary>
     <title>Blood samples for ammonia analysis do not require transport to the laboratory on ice: a study of ammonia stability and cause ofin vitroammonia increase in samples from patients with hyperammonaemia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1304/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1304</id>
-    <updated>2025-05-04T22:03:40.777890+00:00</updated>
+    <updated>2025-05-06T04:53:41.766383+00:00</updated>
     <summary>Article by Gavin W. Mercer-Smith, Marie Appleton, Élodie A. Hanon, Ann Bowron
 DOI: https://doi.org/10.1515/cclm-2024-1304</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1304</summary>
     <title>A physio-chemical mathematical model of the effects of blood analysis delay on acid-base, metabolite and electrolyte status: evaluation in blood from critical care patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1350/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1350</id>
-    <updated>2025-05-04T22:03:40.777894+00:00</updated>
+    <updated>2025-05-06T04:53:41.766387+00:00</updated>
     <summary>Article by Bahareh Nevirian, Steen Kåre Fagerberg, Mette Krogh Pedersen, Søren Risom Kristensen, Kjeld Asbjørn Jensen Damgaard, Stephen Edward Rees, Lars Pilegaard Thomsen
 DOI: https://doi.org/10.1515/cclm-2024-1350</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1350</summary>
     <title>Evolution of autoimmune diagnostics over the past 10 years: lessons learned from the UK NEQAS external quality assessment EQA programs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-0781/html"/>
     <id>https://doi.org/10.1515/cclm-2024-0781</id>
-    <updated>2025-05-04T22:03:40.777899+00:00</updated>
+    <updated>2025-05-06T04:53:41.766392+00:00</updated>
     <summary>Article by Emirena Garrafa, Teresa Carbone, Maria Infantino, Pierluigi Anzivino, Michela Boni, Sara Ghisellini, Valentina Muraro, Daniele Roselli, Maria Teresa Trevisan, Dina Patel, Nicola Bizzaro
 DOI: https://doi.org/10.1515/cclm-2024-0781</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/cclm-2024-0781</summary>
     <title>Comparison between monotest and traditional batch-based ELISA assays for therapeutic drug monitoring of infliximab and adalimumab levels and anti-drug antibodies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1258/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1258</id>
-    <updated>2025-05-04T22:03:40.777903+00:00</updated>
+    <updated>2025-05-06T04:53:41.766396+00:00</updated>
     <summary>Article by Mikel Moneo, Ainhoa Ruiz del Agua, Begoña Ruiz-Argüello, Noelia Rapun, Daniel Nagore, Rachid El Hamss
 DOI: https://doi.org/10.1515/cclm-2024-1258</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1258</summary>
     <title>Evaluation of pre-analytical factors impacting urine test strip and chemistry results</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1233/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1233</id>
-    <updated>2025-05-04T22:03:40.777907+00:00</updated>
+    <updated>2025-05-06T04:53:41.766400+00:00</updated>
     <summary>Article by Mary Kathryn Bohn, Anselmo Fabros, Ashley Di Meo
 DOI: https://doi.org/10.1515/cclm-2024-1233</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1233</summary>
     <title>Evaluation of AUTION EYE AI-4510 flow cell morphology analyzer for counting particles in urine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1163/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1163</id>
-    <updated>2025-05-04T22:03:40.777912+00:00</updated>
+    <updated>2025-05-06T04:53:41.766403+00:00</updated>
     <summary>Article by Matthijs Oyaert, Timo Kouri, Eva Carton, Sigrid Deprez, Stijn Lambrecht, Marijn Speeckaert
 DOI: https://doi.org/10.1515/cclm-2024-1163</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1163</summary>
     <title>Estimation of the allowable total error of the absolute CD34+ cell count by flow cytometry using data from UK NEQAS exercises 2004–2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2025-0065/html"/>
     <id>https://doi.org/10.1515/cclm-2025-0065</id>
-    <updated>2025-05-04T22:03:40.777916+00:00</updated>
+    <updated>2025-05-06T04:53:41.766408+00:00</updated>
     <summary>Article by Bruno Brando, Liam Whitby, Arianna Gatti, Alison Whitby, Federico Di Credico, Stuart Scott
 DOI: https://doi.org/10.1515/cclm-2025-0065</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/cclm-2025-0065</summary>
     <title>Establishment of gender– and age–related reference intervals for serum uric acid in adults based on big data from Zhejiang Province in China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1288/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1288</id>
-    <updated>2025-05-04T22:03:40.777925+00:00</updated>
+    <updated>2025-05-06T04:53:41.766412+00:00</updated>
     <summary>Article by Dandan Chen, Yunxian Zhou, Lina Fan, Zheng Yang, Dagan Yang
 DOI: https://doi.org/10.1515/cclm-2024-1288</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1288</summary>
     <title>Tumor specific protein 70 targeted tumor cell isolation technology can improve the accuracy of cytopathological examination</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-0878/html"/>
     <id>https://doi.org/10.1515/cclm-2024-0878</id>
-    <updated>2025-05-04T22:03:40.777929+00:00</updated>
+    <updated>2025-05-06T04:53:41.766416+00:00</updated>
     <summary>Article by Lixia Zhang, Yutong Zhou, Shuxian Yang, Qiong Zhu, Jian Xu, Yuan Mu, Chunrong Gu, Huanyu Ju, Rong Rong, Shiyang Pan
 DOI: https://doi.org/10.1515/cclm-2024-0878</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/cclm-2024-0878</summary>
     <title>Diagnostic performance of Mindray CL1200i high sensitivity cardiac troponin I assay compared to Abbott Alinity cardiac troponin I assay for the diagnosis of type 1 and 2 acute myocardial infarction in females and males: MERITnI study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1373/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1373</id>
-    <updated>2025-05-04T22:03:40.777935+00:00</updated>
+    <updated>2025-05-06T04:53:41.766420+00:00</updated>
     <summary>Article by Fred S. Apple, Kevin G. Buda, Barrett P. Wagner, Anne Sexter, Yader Sandoval, Stephen W. Smith, Kylie Meyer, Alanna Ladd, Kathryn Worrell, Hannah M. Brown, Karen M. Schulz
 DOI: https://doi.org/10.1515/cclm-2024-1373</summary>
   </entry>
@@ -206,7 +203,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1373</summary>
     <title>Evidence-based assessment of the application of Six Sigma to infectious disease serology quality control</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1455/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1455</id>
-    <updated>2025-05-04T22:03:40.777939+00:00</updated>
+    <updated>2025-05-06T04:53:41.766424+00:00</updated>
     <summary>Article by Wayne Dimech, Giuseppe Vincini
 DOI: https://doi.org/10.1515/cclm-2024-1455</summary>
   </entry>
@@ -214,7 +211,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1455</summary>
     <title>Evaluating the accuracy of ChatGPT in classifying normal and abnormal blood cell morphology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1469/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1469</id>
-    <updated>2025-05-04T22:03:40.777943+00:00</updated>
+    <updated>2025-05-06T04:53:41.766427+00:00</updated>
     <summary>Article by Davide Negrini, Laura Pighi, Marco Tosi, Giuseppe Lippi
 DOI: https://doi.org/10.1515/cclm-2024-1469</summary>
   </entry>
@@ -222,7 +219,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1469</summary>
     <title>Refining within-subject biological variation estimation using routine laboratory data: practical applications of the refineR algorithm</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1386/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1386</id>
-    <updated>2025-05-04T22:03:40.777947+00:00</updated>
+    <updated>2025-05-06T04:53:41.766431+00:00</updated>
     <summary>Article by Eirik Åsen Røys, Kristin Viste, Christopher-John Farrell, Ralf Kellmann, Nora Alicia Guldhaug, Elvar Theodorsson, Graham Ross Dallas Jones, Kristin Moberg Aakre
 DOI: https://doi.org/10.1515/cclm-2024-1386</summary>
   </entry>
@@ -230,7 +227,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1386</summary>
     <title>Early rule-out high-sensitivity troponin protocols require continuous analytical robustness: a caution regarding the potential for troponin assay down-calibration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1395/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1395</id>
-    <updated>2025-05-04T22:03:40.777951+00:00</updated>
+    <updated>2025-05-06T04:53:41.766435+00:00</updated>
     <summary>Article by Christina M. Trambas, Yvonne S. Reidy, Kristin M. Aakre
 DOI: https://doi.org/10.1515/cclm-2024-1395</summary>
   </entry>
@@ -238,7 +235,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1395</summary>
     <title>Biochemical evidence of vitamin B12 deficiency: a crucial issue to address supplementation in pregnant women</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1405/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1405</id>
-    <updated>2025-05-04T22:03:40.777954+00:00</updated>
+    <updated>2025-05-06T04:53:41.766439+00:00</updated>
     <summary>Article by Simona Ferraro, Cristina Cereda, Gianvincenzo Zuccotti
 DOI: https://doi.org/10.1515/cclm-2024-1405</summary>
   </entry>
@@ -246,7 +243,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1405</summary>
     <title>Plasmacytoid dendritic cell proliferation and acute myeloid leukemia with minimal differentiation (AML-M0)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1357/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1357</id>
-    <updated>2025-05-04T22:03:40.777958+00:00</updated>
+    <updated>2025-05-06T04:53:41.766443+00:00</updated>
     <summary>Article by Suwen Yang, Wei Shi, Sai Qiao, Qianwen Hu, Xiaofen Wang
 DOI: https://doi.org/10.1515/cclm-2024-1357</summary>
   </entry>
@@ -254,7 +251,7 @@ DOI: https://doi.org/10.1515/cclm-2024-1357</summary>
     <title>Failing methemoglobin blood gas analyses in a sodium nitrite intoxication</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cclm-2024-1298/html"/>
     <id>https://doi.org/10.1515/cclm-2024-1298</id>
-    <updated>2025-05-04T22:03:40.777962+00:00</updated>
+    <updated>2025-05-06T04:53:41.766447+00:00</updated>
     <summary>Article by Jasper Van Heuverswyn, Nico Callewaert, Kathleen Croes, Cathelijne Lyphout, Stijn Lambrecht, Nick Verougstraete
 DOI: https://doi.org/10.1515/cclm-2024-1298</summary>
   </entry>

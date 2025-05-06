@@ -1,77 +1,74 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>feministische studien</title>
-  <link href="https://www.degruyterbrill.com/journal/key/fs/42/2/html"/>
-  <updated>2025-05-04T22:05:43.026499+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/fs/42/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/fs/html" rel="related"/>
+  <updated>2025-05-06T04:56:31.372516+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in feministische studien</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fs.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-frontmatter4202/html"/>
     <id>https://doi.org/10.1515/fs-2024-frontmatter4202</id>
-    <updated>2025-05-04T22:05:43.026517+00:00</updated>
+    <updated>2025-05-06T04:56:31.372540+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-frontmatter4202</summary>
   </entry>
   <entry>
     <title>Zu den Autor:innen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0047/html"/>
     <id>https://doi.org/10.1515/fs-2024-0047</id>
-    <updated>2025-05-04T22:05:43.026523+00:00</updated>
+    <updated>2025-05-06T04:56:31.372548+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0047</summary>
   </entry>
   <entry>
     <title>Abstracts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0048/html"/>
     <id>https://doi.org/10.1515/fs-2024-0048</id>
-    <updated>2025-05-04T22:05:43.026528+00:00</updated>
+    <updated>2025-05-06T04:56:31.372554+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0048</summary>
   </entry>
   <entry>
     <title>Jahresinhaltsverzeichnis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0049/html"/>
     <id>https://doi.org/10.1515/fs-2024-0049</id>
-    <updated>2025-05-04T22:05:43.026533+00:00</updated>
+    <updated>2025-05-06T04:56:31.372559+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0049</summary>
   </entry>
   <entry>
     <title>Bestellformular</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0050/html"/>
     <id>https://doi.org/10.1515/fs-2024-0050</id>
-    <updated>2025-05-04T22:05:43.026538+00:00</updated>
+    <updated>2025-05-06T04:56:31.372565+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0050</summary>
   </entry>
   <entry>
     <title>Förderverein</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0051/html"/>
     <id>https://doi.org/10.1515/fs-2024-0051</id>
-    <updated>2025-05-04T22:05:43.026543+00:00</updated>
+    <updated>2025-05-06T04:56:31.372570+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0051</summary>
   </entry>
   <entry>
     <title>Ausblick auf die nächsten Hefte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0052/html"/>
     <id>https://doi.org/10.1515/fs-2024-0052</id>
-    <updated>2025-05-04T22:05:43.026548+00:00</updated>
+    <updated>2025-05-06T04:56:31.372576+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0052</summary>
   </entry>
   <entry>
     <title>Einleitung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-1029/html"/>
     <id>https://doi.org/10.1515/fs-2024-1029</id>
-    <updated>2025-05-04T22:05:43.026552+00:00</updated>
+    <updated>2025-05-06T04:56:31.372582+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-1029</summary>
   </entry>
   <entry>
     <title>Écriture Fluide. Von verflüssigten Körpern und queeren Befreiungsakten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0030/html"/>
     <id>https://doi.org/10.1515/fs-2024-0030</id>
-    <updated>2025-05-04T22:05:43.026557+00:00</updated>
+    <updated>2025-05-06T04:56:31.372588+00:00</updated>
     <summary>Article by Alina Sabransky
 DOI: https://doi.org/10.1515/fs-2024-0030</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/fs-2024-0030</summary>
     <title>Trans* Athlet*innen im Sport – Vielfältige Geschlechter im Kontext einer meritokratischen Leistungslogik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0031/html"/>
     <id>https://doi.org/10.1515/fs-2024-0031</id>
-    <updated>2025-05-04T22:05:43.026564+00:00</updated>
+    <updated>2025-05-06T04:56:31.372596+00:00</updated>
     <summary>Article by Karolin Heckemeyer
 DOI: https://doi.org/10.1515/fs-2024-0031</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/fs-2024-0031</summary>
     <title>Deutungsmuster von trans Inhaftierten im Strafvollzug – Geschlechtervielfalt und Re-Binarisierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0032/html"/>
     <id>https://doi.org/10.1515/fs-2024-0032</id>
-    <updated>2025-05-04T22:05:43.026570+00:00</updated>
+    <updated>2025-05-06T04:56:31.372604+00:00</updated>
     <summary>Article by Anke Neuber
 DOI: https://doi.org/10.1515/fs-2024-0032</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/fs-2024-0032</summary>
     <title>Personenstandsrechtliche Entwicklungen in der Bundesrepublik Deutschland in Bezug auf Geschlecht. Ein Vortrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0033/html"/>
     <id>https://doi.org/10.1515/fs-2024-0033</id>
-    <updated>2025-05-04T22:05:43.026575+00:00</updated>
+    <updated>2025-05-06T04:56:31.372611+00:00</updated>
     <summary>Article by Adrian de Silva
 DOI: https://doi.org/10.1515/fs-2024-0033</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/fs-2024-0033</summary>
     <title>Das Selbstbestimmungsgesetz tritt in Kraft. Über Rechtskämpfe, die rechtliche Erfassung und Regulierung von Geschlecht und den Paradigmenwechsel von der Fremd- zur Selbstbestimmung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0034/html"/>
     <id>https://doi.org/10.1515/fs-2024-0034</id>
-    <updated>2025-05-04T22:05:43.026581+00:00</updated>
+    <updated>2025-05-06T04:56:31.372618+00:00</updated>
     <summary>Article by Anna Katharina Mangold, Aline Oloff
 DOI: https://doi.org/10.1515/fs-2024-0034</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/fs-2024-0034</summary>
     <title>Geschlechtervielfalt in queeren Vereinen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0035/html"/>
     <id>https://doi.org/10.1515/fs-2024-0035</id>
-    <updated>2025-05-04T22:05:43.026589+00:00</updated>
+    <updated>2025-05-06T04:56:31.372628+00:00</updated>
     <summary>Article by Kathrin Schultz, Anna Dundurs, Kerstin Thost, Jenny Schrödl
 DOI: https://doi.org/10.1515/fs-2024-0035</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/fs-2024-0035</summary>
     <title>ANDERSRUMportrait. Queer-feministischer Fotokunstaktivismus für Vielfalt und Akzeptanz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0036/html"/>
     <id>https://doi.org/10.1515/fs-2024-0036</id>
-    <updated>2025-05-04T22:05:43.026595+00:00</updated>
+    <updated>2025-05-06T04:56:31.372641+00:00</updated>
     <summary>Article by Alexa Seewald, Jenny Schrödl
 DOI: https://doi.org/10.1515/fs-2024-0036</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/fs-2024-0036</summary>
     <title>»Wir sind einfach stärker, wenn wir uns zusammentun«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0037/html"/>
     <id>https://doi.org/10.1515/fs-2024-0037</id>
-    <updated>2025-05-04T22:05:43.026600+00:00</updated>
+    <updated>2025-05-06T04:56:31.372647+00:00</updated>
     <summary>Article by Luan Pertl, Tomka Weiß, Jenny Schrödl
 DOI: https://doi.org/10.1515/fs-2024-0037</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/fs-2024-0037</summary>
     <title>Eva Kreisky</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0038/html"/>
     <id>https://doi.org/10.1515/fs-2024-0038</id>
-    <updated>2025-05-04T22:05:43.026606+00:00</updated>
+    <updated>2025-05-06T04:56:31.372653+00:00</updated>
     <summary>Article by Marion Löffler, Birgit Sauer
 DOI: https://doi.org/10.1515/fs-2024-0038</summary>
   </entry>
@@ -143,14 +140,14 @@ DOI: https://doi.org/10.1515/fs-2024-0038</summary>
     <title>Regina Becker-Schmidt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0039/html"/>
     <id>https://doi.org/10.1515/fs-2024-0039</id>
-    <updated>2025-05-04T22:05:43.026611+00:00</updated>
+    <updated>2025-05-06T04:56:31.372660+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fs-2024-0039</summary>
   </entry>
   <entry>
     <title>»Es ist nichts zwischen uns« – Über die Produktivität des Konflikts im feministischen Widerstreit. Vortragsreihe des feministischen Wissenschaftskollektivs Zwischen Institution und Utopie, Oktober 2023 – Februar 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0040/html"/>
     <id>https://doi.org/10.1515/fs-2024-0040</id>
-    <updated>2025-05-04T22:05:43.026617+00:00</updated>
+    <updated>2025-05-06T04:56:31.372669+00:00</updated>
     <summary>Article by Raphael Deindl, Brita Krucsay
 DOI: https://doi.org/10.1515/fs-2024-0040</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/fs-2024-0040</summary>
     <title>»Klassismus in Hochschule und Gesellschaft«. Interdisziplinäre Tagung an der TU Darmstadt, 21.–22. März 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0041/html"/>
     <id>https://doi.org/10.1515/fs-2024-0041</id>
-    <updated>2025-05-04T22:05:43.026623+00:00</updated>
+    <updated>2025-05-06T04:56:31.372675+00:00</updated>
     <summary>Article by Flora Petrik
 DOI: https://doi.org/10.1515/fs-2024-0041</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/fs-2024-0041</summary>
     <title>Von Fröschen, Einhörnern und Schmetterlingen. Trans*_queere Wirklichkeiten und visuelle Politiken. Schriften von Josch Hoenes (1972–2019). Herausgegeben von Robin Bauer, Adrian de Silva und Utan Schirmer, mit Illustrationen von Tomka Weiß</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0042/html"/>
     <id>https://doi.org/10.1515/fs-2024-0042</id>
-    <updated>2025-05-04T22:05:43.026629+00:00</updated>
+    <updated>2025-05-06T04:56:31.372683+00:00</updated>
     <summary>Article by Eric Llaveria Caselles
 DOI: https://doi.org/10.1515/fs-2024-0042</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/fs-2024-0042</summary>
     <title>Shon Faye: Die Transgender-Frage: Ein Aufruf zu mehr Gerechtigkeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0043/html"/>
     <id>https://doi.org/10.1515/fs-2024-0043</id>
-    <updated>2025-05-04T22:05:43.026635+00:00</updated>
+    <updated>2025-05-06T04:56:31.372690+00:00</updated>
     <summary>Article by Agnes Laffert
 DOI: https://doi.org/10.1515/fs-2024-0043</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/fs-2024-0043</summary>
     <title>Eva Labouvie (Hrsg.): Geschlecht, Gewalt und Gesellschaft. Interdisziplinäre Perspektiven auf Geschichte und Gegenwart</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0044/html"/>
     <id>https://doi.org/10.1515/fs-2024-0044</id>
-    <updated>2025-05-04T22:05:43.026640+00:00</updated>
+    <updated>2025-05-06T04:56:31.372696+00:00</updated>
     <summary>Article by Cari Maier, Brigitte Temel
 DOI: https://doi.org/10.1515/fs-2024-0044</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/fs-2024-0044</summary>
     <title>Handan Çağlayan / İclal Ayşe Küçükkırca: Frauenbewegungen in der Türkei. Eine historische und intersektionale Perspektive</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0045/html"/>
     <id>https://doi.org/10.1515/fs-2024-0045</id>
-    <updated>2025-05-04T22:05:43.026645+00:00</updated>
+    <updated>2025-05-06T04:56:31.372703+00:00</updated>
     <summary>Article by Aslı Polatdemir
 DOI: https://doi.org/10.1515/fs-2024-0045</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/fs-2024-0045</summary>
     <title>Jana Costas: Im Minus-Bereich. Reinigungskräfte und ihr Kampf um Würde</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fs-2024-0046/html"/>
     <id>https://doi.org/10.1515/fs-2024-0046</id>
-    <updated>2025-05-04T22:05:43.026652+00:00</updated>
+    <updated>2025-05-06T04:56:31.372709+00:00</updated>
     <summary>Article by Karl Wolff
 DOI: https://doi.org/10.1515/fs-2024-0046</summary>
   </entry>

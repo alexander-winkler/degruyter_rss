@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of African Languages and Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jall/45/2/html"/>
-  <updated>2025-05-04T22:07:19.249045+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jall/45/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jall.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jall/html" rel="related"/>
+  <updated>2025-05-06T04:58:41.016772+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jall.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of African Languages and Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jall.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jall-2024-frontmatter2</id>
-    <updated>2025-05-04T22:07:19.249079+00:00</updated>
+    <updated>2025-05-06T04:58:41.016807+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jall-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Valedictory editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2008/html"/>
     <id>https://doi.org/10.1515/jall-2024-2008</id>
-    <updated>2025-05-04T22:07:19.249090+00:00</updated>
+    <updated>2025-05-06T04:58:41.016818+00:00</updated>
     <summary>Article by Felix K. Ameka
 DOI: https://doi.org/10.1515/jall-2024-2008</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jall-2024-2008</summary>
     <title>The Babanki pronoun system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2006/html"/>
     <id>https://doi.org/10.1515/jall-2024-2006</id>
-    <updated>2025-05-04T22:07:19.249103+00:00</updated>
+    <updated>2025-05-06T04:58:41.016830+00:00</updated>
     <summary>Article by Pius W. Akumbu, Roland Kießling
 DOI: https://doi.org/10.1515/jall-2024-2006</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jall-2024-2006</summary>
     <title>Hunting gestures in Tjwao</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2005/html"/>
     <id>https://doi.org/10.1515/jall-2024-2005</id>
-    <updated>2025-05-04T22:07:19.249113+00:00</updated>
+    <updated>2025-05-06T04:58:41.016840+00:00</updated>
     <summary>Article by Alexander Andrason, Susanne Mohr, Admire Phiri, Ndliso Sibanda, Mthandazo Vundla
 DOI: https://doi.org/10.1515/jall-2024-2005</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jall-2024-2005</summary>
     <title>Silozi verbal tonology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jall-2024-2007/html"/>
     <id>https://doi.org/10.1515/jall-2024-2007</id>
-    <updated>2025-05-04T22:07:19.249123+00:00</updated>
+    <updated>2025-05-06T04:58:41.016851+00:00</updated>
     <summary>Article by Lee Bickmore
 DOI: https://doi.org/10.1515/jall-2024-2007</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Global Chinese</title>
-  <link href="https://www.degruyterbrill.com/journal/key/glochi/11/1/html"/>
-  <updated>2025-05-04T22:05:55.887137+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/glochi/11/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glochi.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/glochi/html" rel="related"/>
+  <updated>2025-05-06T04:56:48.887581+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glochi.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Global Chinese</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glochi.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/glochi-2025-frontmatter1</id>
-    <updated>2025-05-04T22:05:55.887160+00:00</updated>
+    <updated>2025-05-06T04:56:48.887600+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/glochi-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>卷首语</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2025-0004/html"/>
     <id>https://doi.org/10.1515/glochi-2025-0004</id>
-    <updated>2025-05-04T22:05:55.887173+00:00</updated>
+    <updated>2025-05-06T04:56:48.887607+00:00</updated>
     <summary>Article by Xiaomei Wang
 DOI: https://doi.org/10.1515/glochi-2025-0004</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/glochi-2025-0004</summary>
     <title>从虚化和欧化看马来西亚华语 “另” 的连词用法</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0028/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0028</id>
-    <updated>2025-05-04T22:05:55.887183+00:00</updated>
+    <updated>2025-05-06T04:56:48.887613+00:00</updated>
     <summary>Article by Xiaomei Wang
 DOI: https://doi.org/10.1515/glochi-2024-0028</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0028</summary>
     <title>马来西亚华语动后 “回” 的语义分析与演变机制</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0031/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0031</id>
-    <updated>2025-05-04T22:05:55.887191+00:00</updated>
+    <updated>2025-05-06T04:56:48.887618+00:00</updated>
     <summary>Article by Miao Xiang Lim
 DOI: https://doi.org/10.1515/glochi-2024-0031</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0031</summary>
     <title>马来西亚华语口语词汇的欧化现象研究</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0033/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0033</id>
-    <updated>2025-05-04T22:05:55.887199+00:00</updated>
+    <updated>2025-05-06T04:56:48.887623+00:00</updated>
     <summary>Article by Lee Peng Heng
 DOI: https://doi.org/10.1515/glochi-2024-0033</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0033</summary>
     <title>华语变体演化的平行对比: 以“报效 +NP”为例</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0005/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0005</id>
-    <updated>2025-05-04T22:05:55.887206+00:00</updated>
+    <updated>2025-05-06T04:56:48.887628+00:00</updated>
     <summary>Article by Li Jiwei
 DOI: https://doi.org/10.1515/glochi-2024-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0005</summary>
     <title>2023 年度华语研究综述</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0010/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0010</id>
-    <updated>2025-05-04T22:05:55.887214+00:00</updated>
+    <updated>2025-05-06T04:56:48.887633+00:00</updated>
     <summary>Article by Yueli 卢月丽
 DOI: https://doi.org/10.1515/glochi-2024-0010</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0010</summary>
     <title>Ethno-cultural aspects of marriage proverbs in Chinese and English</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0021/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0021</id>
-    <updated>2025-05-04T22:05:55.887223+00:00</updated>
+    <updated>2025-05-06T04:56:48.887639+00:00</updated>
     <summary>Article by An Lan, Shan Shiguo, Culnar Bekkozhanova, Nurzhamal Shengelbayeva, Gulnara Omarbekova
 DOI: https://doi.org/10.1515/glochi-2024-0021</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0021</summary>
     <title>The issue of writing Chinese onomastic names in the Kazakh-Cyrillic and Kazakh-Latin scripts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0029/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0029</id>
-    <updated>2025-05-04T22:05:55.887230+00:00</updated>
+    <updated>2025-05-06T04:56:48.887644+00:00</updated>
     <summary>Article by Aizhan Koibakova, Tolkyn Kalibekuly, Raushan Jeldybayeva, Zhazira Tursynali
 DOI: https://doi.org/10.1515/glochi-2024-0029</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0029</summary>
     <title>汉语作为第二语言的书面纠正反馈: 准教师与资深教师的比较</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0017/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0017</id>
-    <updated>2025-05-04T22:05:55.887238+00:00</updated>
+    <updated>2025-05-06T04:56:48.887648+00:00</updated>
     <summary>Article by Ling Zhang, Jingjing Xu, Hoang Anh Nguyen
 DOI: https://doi.org/10.1515/glochi-2024-0017</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/glochi-2024-0017</summary>
     <title>The role of SASYS in phonological adaptations: a comparative study of Turkic-Chinese lexical elements</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glochi-2024-0043/html"/>
     <id>https://doi.org/10.1515/glochi-2024-0043</id>
-    <updated>2025-05-04T22:05:55.887245+00:00</updated>
+    <updated>2025-05-06T04:56:48.887655+00:00</updated>
     <summary>Article by Kapar Zulpukarov, Semetei Amiraliev, Gulzhamal Kozhoeva, Gulzat Aipova, Chunarkul Asperdieva
 DOI: https://doi.org/10.1515/glochi-2024-0043</summary>
   </entry>

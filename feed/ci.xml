@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chemistry International</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ci/47/2/html"/>
-  <updated>2025-05-04T22:03:54.134833+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ci/47/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ci.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ci/html" rel="related"/>
+  <updated>2025-05-06T04:53:59.353522+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ci.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Chemistry International</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ci.xml" type="application/rss+xml"/>
   <entry>
     <title>Masthead - Full issue pdf</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0200/html"/>
     <id>https://doi.org/10.1515/ci-2025-0200</id>
-    <updated>2025-05-04T22:03:54.134851+00:00</updated>
+    <updated>2025-05-06T04:53:59.353540+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0200</summary>
   </entry>
   <entry>
     <title>Mark Your Calendar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0228/html"/>
     <id>https://doi.org/10.1515/ci-2025-0228</id>
-    <updated>2025-05-04T22:03:54.134856+00:00</updated>
+    <updated>2025-05-06T04:53:59.353545+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0228</summary>
   </entry>
   <entry>
     <title>Reimagining the Scientific Horizons of IUPAC</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0201/html"/>
     <id>https://doi.org/10.1515/ci-2025-0201</id>
-    <updated>2025-05-04T22:03:54.134860+00:00</updated>
+    <updated>2025-05-06T04:53:59.353549+00:00</updated>
     <summary>Article by Mary Garson
 DOI: https://doi.org/10.1515/ci-2025-0201</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/ci-2025-0201</summary>
     <title>Chemistry’s Role in Malaysia Sustainable Development Progress</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0202/html"/>
     <id>https://doi.org/10.1515/ci-2025-0202</id>
-    <updated>2025-05-04T22:03:54.134865+00:00</updated>
+    <updated>2025-05-06T04:53:59.353555+00:00</updated>
     <summary>Article by Hooi Ling Lee, Chern Wern Hong, Rozana Othman, Vannajan Sanghiran Lee, Mohd Sukor Su’ait, Lai Ti Gew
 DOI: https://doi.org/10.1515/ci-2025-0202</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/ci-2025-0202</summary>
     <title>Reusing Chemical Data Across Disciplines: Initiatives and Common Challenges</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0203/html"/>
     <id>https://doi.org/10.1515/ci-2025-0203</id>
-    <updated>2025-05-04T22:03:54.134870+00:00</updated>
+    <updated>2025-05-06T04:53:59.353561+00:00</updated>
     <summary>Article by Fatima Mustafa, Iseult Lynch, Jan Theunis, Anjana Elapavalore, Hiba Mohammed Taha, Jeremy Frey, Felix Bach, Christian Bonatto Minella, Leah McEwen
 DOI: https://doi.org/10.1515/ci-2025-0203</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/ci-2025-0203</summary>
     <title>IUPAC reflectivity principle for normative work—the case of valence as a quantity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0204/html"/>
     <id>https://doi.org/10.1515/ci-2025-0204</id>
-    <updated>2025-05-04T22:03:54.134874+00:00</updated>
+    <updated>2025-05-06T04:53:59.353566+00:00</updated>
     <summary>Article by Pavel Karen
 DOI: https://doi.org/10.1515/ci-2025-0204</summary>
   </entry>
@@ -61,56 +58,56 @@ DOI: https://doi.org/10.1515/ci-2025-0204</summary>
     <title>Awardees of the IUPAC 2025 Distinguished Women in Chemistry or Chemical Engineering</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0205/html"/>
     <id>https://doi.org/10.1515/ci-2025-0205</id>
-    <updated>2025-05-04T22:03:54.134880+00:00</updated>
+    <updated>2025-05-06T04:53:59.353570+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0205</summary>
   </entry>
   <entry>
     <title>Paolo Franzosini Prize and Christo Balarew Award 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0206/html"/>
     <id>https://doi.org/10.1515/ci-2025-0206</id>
-    <updated>2025-05-04T22:03:54.134884+00:00</updated>
+    <updated>2025-05-06T04:53:59.353574+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0206</summary>
   </entry>
   <entry>
     <title>Graham Cooks and Anna Regoutz win the 2025 Awards in Analytical Chemistry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0207/html"/>
     <id>https://doi.org/10.1515/ci-2025-0207</id>
-    <updated>2025-05-04T22:03:54.134887+00:00</updated>
+    <updated>2025-05-06T04:53:59.353578+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0207</summary>
   </entry>
   <entry>
     <title>Peter Mahaffy to Receive 2025 Pimentel Award for Outstanding Contributions to Chemistry Education</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0208/html"/>
     <id>https://doi.org/10.1515/ci-2025-0208</id>
-    <updated>2025-05-04T22:03:54.134891+00:00</updated>
+    <updated>2025-05-06T04:53:59.353582+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0208</summary>
   </entry>
   <entry>
     <title>Zafra Lerman to Receive Cardozo’s 24th Annual International Advocate for Peace Award</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0209/html"/>
     <id>https://doi.org/10.1515/ci-2025-0209</id>
-    <updated>2025-05-04T22:03:54.134895+00:00</updated>
+    <updated>2025-05-06T04:53:59.353588+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0209</summary>
   </entry>
   <entry>
     <title>CIAAW Student Observer Grant 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0210/html"/>
     <id>https://doi.org/10.1515/ci-2025-0210</id>
-    <updated>2025-05-04T22:03:54.134901+00:00</updated>
+    <updated>2025-05-06T04:53:59.353592+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0210</summary>
   </entry>
   <entry>
     <title>USNC/IUPAC Announces the 2025 Young Observers and IYCN Delegates</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0211/html"/>
     <id>https://doi.org/10.1515/ci-2025-0211</id>
-    <updated>2025-05-04T22:03:54.134906+00:00</updated>
+    <updated>2025-05-06T04:53:59.353596+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0211</summary>
   </entry>
   <entry>
     <title>The Muscat Global Knowledge Dialogue and the 3rdISC General Assembly: IUPAC’s Role in Shaping Global Science Policy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0212/html"/>
     <id>https://doi.org/10.1515/ci-2025-0212</id>
-    <updated>2025-05-04T22:03:54.134909+00:00</updated>
+    <updated>2025-05-06T04:53:59.353600+00:00</updated>
     <summary>Article by Javier Garcia Martinez
 DOI: https://doi.org/10.1515/ci-2025-0212</summary>
   </entry>
@@ -118,77 +115,77 @@ DOI: https://doi.org/10.1515/ci-2025-0212</summary>
     <title>In Memoriam</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0213/html"/>
     <id>https://doi.org/10.1515/ci-2025-0213</id>
-    <updated>2025-05-04T22:03:54.134913+00:00</updated>
+    <updated>2025-05-06T04:53:59.353604+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0213</summary>
   </entry>
   <entry>
     <title>Setting Standards for Wearable Biochemical Measurement Devices: Defining Nomenclature and Guidelines</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0214/html"/>
     <id>https://doi.org/10.1515/ci-2025-0214</id>
-    <updated>2025-05-04T22:03:54.134917+00:00</updated>
+    <updated>2025-05-06T04:53:59.353608+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0214</summary>
   </entry>
   <entry>
     <title>Promoting Chemistry Applied to World Needs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0215/html"/>
     <id>https://doi.org/10.1515/ci-2025-0215</id>
-    <updated>2025-05-04T22:03:54.134922+00:00</updated>
+    <updated>2025-05-06T04:53:59.353612+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0215</summary>
   </entry>
   <entry>
     <title>The isotopic composition of VPDB</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0216/html"/>
     <id>https://doi.org/10.1515/ci-2025-0216</id>
-    <updated>2025-05-04T22:03:54.134926+00:00</updated>
+    <updated>2025-05-06T04:53:59.353615+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0216</summary>
   </entry>
   <entry>
     <title>Radical Copolymerization Reactivity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0217/html"/>
     <id>https://doi.org/10.1515/ci-2025-0217</id>
-    <updated>2025-05-04T22:03:54.134929+00:00</updated>
+    <updated>2025-05-06T04:53:59.353619+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0217</summary>
   </entry>
   <entry>
     <title>Toward a definition of valence as a quantity (IUPAC Technical Report)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0218/html"/>
     <id>https://doi.org/10.1515/ci-2025-0218</id>
-    <updated>2025-05-04T22:03:54.134932+00:00</updated>
+    <updated>2025-05-06T04:53:59.353625+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0218</summary>
   </entry>
   <entry>
     <title>Diffusion in nanoporous materials with special consideration of the measurement of determining parameters (IUPAC Technical Report)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0219/html"/>
     <id>https://doi.org/10.1515/ci-2025-0219</id>
-    <updated>2025-05-04T22:03:54.134936+00:00</updated>
+    <updated>2025-05-06T04:53:59.353629+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0219</summary>
   </entry>
   <entry>
     <title>Thermoplastic Starch with Maltodextrin: Preparation, Morphology, Rheology, and Mechanical Properties</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0220/html"/>
     <id>https://doi.org/10.1515/ci-2025-0220</id>
-    <updated>2025-05-04T22:03:54.134939+00:00</updated>
+    <updated>2025-05-06T04:53:59.353633+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0220</summary>
   </entry>
   <entry>
     <title>Glossary of terms for mass and volume in analytical chemistry (IUPAC Recommendations 2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0221/html"/>
     <id>https://doi.org/10.1515/ci-2025-0221</id>
-    <updated>2025-05-04T22:03:54.134943+00:00</updated>
+    <updated>2025-05-06T04:53:59.353636+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0221</summary>
   </entry>
   <entry>
     <title>Special CTI</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0222/html"/>
     <id>https://doi.org/10.1515/ci-2025-0222</id>
-    <updated>2025-05-04T22:03:54.134946+00:00</updated>
+    <updated>2025-05-06T04:53:59.353640+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0222</summary>
   </entry>
   <entry>
     <title>Medicinal Chemistry and Drug Discovery &amp; Development India</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0223/html"/>
     <id>https://doi.org/10.1515/ci-2025-0223</id>
-    <updated>2025-05-04T22:03:54.134950+00:00</updated>
+    <updated>2025-05-06T04:53:59.353644+00:00</updated>
     <summary>Article by Balu Balasubramanian
 DOI: https://doi.org/10.1515/ci-2025-0223</summary>
   </entry>
@@ -196,7 +193,7 @@ DOI: https://doi.org/10.1515/ci-2025-0223</summary>
     <title>Solubility Phenomena and Related Equilibrium Processes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0224/html"/>
     <id>https://doi.org/10.1515/ci-2025-0224</id>
-    <updated>2025-05-04T22:03:54.134953+00:00</updated>
+    <updated>2025-05-06T04:53:59.353648+00:00</updated>
     <summary>Article by Slobodan Gadžurić
 DOI: https://doi.org/10.1515/ci-2025-0224</summary>
   </entry>
@@ -204,14 +201,14 @@ DOI: https://doi.org/10.1515/ci-2025-0224</summary>
     <title>The Historic Gathering of IUPAC Presidents at the 10th International Conference of Green Chemistry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0225/html"/>
     <id>https://doi.org/10.1515/ci-2025-0225</id>
-    <updated>2025-05-04T22:03:54.134957+00:00</updated>
+    <updated>2025-05-06T04:53:59.353652+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0225</summary>
   </entry>
   <entry>
     <title>Chemistry, a Lever for Sustainable Development of African Countries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0226/html"/>
     <id>https://doi.org/10.1515/ci-2025-0226</id>
-    <updated>2025-05-04T22:03:54.134961+00:00</updated>
+    <updated>2025-05-06T04:53:59.353656+00:00</updated>
     <summary>Article by Modou Fall, Matar Seck, Abdoulaye Dramé
 DOI: https://doi.org/10.1515/ci-2025-0226</summary>
   </entry>
@@ -219,7 +216,7 @@ DOI: https://doi.org/10.1515/ci-2025-0226</summary>
     <title>Space Exploration and Research</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ci-2025-0227/html"/>
     <id>https://doi.org/10.1515/ci-2025-0227</id>
-    <updated>2025-05-04T22:03:54.134966+00:00</updated>
+    <updated>2025-05-06T04:53:59.353660+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ci-2025-0227</summary>
   </entry>
 </feed>

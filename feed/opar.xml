@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Archaeology</title>
-  <link href="https://www.degruyterbrill.com/journal/key/opar/11/1/html"/>
-  <updated>2025-05-04T22:10:43.809186+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/opar/11/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opar.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/opar/html" rel="related"/>
+  <updated>2025-05-06T05:03:19.819351+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opar.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Archaeology</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opar.xml" type="application/rss+xml"/>
   <entry>
     <title>Etched in Stone: The Kevermes Stone Stela From the Great Hungarian Plain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0023/html"/>
     <id>https://doi.org/10.1515/opar-2024-0023</id>
-    <updated>2025-05-04T22:10:43.809204+00:00</updated>
+    <updated>2025-05-06T05:03:19.819373+00:00</updated>
     <summary>Article by Attila Gyucha, Gergely Bóka, Zsolt Kasztovszky, Dóra Georgina Miklós, Michael L. Galaty, Timothy J. Ward, Balázs Szemerey-Kiss, Danielle J. Riebe, Máté Stibrányi, Mihály Pethe, Attila Kreiter
 DOI: https://doi.org/10.1515/opar-2024-0023</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/opar-2024-0023</summary>
     <title>Waste Around Longhouses: Taphonomy on LBK Settlement in Hlízov</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0032/html"/>
     <id>https://doi.org/10.1515/opar-2024-0032</id>
-    <updated>2025-05-04T22:10:43.809211+00:00</updated>
+    <updated>2025-05-06T05:03:19.819388+00:00</updated>
     <summary>Article by Daniel Pilař, Solène Denis, Ivan Pavlů
 DOI: https://doi.org/10.1515/opar-2024-0032</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/opar-2024-0032</summary>
     <title>Raw Materials and Technological Choices: Case Study of Neolithic Black Pottery From the Middle Yangtze River Valley of China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0025/html"/>
     <id>https://doi.org/10.1515/opar-2024-0025</id>
-    <updated>2025-05-04T22:10:43.809216+00:00</updated>
+    <updated>2025-05-06T05:03:19.819395+00:00</updated>
     <summary>Article by Guoyuan Li, Hui Tian, Qiang Li, Siwei Shan, Jing Zhao, Tao Li
 DOI: https://doi.org/10.1515/opar-2024-0025</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/opar-2024-0025</summary>
     <title>Disentangling Technological Traditions: Comparative Analysis ofChaînes Opératoiresof Painted Pre-Hispanic Ceramics From Nariño, Colombia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0038/html"/>
     <id>https://doi.org/10.1515/opar-2025-0038</id>
-    <updated>2025-05-04T22:10:43.809220+00:00</updated>
+    <updated>2025-05-06T05:03:19.819402+00:00</updated>
     <summary>Article by Catherine Klesner, Rosie Crawford, Lucero Aristizábal Losada, Marcela Bernal Arévalo, Lina María Campos-Quintero, Felipe Cárdenas Arroyo, María Camila Maya Cabrera, Paula Andrea Murillo Jaramillo, David Alejandro Pérez Fernández, Juanita Sáenz-Samper, María Alicia Uribe-Villegas, Marcos Martinón-Torres
 DOI: https://doi.org/10.1515/opar-2025-0038</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/opar-2025-0038</summary>
     <title>Ancestral Connections: Re-Evaluating Concepts of Superimpositioning and Vandalism in Rock Art Studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0033/html"/>
     <id>https://doi.org/10.1515/opar-2024-0033</id>
-    <updated>2025-05-04T22:10:43.809230+00:00</updated>
+    <updated>2025-05-06T05:03:19.819411+00:00</updated>
     <summary>Article by Ana Paula Motta, Jamie Hampson
 DOI: https://doi.org/10.1515/opar-2024-0033</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/opar-2024-0033</summary>
     <title>Disability and Care in Late Medieval Lund, Sweden: An Analysis of Trauma and Intersecting Identities, Aided by Photogrammetric Digitization and Visualization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0043/html"/>
     <id>https://doi.org/10.1515/opar-2025-0043</id>
-    <updated>2025-05-04T22:10:43.809235+00:00</updated>
+    <updated>2025-05-06T05:03:19.819417+00:00</updated>
     <summary>Article by Blair Nolan, Sandra Tornberg Fritz, Paola Derudas, Domenica Dininno, Anna Tornberg
 DOI: https://doi.org/10.1515/opar-2025-0043</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/opar-2025-0043</summary>
     <title>Assessing the Development in Open Access Publishing in Archaeology: A Case Study From Norway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0044/html"/>
     <id>https://doi.org/10.1515/opar-2025-0044</id>
-    <updated>2025-05-04T22:10:43.809239+00:00</updated>
+    <updated>2025-05-06T05:03:19.819427+00:00</updated>
     <summary>Article by Steinar Solheim, Isak Roalkvam, Marie Ødegaard, Kjetil Loftsgarden, Hege Damlien, Svein Vatsvåg Nielsen, Anette Sand-Eriksen, Marte Spangen, Ingrid Ystgaard
 DOI: https://doi.org/10.1515/opar-2025-0044</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/opar-2025-0044</summary>
     <title>Decorated Standing Stones – The Hagbards Galge Monument in Southwest Sweden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0045/html"/>
     <id>https://doi.org/10.1515/opar-2025-0045</id>
-    <updated>2025-05-04T22:10:43.809243+00:00</updated>
+    <updated>2025-05-06T05:03:19.819434+00:00</updated>
     <summary>Article by Peter Skoglund, Christian Horn, Rich Potter
 DOI: https://doi.org/10.1515/opar-2025-0045</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/opar-2025-0045</summary>
     <title>Structural Measures Against the Risks of Flash Floods in Patara and Consequent Considerations Regarding the Location of the Oracle Sanctuary of Apollo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0034/html"/>
     <id>https://doi.org/10.1515/opar-2024-0034</id>
-    <updated>2025-05-04T22:10:43.809247+00:00</updated>
+    <updated>2025-05-06T05:03:19.819446+00:00</updated>
     <summary>Article by Mustafa Koçak, Şevket Aktaş
 DOI: https://doi.org/10.1515/opar-2024-0034</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/opar-2024-0034</summary>
     <title>Goats and Goddesses. Digital Approach to the Religioscapes of Atargatis and Allat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0024/html"/>
     <id>https://doi.org/10.1515/opar-2024-0024</id>
-    <updated>2025-05-04T22:10:43.809256+00:00</updated>
+    <updated>2025-05-06T05:03:19.819453+00:00</updated>
     <summary>Article by Aleksandra Kubiak-Schneider, Sebastien Mazurek
 DOI: https://doi.org/10.1515/opar-2024-0024</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/opar-2024-0024</summary>
     <title>Conceiving Elements of Divinity: The Use of the Semantic Web for the Definition of Material Religiosity in the Levant During the Second Millennium BCE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0022/html"/>
     <id>https://doi.org/10.1515/opar-2024-0022</id>
-    <updated>2025-05-04T22:10:43.809260+00:00</updated>
+    <updated>2025-05-06T05:03:19.819459+00:00</updated>
     <summary>Article by Nicola Laneri, Lorenzo Nigro, Gianluca Miniaci, Marianna Nicolosi-Asmundo, Daniele Francesco Santamaria, Chiara Pappalardo
 DOI: https://doi.org/10.1515/opar-2024-0022</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/opar-2024-0022</summary>
     <title>Inventories as Keys to Exploring Castles as Cultural Heritage</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0026/html"/>
     <id>https://doi.org/10.1515/opar-2024-0026</id>
-    <updated>2025-05-04T22:10:43.809264+00:00</updated>
+    <updated>2025-05-06T05:03:19.819465+00:00</updated>
     <summary>Article by Christina Antenhofer, Elisabeth Gruber-Tokić, Gerald Hiebel, Ingrid Matschinegg, Claudia Posch, Gerhard Rampl
 DOI: https://doi.org/10.1515/opar-2024-0026</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/opar-2024-0026</summary>
     <title>Hohensalzburg Digital: Engaging the Public via a Local Time Machine Project</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0027/html"/>
     <id>https://doi.org/10.1515/opar-2024-0027</id>
-    <updated>2025-05-04T22:10:43.809269+00:00</updated>
+    <updated>2025-05-06T05:03:19.819475+00:00</updated>
     <summary>Article by Christina Antenhofer, Ingrid Matschinegg, Walter Brandstätter, Stefan Zedlacher
 DOI: https://doi.org/10.1515/opar-2024-0027</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/opar-2024-0027</summary>
     <title>Monastic Estates in the Wachau Region: Nodes of Exchange in Past and Present Days</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0031/html"/>
     <id>https://doi.org/10.1515/opar-2024-0031</id>
-    <updated>2025-05-04T22:10:43.809273+00:00</updated>
+    <updated>2025-05-06T05:03:19.819481+00:00</updated>
     <summary>Article by Elisabeth Gruber, Thomas Kühtreiber
 DOI: https://doi.org/10.1515/opar-2024-0031</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/opar-2024-0031</summary>
     <title>“Meitheal Adhmadóireachta”Exploring and Communicating Prehistoric Irish Woodcraft Through Remaking and Shared Experience</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0036/html"/>
     <id>https://doi.org/10.1515/opar-2025-0036</id>
-    <updated>2025-05-04T22:10:43.809277+00:00</updated>
+    <updated>2025-05-06T05:03:19.819487+00:00</updated>
     <summary>Article by Benjamin Gearey, Orla-Peach Power, Mark Griffiths
 DOI: https://doi.org/10.1515/opar-2025-0036</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/opar-2025-0036</summary>
     <title>Community, Public Archaeology, and Co-construction of Knowledge Through the Educational Project of a Rural Mountain School</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0030/html"/>
     <id>https://doi.org/10.1515/opar-2024-0030</id>
-    <updated>2025-05-04T22:10:43.809281+00:00</updated>
+    <updated>2025-05-06T05:03:19.819493+00:00</updated>
     <summary>Article by Margarita Fernández Mier, Pablo López Gómez, Paloma Sánchez-Broch, Elías Carballido González
 DOI: https://doi.org/10.1515/opar-2024-0030</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/opar-2024-0030</summary>
     <title>Networks of Pots: The Usage of Ceramics in Network Analysis in Mediterranean Archaeology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0035/html"/>
     <id>https://doi.org/10.1515/opar-2025-0035</id>
-    <updated>2025-05-04T22:10:43.809285+00:00</updated>
+    <updated>2025-05-06T05:03:19.819499+00:00</updated>
     <summary>Article by Dries Daems
 DOI: https://doi.org/10.1515/opar-2025-0035</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/opar-2025-0035</summary>
     <title>Networks of Knowledge, Materials, and Practice in the Neolithic Zagros</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0041/html"/>
     <id>https://doi.org/10.1515/opar-2025-0041</id>
-    <updated>2025-05-04T22:10:43.809289+00:00</updated>
+    <updated>2025-05-06T05:03:19.819504+00:00</updated>
     <summary>Article by Amy Richardson
 DOI: https://doi.org/10.1515/opar-2025-0041</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/opar-2025-0041</summary>
     <title>Weak Ties on Old Roads: Inscribed Stopping-Places and Complex Networks in the Eastern Desert of Graeco-Roman Egypt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2024-0021/html"/>
     <id>https://doi.org/10.1515/opar-2024-0021</id>
-    <updated>2025-05-04T22:10:43.809293+00:00</updated>
+    <updated>2025-05-06T05:03:19.819510+00:00</updated>
     <summary>Article by Laurel Darcy Hackley, Jennifer Gates-Foster, Bérangère Redon
 DOI: https://doi.org/10.1515/opar-2024-0021</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/opar-2024-0021</summary>
     <title>Mediterranean Trade Networks and the Diffusion and Syncretism of Art and Architecture Styles at Delos</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0039/html"/>
     <id>https://doi.org/10.1515/opar-2025-0039</id>
-    <updated>2025-05-04T22:10:43.809297+00:00</updated>
+    <updated>2025-05-06T05:03:19.819523+00:00</updated>
     <summary>Article by Dermot Grant
 DOI: https://doi.org/10.1515/opar-2025-0039</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/opar-2025-0039</summary>
     <title>People and Things on the Move: Tracking Paths With Social Network Analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opar-2025-0040/html"/>
     <id>https://doi.org/10.1515/opar-2025-0040</id>
-    <updated>2025-05-04T22:10:43.809300+00:00</updated>
+    <updated>2025-05-06T05:03:19.819528+00:00</updated>
     <summary>Article by Lena Tambs
 DOI: https://doi.org/10.1515/opar-2025-0040</summary>
   </entry>

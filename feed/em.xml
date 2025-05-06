@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Epidemiologic Methods</title>
-  <link href="https://www.degruyterbrill.com/journal/key/em/14/1/html"/>
-  <updated>2025-05-04T22:05:07.063318+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/em/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/em.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/em/html" rel="related"/>
+  <updated>2025-05-06T04:55:41.055166+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/em.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Epidemiologic Methods</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/em.xml" type="application/rss+xml"/>
   <entry>
     <title>Bot invasion: protecting the integrity of online surveys against spamming</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0026/html"/>
     <id>https://doi.org/10.1515/em-2024-0026</id>
-    <updated>2025-05-04T22:05:07.063369+00:00</updated>
+    <updated>2025-05-06T04:55:41.055204+00:00</updated>
     <summary>Article by Matthew N. Berger, Erin Mathieu, Cristyn Davies, Ramon Z. Shaban, Shopna Bag, S. Rachel Skinner
 DOI: https://doi.org/10.1515/em-2024-0026</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/em-2024-0026</summary>
     <title>A study of a stochastic model and extinction phenomenon of meningitis epidemic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0015/html"/>
     <id>https://doi.org/10.1515/em-2024-0015</id>
-    <updated>2025-05-04T22:05:07.063382+00:00</updated>
+    <updated>2025-05-06T04:55:41.055222+00:00</updated>
     <summary>Article by Samaila Jackson Yaga, Funmilayo W.O. Saporu
 DOI: https://doi.org/10.1515/em-2024-0015</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/em-2024-0015</summary>
     <title>Understanding the impact of media and latency in information response on the disease propagation: a mathematical model and analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0011/html"/>
     <id>https://doi.org/10.1515/em-2024-0011</id>
-    <updated>2025-05-04T22:05:07.063396+00:00</updated>
+    <updated>2025-05-06T04:55:41.055232+00:00</updated>
     <summary>Article by Bharat Kaushik, Sumit Kaur Bhatia, Sanyam Tyagi, Shashank Goel
 DOI: https://doi.org/10.1515/em-2024-0011</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/em-2024-0011</summary>
     <title>Time-varying reproductive number estimation for practical application in structured populations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/em-2024-0020/html"/>
     <id>https://doi.org/10.1515/em-2024-0020</id>
-    <updated>2025-05-04T22:05:07.063406+00:00</updated>
+    <updated>2025-05-06T04:55:41.055242+00:00</updated>
     <summary>Article by Erin Clancey, Eric T. Lofgren
 DOI: https://doi.org/10.1515/em-2024-0020</summary>
   </entry>

@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mother Tongue</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mot/25/1/html"/>
-  <updated>2025-05-04T22:09:59.073967+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/mot/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mot.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mot/html" rel="related"/>
+  <updated>2025-05-06T05:02:20.835978+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mot.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Mother Tongue</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mot.xml" type="application/rss+xml"/>
   <entry>
     <title>CONTENTS</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-toc2501/html"/>
     <id>https://doi.org/10.31826/mot-2024-toc2501</id>
-    <updated>2025-05-04T22:09:59.074007+00:00</updated>
+    <updated>2025-05-06T05:02:20.835995+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/mot-2024-toc2501</summary>
   </entry>
   <entry>
     <title>Title</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-frontmatter2501/html"/>
     <id>https://doi.org/10.31826/mot-2024-frontmatter2501</id>
-    <updated>2025-05-04T22:09:59.074016+00:00</updated>
+    <updated>2025-05-06T05:02:20.836003+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/mot-2024-frontmatter2501</summary>
   </entry>
   <entry>
     <title>Introduction to this issue of Mother Tongue</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250101/html"/>
     <id>https://doi.org/10.31826/mot-2024-250101</id>
-    <updated>2025-05-04T22:09:59.074023+00:00</updated>
+    <updated>2025-05-06T05:02:20.836009+00:00</updated>
     <summary>Article by Gregory Haynes, Pierre Bancel
 DOI: https://doi.org/10.31826/mot-2024-250101</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.31826/mot-2024-250101</summary>
     <title>In Memory of John D. Bengtson (March 26, 1948–March 3, 2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250102/html"/>
     <id>https://doi.org/10.31826/mot-2024-250102</id>
-    <updated>2025-05-04T22:09:59.074032+00:00</updated>
+    <updated>2025-05-06T05:02:20.836017+00:00</updated>
     <summary>Article by Václav Blažek
 DOI: https://doi.org/10.31826/mot-2024-250102</summary>
   </entry>
@@ -45,14 +42,14 @@ DOI: https://doi.org/10.31826/mot-2024-250102</summary>
     <title>Tributes to John Bengtson</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250103/html"/>
     <id>https://doi.org/10.31826/mot-2024-250103</id>
-    <updated>2025-05-04T22:09:59.074040+00:00</updated>
+    <updated>2025-05-06T05:02:20.836024+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/mot-2024-250103</summary>
   </entry>
   <entry>
     <title>In Memory of Raimo Anttila (muistoja)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250104/html"/>
     <id>https://doi.org/10.31826/mot-2024-250104</id>
-    <updated>2025-05-04T22:09:59.074049+00:00</updated>
+    <updated>2025-05-06T05:02:20.836031+00:00</updated>
     <summary>Article by Lyle Campbell
 DOI: https://doi.org/10.31826/mot-2024-250104</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.31826/mot-2024-250104</summary>
     <title>On Raimo Aulis Anttila (1935–1923)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250105/html"/>
     <id>https://doi.org/10.31826/mot-2024-250105</id>
-    <updated>2025-05-04T22:09:59.074056+00:00</updated>
+    <updated>2025-05-06T05:02:20.836039+00:00</updated>
     <summary>Article by Georgios K. Giannakis
 DOI: https://doi.org/10.31826/mot-2024-250105</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.31826/mot-2024-250105</summary>
     <title>Reprint of book review, “Greek and Indo-European etymology in action: Proto Indo-European *aǵ-” by Raimo Anttila</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250106/html"/>
     <id>https://doi.org/10.31826/mot-2024-250106</id>
-    <updated>2025-05-04T22:09:59.074064+00:00</updated>
+    <updated>2025-05-06T05:02:20.836046+00:00</updated>
     <summary>Article by Leonid Kulikov
 DOI: https://doi.org/10.31826/mot-2024-250106</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.31826/mot-2024-250106</summary>
     <title>The Vedic root variants of the type CaC // C(C)ā: Formal patterns and transitivity types (Indo-Aryan evidence for the Indo-European Schwebeablaut and laryngeal root extension)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250107/html"/>
     <id>https://doi.org/10.31826/mot-2024-250107</id>
-    <updated>2025-05-04T22:09:59.074072+00:00</updated>
+    <updated>2025-05-06T05:02:20.836055+00:00</updated>
     <summary>Article by Leonid Kulikov
 DOI: https://doi.org/10.31826/mot-2024-250107</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.31826/mot-2024-250107</summary>
     <title>Observations on the Reflexes k- and h- for Initial *k- in Hungarian</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250108/html"/>
     <id>https://doi.org/10.31826/mot-2024-250108</id>
-    <updated>2025-05-04T22:09:59.074078+00:00</updated>
+    <updated>2025-05-06T05:02:20.836062+00:00</updated>
     <summary>Article by Jan Henrik Holst
 DOI: https://doi.org/10.31826/mot-2024-250108</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.31826/mot-2024-250108</summary>
     <title>(De)classifying Arunachal Languages: Reconsidering the Evidence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250109/html"/>
     <id>https://doi.org/10.31826/mot-2024-250109</id>
-    <updated>2025-05-04T22:09:59.074089+00:00</updated>
+    <updated>2025-05-06T05:02:20.836068+00:00</updated>
     <summary>Article by Roger Blench
 DOI: https://doi.org/10.31826/mot-2024-250109</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.31826/mot-2024-250109</summary>
     <title>Old Norse Yggdrasill. An Etymological Re-evaluation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250110/html"/>
     <id>https://doi.org/10.31826/mot-2024-250110</id>
-    <updated>2025-05-04T22:09:59.074106+00:00</updated>
+    <updated>2025-05-06T05:02:20.836074+00:00</updated>
     <summary>Article by Gregory Haynes
 DOI: https://doi.org/10.31826/mot-2024-250110</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.31826/mot-2024-250110</summary>
     <title>The Path in Heaven</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250111/html"/>
     <id>https://doi.org/10.31826/mot-2024-250111</id>
-    <updated>2025-05-04T22:09:59.074115+00:00</updated>
+    <updated>2025-05-06T05:02:20.836080+00:00</updated>
     <summary>Article by Michael Witzel
 DOI: https://doi.org/10.31826/mot-2024-250111</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.31826/mot-2024-250111</summary>
     <title>Pris aux mots – De l'origine du langage à l'origine des langues. Mother Tongue Editorial Board</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/mot-2024-250112/html"/>
     <id>https://doi.org/10.31826/mot-2024-250112</id>
-    <updated>2025-05-04T22:09:59.074121+00:00</updated>
+    <updated>2025-05-06T05:02:20.836087+00:00</updated>
     <summary>Article by Pierre Bancel
 DOI: https://doi.org/10.31826/mot-2024-250112</summary>
   </entry>

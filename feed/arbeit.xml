@@ -1,49 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Arbeit</title>
-  <link href="https://www.degruyterbrill.com/journal/key/arbeit/33/4/html"/>
-  <updated>2025-05-04T22:02:58.540814+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/arbeit/33/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbeit.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/arbeit/html" rel="related"/>
+  <updated>2025-05-06T04:52:43.159325+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbeit.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Arbeit</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arbeit.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-frontmatter4/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-frontmatter4</id>
-    <updated>2025-05-04T22:02:58.540836+00:00</updated>
+    <updated>2025-05-06T04:52:43.159356+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/arbeit-2024-frontmatter4</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-0011/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-0011</id>
-    <updated>2025-05-04T22:02:58.540843+00:00</updated>
+    <updated>2025-05-06T04:52:43.159364+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/arbeit-2024-0011</summary>
   </entry>
   <entry>
     <title>Gutachterinnen und Gutachter für die ARBEIT im Jahr 2023/2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-0015/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-0015</id>
-    <updated>2025-05-04T22:02:58.540850+00:00</updated>
+    <updated>2025-05-06T04:52:43.159372+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/arbeit-2024-0015</summary>
   </entry>
   <entry>
     <title>Inhaltsverzeichnis des 33. Jahrgangs (2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-0016/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-0016</id>
-    <updated>2025-05-04T22:02:58.540856+00:00</updated>
+    <updated>2025-05-06T04:52:43.159379+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/arbeit-2024-0016</summary>
   </entry>
   <entry>
     <title>Tarifverträge zu mobiler Arbeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-0012/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-0012</id>
-    <updated>2025-05-04T22:02:58.540862+00:00</updated>
+    <updated>2025-05-06T04:52:43.159386+00:00</updated>
     <summary>Article by Nele Dittmar
 DOI: https://doi.org/10.1515/arbeit-2024-0012</summary>
   </entry>
@@ -51,7 +48,7 @@ DOI: https://doi.org/10.1515/arbeit-2024-0012</summary>
     <title>Zahlt sich systemrelevante Arbeit aus?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-0013/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-0013</id>
-    <updated>2025-05-04T22:02:58.540869+00:00</updated>
+    <updated>2025-05-06T04:52:43.159395+00:00</updated>
     <summary>Article by Katrin Stache, Christian Ebner, Daniela Rohrbach-Schmidt, Nicole Holzhauser
 DOI: https://doi.org/10.1515/arbeit-2024-0013</summary>
   </entry>
@@ -59,7 +56,7 @@ DOI: https://doi.org/10.1515/arbeit-2024-0013</summary>
     <title>Von „Weinbergfrauen“ zu migrantischer Saisonarbeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arbeit-2024-0014/html"/>
     <id>https://doi.org/10.1515/arbeit-2024-0014</id>
-    <updated>2025-05-04T22:02:58.540876+00:00</updated>
+    <updated>2025-05-06T04:52:43.159404+00:00</updated>
     <summary>Article by Jürgen Kädtler, Gisela Kottwitz
 DOI: https://doi.org/10.1515/arbeit-2024-0014</summary>
   </entry>

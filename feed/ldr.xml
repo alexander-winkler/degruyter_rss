@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Law and Development Review</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ldr/18/1/html"/>
-  <updated>2025-05-04T22:09:15.265855+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ldr/18/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ldr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ldr/html" rel="related"/>
+  <updated>2025-05-06T05:01:21.568201+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ldr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Law and Development Review</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ldr.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/ldr-2025-frontmatter1</id>
-    <updated>2025-05-04T22:09:15.265884+00:00</updated>
+    <updated>2025-05-06T05:01:21.568224+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ldr-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Government Supervision of Oil Palm Plantations in Indonesia: Legal Issues and Proposed Remedies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0014/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0014</id>
-    <updated>2025-05-04T22:09:15.265893+00:00</updated>
+    <updated>2025-05-06T05:01:21.568233+00:00</updated>
     <summary>Article by Mohamad Nasir, Laurens Bakker, Toon van Meijl
 DOI: https://doi.org/10.1515/ldr-2024-0014</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ldr-2024-0014</summary>
     <title>How Democratic Police Reforms Fail: A Law and Development Perspective on Institutional Processes of Change and Resistance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0017/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0017</id>
-    <updated>2025-05-04T22:09:15.265902+00:00</updated>
+    <updated>2025-05-06T05:01:21.568243+00:00</updated>
     <summary>Article by Julia Maia Goldani
 DOI: https://doi.org/10.1515/ldr-2024-0017</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ldr-2024-0017</summary>
     <title>Sustainable Development Under AfCFTA: Dimensions, Limitations and Prospects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2023-0127/html"/>
     <id>https://doi.org/10.1515/ldr-2023-0127</id>
-    <updated>2025-05-04T22:09:15.265910+00:00</updated>
+    <updated>2025-05-06T05:01:21.568251+00:00</updated>
     <summary>Article by Collins Chikodili Ajibo, Thoko Kaime
 DOI: https://doi.org/10.1515/ldr-2023-0127</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ldr-2023-0127</summary>
     <title>Asset Recovery via Non-Conviction based Forfeiture: Rationale for Regulation and Recommendations for Implementation in Vietnam</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0058/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0058</id>
-    <updated>2025-05-04T22:09:15.265919+00:00</updated>
+    <updated>2025-05-06T05:01:21.568257+00:00</updated>
     <summary>Article by Minh Vu Cao, Thi Ngoc Anh Cao
 DOI: https://doi.org/10.1515/ldr-2024-0058</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ldr-2024-0058</summary>
     <title>Law and Macro Finance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0091/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0091</id>
-    <updated>2025-05-04T22:09:15.265926+00:00</updated>
+    <updated>2025-05-06T05:01:21.568263+00:00</updated>
     <summary>Article by M. Konrad Borowicz
 DOI: https://doi.org/10.1515/ldr-2024-0091</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ldr-2024-0091</summary>
     <title>Modernization of Nigeria’s Mining Industry: The Case for Participation and Sustainable Development of Local Communities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0082/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0082</id>
-    <updated>2025-05-04T22:09:15.265934+00:00</updated>
+    <updated>2025-05-06T05:01:21.568270+00:00</updated>
     <summary>Article by Martin-Joe Ezeudu
 DOI: https://doi.org/10.1515/ldr-2024-0082</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ldr-2024-0082</summary>
     <title>Human Capital and Growth in Arctic Regional Economies: Evidence, Policies and Institutional Perspectives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0109/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0109</id>
-    <updated>2025-05-04T22:09:15.265942+00:00</updated>
+    <updated>2025-05-06T05:01:21.568276+00:00</updated>
     <summary>Article by Carter N. Coudriet, Kenneth A. Reinert
 DOI: https://doi.org/10.1515/ldr-2024-0109</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ldr-2024-0109</summary>
     <title>Advancing New Governance Models for Gender Data in Climate Resilience Funding</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ldr-2024-0110/html"/>
     <id>https://doi.org/10.1515/ldr-2024-0110</id>
-    <updated>2025-05-04T22:09:15.265949+00:00</updated>
+    <updated>2025-05-06T05:01:21.568282+00:00</updated>
     <summary>Article by Jane Ezirigwe
 DOI: https://doi.org/10.1515/ldr-2024-0110</summary>
   </entry>

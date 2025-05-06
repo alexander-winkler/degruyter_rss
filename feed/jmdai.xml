@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Machine Design and Automation Intelligence </title>
-  <link href="https://www.degruyterbrill.com/journal/key/jmdai/3/1/html"/>
-  <updated>2025-05-04T22:08:23.301240+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jmdai/3/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jmdai.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jmdai/html" rel="related"/>
+  <updated>2025-05-06T05:00:10.308739+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jmdai.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Machine Design and Automation Intelligence </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jmdai.xml" type="application/rss+xml"/>
   <entry>
     <title>The adoption of industry 4.0 in the automotive industry: integration of collaborative robot systems in the injection moulding of deformable linear objects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jmdai-2024-0004/html"/>
     <id>https://doi.org/10.1515/jmdai-2024-0004</id>
-    <updated>2025-05-04T22:08:23.301281+00:00</updated>
+    <updated>2025-05-06T05:00:10.308768+00:00</updated>
     <summary>Article by Filipe Alves, Adriano A. Santos, António Ferreira da Silva, Filipe Pereira, Carlos Felgueiras, Paulo Silva, José Machado
 DOI: https://doi.org/10.1515/jmdai-2024-0004</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/jmdai-2024-0004</summary>
     <title>Robotic Hand Grasping: a review focused on multiple objects manipulation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jmdai-2024-0003/html"/>
     <id>https://doi.org/10.1515/jmdai-2024-0003</id>
-    <updated>2025-05-04T22:08:23.301295+00:00</updated>
+    <updated>2025-05-06T05:00:10.308783+00:00</updated>
     <summary>Article by Yesid Alfonso Caicedo Amaranto, Luciano Eduardo Chiang Sanchez
 DOI: https://doi.org/10.1515/jmdai-2024-0003</summary>
   </entry>

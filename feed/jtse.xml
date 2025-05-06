@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Time Series Econometrics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jtse/16/2/html"/>
-  <updated>2025-05-04T22:08:51.058251+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jtse/16/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtse.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jtse/html" rel="related"/>
+  <updated>2025-05-06T05:00:48.067559+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtse.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Time Series Econometrics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtse.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jtse-2024-frontmatter2</id>
-    <updated>2025-05-04T22:08:51.058311+00:00</updated>
+    <updated>2025-05-06T05:00:48.067592+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jtse-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Recurrent Neural Network GO-GARCH Model for Portfolio Selection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2023-0012/html"/>
     <id>https://doi.org/10.1515/jtse-2023-0012</id>
-    <updated>2025-05-04T22:08:51.058325+00:00</updated>
+    <updated>2025-05-06T05:00:48.067604+00:00</updated>
     <summary>Article by Martin Burda, Adrian K. Schroeder
 DOI: https://doi.org/10.1515/jtse-2023-0012</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jtse-2023-0012</summary>
     <title>Forecasting the Risk of Cryptocurrencies: Comparison and Combination of GARCH and Stochastic Volatility Models</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2023-0039/html"/>
     <id>https://doi.org/10.1515/jtse-2023-0039</id>
-    <updated>2025-05-04T22:08:51.058341+00:00</updated>
+    <updated>2025-05-06T05:00:48.067616+00:00</updated>
     <summary>Article by Jan Prüser
 DOI: https://doi.org/10.1515/jtse-2023-0039</summary>
   </entry>

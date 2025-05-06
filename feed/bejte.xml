@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The B.E. Journal of Theoretical Economics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/bejte/24/2/html"/>
-  <updated>2025-05-04T22:03:19.942654+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/bejte/24/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejte.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bejte/html" rel="related"/>
+  <updated>2025-05-06T04:53:12.653426+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejte.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The B.E. Journal of Theoretical Economics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejte.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/bejte-2024-frontmatter2</id>
-    <updated>2025-05-04T22:03:19.942682+00:00</updated>
+    <updated>2025-05-06T04:53:12.653461+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/bejte-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Global Dynamics and Optimal Policy in theAkModel with Anticipated Future Consumption</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0080/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0080</id>
-    <updated>2025-05-04T22:03:19.942691+00:00</updated>
+    <updated>2025-05-06T04:53:12.653470+00:00</updated>
     <summary>Article by Manuel A. Gomez
 DOI: https://doi.org/10.1515/bejte-2023-0080</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0080</summary>
     <title>Offsetting Distortion Effects of Head Starts on Incentives in Tullock Contests</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2024-0006/html"/>
     <id>https://doi.org/10.1515/bejte-2024-0006</id>
-    <updated>2025-05-04T22:03:19.942701+00:00</updated>
+    <updated>2025-05-06T04:53:12.653482+00:00</updated>
     <summary>Article by Dmitriy Knyazev, Caspar Moser
 DOI: https://doi.org/10.1515/bejte-2024-0006</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/bejte-2024-0006</summary>
     <title>Collusive Price Leadership Among Firms with Different Discount Factors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0112/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0112</id>
-    <updated>2025-05-04T22:03:19.942709+00:00</updated>
+    <updated>2025-05-06T04:53:12.653493+00:00</updated>
     <summary>Article by Shuaicheng Liu
 DOI: https://doi.org/10.1515/bejte-2023-0112</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0112</summary>
     <title>Motivating Loyal Bureaucrats in Sequential Agency</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0122/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0122</id>
-    <updated>2025-05-04T22:03:19.942717+00:00</updated>
+    <updated>2025-05-06T04:53:12.653504+00:00</updated>
     <summary>Article by Alexander Rodivilov, Dongsoo Shin
 DOI: https://doi.org/10.1515/bejte-2023-0122</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0122</summary>
     <title>Disclosure of Product Information After Price Competition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0011/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0011</id>
-    <updated>2025-05-04T22:03:19.942724+00:00</updated>
+    <updated>2025-05-06T04:53:12.653512+00:00</updated>
     <summary>Article by Hee Yeul Woo
 DOI: https://doi.org/10.1515/bejte-2023-0011</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0011</summary>
     <title>Uncertain Commitment Power in a Durable Good Monopoly</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2024-0030/html"/>
     <id>https://doi.org/10.1515/bejte-2024-0030</id>
-    <updated>2025-05-04T22:03:19.942732+00:00</updated>
+    <updated>2025-05-06T04:53:12.653519+00:00</updated>
     <summary>Article by Gyula Seres
 DOI: https://doi.org/10.1515/bejte-2024-0030</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/bejte-2024-0030</summary>
     <title>Optimal Trade Policy in a Ricardian Model with Labor-Market Search-and-Matching Frictions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0120/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0120</id>
-    <updated>2025-05-04T22:03:19.942739+00:00</updated>
+    <updated>2025-05-06T04:53:12.653527+00:00</updated>
     <summary>Article by Wisarut Suwanprasert
 DOI: https://doi.org/10.1515/bejte-2023-0120</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0120</summary>
     <title>Consumer-Benefiting Transport Costs: The Role of Product Innovation in a Vertical Structure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2024-0068/html"/>
     <id>https://doi.org/10.1515/bejte-2024-0068</id>
-    <updated>2025-05-04T22:03:19.942746+00:00</updated>
+    <updated>2025-05-06T04:53:12.653535+00:00</updated>
     <summary>Article by Kazuhiro Takauchi, Tomomichi Mizuno
 DOI: https://doi.org/10.1515/bejte-2024-0068</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/bejte-2024-0068</summary>
     <title>Information Disclosure by Informed Intermediary in Double Auction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2024-0026/html"/>
     <id>https://doi.org/10.1515/bejte-2024-0026</id>
-    <updated>2025-05-04T22:03:19.942757+00:00</updated>
+    <updated>2025-05-06T04:53:12.653553+00:00</updated>
     <summary>Article by Sanghoon Kim
 DOI: https://doi.org/10.1515/bejte-2024-0026</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/bejte-2024-0026</summary>
     <title>Strategic Partial Inattention in Oligopoly</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0028/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0028</id>
-    <updated>2025-05-04T22:03:19.942764+00:00</updated>
+    <updated>2025-05-06T04:53:12.653565+00:00</updated>
     <summary>Article by Lijun Pan
 DOI: https://doi.org/10.1515/bejte-2023-0028</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0028</summary>
     <title>The Role of Informative Advertising in Aligning Preferences Over Product Design</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2023-0096/html"/>
     <id>https://doi.org/10.1515/bejte-2023-0096</id>
-    <updated>2025-05-04T22:03:19.942772+00:00</updated>
+    <updated>2025-05-06T04:53:12.653572+00:00</updated>
     <summary>Article by Guillem Roig
 DOI: https://doi.org/10.1515/bejte-2023-0096</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/bejte-2023-0096</summary>
     <title>To Bequeath, or Not to Bequeath? On Labour Income Risk and Top Wealth Concentration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejte-2024-0061/html"/>
     <id>https://doi.org/10.1515/bejte-2024-0061</id>
-    <updated>2025-05-04T22:03:19.942782+00:00</updated>
+    <updated>2025-05-06T04:53:12.653580+00:00</updated>
     <summary>Article by Marco M. Sorge
 DOI: https://doi.org/10.1515/bejte-2024-0061</summary>
   </entry>

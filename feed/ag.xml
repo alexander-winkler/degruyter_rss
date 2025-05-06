@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Die Aktiengesellschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ag/70/8/html"/>
-  <updated>2025-05-04T22:02:21.061668+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ag/70/8/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ag.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ag/html" rel="related"/>
+  <updated>2025-05-06T04:52:01.426316+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ag.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Die Aktiengesellschaft</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ag.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-frontmatter7008/html"/>
     <id>https://doi.org/10.9785/ag-2025-frontmatter7008</id>
-    <updated>2025-05-04T22:02:21.061688+00:00</updated>
+    <updated>2025-05-06T04:52:01.426333+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-frontmatter7008</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-toc7008/html"/>
     <id>https://doi.org/10.9785/ag-2025-toc7008</id>
-    <updated>2025-05-04T22:02:21.061694+00:00</updated>
+    <updated>2025-05-06T04:52:01.426339+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-toc7008</summary>
   </entry>
   <entry>
     <title>Euronext erweitert Software-Angebot mit Admincontrol</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700804/html"/>
     <id>https://doi.org/10.9785/ag-2025-700804</id>
-    <updated>2025-05-04T22:02:21.061699+00:00</updated>
+    <updated>2025-05-06T04:52:01.426344+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700804</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.9785/ag-2025-700804</summary>
     <title>EEX führt Orderbuchhandel am japanischen Strommarkt ein</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700803/html"/>
     <id>https://doi.org/10.9785/ag-2025-700803</id>
-    <updated>2025-05-04T22:02:21.061706+00:00</updated>
+    <updated>2025-05-06T04:52:01.426350+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700803</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.9785/ag-2025-700803</summary>
     <title>Schweizer Finanzmarktaufsicht bewilligt erstes DLT-Handelssystem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700806/html"/>
     <id>https://doi.org/10.9785/ag-2025-700806</id>
-    <updated>2025-05-04T22:02:21.061711+00:00</updated>
+    <updated>2025-05-06T04:52:01.426355+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700806</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.9785/ag-2025-700806</summary>
     <title>TMX VettaFi erwirbt Credit Suisse-Anleihenindizes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700807/html"/>
     <id>https://doi.org/10.9785/ag-2025-700807</id>
-    <updated>2025-05-04T22:02:21.061715+00:00</updated>
+    <updated>2025-05-06T04:52:01.426360+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700807</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.9785/ag-2025-700807</summary>
     <title>Euronext konsolidiert Abrechnung auf ihren Märkten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700805/html"/>
     <id>https://doi.org/10.9785/ag-2025-700805</id>
-    <updated>2025-05-04T22:02:21.061720+00:00</updated>
+    <updated>2025-05-06T04:52:01.426365+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700805</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.9785/ag-2025-700805</summary>
     <title>Nasdaq plant neuen Sitz in Dallas</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700808/html"/>
     <id>https://doi.org/10.9785/ag-2025-700808</id>
-    <updated>2025-05-04T22:02:21.061725+00:00</updated>
+    <updated>2025-05-06T04:52:01.426370+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700808</summary>
   </entry>
@@ -77,14 +74,14 @@ DOI: https://doi.org/10.9785/ag-2025-700808</summary>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700825/html"/>
     <id>https://doi.org/10.9785/ag-2025-700825</id>
-    <updated>2025-05-04T22:02:21.061729+00:00</updated>
+    <updated>2025-05-06T04:52:01.426374+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-700825</summary>
   </entry>
   <entry>
     <title>Miami International Holdings übernimmt International Stock Exchange</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700815/html"/>
     <id>https://doi.org/10.9785/ag-2025-700815</id>
-    <updated>2025-05-04T22:02:21.061734+00:00</updated>
+    <updated>2025-05-06T04:52:01.426380+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700815</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.9785/ag-2025-700815</summary>
     <title>Börse Toronto feiert 35 Jahre börsengehandelte Fonds</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700816/html"/>
     <id>https://doi.org/10.9785/ag-2025-700816</id>
-    <updated>2025-05-04T22:02:21.061739+00:00</updated>
+    <updated>2025-05-06T04:52:01.426386+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700816</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.9785/ag-2025-700816</summary>
     <title>Mexikanische Börse schließt Partnerschaft mit IPC</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700817/html"/>
     <id>https://doi.org/10.9785/ag-2025-700817</id>
-    <updated>2025-05-04T22:02:21.061745+00:00</updated>
+    <updated>2025-05-06T04:52:01.426393+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700817</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.9785/ag-2025-700817</summary>
     <title>Geschäftsklima der deutschen Druck- und Medienindustrie im März 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700818/html"/>
     <id>https://doi.org/10.9785/ag-2025-700818</id>
-    <updated>2025-05-04T22:02:21.061750+00:00</updated>
+    <updated>2025-05-06T04:52:01.426398+00:00</updated>
     <summary>Article by Marion Müller
 DOI: https://doi.org/10.9785/ag-2025-700818</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.9785/ag-2025-700818</summary>
     <title>Zahl der Brauereien in Deutschland gesunken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700819/html"/>
     <id>https://doi.org/10.9785/ag-2025-700819</id>
-    <updated>2025-05-04T22:02:21.061755+00:00</updated>
+    <updated>2025-05-06T04:52:01.426403+00:00</updated>
     <summary>Article by Marion Müller
 DOI: https://doi.org/10.9785/ag-2025-700819</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.9785/ag-2025-700819</summary>
     <title>Deutsche Industrieunternehmen setzen auf künstliche Intelligenz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700820/html"/>
     <id>https://doi.org/10.9785/ag-2025-700820</id>
-    <updated>2025-05-04T22:02:21.061761+00:00</updated>
+    <updated>2025-05-06T04:52:01.426408+00:00</updated>
     <summary>Article by Marion Müller
 DOI: https://doi.org/10.9785/ag-2025-700820</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.9785/ag-2025-700820</summary>
     <title>AIXTRON SE — Konzernabschluss zum 31.12.2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700821/html"/>
     <id>https://doi.org/10.9785/ag-2025-700821</id>
-    <updated>2025-05-04T22:02:21.061766+00:00</updated>
+    <updated>2025-05-06T04:52:01.426413+00:00</updated>
     <summary>Article by Christoph Schlienkamp
 DOI: https://doi.org/10.9785/ag-2025-700821</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.9785/ag-2025-700821</summary>
     <title>KION Group AG — Konzernabschluss zum 31.12.2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700822/html"/>
     <id>https://doi.org/10.9785/ag-2025-700822</id>
-    <updated>2025-05-04T22:02:21.061771+00:00</updated>
+    <updated>2025-05-06T04:52:01.426421+00:00</updated>
     <summary>Article by Christoph Schlienkamp
 DOI: https://doi.org/10.9785/ag-2025-700822</summary>
   </entry>
@@ -148,7 +145,7 @@ DOI: https://doi.org/10.9785/ag-2025-700822</summary>
     <title>Neuerscheinungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700823/html"/>
     <id>https://doi.org/10.9785/ag-2025-700823</id>
-    <updated>2025-05-04T22:02:21.061776+00:00</updated>
+    <updated>2025-05-06T04:52:01.426426+00:00</updated>
     <summary>Article by Rafael Harnos
 DOI: https://doi.org/10.9785/ag-2025-700823</summary>
   </entry>
@@ -156,7 +153,7 @@ DOI: https://doi.org/10.9785/ag-2025-700823</summary>
     <title>Zeitschriftenspiegel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700824/html"/>
     <id>https://doi.org/10.9785/ag-2025-700824</id>
-    <updated>2025-05-04T22:02:21.061780+00:00</updated>
+    <updated>2025-05-06T04:52:01.426431+00:00</updated>
     <summary>Article by Rafael Harnos
 DOI: https://doi.org/10.9785/ag-2025-700824</summary>
   </entry>
@@ -164,7 +161,7 @@ DOI: https://doi.org/10.9785/ag-2025-700824</summary>
     <title>Mehr Reform als Revolution – Die Omnibus-Vorschläge der Europäischen Kommission (Teil II) — Lieferkettensorgfaltspflichten-RL (CS3D), CO2-Grenzausgleich (CBAM) und InvestEU</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700801/html"/>
     <id>https://doi.org/10.9785/ag-2025-700801</id>
-    <updated>2025-05-04T22:02:21.061787+00:00</updated>
+    <updated>2025-05-06T04:52:01.426437+00:00</updated>
     <summary>Article by Philipp Jaspers
 DOI: https://doi.org/10.9785/ag-2025-700801</summary>
   </entry>
@@ -172,7 +169,7 @@ DOI: https://doi.org/10.9785/ag-2025-700801</summary>
     <title>Positionspapier des Sustainable Finance-Beirates zu Biodiversität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700802/html"/>
     <id>https://doi.org/10.9785/ag-2025-700802</id>
-    <updated>2025-05-04T22:02:21.061793+00:00</updated>
+    <updated>2025-05-06T04:52:01.426442+00:00</updated>
     <summary>Article by Sandra Reich
 DOI: https://doi.org/10.9785/ag-2025-700802</summary>
   </entry>
@@ -180,7 +177,7 @@ DOI: https://doi.org/10.9785/ag-2025-700802</summary>
     <title>Miami International Holdings übernimmt International Stock Exchange</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700815/html"/>
     <id>https://doi.org/10.9785/ag-2025-700815</id>
-    <updated>2025-05-04T22:02:21.061799+00:00</updated>
+    <updated>2025-05-06T04:52:01.426451+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700815</summary>
   </entry>
@@ -188,7 +185,7 @@ DOI: https://doi.org/10.9785/ag-2025-700815</summary>
     <title>Börse Toronto feiert 35 Jahre börsengehandelte Fonds</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700816/html"/>
     <id>https://doi.org/10.9785/ag-2025-700816</id>
-    <updated>2025-05-04T22:02:21.061804+00:00</updated>
+    <updated>2025-05-06T04:52:01.426455+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700816</summary>
   </entry>
@@ -196,7 +193,7 @@ DOI: https://doi.org/10.9785/ag-2025-700816</summary>
     <title>Mexikanische Börse schließt Partnerschaft mit IPC</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700817/html"/>
     <id>https://doi.org/10.9785/ag-2025-700817</id>
-    <updated>2025-05-04T22:02:21.061809+00:00</updated>
+    <updated>2025-05-06T04:52:01.426459+00:00</updated>
     <summary>Article by Marianne Gajo
 DOI: https://doi.org/10.9785/ag-2025-700817</summary>
   </entry>
@@ -204,7 +201,7 @@ DOI: https://doi.org/10.9785/ag-2025-700817</summary>
     <title>Zu Optimierungsgeboten im Vorstandsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700809/html"/>
     <id>https://doi.org/10.9785/ag-2025-700809</id>
-    <updated>2025-05-04T22:02:21.061814+00:00</updated>
+    <updated>2025-05-06T04:52:01.426464+00:00</updated>
     <summary>Article by Julian Redeke
 DOI: https://doi.org/10.9785/ag-2025-700809</summary>
   </entry>
@@ -212,42 +209,42 @@ DOI: https://doi.org/10.9785/ag-2025-700809</summary>
     <title>Anlegerschutz: Abschlussprüferhaftung als Gegenstand eines Kapitalanleger- Musterverfahrens; Bestätigungsvermerk als öffentliche Kapitalmarktinformation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700810/html"/>
     <id>https://doi.org/10.9785/ag-2025-700810</id>
-    <updated>2025-05-04T22:02:21.061820+00:00</updated>
+    <updated>2025-05-06T04:52:01.426469+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-700810</summary>
   </entry>
   <entry>
     <title>Medienrecht: Zur Zulässigkeit einer Verdachtsberichterstattung über einen ehemaligen Aufsichtsratsvorsitzenden von Wirecard</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700811/html"/>
     <id>https://doi.org/10.9785/ag-2025-700811</id>
-    <updated>2025-05-04T22:02:21.061824+00:00</updated>
+    <updated>2025-05-06T04:52:01.426474+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-700811</summary>
   </entry>
   <entry>
     <title>Bilanzrecht: Pflicht zur Veröffentlichung des Jahresberichts durch Emittenten einer Vermögensanlage</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700812/html"/>
     <id>https://doi.org/10.9785/ag-2025-700812</id>
-    <updated>2025-05-04T22:02:21.061829+00:00</updated>
+    <updated>2025-05-06T04:52:01.426478+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-700812</summary>
   </entry>
   <entry>
     <title>Aktienregisterrecht: Adressat der Mitteilung zur Änderung des Aktienregisters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700813/html"/>
     <id>https://doi.org/10.9785/ag-2025-700813</id>
-    <updated>2025-05-04T22:02:21.061833+00:00</updated>
+    <updated>2025-05-06T04:52:01.426482+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-700813</summary>
   </entry>
   <entry>
     <title>Organhaftung: Vorstands- und Aufsichtsratshaftung wegen Darlehensvergabe ohne hinreichende Sicherheiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700814/html"/>
     <id>https://doi.org/10.9785/ag-2025-700814</id>
-    <updated>2025-05-04T22:02:21.061837+00:00</updated>
+    <updated>2025-05-06T04:52:01.426487+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/ag-2025-700814</summary>
   </entry>
   <entry>
     <title>Geschäftsklima der deutschen Druck- und Medienindustrie im März 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700818/html"/>
     <id>https://doi.org/10.9785/ag-2025-700818</id>
-    <updated>2025-05-04T22:02:21.061841+00:00</updated>
+    <updated>2025-05-06T04:52:01.426491+00:00</updated>
     <summary>Article by Marion Müller
 DOI: https://doi.org/10.9785/ag-2025-700818</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.9785/ag-2025-700818</summary>
     <title>Zahl der Brauereien in Deutschland gesunken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700819/html"/>
     <id>https://doi.org/10.9785/ag-2025-700819</id>
-    <updated>2025-05-04T22:02:21.061846+00:00</updated>
+    <updated>2025-05-06T04:52:01.426499+00:00</updated>
     <summary>Article by Marion Müller
 DOI: https://doi.org/10.9785/ag-2025-700819</summary>
   </entry>
@@ -263,7 +260,7 @@ DOI: https://doi.org/10.9785/ag-2025-700819</summary>
     <title>Deutsche Industrieunternehmen setzen auf künstliche Intelligenz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700820/html"/>
     <id>https://doi.org/10.9785/ag-2025-700820</id>
-    <updated>2025-05-04T22:02:21.061851+00:00</updated>
+    <updated>2025-05-06T04:52:01.426504+00:00</updated>
     <summary>Article by Marion Müller
 DOI: https://doi.org/10.9785/ag-2025-700820</summary>
   </entry>
@@ -271,7 +268,7 @@ DOI: https://doi.org/10.9785/ag-2025-700820</summary>
     <title>AIXTRON SE — Konzernabschluss zum 31.12.2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700821/html"/>
     <id>https://doi.org/10.9785/ag-2025-700821</id>
-    <updated>2025-05-04T22:02:21.061857+00:00</updated>
+    <updated>2025-05-06T04:52:01.426510+00:00</updated>
     <summary>Article by Christoph Schlienkamp
 DOI: https://doi.org/10.9785/ag-2025-700821</summary>
   </entry>
@@ -279,7 +276,7 @@ DOI: https://doi.org/10.9785/ag-2025-700821</summary>
     <title>KION Group AG — Konzernabschluss zum 31.12.2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700822/html"/>
     <id>https://doi.org/10.9785/ag-2025-700822</id>
-    <updated>2025-05-04T22:02:21.061862+00:00</updated>
+    <updated>2025-05-06T04:52:01.426515+00:00</updated>
     <summary>Article by Christoph Schlienkamp
 DOI: https://doi.org/10.9785/ag-2025-700822</summary>
   </entry>
@@ -287,7 +284,7 @@ DOI: https://doi.org/10.9785/ag-2025-700822</summary>
     <title>Neuerscheinungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700823/html"/>
     <id>https://doi.org/10.9785/ag-2025-700823</id>
-    <updated>2025-05-04T22:02:21.061867+00:00</updated>
+    <updated>2025-05-06T04:52:01.426522+00:00</updated>
     <summary>Article by Rafael Harnos
 DOI: https://doi.org/10.9785/ag-2025-700823</summary>
   </entry>
@@ -295,7 +292,7 @@ DOI: https://doi.org/10.9785/ag-2025-700823</summary>
     <title>Zeitschriftenspiegel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-700824/html"/>
     <id>https://doi.org/10.9785/ag-2025-700824</id>
-    <updated>2025-05-04T22:02:21.061871+00:00</updated>
+    <updated>2025-05-06T04:52:01.426527+00:00</updated>
     <summary>Article by Rafael Harnos
 DOI: https://doi.org/10.9785/ag-2025-700824</summary>
   </entry>

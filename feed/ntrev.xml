@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nanotechnology Reviews</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ntrev/14/1/html"/>
-  <updated>2025-05-04T22:10:31.858751+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ntrev/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ntrev.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ntrev/html" rel="related"/>
+  <updated>2025-05-06T05:03:04.302138+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ntrev.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Nanotechnology Reviews</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ntrev.xml" type="application/rss+xml"/>
   <entry>
     <title>MHD radiative mixed convective flow of a sodium alginate-based hybrid nanofluid over a convectively heated extending sheet with Joule heating</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2024-0132/html"/>
     <id>https://doi.org/10.1515/ntrev-2024-0132</id>
-    <updated>2025-05-04T22:10:31.858772+00:00</updated>
+    <updated>2025-05-06T05:03:04.302158+00:00</updated>
     <summary>Article by Humaira Yasmin, Rawan Bossly, Fuad S. Alduais, Afrah Al-Bossly, Anwar Saeed
 DOI: https://doi.org/10.1515/ntrev-2024-0132</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/ntrev-2024-0132</summary>
     <title>Experimental study of mortar incorporating nano-magnetite on engineering performance and radiation shielding</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2024-0135/html"/>
     <id>https://doi.org/10.1515/ntrev-2024-0135</id>
-    <updated>2025-05-04T22:10:31.858778+00:00</updated>
+    <updated>2025-05-06T05:03:04.302167+00:00</updated>
     <summary>Article by Kittipong Kunchariyakun, Suthatip Sinyoung, Kenneth J. D. MacKenzie, Vithit Pungkun, Pakkamai Raknarong, Musofpar Teh, Afham Jekabaso, Narumol Sittichan
 DOI: https://doi.org/10.1515/ntrev-2024-0135</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/ntrev-2024-0135</summary>
     <title>Multicriteria-based optimization and multi-variable non-linear regression analysis of concrete containing blends of nano date palm ash and eggshell powder as cementitious materials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0141/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0141</id>
-    <updated>2025-05-04T22:10:31.858785+00:00</updated>
+    <updated>2025-05-06T05:03:04.302178+00:00</updated>
     <summary>Article by Musa Adamu, Yasser E. Ibrahim, Anuja U. Charpe, Ashwin Narendra Raut
 DOI: https://doi.org/10.1515/ntrev-2025-0141</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0141</summary>
     <title>A promising Ag2S/poly-2-amino-1-mercaptobenzene open-top spherical core–shell nanocomposite for optoelectronic devices: A one-pot technique</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2024-0136/html"/>
     <id>https://doi.org/10.1515/ntrev-2024-0136</id>
-    <updated>2025-05-04T22:10:31.858790+00:00</updated>
+    <updated>2025-05-06T05:03:04.302185+00:00</updated>
     <summary>Article by Fatemah H. Alkallas, Mohamed Rabia, Amira Ben Gouider Trabelsi, Tahani A. Alrebdi, Asmaa M. Elsayed
 DOI: https://doi.org/10.1515/ntrev-2024-0136</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/ntrev-2024-0136</summary>
     <title>Biogenic synthesized selenium nanoparticles combined chitosan nanoparticles controlled lung cancer growthviaROS generation and mitochondrial damage pathway</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0142/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0142</id>
-    <updated>2025-05-04T22:10:31.858795+00:00</updated>
+    <updated>2025-05-06T05:03:04.302192+00:00</updated>
     <summary>Article by Rana I. Mahmood, Alaa Al-Taie, Aya M. Al-Rahim, Harraa S. Mohammed-Salih, Humam Abdulrahman Ibrahim, Salim Albukhaty, Sabrean F. Jawad, Majid S. Jabir, Mohamed M. Salem, Mounir M. Bekhit
 DOI: https://doi.org/10.1515/ntrev-2025-0142</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0142</summary>
     <title>Fabrication of PDMS nano-mold by deposition casting method</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0149/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0149</id>
-    <updated>2025-05-04T22:10:31.858804+00:00</updated>
+    <updated>2025-05-06T05:03:04.302204+00:00</updated>
     <summary>Article by Ran Guo, Changlong Zhang, Liwei Xue, Xuan Li, Liguo Chen, Zhou Zheng
 DOI: https://doi.org/10.1515/ntrev-2025-0149</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0149</summary>
     <title>Stimulus-responsive gradient hydrogel micro-actuators fabricated by two-photon polymerization-based 4D printing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0145/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0145</id>
-    <updated>2025-05-04T22:10:31.858810+00:00</updated>
+    <updated>2025-05-06T05:03:04.302212+00:00</updated>
     <summary>Article by Tongqing Li, Gary Chi-Pong Tsui, Chi-Ho Wong, Chak-Yin Tang, Kai Tang, Youhua Tan
 DOI: https://doi.org/10.1515/ntrev-2025-0145</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0145</summary>
     <title>Physical aspects of radiative Carreau nanofluid flow with motile microorganisms movement under yield stressviaoblique penetrable wedge</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0146/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0146</id>
-    <updated>2025-05-04T22:10:31.858815+00:00</updated>
+    <updated>2025-05-06T05:03:04.302218+00:00</updated>
     <summary>Article by Essam M. Elsaid, Mohamed Abd El-Aziz, Amani S. Alruwaili, Mohamed R. Eid
 DOI: https://doi.org/10.1515/ntrev-2025-0146</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0146</summary>
     <title>Effect of polar functional groups on the hydrophobicity of carbon nanotubes-bacterial cellulose nanocomposite</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0155/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0155</id>
-    <updated>2025-05-04T22:10:31.858820+00:00</updated>
+    <updated>2025-05-06T05:03:04.302224+00:00</updated>
     <summary>Article by Nurul Syahirah Nasuha Sa’aya, Norhana Abdul Halim, Mohd Nor Faiz Norrrahim, Hairul Anuar Tajuddin, Siti Zulaikha Ngah Demon, Ahmad Farid Mohd Azmi
 DOI: https://doi.org/10.1515/ntrev-2025-0155</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0155</summary>
     <title>Review in green synthesis mechanisms, application, and future prospectsfor Garcinia mangostanaL. (mangosteen)-derived nanoparticles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0157/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0157</id>
-    <updated>2025-05-04T22:10:31.858827+00:00</updated>
+    <updated>2025-05-06T05:03:04.302240+00:00</updated>
     <summary>Article by Yu Bin Chan, Mohammod Aminuzzaman, Xinn-Tze Chuah, Kefeng Li, Prakash Balu, Ling Shing Wong, Samar Kumar Guha, Lai-Hock Tey
 DOI: https://doi.org/10.1515/ntrev-2025-0157</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0157</summary>
     <title>Entropy generation and heat transfer in nonlinear Buoyancy–driven Darcy–Forchheimer hybrid nanofluids with activation energy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0158/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0158</id>
-    <updated>2025-05-04T22:10:31.858831+00:00</updated>
+    <updated>2025-05-06T05:03:04.302247+00:00</updated>
     <summary>Article by Bhupendra K. Sharma, Rekha, Sangita Yadav, Bandar Almohsen, Laura M. Pérez, Ioannis E. Sarris
 DOI: https://doi.org/10.1515/ntrev-2025-0158</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0158</summary>
     <title>Green synthesis of silver nanoparticles usingGinkgo bilobaseed extract: Evaluation of antioxidant, anticancer, antifungal, and antibacterial activities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0160/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0160</id>
-    <updated>2025-05-04T22:10:31.858836+00:00</updated>
+    <updated>2025-05-06T05:03:04.302254+00:00</updated>
     <summary>Article by Jungang Luo, Zhaobai Lao, Sunfang Chen, Difeng Zheng, Shaodong Li, Gaoxiang Ma, Sunyang Fang, Bin Fang, Bing Wu
 DOI: https://doi.org/10.1515/ntrev-2025-0160</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0160</summary>
     <title>A comprehensive review on hybrid plasmonic waveguides: Structures, applications, challenges, and future perspectives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2024-0137/html"/>
     <id>https://doi.org/10.1515/ntrev-2024-0137</id>
-    <updated>2025-05-04T22:10:31.858841+00:00</updated>
+    <updated>2025-05-06T05:03:04.302262+00:00</updated>
     <summary>Article by Maryam Khodadadi, Najmeh Nozhat, Hadiseh Nasari
 DOI: https://doi.org/10.1515/ntrev-2024-0137</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/ntrev-2024-0137</summary>
     <title>Nanoparticles in low-temperature preservation of biological systems of animal origin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0143/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0143</id>
-    <updated>2025-05-04T22:10:31.858845+00:00</updated>
+    <updated>2025-05-06T05:03:04.302268+00:00</updated>
     <summary>Article by Mariia Yukhta, Iryna Bespalova, Anastasia Koroleva, Boris Chichkov
 DOI: https://doi.org/10.1515/ntrev-2025-0143</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0143</summary>
     <title>Fluorescent sulfur quantum dots for environmental monitoring</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2024-0138/html"/>
     <id>https://doi.org/10.1515/ntrev-2024-0138</id>
-    <updated>2025-05-04T22:10:31.858850+00:00</updated>
+    <updated>2025-05-06T05:03:04.302274+00:00</updated>
     <summary>Article by Kawan F. Kayani, Omer B. A. Shatery, Sewara J. Mohammed, Shujahadeen B. Aziz, Nian N. Mohammad, Gaylany H. Abdullah, Muhammad S. Mustafa, Dana A. Kader, Wrya O. Karim, Jamal Hassan
 DOI: https://doi.org/10.1515/ntrev-2024-0138</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/ntrev-2024-0138</summary>
     <title>Nanoscience systematic review methodology standardization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0144/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0144</id>
-    <updated>2025-05-04T22:10:31.858854+00:00</updated>
+    <updated>2025-05-06T05:03:04.302280+00:00</updated>
     <summary>Article by Abed Alqader Ibrahim, Tariq Khan, Dennis LaJeunesse, Sherine O. Obare, Anthony L. Dellinger
 DOI: https://doi.org/10.1515/ntrev-2025-0144</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0144</summary>
     <title>Nanotechnology revolutionizing osteosarcoma treatment: Advances in targeted kinase inhibitors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0147/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0147</id>
-    <updated>2025-05-04T22:10:31.858860+00:00</updated>
+    <updated>2025-05-06T05:03:04.302286+00:00</updated>
     <summary>Article by Yongtao Zhang, Chao Zhou, Qiong Xie, Linying Xia, Qingping Li, Lu Liu, Hongming Lin, Xiaochun Xiong, Jiayi Zhao, Wenqing Liang
 DOI: https://doi.org/10.1515/ntrev-2025-0147</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0147</summary>
     <title>AFM: An important enabling technology for 2D materials and devices</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0154/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0154</id>
-    <updated>2025-05-04T22:10:31.858865+00:00</updated>
+    <updated>2025-05-06T05:03:04.302292+00:00</updated>
     <summary>Article by Paul C. Uzoma, Xiaolei Ding, Baoshi Qiao, Emeka E. Oguzie, Yang Xu, Xiaorui Zheng, Huan Hu
 DOI: https://doi.org/10.1515/ntrev-2025-0154</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0154</summary>
     <title>Carbon and 2D nanomaterial smart hydrogels for therapeutic applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0156/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0156</id>
-    <updated>2025-05-04T22:10:31.858870+00:00</updated>
+    <updated>2025-05-06T05:03:04.302298+00:00</updated>
     <summary>Article by Shunyu Xiang, Cécilia Ménard-Moyon, Alberto Bianco
 DOI: https://doi.org/10.1515/ntrev-2025-0156</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0156</summary>
     <title>Principles, applications and future prospects in photodegradation systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0159/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0159</id>
-    <updated>2025-05-04T22:10:31.858876+00:00</updated>
+    <updated>2025-05-06T05:03:04.302304+00:00</updated>
     <summary>Article by Walied A. A. Mohamed, Aiyeshah Alhodaib, Hanan A. Mousa, Hala T. Handal, Hoda R. Galal, Hala H. Abd El-Gawad, Badr A. Elsayed, Ammar A. Labib, Mohamed S. A. Abdel-Mottaleb
 DOI: https://doi.org/10.1515/ntrev-2025-0159</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0159</summary>
     <title>Do gold nanoparticles consistently benefit crop plants under both non-stressed and abiotic stress conditions?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0153/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0153</id>
-    <updated>2025-05-04T22:10:31.858882+00:00</updated>
+    <updated>2025-05-06T05:03:04.302310+00:00</updated>
     <summary>Article by Nadiyah M. Alabdallah
 DOI: https://doi.org/10.1515/ntrev-2025-0153</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0153</summary>
     <title>An updated overview of nanoparticle-induced cardiovascular toxicity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0161/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0161</id>
-    <updated>2025-05-04T22:10:31.858887+00:00</updated>
+    <updated>2025-05-06T05:03:04.302316+00:00</updated>
     <summary>Article by Haijun Zhu, Lihua Dai, Fei Wang, Yin Liu, Shumei Zhai
 DOI: https://doi.org/10.1515/ntrev-2025-0161</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0161</summary>
     <title>Arginine as a promising amino acid for functionalized nanosystems: Innovations, challenges, and future directions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0162/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0162</id>
-    <updated>2025-05-04T22:10:31.858891+00:00</updated>
+    <updated>2025-05-06T05:03:04.302322+00:00</updated>
     <summary>Article by Lili Nie, Yanwei Li, Jianan Xie, Shan Lu
 DOI: https://doi.org/10.1515/ntrev-2025-0162</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0162</summary>
     <title>Efficiency optimization of quantum dot photovoltaic cell by solar thermophotovoltaic system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2024-0139/html"/>
     <id>https://doi.org/10.1515/ntrev-2024-0139</id>
-    <updated>2025-05-04T22:10:31.858895+00:00</updated>
+    <updated>2025-05-06T05:03:04.302328+00:00</updated>
     <summary>Article by Hafiz Muhammad Talha, Ahsan Sarwar Rana, Saleem Shahid, Waseem Khan, Taimoor Naeem, Muhammad Aslam, Aboud Ahmed Awadh Bahajjaj, Aamer Bilal Asghar, Zsolt Conka, Robert Stefko
 DOI: https://doi.org/10.1515/ntrev-2024-0139</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/ntrev-2024-0139</summary>
     <title>Exploring the diverse nanomaterials employed in dental prosthesis and implant techniques: An overview</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0140/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0140</id>
-    <updated>2025-05-04T22:10:31.858900+00:00</updated>
+    <updated>2025-05-06T05:03:04.302339+00:00</updated>
     <summary>Article by Natesan Thirumalaivasan, Senthilkumar Nangan, Deepak Verma, Muthaiah Shellaiah, Saheb Ali, Saravanan Rajendran, Kuppusamy Kanagaraj, Ramyakrishna Pothu, Rajender Boddula, Ahmed Bahgat Radwan, Noora Al-Qahtani
 DOI: https://doi.org/10.1515/ntrev-2025-0140</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0140</summary>
     <title>Influence of nano-silica and nano-ferrite particles on mechanical and durability of sustainable concrete: A review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0151/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0151</id>
-    <updated>2025-05-04T22:10:31.858904+00:00</updated>
+    <updated>2025-05-06T05:03:04.302345+00:00</updated>
     <summary>Article by Abdeliazim Mustafa Mohamed, Bassam A. Tayeh, Tamer I. Ahmed, Maaz Osman Bashir, Dina E. Tobbala
 DOI: https://doi.org/10.1515/ntrev-2025-0151</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/ntrev-2025-0151</summary>
     <title>Surfaces and interfaces analysis on different carboxymethylation reaction time of anionic cellulose nanoparticles derived from oil palm biomass</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ntrev-2025-0152/html"/>
     <id>https://doi.org/10.1515/ntrev-2025-0152</id>
-    <updated>2025-05-04T22:10:31.858909+00:00</updated>
+    <updated>2025-05-06T05:03:04.302351+00:00</updated>
     <summary>Article by Mageswari Manimaran, Mohd Nurazzi Norizan, Mohamad Haafiz Mohamad Kassim, Mohd Ridhwan Adam, Norli Abdullah, Mohd Nor Faiz Norrrahim
 DOI: https://doi.org/10.1515/ntrev-2025-0152</summary>
   </entry>

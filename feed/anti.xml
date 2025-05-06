@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Antike und Abendland</title>
-  <link href="https://www.degruyterbrill.com/journal/key/anti/70/1/html"/>
-  <updated>2025-05-04T22:02:31.908160+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/anti/70/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anti.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/anti/html" rel="related"/>
+  <updated>2025-05-06T04:52:16.692434+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anti.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Antike und Abendland</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anti.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/anab-2024-frontmatter1</id>
-    <updated>2025-05-04T22:02:31.908184+00:00</updated>
+    <updated>2025-05-06T04:52:16.692455+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/anab-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Kalliopes Farbenblindheit. Diversität als Herausforderung?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0001/html"/>
     <id>https://doi.org/10.1515/anab-2024-0001</id>
-    <updated>2025-05-04T22:02:31.908191+00:00</updated>
+    <updated>2025-05-06T04:52:16.692461+00:00</updated>
     <summary>Article by Daniel Wendt
 DOI: https://doi.org/10.1515/anab-2024-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/anab-2024-0001</summary>
     <title>Der Diskurs der Freiheit in Rom und Horaz’ erstesEpistel-Buch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0002/html"/>
     <id>https://doi.org/10.1515/anab-2024-0002</id>
-    <updated>2025-05-04T22:02:31.908197+00:00</updated>
+    <updated>2025-05-06T04:52:16.692467+00:00</updated>
     <summary>Article by Gregor Vogt-Spira
 DOI: https://doi.org/10.1515/anab-2024-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/anab-2024-0002</summary>
     <title>La fortuna cinquecentesca dei versiIlle ego …del proemio dell’Eneide: modalità di edizione e tradizione esegetica</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0003/html"/>
     <id>https://doi.org/10.1515/anab-2024-0003</id>
-    <updated>2025-05-04T22:02:31.908202+00:00</updated>
+    <updated>2025-05-06T04:52:16.692472+00:00</updated>
     <summary>Article by Paolina Catapano
 DOI: https://doi.org/10.1515/anab-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/anab-2024-0003</summary>
     <title>Machiavelli tra Lucrezio e Terenzio: il Rossiano 884</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0004/html"/>
     <id>https://doi.org/10.1515/anab-2024-0004</id>
-    <updated>2025-05-04T22:02:31.908206+00:00</updated>
+    <updated>2025-05-06T04:52:16.692477+00:00</updated>
     <summary>Article by Pasquale Stoppelli
 DOI: https://doi.org/10.1515/anab-2024-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/anab-2024-0004</summary>
     <title>Eduard MörikesBilder aus Bebenhausenund das antike Epigramm</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0005/html"/>
     <id>https://doi.org/10.1515/anab-2024-0005</id>
-    <updated>2025-05-04T22:02:31.908210+00:00</updated>
+    <updated>2025-05-06T04:52:16.692482+00:00</updated>
     <summary>Article by Hans Bernsdorff
 DOI: https://doi.org/10.1515/anab-2024-0005</summary>
   </entry>
@@ -62,14 +59,14 @@ DOI: https://doi.org/10.1515/anab-2024-0005</summary>
     <title>Vorbemerkung zu den Beiträgen über Karl Christ (1923–2008)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0006/html"/>
     <id>https://doi.org/10.1515/anab-2024-0006</id>
-    <updated>2025-05-04T22:02:31.908215+00:00</updated>
+    <updated>2025-05-06T04:52:16.692486+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/anab-2024-0006</summary>
   </entry>
   <entry>
     <title>Karl Christ in seiner Zeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0007/html"/>
     <id>https://doi.org/10.1515/anab-2024-0007</id>
-    <updated>2025-05-04T22:02:31.908219+00:00</updated>
+    <updated>2025-05-06T04:52:16.692490+00:00</updated>
     <summary>Article by Stefan Rebenich
 DOI: https://doi.org/10.1515/anab-2024-0007</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/anab-2024-0007</summary>
     <title>Münzen, Geld und die antike Gesellschaft bei Karl Christ</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0008/html"/>
     <id>https://doi.org/10.1515/anab-2024-0008</id>
-    <updated>2025-05-04T22:02:31.908223+00:00</updated>
+    <updated>2025-05-06T04:52:16.692495+00:00</updated>
     <summary>Article by Helmuth Schneider
 DOI: https://doi.org/10.1515/anab-2024-0008</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/anab-2024-0008</summary>
     <title>Zwischen Personalisierung und struktureller Analyse.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0009/html"/>
     <id>https://doi.org/10.1515/anab-2024-0009</id>
-    <updated>2025-05-04T22:02:31.908228+00:00</updated>
+    <updated>2025-05-06T04:52:16.692500+00:00</updated>
     <summary>Article by Hartmut Leppin
 DOI: https://doi.org/10.1515/anab-2024-0009</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/anab-2024-0009</summary>
     <title>Ithacaand love: another reading of Cavafy’s poem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0010/html"/>
     <id>https://doi.org/10.1515/anab-2024-0010</id>
-    <updated>2025-05-04T22:02:31.908236+00:00</updated>
+    <updated>2025-05-06T04:52:16.692504+00:00</updated>
     <summary>Article by Filippomaria Pontani
 DOI: https://doi.org/10.1515/anab-2024-0010</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/anab-2024-0010</summary>
     <title>Den Anfang machen. Vom Ursprung der Kunst in der lateinischen Literatur.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/anab-2024-0011/html"/>
     <id>https://doi.org/10.1515/anab-2024-0011</id>
-    <updated>2025-05-04T22:02:31.908240+00:00</updated>
+    <updated>2025-05-06T04:52:16.692508+00:00</updated>
     <summary>Article by Joséphine Jacquier
 DOI: https://doi.org/10.1515/anab-2024-0011</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Chinese Film Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jcfs/4/3/html"/>
-  <updated>2025-05-04T22:07:37.872303+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jcfs/4/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcfs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jcfs/html" rel="related"/>
+  <updated>2025-05-06T04:59:06.763722+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcfs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Chinese Film Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jcfs.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-frontmatter3</id>
-    <updated>2025-05-04T22:07:37.872325+00:00</updated>
+    <updated>2025-05-06T04:59:06.763745+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jcfs-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>Introduction: Games, Gaming, and Interactive Aesthetics in Contemporary Chinese and Sinophone Cinema</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0049/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0049</id>
-    <updated>2025-05-04T22:07:37.872333+00:00</updated>
+    <updated>2025-05-06T04:59:06.763754+00:00</updated>
     <summary>Article by Douglas Eyman, Li Guo, Hongmei Sun
 DOI: https://doi.org/10.1515/jcfs-2024-0049</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0049</summary>
     <title>Soundscape and Sense of Presence in the VR Experience ofMadame Pirate: Becoming a Legend</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0010/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0010</id>
-    <updated>2025-05-04T22:07:37.872341+00:00</updated>
+    <updated>2025-05-06T04:59:06.763764+00:00</updated>
     <summary>Article by Désirée Marianini
 DOI: https://doi.org/10.1515/jcfs-2024-0010</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0010</summary>
     <title>Consuming the White Terror: Transmedia Adaptation and Franchise-Building ofDetention</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0004/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0004</id>
-    <updated>2025-05-04T22:07:37.872348+00:00</updated>
+    <updated>2025-05-06T04:59:06.763772+00:00</updated>
     <summary>Article by Fengyun Zhang
 DOI: https://doi.org/10.1515/jcfs-2024-0004</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0004</summary>
     <title>Tracing the Shape of Despair: Video Game Aesthetics and Actor-Network Theory inAn Elephant Sitting Still</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0012/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0012</id>
-    <updated>2025-05-04T22:07:37.872355+00:00</updated>
+    <updated>2025-05-06T04:59:06.763779+00:00</updated>
     <summary>Article by Xiaochu Wu
 DOI: https://doi.org/10.1515/jcfs-2024-0012</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0012</summary>
     <title>How DoesJade DynastyBecome a Big IP? Mapping Digital Media Ecology in Contemporary China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0007/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0007</id>
-    <updated>2025-05-04T22:07:37.872362+00:00</updated>
+    <updated>2025-05-06T04:59:06.763787+00:00</updated>
     <summary>Article by Shasha Liu
 DOI: https://doi.org/10.1515/jcfs-2024-0007</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0007</summary>
     <title>Towards a Techno-Hauntological Aesthetic: Immiscible Time and the Spiritual Imagination inBodyless(Shishenji, 2019) by Huang Hsin-Chien</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0003/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0003</id>
-    <updated>2025-05-04T22:07:37.872368+00:00</updated>
+    <updated>2025-05-06T04:59:06.763794+00:00</updated>
     <summary>Article by Gabriel Remy-Handfield
 DOI: https://doi.org/10.1515/jcfs-2024-0003</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0003</summary>
     <title>Ambivalent Utopias: Corporate Biopower and the Gendered Limits of Agency inReset</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2023-0060/html"/>
     <id>https://doi.org/10.1515/jcfs-2023-0060</id>
-    <updated>2025-05-04T22:07:37.872375+00:00</updated>
+    <updated>2025-05-06T04:59:06.763802+00:00</updated>
     <summary>Article by Jun Lei
 DOI: https://doi.org/10.1515/jcfs-2023-0060</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jcfs-2023-0060</summary>
     <title>An Inquiry into Gender and Queer Issues in Chinese-Language Sci-Fi Film: A Case Study ofThe Soul</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0014/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0014</id>
-    <updated>2025-05-04T22:07:37.872381+00:00</updated>
+    <updated>2025-05-06T04:59:06.763809+00:00</updated>
     <summary>Article by Jingjing Cai
 DOI: https://doi.org/10.1515/jcfs-2024-0014</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0014</summary>
     <title>Century-Old Hong Kong Films and the Chinese Cultural Tradition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0021/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0021</id>
-    <updated>2025-05-04T22:07:37.872388+00:00</updated>
+    <updated>2025-05-06T04:59:06.763816+00:00</updated>
     <summary>Article by Haizhou Wang, Jian Yu
 DOI: https://doi.org/10.1515/jcfs-2024-0021</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0021</summary>
     <title>The Evaluation System of Global Cinematic Strength and the Advancement of Chinese Films</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0037/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0037</id>
-    <updated>2025-05-04T22:07:37.872396+00:00</updated>
+    <updated>2025-05-06T04:59:06.763824+00:00</updated>
     <summary>Article by Zheng Tan, Yan Zhang
 DOI: https://doi.org/10.1515/jcfs-2024-0037</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/jcfs-2024-0037</summary>
     <title>The World is the “Hometown” of the Camera: Interview with Jia Zhangke</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jcfs-2024-0039/html"/>
     <id>https://doi.org/10.1515/jcfs-2024-0039</id>
-    <updated>2025-05-04T22:07:37.872403+00:00</updated>
+    <updated>2025-05-06T04:59:06.763832+00:00</updated>
     <summary>Article by Bingbing Wang
 DOI: https://doi.org/10.1515/jcfs-2024-0039</summary>
   </entry>

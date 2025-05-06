@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Archiv für Reformationsgeschichte - Archive for Reformation History</title>
-  <link href="https://www.degruyterbrill.com/journal/key/arg/115/1/html"/>
-  <updated>2025-05-04T22:03:02.940677+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/arg/115/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arg.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/arg/html" rel="related"/>
+  <updated>2025-05-06T04:52:49.557916+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Archiv für Reformationsgeschichte - Archive for Reformation History</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arg.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-frontmatter11501/html"/>
     <id>https://doi.org/10.14315/arg-2024-frontmatter11501</id>
-    <updated>2025-05-04T22:03:02.940699+00:00</updated>
+    <updated>2025-05-06T04:52:49.557938+00:00</updated>
     <summary>DOI: https://doi.org/10.14315/arg-2024-frontmatter11501</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-toc11501/html"/>
     <id>https://doi.org/10.14315/arg-2024-toc11501</id>
-    <updated>2025-05-04T22:03:02.940706+00:00</updated>
+    <updated>2025-05-06T04:52:49.557948+00:00</updated>
     <summary>DOI: https://doi.org/10.14315/arg-2024-toc11501</summary>
   </entry>
   <entry>
     <title>Der Umgang des Erasmus mit dem Judentum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150101/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150101</id>
-    <updated>2025-05-04T22:03:02.940711+00:00</updated>
+    <updated>2025-05-06T04:52:49.557955+00:00</updated>
     <summary>Article by Christine Christ-von Wedel
 DOI: https://doi.org/10.14315/arg-2024-1150101</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150101</summary>
     <title>Ketzer, Vorbild, Märtyrer – ein Einblick in die Forschungsgeschichte von Ludwig Hätzer in verschiedenen Konfessionen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150102/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150102</id>
-    <updated>2025-05-04T22:03:02.940719+00:00</updated>
+    <updated>2025-05-06T04:52:49.557968+00:00</updated>
     <summary>Article by Aneke Dornbusch
 DOI: https://doi.org/10.14315/arg-2024-1150102</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150102</summary>
     <title>The Image of the Female Karsthans in Lucas Cranach’s Women Assaulting Clergy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150103/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150103</id>
-    <updated>2025-05-04T22:03:02.940726+00:00</updated>
+    <updated>2025-05-06T04:52:49.557974+00:00</updated>
     <summary>Article by Jonathan Trayner
 DOI: https://doi.org/10.14315/arg-2024-1150103</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150103</summary>
     <title>The Soul of Johann Ewich (1525–88): Faith, Doubt, and Fear of Satan’s Power in Early Modern Bremen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150104/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150104</id>
-    <updated>2025-05-04T22:03:02.940732+00:00</updated>
+    <updated>2025-05-06T04:52:49.557981+00:00</updated>
     <summary>Article by Tilmann Walter
 DOI: https://doi.org/10.14315/arg-2024-1150104</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150104</summary>
     <title>Engaged Pedagogy in the Late-Humanist Classroom: How Johannes Caselius Taught Aristotle’s Rhetoric</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150105/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150105</id>
-    <updated>2025-05-04T22:03:02.940738+00:00</updated>
+    <updated>2025-05-06T04:52:49.557988+00:00</updated>
     <summary>Article by Tomás Antonio Valle
 DOI: https://doi.org/10.14315/arg-2024-1150105</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150105</summary>
     <title>Die Bedeutung des Hofpredigers Petrus Dathenus für das Frankenthaler Religionsgespräch 1571</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150106/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150106</id>
-    <updated>2025-05-04T22:03:02.940745+00:00</updated>
+    <updated>2025-05-06T04:52:49.557995+00:00</updated>
     <summary>Article by Christoph Strohm
 DOI: https://doi.org/10.14315/arg-2024-1150106</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150106</summary>
     <title>Frömmigkeitspraxis Prozession: Leitthemen und Schwerpunkte posttridentinischer Breitenfrömmigkeit am Beispiel des Prozessionswesens im Lichte katholischer Traktatliteratur</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150107/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150107</id>
-    <updated>2025-05-04T22:03:02.940751+00:00</updated>
+    <updated>2025-05-06T04:52:49.558001+00:00</updated>
     <summary>Article by Markus Friedrich
 DOI: https://doi.org/10.14315/arg-2024-1150107</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150107</summary>
     <title>Becoming Protestant: The 1694 Expulsion of Mennonites from Rheydt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150108/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150108</id>
-    <updated>2025-05-04T22:03:02.940757+00:00</updated>
+    <updated>2025-05-06T04:52:49.558010+00:00</updated>
     <summary>Article by Jessica C. Lowe
 DOI: https://doi.org/10.14315/arg-2024-1150108</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150108</summary>
     <title>Die Elisabethkirche in Marburg als Bestattungsort des Theologen und Juristen Theobald Billicanus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150109/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150109</id>
-    <updated>2025-05-04T22:03:02.940763+00:00</updated>
+    <updated>2025-05-06T04:52:49.558016+00:00</updated>
     <summary>Article by Julia Noll
 DOI: https://doi.org/10.14315/arg-2024-1150109</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150109</summary>
     <title>Zur Rekonstruktion der Wittenberger Schlosskirche um 1517</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150110/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150110</id>
-    <updated>2025-05-04T22:03:02.940769+00:00</updated>
+    <updated>2025-05-06T04:52:49.558022+00:00</updated>
     <summary>Article by Alexander Grychtolik, Tobias Knobelsdorf
 DOI: https://doi.org/10.14315/arg-2024-1150110</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.14315/arg-2024-1150110</summary>
     <title>ABSTRACT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/arg-2024-1150111/html"/>
     <id>https://doi.org/10.14315/arg-2024-1150111</id>
-    <updated>2025-05-04T22:03:02.940775+00:00</updated>
+    <updated>2025-05-06T04:52:49.558032+00:00</updated>
     <summary>DOI: https://doi.org/10.14315/arg-2024-1150111</summary>
   </entry>
 </feed>

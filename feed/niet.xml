@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nietzsche-Studien</title>
-  <link href="https://www.degruyterbrill.com/journal/key/niet/53/1/html"/>
-  <updated>2025-05-04T22:10:19.828409+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/niet/53/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/niet.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/niet/html" rel="related"/>
+  <updated>2025-05-06T05:02:48.419212+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/niet.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Nietzsche-Studien</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/niet.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/nietzstu-2024-frontmatter1</id>
-    <updated>2025-05-04T22:10:19.828434+00:00</updated>
+    <updated>2025-05-06T05:02:48.419232+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/nietzstu-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Empedokles in Nietzsches Dramenentwürfen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2024-0010/html"/>
     <id>https://doi.org/10.1515/nietzstu-2024-0010</id>
-    <updated>2025-05-04T22:10:19.828442+00:00</updated>
+    <updated>2025-05-06T05:02:48.419241+00:00</updated>
     <summary>Article by Prudence Audié
 DOI: https://doi.org/10.1515/nietzstu-2024-0010</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/nietzstu-2024-0010</summary>
     <title>Nietzsche’s Portrayal of Pyrrho</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0013/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0013</id>
-    <updated>2025-05-04T22:10:19.828455+00:00</updated>
+    <updated>2025-05-06T05:02:48.419251+00:00</updated>
     <summary>Article by David Hurrell
 DOI: https://doi.org/10.1515/nietzstu-2023-0013</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0013</summary>
     <title>Pregnancy as a Metaphor of Self-Cultivation inDawn</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0005/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0005</id>
-    <updated>2025-05-04T22:10:19.828462+00:00</updated>
+    <updated>2025-05-06T05:02:48.419259+00:00</updated>
     <summary>Article by Katrina Mitcheson
 DOI: https://doi.org/10.1515/nietzstu-2023-0005</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0005</summary>
     <title>The Senses of Nietzsche’s “Complete Irresponsibility”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2022-0030/html"/>
     <id>https://doi.org/10.1515/nietzstu-2022-0030</id>
-    <updated>2025-05-04T22:10:19.828468+00:00</updated>
+    <updated>2025-05-06T05:02:48.419267+00:00</updated>
     <summary>Article by Johan de Jong
 DOI: https://doi.org/10.1515/nietzstu-2022-0030</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/nietzstu-2022-0030</summary>
     <title>La pensée de l’éternel retour : du discours à la doctrine</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0017/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0017</id>
-    <updated>2025-05-04T22:10:19.828475+00:00</updated>
+    <updated>2025-05-06T05:02:48.419275+00:00</updated>
     <summary>Article by Alexandre Fillon
 DOI: https://doi.org/10.1515/nietzstu-2023-0017</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0017</summary>
     <title>Nietzsches Hermeneutik der Einsamkeit. Transformationen im Labyrinth der Wahrheit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0024/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0024</id>
-    <updated>2025-05-04T22:10:19.828481+00:00</updated>
+    <updated>2025-05-06T05:02:48.419282+00:00</updated>
     <summary>Article by Christian Schlenker
 DOI: https://doi.org/10.1515/nietzstu-2023-0024</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0024</summary>
     <title>Nietzsche’s Sorrentino Politics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0027/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0027</id>
-    <updated>2025-05-04T22:10:19.828487+00:00</updated>
+    <updated>2025-05-06T05:02:48.419292+00:00</updated>
     <summary>Article by Peter Durno Murray
 DOI: https://doi.org/10.1515/nietzstu-2023-0027</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0027</summary>
     <title>Subjectivity and the Politics of Self-Cultivation: A Comparative Study of Fichte and Nietzsche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2024-0011/html"/>
     <id>https://doi.org/10.1515/nietzstu-2024-0011</id>
-    <updated>2025-05-04T22:10:19.828494+00:00</updated>
+    <updated>2025-05-06T05:02:48.419299+00:00</updated>
     <summary>Article by James S. Pearson
 DOI: https://doi.org/10.1515/nietzstu-2024-0011</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/nietzstu-2024-0011</summary>
     <title>Nietzsche on Evolution and Progress</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0002/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0002</id>
-    <updated>2025-05-04T22:10:19.828500+00:00</updated>
+    <updated>2025-05-06T05:02:48.419306+00:00</updated>
     <summary>Article by Jordan A. Conrad
 DOI: https://doi.org/10.1515/nietzstu-2023-0002</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0002</summary>
     <title>From Consciousness to Conscience: Cognitive Aspects in Nietzsche’s Genealogy of Conscience</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0032/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0032</id>
-    <updated>2025-05-04T22:10:19.828509+00:00</updated>
+    <updated>2025-05-06T05:02:48.419318+00:00</updated>
     <summary>Article by André Itaparica
 DOI: https://doi.org/10.1515/nietzstu-2023-0032</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0032</summary>
     <title>Chronologie der Manuskripte 1885–89. Nachtrag zu KGW IX</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2024-0001/html"/>
     <id>https://doi.org/10.1515/nietzstu-2024-0001</id>
-    <updated>2025-05-04T22:10:19.828516+00:00</updated>
+    <updated>2025-05-06T05:02:48.419326+00:00</updated>
     <summary>Article by Beat Röllin
 DOI: https://doi.org/10.1515/nietzstu-2024-0001</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/nietzstu-2024-0001</summary>
     <title>Fünf noch unveröffentlichte Briefe Friedrich Nietzsches</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2024-0018/html"/>
     <id>https://doi.org/10.1515/nietzstu-2024-0018</id>
-    <updated>2025-05-04T22:10:19.828523+00:00</updated>
+    <updated>2025-05-06T05:02:48.419335+00:00</updated>
     <summary>Article by Joachim Jung, Mirella Carbone
 DOI: https://doi.org/10.1515/nietzstu-2024-0018</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/nietzstu-2024-0018</summary>
     <title>“Everyone is Furthest from Himself”: An Interpretation of Nietzsche’s Recovery and Inversion of Terence’s Formula “I Am the Closest to Myself”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0039/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0039</id>
-    <updated>2025-05-04T22:10:19.828530+00:00</updated>
+    <updated>2025-05-06T05:02:48.419343+00:00</updated>
     <summary>Article by Nicolas Quérini
 DOI: https://doi.org/10.1515/nietzstu-2023-0039</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0039</summary>
     <title>Alois Riehls Blick auf Friedrich Nietzsche und sein Verhältnis zu Elisabeth Förster-Nietzsche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2024-0002/html"/>
     <id>https://doi.org/10.1515/nietzstu-2024-0002</id>
-    <updated>2025-05-04T22:10:19.828539+00:00</updated>
+    <updated>2025-05-06T05:02:48.419350+00:00</updated>
     <summary>Article by Josef Hlade, Rudolf Meer
 DOI: https://doi.org/10.1515/nietzstu-2024-0002</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/nietzstu-2024-0002</summary>
     <title>NACHWEIS AUS ARISTOTELES,GROSSE ETHIK</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0011/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0011</id>
-    <updated>2025-05-04T22:10:19.828545+00:00</updated>
+    <updated>2025-05-06T05:02:48.419357+00:00</updated>
     <summary>Article by Jing Huang
 DOI: https://doi.org/10.1515/nietzstu-2023-0011</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/nietzstu-2023-0011</summary>
     <title>Neuerscheinungen zu Nietzsches Musikästhetik und Musikphilosophie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/nietzstu-2023-0031/html"/>
     <id>https://doi.org/10.1515/nietzstu-2023-0031</id>
-    <updated>2025-05-04T22:10:19.828552+00:00</updated>
+    <updated>2025-05-06T05:02:48.419364+00:00</updated>
     <summary>Article by Uwe Rauschelbach
 DOI: https://doi.org/10.1515/nietzstu-2023-0031</summary>
   </entry>

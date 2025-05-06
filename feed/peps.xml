@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Peace Economics, Peace Science and Public Policy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/peps/31/1/html"/>
-  <updated>2025-05-04T22:10:59.901034+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/peps/31/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/peps.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/peps/html" rel="related"/>
+  <updated>2025-05-06T05:03:41.872417+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/peps.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Peace Economics, Peace Science and Public Policy</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/peps.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/peps-2025-frontmatter1</id>
-    <updated>2025-05-04T22:10:59.901065+00:00</updated>
+    <updated>2025-05-06T05:03:41.872453+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/peps-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Simultaneous Battles and Sequential Battles in Bargaining Models of War</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0033/html"/>
     <id>https://doi.org/10.1515/peps-2024-0033</id>
-    <updated>2025-05-04T22:10:59.901075+00:00</updated>
+    <updated>2025-05-06T05:03:41.872464+00:00</updated>
     <summary>Article by Keisuke Nakao
 DOI: https://doi.org/10.1515/peps-2024-0033</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/peps-2024-0033</summary>
     <title>The Dynamic Interactions of Hate, Violence and Economic Well-Being</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0035/html"/>
     <id>https://doi.org/10.1515/peps-2024-0035</id>
-    <updated>2025-05-04T22:10:59.901084+00:00</updated>
+    <updated>2025-05-06T05:03:41.872476+00:00</updated>
     <summary>Article by Elie Appelbaum
 DOI: https://doi.org/10.1515/peps-2024-0035</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/peps-2024-0035</summary>
     <title>Unveiling the Impacts of Geopolitical Risk on the Transition to the Decentralized Financial Landscape</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0048/html"/>
     <id>https://doi.org/10.1515/peps-2024-0048</id>
-    <updated>2025-05-04T22:10:59.901097+00:00</updated>
+    <updated>2025-05-06T05:03:41.872485+00:00</updated>
     <summary>Article by Nikolaos A. Kyriazis, Emmanouil M. L. Economou
 DOI: https://doi.org/10.1515/peps-2024-0048</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/peps-2024-0048</summary>
     <title>Trade in the Face of Terror: Examining Turkey’s Export Dynamics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/peps-2024-0023/html"/>
     <id>https://doi.org/10.1515/peps-2024-0023</id>
-    <updated>2025-05-04T22:10:59.901106+00:00</updated>
+    <updated>2025-05-06T05:03:41.872495+00:00</updated>
     <summary>Article by Evrim Zeynep Ünlü
 DOI: https://doi.org/10.1515/peps-2024-0023</summary>
   </entry>

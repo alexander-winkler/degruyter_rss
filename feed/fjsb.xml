@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Forschungsjournal Soziale Bewegungen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/fjsb/38/1/html"/>
-  <updated>2025-05-04T22:05:27.917121+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/fjsb/38/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fjsb.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/fjsb/html" rel="related"/>
+  <updated>2025-05-06T04:56:11.131994+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fjsb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Forschungsjournal Soziale Bewegungen</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fjsb.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-frontmatter1</id>
-    <updated>2025-05-04T22:05:27.917147+00:00</updated>
+    <updated>2025-05-06T04:56:11.132012+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fjsb-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Gegenöffentlichkeit und Alternativmedien</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2001/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2001</id>
-    <updated>2025-05-04T22:05:27.917157+00:00</updated>
+    <updated>2025-05-06T04:56:11.132020+00:00</updated>
     <summary>Article by Fabian Virchow, Ansgar Klein
 DOI: https://doi.org/10.1515/fjsb-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2001</summary>
     <title>Was ist heute noch (Gegen)Öffentlichkeit?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2004/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2004</id>
-    <updated>2025-05-04T22:05:27.917166+00:00</updated>
+    <updated>2025-05-06T04:56:11.132028+00:00</updated>
     <summary>Article by Tanja Thomas
 DOI: https://doi.org/10.1515/fjsb-2025-2004</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2004</summary>
     <title>Intersektional vernetzt, solidarisch, kreativ: Feministische Medienstrategien</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2005/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2005</id>
-    <updated>2025-05-04T22:05:27.917174+00:00</updated>
+    <updated>2025-05-06T04:56:11.132035+00:00</updated>
     <summary>Article by Stine Eckert
 DOI: https://doi.org/10.1515/fjsb-2025-2005</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2005</summary>
     <title>Transformative Medien: Alternative Medien rutschen von links nach rechts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2006/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2006</id>
-    <updated>2025-05-04T22:05:27.917181+00:00</updated>
+    <updated>2025-05-06T04:56:11.132042+00:00</updated>
     <summary>Article by Sandra Jeppesen, iowyth ulthiin, Zeinab Farokhi, Emily Faubert, Kyra Min Poole, Chloe Hays, Christopher Petersen
 DOI: https://doi.org/10.1515/fjsb-2025-2006</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2006</summary>
     <title>Hass-Rede-Freiheit – Medienhandeln der populistischen und extremen Rechten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2007/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2007</id>
-    <updated>2025-05-04T22:05:27.917189+00:00</updated>
+    <updated>2025-05-06T04:56:11.132051+00:00</updated>
     <summary>Article by Fabian Virchow
 DOI: https://doi.org/10.1515/fjsb-2025-2007</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2007</summary>
     <title>Alternativmedientheorie im Wandel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2009/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2009</id>
-    <updated>2025-05-04T22:05:27.917196+00:00</updated>
+    <updated>2025-05-06T04:56:11.132058+00:00</updated>
     <summary>Article by Matthias Kast
 DOI: https://doi.org/10.1515/fjsb-2025-2009</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2009</summary>
     <title>Welche Rolle spielen alternative Medien in Radikalisierungsprozessen?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2010/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2010</id>
-    <updated>2025-05-04T22:05:27.917203+00:00</updated>
+    <updated>2025-05-06T04:56:11.132064+00:00</updated>
     <summary>Article by Dominik Hammer
 DOI: https://doi.org/10.1515/fjsb-2025-2010</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2010</summary>
     <title>„Instandbesetzer der Rundfunkfreiheit“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2011/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2011</id>
-    <updated>2025-05-04T22:05:27.917210+00:00</updated>
+    <updated>2025-05-06T04:56:11.132070+00:00</updated>
     <summary>Article by Jan Bönkost
 DOI: https://doi.org/10.1515/fjsb-2025-2011</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2011</summary>
     <title>Vom Deplatforming zum Replatforming</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2012/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2012</id>
-    <updated>2025-05-04T22:05:27.917218+00:00</updated>
+    <updated>2025-05-06T04:56:11.132077+00:00</updated>
     <summary>Article by Marcel Jaspert, Mona Gusinde
 DOI: https://doi.org/10.1515/fjsb-2025-2012</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2012</summary>
     <title>Neue Rechte, linke Sprache?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2013/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2013</id>
-    <updated>2025-05-04T22:05:27.917226+00:00</updated>
+    <updated>2025-05-06T04:56:11.132091+00:00</updated>
     <summary>Article by Fabian Deus, Friedemann Vogel
 DOI: https://doi.org/10.1515/fjsb-2025-2013</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2013</summary>
     <title>Graphic Liberation oder: 15 Jahre SIGNAL</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2014/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2014</id>
-    <updated>2025-05-04T22:05:27.917233+00:00</updated>
+    <updated>2025-05-06T04:56:11.132097+00:00</updated>
     <summary>Article by Fabian Virchow
 DOI: https://doi.org/10.1515/fjsb-2025-2014</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2014</summary>
     <title>Konflikte um Frieden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2015/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2015</id>
-    <updated>2025-05-04T22:05:27.917240+00:00</updated>
+    <updated>2025-05-06T04:56:11.132103+00:00</updated>
     <summary>Article by Larissa Meier, Priska Daphi
 DOI: https://doi.org/10.1515/fjsb-2025-2015</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2015</summary>
     <title>Zwischen Wissenschaftsfreiheit und Palästina-Solidarität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2016/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2016</id>
-    <updated>2025-05-04T22:05:27.917247+00:00</updated>
+    <updated>2025-05-06T04:56:11.132109+00:00</updated>
     <summary>Article by Lilian Mauthofer, Jannis Julien Grimm
 DOI: https://doi.org/10.1515/fjsb-2025-2016</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2016</summary>
     <title>Wie Massen mobilisiert werden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2017/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2017</id>
-    <updated>2025-05-04T22:05:27.917254+00:00</updated>
+    <updated>2025-05-06T04:56:11.132115+00:00</updated>
     <summary>Article by Hans Jonas Gunzelmann
 DOI: https://doi.org/10.1515/fjsb-2025-2017</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2017</summary>
     <title>Von der flüchtigen Begegnung zur Gemeinschaft – Impulse für Organizing in der Stadt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2018/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2018</id>
-    <updated>2025-05-04T22:05:27.917261+00:00</updated>
+    <updated>2025-05-06T04:56:11.132122+00:00</updated>
     <summary>Article by Gisela Mackenroth
 DOI: https://doi.org/10.1515/fjsb-2025-2018</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/fjsb-2025-2018</summary>
     <title>Protestforschung für Einsteiger*innen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fjsb-2025-2019/html"/>
     <id>https://doi.org/10.1515/fjsb-2025-2019</id>
-    <updated>2025-05-04T22:05:27.917268+00:00</updated>
+    <updated>2025-05-06T04:56:11.132128+00:00</updated>
     <summary>Article by Sophie Uhl
 DOI: https://doi.org/10.1515/fjsb-2025-2019</summary>
   </entry>

@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Concrete Operators</title>
-  <link href="https://www.degruyterbrill.com/journal/key/conop/11/1/html"/>
-  <updated>2025-05-04T22:04:12.430402+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/conop/11/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/conop.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/conop/html" rel="related"/>
+  <updated>2025-05-06T04:54:24.661828+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/conop.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Concrete Operators</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/conop.xml" type="application/rss+xml"/>
   <entry>
     <title>Study of weighted elliptic composition operators on the unit ball of ℂN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/conop-2024-0001/html"/>
     <id>https://doi.org/10.1515/conop-2024-0001</id>
-    <updated>2025-05-04T22:04:12.430431+00:00</updated>
+    <updated>2025-05-06T04:54:24.661870+00:00</updated>
     <summary>Article by Lucas Oger
 DOI: https://doi.org/10.1515/conop-2024-0001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/conop-2024-0001</summary>
     <title>Idempotent vector spaces and their linear transformations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/conop-2024-0003/html"/>
     <id>https://doi.org/10.1515/conop-2024-0003</id>
-    <updated>2025-05-04T22:04:12.430441+00:00</updated>
+    <updated>2025-05-06T04:54:24.661891+00:00</updated>
     <summary>Article by William Johnston, Rebecca G. Wahl
 DOI: https://doi.org/10.1515/conop-2024-0003</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/conop-2024-0003</summary>
     <title>Commutants of the sum of two quasihomogeneous Toeplitz operators</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/conop-2024-0005/html"/>
     <id>https://doi.org/10.1515/conop-2024-0005</id>
-    <updated>2025-05-04T22:04:12.430449+00:00</updated>
+    <updated>2025-05-06T04:54:24.661902+00:00</updated>
     <summary>Article by Aissa Bouhali, Issam Louhichi
 DOI: https://doi.org/10.1515/conop-2024-0005</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/conop-2024-0005</summary>
     <title>Crouzeix's conjecture, compressions of shifts, and classes of nilpotent matrices</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/conop-2024-0004/html"/>
     <id>https://doi.org/10.1515/conop-2024-0004</id>
-    <updated>2025-05-04T22:04:12.430456+00:00</updated>
+    <updated>2025-05-06T04:54:24.661913+00:00</updated>
     <summary>Article by Kelly Bickel, Georgia Corbett, Annie Glenning, Changkun Guan, Martin Vollmayr-Lee
 DOI: https://doi.org/10.1515/conop-2024-0004</summary>
   </entry>

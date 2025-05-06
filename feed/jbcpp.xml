@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Basic and Clinical Physiology and Pharmacology</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jbcpp/36/1/html"/>
-  <updated>2025-05-04T22:07:22.426358+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jbcpp/36/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbcpp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jbcpp/html" rel="related"/>
+  <updated>2025-05-06T04:58:45.300725+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbcpp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Basic and Clinical Physiology and Pharmacology</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbcpp.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jbcpp-2025-frontmatter1</id>
-    <updated>2025-05-04T22:07:22.426391+00:00</updated>
+    <updated>2025-05-06T04:58:45.300756+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jbcpp-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Quality by design: how poor adherence to guidelines holds back urological app innovation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0205/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0205</id>
-    <updated>2025-05-04T22:07:22.426401+00:00</updated>
+    <updated>2025-05-06T04:58:45.300769+00:00</updated>
     <summary>Article by Emanuele Capasso, Mariagrazia Marisei, Ferdinando Fusco, Enrico Sicignano, Felice Crocetto
 DOI: https://doi.org/10.1515/jbcpp-2024-0205</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jbcpp-2024-0205</summary>
     <title>Efficacy and safety of resmetirom in MASLD and MASH: network meta-analysis of randomized clinical trials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0140/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0140</id>
-    <updated>2025-05-04T22:07:22.426413+00:00</updated>
+    <updated>2025-05-06T04:58:45.300779+00:00</updated>
     <summary>Article by Hazem Ayesh, Azizullah Beran, Sajida Suhail, Suhail Ayesh, Kevin Niswender
 DOI: https://doi.org/10.1515/jbcpp-2024-0140</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jbcpp-2024-0140</summary>
     <title>Exploring the therapeutic potential of GLP-1 receptor agonists in the management of obstructive sleep apnea: a comprehensive review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0193/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0193</id>
-    <updated>2025-05-04T22:07:22.426422+00:00</updated>
+    <updated>2025-05-06T04:58:45.300788+00:00</updated>
     <summary>Article by Amruth Akhil Alluri, Merin Mohan Kurien, Nikhil Patel Pokar, Alekhya Madarapu, Sreeja Sadam, Nikhitha Puvvala, Rajmohan Seetharaman
 DOI: https://doi.org/10.1515/jbcpp-2024-0193</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jbcpp-2024-0193</summary>
     <title>A cross-sectional study on the effects of physical activity on hand grip strength in type 2 diabetes mellitus patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0176/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0176</id>
-    <updated>2025-05-04T22:07:22.426431+00:00</updated>
+    <updated>2025-05-06T04:58:45.300799+00:00</updated>
     <summary>Article by Praveena Meyyazhagan, Thamaraiselvi Kanagaraj, Nachal Annamalai
 DOI: https://doi.org/10.1515/jbcpp-2024-0176</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jbcpp-2024-0176</summary>
     <title>A cross sectional study on effect of glycaemic status and duration of type II diabetes mellitus on the pulmonary function</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0190/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0190</id>
-    <updated>2025-05-04T22:07:22.426440+00:00</updated>
+    <updated>2025-05-06T04:58:45.300807+00:00</updated>
     <summary>Article by Praveena Meyyazhagan, Thamaraiselvi Kanagaraj, Nachal Annamalai
 DOI: https://doi.org/10.1515/jbcpp-2024-0190</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jbcpp-2024-0190</summary>
     <title>Risk factor assessment for post-thrombolytic coronary angiogram normalcy in young myocardial infarction patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0064/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0064</id>
-    <updated>2025-05-04T22:07:22.426448+00:00</updated>
+    <updated>2025-05-06T04:58:45.300817+00:00</updated>
     <summary>Article by Venkatramani Mahadevan, Abirami Karuppiah, Shravan Venkatraman
 DOI: https://doi.org/10.1515/jbcpp-2024-0064</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jbcpp-2024-0064</summary>
     <title>Evaluation of the serum level of CTRP-3 and CTRP-6 in patients with Hashimoto’s disease and correlation with thyroid hormones and lipid profile</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbcpp-2024-0060/html"/>
     <id>https://doi.org/10.1515/jbcpp-2024-0060</id>
-    <updated>2025-05-04T22:07:22.426458+00:00</updated>
+    <updated>2025-05-06T04:58:45.300825+00:00</updated>
     <summary>Article by Rafal Sameer Al-Abboody, Nadia Heydari, Mohsen Saravani, Shahin Nosaratzehi, Hamideh Akbari, Seyyed Mehdi Jafari
 DOI: https://doi.org/10.1515/jbcpp-2024-0060</summary>
   </entry>

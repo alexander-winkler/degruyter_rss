@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Comparative Southeast European Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/soeu/73/1/html"/>
-  <updated>2025-05-04T22:12:31.707562+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/soeu/73/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soeu.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/soeu/html" rel="related"/>
+  <updated>2025-05-06T05:05:49.388686+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soeu.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Comparative Southeast European Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/soeu.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/soeu-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:31.707606+00:00</updated>
+    <updated>2025-05-06T05:05:49.388719+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/soeu-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Editorial SOEU</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2025-2001/html"/>
     <id>https://doi.org/10.1515/soeu-2025-2001</id>
-    <updated>2025-05-04T22:12:31.707617+00:00</updated>
+    <updated>2025-05-06T05:05:49.388729+00:00</updated>
     <summary>Article by Ulf Brunnbauer, Sabine Rutar
 DOI: https://doi.org/10.1515/soeu-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/soeu-2025-2001</summary>
     <title>The United Nations General Assembly Resolution on Srebrenica and the Struggle Against Genocide Denial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2025-0001/html"/>
     <id>https://doi.org/10.1515/soeu-2025-0001</id>
-    <updated>2025-05-04T22:12:31.707628+00:00</updated>
+    <updated>2025-05-06T05:05:49.388742+00:00</updated>
     <summary>Article by Ben Gerstein, Hikmet Karčić
 DOI: https://doi.org/10.1515/soeu-2025-0001</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/soeu-2025-0001</summary>
     <title>Central South Slavic Linguistic Taxonomies and the Language/Dialect Dichotomy: Rhetorical Strategies and Faulty Epistemologies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2024-0047/html"/>
     <id>https://doi.org/10.1515/soeu-2024-0047</id>
-    <updated>2025-05-04T22:12:31.707639+00:00</updated>
+    <updated>2025-05-06T05:05:49.388753+00:00</updated>
     <summary>Article by Alexander Maxwell, Vuk Vukotić, Susie Klaver
 DOI: https://doi.org/10.1515/soeu-2024-0047</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/soeu-2024-0047</summary>
     <title>When Drniš Came to the Sea: Croatian Nationalism, Dalmatian Regionalism, and the Politics of Identity, 1990–2001</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2024-0045/html"/>
     <id>https://doi.org/10.1515/soeu-2024-0045</id>
-    <updated>2025-05-04T22:12:31.707648+00:00</updated>
+    <updated>2025-05-06T05:05:49.388764+00:00</updated>
     <summary>Article by John E. Ashbrook
 DOI: https://doi.org/10.1515/soeu-2024-0045</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/soeu-2024-0045</summary>
     <title>Healthcare Workforce Shortages: Evidence from Communist and Postcommunist Bulgaria</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2023-0017/html"/>
     <id>https://doi.org/10.1515/soeu-2023-0017</id>
-    <updated>2025-05-04T22:12:31.707656+00:00</updated>
+    <updated>2025-05-06T05:05:49.388772+00:00</updated>
     <summary>Article by Ralitsa I. Simeonova-Ganeva, Kaloyan I. Ganev
 DOI: https://doi.org/10.1515/soeu-2023-0017</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/soeu-2023-0017</summary>
     <title>Serbia’s New Student Movement: A Conversation with Dubravka Stojanović</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2025-0016/html"/>
     <id>https://doi.org/10.1515/soeu-2025-0016</id>
-    <updated>2025-05-04T22:12:31.707665+00:00</updated>
+    <updated>2025-05-06T05:05:49.388781+00:00</updated>
     <summary>Article by Ivana Dinić
 DOI: https://doi.org/10.1515/soeu-2025-0016</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/soeu-2025-0016</summary>
     <title>Roberto Belloni:The Rise and Fall of Peacebuilding in the Balkans</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2025-0011/html"/>
     <id>https://doi.org/10.1515/soeu-2025-0011</id>
-    <updated>2025-05-04T22:12:31.707675+00:00</updated>
+    <updated>2025-05-06T05:05:49.388794+00:00</updated>
     <summary>Article by Nicolas Moll
 DOI: https://doi.org/10.1515/soeu-2025-0011</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/soeu-2025-0011</summary>
     <title>Agustín Cosovschi:Les sciences sociales face à la crise: Une histoire intellectuelle de la dissolution yougoslave (1980–1995)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2024-0053/html"/>
     <id>https://doi.org/10.1515/soeu-2024-0053</id>
-    <updated>2025-05-04T22:12:31.707684+00:00</updated>
+    <updated>2025-05-06T05:05:49.388805+00:00</updated>
     <summary>Article by Adela Hîncu
 DOI: https://doi.org/10.1515/soeu-2024-0053</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/soeu-2024-0053</summary>
     <title>Anastasiia Kudlenko:Security Governance in Times of Complexity. The EU and Security Sector Reform in the Western Balkans, 1991–2013</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2025-0009/html"/>
     <id>https://doi.org/10.1515/soeu-2025-0009</id>
-    <updated>2025-05-04T22:12:31.707700+00:00</updated>
+    <updated>2025-05-06T05:05:49.388813+00:00</updated>
     <summary>Article by Uroš Popadić
 DOI: https://doi.org/10.1515/soeu-2025-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/soeu-2025-0009</summary>
     <title>Liridon Lika:Kosovo’s Foreign Policy and Bilateral Relations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/soeu-2024-0039/html"/>
     <id>https://doi.org/10.1515/soeu-2024-0039</id>
-    <updated>2025-05-04T22:12:31.707708+00:00</updated>
+    <updated>2025-05-06T05:05:49.388829+00:00</updated>
     <summary>Article by Jakob Weizman
 DOI: https://doi.org/10.1515/soeu-2024-0039</summary>
   </entry>

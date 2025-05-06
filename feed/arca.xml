@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>arcadia</title>
-  <link href="https://www.degruyterbrill.com/journal/key/arca/59/2/html"/>
-  <updated>2025-05-04T22:02:59.974542+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/arca/59/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arca.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/arca/html" rel="related"/>
+  <updated>2025-05-06T04:52:45.241738+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arca.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in arcadia</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/arca.xml" type="application/rss+xml"/>
   <entry>
     <title>Distant-Reading Communities: Monolingualisation in Fin-de-Siècle European Literary Historiography</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2011/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2011</id>
-    <updated>2025-05-04T22:02:59.974568+00:00</updated>
+    <updated>2025-05-06T04:52:45.241771+00:00</updated>
     <summary>Article by Anne-Marie Millim
 DOI: https://doi.org/10.1515/arcadia-2024-2011</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/arcadia-2024-2011</summary>
     <title>„Eine Sprache ausstellen“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2013/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2013</id>
-    <updated>2025-05-04T22:02:59.974578+00:00</updated>
+    <updated>2025-05-06T04:52:45.241784+00:00</updated>
     <summary>Article by Jana Maria Weiß
 DOI: https://doi.org/10.1515/arcadia-2024-2013</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/arcadia-2024-2013</summary>
     <title>Transtextual Paths:Dream of the Red Chamberas a Source of Borgesian Labyrinth</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2009/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2009</id>
-    <updated>2025-05-04T22:02:59.974585+00:00</updated>
+    <updated>2025-05-06T04:52:45.241796+00:00</updated>
     <summary>Article by Wenxin Liang
 DOI: https://doi.org/10.1515/arcadia-2024-2009</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/arcadia-2024-2009</summary>
     <title>Indigenous Feminism in Environmental Sustainability: Zora Neale Hurston’sDust Tracks on A Road(1942)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2010/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2010</id>
-    <updated>2025-05-04T22:02:59.974593+00:00</updated>
+    <updated>2025-05-06T04:52:45.241807+00:00</updated>
     <summary>Article by Aisha Sadiq
 DOI: https://doi.org/10.1515/arcadia-2024-2010</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/arcadia-2024-2010</summary>
     <title>Felt Anticipation: Rhythm, Expectation, and Emotion in Friederike Mayröcker’s Poetic Spoken Atmospheres</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2008/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2008</id>
-    <updated>2025-05-04T22:02:59.974599+00:00</updated>
+    <updated>2025-05-06T04:52:45.241815+00:00</updated>
     <summary>Article by Víctor Bermúdez
 DOI: https://doi.org/10.1515/arcadia-2024-2008</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/arcadia-2024-2008</summary>
     <title>Look Back in Hunger: The Metaphorization of Women as Food in Tim O’Brien’sTomcat in Love</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2007/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2007</id>
-    <updated>2025-05-04T22:02:59.974607+00:00</updated>
+    <updated>2025-05-06T04:52:45.241824+00:00</updated>
     <summary>Article by Noureddine Friji
 DOI: https://doi.org/10.1515/arcadia-2024-2007</summary>
   </entry>
@@ -63,14 +60,14 @@ DOI: https://doi.org/10.1515/arcadia-2024-2007</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-frontmatter2</id>
-    <updated>2025-05-04T22:02:59.974614+00:00</updated>
+    <updated>2025-05-06T04:52:45.241836+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/arcadia-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Sarah Maria Teresa Goeth:Analogie zwischen Wissenschaft und Ästhetik. Eine Vermittlungsfigur der Moderne bei Kant, Novalis und Goethe. Berlin und Boston: De Gruyter, 2023. 377 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/arcadia-2024-2012/html"/>
     <id>https://doi.org/10.1515/arcadia-2024-2012</id>
-    <updated>2025-05-04T22:02:59.974621+00:00</updated>
+    <updated>2025-05-06T04:52:45.241844+00:00</updated>
     <summary>Article by Pauline Julia Preisler
 DOI: https://doi.org/10.1515/arcadia-2024-2012</summary>
   </entry>

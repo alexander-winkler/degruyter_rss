@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Heterocyclic Communications</title>
-  <link href="https://www.degruyterbrill.com/journal/key/hc/31/1/html"/>
-  <updated>2025-05-04T22:06:05.509741+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/hc/31/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hc.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/hc/html" rel="related"/>
+  <updated>2025-05-06T04:57:02.342019+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hc.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Heterocyclic Communications</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hc.xml" type="application/rss+xml"/>
   <entry>
     <title>Synthesis, activity exploration, molecular docking, and affinity assessment of theophylline derivatives as inhibitors targeting IDO1</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hc-2025-0180/html"/>
     <id>https://doi.org/10.1515/hc-2025-0180</id>
-    <updated>2025-05-04T22:06:05.509775+00:00</updated>
+    <updated>2025-05-06T04:57:02.342065+00:00</updated>
     <summary>Article by Ziyuan Wu, Songmao Liang, Shunhua Hu, Yimian Wang, Long-Fei Mao, Xixi Hou, Jianxue Yang
 DOI: https://doi.org/10.1515/hc-2025-0180</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/hc-2025-0180</summary>
     <title>Development of heterocyclic-based anticancer agents: A comprehensive review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hc-2022-0179/html"/>
     <id>https://doi.org/10.1515/hc-2022-0179</id>
-    <updated>2025-05-04T22:06:05.509787+00:00</updated>
+    <updated>2025-05-06T04:57:02.342082+00:00</updated>
     <summary>Article by Mohammed Hadi Ali Al-Jumaili, Ekhlas Aziz Bakr, Mohanad A. Huessien, Ahmed Solaiman Hamed, Mohammed J. Muhaidi
 DOI: https://doi.org/10.1515/hc-2022-0179</summary>
   </entry>

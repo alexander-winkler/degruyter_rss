@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Religionswissenschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfr/32/2/html"/>
-  <updated>2025-05-04T22:13:39.266161+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfr/32/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfr/html" rel="related"/>
+  <updated>2025-05-06T05:07:24.136610+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Religionswissenschaft</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml" type="application/rss+xml"/>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0031/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0031</id>
-    <updated>2025-05-04T22:13:39.266187+00:00</updated>
+    <updated>2025-05-06T05:07:24.136633+00:00</updated>
     <summary>Article by Anne Koch, Sebastian Schüler
 DOI: https://doi.org/10.1515/zfr-2024-0031</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0031</summary>
     <title>Zwi Werblowsky, the IAHR, andReligionswissenschaftas ‘Basic Science’</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0030/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0030</id>
-    <updated>2025-05-04T22:13:39.266196+00:00</updated>
+    <updated>2025-05-06T05:07:24.136646+00:00</updated>
     <summary>Article by Donald Wiebe
 DOI: https://doi.org/10.1515/zfr-2024-0030</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0030</summary>
     <title>Religionsmusikologie als Teildisziplin der Religionswissenschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0018/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0018</id>
-    <updated>2025-05-04T22:13:39.266203+00:00</updated>
+    <updated>2025-05-06T05:07:24.136654+00:00</updated>
     <summary>Article by Clara Ragnitz
 DOI: https://doi.org/10.1515/zfr-2024-0018</summary>
   </entry>
@@ -39,21 +36,21 @@ DOI: https://doi.org/10.1515/zfr-2024-0018</summary>
     <title>English Summaries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0032/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0032</id>
-    <updated>2025-05-04T22:13:39.266209+00:00</updated>
+    <updated>2025-05-06T05:07:24.136663+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfr-2024-0032</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/zfr-2024-frontmatter2</id>
-    <updated>2025-05-04T22:13:39.266215+00:00</updated>
+    <updated>2025-05-06T05:07:24.136670+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfr-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Monika Amsler. 2023.The Babylonian Talmud and Late Antique Book Culture. Cambridge: Cambridge University Press. 280 Seiten.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0016/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0016</id>
-    <updated>2025-05-04T22:13:39.266225+00:00</updated>
+    <updated>2025-05-06T05:07:24.136677+00:00</updated>
     <summary>Article by Jan Heilmann
 DOI: https://doi.org/10.1515/zfr-2024-0016</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0016</summary>
     <title>Dietrich Jung, Kirstine Sinclair, eds.2020.Muslim Subjectivities in Global Modernity. Islamic Traditions and the Construction of Modern Muslim Identities.International Studies in Religion and Society 35. Leiden, Boston: Brill. 300 Seiten.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0022/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0022</id>
-    <updated>2025-05-04T22:13:39.266231+00:00</updated>
+    <updated>2025-05-06T05:07:24.136685+00:00</updated>
     <summary>Article by Carmen Becker
 DOI: https://doi.org/10.1515/zfr-2024-0022</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0022</summary>
     <title>Robert Dodaro OSA, Cornelius Mayer und Christof Müller, Hg. 1995–2024.Augustinus-Lexikon. 5 Bände. Basel: Schwabe.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0021/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0021</id>
-    <updated>2025-05-04T22:13:39.266238+00:00</updated>
+    <updated>2025-05-06T05:07:24.136692+00:00</updated>
     <summary>Article by Christoph Auffarth
 DOI: https://doi.org/10.1515/zfr-2024-0021</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0021</summary>
     <title>Helmut Zander. 2019.Die Anthroposophie. Rudolf Steiners Ideen zwischen Esoterik, Weleda, Demeter und Waldorfpädagogik.Paderborn: Ferdinand Schöningh. 287 Seiten.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0015/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0015</id>
-    <updated>2025-05-04T22:13:39.266244+00:00</updated>
+    <updated>2025-05-06T05:07:24.136700+00:00</updated>
     <summary>Article by Dirk Schuster
 DOI: https://doi.org/10.1515/zfr-2024-0015</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0015</summary>
     <title>Ulrich Berner.2020.Religionswissenschaft (historisch orientiert).Basiswissen Theologie und Religionswissenschaft. Göttingen: Vandenhoeck &amp; Ruprecht. 424 Seit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0020/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0020</id>
-    <updated>2025-05-04T22:13:39.266255+00:00</updated>
+    <updated>2025-05-06T05:07:24.136708+00:00</updated>
     <summary>Article by Jörg Rüpke
 DOI: https://doi.org/10.1515/zfr-2024-0020</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0020</summary>
     <title>Hubert Knoblauch, Hg. 2020.Die Refiguration der Religion. Perspektiven der Religionssoziologie und Religionswissenschaft.Weinheim: Beltz Juventa. 228 Seiten.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0019/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0019</id>
-    <updated>2025-05-04T22:13:39.266261+00:00</updated>
+    <updated>2025-05-06T05:07:24.136715+00:00</updated>
     <summary>Article by Dirk Schuster
 DOI: https://doi.org/10.1515/zfr-2024-0019</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/zfr-2024-0019</summary>
     <title>Christiane Nagel.Religionswissenschaft und Theologie. Disziplinen diskursiv denken. Theologische Bibliothek Töpelmann 204. Berlin, Boston: De Gruyter, 2023.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0029/html"/>
     <id>https://doi.org/10.1515/zfr-2024-0029</id>
-    <updated>2025-05-04T22:13:39.266267+00:00</updated>
+    <updated>2025-05-06T05:07:24.136723+00:00</updated>
     <summary>Article by Isabella Schwaderer
 DOI: https://doi.org/10.1515/zfr-2024-0029</summary>
   </entry>

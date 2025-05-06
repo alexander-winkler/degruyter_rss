@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Health </title>
-  <link href="https://www.degruyterbrill.com/journal/key/ohe/6/1/html"/>
-  <updated>2025-05-04T22:10:35.112639+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ohe/6/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ohe.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ohe/html" rel="related"/>
+  <updated>2025-05-06T05:03:08.628101+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ohe.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Health </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ohe.xml" type="application/rss+xml"/>
   <entry>
     <title>Relationship between body mass index and quality of life, use of dietary and physical activity self-management strategies, and mental health in individuals with polycystic ovary syndrome</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2023-0055/html"/>
     <id>https://doi.org/10.1515/ohe-2023-0055</id>
-    <updated>2025-05-04T22:10:35.112678+00:00</updated>
+    <updated>2025-05-06T05:03:08.628132+00:00</updated>
     <summary>Article by Melissa Masters, Nels Grevstad
 DOI: https://doi.org/10.1515/ohe-2023-0055</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/ohe-2023-0055</summary>
     <title>Evaluating the challenges and opportunities for diabetes care policy in Nigeria</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2023-0056/html"/>
     <id>https://doi.org/10.1515/ohe-2023-0056</id>
-    <updated>2025-05-04T22:10:35.112691+00:00</updated>
+    <updated>2025-05-06T05:03:08.628145+00:00</updated>
     <summary>Article by Olalekan Isaac Olatunde
 DOI: https://doi.org/10.1515/ohe-2023-0056</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/ohe-2023-0056</summary>
     <title>Body mass index is associated with subjective workload and REM sleep timing in young healthy adults</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0061/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0061</id>
-    <updated>2025-05-04T22:10:35.112700+00:00</updated>
+    <updated>2025-05-06T05:03:08.628153+00:00</updated>
     <summary>Article by Katharina Novacic, Claudia Pischke, Charlotte von Gall
 DOI: https://doi.org/10.1515/ohe-2025-0061</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0061</summary>
     <title>Prediction of hypoglycaemia in subjects with type 1 diabetes during physical activity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0060/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0060</id>
-    <updated>2025-05-04T22:10:35.112709+00:00</updated>
+    <updated>2025-05-06T05:03:08.628162+00:00</updated>
     <summary>Article by Ornella Moro, Giovanni Sebastiani
 DOI: https://doi.org/10.1515/ohe-2025-0060</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0060</summary>
     <title>Investigation by the Epworth Sleepiness Scale of daytime sleepiness in professional drivers during work hours</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0062/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0062</id>
-    <updated>2025-05-04T22:10:35.112718+00:00</updated>
+    <updated>2025-05-06T05:03:08.628169+00:00</updated>
     <summary>Article by Konstantinos Ntelezos, Marianna-Foteini Dafni, Georgia Kyriakopoulou, Aspasia Maria Tsamourgeli, Marianna Karavasili, Dimitrios Delitzakis, Ioannis-Dimopoulos-Chountis, Ilias Panagiotidis
 DOI: https://doi.org/10.1515/ohe-2025-0062</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0062</summary>
     <title>Understanding public awareness of fall epidemiology in the United States: A national cross-sectional study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0063/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0063</id>
-    <updated>2025-05-04T22:10:35.112727+00:00</updated>
+    <updated>2025-05-06T05:03:08.628178+00:00</updated>
     <summary>Article by Elizabeth Sheridan, Jessica M. Wiseman, Carmen E. Quatman
 DOI: https://doi.org/10.1515/ohe-2025-0063</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0063</summary>
     <title>Impact of Covid-19 stress on urban poor in Sylhet Division, Bangladesh: A perception-based assessment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0066/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0066</id>
-    <updated>2025-05-04T22:10:35.112735+00:00</updated>
+    <updated>2025-05-06T05:03:08.628185+00:00</updated>
     <summary>Article by Md Azizul Baten, Abdullah Al Zabir
 DOI: https://doi.org/10.1515/ohe-2025-0066</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0066</summary>
     <title>The management of body dysmorphic disorder in adolescents: A systematic literature review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0057/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0057</id>
-    <updated>2025-05-04T22:10:35.112744+00:00</updated>
+    <updated>2025-05-06T05:03:08.628192+00:00</updated>
     <summary>Article by Tania Ghosh, Erik Blair
 DOI: https://doi.org/10.1515/ohe-2025-0057</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0057</summary>
     <title>Navigating challenges and maximizing potential: Handling complications and constraints in minimally invasive surgery</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0059/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0059</id>
-    <updated>2025-05-04T22:10:35.112752+00:00</updated>
+    <updated>2025-05-06T05:03:08.628200+00:00</updated>
     <summary>Article by Zulfkar Qadrie, Mudasir Maqbool, Mohd Altaf Dar, Afshana Qadir
 DOI: https://doi.org/10.1515/ohe-2025-0059</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0059</summary>
     <title>Examining the scarcity of oncology healthcare providers in cancer management: A case study of the Eastern Cape Province, South Africa</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0058/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0058</id>
-    <updated>2025-05-04T22:10:35.112767+00:00</updated>
+    <updated>2025-05-06T05:03:08.628214+00:00</updated>
     <summary>Article by Michael Mncedisi Willie
 DOI: https://doi.org/10.1515/ohe-2025-0058</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/ohe-2025-0058</summary>
     <title>Experience of patients in Germany with the post-COVID-19 vaccination syndrome</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ohe-2025-0065/html"/>
     <id>https://doi.org/10.1515/ohe-2025-0065</id>
-    <updated>2025-05-04T22:10:35.112775+00:00</updated>
+    <updated>2025-05-06T05:03:08.628221+00:00</updated>
     <summary>Article by Kerstin Wüstner
 DOI: https://doi.org/10.1515/ohe-2025-0065</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Discrete Mathematics and Applications</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dma/35/2/html"/>
-  <updated>2025-05-04T22:04:41.732678+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dma/35/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dma/html" rel="related"/>
+  <updated>2025-05-06T04:55:05.955923+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Discrete Mathematics and Applications</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/dma-2025-frontmatter2</id>
-    <updated>2025-05-04T22:04:41.732706+00:00</updated>
+    <updated>2025-05-06T04:55:05.955948+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dma-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>On cosets in the direct product of groups whose images by bijective mappings from factors to groups are cosets</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0004/html"/>
     <id>https://doi.org/10.1515/dma-2025-0004</id>
-    <updated>2025-05-04T22:04:41.732711+00:00</updated>
+    <updated>2025-05-06T04:55:05.955959+00:00</updated>
     <summary>Article by Dmitry A. Burov
 DOI: https://doi.org/10.1515/dma-2025-0004</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/dma-2025-0004</summary>
     <title>On the linear disjunctive decomposition of ap-logic function into a sum of functions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0005/html"/>
     <id>https://doi.org/10.1515/dma-2025-0005</id>
-    <updated>2025-05-04T22:04:41.732717+00:00</updated>
+    <updated>2025-05-06T04:55:05.955969+00:00</updated>
     <summary>Article by Aleksandr V. Cheremushkin
 DOI: https://doi.org/10.1515/dma-2025-0005</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/dma-2025-0005</summary>
     <title>Hadamard square of series connected linear codes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0006/html"/>
     <id>https://doi.org/10.1515/dma-2025-0006</id>
-    <updated>2025-05-04T22:04:41.732724+00:00</updated>
+    <updated>2025-05-06T04:55:05.955977+00:00</updated>
     <summary>Article by Ivan V. Chizhov
 DOI: https://doi.org/10.1515/dma-2025-0006</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/dma-2025-0006</summary>
     <title>New bounds for the nonlinearity of PN functions and APN functions over finite fields</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0007/html"/>
     <id>https://doi.org/10.1515/dma-2025-0007</id>
-    <updated>2025-05-04T22:04:41.732728+00:00</updated>
+    <updated>2025-05-06T04:55:05.955986+00:00</updated>
     <summary>Article by Vladimir G. Ryabov
 DOI: https://doi.org/10.1515/dma-2025-0007</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/dma-2025-0007</summary>
     <title>Describing the closed class of polynomial functions modulo a power of a prime number by a relation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0008/html"/>
     <id>https://doi.org/10.1515/dma-2025-0008</id>
-    <updated>2025-05-04T22:04:41.732732+00:00</updated>
+    <updated>2025-05-06T04:55:05.955996+00:00</updated>
     <summary>Article by Svetlana N. Selezneva
 DOI: https://doi.org/10.1515/dma-2025-0008</summary>
   </entry>

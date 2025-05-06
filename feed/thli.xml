@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Theoretical Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/thli/50/3-4/html"/>
-  <updated>2025-05-04T22:13:01.196012+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/thli/50/3-4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/thli.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/thli/html" rel="related"/>
+  <updated>2025-05-06T05:06:30.754200+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/thli.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Theoretical Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/thli.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-frontmatter3-4/html"/>
     <id>https://doi.org/10.1515/tl-2024-frontmatter3-4</id>
-    <updated>2025-05-04T22:13:01.196040+00:00</updated>
+    <updated>2025-05-06T05:06:30.754218+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/tl-2024-frontmatter3-4</summary>
   </entry>
   <entry>
     <title>Speaker judgments alone cannot diagnose syllable structure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2013/html"/>
     <id>https://doi.org/10.1515/tl-2024-2013</id>
-    <updated>2025-05-04T22:13:01.196049+00:00</updated>
+    <updated>2025-05-06T05:06:30.754224+00:00</updated>
     <summary>Article by Benjamin Macaulay
 DOI: https://doi.org/10.1515/tl-2024-2013</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/tl-2024-2013</summary>
     <title>Dismantling the universal prosodic hierarchy with possible evidence for the absence of syllables</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2014/html"/>
     <id>https://doi.org/10.1515/tl-2024-2014</id>
-    <updated>2025-05-04T22:13:01.196058+00:00</updated>
+    <updated>2025-05-06T05:06:30.754230+00:00</updated>
     <summary>Article by Juliette Blevins
 DOI: https://doi.org/10.1515/tl-2024-2014</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/tl-2024-2014</summary>
     <title>Elicitation tasks, language contact, and syllable structure in Budai Rukai</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2015/html"/>
     <id>https://doi.org/10.1515/tl-2024-2015</id>
-    <updated>2025-05-04T22:13:01.196066+00:00</updated>
+    <updated>2025-05-06T05:06:30.754235+00:00</updated>
     <summary>Article by Chun-Mei Chen
 DOI: https://doi.org/10.1515/tl-2024-2015</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/tl-2024-2015</summary>
     <title>‘Direct’ elicitation and phonological argumentation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2016/html"/>
     <id>https://doi.org/10.1515/tl-2024-2016</id>
-    <updated>2025-05-04T22:13:01.196074+00:00</updated>
+    <updated>2025-05-06T05:06:30.754240+00:00</updated>
     <summary>Article by Nikolaus P. Himmelmann
 DOI: https://doi.org/10.1515/tl-2024-2016</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/tl-2024-2016</summary>
     <title>Causes and effects of misreported syllable structures</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2017/html"/>
     <id>https://doi.org/10.1515/tl-2024-2017</id>
-    <updated>2025-05-04T22:13:01.196081+00:00</updated>
+    <updated>2025-05-06T05:06:30.754246+00:00</updated>
     <summary>Article by Laurence Labrune
 DOI: https://doi.org/10.1515/tl-2024-2017</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/tl-2024-2017</summary>
     <title>Intuition, intonation, inconsistency, and innateness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2018/html"/>
     <id>https://doi.org/10.1515/tl-2024-2018</id>
-    <updated>2025-05-04T22:13:01.196088+00:00</updated>
+    <updated>2025-05-06T05:06:30.754253+00:00</updated>
     <summary>Article by James Myers
 DOI: https://doi.org/10.1515/tl-2024-2018</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/tl-2024-2018</summary>
     <title>The reality of Rukai Glides</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2019/html"/>
     <id>https://doi.org/10.1515/tl-2024-2019</id>
-    <updated>2025-05-04T22:13:01.196095+00:00</updated>
+    <updated>2025-05-06T05:06:30.754261+00:00</updated>
     <summary>Article by Alexander D. Smith
 DOI: https://doi.org/10.1515/tl-2024-2019</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/tl-2024-2019</summary>
     <title>Native speakers and syllable structure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2020/html"/>
     <id>https://doi.org/10.1515/tl-2024-2020</id>
-    <updated>2025-05-04T22:13:01.196102+00:00</updated>
+    <updated>2025-05-06T05:06:30.754268+00:00</updated>
     <summary>Article by Péter Szigetvári
 DOI: https://doi.org/10.1515/tl-2024-2020</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/tl-2024-2020</summary>
     <title>Three worlds of variables to control in linguistics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2021/html"/>
     <id>https://doi.org/10.1515/tl-2024-2021</id>
-    <updated>2025-05-04T22:13:01.196109+00:00</updated>
+    <updated>2025-05-06T05:06:30.754275+00:00</updated>
     <summary>Article by Chunlei Yang
 DOI: https://doi.org/10.1515/tl-2024-2021</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/tl-2024-2021</summary>
     <title>Issues in systematizing the elicitation and analysis of syllable structure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/tl-2024-2023/html"/>
     <id>https://doi.org/10.1515/tl-2024-2023</id>
-    <updated>2025-05-04T22:13:01.196117+00:00</updated>
+    <updated>2025-05-06T05:06:30.754283+00:00</updated>
     <summary>Article by Benjamin Macaulay
 DOI: https://doi.org/10.1515/tl-2024-2023</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Quantitative Analysis in Sports</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jqas/21/2/html"/>
-  <updated>2025-05-04T22:08:42.166010+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jqas/21/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jqas/html" rel="related"/>
+  <updated>2025-05-06T05:00:35.413923+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Quantitative Analysis in Sports</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jqas.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jqas-2025-frontmatter2</id>
-    <updated>2025-05-04T22:08:42.166059+00:00</updated>
+    <updated>2025-05-06T05:00:35.413947+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jqas-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>A hierarchical approach to modeling golf hole scores with Hardy distributions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0036/html"/>
     <id>https://doi.org/10.1515/jqas-2024-0036</id>
-    <updated>2025-05-04T22:08:42.166068+00:00</updated>
+    <updated>2025-05-06T05:00:35.413954+00:00</updated>
     <summary>Article by Marie Hardt, Dan Nettleton
 DOI: https://doi.org/10.1515/jqas-2024-0036</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jqas-2024-0036</summary>
     <title>Estimating individual contributions to team success in women’s college volleyball</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0038/html"/>
     <id>https://doi.org/10.1515/jqas-2024-0038</id>
-    <updated>2025-05-04T22:08:42.166079+00:00</updated>
+    <updated>2025-05-06T05:00:35.413963+00:00</updated>
     <summary>Article by Scott Powers, Luke Stancil, Naomi Consiglio
 DOI: https://doi.org/10.1515/jqas-2024-0038</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jqas-2024-0038</summary>
     <title>Age and performance in masters swimming and running</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0018/html"/>
     <id>https://doi.org/10.1515/jqas-2024-0018</id>
-    <updated>2025-05-04T22:08:42.166087+00:00</updated>
+    <updated>2025-05-06T05:00:35.413969+00:00</updated>
     <summary>Article by Richard De Veaux, Anna Plantinga, Elizabeth Upton
 DOI: https://doi.org/10.1515/jqas-2024-0018</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jqas-2024-0018</summary>
     <title>A family of solutions related to Shin’s model for probability forecasts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0064/html"/>
     <id>https://doi.org/10.1515/jqas-2024-0064</id>
-    <updated>2025-05-04T22:08:42.166094+00:00</updated>
+    <updated>2025-05-06T05:00:35.413976+00:00</updated>
     <summary>Article by Melis Kizildemir, Ertugrul Akin, Altug Alkan
 DOI: https://doi.org/10.1515/jqas-2024-0064</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jqas-2024-0064</summary>
     <title>Penalty kicks: an adversarial risk analysis (ARA) perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0022/html"/>
     <id>https://doi.org/10.1515/jqas-2024-0022</id>
-    <updated>2025-05-04T22:08:42.166103+00:00</updated>
+    <updated>2025-05-06T05:00:35.413981+00:00</updated>
     <summary>Article by Samuel Luxenberg, Refik Soyer, Sudip Bose
 DOI: https://doi.org/10.1515/jqas-2024-0022</summary>
   </entry>

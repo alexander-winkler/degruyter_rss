@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Juristische Rundschau</title>
-  <link href="https://www.degruyterbrill.com/journal/key/juru/2025/6/html"/>
-  <updated>2025-05-04T22:08:54.939621+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/juru/2025/6/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/juru/html" rel="related"/>
+  <updated>2025-05-06T05:00:53.106814+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Juristische Rundschau</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/juru.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-frontmatter6/html"/>
     <id>https://doi.org/10.1515/juru-2025-frontmatter6</id>
-    <updated>2025-05-04T22:08:54.939650+00:00</updated>
+    <updated>2025-05-06T05:00:53.106841+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/juru-2025-frontmatter6</summary>
   </entry>
   <entry>
     <title>Unklarheiten zum spätesten Zeitpunkt der Anmeldung zur Eintragung in das Verbandsklageregister bzw. der Rücknahme derselben nach § 46 VDuG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2007/html"/>
     <id>https://doi.org/10.1515/juru-2025-2007</id>
-    <updated>2025-05-04T22:08:54.939660+00:00</updated>
+    <updated>2025-05-06T05:00:53.106851+00:00</updated>
     <summary>Article by Dominik Skauradszun
 DOI: https://doi.org/10.1515/juru-2025-2007</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/juru-2025-2007</summary>
     <title>Der Missbrauch von Vorsorgevollmachten und seine strafrechtlichen Konsequenzen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2026/html"/>
     <id>https://doi.org/10.1515/juru-2025-2026</id>
-    <updated>2025-05-04T22:08:54.939669+00:00</updated>
+    <updated>2025-05-06T05:00:53.106861+00:00</updated>
     <summary>Article by Marco Mansdörfer, Julia Aileen Kreutz
 DOI: https://doi.org/10.1515/juru-2025-2026</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/juru-2025-2026</summary>
     <title>Erwerb eines Miteigentumsanteils an nicht verpachtetem/vermietetem Grundstück ist rechtlich vorteilhaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2024-2072/html"/>
     <id>https://doi.org/10.1515/juru-2024-2072</id>
-    <updated>2025-05-04T22:08:54.939678+00:00</updated>
+    <updated>2025-05-06T05:00:53.106870+00:00</updated>
     <summary>Article by Andreas Spickhoff
 DOI: https://doi.org/10.1515/juru-2024-2072</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/juru-2024-2072</summary>
     <title>§ 2 GrdstVG gilt nicht für Verkauf und Abtretung von Forderungen, die aus Veräußerung eines landwirtschaftlichen Anwesens stammen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2024-2104/html"/>
     <id>https://doi.org/10.1515/juru-2024-2104</id>
-    <updated>2025-05-04T22:08:54.939685+00:00</updated>
+    <updated>2025-05-06T05:00:53.106878+00:00</updated>
     <summary>Article by Markus Gehrlein
 DOI: https://doi.org/10.1515/juru-2024-2104</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/juru-2024-2104</summary>
     <title>Tatbestandliche Verwandtschaft zwischen Straftatbeständen des Konsumcannabisgesetzes und denen des Betäubungsmittelgesetzes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2025/html"/>
     <id>https://doi.org/10.1515/juru-2025-2025</id>
-    <updated>2025-05-04T22:08:54.939693+00:00</updated>
+    <updated>2025-05-06T05:00:53.106886+00:00</updated>
     <summary>Article by Maximilian Nussbaum
 DOI: https://doi.org/10.1515/juru-2025-2025</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/juru-2025-2025</summary>
     <title>Keine Strafbarkeit von finanziellen Zuwendungen an ein Mitglied einer terroristischen Vereinigung bei sozialüblichem Verhalten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2030/html"/>
     <id>https://doi.org/10.1515/juru-2025-2030</id>
-    <updated>2025-05-04T22:08:54.939700+00:00</updated>
+    <updated>2025-05-06T05:00:53.106893+00:00</updated>
     <summary>Article by Mark A. Zöller
 DOI: https://doi.org/10.1515/juru-2025-2030</summary>
   </entry>
@@ -70,21 +67,21 @@ DOI: https://doi.org/10.1515/juru-2025-2030</summary>
     <title>Hawala-Banking-Organisation als kriminelle Vereinigung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2031/html"/>
     <id>https://doi.org/10.1515/juru-2025-2031</id>
-    <updated>2025-05-04T22:08:54.939707+00:00</updated>
+    <updated>2025-05-06T05:00:53.106901+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/juru-2025-2031</summary>
   </entry>
   <entry>
     <title>Verursachen einer Gesundheitsschädigung einer großen Zahl von Menschen durch Zünden einer »Kugelbombe«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2023/html"/>
     <id>https://doi.org/10.1515/juru-2025-2023</id>
-    <updated>2025-05-04T22:08:54.939714+00:00</updated>
+    <updated>2025-05-06T05:00:53.106908+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/juru-2025-2023</summary>
   </entry>
   <entry>
     <title>Leit- und Orientierungssätze</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/juru-2025-2043/html"/>
     <id>https://doi.org/10.1515/juru-2025-2043</id>
-    <updated>2025-05-04T22:08:54.939721+00:00</updated>
+    <updated>2025-05-06T05:00:53.106916+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/juru-2025-2043</summary>
   </entry>
 </feed>

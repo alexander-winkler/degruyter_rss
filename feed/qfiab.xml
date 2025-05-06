@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Quellen und Forschungen aus italienischen Archiven und Bibliotheken</title>
-  <link href="https://www.degruyterbrill.com/journal/key/qfiab/104/1/html"/>
-  <updated>2025-05-04T22:11:35.269795+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/qfiab/104/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/qfiab.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/qfiab/html" rel="related"/>
+  <updated>2025-05-06T05:04:31.277666+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/qfiab.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Quellen und Forschungen aus italienischen Archiven und Bibliotheken</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/qfiab.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-frontmatter1</id>
-    <updated>2025-05-04T22:11:35.269818+00:00</updated>
+    <updated>2025-05-06T05:04:31.277685+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/qufiab-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Jahresbericht des DHI Rom 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0001/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0001</id>
-    <updated>2025-05-04T22:11:35.269824+00:00</updated>
+    <updated>2025-05-06T05:04:31.277692+00:00</updated>
     <summary>Article by Martin Baumeister
 DOI: https://doi.org/10.1515/qufiab-2024-0001</summary>
   </entry>
@@ -30,21 +27,21 @@ DOI: https://doi.org/10.1515/qufiab-2024-0001</summary>
     <title>Verzeichnis der Rezensentinnen und Rezensenten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0038/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0038</id>
-    <updated>2025-05-04T22:11:35.269831+00:00</updated>
+    <updated>2025-05-06T05:04:31.277699+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/qufiab-2024-0038</summary>
   </entry>
   <entry>
     <title>Register der in den Rezensionen genannten Autorinnen und Autoren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0039/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0039</id>
-    <updated>2025-05-04T22:11:35.269836+00:00</updated>
+    <updated>2025-05-06T05:04:31.277704+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/qufiab-2024-0039</summary>
   </entry>
   <entry>
     <title>Cultura materiale e memorie del colonialismo italiano dal secondo dopoguerra a oggi</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0002/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0002</id>
-    <updated>2025-05-04T22:11:35.269842+00:00</updated>
+    <updated>2025-05-06T05:04:31.277709+00:00</updated>
     <summary>Article by Bianca Gaudenzi
 DOI: https://doi.org/10.1515/qufiab-2024-0002</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0002</summary>
     <title>Memorie di pietra del colonialismo italiano</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0003/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0003</id>
-    <updated>2025-05-04T22:11:35.269848+00:00</updated>
+    <updated>2025-05-06T05:04:31.277714+00:00</updated>
     <summary>Article by Valeria Deplano
 DOI: https://doi.org/10.1515/qufiab-2024-0003</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0003</summary>
     <title>Legislazione e prassi italiane in materia di beni culturali tra protezionismo e universalismo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0004/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0004</id>
-    <updated>2025-05-04T22:11:35.269853+00:00</updated>
+    <updated>2025-05-06T05:04:31.277719+00:00</updated>
     <summary>Article by Arianna Visconti
 DOI: https://doi.org/10.1515/qufiab-2024-0004</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0004</summary>
     <title>Monumental Artworks as Difficult Heritage</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0005/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0005</id>
-    <updated>2025-05-04T22:11:35.269858+00:00</updated>
+    <updated>2025-05-06T05:04:31.277724+00:00</updated>
     <summary>Article by Selena Daly
 DOI: https://doi.org/10.1515/qufiab-2024-0005</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0005</summary>
     <title>„Italia si, Italia no“. Materialità transimperiali e soggetti (post)coloniali tra Italia ed Etiopia (1956–1974)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0006/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0006</id>
-    <updated>2025-05-04T22:11:35.269865+00:00</updated>
+    <updated>2025-05-06T05:04:31.277730+00:00</updated>
     <summary>Article by Gianmarco Mancosu
 DOI: https://doi.org/10.1515/qufiab-2024-0006</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0006</summary>
     <title>Una ‚reliquia colonialeʻ</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0007/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0007</id>
-    <updated>2025-05-04T22:11:35.269873+00:00</updated>
+    <updated>2025-05-06T05:04:31.277736+00:00</updated>
     <summary>Article by Beatrice Falcucci
 DOI: https://doi.org/10.1515/qufiab-2024-0007</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0007</summary>
     <title>„Actus Beneventus in filicissimus palatio“?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0008/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0008</id>
-    <updated>2025-05-04T22:11:35.269878+00:00</updated>
+    <updated>2025-05-06T05:04:31.277742+00:00</updated>
     <summary>Article by Bernhard Zeller
 DOI: https://doi.org/10.1515/qufiab-2024-0008</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0008</summary>
     <title>Annone di Colonia, Enrico IV e Anselmo III da Rho</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0009/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0009</id>
-    <updated>2025-05-04T22:11:35.269883+00:00</updated>
+    <updated>2025-05-06T05:04:31.277747+00:00</updated>
     <summary>Article by Giacomo Vignodelli
 DOI: https://doi.org/10.1515/qufiab-2024-0009</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0009</summary>
     <title>Motivazioni politiche e contesto sociale</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0010/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0010</id>
-    <updated>2025-05-04T22:11:35.269889+00:00</updated>
+    <updated>2025-05-06T05:04:31.277752+00:00</updated>
     <summary>Article by Knut Görich, Markus Krumm, Sebastian Brenninger
 DOI: https://doi.org/10.1515/qufiab-2024-0010</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0010</summary>
     <title>Signori e signorie nella Sicilia normanna</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0011/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0011</id>
-    <updated>2025-05-04T22:11:35.269895+00:00</updated>
+    <updated>2025-05-06T05:04:31.277758+00:00</updated>
     <summary>Article by Antonio Mursia
 DOI: https://doi.org/10.1515/qufiab-2024-0011</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0011</summary>
     <title>Processi pontificiin partibus. La giurisdizione papale delegata nel XIII secolo: alcuni casi in Puglia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0012/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0012</id>
-    <updated>2025-05-04T22:11:35.269900+00:00</updated>
+    <updated>2025-05-06T05:04:31.277763+00:00</updated>
     <summary>Article by Isabella Aurora
 DOI: https://doi.org/10.1515/qufiab-2024-0012</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0012</summary>
     <title>Wofür und auf welche Weise Herzog Magnus II. von Mecklenburg 1487 von Papst Innozenz VIII. die Goldene Rose erhielt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0013/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0013</id>
-    <updated>2025-05-04T22:11:35.269905+00:00</updated>
+    <updated>2025-05-06T05:04:31.277768+00:00</updated>
     <summary>Article by Wolfgang Eric Wagner
 DOI: https://doi.org/10.1515/qufiab-2024-0013</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0013</summary>
     <title>Una spia portoghese e la crociata all’indomani di Lepanto</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0014/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0014</id>
-    <updated>2025-05-04T22:11:35.269911+00:00</updated>
+    <updated>2025-05-06T05:04:31.277773+00:00</updated>
     <summary>Article by Giulio Merlani
 DOI: https://doi.org/10.1515/qufiab-2024-0014</summary>
   </entry>
@@ -148,7 +145,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0014</summary>
     <title>Die Korrespondenz des Kardinalnepoten Francesco Barberini mit P. Alessandro d’Ales, seinem Agenten am Kaiserhof (1634–1635)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0015/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0015</id>
-    <updated>2025-05-04T22:11:35.269916+00:00</updated>
+    <updated>2025-05-06T05:04:31.277778+00:00</updated>
     <summary>Article by Rotraud Becker
 DOI: https://doi.org/10.1515/qufiab-2024-0015</summary>
   </entry>
@@ -156,7 +153,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0015</summary>
     <title>Konkurrenz um das kulturelle Gedächtnis?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0016/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0016</id>
-    <updated>2025-05-04T22:11:35.269921+00:00</updated>
+    <updated>2025-05-06T05:04:31.277784+00:00</updated>
     <summary>Article by Kirsten Krumeich
 DOI: https://doi.org/10.1515/qufiab-2024-0016</summary>
   </entry>
@@ -164,7 +161,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0016</summary>
     <title>Il fascismo recensito</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0017/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0017</id>
-    <updated>2025-05-04T22:11:35.269927+00:00</updated>
+    <updated>2025-05-06T05:04:31.277788+00:00</updated>
     <summary>Article by Stefano Cavazza
 DOI: https://doi.org/10.1515/qufiab-2024-0017</summary>
   </entry>
@@ -172,7 +169,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0017</summary>
     <title>Il rischio dei ‚Giusti‘</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0018/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0018</id>
-    <updated>2025-05-04T22:11:35.269932+00:00</updated>
+    <updated>2025-05-06T05:04:31.277793+00:00</updated>
     <summary>Article by Amedeo Osti Guerrazzi
 DOI: https://doi.org/10.1515/qufiab-2024-0018</summary>
   </entry>
@@ -180,7 +177,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0018</summary>
     <title>„Die Steine zum Sprechen bringen“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0019/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0019</id>
-    <updated>2025-05-04T22:11:35.269940+00:00</updated>
+    <updated>2025-05-06T05:04:31.277799+00:00</updated>
     <summary>Article by Christoph Cornelißen
 DOI: https://doi.org/10.1515/qufiab-2024-0019</summary>
   </entry>
@@ -188,7 +185,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0019</summary>
     <title>L’espansione del quadrante occidentale della Capitale negli anni Cinquanta e il complesso architettonico della Congregazione di Santa Croce oggi Istituto Storico Germanico di Roma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0020/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0020</id>
-    <updated>2025-05-04T22:11:35.269948+00:00</updated>
+    <updated>2025-05-06T05:04:31.277807+00:00</updated>
     <summary>Article by Francesco Calabretti
 DOI: https://doi.org/10.1515/qufiab-2024-0020</summary>
   </entry>
@@ -196,7 +193,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0020</summary>
     <title>Fantasma totalitario e democrazia blindata</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0021/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0021</id>
-    <updated>2025-05-04T22:11:35.269953+00:00</updated>
+    <updated>2025-05-06T05:04:31.277812+00:00</updated>
     <summary>Article by Jacopo Lorenzini
 DOI: https://doi.org/10.1515/qufiab-2024-0021</summary>
   </entry>
@@ -204,7 +201,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0021</summary>
     <title>Per un catalogo delle opere di Luigi Nono, con „pochi dati e alcune idee vagabonde sulla diversa natura della ‚tradizione‘ delle opere di Nono in quanto ‚testo‘“ e una cronologia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0022/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0022</id>
-    <updated>2025-05-04T22:11:35.269959+00:00</updated>
+    <updated>2025-05-06T05:04:31.277819+00:00</updated>
     <summary>Article by Claudia Vincis
 DOI: https://doi.org/10.1515/qufiab-2024-0022</summary>
   </entry>
@@ -212,7 +209,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0022</summary>
     <title>L’identità dello Stato beneventano</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0023/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0023</id>
-    <updated>2025-05-04T22:11:35.269964+00:00</updated>
+    <updated>2025-05-06T05:04:31.277824+00:00</updated>
     <summary>Article by Federico Marazzi
 DOI: https://doi.org/10.1515/qufiab-2024-0023</summary>
   </entry>
@@ -220,7 +217,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0023</summary>
     <title>Dall’edizione cartacea alla pubblicazione su piattaforma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0024/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0024</id>
-    <updated>2025-05-04T22:11:35.269970+00:00</updated>
+    <updated>2025-05-06T05:04:31.277829+00:00</updated>
     <summary>Article by Mario Marrocchi
 DOI: https://doi.org/10.1515/qufiab-2024-0024</summary>
   </entry>
@@ -228,7 +225,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0024</summary>
     <title>Administration in Times of Crisis. The Roman Papacy in the Great Western Schism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0025/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0025</id>
-    <updated>2025-05-04T22:11:35.269975+00:00</updated>
+    <updated>2025-05-06T05:04:31.277834+00:00</updated>
     <summary>Article by Maria D. Ilgner, André M. Rodrigues
 DOI: https://doi.org/10.1515/qufiab-2024-0025</summary>
   </entry>
@@ -236,7 +233,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0025</summary>
     <title>Apparati, tecniche, oggetti dell’agire diplomatico (secc. XIV–XIX)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0026/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0026</id>
-    <updated>2025-05-04T22:11:35.269981+00:00</updated>
+    <updated>2025-05-06T05:04:31.277839+00:00</updated>
     <summary>Article by Giulio Merlani
 DOI: https://doi.org/10.1515/qufiab-2024-0026</summary>
   </entry>
@@ -244,7 +241,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0026</summary>
     <title>Nuove prospettive di ricerca su stato di eccezione e di emergenza. Un dialogo italo-tedesco</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0027/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0027</id>
-    <updated>2025-05-04T22:11:35.269986+00:00</updated>
+    <updated>2025-05-06T05:04:31.277843+00:00</updated>
     <summary>Article by Sarah Lias Ceide, Cecilia Molesini
 DOI: https://doi.org/10.1515/qufiab-2024-0027</summary>
   </entry>
@@ -252,7 +249,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0027</summary>
     <title>(De)Constructing Europe. Tensions of Europeanization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0028/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0028</id>
-    <updated>2025-05-04T22:11:35.269991+00:00</updated>
+    <updated>2025-05-06T05:04:31.277849+00:00</updated>
     <summary>Article by Christoph Ehlert
 DOI: https://doi.org/10.1515/qufiab-2024-0028</summary>
   </entry>
@@ -260,7 +257,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0028</summary>
     <title>Circolo Medievistico Romano 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0029/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0029</id>
-    <updated>2025-05-04T22:11:35.269997+00:00</updated>
+    <updated>2025-05-06T05:04:31.277853+00:00</updated>
     <summary>Article by Andreas Rehberg
 DOI: https://doi.org/10.1515/qufiab-2024-0029</summary>
   </entry>
@@ -268,14 +265,14 @@ DOI: https://doi.org/10.1515/qufiab-2024-0029</summary>
     <title>Verzeichnis der Rezensionen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0030/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0030</id>
-    <updated>2025-05-04T22:11:35.270002+00:00</updated>
+    <updated>2025-05-06T05:04:31.277858+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/qufiab-2024-0030</summary>
   </entry>
   <entry>
     <title>Ist das „Mittelalter“ am Ende?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0031/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0031</id>
-    <updated>2025-05-04T22:11:35.270008+00:00</updated>
+    <updated>2025-05-06T05:04:31.277865+00:00</updated>
     <summary>Article by Romedio Schmitz-Esser
 DOI: https://doi.org/10.1515/qufiab-2024-0031</summary>
   </entry>
@@ -283,7 +280,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0031</summary>
     <title>L’Italia dal Settecento a oggi: unSonderweg?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0032/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0032</id>
-    <updated>2025-05-04T22:11:35.270014+00:00</updated>
+    <updated>2025-05-06T05:04:31.277870+00:00</updated>
     <summary>Article by Marco Meriggi
 DOI: https://doi.org/10.1515/qufiab-2024-0032</summary>
   </entry>
@@ -291,7 +288,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0032</summary>
     <title>1820 – Eine Weltkrise der politischen Souveränität?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0033/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0033</id>
-    <updated>2025-05-04T22:11:35.270019+00:00</updated>
+    <updated>2025-05-06T05:04:31.277875+00:00</updated>
     <summary>Article by Werner Daum
 DOI: https://doi.org/10.1515/qufiab-2024-0033</summary>
   </entry>
@@ -299,14 +296,14 @@ DOI: https://doi.org/10.1515/qufiab-2024-0033</summary>
     <title>Allgemein, Mittelalter, Frühe Neuzeit, 19.–21. Jahrhundert</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0034/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0034</id>
-    <updated>2025-05-04T22:11:35.270025+00:00</updated>
+    <updated>2025-05-06T05:04:31.277880+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/qufiab-2024-0034</summary>
   </entry>
   <entry>
     <title>Ist das „Mittelalter“ am Ende?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0031/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0031</id>
-    <updated>2025-05-04T22:11:35.270029+00:00</updated>
+    <updated>2025-05-06T05:04:31.277884+00:00</updated>
     <summary>Article by Romedio Schmitz-Esser
 DOI: https://doi.org/10.1515/qufiab-2024-0031</summary>
   </entry>
@@ -314,7 +311,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0031</summary>
     <title>L’Italia dal Settecento a oggi: unSonderweg?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0032/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0032</id>
-    <updated>2025-05-04T22:11:35.270035+00:00</updated>
+    <updated>2025-05-06T05:04:31.277889+00:00</updated>
     <summary>Article by Marco Meriggi
 DOI: https://doi.org/10.1515/qufiab-2024-0032</summary>
   </entry>
@@ -322,7 +319,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0032</summary>
     <title>1820 – Eine Weltkrise der politischen Souveränität?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0033/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0033</id>
-    <updated>2025-05-04T22:11:35.270040+00:00</updated>
+    <updated>2025-05-06T05:04:31.277894+00:00</updated>
     <summary>Article by Werner Daum
 DOI: https://doi.org/10.1515/qufiab-2024-0033</summary>
   </entry>
@@ -330,7 +327,7 @@ DOI: https://doi.org/10.1515/qufiab-2024-0033</summary>
     <title>Allgemein, Mittelalter, Frühe Neuzeit, 19.–21. Jahrhundert</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/qufiab-2024-0034/html"/>
     <id>https://doi.org/10.1515/qufiab-2024-0034</id>
-    <updated>2025-05-04T22:11:35.270045+00:00</updated>
+    <updated>2025-05-06T05:04:31.277899+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/qufiab-2024-0034</summary>
   </entry>
 </feed>

@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Yearbook of the German Cognitive Linguistics Association</title>
-  <link href="https://www.degruyterbrill.com/journal/key/gcla/12/1/html"/>
-  <updated>2025-05-04T22:05:45.954151+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/gcla/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gcla.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/gcla/html" rel="related"/>
+  <updated>2025-05-06T04:56:35.502307+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gcla.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Yearbook of the German Cognitive Linguistics Association</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gcla.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/gcla-2024-frontmatter1</id>
-    <updated>2025-05-04T22:05:45.954171+00:00</updated>
+    <updated>2025-05-06T04:56:35.502344+00:00</updated>
     <summary>Article by Antje Endesfelder Quick, Stefan Hartmann
 DOI: https://doi.org/10.1515/gcla-2024-frontmatter1</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/gcla-2024-frontmatter1</summary>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0001/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0001</id>
-    <updated>2025-05-04T22:05:45.954179+00:00</updated>
+    <updated>2025-05-06T04:56:35.502353+00:00</updated>
     <summary>Article by Antje Quick, Stefan Hartmann
 DOI: https://doi.org/10.1515/gcla-2024-0001</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0001</summary>
     <title>Jetzt hab ich voll die Panik: Prototype effects of NP-external intensifiers in German</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0002/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0002</id>
-    <updated>2025-05-04T22:05:45.954187+00:00</updated>
+    <updated>2025-05-06T04:56:35.502360+00:00</updated>
     <summary>Article by Katja Politt, Alexander Willich
 DOI: https://doi.org/10.1515/gcla-2024-0002</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0002</summary>
     <title>Metapragmatic markers and the instantiation of pragmatic frames: A cognitive-linguistic approach to the problem of current discourse</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0003/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0003</id>
-    <updated>2025-05-04T22:05:45.954194+00:00</updated>
+    <updated>2025-05-06T04:56:35.502367+00:00</updated>
     <summary>Article by Oliver Spiess
 DOI: https://doi.org/10.1515/gcla-2024-0003</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0003</summary>
     <title>Linguistic paradigms as cognitive entities: A domain-general approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0004/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0004</id>
-    <updated>2025-05-04T22:05:45.954200+00:00</updated>
+    <updated>2025-05-06T04:56:35.502375+00:00</updated>
     <summary>Article by Rafael Soto Setzke
 DOI: https://doi.org/10.1515/gcla-2024-0004</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0004</summary>
     <title>Partial colexifications reveal directional tendencies in object naming</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0005/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0005</id>
-    <updated>2025-05-04T22:05:45.954206+00:00</updated>
+    <updated>2025-05-06T04:56:35.502380+00:00</updated>
     <summary>Article by Annika Tjuka, Johann-Mattis List
 DOI: https://doi.org/10.1515/gcla-2024-0005</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0005</summary>
     <title>The interplay of conceptualization and case marking in the directional cases of Udmurt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0006/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0006</id>
-    <updated>2025-05-04T22:05:45.954214+00:00</updated>
+    <updated>2025-05-06T04:56:35.502387+00:00</updated>
     <summary>Article by Riku Erkkilä
 DOI: https://doi.org/10.1515/gcla-2024-0006</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0006</summary>
     <title>Integrating approaches to the role of metaphor in the evolutionary dynamics of language</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0007/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0007</id>
-    <updated>2025-05-04T22:05:45.954221+00:00</updated>
+    <updated>2025-05-06T04:56:35.502394+00:00</updated>
     <summary>Article by Michael Pleyer, Svetlana Kuleshova, Marek Placiński
 DOI: https://doi.org/10.1515/gcla-2024-0007</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0007</summary>
     <title>Metaphorical meaning dynamics: Identifying patterns in the metaphorical evolution of English words using mathematical modeling techniques</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0008/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0008</id>
-    <updated>2025-05-04T22:05:45.954228+00:00</updated>
+    <updated>2025-05-06T04:56:35.502403+00:00</updated>
     <summary>Article by Peter Hull, Marie Teich
 DOI: https://doi.org/10.1515/gcla-2024-0008</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0008</summary>
     <title>The language of gratitude: An empirical analysis of acknowledgments in German medical dissertations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0009/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0009</id>
-    <updated>2025-05-04T22:05:45.954235+00:00</updated>
+    <updated>2025-05-06T04:56:35.502410+00:00</updated>
     <summary>Article by Stefan Hartmann, Nils Hansson, Adrian Loerbroks
 DOI: https://doi.org/10.1515/gcla-2024-0009</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0009</summary>
     <title>Cross- and multimodal anaphoric references in mystery movies: A cognitive perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0010/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0010</id>
-    <updated>2025-05-04T22:05:45.954242+00:00</updated>
+    <updated>2025-05-06T04:56:35.502419+00:00</updated>
     <summary>Article by Anna Bonifazi, Pinelopi Ioannidou
 DOI: https://doi.org/10.1515/gcla-2024-0010</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0010</summary>
     <title>Language learners, chess champions, and piano prodigies – insights from research on language contact and expert behavior</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0011/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0011</id>
-    <updated>2025-05-04T22:05:45.954249+00:00</updated>
+    <updated>2025-05-06T04:56:35.502427+00:00</updated>
     <summary>Article by Marie Barking
 DOI: https://doi.org/10.1515/gcla-2024-0011</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/gcla-2024-0011</summary>
     <title>Adaptive language strategies of an older sibling in bilingual German-Russian acquisition: A case study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gcla-2024-0012/html"/>
     <id>https://doi.org/10.1515/gcla-2024-0012</id>
-    <updated>2025-05-04T22:05:45.954258+00:00</updated>
+    <updated>2025-05-06T04:56:35.502434+00:00</updated>
     <summary>Article by Nikolas Koch, Maria Gaus
 DOI: https://doi.org/10.1515/gcla-2024-0012</summary>
   </entry>

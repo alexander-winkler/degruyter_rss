@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Latin Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/joll/23/1-2/html"/>
-  <updated>2025-05-04T22:08:33.470740+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/joll/23/1-2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joll.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/joll/html" rel="related"/>
+  <updated>2025-05-06T05:00:23.848429+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joll.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Latin Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joll.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-frontmatter1-2/html"/>
     <id>https://doi.org/10.1515/joll-2024-frontmatter1-2</id>
-    <updated>2025-05-04T22:08:33.470777+00:00</updated>
+    <updated>2025-05-06T05:00:23.848449+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/joll-2024-frontmatter1-2</summary>
   </entry>
   <entry>
     <title>Foreword</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2008/html"/>
     <id>https://doi.org/10.1515/joll-2024-2008</id>
-    <updated>2025-05-04T22:08:33.470786+00:00</updated>
+    <updated>2025-05-06T05:00:23.848454+00:00</updated>
     <summary>Article by Pierluigi Cuzzolin
 DOI: https://doi.org/10.1515/joll-2024-2008</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/joll-2024-2008</summary>
     <title>Risposta alla recensione di Elena Spangenberg Yanes alla mia edizione2020dellaRhetorica ad Herennium</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2009/html"/>
     <id>https://doi.org/10.1515/joll-2024-2009</id>
-    <updated>2025-05-04T22:08:33.470797+00:00</updated>
+    <updated>2025-05-06T05:00:23.848460+00:00</updated>
     <summary>Article by Gualtiero Calboli
 DOI: https://doi.org/10.1515/joll-2024-2009</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/joll-2024-2009</summary>
     <title>Seconda risposta alla Spangenberg</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2010/html"/>
     <id>https://doi.org/10.1515/joll-2024-2010</id>
-    <updated>2025-05-04T22:08:33.470805+00:00</updated>
+    <updated>2025-05-06T05:00:23.848464+00:00</updated>
     <summary>Article by Gualtiero Calboli
 DOI: https://doi.org/10.1515/joll-2024-2010</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/joll-2024-2010</summary>
     <title>Dormivit et resurgit.A language-ecology approach to the diachrony of the Latin ingressive perfect</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2006/html"/>
     <id>https://doi.org/10.1515/joll-2024-2006</id>
-    <updated>2025-05-04T22:08:33.470812+00:00</updated>
+    <updated>2025-05-06T05:00:23.848469+00:00</updated>
     <summary>Article by Simon Aerts
 DOI: https://doi.org/10.1515/joll-2024-2006</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/joll-2024-2006</summary>
     <title>Nisi paria non pugnant: argument structure alternations with lexical reciprocal verbs in Latin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2005/html"/>
     <id>https://doi.org/10.1515/joll-2024-2005</id>
-    <updated>2025-05-04T22:08:33.470819+00:00</updated>
+    <updated>2025-05-06T05:00:23.848474+00:00</updated>
     <summary>Article by Guglielmo Inglese
 DOI: https://doi.org/10.1515/joll-2024-2005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/joll-2024-2005</summary>
     <title>The synchrony and diachrony of example markers in Latin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2004/html"/>
     <id>https://doi.org/10.1515/joll-2024-2004</id>
-    <updated>2025-05-04T22:08:33.470826+00:00</updated>
+    <updated>2025-05-06T05:00:23.848478+00:00</updated>
     <summary>Article by Elisabetta Magni, Ottavia Cepraga
 DOI: https://doi.org/10.1515/joll-2024-2004</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/joll-2024-2004</summary>
     <title>Eccein Archaic Latin: interjection or demonstrative?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2007/html"/>
     <id>https://doi.org/10.1515/joll-2024-2007</id>
-    <updated>2025-05-04T22:08:33.470834+00:00</updated>
+    <updated>2025-05-06T05:00:23.848484+00:00</updated>
     <summary>Article by Verónica Orqueda, Renata Rivera Castro, Francisca Toro Varela
 DOI: https://doi.org/10.1515/joll-2024-2007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/joll-2024-2007</summary>
     <title>(H)ariuga/(h)aruiga: an etymological research</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2002/html"/>
     <id>https://doi.org/10.1515/joll-2024-2002</id>
-    <updated>2025-05-04T22:08:33.470842+00:00</updated>
+    <updated>2025-05-06T05:00:23.848494+00:00</updated>
     <summary>Article by Giulia Sarullo
 DOI: https://doi.org/10.1515/joll-2024-2002</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/joll-2024-2002</summary>
     <title>Discontinuity of the noun phrase in Roman statutes from the Republican period</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2001/html"/>
     <id>https://doi.org/10.1515/joll-2024-2001</id>
-    <updated>2025-05-04T22:08:33.470857+00:00</updated>
+    <updated>2025-05-06T05:00:23.848499+00:00</updated>
     <summary>Article by Olga Spevak
 DOI: https://doi.org/10.1515/joll-2024-2001</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/joll-2024-2001</summary>
     <title>Qui pro quoin Plautus’ grammar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joll-2024-2003/html"/>
     <id>https://doi.org/10.1515/joll-2024-2003</id>
-    <updated>2025-05-04T22:08:33.470865+00:00</updated>
+    <updated>2025-05-06T05:00:23.848505+00:00</updated>
     <summary>Article by Elena V. Zheltova
 DOI: https://doi.org/10.1515/joll-2024-2003</summary>
   </entry>

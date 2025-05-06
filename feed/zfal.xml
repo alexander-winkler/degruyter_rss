@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Angewandte Linguistik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfal/2025/82/html"/>
-  <updated>2025-05-04T22:13:34.788499+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfal/2025/82/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfal.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfal/html" rel="related"/>
+  <updated>2025-05-06T05:07:17.852797+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfal.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Angewandte Linguistik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfal.xml" type="application/rss+xml"/>
   <entry>
     <title>Sprachliche Bildung und Mehrsprachigkeit im Vorbereitungsdienst: Ausgestaltungs-prozesse in der Lehrkräftebildung zwischen Curriculum und Institution</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2001/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2001</id>
-    <updated>2025-05-04T22:13:34.788523+00:00</updated>
+    <updated>2025-05-06T05:07:17.852828+00:00</updated>
     <summary>Article by Caroline Böning
 DOI: https://doi.org/10.1515/zfal-2025-2001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2001</summary>
     <title>„Besser Gas aus dem Westen als aus dem Osten. Kanada ist ein sympathischer Lieferant“ – Zur Verknüpfung des Topos der geteilten Werte mit aktuellen Narrativen des Energiedispositivs. Eine kleine empirische Studie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2004/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2004</id>
-    <updated>2025-05-04T22:13:34.788534+00:00</updated>
+    <updated>2025-05-06T05:07:17.852842+00:00</updated>
     <summary>Article by Laura Coro Blauert, Daisy-Anna Cwikla, Rebecca Kelschebach, Lesley-Ann Kern, Joana Koczy, Dorothee Meer, Erik Schröder, Sophie Sengespeick, Philipp Weichaus, Marius Wecker, Barbara Wessel
 DOI: https://doi.org/10.1515/zfal-2025-2004</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2004</summary>
     <title>Explikationen als Mittel der Verstehens-sicherung in Arzt-Patienten-Gesprächen in der Onkologie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2002/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2002</id>
-    <updated>2025-05-04T22:13:34.788541+00:00</updated>
+    <updated>2025-05-06T05:07:17.852852+00:00</updated>
     <summary>Article by Victoria Fedorovskaya, Wolfgang Imo
 DOI: https://doi.org/10.1515/zfal-2025-2002</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2002</summary>
     <title>Mehrebenenannotation argumentativer Lerner*innentexte für die automatische Textauswertung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2003/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2003</id>
-    <updated>2025-05-04T22:13:34.788548+00:00</updated>
+    <updated>2025-05-06T05:07:17.852859+00:00</updated>
     <summary>Article by Sebastian Kilsbach, Sara Rezat, Nadine Michel, Rabia Karabey, Maja Stahl, Henning Wachsmuth
 DOI: https://doi.org/10.1515/zfal-2025-2003</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2003</summary>
     <title>Würzburger Thesen zur Angewandten Sprachwissenschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2005/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2005</id>
-    <updated>2025-05-04T22:13:34.788554+00:00</updated>
+    <updated>2025-05-06T05:07:17.852870+00:00</updated>
     <summary>Article by Matthias Schulz, Miriam Schwebler
 DOI: https://doi.org/10.1515/zfal-2025-2005</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2005</summary>
     <title>Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2006/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2006</id>
-    <updated>2025-05-04T22:13:34.788560+00:00</updated>
+    <updated>2025-05-06T05:07:17.852877+00:00</updated>
     <summary>Article by Mason A. Wirtz, Philip C. Vergeiner
 DOI: https://doi.org/10.1515/zfal-2025-2006</summary>
   </entry>
@@ -63,21 +60,21 @@ DOI: https://doi.org/10.1515/zfal-2025-2006</summary>
     <title>Angebote zur Rezension</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2010/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2010</id>
-    <updated>2025-05-04T22:13:34.788566+00:00</updated>
+    <updated>2025-05-06T05:07:17.852888+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfal-2025-2010</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zfal-2025-frontmatter1</id>
-    <updated>2025-05-04T22:13:34.788571+00:00</updated>
+    <updated>2025-05-06T05:07:17.852895+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zfal-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Wild, Johannes &amp; Wildfeuer, Alfred (Hrsg.). 2019.Sprachendidaktik. Eine Ein- und Weiterführung zur Erst- und Zweitsprachdidaktik des Deutschen. Tübingen: Narr Francke Attempto Verlag (Narr Studienbücher). 302 S. 29,99 €, ISBN 978-3-8233-8202-7.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2007/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2007</id>
-    <updated>2025-05-04T22:13:34.788578+00:00</updated>
+    <updated>2025-05-06T05:07:17.852903+00:00</updated>
     <summary>Article by Nina Jeanette Hofferberth
 DOI: https://doi.org/10.1515/zfal-2025-2007</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2007</summary>
     <title>Wolf-Farré, Patrick, Lucas Löff Machado, Angélica Prediger &amp; Sebastian Kürschner (Hrsg.). 2023.Deutsche und weitere germanische Sprachminderheiten in Lateinamerika. Grundlagen, Methoden, Fallstudien(=MinGLA-Minderheiten germanischer Sprachen in Lateinamerika/ Minorías de lenguas germánicas en Latinoamérica, Band 1). Berlin: Lang. 396 S., 79,95 €, ISBN 978-3-6318-2600-3</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2011/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2011</id>
-    <updated>2025-05-04T22:13:34.788585+00:00</updated>
+    <updated>2025-05-06T05:07:17.852916+00:00</updated>
     <summary>Article by Beate Lak
 DOI: https://doi.org/10.1515/zfal-2025-2011</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2011</summary>
     <title>Tracy, Rosemarie &amp; Ira Gawlitzek. 2023.Mehrsprachigkeit und Spracherwerb.(Linguistik und Schule 10). Tübingen: Narr Francke Attempto. 168 S., 17,90 €, ISBN: 9783823382768</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2008/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2008</id>
-    <updated>2025-05-04T22:13:34.788592+00:00</updated>
+    <updated>2025-05-06T05:07:17.852925+00:00</updated>
     <summary>Article by Stefanie Siebenhütter
 DOI: https://doi.org/10.1515/zfal-2025-2008</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/zfal-2025-2008</summary>
     <title>Könning, Benjamin. 2021.Peer-Gespräche in der Schule. Beobachtungen zum mündlichen Sprachgebrauch im Spannungsfeld zwischen Institution und Identitätsentwicklung im Jugendalter(Sprache – Kommunikation – Kultur 25). Berlin: Lang. 358 S., 77,85 €, ISBN: 978-3-6318-4520-2</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2009/html"/>
     <id>https://doi.org/10.1515/zfal-2025-2009</id>
-    <updated>2025-05-04T22:13:34.788599+00:00</updated>
+    <updated>2025-05-06T05:07:17.852935+00:00</updated>
     <summary>Article by Diana Walther
 DOI: https://doi.org/10.1515/zfal-2025-2009</summary>
   </entry>

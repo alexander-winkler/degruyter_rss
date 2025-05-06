@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Reviews in Inorganic Chemistry</title>
-  <link href="https://www.degruyterbrill.com/journal/key/revic/45/1/html"/>
-  <updated>2025-05-04T22:11:49.857623+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/revic/45/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revic.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/revic/html" rel="related"/>
+  <updated>2025-05-06T05:04:51.277963+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revic.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Reviews in Inorganic Chemistry</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revic.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/revic-2025-frontmatter1</id>
-    <updated>2025-05-04T22:11:49.857658+00:00</updated>
+    <updated>2025-05-06T05:04:51.278003+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/revic-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>A review of coordination compounds: structure, stability, and biological significance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0035/html"/>
     <id>https://doi.org/10.1515/revic-2024-0035</id>
-    <updated>2025-05-04T22:11:49.857670+00:00</updated>
+    <updated>2025-05-06T05:04:51.278014+00:00</updated>
     <summary>Article by Kwestan N. Aziz, Karzan Mahmood Ahmed, Rebaz A. Omer, Aryan F. Qader, Eman I. Abdulkareem
 DOI: https://doi.org/10.1515/revic-2024-0035</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/revic-2024-0035</summary>
     <title>Effluent wastewater technologies for textile industry: a review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0046/html"/>
     <id>https://doi.org/10.1515/revic-2024-0046</id>
-    <updated>2025-05-04T22:11:49.857680+00:00</updated>
+    <updated>2025-05-06T05:04:51.278027+00:00</updated>
     <summary>Article by Satyajit M. Deshmukh, Sonali R. Dhokpande, Amaya Sankhe, Ajinkya Khandekar
 DOI: https://doi.org/10.1515/revic-2024-0046</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/revic-2024-0046</summary>
     <title>Efficient removal of Cr(VI) ions from industrial wastewater using carbon-based adsorbents functionalized with boronic acid</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0051/html"/>
     <id>https://doi.org/10.1515/revic-2024-0051</id>
-    <updated>2025-05-04T22:11:49.857689+00:00</updated>
+    <updated>2025-05-06T05:04:51.278036+00:00</updated>
     <summary>Article by Sonali R. Dhokpande, Satyajit M. Deshmukh, Ajinkya Khandekar, Amaya Sankhe
 DOI: https://doi.org/10.1515/revic-2024-0051</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/revic-2024-0051</summary>
     <title>Exploring inorganic phosphors: basics, types, fabrications and their luminescence properties for LED/WLED/displays</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0044/html"/>
     <id>https://doi.org/10.1515/revic-2024-0044</id>
-    <updated>2025-05-04T22:11:49.857696+00:00</updated>
+    <updated>2025-05-06T05:04:51.278045+00:00</updated>
     <summary>Article by Junaid Ur Rahman, Shahab Khan, Vicky Jain, Asha Rajiv, Shivakrishna Dasi, Khaled Fahmi Fawy, Pardeep Kumar Jindal, Reddi Sivaranjani
 DOI: https://doi.org/10.1515/revic-2024-0044</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/revic-2024-0044</summary>
     <title>Recent advances on hydrogen generation based on inorganic metal oxide nano-catalyst using water electrolysis approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0026/html"/>
     <id>https://doi.org/10.1515/revic-2024-0026</id>
-    <updated>2025-05-04T22:11:49.857704+00:00</updated>
+    <updated>2025-05-06T05:04:51.278055+00:00</updated>
     <summary>Article by Muhammad Naeem Ayub, Muhammad Fazle Rabbee, Umer Shahzad, Mohsin Saeed, Saad M. Al-Baqami, Khalid A. Alzahrani, Md. Reazuddin Repon, Md. Rezaur Rahman, Mohammad Mizanur Rahman Khan, Mohammed M. Rahman
 DOI: https://doi.org/10.1515/revic-2024-0026</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/revic-2024-0026</summary>
     <title>Antituberculosis, antimicrobial, antioxidant, cytotoxicity and anti-inflammatory activity of Schiff base derived from 2,3-diaminophenazine moiety and its metal(II) complexes: structural elucidation, computational aspects, and biological evaluation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0007/html"/>
     <id>https://doi.org/10.1515/revic-2024-0007</id>
-    <updated>2025-05-04T22:11:49.857713+00:00</updated>
+    <updated>2025-05-06T05:04:51.278070+00:00</updated>
     <summary>Article by Saleh M. Bufarwa, Reem M. El-Sefait, Dalal K. Thbayh, Mustapha Belaidi, Rehab K. Al-Shemary, Rema. M. Abdusamea, Marei M. El-Ajaily, Béla Fiser, Hanan A. Bader, Abdulsalam A. Saleh, Mohamad M. Bufarwa
 DOI: https://doi.org/10.1515/revic-2024-0007</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/revic-2024-0007</summary>
     <title>Carbon-based nanomaterials: synthesis, types and fuel applications: a mini-review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0017/html"/>
     <id>https://doi.org/10.1515/revic-2024-0017</id>
-    <updated>2025-05-04T22:11:49.857722+00:00</updated>
+    <updated>2025-05-06T05:04:51.278081+00:00</updated>
     <summary>Article by Muhammad Sajid, Ghazala Iram, Aqsa Nawaz, Wajeeha Qayyum, Ahmad Farhan, Muhammad Azam Qamar, Haq Nawaz, Asma Shahid
 DOI: https://doi.org/10.1515/revic-2024-0017</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/revic-2024-0017</summary>
     <title>Recent advances in carbon quantum dots for antibiotics detection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2024-0025/html"/>
     <id>https://doi.org/10.1515/revic-2024-0025</id>
-    <updated>2025-05-04T22:11:49.857730+00:00</updated>
+    <updated>2025-05-06T05:04:51.278090+00:00</updated>
     <summary>Article by Guojun Ding, Fanyong Yan, Shangpeng Yang, Yang Fu
 DOI: https://doi.org/10.1515/revic-2024-0025</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/revic-2024-0025</summary>
     <title>Modern innovations in the provision and efficient application of 2D inorganic nanoscale materials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2023-0036/html"/>
     <id>https://doi.org/10.1515/revic-2023-0036</id>
-    <updated>2025-05-04T22:11:49.857737+00:00</updated>
+    <updated>2025-05-06T05:04:51.278100+00:00</updated>
     <summary>Article by Muhammad Naeem Ayub, Umer Shahzad, Mohsin Saeed, Muhammad Fazle Rabbee, Jehan Y. Al-Humaidi, Raed H. Althomali, Kwang-Hyun Baek, Mohammed M. Rahman
 DOI: https://doi.org/10.1515/revic-2023-0036</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/revic-2023-0036</summary>
     <title>Bioinorganic metal nanoparticles and their potential applications as antimicrobial, antioxidant and catalytic agents: a review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revic-2023-0040/html"/>
     <id>https://doi.org/10.1515/revic-2023-0040</id>
-    <updated>2025-05-04T22:11:49.857746+00:00</updated>
+    <updated>2025-05-06T05:04:51.278115+00:00</updated>
     <summary>Article by Khalida Naseem, Asad Aziz, Mohammad Ehtisham Khan, Shahzaib Ali, Awais Khalid
 DOI: https://doi.org/10.1515/revic-2023-0040</summary>
   </entry>

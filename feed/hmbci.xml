@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Hormone Molecular Biology and Clinical Investigation</title>
-  <link href="https://www.degruyterbrill.com/journal/key/hmbci/46/1/html"/>
-  <updated>2025-05-04T22:06:08.905268+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/hmbci/46/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hmbci.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/hmbci/html" rel="related"/>
+  <updated>2025-05-06T04:57:06.837052+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hmbci.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Hormone Molecular Biology and Clinical Investigation</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/hmbci.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/hmbci-2025-frontmatter1</id>
-    <updated>2025-05-04T22:06:08.905308+00:00</updated>
+    <updated>2025-05-06T04:57:06.837087+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/hmbci-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>The association of the basal TIMI flow, post-PCI TIMI flow and thrombus grade with HbA1c levels in non-diabetic patients with acute ST segment elevation myocardial infarction undergoing primary PCI</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2023-0072/html"/>
     <id>https://doi.org/10.1515/hmbci-2023-0072</id>
-    <updated>2025-05-04T22:06:08.905318+00:00</updated>
+    <updated>2025-05-06T04:57:06.837098+00:00</updated>
     <summary>Article by Mina Doudkani Fard, Ahmad Separham, Ehsan Mamaghanizadeh, Yousef Faridvand, Vahid Toupchi Khosroshahi, Somayeh Sarvari
 DOI: https://doi.org/10.1515/hmbci-2023-0072</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/hmbci-2023-0072</summary>
     <title>Interpretation of TSH results can be improved by reference values fluctuating in time</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2024-0043/html"/>
     <id>https://doi.org/10.1515/hmbci-2024-0043</id>
-    <updated>2025-05-04T22:06:08.905328+00:00</updated>
+    <updated>2025-05-06T04:57:06.837108+00:00</updated>
     <summary>Article by Joris R. Delanghe, Jan Van Elslande, Maaike Godefroid, Marijn M. Speeckaert, Thomas M. Maenhout
 DOI: https://doi.org/10.1515/hmbci-2024-0043</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/hmbci-2024-0043</summary>
     <title>Climate change, vitamin D and the viking abandonment in Greenland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2024-0068/html"/>
     <id>https://doi.org/10.1515/hmbci-2024-0068</id>
-    <updated>2025-05-04T22:06:08.905336+00:00</updated>
+    <updated>2025-05-06T04:57:06.837117+00:00</updated>
     <summary>Article by Joris Delanghe, Marijn Speeckaert, Marc De Buyzere
 DOI: https://doi.org/10.1515/hmbci-2024-0068</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/hmbci-2024-0068</summary>
     <title>Evaluation of serum inhibin B and inhibin B/FSH ratio in the diagnosis of non-obstructive azoospermia and oligozoospermia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2024-0054/html"/>
     <id>https://doi.org/10.1515/hmbci-2024-0054</id>
-    <updated>2025-05-04T22:06:08.905344+00:00</updated>
+    <updated>2025-05-06T04:57:06.837125+00:00</updated>
     <summary>Article by Olaniru B. Olumide, Adoga I. Godwin, Nkereuwem S. Etukudoh, Sulagna Dutta, Obeta M. Uchejeso, Johnson O. Titilayo, Isichei O. Christian, Selowo T. Temitope, Pallav Sengupta
 DOI: https://doi.org/10.1515/hmbci-2024-0054</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/hmbci-2024-0054</summary>
     <title>Association between cerebrospinal fluid chitotriosidase level and amyotrophic lateral sclerosis: a systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2024-0007/html"/>
     <id>https://doi.org/10.1515/hmbci-2024-0007</id>
-    <updated>2025-05-04T22:06:08.905353+00:00</updated>
+    <updated>2025-05-06T04:57:06.837138+00:00</updated>
     <summary>Article by Zeinab Khorshidi, Iman Adibi, Majid Ghasemi
 DOI: https://doi.org/10.1515/hmbci-2024-0007</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/hmbci-2024-0007</summary>
     <title>The neuropharmacological and clinical effects of lutein: a systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/hmbci-2024-0053/html"/>
     <id>https://doi.org/10.1515/hmbci-2024-0053</id>
-    <updated>2025-05-04T22:06:08.905360+00:00</updated>
+    <updated>2025-05-06T04:57:06.837145+00:00</updated>
     <summary>Article by Atefeh Arab Firozjae, Mohammad Reza Shiran, Mohsen Rashidi
 DOI: https://doi.org/10.1515/hmbci-2024-0053</summary>
   </entry>

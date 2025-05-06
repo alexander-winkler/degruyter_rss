@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für archäologische Aufklärung</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfaa/1/2/html"/>
-  <updated>2025-05-04T22:13:33.347839+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zfaa/1/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfaa.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfaa/html" rel="related"/>
+  <updated>2025-05-06T05:07:15.805078+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfaa.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für archäologische Aufklärung</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfaa.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-frontmatter0102/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-frontmatter0102</id>
-    <updated>2025-05-04T22:13:33.347867+00:00</updated>
+    <updated>2025-05-06T05:07:15.805100+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfaa-2024-frontmatter0102</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-toc0102/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-toc0102</id>
-    <updated>2025-05-04T22:13:33.347878+00:00</updated>
+    <updated>2025-05-06T05:07:15.805108+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfaa-2024-toc0102</summary>
   </entry>
   <entry>
     <title>Zur Methode</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010201/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010201</id>
-    <updated>2025-05-04T22:13:33.347884+00:00</updated>
+    <updated>2025-05-06T05:07:15.805115+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfaa-2024-010201</summary>
   </entry>
   <entry>
     <title>Kunst ohne Lehrbuch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010202/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010202</id>
-    <updated>2025-05-04T22:13:33.347889+00:00</updated>
+    <updated>2025-05-06T05:07:15.805122+00:00</updated>
     <summary>Article by Nadia J. Koch
 DOI: https://doi.org/10.14361/zfaa-2024-010202</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010202</summary>
     <title>Farbpunkt, Raster und Collage. Essay über die Frage, wie die Alten ihre Bilder auflösten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010203/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010203</id>
-    <updated>2025-05-04T22:13:33.347896+00:00</updated>
+    <updated>2025-05-06T05:07:15.805131+00:00</updated>
     <summary>Article by Andreas Grüner
 DOI: https://doi.org/10.14361/zfaa-2024-010203</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010203</summary>
     <title>Vom Punkt zum Bild. Über den Beginn assoziativer Motiventschlüsselung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010204/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010204</id>
-    <updated>2025-05-04T22:13:33.347903+00:00</updated>
+    <updated>2025-05-06T05:07:15.805139+00:00</updated>
     <summary>Article by Thorsten Uthmeier, Andreas Pastoors
 DOI: https://doi.org/10.14361/zfaa-2024-010204</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010204</summary>
     <title>Das Mosaik als Metapher für die Stadt. Das Ganze und seine Teile</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010205/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010205</id>
-    <updated>2025-05-04T22:13:33.347912+00:00</updated>
+    <updated>2025-05-06T05:07:15.805147+00:00</updated>
     <summary>Article by Annette Haug
 DOI: https://doi.org/10.14361/zfaa-2024-010205</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010205</summary>
     <title>Kunsthistorische Bedeutung ohne Gleichheitszeichen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010206/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010206</id>
-    <updated>2025-05-04T22:13:33.347917+00:00</updated>
+    <updated>2025-05-06T05:07:15.805154+00:00</updated>
     <summary>Article by Armin F. Bergmeier
 DOI: https://doi.org/10.14361/zfaa-2024-010206</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010206</summary>
     <title>Kontinuum und Diskontinuum am Beispiel der Frankfurter Treppe</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010207/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010207</id>
-    <updated>2025-05-04T22:13:33.347923+00:00</updated>
+    <updated>2025-05-06T05:07:15.805161+00:00</updated>
     <summary>Article by Claudia Schmieder
 DOI: https://doi.org/10.14361/zfaa-2024-010207</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010207</summary>
     <title>Das korrupte Bild</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010208/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010208</id>
-    <updated>2025-05-04T22:13:33.347929+00:00</updated>
+    <updated>2025-05-06T05:07:15.805169+00:00</updated>
     <summary>Article by Julian Schreyer
 DOI: https://doi.org/10.14361/zfaa-2024-010208</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010208</summary>
     <title>Mosaikästhetik als Metareferenz im Computerspiel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010209/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010209</id>
-    <updated>2025-05-04T22:13:33.347935+00:00</updated>
+    <updated>2025-05-06T05:07:15.805176+00:00</updated>
     <summary>Article by Theresa Krampe
 DOI: https://doi.org/10.14361/zfaa-2024-010209</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010209</summary>
     <title>Die Nachkriegsukraine als Betätigungsfeld innovativer Mosaikkünstler</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010210/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010210</id>
-    <updated>2025-05-04T22:13:33.347941+00:00</updated>
+    <updated>2025-05-06T05:07:15.805184+00:00</updated>
     <summary>Article by Lubava Illyenko
 DOI: https://doi.org/10.14361/zfaa-2024-010210</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010210</summary>
     <title>Eine Statue aus Steinchen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010211/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010211</id>
-    <updated>2025-05-04T22:13:33.347952+00:00</updated>
+    <updated>2025-05-06T05:07:15.805191+00:00</updated>
     <summary>Article by Alexandra Holler
 DOI: https://doi.org/10.14361/zfaa-2024-010211</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010211</summary>
     <title>Umbruch und Aufbruch in der spätantiken Ästhetik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010212/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010212</id>
-    <updated>2025-05-04T22:13:33.347958+00:00</updated>
+    <updated>2025-05-06T05:07:15.805197+00:00</updated>
     <summary>Article by Alberto Virdis
 DOI: https://doi.org/10.14361/zfaa-2024-010212</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010212</summary>
     <title>Das Mosaik und das digitale Bild</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010213/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010213</id>
-    <updated>2025-05-04T22:13:33.347963+00:00</updated>
+    <updated>2025-05-06T05:07:15.805204+00:00</updated>
     <summary>Article by Jens Schröter
 DOI: https://doi.org/10.14361/zfaa-2024-010213</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010213</summary>
     <title>Eine kindische Tüftelei ohne Ende</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010214/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010214</id>
-    <updated>2025-05-04T22:13:33.347969+00:00</updated>
+    <updated>2025-05-06T05:07:15.805211+00:00</updated>
     <summary>Article by Felix Henke
 DOI: https://doi.org/10.14361/zfaa-2024-010214</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.14361/zfaa-2024-010214</summary>
     <title>Den Betrachter herausfordern. Prinzipien des pergamenischen Mosaiks</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010215/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010215</id>
-    <updated>2025-05-04T22:13:33.347974+00:00</updated>
+    <updated>2025-05-06T05:07:15.805219+00:00</updated>
     <summary>Article by Andreas Grüner
 DOI: https://doi.org/10.14361/zfaa-2024-010215</summary>
   </entry>
@@ -148,14 +145,14 @@ DOI: https://doi.org/10.14361/zfaa-2024-010215</summary>
     <title>Fotos zum Mosaik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010216/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010216</id>
-    <updated>2025-05-04T22:13:33.347980+00:00</updated>
+    <updated>2025-05-06T05:07:15.805226+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfaa-2024-010216</summary>
   </entry>
   <entry>
     <title>Abkürzungsvermerk</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zfaa-2024-010217/html"/>
     <id>https://doi.org/10.14361/zfaa-2024-010217</id>
-    <updated>2025-05-04T22:13:33.347985+00:00</updated>
+    <updated>2025-05-06T05:07:15.805232+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zfaa-2024-010217</summary>
   </entry>
 </feed>

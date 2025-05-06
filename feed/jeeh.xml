@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal des Économistes et des Études Humaines</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jeeh/29/1/html"/>
-  <updated>2025-05-04T22:07:47.516612+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jeeh/29/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jeeh.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jeeh/html" rel="related"/>
+  <updated>2025-05-06T04:59:19.411068+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jeeh.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal des Économistes et des Études Humaines</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jeeh.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jeeh-2023-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jeeh-2023-frontmatter1</id>
-    <updated>2025-05-04T22:07:47.516642+00:00</updated>
+    <updated>2025-05-06T04:59:19.411105+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jeeh-2023-frontmatter1</summary>
   </entry>
   <entry>
     <title>Legitimate Tax Structures: Lessons from the Past</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jeeh-2022-0008/html"/>
     <id>https://doi.org/10.1515/jeeh-2022-0008</id>
-    <updated>2025-05-04T22:07:47.516650+00:00</updated>
+    <updated>2025-05-06T04:59:19.411114+00:00</updated>
     <summary>Article by Enrico Colombatto
 DOI: https://doi.org/10.1515/jeeh-2022-0008</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jeeh-2022-0008</summary>
     <title>The Poverty of Radical Ecological Economics: A Critique of Clive Spash from the Viewpoint of the Austrian School</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jeeh-2023-0018/html"/>
     <id>https://doi.org/10.1515/jeeh-2023-0018</id>
-    <updated>2025-05-04T22:07:47.516659+00:00</updated>
+    <updated>2025-05-06T04:59:19.411124+00:00</updated>
     <summary>Article by Renaud Fillieule
 DOI: https://doi.org/10.1515/jeeh-2023-0018</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jeeh-2023-0018</summary>
     <title>The Poverty of Radical Ecological Economics: A Supportive Comment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jeeh-2023-0021/html"/>
     <id>https://doi.org/10.1515/jeeh-2023-0021</id>
-    <updated>2025-05-04T22:07:47.516667+00:00</updated>
+    <updated>2025-05-06T04:59:19.411132+00:00</updated>
     <summary>Article by Erwan Queinnec
 DOI: https://doi.org/10.1515/jeeh-2023-0021</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jeeh-2023-0021</summary>
     <title>Clarifying the Analysis of Deadweight Loss from Taxation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jeeh-2023-0020/html"/>
     <id>https://doi.org/10.1515/jeeh-2023-0020</id>
-    <updated>2025-05-04T22:07:47.516674+00:00</updated>
+    <updated>2025-05-06T04:59:19.411140+00:00</updated>
     <summary>Article by Tate Fegley, Kristoffer Mousten Hansen, Karl-Friedrich Israel
 DOI: https://doi.org/10.1515/jeeh-2023-0020</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jeeh-2023-0020</summary>
     <title>The School of Salamanca on Value of Money: A Reassessment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jeeh-2022-0013/html"/>
     <id>https://doi.org/10.1515/jeeh-2022-0013</id>
-    <updated>2025-05-04T22:07:47.516681+00:00</updated>
+    <updated>2025-05-06T04:59:19.411150+00:00</updated>
     <summary>Article by Mohammadhosein Bahmanpour-Khalesi, Mohammadjavad Sharifzadeh
 DOI: https://doi.org/10.1515/jeeh-2022-0013</summary>
   </entry>

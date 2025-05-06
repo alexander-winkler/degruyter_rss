@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The B.E. Journal of Economic Analysis &amp; Policy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/bejeap/25/2/html"/>
-  <updated>2025-05-04T22:03:16.802780+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/bejeap/25/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejeap.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bejeap/html" rel="related"/>
+  <updated>2025-05-06T04:53:08.364387+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejeap.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The B.E. Journal of Economic Analysis &amp; Policy</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejeap.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/bejeap-2025-frontmatter2</id>
-    <updated>2025-05-04T22:03:16.802809+00:00</updated>
+    <updated>2025-05-06T04:53:08.364409+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/bejeap-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>FRAND Licensing of Standard-Essential Patents: Comparing Realistic Ex-Ante and Ex-Post Contracts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2023-0271/html"/>
     <id>https://doi.org/10.1515/bejeap-2023-0271</id>
-    <updated>2025-05-04T22:03:16.802816+00:00</updated>
+    <updated>2025-05-06T04:53:08.364419+00:00</updated>
     <summary>Article by Pier Luigi Parcu, Maria Alessandra Rossi, David Silei
 DOI: https://doi.org/10.1515/bejeap-2023-0271</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/bejeap-2023-0271</summary>
     <title>To Commit or Not to Commit in Product-Innovation Timing Games</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0147/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0147</id>
-    <updated>2025-05-04T22:03:16.802826+00:00</updated>
+    <updated>2025-05-06T04:53:08.364428+00:00</updated>
     <summary>Article by Chia-Hung Sun
 DOI: https://doi.org/10.1515/bejeap-2024-0147</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/bejeap-2024-0147</summary>
     <title>Coordinated Minimum Wage Policies: Impacts on EU-Level Income Inequality</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0103/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0103</id>
-    <updated>2025-05-04T22:03:16.802832+00:00</updated>
+    <updated>2025-05-06T04:53:08.364435+00:00</updated>
     <summary>Article by Stefano Filauro, Klaus Grünberger, Edlira Narazani
 DOI: https://doi.org/10.1515/bejeap-2024-0103</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/bejeap-2024-0103</summary>
     <title>Regulatory Contestability and Cost Pass-Through</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0379/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0379</id>
-    <updated>2025-05-04T22:03:16.802840+00:00</updated>
+    <updated>2025-05-06T04:53:08.364443+00:00</updated>
     <summary>Article by Dennis L. Weisman
 DOI: https://doi.org/10.1515/bejeap-2024-0379</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/bejeap-2024-0379</summary>
     <title>Explaining the Economic Characteristics of Different International Peacekeeping Institutions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2023-0297/html"/>
     <id>https://doi.org/10.1515/bejeap-2023-0297</id>
-    <updated>2025-05-04T22:03:16.802847+00:00</updated>
+    <updated>2025-05-06T04:53:08.364452+00:00</updated>
     <summary>Article by Paul Hallwood, Thomas Miceli
 DOI: https://doi.org/10.1515/bejeap-2023-0297</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/bejeap-2023-0297</summary>
     <title>Setting Reserve Prices in Repeated Procurement Auctions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0421/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0421</id>
-    <updated>2025-05-04T22:03:16.802853+00:00</updated>
+    <updated>2025-05-06T04:53:08.364460+00:00</updated>
     <summary>Article by Sümeyra Atmaca, Riccardo Camboni, Elena Podkolzina, Koen Schoors, Paola Valbonesi
 DOI: https://doi.org/10.1515/bejeap-2024-0421</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/bejeap-2024-0421</summary>
     <title>Public and Private School Grade Inflation Patterns in Secondary Education</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0136/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0136</id>
-    <updated>2025-05-04T22:03:16.802861+00:00</updated>
+    <updated>2025-05-06T04:53:08.364468+00:00</updated>
     <summary>Article by Pedro Luís Silva, Stephen L. DesJardins, Ricardo Biscaia, Carla Sá, Pedro N. Teixeira
 DOI: https://doi.org/10.1515/bejeap-2024-0136</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/bejeap-2024-0136</summary>
     <title>Estimating Labor Supply Elasticities in Korea: The Role of Limited Commitment Between Spouses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0254/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0254</id>
-    <updated>2025-05-04T22:03:16.802868+00:00</updated>
+    <updated>2025-05-06T04:53:08.364475+00:00</updated>
     <summary>Article by Seoyoon Jeong, Won Hyeok Kim, Myungkyu Shim
 DOI: https://doi.org/10.1515/bejeap-2024-0254</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/bejeap-2024-0254</summary>
     <title>Strategic Brand Proliferation: Monopoly versus Duopoly</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2023-0322/html"/>
     <id>https://doi.org/10.1515/bejeap-2023-0322</id>
-    <updated>2025-05-04T22:03:16.802875+00:00</updated>
+    <updated>2025-05-06T04:53:08.364483+00:00</updated>
     <summary>Article by Kentaro Inomata
 DOI: https://doi.org/10.1515/bejeap-2023-0322</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/bejeap-2023-0322</summary>
     <title>Parental Investments During Labor Shocks: Evidence from Vietnam’s Marine Disaster</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejeap-2024-0046/html"/>
     <id>https://doi.org/10.1515/bejeap-2024-0046</id>
-    <updated>2025-05-04T22:03:16.802882+00:00</updated>
+    <updated>2025-05-06T04:53:08.364490+00:00</updated>
     <summary>Article by Eric W. Chan, Luong Nguyen
 DOI: https://doi.org/10.1515/bejeap-2024-0046</summary>
   </entry>

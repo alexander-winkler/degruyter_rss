@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Physics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/phys/23/1/html"/>
-  <updated>2025-05-04T22:11:08.768891+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/phys/23/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phys.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/phys/html" rel="related"/>
+  <updated>2025-05-06T05:03:54.233548+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phys.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Physics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phys.xml" type="application/rss+xml"/>
   <entry>
     <title>Single-step fabrication of Ag2S/poly-2-mercaptoaniline nanoribbon photocathodes for green hydrogen generation from artificial and natural red-sea water</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0095/html"/>
     <id>https://doi.org/10.1515/phys-2024-0095</id>
-    <updated>2025-05-04T22:11:08.768911+00:00</updated>
+    <updated>2025-05-06T05:03:54.233573+00:00</updated>
     <summary>Article by Eman Aldosari, Mohamed Rabia, Aimaro Sanna, Osama Farid
 DOI: https://doi.org/10.1515/phys-2024-0095</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/phys-2024-0095</summary>
     <title>Abundant new interaction solutions and nonlinear dynamics for the (3+1)-dimensional Hirota–Satsuma–Ito-like equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0114/html"/>
     <id>https://doi.org/10.1515/phys-2024-0114</id>
-    <updated>2025-05-04T22:11:08.768919+00:00</updated>
+    <updated>2025-05-06T05:03:54.233583+00:00</updated>
     <summary>Article by Xiaotian Liu, Yongshuai Zhang, Yunqing Yang
 DOI: https://doi.org/10.1515/phys-2024-0114</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/phys-2024-0114</summary>
     <title>A novel gold and SiO2material based planar 5-element high HPBW end-fire antenna array for 300 GHz applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0116/html"/>
     <id>https://doi.org/10.1515/phys-2024-0116</id>
-    <updated>2025-05-04T22:11:08.768927+00:00</updated>
+    <updated>2025-05-06T05:03:54.233590+00:00</updated>
     <summary>Article by Jagadeesh Babu Kamili, Rabah W. Aldhaheri, Anveshkumar Nella, Khalid H. Alharbi, Muntasir M. Sheikh
 DOI: https://doi.org/10.1515/phys-2024-0116</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/phys-2024-0116</summary>
     <title>Explicit exact solutions and bifurcation analysis for the mZK equation with truncated M-fractional derivatives utilizing two reliable methods</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0117/html"/>
     <id>https://doi.org/10.1515/phys-2024-0117</id>
-    <updated>2025-05-04T22:11:08.768933+00:00</updated>
+    <updated>2025-05-06T05:03:54.233596+00:00</updated>
     <summary>Article by Pim Malingam, Paiwan Wongsasinchai, Sekson Sirisubtawee
 DOI: https://doi.org/10.1515/phys-2024-0117</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/phys-2024-0117</summary>
     <title>Optical and laser damage resistance: Role of periodic cylindrical surfaces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0119/html"/>
     <id>https://doi.org/10.1515/phys-2024-0119</id>
-    <updated>2025-05-04T22:11:08.768939+00:00</updated>
+    <updated>2025-05-06T05:03:54.233602+00:00</updated>
     <summary>Article by Yuan Li, Junhong Su
 DOI: https://doi.org/10.1515/phys-2024-0119</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/phys-2024-0119</summary>
     <title>Numerical study of flow and heat transfer in the air-side metal foam partially filled channels of panel-type radiator under forced convection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0121/html"/>
     <id>https://doi.org/10.1515/phys-2025-0121</id>
-    <updated>2025-05-04T22:11:08.768944+00:00</updated>
+    <updated>2025-05-06T05:03:54.233609+00:00</updated>
     <summary>Article by Wenrong Si, Chenzhao Fu, Xinye Wu, Xianqin Deng, Peng Yuan, Zexuan Huang, Jian Yang
 DOI: https://doi.org/10.1515/phys-2025-0121</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/phys-2025-0121</summary>
     <title>Water-based hybrid nanofluid flow containing CNT nanoparticles over an extending surface with velocity slips, thermal convective, and zero-mass flux conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0122/html"/>
     <id>https://doi.org/10.1515/phys-2025-0122</id>
-    <updated>2025-05-04T22:11:08.768949+00:00</updated>
+    <updated>2025-05-06T05:03:54.233617+00:00</updated>
     <summary>Article by Humaira Yasmin, Rawan Bossly, Fuad S. Alduais, Afrah Al-Bossly, Anwar Saeed
 DOI: https://doi.org/10.1515/phys-2025-0122</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/phys-2025-0122</summary>
     <title>Dynamical wave structures for some diffusion--reaction equations with quadratic and quartic nonlinearities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0115/html"/>
     <id>https://doi.org/10.1515/phys-2024-0115</id>
-    <updated>2025-05-04T22:11:08.768955+00:00</updated>
+    <updated>2025-05-06T05:03:54.233623+00:00</updated>
     <summary>Article by Nauman Ahmed, Jorge E. Macías-Díaz, Makhdoom Ali, Muhammad Jawaz, Muhammad Z. Baber, María G. Medina-Guevara
 DOI: https://doi.org/10.1515/phys-2024-0115</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/phys-2024-0115</summary>
     <title>Solving an isotropic grey matter tumour modelviaa heat transfer equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0120/html"/>
     <id>https://doi.org/10.1515/phys-2025-0120</id>
-    <updated>2025-05-04T22:11:08.768961+00:00</updated>
+    <updated>2025-05-06T05:03:54.233629+00:00</updated>
     <summary>Article by Sameerah Jamal
 DOI: https://doi.org/10.1515/phys-2025-0120</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/phys-2025-0120</summary>
     <title>Study on the penetration protection of a fiber-reinforced composite structure with CNTs/GFP clip STF/3DKevlar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0108/html"/>
     <id>https://doi.org/10.1515/phys-2024-0108</id>
-    <updated>2025-05-04T22:11:08.768966+00:00</updated>
+    <updated>2025-05-06T05:03:54.233636+00:00</updated>
     <summary>Article by Yangshuo Liu, Xingyong Gao, Ping Cui, Mingjiang Han, Ruosi Yan, Huanan Wei, Anqi Zhai, Hao Luo
 DOI: https://doi.org/10.1515/phys-2024-0108</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/phys-2024-0108</summary>
     <title>Influence of Hall current and acoustic pressure on nanostructured DPL thermoelastic plates under ramp heating in a double-temperature model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0125/html"/>
     <id>https://doi.org/10.1515/phys-2025-0125</id>
-    <updated>2025-05-04T22:11:08.768971+00:00</updated>
+    <updated>2025-05-06T05:03:54.233643+00:00</updated>
     <summary>Article by Kh. Lotfy, Ibrahim S. Elshazly, Borhen Halouani, Saurav Sharma, Praveen Ailawalia, Alaa A. El-Bary
 DOI: https://doi.org/10.1515/phys-2025-0125</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/phys-2025-0125</summary>
     <title>Applications of the Belousov–Zhabotinsky reaction–diffusion system: Analytical and numerical approaches</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0129/html"/>
     <id>https://doi.org/10.1515/phys-2025-0129</id>
-    <updated>2025-05-04T22:11:08.768977+00:00</updated>
+    <updated>2025-05-06T05:03:54.233650+00:00</updated>
     <summary>Article by Zaki Mrzog Alaof, Khalid K. Ali, Mona S. Mehanna, Abdel-Haleem Abdel-Aty, Mohamed A. Shaalan
 DOI: https://doi.org/10.1515/phys-2025-0129</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/phys-2025-0129</summary>
     <title>AC electroosmotic flow of Maxwell fluid in a pH-regulated parallel-plate silica nanochannel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0126/html"/>
     <id>https://doi.org/10.1515/phys-2025-0126</id>
-    <updated>2025-05-04T22:11:08.768982+00:00</updated>
+    <updated>2025-05-06T05:03:54.233656+00:00</updated>
     <summary>Article by Mandula Buren, Yingchun Zhao, Long Chang, Guangpu Zhao, Yongjun Jian
 DOI: https://doi.org/10.1515/phys-2025-0126</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/phys-2025-0126</summary>
     <title>Interpreting optical effects with relativistic transformations adopting one-way synchronization to conserve simultaneity and space–time continuity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0127/html"/>
     <id>https://doi.org/10.1515/phys-2025-0127</id>
-    <updated>2025-05-04T22:11:08.768987+00:00</updated>
+    <updated>2025-05-06T05:03:54.233661+00:00</updated>
     <summary>Article by Gianfranco Spavieri, Espen Gaarder Haug
 DOI: https://doi.org/10.1515/phys-2025-0127</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/phys-2025-0127</summary>
     <title>Modeling and analysis of quantum communication channel in airborne platforms with boundary layer effects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0133/html"/>
     <id>https://doi.org/10.1515/phys-2025-0133</id>
-    <updated>2025-05-04T22:11:08.768993+00:00</updated>
+    <updated>2025-05-06T05:03:54.233667+00:00</updated>
     <summary>Article by Zhi-Feng Deng, Hao-Ran Hu, Ya Wang, Jia-Hao Li, Jia-Hua Wei, Hui-Cun Yu, Lei Shi
 DOI: https://doi.org/10.1515/phys-2025-0133</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/phys-2025-0133</summary>
     <title>Theoretical and numerical investigation of a memristor system with a piecewise memductance under fractal–fractional derivatives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0134/html"/>
     <id>https://doi.org/10.1515/phys-2025-0134</id>
-    <updated>2025-05-04T22:11:08.768999+00:00</updated>
+    <updated>2025-05-06T05:03:54.233673+00:00</updated>
     <summary>Article by Maroua Amel Boubekeur, İrem Akbulut Arik, Seda Igret Araz
 DOI: https://doi.org/10.1515/phys-2025-0134</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/phys-2025-0134</summary>
     <title>Tuning the structure and electro-optical properties ofα-Cr2O3films by heat treatment/La doping for optoelectronic applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0136/html"/>
     <id>https://doi.org/10.1515/phys-2025-0136</id>
-    <updated>2025-05-04T22:11:08.769004+00:00</updated>
+    <updated>2025-05-06T05:03:54.233680+00:00</updated>
     <summary>Article by Adel M. El Sayed, Faisal Katib Alanazi
 DOI: https://doi.org/10.1515/phys-2025-0136</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/phys-2025-0136</summary>
     <title>High-speed multi-spectral explosion temperature measurement using golden-section accelerated Pearson correlation algorithm</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0138/html"/>
     <id>https://doi.org/10.1515/phys-2025-0138</id>
-    <updated>2025-05-04T22:11:08.769009+00:00</updated>
+    <updated>2025-05-06T05:03:54.233688+00:00</updated>
     <summary>Article by Guanghai Liu, Ming Gao, Changjiang Liu, Yusheng Xu, Xiongxing Zhang, Haibin Chen
 DOI: https://doi.org/10.1515/phys-2025-0138</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/phys-2025-0138</summary>
     <title>Dynamic behavior and modulation instability of the generalized coupled fractional nonlinear Helmholtz equation with cubic–quintic term</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0144/html"/>
     <id>https://doi.org/10.1515/phys-2025-0144</id>
-    <updated>2025-05-04T22:11:08.769015+00:00</updated>
+    <updated>2025-05-06T05:03:54.233694+00:00</updated>
     <summary>Article by Kun Zhang, Jiangping Cao
 DOI: https://doi.org/10.1515/phys-2025-0144</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/phys-2025-0144</summary>
     <title>Study on the duration of laser-induced air plasma flash near thin film surface</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0141/html"/>
     <id>https://doi.org/10.1515/phys-2025-0141</id>
-    <updated>2025-05-04T22:11:08.769020+00:00</updated>
+    <updated>2025-05-06T05:03:54.233699+00:00</updated>
     <summary>Article by Guixia Wang, Junhong Su, Qingsong Wang
 DOI: https://doi.org/10.1515/phys-2025-0141</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/phys-2025-0141</summary>
     <title>Exploring the dynamics of fractional-order nonlinear dispersive wave system through homotopy technique</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0128/html"/>
     <id>https://doi.org/10.1515/phys-2025-0128</id>
-    <updated>2025-05-04T22:11:08.769025+00:00</updated>
+    <updated>2025-05-06T05:03:54.233704+00:00</updated>
     <summary>Article by Chiranahalli Vijaya Darshan Kumar, Doddabhadrappla Gowda Prakasha, Nasser Bin Turki
 DOI: https://doi.org/10.1515/phys-2025-0128</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/phys-2025-0128</summary>
     <title>The mechanism of carbon monoxide fluorescence inside a femtosecond laser-induced plasma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0135/html"/>
     <id>https://doi.org/10.1515/phys-2025-0135</id>
-    <updated>2025-05-04T22:11:08.769030+00:00</updated>
+    <updated>2025-05-06T05:03:54.233710+00:00</updated>
     <summary>Article by Junfeng Zhang, Dandan Shi, Qinxin Wang, Hang Lv
 DOI: https://doi.org/10.1515/phys-2025-0135</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/phys-2025-0135</summary>
     <title>Numerical solution of a nonconstant coefficient advection diffusion equation in an irregular domain and analyses of numerical dispersion and dissipation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0137/html"/>
     <id>https://doi.org/10.1515/phys-2025-0137</id>
-    <updated>2025-05-04T22:11:08.769035+00:00</updated>
+    <updated>2025-05-06T05:03:54.233715+00:00</updated>
     <summary>Article by Appanah Rao Appadu, Hagos Hailu Gidey
 DOI: https://doi.org/10.1515/phys-2025-0137</summary>
   </entry>
@@ -199,15 +196,23 @@ DOI: https://doi.org/10.1515/phys-2025-0137</summary>
     <title>Numerical examination of the chemically reactive MHD flow of hybrid nanofluids over a two-dimensional stretching surface with the Cattaneo–Christov model and slip conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0140/html"/>
     <id>https://doi.org/10.1515/phys-2025-0140</id>
-    <updated>2025-05-04T22:11:08.769041+00:00</updated>
+    <updated>2025-05-06T05:03:54.233723+00:00</updated>
     <summary>Article by Ebrahem A. Algehyne, Fahad Maqbul Alamrani, M. M. Seada, Anwar Saeed, Gabriella Bognár
 DOI: https://doi.org/10.1515/phys-2025-0140</summary>
+  </entry>
+  <entry>
+    <title>Impacts of sinusoidal heat flux and embraced heated rectangular cavity on natural convection within a square enclosure partially filled with porous medium and Casson-hybrid nanofluid</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0142/html"/>
+    <id>https://doi.org/10.1515/phys-2025-0142</id>
+    <updated>2025-05-06T05:03:54.233729+00:00</updated>
+    <summary>Article by Anil Ahlawat, Mukesh Kumar Sharma, Kaouther Ghachem, Badr M. Alshammari, Lioua Kolsi
+DOI: https://doi.org/10.1515/phys-2025-0142</summary>
   </entry>
   <entry>
     <title>Possible explanation for the neutron lifetime puzzle</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2024-0113/html"/>
     <id>https://doi.org/10.1515/phys-2024-0113</id>
-    <updated>2025-05-04T22:11:08.769047+00:00</updated>
+    <updated>2025-05-06T05:03:54.233735+00:00</updated>
     <summary>Article by Ashish M. Desai
 DOI: https://doi.org/10.1515/phys-2024-0113</summary>
   </entry>
@@ -215,7 +220,7 @@ DOI: https://doi.org/10.1515/phys-2024-0113</summary>
     <title>Numerical investigation on fluid-thermal-electric performance of a thermoelectric-integrated helically coiled tube heat exchanger for coal mine air cooling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phys-2025-0123/html"/>
     <id>https://doi.org/10.1515/phys-2025-0123</id>
-    <updated>2025-05-04T22:11:08.769053+00:00</updated>
+    <updated>2025-05-06T05:03:54.233741+00:00</updated>
     <summary>Article by Xing Lu, Renkun Dai, Jun Deng, Ting Ma
 DOI: https://doi.org/10.1515/phys-2025-0123</summary>
   </entry>

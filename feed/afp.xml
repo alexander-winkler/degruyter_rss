@@ -1,49 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>AfP</title>
-  <link href="https://www.degruyterbrill.com/journal/key/afp/56/2/html"/>
-  <updated>2025-05-04T22:02:19.415911+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/afp/56/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/afp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/afp/html" rel="related"/>
+  <updated>2025-05-06T04:51:59.064071+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/afp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in AfP</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/afp.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-frontmatter5602/html"/>
     <id>https://doi.org/10.9785/afp-2025-frontmatter5602</id>
-    <updated>2025-05-04T22:02:19.415940+00:00</updated>
+    <updated>2025-05-06T04:51:59.064091+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-frontmatter5602</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-toc5602/html"/>
     <id>https://doi.org/10.9785/afp-2025-toc5602</id>
-    <updated>2025-05-04T22:02:19.415948+00:00</updated>
+    <updated>2025-05-06T04:51:59.064098+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-toc5602</summary>
   </entry>
   <entry>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560201/html"/>
     <id>https://doi.org/10.9785/afp-2025-560201</id>
-    <updated>2025-05-04T22:02:19.415954+00:00</updated>
+    <updated>2025-05-06T04:51:59.064103+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560201</summary>
   </entry>
   <entry>
     <title>Answers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560232/html"/>
     <id>https://doi.org/10.9785/afp-2025-560232</id>
-    <updated>2025-05-04T22:02:19.415959+00:00</updated>
+    <updated>2025-05-06T04:51:59.064108+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560232</summary>
   </entry>
   <entry>
     <title>Die Entwicklung der Haftung des mittelbaren Störers zu einer rechtsgebietsübergreifend einheitlichen Rechtsfigur — Zugleich Besprechung von BGH v. 17.12.2024 – VI ZR 311/23 zur Haftung von Quellen und Informanten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560202/html"/>
     <id>https://doi.org/10.9785/afp-2025-560202</id>
-    <updated>2025-05-04T22:02:19.415973+00:00</updated>
+    <updated>2025-05-06T04:51:59.064120+00:00</updated>
     <summary>Article by Johannes von Rosen
 DOI: https://doi.org/10.9785/afp-2025-560202</summary>
   </entry>
@@ -51,7 +48,7 @@ DOI: https://doi.org/10.9785/afp-2025-560202</summary>
     <title>Datenschutz im Reformstaatsvertrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560203/html"/>
     <id>https://doi.org/10.9785/afp-2025-560203</id>
-    <updated>2025-05-04T22:02:19.415980+00:00</updated>
+    <updated>2025-05-06T04:51:59.064127+00:00</updated>
     <summary>Article by Sven Braun
 DOI: https://doi.org/10.9785/afp-2025-560203</summary>
   </entry>
@@ -59,7 +56,7 @@ DOI: https://doi.org/10.9785/afp-2025-560203</summary>
     <title>Die Anti-SLAPP-Richtlinie der EU – das Ende politisch motivierter SLAPPs?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560204/html"/>
     <id>https://doi.org/10.9785/afp-2025-560204</id>
-    <updated>2025-05-04T22:02:19.415987+00:00</updated>
+    <updated>2025-05-06T04:51:59.064133+00:00</updated>
     <summary>Article by Johannes Maurer
 DOI: https://doi.org/10.9785/afp-2025-560204</summary>
   </entry>
@@ -67,7 +64,7 @@ DOI: https://doi.org/10.9785/afp-2025-560204</summary>
     <title>Aserbaidschan: Verweigerung der Erteilung einer Rundfunklizenz — EGMR (Dritte Sektion), Urt. v. 18.2.2025 – 257/12 (Objective Television und Radio Broadcasting Company u.a. gegen Aserbaidschan)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560205/html"/>
     <id>https://doi.org/10.9785/afp-2025-560205</id>
-    <updated>2025-05-04T22:02:19.415995+00:00</updated>
+    <updated>2025-05-06T04:51:59.064140+00:00</updated>
     <summary>Article by Sebastian Ramelli
 DOI: https://doi.org/10.9785/afp-2025-560205</summary>
   </entry>
@@ -75,7 +72,7 @@ DOI: https://doi.org/10.9785/afp-2025-560205</summary>
     <title>Rumänien: Veröffentlichung und Hosting von Äußerungen auf Facebook-Seite — EGMR (Vierte Sektion), Urt. v. 7.1.2025 – 1847/21 (Pătrașcu gegen Rumänien).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560206/html"/>
     <id>https://doi.org/10.9785/afp-2025-560206</id>
-    <updated>2025-05-04T22:02:19.416001+00:00</updated>
+    <updated>2025-05-06T04:51:59.064145+00:00</updated>
     <summary>Article by Sebastian Ramelli
 DOI: https://doi.org/10.9785/afp-2025-560206</summary>
   </entry>
@@ -83,7 +80,7 @@ DOI: https://doi.org/10.9785/afp-2025-560206</summary>
     <title>Stand: 1.4.2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560207/html"/>
     <id>https://doi.org/10.9785/afp-2025-560207</id>
-    <updated>2025-05-04T22:02:19.416007+00:00</updated>
+    <updated>2025-05-06T04:51:59.064150+00:00</updated>
     <summary>Article by Dominik Eickemeier, Lena Rosenau
 DOI: https://doi.org/10.9785/afp-2025-560207</summary>
   </entry>
@@ -91,7 +88,7 @@ DOI: https://doi.org/10.9785/afp-2025-560207</summary>
     <title>Stand: 1.4.2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560208/html"/>
     <id>https://doi.org/10.9785/afp-2025-560208</id>
-    <updated>2025-05-04T22:02:19.416014+00:00</updated>
+    <updated>2025-05-06T04:51:59.064157+00:00</updated>
     <summary>Article by Martin Jäger
 DOI: https://doi.org/10.9785/afp-2025-560208</summary>
   </entry>
@@ -99,7 +96,7 @@ DOI: https://doi.org/10.9785/afp-2025-560208</summary>
     <title>Prüfung des deutschen BNDG durch EGMR</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560209/html"/>
     <id>https://doi.org/10.9785/afp-2025-560209</id>
-    <updated>2025-05-04T22:02:19.416020+00:00</updated>
+    <updated>2025-05-06T04:51:59.064163+00:00</updated>
     <summary>Article by Christine Libor
 DOI: https://doi.org/10.9785/afp-2025-560209</summary>
   </entry>
@@ -107,7 +104,7 @@ DOI: https://doi.org/10.9785/afp-2025-560209</summary>
     <title>Kantonsgericht Zug: Gewinnherausgabeanspruch nach Persönlichkeitsrechtsverletzung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560210/html"/>
     <id>https://doi.org/10.9785/afp-2025-560210</id>
-    <updated>2025-05-04T22:02:19.416026+00:00</updated>
+    <updated>2025-05-06T04:51:59.064168+00:00</updated>
     <summary>Article by Stefanie Fuchs-Galilea
 DOI: https://doi.org/10.9785/afp-2025-560210</summary>
   </entry>
@@ -115,7 +112,7 @@ DOI: https://doi.org/10.9785/afp-2025-560210</summary>
     <title>Tarifabschluss zu KI‑Nutzung im Film</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560211/html"/>
     <id>https://doi.org/10.9785/afp-2025-560211</id>
-    <updated>2025-05-04T22:02:19.416033+00:00</updated>
+    <updated>2025-05-06T04:51:59.064174+00:00</updated>
     <summary>Article by Christine Libor
 DOI: https://doi.org/10.9785/afp-2025-560211</summary>
   </entry>
@@ -123,7 +120,7 @@ DOI: https://doi.org/10.9785/afp-2025-560211</summary>
     <title>Forderung nach Ausbaubeschleunigungsgesetz für Telekommunikation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560212/html"/>
     <id>https://doi.org/10.9785/afp-2025-560212</id>
-    <updated>2025-05-04T22:02:19.416039+00:00</updated>
+    <updated>2025-05-06T04:51:59.064179+00:00</updated>
     <summary>Article by Christine Libor
 DOI: https://doi.org/10.9785/afp-2025-560212</summary>
   </entry>
@@ -131,7 +128,7 @@ DOI: https://doi.org/10.9785/afp-2025-560212</summary>
     <title>Praxisleitfaden „Drehbuch und KI“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560213/html"/>
     <id>https://doi.org/10.9785/afp-2025-560213</id>
-    <updated>2025-05-04T22:02:19.416045+00:00</updated>
+    <updated>2025-05-06T04:51:59.064184+00:00</updated>
     <summary>Article by Christine Libor
 DOI: https://doi.org/10.9785/afp-2025-560213</summary>
   </entry>
@@ -139,7 +136,7 @@ DOI: https://doi.org/10.9785/afp-2025-560213</summary>
     <title>USA: Bestrebung um Aussetzung der EU-Regulierung von Plattformen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560214/html"/>
     <id>https://doi.org/10.9785/afp-2025-560214</id>
-    <updated>2025-05-04T22:02:19.416051+00:00</updated>
+    <updated>2025-05-06T04:51:59.064189+00:00</updated>
     <summary>Article by Christine Libor
 DOI: https://doi.org/10.9785/afp-2025-560214</summary>
   </entry>
@@ -147,35 +144,35 @@ DOI: https://doi.org/10.9785/afp-2025-560214</summary>
     <title>Von Feindseligkeit gegenüber LGBT-Personen motivierter Medienartikel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560215/html"/>
     <id>https://doi.org/10.9785/afp-2025-560215</id>
-    <updated>2025-05-04T22:02:19.416057+00:00</updated>
+    <updated>2025-05-06T04:51:59.064194+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560215</summary>
   </entry>
   <entry>
     <title>Keine Verantwortlichkeit der Quelle für persönlichkeitsrechtsverletzende Berichterstattung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560216/html"/>
     <id>https://doi.org/10.9785/afp-2025-560216</id>
-    <updated>2025-05-04T22:02:19.416062+00:00</updated>
+    <updated>2025-05-06T04:51:59.064199+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560216</summary>
   </entry>
   <entry>
     <title>Unzulässigkeit des presserechtlichen Informationsschreibens nur bei Opt-out</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560217/html"/>
     <id>https://doi.org/10.9785/afp-2025-560217</id>
-    <updated>2025-05-04T22:02:19.416068+00:00</updated>
+    <updated>2025-05-06T04:51:59.064204+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560217</summary>
   </entry>
   <entry>
     <title>Keine Strafbarkeit der Aufschrift eines Demonstrationsplakats</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560218/html"/>
     <id>https://doi.org/10.9785/afp-2025-560218</id>
-    <updated>2025-05-04T22:02:19.416078+00:00</updated>
+    <updated>2025-05-06T04:51:59.064208+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560218</summary>
   </entry>
   <entry>
     <title>Prüfpflichten des Hostproviders bzgl. sinngleicher Deepfakes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560219/html"/>
     <id>https://doi.org/10.9785/afp-2025-560219</id>
-    <updated>2025-05-04T22:02:19.416083+00:00</updated>
+    <updated>2025-05-06T04:51:59.064214+00:00</updated>
     <summary>Article by Markus Rössel
 DOI: https://doi.org/10.9785/afp-2025-560219</summary>
   </entry>
@@ -183,70 +180,70 @@ DOI: https://doi.org/10.9785/afp-2025-560219</summary>
     <title>Herabwürdigende Kritik an Tageszeitung und deren Journalisten in satirisch geprägter Glosse</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560220/html"/>
     <id>https://doi.org/10.9785/afp-2025-560220</id>
-    <updated>2025-05-04T22:02:19.416090+00:00</updated>
+    <updated>2025-05-06T04:51:59.064220+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560220</summary>
   </entry>
   <entry>
     <title>Umfang des Zeugnisverweigerungsrechts einer Pressevertreterin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560221/html"/>
     <id>https://doi.org/10.9785/afp-2025-560221</id>
-    <updated>2025-05-04T22:02:19.416096+00:00</updated>
+    <updated>2025-05-06T04:51:59.064224+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560221</summary>
   </entry>
   <entry>
     <title>Gegendarstellung mit ausreichendem Entgegnungszusammenhang</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560222/html"/>
     <id>https://doi.org/10.9785/afp-2025-560222</id>
-    <updated>2025-05-04T22:02:19.416101+00:00</updated>
+    <updated>2025-05-06T04:51:59.064228+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560222</summary>
   </entry>
   <entry>
     <title>Einladung zu Wahlsendung nach vergleichbarer politischer Relevanz von Parteien</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560223/html"/>
     <id>https://doi.org/10.9785/afp-2025-560223</id>
-    <updated>2025-05-04T22:02:19.416107+00:00</updated>
+    <updated>2025-05-06T04:51:59.064234+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560223</summary>
   </entry>
   <entry>
     <title>Auskunftsanspruch bzgl. Beseitigung eines Kulturdenkmals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560224/html"/>
     <id>https://doi.org/10.9785/afp-2025-560224</id>
-    <updated>2025-05-04T22:02:19.416112+00:00</updated>
+    <updated>2025-05-06T04:51:59.064238+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560224</summary>
   </entry>
   <entry>
     <title>Umfragewerte als Differenzierungskriterium für Beteiligung an Wahlsendung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560225/html"/>
     <id>https://doi.org/10.9785/afp-2025-560225</id>
-    <updated>2025-05-04T22:02:19.416121+00:00</updated>
+    <updated>2025-05-06T04:51:59.064243+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560225</summary>
   </entry>
   <entry>
     <title>Kein Unterlassungsanspruch gegenüber amtlicher Pressemitteilung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560226/html"/>
     <id>https://doi.org/10.9785/afp-2025-560226</id>
-    <updated>2025-05-04T22:02:19.416126+00:00</updated>
+    <updated>2025-05-06T04:51:59.064247+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560226</summary>
   </entry>
   <entry>
     <title>Auskunftsanspruch bzgl. Arbeitszeit eines leitenden Ministerialbeamten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560227/html"/>
     <id>https://doi.org/10.9785/afp-2025-560227</id>
-    <updated>2025-05-04T22:02:19.416131+00:00</updated>
+    <updated>2025-05-06T04:51:59.064252+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560227</summary>
   </entry>
   <entry>
     <title>Anspruch auf Ausstrahlung eines satirischen Wahlwerbespots</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560228/html"/>
     <id>https://doi.org/10.9785/afp-2025-560228</id>
-    <updated>2025-05-04T22:02:19.416136+00:00</updated>
+    <updated>2025-05-06T04:51:59.064256+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560228</summary>
   </entry>
   <entry>
     <title>Zulässigkeit der Nachrichten-App einer öffentlich-rechtlichen Rundfunkanstalt – NEWSZONE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560229/html"/>
     <id>https://doi.org/10.9785/afp-2025-560229</id>
-    <updated>2025-05-04T22:02:19.416141+00:00</updated>
+    <updated>2025-05-06T04:51:59.064261+00:00</updated>
     <summary>Article by Jan Heinrich Schmitt-Mücke
 DOI: https://doi.org/10.9785/afp-2025-560229</summary>
   </entry>
@@ -254,14 +251,14 @@ DOI: https://doi.org/10.9785/afp-2025-560229</summary>
     <title>Nichtannahme der Verfassungsbeschwerde einer politischen Partei gegen Nichtberücksichtigung in Wahlsendung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560230/html"/>
     <id>https://doi.org/10.9785/afp-2025-560230</id>
-    <updated>2025-05-04T22:02:19.416147+00:00</updated>
+    <updated>2025-05-06T04:51:59.064267+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/afp-2025-560230</summary>
   </entry>
   <entry>
     <title>Binder/Vesting, Beck’scher Kommentar zum Rundfunkrecht — 5. Aufl. 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/afp-2025-560231/html"/>
     <id>https://doi.org/10.9785/afp-2025-560231</id>
-    <updated>2025-05-04T22:02:19.416154+00:00</updated>
+    <updated>2025-05-06T04:51:59.064272+00:00</updated>
     <summary>Article by Christoph Degenhart
 DOI: https://doi.org/10.9785/afp-2025-560231</summary>
   </entry>

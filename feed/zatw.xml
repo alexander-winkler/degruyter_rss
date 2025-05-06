@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für die alttestamentliche Wissenschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zatw/137/1/html"/>
-  <updated>2025-05-04T22:13:26.137294+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zatw/137/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zatw.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zatw/html" rel="related"/>
+  <updated>2025-05-06T05:07:05.247837+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zatw.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für die alttestamentliche Wissenschaft</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zatw.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zaw-2025-frontmatter1</id>
-    <updated>2025-05-04T22:13:26.137324+00:00</updated>
+    <updated>2025-05-06T05:07:05.247865+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zaw-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Sabbatical Framework of Sacred Times in H</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1003/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1003</id>
-    <updated>2025-05-04T22:13:26.137332+00:00</updated>
+    <updated>2025-05-06T05:07:05.247876+00:00</updated>
     <summary>Article by Kim Young Hye
 DOI: https://doi.org/10.1515/zaw-2025-1003</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zaw-2025-1003</summary>
     <title>Forme et fonction de courts récits miraculeux sur Élisée</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1004/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1004</id>
-    <updated>2025-05-04T22:13:26.137339+00:00</updated>
+    <updated>2025-05-06T05:07:05.247887+00:00</updated>
     <summary>Article by Jan Rückl
 DOI: https://doi.org/10.1515/zaw-2025-1004</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zaw-2025-1004</summary>
     <title>Die Eröffnung des Sacharjabuches (Sach 1,1–6) als prophetentheologischer Programmtext</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1001/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1001</id>
-    <updated>2025-05-04T22:13:26.137346+00:00</updated>
+    <updated>2025-05-06T05:07:05.247897+00:00</updated>
     <summary>Article by Achim Behrens
 DOI: https://doi.org/10.1515/zaw-2025-1001</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zaw-2025-1001</summary>
     <title>Uncanny Resemblances – Prov 9 as an Introduction to Proverbial Thinking</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1002/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1002</id>
-    <updated>2025-05-04T22:13:26.137352+00:00</updated>
+    <updated>2025-05-06T05:07:05.247906+00:00</updated>
     <summary>Article by Yannik Ehmer
 DOI: https://doi.org/10.1515/zaw-2025-1002</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zaw-2025-1002</summary>
     <title>Wie hoch stieg das Wasser der Sintflut? Neue Überlegungen zu Gen 7,20</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1006/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1006</id>
-    <updated>2025-05-04T22:13:26.137358+00:00</updated>
+    <updated>2025-05-06T05:07:05.247914+00:00</updated>
     <summary>Article by Josef Tropper, Juan-Pablo Vita
 DOI: https://doi.org/10.1515/zaw-2025-1006</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zaw-2025-1006</summary>
     <title>Identifying Pannag, an Ancient Product of Israel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1005/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1005</id>
-    <updated>2025-05-04T22:13:26.137364+00:00</updated>
+    <updated>2025-05-06T05:07:05.247923+00:00</updated>
     <summary>Article by Raanan Eichler
 DOI: https://doi.org/10.1515/zaw-2025-1005</summary>
   </entry>
@@ -70,14 +67,14 @@ DOI: https://doi.org/10.1515/zaw-2025-1005</summary>
     <title>Zeitschriften- und Bücherschau</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1007/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1007</id>
-    <updated>2025-05-04T22:13:26.137370+00:00</updated>
+    <updated>2025-05-06T05:07:05.247931+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zaw-2025-1007</summary>
   </entry>
   <entry>
     <title>Korrigendum zu: Die Judäer/Aramäer von Elephantine und ihre Religion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zaw-2025-1008/html"/>
     <id>https://doi.org/10.1515/zaw-2025-1008</id>
-    <updated>2025-05-04T22:13:26.137375+00:00</updated>
+    <updated>2025-05-06T05:07:05.247939+00:00</updated>
     <summary>Article by Bernd U. Schipper
 DOI: https://doi.org/10.1515/zaw-2025-1008</summary>
   </entry>

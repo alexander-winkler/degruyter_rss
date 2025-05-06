@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Phonetica</title>
-  <link href="https://www.degruyterbrill.com/journal/key/phon/82/2/html"/>
-  <updated>2025-05-04T22:11:04.730374+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/phon/82/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/phon/html" rel="related"/>
+  <updated>2025-05-06T05:03:48.411621+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Phonetica</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/phon-2025-frontmatter2</id>
-    <updated>2025-05-04T22:11:04.730412+00:00</updated>
+    <updated>2025-05-06T05:03:48.411648+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phon-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>On the salience of prenuclear accents: evidence from an imitation study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0026/html"/>
     <id>https://doi.org/10.1515/phon-2024-0026</id>
-    <updated>2025-05-04T22:11:04.730421+00:00</updated>
+    <updated>2025-05-06T05:03:48.411658+00:00</updated>
     <summary>Article by Suyeon Im, José Ignacio Hualde, Jennifer Cole
 DOI: https://doi.org/10.1515/phon-2024-0026</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/phon-2024-0026</summary>
     <title>Probing syllabic affiliation of word-initial and word-medial consonant sequences in north-central Peninsular Spanish</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0004/html"/>
     <id>https://doi.org/10.1515/phon-2024-0004</id>
-    <updated>2025-05-04T22:11:04.730431+00:00</updated>
+    <updated>2025-05-06T05:03:48.411670+00:00</updated>
     <summary>Article by Karthik Durvasula, Silvina Bongiovanni
 DOI: https://doi.org/10.1515/phon-2024-0004</summary>
   </entry>

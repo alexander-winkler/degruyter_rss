@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Review of Marketing Science</title>
-  <link href="https://www.degruyterbrill.com/journal/key/roms/22/1/html"/>
-  <updated>2025-05-04T22:12:09.658656+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/roms/22/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roms.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/roms/html" rel="related"/>
+  <updated>2025-05-06T05:05:19.219347+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roms.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Review of Marketing Science</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/roms.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/roms-2024-frontmatter1</id>
-    <updated>2025-05-04T22:12:09.658683+00:00</updated>
+    <updated>2025-05-06T05:05:19.219371+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/roms-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Reduction of Ivory Product Purchase in China: The Role of Cultural Values on Ethical Consumption</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0023/html"/>
     <id>https://doi.org/10.1515/roms-2023-0023</id>
-    <updated>2025-05-04T22:12:09.658692+00:00</updated>
+    <updated>2025-05-06T05:05:19.219379+00:00</updated>
     <summary>Article by Ge Xiao, Han Ma, HyeRyeon Lee
 DOI: https://doi.org/10.1515/roms-2023-0023</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/roms-2023-0023</summary>
     <title>The Prospection and Retrospection of Experiential Purchases as More Meaningful Memories: Social and Affective Implications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0107/html"/>
     <id>https://doi.org/10.1515/roms-2023-0107</id>
-    <updated>2025-05-04T22:12:09.658702+00:00</updated>
+    <updated>2025-05-06T05:05:19.219390+00:00</updated>
     <summary>Article by Rogelio Puente-Diaz, Judith Cavazos-Arroyo
 DOI: https://doi.org/10.1515/roms-2023-0107</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/roms-2023-0107</summary>
     <title>“How Brands Can Influence Consumers’ Attitudes Towards Visiting Brand-related destinations”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2024-0019/html"/>
     <id>https://doi.org/10.1515/roms-2024-0019</id>
-    <updated>2025-05-04T22:12:09.658714+00:00</updated>
+    <updated>2025-05-06T05:05:19.219399+00:00</updated>
     <summary>Article by Miguel A. Ruz-Mendoza, Omar Chabán
 DOI: https://doi.org/10.1515/roms-2024-0019</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/roms-2024-0019</summary>
     <title>Consumer Behaviour on AI Applications for Services: Measuring the Impact of Value-Based Adoption Model on Luxurious AI Resorts’ Applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0099/html"/>
     <id>https://doi.org/10.1515/roms-2023-0099</id>
-    <updated>2025-05-04T22:12:09.658723+00:00</updated>
+    <updated>2025-05-06T05:05:19.219407+00:00</updated>
     <summary>Article by Dimitra Skandali, Anastasios Magoutas, Georgios Tsourvakas
 DOI: https://doi.org/10.1515/roms-2023-0099</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/roms-2023-0099</summary>
     <title>AI-Powered Augmented Reality App Satisfies My Beauty Needs and Want</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0018/html"/>
     <id>https://doi.org/10.1515/roms-2023-0018</id>
-    <updated>2025-05-04T22:12:09.658735+00:00</updated>
+    <updated>2025-05-06T05:05:19.219414+00:00</updated>
     <summary>Article by Asad Hassan Butt, Hassan Ahmad, Naeem Khan, Usman Mumtaz, Asif Muzaffar
 DOI: https://doi.org/10.1515/roms-2023-0018</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/roms-2023-0018</summary>
     <title>The 4Ps Marketing Strategy as a Driver of Dynamic Capabilities: Path to Consumer/Voter Satisfaction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0125/html"/>
     <id>https://doi.org/10.1515/roms-2023-0125</id>
-    <updated>2025-05-04T22:12:09.658743+00:00</updated>
+    <updated>2025-05-06T05:05:19.219422+00:00</updated>
     <summary>Article by Nicos Antoniades, Alexander Buoye
 DOI: https://doi.org/10.1515/roms-2023-0125</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/roms-2023-0125</summary>
     <title>Authenticity as a Strategic Weapon: Navigating the Social Media Battlefield to Enhance Brand Loyalty</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0118/html"/>
     <id>https://doi.org/10.1515/roms-2023-0118</id>
-    <updated>2025-05-04T22:12:09.658750+00:00</updated>
+    <updated>2025-05-06T05:05:19.219429+00:00</updated>
     <summary>Article by Sohail Ahmad, Li Liang, Ahmad Iqbal, Irshad Hussain Sarki
 DOI: https://doi.org/10.1515/roms-2023-0118</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/roms-2023-0118</summary>
     <title>Allurement of Augmented Reality on Behavioral Intention: Delineating the Role of Visual Appeal and Arousal Using Information System Success Model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2024-0036/html"/>
     <id>https://doi.org/10.1515/roms-2024-0036</id>
-    <updated>2025-05-04T22:12:09.658757+00:00</updated>
+    <updated>2025-05-06T05:05:19.219436+00:00</updated>
     <summary>Article by Satinder Kumar, Dipti Malhotra
 DOI: https://doi.org/10.1515/roms-2024-0036</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/roms-2024-0036</summary>
     <title>Don’t Tell Me to Have, but to Do It! The Role of Luxury Desirability Motives in Reducing Counterfeiting Schadenfreude</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2024-0001/html"/>
     <id>https://doi.org/10.1515/roms-2024-0001</id>
-    <updated>2025-05-04T22:12:09.658764+00:00</updated>
+    <updated>2025-05-06T05:05:19.219444+00:00</updated>
     <summary>Article by Sameeullah Khan, Asif Iqbal Fazili, Irfan Bashir
 DOI: https://doi.org/10.1515/roms-2024-0001</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/roms-2024-0001</summary>
     <title>“Gusto” or “Taste”? Anglicisms Change Perceived Product Risk and Product Appeal in Italian Print Advertising</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2023-0129/html"/>
     <id>https://doi.org/10.1515/roms-2023-0129</id>
-    <updated>2025-05-04T22:12:09.658772+00:00</updated>
+    <updated>2025-05-06T05:05:19.219452+00:00</updated>
     <summary>Article by Zhimin Hu, Mark X. James, Giorgio Testa, Eduardo Navarrete
 DOI: https://doi.org/10.1515/roms-2023-0129</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/roms-2023-0129</summary>
     <title>Does Advertising Facilitate Supplier-Provided Trade Credit?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2024-0057/html"/>
     <id>https://doi.org/10.1515/roms-2024-0057</id>
-    <updated>2025-05-04T22:12:09.658779+00:00</updated>
+    <updated>2025-05-06T05:05:19.219459+00:00</updated>
     <summary>Article by Omar Farooq, Kashif Saleem
 DOI: https://doi.org/10.1515/roms-2024-0057</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/roms-2024-0057</summary>
     <title>Understanding the Incongruent Brand Personalities on Social Media: Evidence from Indian Brands</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/roms-2024-0037/html"/>
     <id>https://doi.org/10.1515/roms-2024-0037</id>
-    <updated>2025-05-04T22:12:09.658786+00:00</updated>
+    <updated>2025-05-06T05:05:19.219466+00:00</updated>
     <summary>Article by Anand Vallabhajosula, Venkata Srinivas Kumar Daruri
 DOI: https://doi.org/10.1515/roms-2024-0037</summary>
   </entry>

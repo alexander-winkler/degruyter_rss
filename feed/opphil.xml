@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Philosophy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/opphil/8/1/html"/>
-  <updated>2025-05-04T22:10:48.153368+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/opphil/8/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opphil.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/opphil/html" rel="related"/>
+  <updated>2025-05-06T05:03:26.025455+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opphil.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Philosophy</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opphil.xml" type="application/rss+xml"/>
   <entry>
     <title>Sensual Environmental Robots: Entanglements ofSpeculative RealistIdeas with Design Theory and Practice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2024-0051/html"/>
     <id>https://doi.org/10.1515/opphil-2024-0051</id>
-    <updated>2025-05-04T22:10:48.153401+00:00</updated>
+    <updated>2025-05-06T05:03:26.025479+00:00</updated>
     <summary>Article by Steven C. Santer
 DOI: https://doi.org/10.1515/opphil-2024-0051</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/opphil-2024-0051</summary>
     <title>Technically Getting Off: On the Hope, Disgust, and Time of Robo-Erotics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0062/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0062</id>
-    <updated>2025-05-04T22:10:48.153414+00:00</updated>
+    <updated>2025-05-06T05:03:26.025490+00:00</updated>
     <summary>Article by Rachel McNealis
 DOI: https://doi.org/10.1515/opphil-2025-0062</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0062</summary>
     <title>Aristotle and Sartre onErosand Love-Robots</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0065/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0065</id>
-    <updated>2025-05-04T22:10:48.153423+00:00</updated>
+    <updated>2025-05-06T05:03:26.025498+00:00</updated>
     <summary>Article by Cécilia Andrée Monique Lombard, Daniel D. Novotný
 DOI: https://doi.org/10.1515/opphil-2025-0065</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0065</summary>
     <title>Digital Friends and Empathy Blindness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0063/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0063</id>
-    <updated>2025-05-04T22:10:48.153433+00:00</updated>
+    <updated>2025-05-06T05:03:26.025506+00:00</updated>
     <summary>Article by Alberte Romme Bangsgaard, Cecilia Kløve Ryelund, Mathilde Marie Lind Nilsson, Anders Søgaard
 DOI: https://doi.org/10.1515/opphil-2025-0063</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0063</summary>
     <title>The Power of Predication and Quantification</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2024-0059/html"/>
     <id>https://doi.org/10.1515/opphil-2024-0059</id>
-    <updated>2025-05-04T22:10:48.153442+00:00</updated>
+    <updated>2025-05-06T05:03:26.025514+00:00</updated>
     <summary>Article by Edward N. Zalta
 DOI: https://doi.org/10.1515/opphil-2024-0059</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/opphil-2024-0059</summary>
     <title>A Unifying Double-Reference Approach to Semantic Paradoxes: From the White-Horse-Not-Horse Paradox and the Ultimate-Unspeakable Paradox to the Liar Paradox in View of the Principle of Noncontradiction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0069/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0069</id>
-    <updated>2025-05-04T22:10:48.153451+00:00</updated>
+    <updated>2025-05-06T05:03:26.025522+00:00</updated>
     <summary>Article by Bo Mou
 DOI: https://doi.org/10.1515/opphil-2025-0069</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0069</summary>
     <title>TheZhouPuzzle: A Peek Into Quantification in Mohist Logic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0068/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0068</id>
-    <updated>2025-05-04T22:10:48.153459+00:00</updated>
+    <updated>2025-05-06T05:03:26.025529+00:00</updated>
     <summary>Article by Fenrong Liu, Zhiqiang Sun
 DOI: https://doi.org/10.1515/opphil-2025-0068</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0068</summary>
     <title>Empty Reference in Sixteenth-Century Nominalism: John Mair’s Case</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0070/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0070</id>
-    <updated>2025-05-04T22:10:48.153467+00:00</updated>
+    <updated>2025-05-06T05:03:26.025537+00:00</updated>
     <summary>Article by Guido Alt
 DOI: https://doi.org/10.1515/opphil-2025-0070</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0070</summary>
     <title>Playable Concepts? For a Critique of Videogame Reason</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2024-0057/html"/>
     <id>https://doi.org/10.1515/opphil-2024-0057</id>
-    <updated>2025-05-04T22:10:48.153476+00:00</updated>
+    <updated>2025-05-06T05:03:26.025544+00:00</updated>
     <summary>Article by Giacomo Pezzano
 DOI: https://doi.org/10.1515/opphil-2024-0057</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/opphil-2024-0057</summary>
     <title>The Gamification of Games and Inhibited Play</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0064/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0064</id>
-    <updated>2025-05-04T22:10:48.153483+00:00</updated>
+    <updated>2025-05-06T05:03:26.025550+00:00</updated>
     <summary>Article by Karl Egerton
 DOI: https://doi.org/10.1515/opphil-2025-0064</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0064</summary>
     <title>Being Is a Being</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2024-0058/html"/>
     <id>https://doi.org/10.1515/opphil-2024-0058</id>
-    <updated>2025-05-04T22:10:48.153494+00:00</updated>
+    <updated>2025-05-06T05:03:26.025559+00:00</updated>
     <summary>Article by Maciej Czerkawski
 DOI: https://doi.org/10.1515/opphil-2024-0058</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/opphil-2024-0058</summary>
     <title>What Do Science and Historical Denialists Deny – If Any – When Addressing Certainties in Wittgenstein’s Sense?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0060/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0060</id>
-    <updated>2025-05-04T22:10:48.153502+00:00</updated>
+    <updated>2025-05-06T05:03:26.025567+00:00</updated>
     <summary>Article by Jose Maria Ariso
 DOI: https://doi.org/10.1515/opphil-2025-0060</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0060</summary>
     <title>A Relational Psychoanalytic Analysis of Ovid’s “Narcissus and Echo”: Toward the Obstinate Persistence of the Relational</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0061/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0061</id>
-    <updated>2025-05-04T22:10:48.153511+00:00</updated>
+    <updated>2025-05-06T05:03:26.025574+00:00</updated>
     <summary>Article by Thomas Telios, Florian Schulz
 DOI: https://doi.org/10.1515/opphil-2025-0061</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/opphil-2025-0061</summary>
     <title>What Makes a Prediction Arbitrary? A Proposal</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opphil-2025-0067/html"/>
     <id>https://doi.org/10.1515/opphil-2025-0067</id>
-    <updated>2025-05-04T22:10:48.153519+00:00</updated>
+    <updated>2025-05-06T05:03:26.025581+00:00</updated>
     <summary>Article by Mathew Coakley
 DOI: https://doi.org/10.1515/opphil-2025-0067</summary>
   </entry>

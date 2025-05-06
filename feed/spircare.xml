@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Spiritual Care</title>
-  <link href="https://www.degruyterbrill.com/journal/key/spircare/14/1/html"/>
-  <updated>2025-05-04T22:12:37.941611+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/spircare/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spircare.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/spircare/html" rel="related"/>
+  <updated>2025-05-06T05:05:58.265540+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spircare.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Spiritual Care</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spircare.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/spircare-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:37.941645+00:00</updated>
+    <updated>2025-05-06T05:05:58.265561+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/spircare-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>The significance of taking a spiritual history: A randomized controlled study in a sample of German psychotherapists</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0061/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0061</id>
-    <updated>2025-05-04T22:12:37.941652+00:00</updated>
+    <updated>2025-05-06T05:05:58.265569+00:00</updated>
     <summary>Article by Klaus Michael Reininger, Seda Akpinar, Katinka Schweizer
 DOI: https://doi.org/10.1515/spircare-2024-0061</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0061</summary>
     <title>Gut umsorgt: Spiritualität in sorgenden Gemeinschaften. Eine Perspektive der Praxis.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0027/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0027</id>
-    <updated>2025-05-04T22:12:37.941660+00:00</updated>
+    <updated>2025-05-06T05:05:58.265577+00:00</updated>
     <summary>Article by Olivia Odrasil
 DOI: https://doi.org/10.1515/spircare-2024-0027</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0027</summary>
     <title>Spiritual Care in Caring Communities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0033/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0033</id>
-    <updated>2025-05-04T22:12:37.941666+00:00</updated>
+    <updated>2025-05-06T05:05:58.265584+00:00</updated>
     <summary>Article by Annette Haußmann
 DOI: https://doi.org/10.1515/spircare-2025-0033</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0033</summary>
     <title>Einsamer Tod</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0018/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0018</id>
-    <updated>2025-05-04T22:12:37.941673+00:00</updated>
+    <updated>2025-05-06T05:05:58.265592+00:00</updated>
     <summary>Article by Gabriele Stotz-Ingenlath
 DOI: https://doi.org/10.1515/spircare-2025-0018</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0018</summary>
     <title>Seelsorglich wirksam.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2022-0076/html"/>
     <id>https://doi.org/10.1515/spircare-2022-0076</id>
-    <updated>2025-05-04T22:12:37.941678+00:00</updated>
+    <updated>2025-05-06T05:05:58.265598+00:00</updated>
     <summary>Article by Christine Wenona Hoffmann
 DOI: https://doi.org/10.1515/spircare-2022-0076</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/spircare-2022-0076</summary>
     <title>Freiwilliges Engagement in sozialen Organisationenim Hinblick auf die Motive des Engagements, Erleben emotionaler Distanzierung (Cool Down) und Lebenszufriedenheit bei Menschen mit unterschiedlichen Indikatoren der Spiritualität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2023-0020/html"/>
     <id>https://doi.org/10.1515/spircare-2023-0020</id>
-    <updated>2025-05-04T22:12:37.941685+00:00</updated>
+    <updated>2025-05-06T05:05:58.265606+00:00</updated>
     <summary>Article by Arndt Büssing, Klaus Baumann, Carina Bär-Mennigen
 DOI: https://doi.org/10.1515/spircare-2023-0020</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/spircare-2023-0020</summary>
     <title>Adaptation of Spiritual Intelligence Scale for Turkish: a validity and reliability study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0038/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0038</id>
-    <updated>2025-05-04T22:12:37.941691+00:00</updated>
+    <updated>2025-05-06T05:05:58.265613+00:00</updated>
     <summary>Article by Mustafa Tekke, Mustafa Kumru
 DOI: https://doi.org/10.1515/spircare-2024-0038</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0038</summary>
     <title>Leserbrief zu: Reininger et al. (2025)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0035/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0035</id>
-    <updated>2025-05-04T22:12:37.941696+00:00</updated>
+    <updated>2025-05-06T05:05:58.265621+00:00</updated>
     <summary>Article by Otmar Seidl, Klaus Michael Reininger
 DOI: https://doi.org/10.1515/spircare-2025-0035</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0035</summary>
     <title>„Da bedeutet die Caring Community, man guckt aufeinander“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0045/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0045</id>
-    <updated>2025-05-04T22:12:37.941703+00:00</updated>
+    <updated>2025-05-06T05:05:58.265628+00:00</updated>
     <summary>Article by Patricia Kerl
 DOI: https://doi.org/10.1515/spircare-2024-0045</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0045</summary>
     <title>Zusammen ist man weniger allein – Einblicke in eine Caring Community. Perspektiven und Herausforderungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0042/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0042</id>
-    <updated>2025-05-04T22:12:37.941709+00:00</updated>
+    <updated>2025-05-06T05:05:58.265634+00:00</updated>
     <summary>Article by Olivia Odrasil
 DOI: https://doi.org/10.1515/spircare-2024-0042</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0042</summary>
     <title>Sorgende Gemeinschaften – leibhaftige Spiritualität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0006/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0006</id>
-    <updated>2025-05-04T22:12:37.941716+00:00</updated>
+    <updated>2025-05-06T05:05:58.265641+00:00</updated>
     <summary>Article by Cornelia Coenen-Marx
 DOI: https://doi.org/10.1515/spircare-2024-0006</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0006</summary>
     <title>Hilfe – um Himmelswillen!</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0007/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0007</id>
-    <updated>2025-05-04T22:12:37.941721+00:00</updated>
+    <updated>2025-05-06T05:05:58.265647+00:00</updated>
     <summary>Article by Christoph Sigrist
 DOI: https://doi.org/10.1515/spircare-2025-0007</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0007</summary>
     <title>Spiritual Care – etwas Selbstverständliches in meinem Leben?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0006/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0006</id>
-    <updated>2025-05-04T22:12:37.941727+00:00</updated>
+    <updated>2025-05-06T05:05:58.265654+00:00</updated>
     <summary>Article by Cornelia Diwersy
 DOI: https://doi.org/10.1515/spircare-2025-0006</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0006</summary>
     <title>„Digitale Sorge für die Seele – Anthropologie, Digitalisierung und Seelsorge“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0031/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0031</id>
-    <updated>2025-05-04T22:12:37.941735+00:00</updated>
+    <updated>2025-05-06T05:05:58.265660+00:00</updated>
     <summary>Article by Judith Winkelmann
 DOI: https://doi.org/10.1515/spircare-2025-0031</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0031</summary>
     <title>„Religion, seelische Gesundheit und Integration nach Migration und Flucht“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0001/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0001</id>
-    <updated>2025-05-04T22:12:37.941740+00:00</updated>
+    <updated>2025-05-06T05:05:58.265666+00:00</updated>
     <summary>Article by Norbert Mönter
 DOI: https://doi.org/10.1515/spircare-2025-0001</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/spircare-2025-0001</summary>
     <title>Karl-Josef Kuschel(2024) Weihnachten und der Koran. Ostfildern: Patmos. ISBN 978-3-8436-1437-5; 224 Seiten; Preis: 24,– € (D); 25,50 € (A); 28,80 CHF; 18,99 € (E-Book)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0066/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0066</id>
-    <updated>2025-05-04T22:12:37.941746+00:00</updated>
+    <updated>2025-05-06T05:05:58.265673+00:00</updated>
     <summary>Article by Eckhard Frick
 DOI: https://doi.org/10.1515/spircare-2024-0066</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0066</summary>
     <title>Robert Sempach, Christoph Steinebach und Peter Zängl (Hg.) (2023) Care schafft Community – Community braucht Care. Wiesbaden: Springer VS. ISBN: 978-3-658-32553-4; 297 Seiten, Preis: D 74,99 €; A 87,50 €; CH 89,90 CHF; E-Book 59,99 €</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2024-0018/html"/>
     <id>https://doi.org/10.1515/spircare-2024-0018</id>
-    <updated>2025-05-04T22:12:37.941754+00:00</updated>
+    <updated>2025-05-06T05:05:58.265681+00:00</updated>
     <summary>Article by Olivia Odrasil
 DOI: https://doi.org/10.1515/spircare-2024-0018</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/spircare-2024-0018</summary>
     <title>Sorge</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2020-0027/html"/>
     <id>https://doi.org/10.1515/spircare-2020-0027</id>
-    <updated>2025-05-04T22:12:37.941760+00:00</updated>
+    <updated>2025-05-06T05:05:58.265687+00:00</updated>
     <summary>Article by Eckhard Frick sj
 DOI: https://doi.org/10.1515/spircare-2020-0027</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/spircare-2020-0027</summary>
     <title>Mitteilungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spircare-2025-0024/html"/>
     <id>https://doi.org/10.1515/spircare-2025-0024</id>
-    <updated>2025-05-04T22:12:37.941765+00:00</updated>
+    <updated>2025-05-06T05:05:58.265695+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/spircare-2025-0024</summary>
   </entry>
 </feed>

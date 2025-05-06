@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Diabetic Nephropathy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dine/3/4/html"/>
-  <updated>2025-05-04T22:04:38.787011+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dine/3/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dine.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dine/html" rel="related"/>
+  <updated>2025-05-06T04:55:01.717414+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dine.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Diabetic Nephropathy</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dine.xml" type="application/rss+xml"/>
   <entry>
     <title>Diabetes is associated with higher body composition and bone mineral density in hemodialysis patients</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dine-2023-0008/html"/>
     <id>https://doi.org/10.1515/dine-2023-0008</id>
-    <updated>2025-05-04T22:04:38.787046+00:00</updated>
+    <updated>2025-05-06T04:55:01.717445+00:00</updated>
     <summary>Article by Xiaohua Hu, Cheng Xue, Jinjin Liu, Li Wang, Bibo Wu, Zhuojun Wang, Lijun Sun, Rongrong Bian, Liming Zhang
 DOI: https://doi.org/10.1515/dine-2023-0008</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Review of Middle East Economics and Finance</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rmeef/21/1/html"/>
-  <updated>2025-05-04T22:12:00.494048+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/rmeef/21/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rmeef.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rmeef/html" rel="related"/>
+  <updated>2025-05-06T05:05:06.463609+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rmeef.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Review of Middle East Economics and Finance</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rmeef.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rmeef-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/rmeef-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:00.494087+00:00</updated>
+    <updated>2025-05-06T05:05:06.463642+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/rmeef-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Corporate Governance, Bank Stability and Risk-Taking: Differences Between Conventional and Islamic Banks</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rmeef-2024-0034/html"/>
     <id>https://doi.org/10.1515/rmeef-2024-0034</id>
-    <updated>2025-05-04T22:12:00.494098+00:00</updated>
+    <updated>2025-05-06T05:05:06.463655+00:00</updated>
     <summary>Article by Ghaithaa El Mokdad, Ali Awdeh
 DOI: https://doi.org/10.1515/rmeef-2024-0034</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/rmeef-2024-0034</summary>
     <title>How Does Financial Inclusion Affect Bank Stability? Evidence from the Banking Sector in Ethiopia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rmeef-2024-0022/html"/>
     <id>https://doi.org/10.1515/rmeef-2024-0022</id>
-    <updated>2025-05-04T22:12:00.494109+00:00</updated>
+    <updated>2025-05-06T05:05:06.463667+00:00</updated>
     <summary>Article by Abebe Birhanu Ayele, Keshav Malhotra, Manu Sharma
 DOI: https://doi.org/10.1515/rmeef-2024-0022</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/rmeef-2024-0022</summary>
     <title>Time-Varying Causality Impact of Global Economic Conditions Index on Remittances in Lebanon</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rmeef-2025-0002/html"/>
     <id>https://doi.org/10.1515/rmeef-2025-0002</id>
-    <updated>2025-05-04T22:12:00.494119+00:00</updated>
+    <updated>2025-05-06T05:05:06.463677+00:00</updated>
     <summary>Article by Selçuk Akçay
 DOI: https://doi.org/10.1515/rmeef-2025-0002</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/rmeef-2025-0002</summary>
     <title>The October 2023 Israel-Hamas Conflict: A Catalyst for Energy Transition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rmeef-2024-0005/html"/>
     <id>https://doi.org/10.1515/rmeef-2024-0005</id>
-    <updated>2025-05-04T22:12:00.494129+00:00</updated>
+    <updated>2025-05-06T05:05:06.463686+00:00</updated>
     <summary>Article by Mohamad Zreik
 DOI: https://doi.org/10.1515/rmeef-2024-0005</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/rmeef-2024-0005</summary>
     <title>Quantifying the Economic Cost of the Qatar Blockade Using Synthetic Control</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rmeef-2024-0028/html"/>
     <id>https://doi.org/10.1515/rmeef-2024-0028</id>
-    <updated>2025-05-04T22:12:00.494137+00:00</updated>
+    <updated>2025-05-06T05:05:06.463695+00:00</updated>
     <summary>Article by Mehdi Shiva
 DOI: https://doi.org/10.1515/rmeef-2024-0028</summary>
   </entry>

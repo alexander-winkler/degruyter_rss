@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cognitive Semiotics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cogsem/17/2/html"/>
-  <updated>2025-05-04T22:04:06.326928+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cogsem/17/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogsem.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cogsem/html" rel="related"/>
+  <updated>2025-05-06T04:54:16.222839+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogsem.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Cognitive Semiotics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogsem.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/cogsem-2024-frontmatter2</id>
-    <updated>2025-05-04T22:04:06.326954+00:00</updated>
+    <updated>2025-05-06T04:54:16.222860+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cogsem-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Distributed cognition in oral poetry improvisation: a semiosis-centered approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2024-2011/html"/>
     <id>https://doi.org/10.1515/cogsem-2024-2011</id>
-    <updated>2025-05-04T22:04:06.326963+00:00</updated>
+    <updated>2025-05-06T04:54:16.222866+00:00</updated>
     <summary>Article by Pedro Atã, João Queiroz
 DOI: https://doi.org/10.1515/cogsem-2024-2011</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cogsem-2024-2011</summary>
     <title>Externalization of the mind in the meaning-making process: An integrated semiotic and cognitive science perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2024-2014/html"/>
     <id>https://doi.org/10.1515/cogsem-2024-2014</id>
-    <updated>2025-05-04T22:04:06.326973+00:00</updated>
+    <updated>2025-05-06T04:54:16.222873+00:00</updated>
     <summary>Article by Lorenzo Magnani, Amir Biglari
 DOI: https://doi.org/10.1515/cogsem-2024-2014</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cogsem-2024-2014</summary>
     <title>The virtual habits underlying the behavioural hallmarks of alloanimal episodic memory: a Peircean model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2024-2013/html"/>
     <id>https://doi.org/10.1515/cogsem-2024-2013</id>
-    <updated>2025-05-04T22:04:06.326980+00:00</updated>
+    <updated>2025-05-06T04:54:16.222880+00:00</updated>
     <summary>Article by Oscar Miyamoto
 DOI: https://doi.org/10.1515/cogsem-2024-2013</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cogsem-2024-2013</summary>
     <title>The body says it all: Non-verbal indicators of choice awareness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cogsem-2024-2012/html"/>
     <id>https://doi.org/10.1515/cogsem-2024-2012</id>
-    <updated>2025-05-04T22:04:06.326988+00:00</updated>
+    <updated>2025-05-06T04:54:16.222884+00:00</updated>
     <summary>Article by Alexandra Mouratidou, Jordan Zlatev, Joost van de Weijer
 DOI: https://doi.org/10.1515/cogsem-2024-2012</summary>
   </entry>

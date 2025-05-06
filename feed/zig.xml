@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für interkulturelle Germanistik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zig/15/1/html"/>
-  <updated>2025-05-04T22:13:49.733054+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zig/15/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zig.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zig/html" rel="related"/>
+  <updated>2025-05-06T05:07:39.328044+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zig.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für interkulturelle Germanistik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zig.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-frontmatter01/html"/>
     <id>https://doi.org/10.14361/zig-2024-frontmatter01</id>
-    <updated>2025-05-04T22:13:49.733083+00:00</updated>
+    <updated>2025-05-06T05:07:39.328067+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-frontmatter01</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-toc01/html"/>
     <id>https://doi.org/10.14361/zig-2024-toc01</id>
-    <updated>2025-05-04T22:13:49.733090+00:00</updated>
+    <updated>2025-05-06T05:07:39.328075+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-toc01</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150102/html"/>
     <id>https://doi.org/10.14361/zig-2024-150102</id>
-    <updated>2025-05-04T22:13:49.733101+00:00</updated>
+    <updated>2025-05-06T05:07:39.328081+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-150102</summary>
   </entry>
   <entry>
     <title>Einführung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150103/html"/>
     <id>https://doi.org/10.14361/zig-2024-150103</id>
-    <updated>2025-05-04T22:13:49.733109+00:00</updated>
+    <updated>2025-05-06T05:07:39.328087+00:00</updated>
     <summary>Article by Silke Horstkotte, Julia Schöll, Lisa Wille
 DOI: https://doi.org/10.14361/zig-2024-150103</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.14361/zig-2024-150103</summary>
     <title>Verschollene Zwillinge</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150104/html"/>
     <id>https://doi.org/10.14361/zig-2024-150104</id>
-    <updated>2025-05-04T22:13:49.733117+00:00</updated>
+    <updated>2025-05-06T05:07:39.328096+00:00</updated>
     <summary>Article by Alessandra Goggio
 DOI: https://doi.org/10.14361/zig-2024-150104</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.14361/zig-2024-150104</summary>
     <title>Arbeitende Klasse und Diversität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150105/html"/>
     <id>https://doi.org/10.14361/zig-2024-150105</id>
-    <updated>2025-05-04T22:13:49.733123+00:00</updated>
+    <updated>2025-05-06T05:07:39.328102+00:00</updated>
     <summary>Article by Christoph Schaub
 DOI: https://doi.org/10.14361/zig-2024-150105</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.14361/zig-2024-150105</summary>
     <title>Punchlines platzieren oder Zirkel ziehen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150106/html"/>
     <id>https://doi.org/10.14361/zig-2024-150106</id>
-    <updated>2025-05-04T22:13:49.733128+00:00</updated>
+    <updated>2025-05-06T05:07:39.328109+00:00</updated>
     <summary>Article by Anna Karina Sennefelder
 DOI: https://doi.org/10.14361/zig-2024-150106</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.14361/zig-2024-150106</summary>
     <title>»Unklare Schattierung von nicht-weiß« und »Gendefekt«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150107/html"/>
     <id>https://doi.org/10.14361/zig-2024-150107</id>
-    <updated>2025-05-04T22:13:49.733137+00:00</updated>
+    <updated>2025-05-06T05:07:39.328119+00:00</updated>
     <summary>Article by Philipp Schlüter
 DOI: https://doi.org/10.14361/zig-2024-150107</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.14361/zig-2024-150107</summary>
     <title>Mehrdimensionale Aushandlungen europäischer Identifikation und Differenzierung in Merle Krögers Roman Havarie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150108/html"/>
     <id>https://doi.org/10.14361/zig-2024-150108</id>
-    <updated>2025-05-04T22:13:49.733143+00:00</updated>
+    <updated>2025-05-06T05:07:39.328125+00:00</updated>
     <summary>Article by Lisa Wille
 DOI: https://doi.org/10.14361/zig-2024-150108</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.14361/zig-2024-150108</summary>
     <title>»Deine Mutter kennt kein Maß. Nicht beim Geld und nicht beim Essen«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150109/html"/>
     <id>https://doi.org/10.14361/zig-2024-150109</id>
-    <updated>2025-05-04T22:13:49.733149+00:00</updated>
+    <updated>2025-05-06T05:07:39.328132+00:00</updated>
     <summary>Article by Katerina Brausmann
 DOI: https://doi.org/10.14361/zig-2024-150109</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.14361/zig-2024-150109</summary>
     <title>Identität und Gedächtnis in Lena Goreliks Wer wir sind und Sasha Marianna Salzmanns Im Menschen muss alles herrlich sein</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150110/html"/>
     <id>https://doi.org/10.14361/zig-2024-150110</id>
-    <updated>2025-05-04T22:13:49.733154+00:00</updated>
+    <updated>2025-05-06T05:07:39.328139+00:00</updated>
     <summary>Article by Silke Horstkotte
 DOI: https://doi.org/10.14361/zig-2024-150110</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.14361/zig-2024-150110</summary>
     <title>»Wir alle sind diese Gesellschaft.«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150111/html"/>
     <id>https://doi.org/10.14361/zig-2024-150111</id>
-    <updated>2025-05-04T22:13:49.733160+00:00</updated>
+    <updated>2025-05-06T05:07:39.328145+00:00</updated>
     <summary>Article by Nazli Hodaie
 DOI: https://doi.org/10.14361/zig-2024-150111</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.14361/zig-2024-150111</summary>
     <title>»Kein Platz für Helden«?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150112/html"/>
     <id>https://doi.org/10.14361/zig-2024-150112</id>
-    <updated>2025-05-04T22:13:49.733166+00:00</updated>
+    <updated>2025-05-06T05:07:39.328151+00:00</updated>
     <summary>Article by Susanne Schul
 DOI: https://doi.org/10.14361/zig-2024-150112</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.14361/zig-2024-150112</summary>
     <title>E.T.A. Hoffmanns Nussknacker und Mäusekönig in Korea</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150113/html"/>
     <id>https://doi.org/10.14361/zig-2024-150113</id>
-    <updated>2025-05-04T22:13:49.733171+00:00</updated>
+    <updated>2025-05-06T05:07:39.328158+00:00</updated>
     <summary>Article by Sinae Yang, Jiyeon Kook
 DOI: https://doi.org/10.14361/zig-2024-150113</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.14361/zig-2024-150113</summary>
     <title>»[V]ielfach sich kreuzende Linien«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150114/html"/>
     <id>https://doi.org/10.14361/zig-2024-150114</id>
-    <updated>2025-05-04T22:13:49.733178+00:00</updated>
+    <updated>2025-05-06T05:07:39.328164+00:00</updated>
     <summary>Article by Thomas Schwarz
 DOI: https://doi.org/10.14361/zig-2024-150114</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.14361/zig-2024-150114</summary>
     <title>Vom Schreiben am Abgrund</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150115/html"/>
     <id>https://doi.org/10.14361/zig-2024-150115</id>
-    <updated>2025-05-04T22:13:49.733183+00:00</updated>
+    <updated>2025-05-06T05:07:39.328170+00:00</updated>
     <summary>Article by Izabela Drozdowska-Broering
 DOI: https://doi.org/10.14361/zig-2024-150115</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.14361/zig-2024-150115</summary>
     <title>Transgression und Transposition in Yoko Tawadas Bilderrätsel ohne Bilder, Das Bad und Ein Gast</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150116/html"/>
     <id>https://doi.org/10.14361/zig-2024-150116</id>
-    <updated>2025-05-04T22:13:49.733188+00:00</updated>
+    <updated>2025-05-06T05:07:39.328176+00:00</updated>
     <summary>Article by Julia Sowacka
 DOI: https://doi.org/10.14361/zig-2024-150116</summary>
   </entry>
@@ -148,7 +145,7 @@ DOI: https://doi.org/10.14361/zig-2024-150116</summary>
     <title>Interkulturalität und Climate Fiction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150117/html"/>
     <id>https://doi.org/10.14361/zig-2024-150117</id>
-    <updated>2025-05-04T22:13:49.733193+00:00</updated>
+    <updated>2025-05-06T05:07:39.328182+00:00</updated>
     <summary>Article by Dominik Zink
 DOI: https://doi.org/10.14361/zig-2024-150117</summary>
   </entry>
@@ -156,7 +153,7 @@ DOI: https://doi.org/10.14361/zig-2024-150117</summary>
     <title>Carolus Magnus/Charlemagne/Karl der Große im interkulturellen Wechselblick</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150118/html"/>
     <id>https://doi.org/10.14361/zig-2024-150118</id>
-    <updated>2025-05-04T22:13:49.733199+00:00</updated>
+    <updated>2025-05-06T05:07:39.328188+00:00</updated>
     <summary>Article by Amelie Bendheim, Mathias Herweg, Rainer Leng, Marie-Sophie Masse
 DOI: https://doi.org/10.14361/zig-2024-150118</summary>
   </entry>
@@ -164,7 +161,7 @@ DOI: https://doi.org/10.14361/zig-2024-150118</summary>
     <title>Franziska Bergmann: Schreibweisen des Exotismus. Sinnesfülle und Fremdheit in der westeuropäischen Literatur vom 18. bis zum 20. Jahrhundert</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150119/html"/>
     <id>https://doi.org/10.14361/zig-2024-150119</id>
-    <updated>2025-05-04T22:13:49.733204+00:00</updated>
+    <updated>2025-05-06T05:07:39.328195+00:00</updated>
     <summary>Article by Stefan Hermes
 DOI: https://doi.org/10.14361/zig-2024-150119</summary>
   </entry>
@@ -172,7 +169,7 @@ DOI: https://doi.org/10.14361/zig-2024-150119</summary>
     <title>Matteo Anastasio/Margot Brink/Lisa Dauth/Andrew Erickson/Isabelle Leitloff/Jan Rhein (Hg.): Transnationale Literaturen und Literaturtransfer im 20. und 21. Jahrhundert. Plurilinguale und interdisziplinäre Perspektiven</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150120/html"/>
     <id>https://doi.org/10.14361/zig-2024-150120</id>
-    <updated>2025-05-04T22:13:49.733210+00:00</updated>
+    <updated>2025-05-06T05:07:39.328201+00:00</updated>
     <summary>Article by Georgiana Roxana Lisaru
 DOI: https://doi.org/10.14361/zig-2024-150120</summary>
   </entry>
@@ -180,7 +177,7 @@ DOI: https://doi.org/10.14361/zig-2024-150120</summary>
     <title>Tiffany N. Florvil: Mobilizing Black Germany. Schwarz, deutsch, feministisch – die Geschichte einer Bewegung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150121/html"/>
     <id>https://doi.org/10.14361/zig-2024-150121</id>
-    <updated>2025-05-04T22:13:49.733215+00:00</updated>
+    <updated>2025-05-06T05:07:39.328207+00:00</updated>
     <summary>Article by Jeannette Oholi
 DOI: https://doi.org/10.14361/zig-2024-150121</summary>
   </entry>
@@ -188,28 +185,28 @@ DOI: https://doi.org/10.14361/zig-2024-150121</summary>
     <title>GiG im Gespräch 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150122/html"/>
     <id>https://doi.org/10.14361/zig-2024-150122</id>
-    <updated>2025-05-04T22:13:49.733220+00:00</updated>
+    <updated>2025-05-06T05:07:39.328213+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-150122</summary>
   </entry>
   <entry>
     <title>Nachruf Withold Bonner (1949–2023)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150123/html"/>
     <id>https://doi.org/10.14361/zig-2024-150123</id>
-    <updated>2025-05-04T22:13:49.733225+00:00</updated>
+    <updated>2025-05-06T05:07:39.328218+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-150123</summary>
   </entry>
   <entry>
     <title>Autorinnen und Autoren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150124/html"/>
     <id>https://doi.org/10.14361/zig-2024-150124</id>
-    <updated>2025-05-04T22:13:49.733230+00:00</updated>
+    <updated>2025-05-06T05:07:39.328226+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-150124</summary>
   </entry>
   <entry>
     <title>Hinweise für Autorinnen und Autoren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/zig-2024-150125/html"/>
     <id>https://doi.org/10.14361/zig-2024-150125</id>
-    <updated>2025-05-04T22:13:49.733234+00:00</updated>
+    <updated>2025-05-06T05:07:39.328232+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/zig-2024-150125</summary>
   </entry>
 </feed>

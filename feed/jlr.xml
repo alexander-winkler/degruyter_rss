@@ -1,49 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Language Relationship </title>
-  <link href="https://www.degruyterbrill.com/journal/key/jlr/22/1-2/html"/>
-  <updated>2025-05-04T22:08:15.537872+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jlr/22/1-2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jlr/html" rel="related"/>
+  <updated>2025-05-06T04:59:59.301690+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Language Relationship </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlr.xml" type="application/rss+xml"/>
   <entry>
     <title>Contributors / Сведения об авторах</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-201/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-201</id>
-    <updated>2025-05-04T22:08:15.537907+00:00</updated>
+    <updated>2025-05-06T04:59:59.301720+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/jlr-2024-221-201</summary>
   </entry>
   <entry>
     <title>Title</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-frontmatter221-2/html"/>
     <id>https://doi.org/10.31826/jlr-2024-frontmatter221-2</id>
-    <updated>2025-05-04T22:08:15.537915+00:00</updated>
+    <updated>2025-05-06T04:59:59.301729+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/jlr-2024-frontmatter221-2</summary>
   </entry>
   <entry>
     <title>Note for Contributors / Будущим авторам</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-202/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-202</id>
-    <updated>2025-05-04T22:08:15.537923+00:00</updated>
+    <updated>2025-05-06T04:59:59.301737+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/jlr-2024-221-202</summary>
   </entry>
   <entry>
     <title>Table of Contents / Содержание</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-toc221-2/html"/>
     <id>https://doi.org/10.31826/jlr-2024-toc221-2</id>
-    <updated>2025-05-04T22:08:15.537929+00:00</updated>
+    <updated>2025-05-06T04:59:59.301744+00:00</updated>
     <summary>DOI: https://doi.org/10.31826/jlr-2024-toc221-2</summary>
   </entry>
   <entry>
     <title>Acehnese: The dating of Into-Sumatra migration / К вопросу о датировке миграции ачех на Суматру</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-203/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-203</id>
-    <updated>2025-05-04T22:08:15.537936+00:00</updated>
+    <updated>2025-05-06T04:59:59.301752+00:00</updated>
     <summary>Article by Septhia Irnanda
 DOI: https://doi.org/10.31826/jlr-2024-221-203</summary>
   </entry>
@@ -51,7 +48,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-203</summary>
     <title>On the etymological stratification of borrowed Indo-Iranian vocabulary in Burushaski / Об этимологической стратификации индоиранских заимствований в языке бурушаски</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-204/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-204</id>
-    <updated>2025-05-04T22:08:15.537946+00:00</updated>
+    <updated>2025-05-06T04:59:59.301762+00:00</updated>
     <summary>Article by Anton Kogan
 DOI: https://doi.org/10.31826/jlr-2024-221-204</summary>
   </entry>
@@ -59,7 +56,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-204</summary>
     <title>Рефлексы древнеиранских превербов в шугнанском языке / Reflexes of Old Iranian preverbs in the Shughni language</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-205/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-205</id>
-    <updated>2025-05-04T22:08:15.537953+00:00</updated>
+    <updated>2025-05-06T04:59:59.301770+00:00</updated>
     <summary>Article by Е. Е. Арманд
 DOI: https://doi.org/10.31826/jlr-2024-221-205</summary>
   </entry>
@@ -67,7 +64,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-205</summary>
     <title>Указательные местоимения в древнеиранских языках: основные типы употребления и реконструкция праиранской системы / Demonstrative pronouns in Old Iranian languages: main types of usage and the reconstruction of the Proto-Iranian system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-206/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-206</id>
-    <updated>2025-05-04T22:08:15.537964+00:00</updated>
+    <updated>2025-05-06T04:59:59.301781+00:00</updated>
     <summary>Article by А. О. Бадеев
 DOI: https://doi.org/10.31826/jlr-2024-221-206</summary>
   </entry>
@@ -75,7 +72,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-206</summary>
     <title>Популяционная генетика и лингвистическая компаративистика: филогения и филогеография гаплогруппы N1a2b и лингвистическая предыстория самодийцев / Population genetics and comparative linguistics: phylogeny and phylogeography of haplogroup N1a2b and linguistic prehistory of the Samoyed peoples</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-207/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-207</id>
-    <updated>2025-05-04T22:08:15.537973+00:00</updated>
+    <updated>2025-05-06T04:59:59.301790+00:00</updated>
     <summary>Article by В. Н. Харьков, А. Ю. Урманчиева, Н. А. Колесников, А. А. Зарубин, Л. В. Валихова, И. Ю. Хитринская, И. А. Грунтов, И. М. Егоров, В. М. Лемская, А. В. Дыбо, В. А. Степанов
 DOI: https://doi.org/10.31826/jlr-2024-221-207</summary>
   </entry>
@@ -83,7 +80,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-207</summary>
     <title>Соответствия постувулярных согласных в даргинских языках / Correspondences of post-uvular consonants in Dargwa languages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-208/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-208</id>
-    <updated>2025-05-04T22:08:15.537982+00:00</updated>
+    <updated>2025-05-06T04:59:59.301800+00:00</updated>
     <summary>Article by Н. Р. Сумбатова
 DOI: https://doi.org/10.31826/jlr-2024-221-208</summary>
   </entry>
@@ -91,7 +88,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-208</summary>
     <title>Hokan I: A review of comparative studies / Хока I: обзор исследований по сравнению хоканских языков</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-209/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-209</id>
-    <updated>2025-05-04T22:08:15.537991+00:00</updated>
+    <updated>2025-05-06T04:59:59.301815+00:00</updated>
     <summary>Article by Mikhail Zhivlov
 DOI: https://doi.org/10.31826/jlr-2024-221-209</summary>
   </entry>
@@ -99,7 +96,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-209</summary>
     <title>Популяционная генетика и лингвистическая компаративистика: филогения и филогеография гаплогруппы N1a2b и лингвистическая предыстория самодийцев / Population genetics and comparative linguistics: phylogeny and phylogeography of haplogroup N1a2b and linguistic prehistory of the Samoyed peoples</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-207/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-207</id>
-    <updated>2025-05-04T22:08:15.538000+00:00</updated>
+    <updated>2025-05-06T04:59:59.301824+00:00</updated>
     <summary>Article by В. Н. Харьков, А. Ю. Урманчиева, Н. А. Колесников, А. А. Зарубин, Л. В. Валихова, И. Ю. Хитринская, И. А. Грунтов, И. М. Егоров, В. М. Лемская, А. В. Дыбо, В. А. Степанов
 DOI: https://doi.org/10.31826/jlr-2024-221-207</summary>
   </entry>
@@ -107,7 +104,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-207</summary>
     <title>Соответствия постувулярных согласных в даргинских языках / Correspondences of post-uvular consonants in Dargwa languages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-208/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-208</id>
-    <updated>2025-05-04T22:08:15.538009+00:00</updated>
+    <updated>2025-05-06T04:59:59.301832+00:00</updated>
     <summary>Article by Н. Р. Сумбатова
 DOI: https://doi.org/10.31826/jlr-2024-221-208</summary>
   </entry>
@@ -115,7 +112,7 @@ DOI: https://doi.org/10.31826/jlr-2024-221-208</summary>
     <title>Hokan I: A review of comparative studies / Хока I: обзор исследований по сравнению хоканских языков</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.31826/jlr-2024-221-209/html"/>
     <id>https://doi.org/10.31826/jlr-2024-221-209</id>
-    <updated>2025-05-04T22:08:15.538017+00:00</updated>
+    <updated>2025-05-06T04:59:59.301840+00:00</updated>
     <summary>Article by Mikhail Zhivlov
 DOI: https://doi.org/10.31826/jlr-2024-221-209</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Random Operators and Stochastic Equations</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rose/33/1/html"/>
-  <updated>2025-05-04T22:12:11.262764+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/rose/33/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rose/html" rel="related"/>
+  <updated>2025-05-06T05:05:21.458247+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Random Operators and Stochastic Equations</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/rose-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:11.262804+00:00</updated>
+    <updated>2025-05-06T05:05:21.458275+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/rose-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Backward stochastic differential equations driven by G-Lévy process with double reflexions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2021/html"/>
     <id>https://doi.org/10.1515/rose-2024-2021</id>
-    <updated>2025-05-04T22:12:11.262818+00:00</updated>
+    <updated>2025-05-06T05:05:21.458284+00:00</updated>
     <summary>Article by Cheikh Gueye, Sadibou Aidara, Ahmadou Bamba Sow
 DOI: https://doi.org/10.1515/rose-2024-2021</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/rose-2024-2021</summary>
     <title>Existence results for coupled systems of fractional stochastic differential equations involving Hilfer derivatives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2022/html"/>
     <id>https://doi.org/10.1515/rose-2024-2022</id>
-    <updated>2025-05-04T22:12:11.262829+00:00</updated>
+    <updated>2025-05-06T05:05:21.458294+00:00</updated>
     <summary>Article by Fatima Zahra Arioui
 DOI: https://doi.org/10.1515/rose-2024-2022</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/rose-2024-2022</summary>
     <title>Quadratic-exponential growth backward stochastic Volterra integral equations with jumps and associated dynamic risk measure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2023/html"/>
     <id>https://doi.org/10.1515/rose-2024-2023</id>
-    <updated>2025-05-04T22:12:11.262838+00:00</updated>
+    <updated>2025-05-06T05:05:21.458302+00:00</updated>
     <summary>Article by Kon-Gun Kim, Ji-Gwon Pak, Mun-Chol Kim
 DOI: https://doi.org/10.1515/rose-2024-2023</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/rose-2024-2023</summary>
     <title>Smith’s reduction for random processes and application for stochastic differential equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2024-2024/html"/>
     <id>https://doi.org/10.1515/rose-2024-2024</id>
-    <updated>2025-05-04T22:12:11.262847+00:00</updated>
+    <updated>2025-05-06T05:05:21.458309+00:00</updated>
     <summary>Article by Mohamed-Ahmed Boudref
 DOI: https://doi.org/10.1515/rose-2024-2024</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/rose-2024-2024</summary>
     <title>Stochastic volatility modeling via mixed fractional Brownian motion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2001/html"/>
     <id>https://doi.org/10.1515/rose-2025-2001</id>
-    <updated>2025-05-04T22:12:11.262856+00:00</updated>
+    <updated>2025-05-06T05:05:21.458316+00:00</updated>
     <summary>Article by Amel Belhadj, Abdeldjebbar Kandouci, Amina Angelika Bouchentouf
 DOI: https://doi.org/10.1515/rose-2025-2001</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/rose-2025-2001</summary>
     <title>Averaging principle for RBDSDEs with Poisson jumps</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2002/html"/>
     <id>https://doi.org/10.1515/rose-2025-2002</id>
-    <updated>2025-05-04T22:12:11.262864+00:00</updated>
+    <updated>2025-05-06T05:05:21.458324+00:00</updated>
     <summary>Article by Djibril Ndiaye, Yaya Sagna
 DOI: https://doi.org/10.1515/rose-2025-2002</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/rose-2025-2002</summary>
     <title>Riemann–Liouville fractional stochastic evolution equations driven by mixed sub-fractional Brownian motion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2003/html"/>
     <id>https://doi.org/10.1515/rose-2025-2003</id>
-    <updated>2025-05-04T22:12:11.262873+00:00</updated>
+    <updated>2025-05-06T05:05:21.458331+00:00</updated>
     <summary>Article by Mokhtaria Boutlilis, Abdeldjebbar Kandouci
 DOI: https://doi.org/10.1515/rose-2025-2003</summary>
   </entry>

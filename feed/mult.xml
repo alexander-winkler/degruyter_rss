@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Multilingua</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mult/44/2/html"/>
-  <updated>2025-05-04T22:10:09.363179+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/mult/44/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mult.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mult/html" rel="related"/>
+  <updated>2025-05-06T05:02:34.111426+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mult.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Multilingua</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mult.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/multi-2025-frontmatter2</id>
-    <updated>2025-05-04T22:10:09.363220+00:00</updated>
+    <updated>2025-05-06T05:02:34.111452+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/multi-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>The role of the insider translator in conservation and development: comparing multilingual (auto)ethnobotanical books from Tanzania, Thailand, and Taiwan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2024-0133/html"/>
     <id>https://doi.org/10.1515/multi-2024-0133</id>
-    <updated>2025-05-04T22:10:09.363231+00:00</updated>
+    <updated>2025-05-06T05:02:34.111463+00:00</updated>
     <summary>Article by Darryl Cameron Sterk
 DOI: https://doi.org/10.1515/multi-2024-0133</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/multi-2024-0133</summary>
     <title>Philanthrocapitalism and the languaging of empowered women in the Global South</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2024-0137/html"/>
     <id>https://doi.org/10.1515/multi-2024-0137</id>
-    <updated>2025-05-04T22:10:09.363242+00:00</updated>
+    <updated>2025-05-06T05:02:34.111474+00:00</updated>
     <summary>Article by Sudha Athipet Vepa, Miguel Pérez-Milans
 DOI: https://doi.org/10.1515/multi-2024-0137</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/multi-2024-0137</summary>
     <title>The Complementary Principle and language dominance: mapping the language–domain relationships of Spanish–English bilinguals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2024-0079/html"/>
     <id>https://doi.org/10.1515/multi-2024-0079</id>
-    <updated>2025-05-04T22:10:09.363252+00:00</updated>
+    <updated>2025-05-06T05:02:34.111484+00:00</updated>
     <summary>Article by Daniel J. Olson, Lori Czerwionka
 DOI: https://doi.org/10.1515/multi-2024-0079</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/multi-2024-0079</summary>
     <title>When English isn’t enough in advertising: the role of language, ad length, and complexity in consumer attitudes across Spain and Poland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2024-0090/html"/>
     <id>https://doi.org/10.1515/multi-2024-0090</id>
-    <updated>2025-05-04T22:10:09.363271+00:00</updated>
+    <updated>2025-05-06T05:02:34.111495+00:00</updated>
     <summary>Article by Ana María Rojo López, Katarzyna Anna Nowak
 DOI: https://doi.org/10.1515/multi-2024-0090</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/multi-2024-0090</summary>
     <title>“Calming my heartbeat to enjoy the show”: the social-indexical meanings of in-yer-face theater recontextualized in China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/multi-2024-0081/html"/>
     <id>https://doi.org/10.1515/multi-2024-0081</id>
-    <updated>2025-05-04T22:10:09.363280+00:00</updated>
+    <updated>2025-05-06T05:02:34.111505+00:00</updated>
     <summary>Article by Xiaoyan Liang, Lydia Catedral
 DOI: https://doi.org/10.1515/multi-2024-0081</summary>
   </entry>

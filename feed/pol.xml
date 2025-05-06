@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Pólemos</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pol/19/1/html"/>
-  <updated>2025-05-04T22:11:13.277356+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pol/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pol.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pol/html" rel="related"/>
+  <updated>2025-05-06T05:04:00.652450+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pol.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Pólemos</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pol.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/pol-2025-frontmatter1</id>
-    <updated>2025-05-04T22:11:13.277378+00:00</updated>
+    <updated>2025-05-06T05:04:00.652474+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/pol-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Focus: Law and Literature in the Era of the Digital Condition, an Introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2013/html"/>
     <id>https://doi.org/10.1515/pol-2025-2013</id>
-    <updated>2025-05-04T22:11:13.277385+00:00</updated>
+    <updated>2025-05-06T05:04:00.652481+00:00</updated>
     <summary>Article by Shulamit Almog, Gal Amir
 DOI: https://doi.org/10.1515/pol-2025-2013</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/pol-2025-2013</summary>
     <title>The Legal Subject in the Society of Singularities: Prolegomena to the Legal Type of Personalized Law</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2010/html"/>
     <id>https://doi.org/10.1515/pol-2025-2010</id>
-    <updated>2025-05-04T22:11:13.277392+00:00</updated>
+    <updated>2025-05-06T05:04:00.652492+00:00</updated>
     <summary>Article by Vagias Karavas, Suad Salihu
 DOI: https://doi.org/10.1515/pol-2025-2010</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/pol-2025-2010</summary>
     <title>Online Violence as a Digital Condition: A New Cultural Habit?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2009/html"/>
     <id>https://doi.org/10.1515/pol-2025-2009</id>
-    <updated>2025-05-04T22:11:13.277398+00:00</updated>
+    <updated>2025-05-06T05:04:00.652499+00:00</updated>
     <summary>Article by Kim Barker
 DOI: https://doi.org/10.1515/pol-2025-2009</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/pol-2025-2009</summary>
     <title>The Poetics of Digital Children and Designing Online Democratic Deliberations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2008/html"/>
     <id>https://doi.org/10.1515/pol-2025-2008</id>
-    <updated>2025-05-04T22:11:13.277403+00:00</updated>
+    <updated>2025-05-06T05:04:00.652505+00:00</updated>
     <summary>Article by Daniella Zlotnik Raz
 DOI: https://doi.org/10.1515/pol-2025-2008</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/pol-2025-2008</summary>
     <title>Video Conferencing Platforms (VCPs) and theCohesive Distinctivenessof Legal Proceedings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2012/html"/>
     <id>https://doi.org/10.1515/pol-2025-2012</id>
-    <updated>2025-05-04T22:11:13.277409+00:00</updated>
+    <updated>2025-05-06T05:04:00.652512+00:00</updated>
     <summary>Article by Shulamit Almog, Gal Amir
 DOI: https://doi.org/10.1515/pol-2025-2012</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/pol-2025-2012</summary>
     <title>Rethinking Tech, Reclaiming Ourselves: Human Dignity and Human Rights in Technological Age</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2007/html"/>
     <id>https://doi.org/10.1515/pol-2025-2007</id>
-    <updated>2025-05-04T22:11:13.277415+00:00</updated>
+    <updated>2025-05-06T05:04:00.652518+00:00</updated>
     <summary>Article by Paola Carbone
 DOI: https://doi.org/10.1515/pol-2025-2007</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/pol-2025-2007</summary>
     <title>Two Models of Faith and the Law in Paul and the Western Diaspora</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2024-2020/html"/>
     <id>https://doi.org/10.1515/pol-2024-2020</id>
-    <updated>2025-05-04T22:11:13.277421+00:00</updated>
+    <updated>2025-05-06T05:04:00.652524+00:00</updated>
     <summary>Article by Pier Giuseppe Monateri
 DOI: https://doi.org/10.1515/pol-2024-2020</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/pol-2024-2020</summary>
     <title>Beyond Words: The Politics of Language Control inNineteen Eighty-Four</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2006/html"/>
     <id>https://doi.org/10.1515/pol-2025-2006</id>
-    <updated>2025-05-04T22:11:13.277427+00:00</updated>
+    <updated>2025-05-06T05:04:00.652533+00:00</updated>
     <summary>Article by Anja Meyer
 DOI: https://doi.org/10.1515/pol-2025-2006</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/pol-2025-2006</summary>
     <title>Legitimate Possessions: History, Property and Literary Aesthetics in James F. Cooper’sThe Pioneers(1823) and Catherine M. Sedgwick’sHope Leslie(1827)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2005/html"/>
     <id>https://doi.org/10.1515/pol-2025-2005</id>
-    <updated>2025-05-04T22:11:13.277433+00:00</updated>
+    <updated>2025-05-06T05:04:00.652539+00:00</updated>
     <summary>Article by Peter Schneck
 DOI: https://doi.org/10.1515/pol-2025-2005</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/pol-2025-2005</summary>
     <title>Judging Jo’burg? Fictional Architecture and the Postcolonial Cityscape as Juridical Space</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2004/html"/>
     <id>https://doi.org/10.1515/pol-2025-2004</id>
-    <updated>2025-05-04T22:11:13.277440+00:00</updated>
+    <updated>2025-05-06T05:04:00.652550+00:00</updated>
     <summary>Article by Laura A. Zander
 DOI: https://doi.org/10.1515/pol-2025-2004</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/pol-2025-2004</summary>
     <title>Reproducing anOutsideto Modernity at the Limit of the Law of Seriality: Reading Kawakami Mieko’sBreasts and Eggs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2011/html"/>
     <id>https://doi.org/10.1515/pol-2025-2011</id>
-    <updated>2025-05-04T22:11:13.277445+00:00</updated>
+    <updated>2025-05-06T05:04:00.652556+00:00</updated>
     <summary>Article by Jingyi Wan
 DOI: https://doi.org/10.1515/pol-2025-2011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/pol-2025-2011</summary>
     <title>Law and the Media in Luke Delaney’sThe Jackdaw</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2003/html"/>
     <id>https://doi.org/10.1515/pol-2025-2003</id>
-    <updated>2025-05-04T22:11:13.277451+00:00</updated>
+    <updated>2025-05-06T05:04:00.652566+00:00</updated>
     <summary>Article by Sidia Fiorato
 DOI: https://doi.org/10.1515/pol-2025-2003</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/pol-2025-2003</summary>
     <title>Ian Ward:The Reformation of the Constitution. Law, Culture and Conflict in Jacobean England</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2002/html"/>
     <id>https://doi.org/10.1515/pol-2025-2002</id>
-    <updated>2025-05-04T22:11:13.277457+00:00</updated>
+    <updated>2025-05-06T05:04:00.652572+00:00</updated>
     <summary>Article by Matteo Nicolini
 DOI: https://doi.org/10.1515/pol-2025-2002</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/pol-2025-2002</summary>
     <title>Cathy Shrank and Phil Withington:The Oxford Handbook on Thomas More’s Utopia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pol-2025-2001/html"/>
     <id>https://doi.org/10.1515/pol-2025-2001</id>
-    <updated>2025-05-04T22:11:13.277463+00:00</updated>
+    <updated>2025-05-06T05:04:00.652578+00:00</updated>
     <summary>Article by Ruth Houghton
 DOI: https://doi.org/10.1515/pol-2025-2001</summary>
   </entry>

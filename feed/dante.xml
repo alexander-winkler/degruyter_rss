@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Deutsches Dante-Jahrbuch</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dante/99/1/html"/>
-  <updated>2025-05-04T22:04:31.168253+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dante/99/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dante.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dante/html" rel="related"/>
+  <updated>2025-05-06T04:54:51.049064+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dante.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Deutsches Dante-Jahrbuch</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dante.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/dante-2024-frontmatter1</id>
-    <updated>2025-05-04T22:04:31.168286+00:00</updated>
+    <updated>2025-05-06T04:54:51.049091+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dante-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>DieCommedia– eine Provokation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0002/html"/>
     <id>https://doi.org/10.1515/dante-2024-0002</id>
-    <updated>2025-05-04T22:04:31.168298+00:00</updated>
+    <updated>2025-05-06T04:54:51.049099+00:00</updated>
     <summary>Article by Rainer Stillers
 DOI: https://doi.org/10.1515/dante-2024-0002</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/dante-2024-0002</summary>
     <title>Diffamierung in derCommedia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0003/html"/>
     <id>https://doi.org/10.1515/dante-2024-0003</id>
-    <updated>2025-05-04T22:04:31.168309+00:00</updated>
+    <updated>2025-05-06T04:54:51.049108+00:00</updated>
     <summary>Article by Franziska Meier
 DOI: https://doi.org/10.1515/dante-2024-0003</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/dante-2024-0003</summary>
     <title>Unorthodox – Dantes Selbstautorisierung impoema sacro</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0004/html"/>
     <id>https://doi.org/10.1515/dante-2024-0004</id>
-    <updated>2025-05-04T22:04:31.168317+00:00</updated>
+    <updated>2025-05-06T04:54:51.049116+00:00</updated>
     <summary>Article by Ludger Scherer
 DOI: https://doi.org/10.1515/dante-2024-0004</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/dante-2024-0004</summary>
     <title>Traiettorie del primo antidantismo: Dante da Maiano, Cino da Pistoia e Cecco d’Ascoli</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0005/html"/>
     <id>https://doi.org/10.1515/dante-2024-0005</id>
-    <updated>2025-05-04T22:04:31.168325+00:00</updated>
+    <updated>2025-05-06T04:54:51.049122+00:00</updated>
     <summary>Article by Sara Ferrilli
 DOI: https://doi.org/10.1515/dante-2024-0005</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/dante-2024-0005</summary>
     <title>Wer kommt heute in die Hölle?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0006/html"/>
     <id>https://doi.org/10.1515/dante-2024-0006</id>
-    <updated>2025-05-04T22:04:31.168332+00:00</updated>
+    <updated>2025-05-06T04:54:51.049129+00:00</updated>
     <summary>Article by Christine Ott
 DOI: https://doi.org/10.1515/dante-2024-0006</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/dante-2024-0006</summary>
     <title>Lectura DantisInfernoXXI: Ein Zwischenspiel der Karsamstags(un)genauigkeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0007/html"/>
     <id>https://doi.org/10.1515/dante-2024-0007</id>
-    <updated>2025-05-04T22:04:31.168340+00:00</updated>
+    <updated>2025-05-06T04:54:51.049135+00:00</updated>
     <summary>Article by Moritz Rauchhaus
 DOI: https://doi.org/10.1515/dante-2024-0007</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/dante-2024-0007</summary>
     <title>Un fabbro, un asinaio, una donna di Verona</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0008/html"/>
     <id>https://doi.org/10.1515/dante-2024-0008</id>
-    <updated>2025-05-04T22:04:31.168347+00:00</updated>
+    <updated>2025-05-06T04:54:51.049141+00:00</updated>
     <summary>Article by Donato Pirovano
 DOI: https://doi.org/10.1515/dante-2024-0008</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/dante-2024-0008</summary>
     <title>Irmgard Scharold (Hrsg.),Dante intermedial. DieDivina Commediain Literatur und Medien, Würzburg, Königshausen &amp; Neumann 2022, 474 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0009/html"/>
     <id>https://doi.org/10.1515/dante-2024-0009</id>
-    <updated>2025-05-04T22:04:31.168355+00:00</updated>
+    <updated>2025-05-06T04:54:51.049148+00:00</updated>
     <summary>Article by Christine Ott
 DOI: https://doi.org/10.1515/dante-2024-0009</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/dante-2024-0009</summary>
     <title>Mattia Petricola,I mondo dell’Oltremondo. Dante e laCommediadal fantasy alla fan fiction, Pisa, Edizioni ETS 2023, 144 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0010/html"/>
     <id>https://doi.org/10.1515/dante-2024-0010</id>
-    <updated>2025-05-04T22:04:31.168364+00:00</updated>
+    <updated>2025-05-06T04:54:51.049156+00:00</updated>
     <summary>Article by Christine Ott
 DOI: https://doi.org/10.1515/dante-2024-0010</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/dante-2024-0010</summary>
     <title>Gian Mario Anselmi,Dante, il Medioevo e il nostro tempo,Bologna, Pàtron Editore 2022 (Cultura umanistica e saperi moderni; 25), 196 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0011/html"/>
     <id>https://doi.org/10.1515/dante-2024-0011</id>
-    <updated>2025-05-04T22:04:31.168372+00:00</updated>
+    <updated>2025-05-06T04:54:51.049163+00:00</updated>
     <summary>Article by Lily Blaß
 DOI: https://doi.org/10.1515/dante-2024-0011</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/dante-2024-0011</summary>
     <title>Anne-Kathrin Gitter,Der christliche Metacode im Spätrealismus. Die produktive Rezeption von Dante AlighierisDivina Commediabei Conrad Ferdinand Meyer, Wilhelm Raabe und Ferdinand von Saar, Baden-Baden, rombach wissenschaft 2023 (Litterae; 256) (zugl.: Leipzig, Univ.-Diss. 2021), 385 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0012/html"/>
     <id>https://doi.org/10.1515/dante-2024-0012</id>
-    <updated>2025-05-04T22:04:31.168382+00:00</updated>
+    <updated>2025-05-06T04:54:51.049174+00:00</updated>
     <summary>Article by Mario Zanucchi
 DOI: https://doi.org/10.1515/dante-2024-0012</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/dante-2024-0012</summary>
     <title>Leyla M. G. Livraghi,»Il lungo studio e ’l grande amore«. Fonti classiche e strutture compositive dell’opera dantesca,Firenze, Cesati 2023, 169 pp.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0013/html"/>
     <id>https://doi.org/10.1515/dante-2024-0013</id>
-    <updated>2025-05-04T22:04:31.168391+00:00</updated>
+    <updated>2025-05-06T04:54:51.049181+00:00</updated>
     <summary>Article by Eszter Draskóczy, József Nagy
 DOI: https://doi.org/10.1515/dante-2024-0013</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/dante-2024-0013</summary>
     <title>Deutsche Dante-Bibliographie 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dante-2024-0014/html"/>
     <id>https://doi.org/10.1515/dante-2024-0014</id>
-    <updated>2025-05-04T22:04:31.168399+00:00</updated>
+    <updated>2025-05-06T04:54:51.049190+00:00</updated>
     <summary>Article by Philip Stockbrugger
 DOI: https://doi.org/10.1515/dante-2024-0014</summary>
   </entry>

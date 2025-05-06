@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Cognitive Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cogl/36/1/html"/>
-  <updated>2025-05-04T22:04:04.855675+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cogl/36/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cogl/html" rel="related"/>
+  <updated>2025-05-06T04:54:14.166202+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Cognitive Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cogl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/cog-2025-frontmatter1</id>
-    <updated>2025-05-04T22:04:04.855700+00:00</updated>
+    <updated>2025-05-06T04:54:14.166230+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/cog-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Language change in a constructional network: the emergence of Mandarin [bi N hai N] comparative constructions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0019/html"/>
     <id>https://doi.org/10.1515/cog-2024-0019</id>
-    <updated>2025-05-04T22:04:04.855707+00:00</updated>
+    <updated>2025-05-06T04:54:14.166241+00:00</updated>
     <summary>Article by Meili Liu, Hubert Cuyckens, Fangqiong Zhan
 DOI: https://doi.org/10.1515/cog-2024-0019</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/cog-2024-0019</summary>
     <title>Comprehension of object relatives in Spanish: the role of frequency and transparency in acquisition and adult grammar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0016/html"/>
     <id>https://doi.org/10.1515/cog-2024-0016</id>
-    <updated>2025-05-04T22:04:04.855714+00:00</updated>
+    <updated>2025-05-06T04:54:14.166252+00:00</updated>
     <summary>Article by Miquel Llompart, Sara Fernández Santos, Ewa Dąbrowska
 DOI: https://doi.org/10.1515/cog-2024-0016</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/cog-2024-0016</summary>
     <title>The interplay of verbs and argument structure constructions in second language processing: roles of verb’s lexical properties and verb–construction association</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0042/html"/>
     <id>https://doi.org/10.1515/cog-2024-0042</id>
-    <updated>2025-05-04T22:04:04.855721+00:00</updated>
+    <updated>2025-05-06T04:54:14.166262+00:00</updated>
     <summary>Article by Hyunwoo Kim, Gyu-Ho Shin
 DOI: https://doi.org/10.1515/cog-2024-0042</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/cog-2024-0042</summary>
     <title>Sociopragmatic pronouns in Limburgian: inferring speakers’ agency from self-reported automaticity, attitudes, and metalinguistic awareness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2023-0141/html"/>
     <id>https://doi.org/10.1515/cog-2023-0141</id>
-    <updated>2025-05-04T22:04:04.855727+00:00</updated>
+    <updated>2025-05-06T04:54:14.166272+00:00</updated>
     <summary>Article by Joske Piepers, Ad Backus, Jos Swanenberg
 DOI: https://doi.org/10.1515/cog-2023-0141</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/cog-2023-0141</summary>
     <title>Event conflation in high stakes testing: a comparison of usage and relationship to writing scores by language types</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-0005/html"/>
     <id>https://doi.org/10.1515/cog-2024-0005</id>
-    <updated>2025-05-04T22:04:04.855733+00:00</updated>
+    <updated>2025-05-06T04:54:14.166281+00:00</updated>
     <summary>Article by Ryan Spring
 DOI: https://doi.org/10.1515/cog-2024-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/cog-2024-0005</summary>
     <title>Corrigendum to: Force dynamics as the path to the Spanish subjunctive</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/cog-2024-2001/html"/>
     <id>https://doi.org/10.1515/cog-2024-2001</id>
-    <updated>2025-05-04T22:04:04.855739+00:00</updated>
+    <updated>2025-05-06T04:54:14.166289+00:00</updated>
     <summary>Article by Francisco Javier García Yanes
 DOI: https://doi.org/10.1515/cog-2024-2001</summary>
   </entry>

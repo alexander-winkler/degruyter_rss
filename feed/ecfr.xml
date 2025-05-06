@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>European Company and Financial Law Review</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ecfr/21/5-6/html"/>
-  <updated>2025-05-04T22:04:53.118221+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ecfr/21/5-6/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ecfr/html" rel="related"/>
+  <updated>2025-05-06T04:55:21.748368+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in European Company and Financial Law Review</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ecfr.xml" type="application/rss+xml"/>
   <entry>
     <title>Reform of the CMDI Framework – Driving Off With the Brakes On</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0018/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0018</id>
-    <updated>2025-05-04T22:04:53.118255+00:00</updated>
+    <updated>2025-05-06T04:55:21.748401+00:00</updated>
     <summary>Article by Ioannis G. Asimakopoulos, Tobias H. Tröger
 DOI: https://doi.org/10.1515/ecfr-2024-0018</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0018</summary>
     <title>The Digitalisation Directive II– a Major Expansion and Upgrade of EU Business Registers –</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0023/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0023</id>
-    <updated>2025-05-04T22:04:53.118266+00:00</updated>
+    <updated>2025-05-06T04:55:21.748413+00:00</updated>
     <summary>Article by Jessica Schmidt
 DOI: https://doi.org/10.1515/ecfr-2024-0023</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0023</summary>
     <title>The Simple Joint Stock Company: Emergence of a New Close Company in Poland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0021/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0021</id>
-    <updated>2025-05-04T22:04:53.118273+00:00</updated>
+    <updated>2025-05-06T04:55:21.748422+00:00</updated>
     <summary>Article by Adam Opalski, Krzysztof Oplustil, Tomasz Sójka, Anne-Marie Weber
 DOI: https://doi.org/10.1515/ecfr-2024-0021</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0021</summary>
     <title>The Governance of ESG Ratings and Benchmarks (Infomediaries) as Gatekeepers: Exit, Voice and Coercion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0022/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0022</id>
-    <updated>2025-05-04T22:04:53.118282+00:00</updated>
+    <updated>2025-05-06T04:55:21.748430+00:00</updated>
     <summary>Article by David Ramos Muñoz, Agnieszka Smoleńska
 DOI: https://doi.org/10.1515/ecfr-2024-0022</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0022</summary>
     <title>Certainties and Uncertainties Surrounding Central Bank Digital Currencies (CBDC) vis-à-vis the EU Anti-Money Laundering Regulatory Framework</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0020/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0020</id>
-    <updated>2025-05-04T22:04:53.118290+00:00</updated>
+    <updated>2025-05-06T04:55:21.748443+00:00</updated>
     <summary>Article by Andrea Minto
 DOI: https://doi.org/10.1515/ecfr-2024-0020</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0020</summary>
     <title>Exit Bonuses for Management Board Members of German Stock Corporations: Legal Framework for Adequate Incentivisation by Financial Investors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0024/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0024</id>
-    <updated>2025-05-04T22:04:53.118298+00:00</updated>
+    <updated>2025-05-06T04:55:21.748451+00:00</updated>
     <summary>Article by York Schnorbus, Peter Klormann
 DOI: https://doi.org/10.1515/ecfr-2024-0024</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0024</summary>
     <title>“ESG” Targets in the Corporate Governance of Banks: KPI and Double Materiality (Impact and Financial Materiality)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0025/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0025</id>
-    <updated>2025-05-04T22:04:53.118306+00:00</updated>
+    <updated>2025-05-06T04:55:21.748460+00:00</updated>
     <summary>Article by Luca Tronci
 DOI: https://doi.org/10.1515/ecfr-2024-0025</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0025</summary>
     <title>Corporate Purpose, Social Enterprise Law and the Future of the Corporation: A UK Perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-0026/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-0026</id>
-    <updated>2025-05-04T22:04:53.118313+00:00</updated>
+    <updated>2025-05-06T04:55:21.748468+00:00</updated>
     <summary>Article by J S Liptrap
 DOI: https://doi.org/10.1515/ecfr-2024-0026</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/ecfr-2024-0026</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ecfr-2024-frontmatter5-6/html"/>
     <id>https://doi.org/10.1515/ecfr-2024-frontmatter5-6</id>
-    <updated>2025-05-04T22:04:53.118320+00:00</updated>
+    <updated>2025-05-06T04:55:21.748475+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ecfr-2024-frontmatter5-6</summary>
   </entry>
 </feed>

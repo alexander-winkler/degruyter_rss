@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Computer Law Review International</title>
-  <link href="https://www.degruyterbrill.com/journal/key/cri/26/1/html"/>
-  <updated>2025-05-04T22:04:19.212391+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/cri/26/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cri.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/cri/html" rel="related"/>
+  <updated>2025-05-06T04:54:33.672376+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cri.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Computer Law Review International</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/cri.xml" type="application/rss+xml"/>
   <entry>
     <title>Title</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-frontmatter2601/html"/>
     <id>https://doi.org/10.9785/cri-2025-frontmatter2601</id>
-    <updated>2025-05-04T22:04:19.212419+00:00</updated>
+    <updated>2025-05-06T04:54:33.672391+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-frontmatter2601</summary>
   </entry>
   <entry>
     <title>Table of Contents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-toc2601/html"/>
     <id>https://doi.org/10.9785/cri-2025-toc2601</id>
-    <updated>2025-05-04T22:04:19.212428+00:00</updated>
+    <updated>2025-05-06T04:54:33.672396+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-toc2601</summary>
   </entry>
   <entry>
     <title>Imprint</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260101/html"/>
     <id>https://doi.org/10.9785/cri-2025-260101</id>
-    <updated>2025-05-04T22:04:19.212435+00:00</updated>
+    <updated>2025-05-06T04:54:33.672400+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260101</summary>
   </entry>
   <entry>
     <title>Gadzooks – The Standard ERP Software Licence Strikes Again! Lessons Learned From Samuels &amp; Son Seafood Co., Inc. v. Infor (US) — The perils of standard software license agreements for customers of ERP solutions explained</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260102/html"/>
     <id>https://doi.org/10.9785/cri-2025-260102</id>
-    <updated>2025-05-04T22:04:19.212446+00:00</updated>
+    <updated>2025-05-06T04:54:33.672408+00:00</updated>
     <summary>Article by John Beardwood
 DOI: https://doi.org/10.9785/cri-2025-260102</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.9785/cri-2025-260102</summary>
     <title>GDPR Enforcement Beyond EU-Borders — The Dutch Data Protection Authority’s Fine on Clearview AI and the Future of AI Regulation &amp; Enforcement</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260103/html"/>
     <id>https://doi.org/10.9785/cri-2025-260103</id>
-    <updated>2025-05-04T22:04:19.212456+00:00</updated>
+    <updated>2025-05-06T04:54:33.672417+00:00</updated>
     <summary>Article by Olaf van Haperen
 DOI: https://doi.org/10.9785/cri-2025-260103</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.9785/cri-2025-260103</summary>
     <title>Ouch – that’s gotta hertz: Lessons Learned from Hertz v. Accenture — Five strong incentives to avoid the stage of publicly filing pleadings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260104/html"/>
     <id>https://doi.org/10.9785/cri-2025-260104</id>
-    <updated>2025-05-04T22:04:19.212464+00:00</updated>
+    <updated>2025-05-06T04:54:33.672421+00:00</updated>
     <summary>Article by John Beardwood
 DOI: https://doi.org/10.9785/cri-2025-260104</summary>
   </entry>
@@ -60,42 +57,42 @@ DOI: https://doi.org/10.9785/cri-2025-260104</summary>
     <title>EU: Scope of the right of access to information according to Article 15 GDPR</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260105/html"/>
     <id>https://doi.org/10.9785/cri-2025-260105</id>
-    <updated>2025-05-04T22:04:19.212471+00:00</updated>
+    <updated>2025-05-06T04:54:33.672425+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260105</summary>
   </entry>
   <entry>
     <title>EU: Imposition of Administrative Fines on Enterprises due to infringement of the GDPR</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260106/html"/>
     <id>https://doi.org/10.9785/cri-2025-260106</id>
-    <updated>2025-05-04T22:04:19.212478+00:00</updated>
+    <updated>2025-05-06T04:54:33.672432+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260106</summary>
   </entry>
   <entry>
     <title>UK: Problem Gambler’s Consent Insufficient for Cookies or Direct Marketing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260107/html"/>
     <id>https://doi.org/10.9785/cri-2025-260107</id>
-    <updated>2025-05-04T22:04:19.212485+00:00</updated>
+    <updated>2025-05-06T04:54:33.672435+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260107</summary>
   </entry>
   <entry>
     <title>USA: Liability of TikTok for Recommendation on “For Your Page”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260108/html"/>
     <id>https://doi.org/10.9785/cri-2025-260108</id>
-    <updated>2025-05-04T22:04:19.212492+00:00</updated>
+    <updated>2025-05-06T04:54:33.672439+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260108</summary>
   </entry>
   <entry>
     <title>USA: Privacy Protection Against Third Party Tracking Pixel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260109/html"/>
     <id>https://doi.org/10.9785/cri-2025-260109</id>
-    <updated>2025-05-04T22:04:19.212503+00:00</updated>
+    <updated>2025-05-06T04:54:33.672443+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260109</summary>
   </entry>
   <entry>
     <title>USA: Training Non-Generative AI with Copyrighted Material under Fair Use Exception</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/cri-2025-260110/html"/>
     <id>https://doi.org/10.9785/cri-2025-260110</id>
-    <updated>2025-05-04T22:04:19.212510+00:00</updated>
+    <updated>2025-05-06T04:54:33.672447+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/cri-2025-260110</summary>
   </entry>
 </feed>

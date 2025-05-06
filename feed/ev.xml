@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The Economists’ Voice</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ev/21/2/html"/>
-  <updated>2025-05-04T22:05:21.660569+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ev/21/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ev.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ev/html" rel="related"/>
+  <updated>2025-05-06T04:56:02.586250+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ev.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The Economists’ Voice</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ev.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/ev-2024-frontmatter2</id>
-    <updated>2025-05-04T22:05:21.660604+00:00</updated>
+    <updated>2025-05-06T04:56:02.586269+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ev-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Editorial: Productivity Growth in the Age of AI</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-2002/html"/>
     <id>https://doi.org/10.1515/ev-2024-2002</id>
-    <updated>2025-05-04T22:05:21.660612+00:00</updated>
+    <updated>2025-05-06T04:56:02.586277+00:00</updated>
     <summary>Article by Friedrich Heinemann, Gunther Schnabl
 DOI: https://doi.org/10.1515/ev-2024-2002</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ev-2024-2002</summary>
     <title>Inflation and Fiscal Policy: Is There a Threshold Effect in the Fiscal Reaction Function?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0048/html"/>
     <id>https://doi.org/10.1515/ev-2024-0048</id>
-    <updated>2025-05-04T22:05:21.660626+00:00</updated>
+    <updated>2025-05-06T04:56:02.586286+00:00</updated>
     <summary>Article by Clémence Briodeau, Cristina Checherita-Westphal
 DOI: https://doi.org/10.1515/ev-2024-0048</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ev-2024-0048</summary>
     <title>Whither the Walking Dead? The Consequences of Artificial Intelligence for Zombie Firms</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0061/html"/>
     <id>https://doi.org/10.1515/ev-2024-0061</id>
-    <updated>2025-05-04T22:05:21.660634+00:00</updated>
+    <updated>2025-05-06T04:56:02.586293+00:00</updated>
     <summary>Article by Ryan Banerjee, Sebastian Doerr, Boris Hofmann
 DOI: https://doi.org/10.1515/ev-2024-0061</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ev-2024-0061</summary>
     <title>The Energy Transition and Its Macroeconomic Effects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2023-0062/html"/>
     <id>https://doi.org/10.1515/ev-2023-0062</id>
-    <updated>2025-05-04T22:05:21.660644+00:00</updated>
+    <updated>2025-05-06T04:56:02.586300+00:00</updated>
     <summary>Article by Alberto Americo, Jesse Johal, Christian Upper
 DOI: https://doi.org/10.1515/ev-2023-0062</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ev-2023-0062</summary>
     <title>The Potential and Distributional Effects of CBAM Revenues as a New EU Own Resource</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0071/html"/>
     <id>https://doi.org/10.1515/ev-2024-0071</id>
-    <updated>2025-05-04T22:05:21.660651+00:00</updated>
+    <updated>2025-05-06T04:56:02.586306+00:00</updated>
     <summary>Article by Ruben Hillebrandt
 DOI: https://doi.org/10.1515/ev-2024-0071</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ev-2024-0071</summary>
     <title>Will Geopolitics Accelerate China’s Drive Towards De-Dollarization?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0026/html"/>
     <id>https://doi.org/10.1515/ev-2024-0026</id>
-    <updated>2025-05-04T22:05:21.660659+00:00</updated>
+    <updated>2025-05-06T04:56:02.586313+00:00</updated>
     <summary>Article by John M. T. Ryan
 DOI: https://doi.org/10.1515/ev-2024-0026</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ev-2024-0026</summary>
     <title>The Political Economy of Academic Freedom</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0042/html"/>
     <id>https://doi.org/10.1515/ev-2024-0042</id>
-    <updated>2025-05-04T22:05:21.660665+00:00</updated>
+    <updated>2025-05-06T04:56:02.586319+00:00</updated>
     <summary>Article by Christian Bjørnskov
 DOI: https://doi.org/10.1515/ev-2024-0042</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ev-2024-0042</summary>
     <title>Macroeconomic Productivity Effects of Artificial Intelligence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0072/html"/>
     <id>https://doi.org/10.1515/ev-2024-0072</id>
-    <updated>2025-05-04T22:05:21.660672+00:00</updated>
+    <updated>2025-05-06T04:56:02.586326+00:00</updated>
     <summary>Article by Marianne Saam
 DOI: https://doi.org/10.1515/ev-2024-0072</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/ev-2024-0072</summary>
     <title>New Technologies: End of Work or Structural Change?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0046/html"/>
     <id>https://doi.org/10.1515/ev-2024-0046</id>
-    <updated>2025-05-04T22:05:21.660681+00:00</updated>
+    <updated>2025-05-06T04:56:02.586332+00:00</updated>
     <summary>Article by Emilie Rademakers, Ulrich Zierahn-Weilage
 DOI: https://doi.org/10.1515/ev-2024-0046</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/ev-2024-0046</summary>
     <title>The AI Revolution: A New Paradigm of Economic Order</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0054/html"/>
     <id>https://doi.org/10.1515/ev-2024-0054</id>
-    <updated>2025-05-04T22:05:21.660687+00:00</updated>
+    <updated>2025-05-06T04:56:02.586339+00:00</updated>
     <summary>Article by Henning Vöpel
 DOI: https://doi.org/10.1515/ev-2024-0054</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/ev-2024-0054</summary>
     <title>The Interplay of Humans, Technology, and Organizations in Realizing AI’s Productivity Promise</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0053/html"/>
     <id>https://doi.org/10.1515/ev-2024-0053</id>
-    <updated>2025-05-04T22:05:21.660694+00:00</updated>
+    <updated>2025-05-06T04:56:02.586346+00:00</updated>
     <summary>Article by Katharina Hölzle, Robert Rose, Verena Lisa Kaschub
 DOI: https://doi.org/10.1515/ev-2024-0053</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/ev-2024-0053</summary>
     <title>How Can Artificial Intelligence Transform Asset Management?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0055/html"/>
     <id>https://doi.org/10.1515/ev-2024-0055</id>
-    <updated>2025-05-04T22:05:21.660705+00:00</updated>
+    <updated>2025-05-06T04:56:02.586353+00:00</updated>
     <summary>Article by Philipp Immenkötter
 DOI: https://doi.org/10.1515/ev-2024-0055</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/ev-2024-0055</summary>
     <title>Is the EU’s AI Act Merely a Distraction from Europe’s Productivity Problem?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0052/html"/>
     <id>https://doi.org/10.1515/ev-2024-0052</id>
-    <updated>2025-05-04T22:05:21.660713+00:00</updated>
+    <updated>2025-05-06T04:56:02.586360+00:00</updated>
     <summary>Article by Zach Meyers
 DOI: https://doi.org/10.1515/ev-2024-0052</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/ev-2024-0052</summary>
     <title>AI in Europe – Is Regulation the Answer to Being a Laggard?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ev-2024-0043/html"/>
     <id>https://doi.org/10.1515/ev-2024-0043</id>
-    <updated>2025-05-04T22:05:21.660720+00:00</updated>
+    <updated>2025-05-06T04:56:02.586366+00:00</updated>
     <summary>Article by Irene Bertschek, Achim Wambach
 DOI: https://doi.org/10.1515/ev-2024-0043</summary>
   </entry>

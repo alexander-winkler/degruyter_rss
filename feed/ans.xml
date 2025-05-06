@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Advanced Nonlinear Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ans/25/1/html"/>
-  <updated>2025-05-04T22:02:42.162133+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ans/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ans.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ans/html" rel="related"/>
+  <updated>2025-05-06T04:52:27.868897+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ans.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Advanced Nonlinear Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ans.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/ans-2025-frontmatter1</id>
-    <updated>2025-05-04T22:02:42.162161+00:00</updated>
+    <updated>2025-05-06T04:52:27.868922+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ans-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>On the convexity theory of generating functions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0160/html"/>
     <id>https://doi.org/10.1515/ans-2023-0160</id>
-    <updated>2025-05-04T22:02:42.162169+00:00</updated>
+    <updated>2025-05-06T04:52:27.868934+00:00</updated>
     <summary>Article by Grégoire Loeper, Neil S. Trudinger
 DOI: https://doi.org/10.1515/ans-2023-0160</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ans-2023-0160</summary>
     <title>The Sobolev extension problem on trees and in the plane</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0158/html"/>
     <id>https://doi.org/10.1515/ans-2023-0158</id>
-    <updated>2025-05-04T22:02:42.162179+00:00</updated>
+    <updated>2025-05-06T04:52:27.868944+00:00</updated>
     <summary>Article by Jacob Carruth, Arie Israel
 DOI: https://doi.org/10.1515/ans-2023-0158</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ans-2023-0158</summary>
     <title>Anisotropic adams’ type inequality with exact growth inR4</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0159/html"/>
     <id>https://doi.org/10.1515/ans-2023-0159</id>
-    <updated>2025-05-04T22:02:42.162187+00:00</updated>
+    <updated>2025-05-06T04:52:27.868952+00:00</updated>
     <summary>Article by Tao Zhang, Fan Yang, Tingzhi Cheng, Chunqin Zhou
 DOI: https://doi.org/10.1515/ans-2023-0159</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ans-2023-0159</summary>
     <title>Quantization effects for multi-component Ginzburg-Landau vortices</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0165/html"/>
     <id>https://doi.org/10.1515/ans-2023-0165</id>
-    <updated>2025-05-04T22:02:42.162195+00:00</updated>
+    <updated>2025-05-06T04:52:27.868959+00:00</updated>
     <summary>Article by Rejeb Hadiji, Jongmin Han, Juhee Sohn
 DOI: https://doi.org/10.1515/ans-2023-0165</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ans-2023-0165</summary>
     <title>The interior curvature bounds for a class of curvature quotient equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0152/html"/>
     <id>https://doi.org/10.1515/ans-2023-0152</id>
-    <updated>2025-05-04T22:02:42.162202+00:00</updated>
+    <updated>2025-05-06T04:52:27.868966+00:00</updated>
     <summary>Article by Haohao Jia
 DOI: https://doi.org/10.1515/ans-2023-0152</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ans-2023-0152</summary>
     <title>Synchronized vector solutions for the nonlinear Hartree system with nonlocal interaction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0155/html"/>
     <id>https://doi.org/10.1515/ans-2023-0155</id>
-    <updated>2025-05-04T22:02:42.162209+00:00</updated>
+    <updated>2025-05-06T04:52:27.868974+00:00</updated>
     <summary>Article by Fashun Gao, Minbo Yang, Shunneng Zhao
 DOI: https://doi.org/10.1515/ans-2023-0155</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ans-2023-0155</summary>
     <title>Boussinesq’s equation for water waves: the soliton resolution conjecture for Sector IV</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0154/html"/>
     <id>https://doi.org/10.1515/ans-2023-0154</id>
-    <updated>2025-05-04T22:02:42.162216+00:00</updated>
+    <updated>2025-05-06T04:52:27.868982+00:00</updated>
     <summary>Article by Christophe Charlier, Jonatan Lenells
 DOI: https://doi.org/10.1515/ans-2023-0154</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ans-2023-0154</summary>
     <title>Trudinger–Moser type inequalities with logarithmic weights in fractional dimensions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0161/html"/>
     <id>https://doi.org/10.1515/ans-2023-0161</id>
-    <updated>2025-05-04T22:02:42.162224+00:00</updated>
+    <updated>2025-05-06T04:52:27.868989+00:00</updated>
     <summary>Article by Jianwei Xue, Caifeng Zhang, Maochun Zhu
 DOI: https://doi.org/10.1515/ans-2023-0161</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/ans-2023-0161</summary>
     <title>Nonlinear elliptic equations with self-adjoint integro-differential operators and measure data under sign condition on the nonlinearity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0153/html"/>
     <id>https://doi.org/10.1515/ans-2023-0153</id>
-    <updated>2025-05-04T22:02:42.162231+00:00</updated>
+    <updated>2025-05-06T04:52:27.868996+00:00</updated>
     <summary>Article by Tomasz Klimsiak
 DOI: https://doi.org/10.1515/ans-2023-0153</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/ans-2023-0153</summary>
     <title>A regularity result for incompressible elastodynamics equations in the ALE coordinates</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0156/html"/>
     <id>https://doi.org/10.1515/ans-2023-0156</id>
-    <updated>2025-05-04T22:02:42.162245+00:00</updated>
+    <updated>2025-05-06T04:52:27.869005+00:00</updated>
     <summary>Article by Binqiang Xie
 DOI: https://doi.org/10.1515/ans-2023-0156</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/ans-2023-0156</summary>
     <title>Normalized solutions to a class of (2,q)-Laplacian equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0163/html"/>
     <id>https://doi.org/10.1515/ans-2023-0163</id>
-    <updated>2025-05-04T22:02:42.162252+00:00</updated>
+    <updated>2025-05-06T04:52:27.869016+00:00</updated>
     <summary>Article by Laura Baldelli, Tao Yang
 DOI: https://doi.org/10.1515/ans-2023-0163</summary>
   </entry>

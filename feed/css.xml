@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Chinese Semiotic Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/css/21/1/html"/>
-  <updated>2025-05-04T22:04:23.488444+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/css/21/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/css/html" rel="related"/>
+  <updated>2025-05-06T04:54:39.769227+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Chinese Semiotic Studies</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/css.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/css-2025-frontmatter1</id>
-    <updated>2025-05-04T22:04:23.488471+00:00</updated>
+    <updated>2025-05-06T04:54:39.769258+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/css-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Reinterpreting Uexküll’s concept ofUmwelt: bridging science, humanities, and arts with harmony</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2004/html"/>
     <id>https://doi.org/10.1515/css-2025-2004</id>
-    <updated>2025-05-04T22:04:23.488481+00:00</updated>
+    <updated>2025-05-06T04:54:39.769266+00:00</updated>
     <summary>Article by Lei Han, Haoran Sun
 DOI: https://doi.org/10.1515/css-2025-2004</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/css-2025-2004</summary>
     <title>Melancholic and monastic: moss as a symbol in Chinese literature</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2005/html"/>
     <id>https://doi.org/10.1515/css-2025-2005</id>
-    <updated>2025-05-04T22:04:23.488489+00:00</updated>
+    <updated>2025-05-06T04:54:39.769273+00:00</updated>
     <summary>Article by Jia Peng, Xiaojun Zheng
 DOI: https://doi.org/10.1515/css-2025-2005</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/css-2025-2005</summary>
     <title>Biosemiotics, code biology, and operational interpretation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2003/html"/>
     <id>https://doi.org/10.1515/css-2025-2003</id>
-    <updated>2025-05-04T22:04:23.488497+00:00</updated>
+    <updated>2025-05-06T04:54:39.769279+00:00</updated>
     <summary>Article by Liqian Zhou
 DOI: https://doi.org/10.1515/css-2025-2003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/css-2025-2003</summary>
     <title>Regulated verse and semiotic structure: a poem by Li Shangyin (李商隠)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2006/html"/>
     <id>https://doi.org/10.1515/css-2025-2006</id>
-    <updated>2025-05-04T22:04:23.488505+00:00</updated>
+    <updated>2025-05-06T04:54:39.769285+00:00</updated>
     <summary>Article by John A. F. Hopkins
 DOI: https://doi.org/10.1515/css-2025-2006</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/css-2025-2006</summary>
     <title>Umweltbuilding in creative education: exploring interdisciplinary pedagogies in the moduleAcrossRCA</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2007/html"/>
     <id>https://doi.org/10.1515/css-2025-2007</id>
-    <updated>2025-05-04T22:04:23.488513+00:00</updated>
+    <updated>2025-05-06T04:54:39.769290+00:00</updated>
     <summary>Article by Marilia Jardim
 DOI: https://doi.org/10.1515/css-2025-2007</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/css-2025-2007</summary>
     <title>Fear, death, and love: a cultural semiotic view of animal symbols in Dürrenmatt’sThe Dog</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2008/html"/>
     <id>https://doi.org/10.1515/css-2025-2008</id>
-    <updated>2025-05-04T22:04:23.488521+00:00</updated>
+    <updated>2025-05-06T04:54:39.769296+00:00</updated>
     <summary>Article by Wenxi Zhu, Jinghan Yang
 DOI: https://doi.org/10.1515/css-2025-2008</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/css-2025-2008</summary>
     <title>Legal idealism of pre-Qin Confucians: tracing the ideas of Confucius, Mencius, and Xunzi</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2001/html"/>
     <id>https://doi.org/10.1515/css-2025-2001</id>
-    <updated>2025-05-04T22:04:23.488528+00:00</updated>
+    <updated>2025-05-06T04:54:39.769302+00:00</updated>
     <summary>Article by Lijue Song, Xiaohong Ma
 DOI: https://doi.org/10.1515/css-2025-2001</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/css-2025-2001</summary>
     <title>The multimodality of complaint: a case study of Chinese EFL learners</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/css-2025-2002/html"/>
     <id>https://doi.org/10.1515/css-2025-2002</id>
-    <updated>2025-05-04T22:04:23.488535+00:00</updated>
+    <updated>2025-05-06T04:54:39.769307+00:00</updated>
     <summary>Article by Xin Sun, Jihong Zhao
 DOI: https://doi.org/10.1515/css-2025-2002</summary>
   </entry>

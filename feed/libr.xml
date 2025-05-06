@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Libri</title>
-  <link href="https://www.degruyterbrill.com/journal/key/libr/75/1/html"/>
-  <updated>2025-05-04T22:09:21.458344+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/libr/75/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/libr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/libr/html" rel="related"/>
+  <updated>2025-05-06T05:01:30.296851+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/libr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Libri</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/libr.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/libri-2025-frontmatter1</id>
-    <updated>2025-05-04T22:09:21.458374+00:00</updated>
+    <updated>2025-05-06T05:01:30.296869+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/libri-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Factors Influencing the Adoption of Green Libraries for Environmental Sustainability: A Systematic Literature Review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2024-0089/html"/>
     <id>https://doi.org/10.1515/libri-2024-0089</id>
-    <updated>2025-05-04T22:09:21.458384+00:00</updated>
+    <updated>2025-05-06T05:01:30.296875+00:00</updated>
     <summary>Article by Muhammad Tariq, Khurram Shahzad, Imran Ghaffar Sulehri
 DOI: https://doi.org/10.1515/libri-2024-0089</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/libri-2024-0089</summary>
     <title>Dimensions of the Ukrainian War in British Press: A Topic Modeling Approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2024-0130/html"/>
     <id>https://doi.org/10.1515/libri-2024-0130</id>
-    <updated>2025-05-04T22:09:21.458393+00:00</updated>
+    <updated>2025-05-06T05:01:30.296880+00:00</updated>
     <summary>Article by Çağla Ediz, İsmail Ediz, Serkan Yavuz
 DOI: https://doi.org/10.1515/libri-2024-0130</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/libri-2024-0130</summary>
     <title>Library Leadership in Minority Serving Institutions: Investigating the Backgrounds of MSI Library Directors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2024-0114/html"/>
     <id>https://doi.org/10.1515/libri-2024-0114</id>
-    <updated>2025-05-04T22:09:21.458403+00:00</updated>
+    <updated>2025-05-06T05:01:30.296885+00:00</updated>
     <summary>Article by Brady D. Lund
 DOI: https://doi.org/10.1515/libri-2024-0114</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/libri-2024-0114</summary>
     <title>Characteristics of OA Diamond Journal Publishing in Non-English-Speaking Countries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2024-0026/html"/>
     <id>https://doi.org/10.1515/libri-2024-0026</id>
-    <updated>2025-05-04T22:09:21.458413+00:00</updated>
+    <updated>2025-05-06T05:01:30.296889+00:00</updated>
     <summary>Article by JungWon Yoon, Abebe Rorissa, Nayon Kim, EunKyung Chung
 DOI: https://doi.org/10.1515/libri-2024-0026</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/libri-2024-0026</summary>
     <title>Aging-Related Information Needs and Barriers Experienced by LGBT+ Older Adults</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2023-0119/html"/>
     <id>https://doi.org/10.1515/libri-2023-0119</id>
-    <updated>2025-05-04T22:09:21.458420+00:00</updated>
+    <updated>2025-05-06T05:01:30.296896+00:00</updated>
     <summary>Article by Joseph Winberry
 DOI: https://doi.org/10.1515/libri-2023-0119</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/libri-2023-0119</summary>
     <title>Graduate Education in China Meets AI: Key Factors for Adopting AI-Generated Content Tools</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2024-0079/html"/>
     <id>https://doi.org/10.1515/libri-2024-0079</id>
-    <updated>2025-05-04T22:09:21.458428+00:00</updated>
+    <updated>2025-05-06T05:01:30.296900+00:00</updated>
     <summary>Article by Yunjie Tang, Li Su
 DOI: https://doi.org/10.1515/libri-2024-0079</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/libri-2024-0079</summary>
     <title>Sentiment Analysis of Chinese Ancient Poetry Based on Multidimensional Attention Under the Background of Digital Intelligence Integration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/libri-2024-0053/html"/>
     <id>https://doi.org/10.1515/libri-2024-0053</id>
-    <updated>2025-05-04T22:09:21.458437+00:00</updated>
+    <updated>2025-05-06T05:01:30.296904+00:00</updated>
     <summary>Article by Zhongbao Liu, Wenjuan Zhao
 DOI: https://doi.org/10.1515/libri-2024-0053</summary>
   </entry>

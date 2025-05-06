@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Statistics, Politics and Policy </title>
-  <link href="https://www.degruyterbrill.com/journal/key/spp/16/1/html"/>
-  <updated>2025-05-04T22:12:40.790307+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/spp/16/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/spp/html" rel="related"/>
+  <updated>2025-05-06T05:06:02.359321+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Statistics, Politics and Policy </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/spp.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spp-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/spp-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:40.790327+00:00</updated>
+    <updated>2025-05-06T05:06:02.359338+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/spp-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Editors’ Note</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spp-2025-2001/html"/>
     <id>https://doi.org/10.1515/spp-2025-2001</id>
-    <updated>2025-05-04T22:12:40.790333+00:00</updated>
+    <updated>2025-05-06T05:06:02.359344+00:00</updated>
     <summary>Article by Uwe Wagschal, Ronald Schleehauf, Judith Reinbold
 DOI: https://doi.org/10.1515/spp-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/spp-2025-2001</summary>
     <title>A State-Level Policy Change That Would Revitalize the Electoral College</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spp-2024-0058/html"/>
     <id>https://doi.org/10.1515/spp-2024-0058</id>
-    <updated>2025-05-04T22:12:40.790339+00:00</updated>
+    <updated>2025-05-06T05:06:02.359350+00:00</updated>
     <summary>Article by John O’Reilly
 DOI: https://doi.org/10.1515/spp-2024-0058</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/spp-2024-0058</summary>
     <title>Pandemic Intensity Estimation using Dynamic Factor Modeling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spp-2024-0042/html"/>
     <id>https://doi.org/10.1515/spp-2024-0042</id>
-    <updated>2025-05-04T22:12:40.790344+00:00</updated>
+    <updated>2025-05-06T05:06:02.359355+00:00</updated>
     <summary>Article by Aaron Cooke, John Vivian
 DOI: https://doi.org/10.1515/spp-2024-0042</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/spp-2024-0042</summary>
     <title>Spatio-Temporal Modeling of Violent Conflict and Fatality in Nigeria: A Point Process Modeling with SPDE Approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spp-2024-0028/html"/>
     <id>https://doi.org/10.1515/spp-2024-0028</id>
-    <updated>2025-05-04T22:12:40.790348+00:00</updated>
+    <updated>2025-05-06T05:06:02.359360+00:00</updated>
     <summary>Article by Osafu Augustine Egbon, Ezra Gayawan
 DOI: https://doi.org/10.1515/spp-2024-0028</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/spp-2024-0028</summary>
     <title>A Comprehensive Meta-Analysis of Determinants Influencing Military Expenditure: New Methodological Insights and Implications for Defence Budget Allocation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/spp-2024-0024/html"/>
     <id>https://doi.org/10.1515/spp-2024-0024</id>
-    <updated>2025-05-04T22:12:40.790353+00:00</updated>
+    <updated>2025-05-06T05:06:02.359365+00:00</updated>
     <summary>Article by Muchamad Bachtiar, Irdam Ahmad, Zainal Abidin Sahabuddin, Trismadi Trismadi
 DOI: https://doi.org/10.1515/spp-2024-0024</summary>
   </entry>

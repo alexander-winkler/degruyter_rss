@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zrs/16/1-2/html"/>
-  <updated>2025-05-04T22:14:17.914276+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zrs/16/1-2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zrs/html" rel="related"/>
+  <updated>2025-05-06T05:08:18.158140+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Rezensionen zur germanistischen Sprachwissenschaft</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrs.xml" type="application/rss+xml"/>
   <entry>
     <title>Mathilde Hennig &amp; Robert Niemann (Hg.). 2022.Ratgeben in der spätmodernen Gesellschaft. Ansätze einer linguistischen Ratgeberforschung.Tübingen: Stauffenburg. 261 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2005/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2005</id>
-    <updated>2025-05-04T22:14:17.914297+00:00</updated>
+    <updated>2025-05-06T05:08:18.158165+00:00</updated>
     <summary>Article by Katharina Jacob
 DOI: https://doi.org/10.1515/zrs-2024-2005</summary>
   </entry>
@@ -23,14 +20,14 @@ DOI: https://doi.org/10.1515/zrs-2024-2005</summary>
     <title>Vorwort</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2021/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2021</id>
-    <updated>2025-05-04T22:14:17.914305+00:00</updated>
+    <updated>2025-05-06T05:08:18.158174+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zrs-2024-2021</summary>
   </entry>
   <entry>
     <title>Aline Meili. 2024.Von der Gebärdensprache zur Schrift. Eine Untersuchung zu Texten gehörloser Lernender(LIT 104). Berlin, Boston: De Gruyter. 225 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2013/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2013</id>
-    <updated>2025-05-04T22:14:17.914310+00:00</updated>
+    <updated>2025-05-06T05:08:18.158181+00:00</updated>
     <summary>Article by Verena Krausneker
 DOI: https://doi.org/10.1515/zrs-2024-2013</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2013</summary>
     <title>Annika Frank. 2023.Die Beleidigung. Diskurse um Ehre, Respekt und Integrität im Kontinuum zwischen Alltag und Recht(Philologische Studien und Quellen 287). Berlin: Erich Schmidt. 363 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2009/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2009</id>
-    <updated>2025-05-04T22:14:17.914316+00:00</updated>
+    <updated>2025-05-06T05:08:18.158187+00:00</updated>
     <summary>Article by Helmut Gruber
 DOI: https://doi.org/10.1515/zrs-2024-2009</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2009</summary>
     <title>Duanzhuang Zheng. 2023.Untersuchungen zu Verbpartikel-Verb-Komplexen im Deutschen(Studien zur deutschen Grammatik 102). Tübingen: Stauffenburg. 402 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2015/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2015</id>
-    <updated>2025-05-04T22:14:17.914324+00:00</updated>
+    <updated>2025-05-06T05:08:18.158193+00:00</updated>
     <summary>Article by Christian R. Forche
 DOI: https://doi.org/10.1515/zrs-2024-2015</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2015</summary>
     <title>Eckhard Meineke. 2023.Studien zum genderneutralen Maskulinum. Heidelberg: Winter. 358 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2010/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2010</id>
-    <updated>2025-05-04T22:14:17.914332+00:00</updated>
+    <updated>2025-05-06T05:08:18.158199+00:00</updated>
     <summary>Article by Gabriele Diewald
 DOI: https://doi.org/10.1515/zrs-2024-2010</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2010</summary>
     <title>Enrica Fantino. 2023.„Je näher ihm, desto vortrefflicher“. Eine Studie zur Übersetzungs-sprache und -konzeption von Johann Heinrich Voß anhand seiner frühen Werke(Transformationen der Antike 42). Berlin, Boston: De Gruyter. 325 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2018/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2018</id>
-    <updated>2025-05-04T22:14:17.914342+00:00</updated>
+    <updated>2025-05-06T05:08:18.158208+00:00</updated>
     <summary>Article by Anne Baillot
 DOI: https://doi.org/10.1515/zrs-2024-2018</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2018</summary>
     <title>Eva Neuland. 2023.Soziolinguistik der deutschen Sprache. Tübingen: Narr Francke Attempto. 397 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2007/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2007</id>
-    <updated>2025-05-04T22:14:17.914347+00:00</updated>
+    <updated>2025-05-06T05:08:18.158214+00:00</updated>
     <summary>Article by Oksana Khrystenko
 DOI: https://doi.org/10.1515/zrs-2024-2007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2007</summary>
     <title>Georg Kremnitz. 2023.Aufstieg und Fall der „kleineren“ Sprachen Europas. Wien: Praesens. 288 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2001/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2001</id>
-    <updated>2025-05-04T22:14:17.914352+00:00</updated>
+    <updated>2025-05-06T05:08:18.158219+00:00</updated>
     <summary>Article by Kerstin Roth
 DOI: https://doi.org/10.1515/zrs-2024-2001</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2001</summary>
     <title>Heike Ortner. 2023.Sprache – Bewegung – Instruktion. Multimodales Anleiten in Texten, audio-visuellen Medien und direkter Interaktion(Sprache im Kontext 48). Berlin, Boston: De Gruyter. 358 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2025/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2025</id>
-    <updated>2025-05-04T22:14:17.914365+00:00</updated>
+    <updated>2025-05-06T05:08:18.158227+00:00</updated>
     <summary>Article by Hartmut Stöckl
 DOI: https://doi.org/10.1515/zrs-2024-2025</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2025</summary>
     <title>Igor Trost (Hg.). 2023.Remotivierung. Von der Morphologie bis zur Pragmatik(Linguistik – Impulse &amp; Tendenzen 105). Berlin, Boston: De Gruyter. 270 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2026/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2026</id>
-    <updated>2025-05-04T22:14:17.914371+00:00</updated>
+    <updated>2025-05-06T05:08:18.158234+00:00</updated>
     <summary>Article by Alexander Willich
 DOI: https://doi.org/10.1515/zrs-2024-2026</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2026</summary>
     <title>Janett Haid. 2023.Die sprachliche Dimension des Sozialismus. Gruppen- und Dominanz-konstruktion in politischen Reden zum Internationalen Frauentag von Erich Honecker und Hugo Chávez(Sprache – Politik – Gesellschaft 32). Hamburg: Helmut Buske. 216 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2011/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2011</id>
-    <updated>2025-05-04T22:14:17.914377+00:00</updated>
+    <updated>2025-05-06T05:08:18.158241+00:00</updated>
     <summary>Article by Thomas Niehr
 DOI: https://doi.org/10.1515/zrs-2024-2011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2011</summary>
     <title>Julia Hübner. 2023.Norm und Variation. Paradigmenwechsel anhand frühneuzeitlicher Fremdsprachenlehrwerke.(Studia Linguistica Germanica 144). Berlin, Boston: De Gruyter. 238 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2028/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2028</id>
-    <updated>2025-05-04T22:14:17.914382+00:00</updated>
+    <updated>2025-05-06T05:08:18.158248+00:00</updated>
     <summary>Article by Ursula Götz
 DOI: https://doi.org/10.1515/zrs-2024-2028</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2028</summary>
     <title>Lisa Soder. 2023.Diskursmarker im schriftlichen Standard. Status, Formen und Funktionen(Studien zur Pragmatik 6). Tübingen: Narr Francke Attempto. 520 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2012/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2012</id>
-    <updated>2025-05-04T22:14:17.914391+00:00</updated>
+    <updated>2025-05-06T05:08:18.158256+00:00</updated>
     <summary>Article by Sören Stumpf
 DOI: https://doi.org/10.1515/zrs-2024-2012</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2012</summary>
     <title>Nanna Fuhrhop, Niklas Reinken &amp; Niklas Schreiber (Hg.). 2023.Literarische Grammatik. Wie Literatur- und Sprachwissenschaft voneinander profitieren können(Germanistische Bibliothek 78). Heidelberg: Winter. 201 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2029/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2029</id>
-    <updated>2025-05-04T22:14:17.914401+00:00</updated>
+    <updated>2025-05-06T05:08:18.158263+00:00</updated>
     <summary>Article by Günter Koch
 DOI: https://doi.org/10.1515/zrs-2024-2029</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2029</summary>
     <title>Rita Franceschini, Matthias Hünig &amp; Péter Maitz. (Hg.). 2023.Historische Mehrsprachigkeit: Europäische Perspektiven(Studia Linguistica 146). Berlin, Boston: De Gruyter. 358 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2017/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2017</id>
-    <updated>2025-05-04T22:14:17.914406+00:00</updated>
+    <updated>2025-05-06T05:08:18.158269+00:00</updated>
     <summary>Article by Jessica Ammer
 DOI: https://doi.org/10.1515/zrs-2024-2017</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2017</summary>
     <title>Stephanie Waldow &amp; Eva Forrester. 2023.Mythos und Mythos-Theorie. Formen und Funktionen. Eine Einführung(Grundlagen der Germanistik 66). Berlin: Erich Schmidt. 244 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2008/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2008</id>
-    <updated>2025-05-04T22:14:17.914412+00:00</updated>
+    <updated>2025-05-06T05:08:18.158275+00:00</updated>
     <summary>Article by Bernhard Luxner
 DOI: https://doi.org/10.1515/zrs-2024-2008</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2008</summary>
     <title>Susanne Haaf &amp; Britt-Marie Schuster (Hg.). 2023.Historische Textmuster im Wandel. Neue Wege zu ihrer Erschließung. Unter Mitarbeit von Frauke Theilert(Reihe Germanistische Linguistik 331). Berlin, Boston: De Gruyter. 472 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2014/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2014</id>
-    <updated>2025-05-04T22:14:17.914417+00:00</updated>
+    <updated>2025-05-06T05:08:18.158281+00:00</updated>
     <summary>Article by Martin Luginbühl
 DOI: https://doi.org/10.1515/zrs-2024-2014</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2014</summary>
     <title>Bock, Bettina M., Steffen Pappert &amp; Tanja Škerlavaj (Hg.). 2022.Grenzgänge: Eine Spritztour durch Text-, Stil- und Zeichengefilde. Festschrift für Ulla Fix. Berlin: Frank &amp; Timme. 264 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2023/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2023</id>
-    <updated>2025-05-04T22:14:17.914423+00:00</updated>
+    <updated>2025-05-06T05:08:18.158287+00:00</updated>
     <summary>Article by Sarah Brommer
 DOI: https://doi.org/10.1515/zrs-2024-2023</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2023</summary>
     <title>Dagobert Höllein &amp; Aline Wieders-Lohéac. (Hg.). 2022.Fridays for Future. Sprachliche Perspektiven auf eine globale Bewegung. Tübingen: Narr Fracke Attempto Verlag. 207 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2006/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2006</id>
-    <updated>2025-05-04T22:14:17.914428+00:00</updated>
+    <updated>2025-05-06T05:08:18.158293+00:00</updated>
     <summary>Article by Dorothee Meer
 DOI: https://doi.org/10.1515/zrs-2024-2006</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2006</summary>
     <title>Fabian Fleißner. 2022.Das Präfix gi- im Althochdeutschen und Altsächsischen. Eine Neubewertung seiner Bedeutung für das Tempus- und Aspektsystem(Studia Linguistica Germanica 143). Berlin, Boston: De Gruyter. 270 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2016/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2016</id>
-    <updated>2025-05-04T22:14:17.914433+00:00</updated>
+    <updated>2025-05-06T05:08:18.158298+00:00</updated>
     <summary>Article by Michail Kotin
 DOI: https://doi.org/10.1515/zrs-2024-2016</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2016</summary>
     <title>Gabriele Diewald &amp; Damaris Nübling (Hg.). 2022.Genus – Sexus – Gender(Linguistik, Impulse &amp; Tendenzen 95). Berlin, Boston: De Gruyter. 383 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2022/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2022</id>
-    <updated>2025-05-04T22:14:17.914438+00:00</updated>
+    <updated>2025-05-06T05:08:18.158304+00:00</updated>
     <summary>Article by Dominik Hetjens, Stefan Hartmann
 DOI: https://doi.org/10.1515/zrs-2024-2022</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2022</summary>
     <title>Kalle Müller. 2022.Satzadverbien und Evidentialität(studia grammatica 87). Berlin, Boston: De Gruyter. 373 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2019/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2019</id>
-    <updated>2025-05-04T22:14:17.914443+00:00</updated>
+    <updated>2025-05-06T05:08:18.158310+00:00</updated>
     <summary>Article by Antonios Tsiknakis
 DOI: https://doi.org/10.1515/zrs-2024-2019</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2019</summary>
     <title>Karsten Schmidt &amp; Haimo Stieber (Hg.). 2022.Bourdieu in der Germanistik. Berlin, Boston: De Gruyter. 411 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2003/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2003</id>
-    <updated>2025-05-04T22:14:17.914449+00:00</updated>
+    <updated>2025-05-06T05:08:18.158315+00:00</updated>
     <summary>Article by Friedemann Vogel
 DOI: https://doi.org/10.1515/zrs-2024-2003</summary>
   </entry>
@@ -206,7 +203,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2003</summary>
     <title>Markus Schiegg. 2022.Flexible Schreiber in der Sprachgeschichte.Intraindividuelle Variation in Patientenbriefen (1850–1936)(Germanistische Bibliothek 75). Heidelberg: Universitätsverlag Winter. 609 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2004/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2004</id>
-    <updated>2025-05-04T22:14:17.914454+00:00</updated>
+    <updated>2025-05-06T05:08:18.158323+00:00</updated>
     <summary>Article by Paul Rössler
 DOI: https://doi.org/10.1515/zrs-2024-2004</summary>
   </entry>
@@ -214,7 +211,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2004</summary>
     <title>Matthias Hahn. 2022.Sprechgeschwindigkeit und Reduktion im deutschen Sprachraum. Eine Untersuchung zur diatopischen Variation standardintendierter Vorleseaussprache(Deutsche Dialektgeographie 130). Hildesheim, Zürich: Olms. 258 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2024/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2024</id>
-    <updated>2025-05-04T22:14:17.914461+00:00</updated>
+    <updated>2025-05-06T05:08:18.158329+00:00</updated>
     <summary>Article by Elisabeth Scherr
 DOI: https://doi.org/10.1515/zrs-2024-2024</summary>
   </entry>
@@ -222,7 +219,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2024</summary>
     <title>Sascha Michel. 2022.Mediatisierungslinguistik. Theorie und Fallanalysen zur Kommunikation von Politiker*innen am Beispiel von Twitter. (WISSEN – KOMPETENZ – TEXT 17). Berlin et al.: Peter Lang. 719 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2027/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2027</id>
-    <updated>2025-05-04T22:14:17.914470+00:00</updated>
+    <updated>2025-05-06T05:08:18.158336+00:00</updated>
     <summary>Article by Georg Weidacher
 DOI: https://doi.org/10.1515/zrs-2024-2027</summary>
   </entry>
@@ -230,7 +227,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2027</summary>
     <title>Wolfgang Imo &amp; Jörg Wesche (Hg.) 2021.Interaktionale Sprache im Dramenwerk von Andreas Gryphius. Literatur- und sprachwissenschaftliche Studien (Sprache – Literatur und Geschichte 53). Heidelberg: Winter. 256 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2002/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2002</id>
-    <updated>2025-05-04T22:14:17.914475+00:00</updated>
+    <updated>2025-05-06T05:08:18.158342+00:00</updated>
     <summary>Article by Lea Schäfer
 DOI: https://doi.org/10.1515/zrs-2024-2002</summary>
   </entry>
@@ -238,7 +235,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2002</summary>
     <title>Katja Arens. 2023.Strukturieren und Evaluieren im Gespräch: lexikalische Diskurspartikeln als Ressourcen der Gesprächsorganisation(Oralingua Band 22). Heidelberg: Winter. 458 S.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-2020/html"/>
     <id>https://doi.org/10.1515/zrs-2024-2020</id>
-    <updated>2025-05-04T22:14:17.914480+00:00</updated>
+    <updated>2025-05-06T05:08:18.158348+00:00</updated>
     <summary>Article by Veronika Sahlbach
 DOI: https://doi.org/10.1515/zrs-2024-2020</summary>
   </entry>
@@ -246,7 +243,7 @@ DOI: https://doi.org/10.1515/zrs-2024-2020</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrs-2024-frontmatter1-2/html"/>
     <id>https://doi.org/10.1515/zrs-2024-frontmatter1-2</id>
-    <updated>2025-05-04T22:14:17.914485+00:00</updated>
+    <updated>2025-05-06T05:08:18.158354+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zrs-2024-frontmatter1-2</summary>
   </entry>
 </feed>

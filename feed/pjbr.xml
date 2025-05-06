@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Paladyn</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pjbr/16/1/html"/>
-  <updated>2025-05-04T22:11:10.142896+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pjbr/16/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pjbr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pjbr/html" rel="related"/>
+  <updated>2025-05-06T05:03:56.216468+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pjbr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Paladyn</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pjbr.xml" type="application/rss+xml"/>
   <entry>
     <title>Air fare sentiment via Backtranslation-CNN-BiLSTM and BERTopic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/pjbr-2024-0005/html"/>
     <id>https://doi.org/10.1515/pjbr-2024-0005</id>
-    <updated>2025-05-04T22:11:10.142928+00:00</updated>
+    <updated>2025-05-06T05:03:56.216505+00:00</updated>
     <summary>Article by Xijun Ke, Jiajun Wen, Haiwen Xu, Bing Zhang
 DOI: https://doi.org/10.1515/pjbr-2024-0005</summary>
   </entry>

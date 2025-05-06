@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Global Jurist</title>
-  <link href="https://www.degruyterbrill.com/journal/key/gj/25/1/html"/>
-  <updated>2025-05-04T22:05:54.428494+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/gj/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gj.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/gj/html" rel="related"/>
+  <updated>2025-05-06T04:56:46.864784+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gj.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Global Jurist</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gj.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gj-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/gj-2025-frontmatter1</id>
-    <updated>2025-05-04T22:05:54.428525+00:00</updated>
+    <updated>2025-05-06T04:56:46.864804+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/gj-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Two Tales of the Energy Commons Through the Lens of Complexity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gj-2024-0010/html"/>
     <id>https://doi.org/10.1515/gj-2024-0010</id>
-    <updated>2025-05-04T22:05:54.428539+00:00</updated>
+    <updated>2025-05-06T04:56:46.864813+00:00</updated>
     <summary>Article by Björn Hoops
 DOI: https://doi.org/10.1515/gj-2024-0010</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/gj-2024-0010</summary>
     <title>TheOpinio JurisandOpinio Morisin the Anglo-American Interventions During the Greek Civil War: An Archival Study of Legal Narratives</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gj-2024-0054/html"/>
     <id>https://doi.org/10.1515/gj-2024-0054</id>
-    <updated>2025-05-04T22:05:54.428551+00:00</updated>
+    <updated>2025-05-06T04:56:46.864821+00:00</updated>
     <summary>Article by Anna Irene Baka
 DOI: https://doi.org/10.1515/gj-2024-0054</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/gj-2024-0054</summary>
     <title>Linguistic Justice and Ethnic Minority Education in Vietnam</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gj-2024-0033/html"/>
     <id>https://doi.org/10.1515/gj-2024-0033</id>
-    <updated>2025-05-04T22:05:54.428560+00:00</updated>
+    <updated>2025-05-06T04:56:46.864826+00:00</updated>
     <summary>Article by Tien-Duc Nguyen, Thu-Thuy Tran-Thi
 DOI: https://doi.org/10.1515/gj-2024-0033</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/gj-2024-0033</summary>
     <title>Product Oversight and Governance’s Actual Trends and Value for Money Provisions Within the IDD Framework</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gj-2024-0083/html"/>
     <id>https://doi.org/10.1515/gj-2024-0083</id>
-    <updated>2025-05-04T22:05:54.428570+00:00</updated>
+    <updated>2025-05-06T04:56:46.864835+00:00</updated>
     <summary>Article by Francesco Petrosino
 DOI: https://doi.org/10.1515/gj-2024-0083</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/gj-2024-0083</summary>
     <title>Bringing Tara Home: Can International Law Help Sri Lanka to Return the Most Revered Cultural Object from Britain?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/gj-2024-0061/html"/>
     <id>https://doi.org/10.1515/gj-2024-0061</id>
-    <updated>2025-05-04T22:05:54.428580+00:00</updated>
+    <updated>2025-05-06T04:56:46.864841+00:00</updated>
     <summary>Article by Punsara Amarasinghe
 DOI: https://doi.org/10.1515/gj-2024-0061</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The B.E. Journal of Macroeconomics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/bejm/24/2/html"/>
-  <updated>2025-05-04T22:03:18.389684+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/bejm/24/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bejm/html" rel="related"/>
+  <updated>2025-05-06T04:53:10.480022+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The B.E. Journal of Macroeconomics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bejm.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/bejm-2024-frontmatter2</id>
-    <updated>2025-05-04T22:03:18.389719+00:00</updated>
+    <updated>2025-05-06T04:53:10.480047+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/bejm-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Corporate Tax Rates, Allocative Efficiency, and Aggregate Productivity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2023-0138/html"/>
     <id>https://doi.org/10.1515/bejm-2023-0138</id>
-    <updated>2025-05-04T22:03:18.389729+00:00</updated>
+    <updated>2025-05-06T04:53:10.480055+00:00</updated>
     <summary>Article by Marcos Dinerstein, Fausto Patiño Peña
 DOI: https://doi.org/10.1515/bejm-2023-0138</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/bejm-2023-0138</summary>
     <title>Endogenous Financial Friction and Growth</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2024-0028/html"/>
     <id>https://doi.org/10.1515/bejm-2024-0028</id>
-    <updated>2025-05-04T22:03:18.389741+00:00</updated>
+    <updated>2025-05-06T04:53:10.480065+00:00</updated>
     <summary>Article by Minhyeon Jeong
 DOI: https://doi.org/10.1515/bejm-2024-0028</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/bejm-2024-0028</summary>
     <title>Decomposing Structural Change</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2023-0124/html"/>
     <id>https://doi.org/10.1515/bejm-2023-0124</id>
-    <updated>2025-05-04T22:03:18.389750+00:00</updated>
+    <updated>2025-05-06T04:53:10.480073+00:00</updated>
     <summary>Article by Jaime Alonso-Carrera, María Jesús Freire-Serén, Xavier Raurich
 DOI: https://doi.org/10.1515/bejm-2023-0124</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/bejm-2023-0124</summary>
     <title>Industry Impacts of US Unconventional Monetary Policy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2022-0184/html"/>
     <id>https://doi.org/10.1515/bejm-2022-0184</id>
-    <updated>2025-05-04T22:03:18.389759+00:00</updated>
+    <updated>2025-05-06T04:53:10.480081+00:00</updated>
     <summary>Article by Eiji Goto
 DOI: https://doi.org/10.1515/bejm-2022-0184</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/bejm-2022-0184</summary>
     <title>Monetary Policy Transmission in Canada – A High Frequency Identification Approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2023-0212/html"/>
     <id>https://doi.org/10.1515/bejm-2023-0212</id>
-    <updated>2025-05-04T22:03:18.389768+00:00</updated>
+    <updated>2025-05-06T04:53:10.480091+00:00</updated>
     <summary>Article by Matt Soosalu
 DOI: https://doi.org/10.1515/bejm-2023-0212</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/bejm-2023-0212</summary>
     <title>Child Labor, Corruption, and Development</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2024-0045/html"/>
     <id>https://doi.org/10.1515/bejm-2024-0045</id>
-    <updated>2025-05-04T22:03:18.389775+00:00</updated>
+    <updated>2025-05-06T04:53:10.480098+00:00</updated>
     <summary>Article by Toshiki Miyashita, Kohei Okada, Kei Takakura
 DOI: https://doi.org/10.1515/bejm-2024-0045</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/bejm-2024-0045</summary>
     <title>Inflation Uncertainty from Firms’ Perspective, Overconfidence and Credibility of Monetary Policy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2023-0161/html"/>
     <id>https://doi.org/10.1515/bejm-2023-0161</id>
-    <updated>2025-05-04T22:03:18.389784+00:00</updated>
+    <updated>2025-05-06T04:53:10.480105+00:00</updated>
     <summary>Article by Fernando Borraz, Anna Orlik, Laura Zacheo
 DOI: https://doi.org/10.1515/bejm-2023-0161</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/bejm-2023-0161</summary>
     <title>Does Nominal Wage Stickiness Affect Fiscal Multiplier in a Two-Agent New Keynesian Model?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2023-0213/html"/>
     <id>https://doi.org/10.1515/bejm-2023-0213</id>
-    <updated>2025-05-04T22:03:18.389792+00:00</updated>
+    <updated>2025-05-06T04:53:10.480112+00:00</updated>
     <summary>Article by Daisuke Ida, Mitsuhiro Okano
 DOI: https://doi.org/10.1515/bejm-2023-0213</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/bejm-2023-0213</summary>
     <title>To Create or to Redistribute? That is the Question</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2023-0191/html"/>
     <id>https://doi.org/10.1515/bejm-2023-0191</id>
-    <updated>2025-05-04T22:03:18.389805+00:00</updated>
+    <updated>2025-05-06T04:53:10.480121+00:00</updated>
     <summary>Article by Demetris Koursaros, Christos Savva, Nektarios Michail, Niki Papadopoulou
 DOI: https://doi.org/10.1515/bejm-2023-0191</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/bejm-2023-0191</summary>
     <title>Estimating Expected Asset Returns with the Present Value Model of Consumption and Fed Forecasts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/bejm-2024-0084/html"/>
     <id>https://doi.org/10.1515/bejm-2024-0084</id>
-    <updated>2025-05-04T22:03:18.389814+00:00</updated>
+    <updated>2025-05-06T04:53:10.480129+00:00</updated>
     <summary>Article by Narayan Kundan Kishor
 DOI: https://doi.org/10.1515/bejm-2024-0084</summary>
   </entry>

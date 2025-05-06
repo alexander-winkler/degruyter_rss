@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für die gesamte Strafrechtswissenschaft      </title>
-  <link href="https://www.degruyterbrill.com/journal/key/zstw/137/1/html"/>
-  <updated>2025-05-04T22:14:20.992706+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zstw/137/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zstw.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zstw/html" rel="related"/>
+  <updated>2025-05-06T05:08:22.394574+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zstw.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für die gesamte Strafrechtswissenschaft      </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zstw.xml" type="application/rss+xml"/>
   <entry>
     <title>Zur Freiverantwortlichkeit eines Selbsttötungsentschlusses im Spiegel der Rechtsprechung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zstw-2025-0001/html"/>
     <id>https://doi.org/10.1515/zstw-2025-0001</id>
-    <updated>2025-05-04T22:14:20.992745+00:00</updated>
+    <updated>2025-05-06T05:08:22.394606+00:00</updated>
     <summary>Article by Thomas Hillenkamp
 DOI: https://doi.org/10.1515/zstw-2025-0001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/zstw-2025-0001</summary>
     <title>Unfreiwillige tätige Reue?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zstw-2025-0002/html"/>
     <id>https://doi.org/10.1515/zstw-2025-0002</id>
-    <updated>2025-05-04T22:14:20.992760+00:00</updated>
+    <updated>2025-05-06T05:08:22.394621+00:00</updated>
     <summary>Article by Nina Schrott
 DOI: https://doi.org/10.1515/zstw-2025-0002</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/zstw-2025-0002</summary>
     <title>Legale Forschung mit inkriminierten Inhalten?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zstw-2025-0003/html"/>
     <id>https://doi.org/10.1515/zstw-2025-0003</id>
-    <updated>2025-05-04T22:14:20.992769+00:00</updated>
+    <updated>2025-05-06T05:08:22.394632+00:00</updated>
     <summary>Article by Brian Valerius, Svenja Wölfel
 DOI: https://doi.org/10.1515/zstw-2025-0003</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/zstw-2025-0003</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zstw-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zstw-2025-frontmatter1</id>
-    <updated>2025-05-04T22:14:20.992784+00:00</updated>
+    <updated>2025-05-06T05:08:22.394642+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zstw-2025-frontmatter1</summary>
   </entry>
 </feed>

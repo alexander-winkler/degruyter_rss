@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Slawistik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/slaw/70/1/html"/>
-  <updated>2025-05-04T22:12:28.288211+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/slaw/70/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/slaw.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/slaw/html" rel="related"/>
+  <updated>2025-05-06T05:05:44.812230+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/slaw.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Slawistik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/slaw.xml" type="application/rss+xml"/>
   <entry>
     <title>Similarity strategies in Russian and Polish: structures with prepositions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0001/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0001</id>
-    <updated>2025-05-04T22:12:28.288260+00:00</updated>
+    <updated>2025-05-06T05:05:44.812254+00:00</updated>
     <summary>Article by Anna Kisiel, Alena Kolyaseva
 DOI: https://doi.org/10.1515/slaw-2025-0001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0001</summary>
     <title>Ways of translating author’s neologisms of Russian poets into German</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0002/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0002</id>
-    <updated>2025-05-04T22:12:28.288271+00:00</updated>
+    <updated>2025-05-06T05:05:44.812265+00:00</updated>
     <summary>Article by Elena Anatol’evna Andreeva, Inna Germanovna Korneva
 DOI: https://doi.org/10.1515/slaw-2025-0002</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0002</summary>
     <title>Die Briefe Aleksander Brückners an Franz Miklosich im kulturhistorischen Kontext der Epoche: Texte und Kommentare</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0003/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0003</id>
-    <updated>2025-05-04T22:12:28.288280+00:00</updated>
+    <updated>2025-05-06T05:05:44.812274+00:00</updated>
     <summary>Article by Roman Krivko, Nele Focke, Sophia Beiter, Polina Morozova
 DOI: https://doi.org/10.1515/slaw-2025-0003</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0003</summary>
     <title>Analysis of the means of expressing doubt based on the Russian National Corpus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0004/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0004</id>
-    <updated>2025-05-04T22:12:28.288288+00:00</updated>
+    <updated>2025-05-06T05:05:44.812282+00:00</updated>
     <summary>Article by Xiaomeng Le
 DOI: https://doi.org/10.1515/slaw-2025-0004</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0004</summary>
     <title>Initial Insights into War-Time Media Communication: The Air Raid Alert Genre in Ukrainian Media (2022–2024) and Its Ritual-Symbolic Framing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0005/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0005</id>
-    <updated>2025-05-04T22:12:28.288296+00:00</updated>
+    <updated>2025-05-06T05:05:44.812290+00:00</updated>
     <summary>Article by Olha Afanasieva
 DOI: https://doi.org/10.1515/slaw-2025-0005</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0005</summary>
     <title>Influence of Translation Errors on Informa-tion Perception in East Slavic Languages (Ukrainian-Russian; Russian-Ukrainian)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0006/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0006</id>
-    <updated>2025-05-04T22:12:28.288303+00:00</updated>
+    <updated>2025-05-06T05:05:44.812298+00:00</updated>
     <summary>Article by Meimei Huang, Rui Fan
 DOI: https://doi.org/10.1515/slaw-2025-0006</summary>
   </entry>
@@ -63,14 +60,14 @@ DOI: https://doi.org/10.1515/slaw-2025-0006</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/slaw-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:28.288310+00:00</updated>
+    <updated>2025-05-06T05:05:44.812305+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/slaw-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Internationale Konferenz New Insights into Slavic Linguistic Landscapes (28. und 29. Juni 2024)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0007/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0007</id>
-    <updated>2025-05-04T22:12:28.288317+00:00</updated>
+    <updated>2025-05-06T05:05:44.812312+00:00</updated>
     <summary>Article by Grzegorz Lisek, Martin Henzelmann
 DOI: https://doi.org/10.1515/slaw-2025-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0007</summary>
     <title>XXI. Workshop on “Intercultural Communication and Intercultural Learning”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0008/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0008</id>
-    <updated>2025-05-04T22:12:28.288329+00:00</updated>
+    <updated>2025-05-06T05:05:44.812321+00:00</updated>
     <summary>Article by Elena Denisova-Schmidt
 DOI: https://doi.org/10.1515/slaw-2025-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0008</summary>
     <title>Jurij Derenikovič Apresjan 1930–2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0009/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0009</id>
-    <updated>2025-05-04T22:12:28.288337+00:00</updated>
+    <updated>2025-05-06T05:05:44.812330+00:00</updated>
     <summary>Article by Tilman Reuther
 DOI: https://doi.org/10.1515/slaw-2025-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0009</summary>
     <title>Strict Negative Concord in Slavic and Finno-Ugric</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0010/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0010</id>
-    <updated>2025-05-04T22:12:28.288344+00:00</updated>
+    <updated>2025-05-06T05:05:44.812337+00:00</updated>
     <summary>Article by Patrycja Kubicha-Pietrusińska
 DOI: https://doi.org/10.1515/slaw-2025-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0010</summary>
     <title>Ivan Franko: Sonety / Sonette</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0011/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0011</id>
-    <updated>2025-05-04T22:12:28.288352+00:00</updated>
+    <updated>2025-05-06T05:05:44.812344+00:00</updated>
     <summary>Article by Stefan Simonek
 DOI: https://doi.org/10.1515/slaw-2025-0011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/slaw-2025-0011</summary>
     <title>Linguistik des ökologischen Diskurses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/slaw-2025-0012/html"/>
     <id>https://doi.org/10.1515/slaw-2025-0012</id>
-    <updated>2025-05-04T22:12:28.288363+00:00</updated>
+    <updated>2025-05-06T05:05:44.812352+00:00</updated>
     <summary>Article by Tigran Simyan, Tatiana Magrelishvili
 DOI: https://doi.org/10.1515/slaw-2025-0012</summary>
   </entry>

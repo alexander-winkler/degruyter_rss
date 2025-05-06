@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Literary Theory</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jlt/19/1/html"/>
-  <updated>2025-05-04T22:08:18.483413+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jlt/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlt.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jlt/html" rel="related"/>
+  <updated>2025-05-06T05:00:03.779194+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlt.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Literary Theory</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jlt.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jlt-2025-frontmatter1</id>
-    <updated>2025-05-04T22:08:18.483488+00:00</updated>
+    <updated>2025-05-06T05:00:03.779223+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jlt-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Writing the Social. Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2001/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2001</id>
-    <updated>2025-05-04T22:08:18.483497+00:00</updated>
+    <updated>2025-05-06T05:00:03.779232+00:00</updated>
     <summary>Article by Carolin Amlinger, David-Christopher Assmann, Urs Büttner
 DOI: https://doi.org/10.1515/jlt-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2001</summary>
     <title>Schreibweisen des Sozialen. Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2008/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2008</id>
-    <updated>2025-05-04T22:08:18.483508+00:00</updated>
+    <updated>2025-05-06T05:00:03.779242+00:00</updated>
     <summary>Article by Carolin Amlinger, David-Christopher Assmann, Urs Büttner
 DOI: https://doi.org/10.1515/jlt-2025-2008</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2008</summary>
     <title>Sally Rooney and Cultural Sociology of Literature: Towards Epistemological Symmetry within Literature-and-Society Research</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2002/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2002</id>
-    <updated>2025-05-04T22:08:18.483517+00:00</updated>
+    <updated>2025-05-06T05:00:03.779252+00:00</updated>
     <summary>Article by Jan Váňa
 DOI: https://doi.org/10.1515/jlt-2025-2002</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2002</summary>
     <title>Liminale Texte. Insights from the Edge</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2003/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2003</id>
-    <updated>2025-05-04T22:08:18.483526+00:00</updated>
+    <updated>2025-05-06T05:00:03.779264+00:00</updated>
     <summary>Article by Marc Ortmann
 DOI: https://doi.org/10.1515/jlt-2025-2003</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2003</summary>
     <title>ZwischenLife Writingund Kulturtheorie. Literatursoziologische Erkundung der Autoethnographie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2004/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2004</id>
-    <updated>2025-05-04T22:08:18.483537+00:00</updated>
+    <updated>2025-05-06T05:00:03.779271+00:00</updated>
     <summary>Article by Eva Blome
 DOI: https://doi.org/10.1515/jlt-2025-2004</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2004</summary>
     <title>En Vogue? Schreibweisen des Sozialen und ihre Verlagsgeschichten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2005/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2005</id>
-    <updated>2025-05-04T22:08:18.483545+00:00</updated>
+    <updated>2025-05-06T05:00:03.779278+00:00</updated>
     <summary>Article by Sarah Nienhaus, Fabienne Steeger
 DOI: https://doi.org/10.1515/jlt-2025-2005</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2005</summary>
     <title>Sozialfiguren in literarischen und soziographischen Gesellschaftsdarstellungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2006/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2006</id>
-    <updated>2025-05-04T22:08:18.483552+00:00</updated>
+    <updated>2025-05-06T05:00:03.779286+00:00</updated>
     <summary>Article by Kevin Kempke
 DOI: https://doi.org/10.1515/jlt-2025-2006</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jlt-2025-2006</summary>
     <title>The Signal in the Noise: Hermeneutics and/of Computational Literary Sociology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jlt-2025-2007/html"/>
     <id>https://doi.org/10.1515/jlt-2025-2007</id>
-    <updated>2025-05-04T22:08:18.483558+00:00</updated>
+    <updated>2025-05-06T05:00:03.779292+00:00</updated>
     <summary>Article by Anna Muenchrath
 DOI: https://doi.org/10.1515/jlt-2025-2007</summary>
   </entry>

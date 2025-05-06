@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lexicographica</title>
-  <link href="https://www.degruyterbrill.com/journal/key/lexi/40/1/html"/>
-  <updated>2025-05-04T22:09:19.867143+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/lexi/40/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lexi.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/lexi/html" rel="related"/>
+  <updated>2025-05-06T05:01:28.051968+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lexi.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Lexicographica</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lexi.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/lex-2024-frontmatter1</id>
-    <updated>2025-05-04T22:09:19.867168+00:00</updated>
+    <updated>2025-05-06T05:01:28.051999+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/lex-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0001/html"/>
     <id>https://doi.org/10.1515/lex-2024-0001</id>
-    <updated>2025-05-04T22:09:19.867176+00:00</updated>
+    <updated>2025-05-06T05:01:28.052007+00:00</updated>
     <summary>Article by Thomas Herbst
 DOI: https://doi.org/10.1515/lex-2024-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/lex-2024-0001</summary>
     <title>Glancing back, looking forward: the Swedish Academy Dictionary completed after 130 years – now time for revision</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0002/html"/>
     <id>https://doi.org/10.1515/lex-2024-0002</id>
-    <updated>2025-05-04T22:09:19.867185+00:00</updated>
+    <updated>2025-05-06T05:01:28.052017+00:00</updated>
     <summary>Article by Pär Nilsson
 DOI: https://doi.org/10.1515/lex-2024-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/lex-2024-0002</summary>
     <title>Sorry,shitandwow: a case study of the handling of interjections in three Nordic monolingual dictionaries</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0003/html"/>
     <id>https://doi.org/10.1515/lex-2024-0003</id>
-    <updated>2025-05-04T22:09:19.867192+00:00</updated>
+    <updated>2025-05-06T05:01:28.052025+00:00</updated>
     <summary>Article by Emma Sköldberg, Hans Landqvist
 DOI: https://doi.org/10.1515/lex-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/lex-2024-0003</summary>
     <title>Derivatives in Swedish dictionaries. The case of deverbal nouns in -ande</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0004/html"/>
     <id>https://doi.org/10.1515/lex-2024-0004</id>
-    <updated>2025-05-04T22:09:19.867199+00:00</updated>
+    <updated>2025-05-06T05:01:28.052033+00:00</updated>
     <summary>Article by Louise Holmer
 DOI: https://doi.org/10.1515/lex-2024-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/lex-2024-0004</summary>
     <title>Aligning grammatical information in linguistic resources published by the same authority. The case of participles in Swedish Academy dictionaries and grammar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0005/html"/>
     <id>https://doi.org/10.1515/lex-2024-0005</id>
-    <updated>2025-05-04T22:09:19.867206+00:00</updated>
+    <updated>2025-05-06T05:01:28.052040+00:00</updated>
     <summary>Article by Kristian Blensenius
 DOI: https://doi.org/10.1515/lex-2024-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/lex-2024-0005</summary>
     <title>Danish Lexicography between Tradition and Innovation: Digital Dictionaries and Needs-adapted Glosses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0006/html"/>
     <id>https://doi.org/10.1515/lex-2024-0006</id>
-    <updated>2025-05-04T22:09:19.867213+00:00</updated>
+    <updated>2025-05-06T05:01:28.052048+00:00</updated>
     <summary>Article by Sven Tarp
 DOI: https://doi.org/10.1515/lex-2024-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/lex-2024-0006</summary>
     <title>Ten good reasons to build the Norwegian ConstructiCon, a dictionary of grammar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0007/html"/>
     <id>https://doi.org/10.1515/lex-2024-0007</id>
-    <updated>2025-05-04T22:09:19.867219+00:00</updated>
+    <updated>2025-05-06T05:01:28.052055+00:00</updated>
     <summary>Article by Anna Endresen, Olaf Mikkelsen
 DOI: https://doi.org/10.1515/lex-2024-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/lex-2024-0007</summary>
     <title>High and low level constructions in dictionaries and constructiCons: the interplay between lexical and syntactic information in CASA|Con</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0008/html"/>
     <id>https://doi.org/10.1515/lex-2024-0008</id>
-    <updated>2025-05-04T22:09:19.867226+00:00</updated>
+    <updated>2025-05-06T05:01:28.052062+00:00</updated>
     <summary>Article by Thomas Herbst
 DOI: https://doi.org/10.1515/lex-2024-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/lex-2024-0008</summary>
     <title>Despite Current Challenges: Lexicography has a bright future</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0009/html"/>
     <id>https://doi.org/10.1515/lex-2024-0009</id>
-    <updated>2025-05-04T22:09:19.867233+00:00</updated>
+    <updated>2025-05-06T05:01:28.052073+00:00</updated>
     <summary>Article by Rufus H. Gouws, Sven Tarp
 DOI: https://doi.org/10.1515/lex-2024-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/lex-2024-0009</summary>
     <title>Vocabularius incipiens teutonicum ante latinum. Konzeption und Geschichte eines deutsch-lateinischen Vokabulars des Spätmittelalters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0010/html"/>
     <id>https://doi.org/10.1515/lex-2024-0010</id>
-    <updated>2025-05-04T22:09:19.867239+00:00</updated>
+    <updated>2025-05-06T05:01:28.052080+00:00</updated>
     <summary>Article by Peter O. Müller
 DOI: https://doi.org/10.1515/lex-2024-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/lex-2024-0010</summary>
     <title>Im Netz der Wörter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0011/html"/>
     <id>https://doi.org/10.1515/lex-2024-0011</id>
-    <updated>2025-05-04T22:09:19.867246+00:00</updated>
+    <updated>2025-05-06T05:01:28.052087+00:00</updated>
     <summary>Article by Jochen A. Bär
 DOI: https://doi.org/10.1515/lex-2024-0011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/lex-2024-0011</summary>
     <title>Lexicographical Resources for Mountaineers: A Usage Survey</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0012/html"/>
     <id>https://doi.org/10.1515/lex-2024-0012</id>
-    <updated>2025-05-04T22:09:19.867255+00:00</updated>
+    <updated>2025-05-06T05:01:28.052094+00:00</updated>
     <summary>Article by Sven Leuckert
 DOI: https://doi.org/10.1515/lex-2024-0012</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/lex-2024-0012</summary>
     <title>EMLex 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lex-2024-0013/html"/>
     <id>https://doi.org/10.1515/lex-2024-0013</id>
-    <updated>2025-05-04T22:09:19.867261+00:00</updated>
+    <updated>2025-05-06T05:01:28.052101+00:00</updated>
     <summary>Article by Ulrich Heid
 DOI: https://doi.org/10.1515/lex-2024-0013</summary>
   </entry>

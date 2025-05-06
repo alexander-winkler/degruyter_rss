@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Glottotheory </title>
-  <link href="https://www.degruyterbrill.com/journal/key/glot/15/2/html"/>
-  <updated>2025-05-04T22:05:57.404233+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/glot/15/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/glot/html" rel="related"/>
+  <updated>2025-05-06T04:56:51.306872+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Glottotheory </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/glot.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/glot-2024-frontmatter2</id>
-    <updated>2025-05-04T22:05:57.404268+00:00</updated>
+    <updated>2025-05-06T04:56:51.306905+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/glot-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Internet terminology in modern German: semantics and structure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2007/html"/>
     <id>https://doi.org/10.1515/glot-2024-2007</id>
-    <updated>2025-05-04T22:05:57.404276+00:00</updated>
+    <updated>2025-05-06T04:56:51.306916+00:00</updated>
     <summary>Article by Yuriy Kiyko, Svitlana Kiyko
 DOI: https://doi.org/10.1515/glot-2024-2007</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/glot-2024-2007</summary>
     <title>Werbesprache im Kultur- und Sprachkontakt: Russische Inseratwerbung in deutschsprachigem Umfeld</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2009/html"/>
     <id>https://doi.org/10.1515/glot-2024-2009</id>
-    <updated>2025-05-04T22:05:57.404286+00:00</updated>
+    <updated>2025-05-06T04:56:51.306928+00:00</updated>
     <summary>Article by Csaba Földes
 DOI: https://doi.org/10.1515/glot-2024-2009</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/glot-2024-2009</summary>
     <title>(Post-)Nukleare Rückversicherungssignale in der männlichen Kommunikation als indirekter Geschlechtsindex: vermittelte Positionierungen und Funktionen in analysierten männlichen Communitys</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2010/html"/>
     <id>https://doi.org/10.1515/glot-2024-2010</id>
-    <updated>2025-05-04T22:05:57.404296+00:00</updated>
+    <updated>2025-05-06T04:56:51.306939+00:00</updated>
     <summary>Article by Oksana Khrystenko
 DOI: https://doi.org/10.1515/glot-2024-2010</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/glot-2024-2010</summary>
     <title>Deskription fachlicher Kommunikation – Vorschlag und Beispiel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2008/html"/>
     <id>https://doi.org/10.1515/glot-2024-2008</id>
-    <updated>2025-05-04T22:05:57.404304+00:00</updated>
+    <updated>2025-05-06T04:56:51.306948+00:00</updated>
     <summary>Article by Thorsten Roelcke
 DOI: https://doi.org/10.1515/glot-2024-2008</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/glot-2024-2008</summary>
     <title>Douglas A. Vakoch &amp; Jeffrey Punske:Xenolinguistics: Towards a Science of Extraterrestrial Language</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2006/html"/>
     <id>https://doi.org/10.1515/glot-2024-2006</id>
-    <updated>2025-05-04T22:05:57.404311+00:00</updated>
+    <updated>2025-05-06T04:56:51.306960+00:00</updated>
     <summary>Article by Hossein Davari, Amir Ghorbanpour
 DOI: https://doi.org/10.1515/glot-2024-2006</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/glot-2024-2006</summary>
     <title>Call for papers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/glot-2024-2011/html"/>
     <id>https://doi.org/10.1515/glot-2024-2011</id>
-    <updated>2025-05-04T22:05:57.404318+00:00</updated>
+    <updated>2025-05-06T04:56:51.306969+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/glot-2024-2011</summary>
   </entry>
 </feed>

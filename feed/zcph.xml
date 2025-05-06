@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für celtische Philologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zcph/71/1/html"/>
-  <updated>2025-05-04T22:13:29.066332+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zcph/71/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zcph.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zcph/html" rel="related"/>
+  <updated>2025-05-06T05:07:09.538916+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zcph.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für celtische Philologie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zcph.xml" type="application/rss+xml"/>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-toc7101/html"/>
     <id>https://doi.org/10.1515/zcph-2024-toc7101</id>
-    <updated>2025-05-04T22:13:29.066355+00:00</updated>
+    <updated>2025-05-06T05:07:09.538936+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zcph-2024-toc7101</summary>
   </entry>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-frontmatter7101/html"/>
     <id>https://doi.org/10.1515/zcph-2024-frontmatter7101</id>
-    <updated>2025-05-04T22:13:29.066362+00:00</updated>
+    <updated>2025-05-06T05:07:09.538943+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zcph-2024-frontmatter7101</summary>
   </entry>
   <entry>
     <title>Lepontische Inschriften aus dem Brembanatal</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0001/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0001</id>
-    <updated>2025-05-04T22:13:29.066367+00:00</updated>
+    <updated>2025-05-06T05:07:09.538950+00:00</updated>
     <summary>Article by Matthias Donners
 DOI: https://doi.org/10.1515/zcph-2024-0001</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0001</summary>
     <title>Digamma and Prestino and related matters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0002/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0002</id>
-    <updated>2025-05-04T22:13:29.066374+00:00</updated>
+    <updated>2025-05-06T05:07:09.538957+00:00</updated>
     <summary>Article by Joseph F. Eska
 DOI: https://doi.org/10.1515/zcph-2024-0002</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0002</summary>
     <title>Script transfer and Laryngeal Realism, and script reform</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0003/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0003</id>
-    <updated>2025-05-04T22:13:29.066380+00:00</updated>
+    <updated>2025-05-06T05:07:09.538964+00:00</updated>
     <summary>Article by Joseph F. Eska
 DOI: https://doi.org/10.1515/zcph-2024-0003</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0003</summary>
     <title>Celtic influence in the Latin of the curse tablet from Ratcliffe-on-Soar (Nottinghamshire)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0004/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0004</id>
-    <updated>2025-05-04T22:13:29.066386+00:00</updated>
+    <updated>2025-05-06T05:07:09.538970+00:00</updated>
     <summary>Article by Mark Darling
 DOI: https://doi.org/10.1515/zcph-2024-0004</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0004</summary>
     <title>Medieval Irish supernatural beings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0005/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0005</id>
-    <updated>2025-05-04T22:13:29.066391+00:00</updated>
+    <updated>2025-05-06T05:07:09.538976+00:00</updated>
     <summary>Article by Sharon Arbuthnot
 DOI: https://doi.org/10.1515/zcph-2024-0005</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0005</summary>
     <title>The deaths of Baldr and Fergus mac Roig</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0006/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0006</id>
-    <updated>2025-05-04T22:13:29.066399+00:00</updated>
+    <updated>2025-05-06T05:07:09.538983+00:00</updated>
     <summary>Article by Kim McCone
 DOI: https://doi.org/10.1515/zcph-2024-0006</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0006</summary>
     <title>‘To the waters and the wild’: Patterns, themes and variations in tales of the birth and youth, of Ireland’s Cormac, Níall and Brigit, Rome’s founder(s), and other kings and heroes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0007/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0007</id>
-    <updated>2025-05-04T22:13:29.066407+00:00</updated>
+    <updated>2025-05-06T05:07:09.538991+00:00</updated>
     <summary>Article by Kim McCone
 DOI: https://doi.org/10.1515/zcph-2024-0007</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0007</summary>
     <title>Style and syntax in Roger Smyth’s Early-Modern Welsh paratexts (1609–1612)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0008/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0008</id>
-    <updated>2025-05-04T22:13:29.066413+00:00</updated>
+    <updated>2025-05-06T05:07:09.538997+00:00</updated>
     <summary>Article by Erich Poppe, Raphael Sackmann
 DOI: https://doi.org/10.1515/zcph-2024-0008</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0008</summary>
     <title>Christina Cleary &amp; Chantal Kobel (ed.): Essays in memory of Eleanor Knott</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0009/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0009</id>
-    <updated>2025-05-04T22:13:29.066419+00:00</updated>
+    <updated>2025-05-06T05:07:09.539006+00:00</updated>
     <summary>Article by Eoghan Ó. Raghallaigh
 DOI: https://doi.org/10.1515/zcph-2024-0009</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0009</summary>
     <title>Michaela Jacques: Grammar and Poetry in Late Medieval and Early Modern Wales. The Transmission and Reception of the Welsh Bardic Grammars</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0010/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0010</id>
-    <updated>2025-05-04T22:13:29.066425+00:00</updated>
+    <updated>2025-05-06T05:07:09.539013+00:00</updated>
     <summary>Article by Erich Poppe
 DOI: https://doi.org/10.1515/zcph-2024-0010</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0010</summary>
     <title>Barry L. Lewis: Bonedd y Saint: An Edition and Study of the Genealogies of the Welsh Saints</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0011/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0011</id>
-    <updated>2025-05-04T22:13:29.066431+00:00</updated>
+    <updated>2025-05-06T05:07:09.539019+00:00</updated>
     <summary>Article by Stefan Zimmer
 DOI: https://doi.org/10.1515/zcph-2024-0011</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0011</summary>
     <title>Wolfgang Meid (Hg.): Der Sturm auf Da Dergas Herberge. Togail Bruidne Da Derga. Altirische Sage in gekürzter Bearbeitung, mit Einleitung, altirisch restituiertem Text, Übersetzung, Kommentar und Glossar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0012/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0012</id>
-    <updated>2025-05-04T22:13:29.066440+00:00</updated>
+    <updated>2025-05-06T05:07:09.539026+00:00</updated>
     <summary>Article by Christina Cleary
 DOI: https://doi.org/10.1515/zcph-2024-0012</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0012</summary>
     <title>Wolfgang Meid (Hg.): Die Werbung um Étaín. Tochmarc Étaíne. Eine altirische Sage. Restaurierter altirischer Text, mit Einleitung, Übersetzung, Kommentar und Glossar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0013/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0013</id>
-    <updated>2025-05-04T22:13:29.066446+00:00</updated>
+    <updated>2025-05-06T05:07:09.539033+00:00</updated>
     <summary>Article by Christina Cleary
 DOI: https://doi.org/10.1515/zcph-2024-0013</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0013</summary>
     <title>Kevin Murray (ed.): Oidheadh Chloinne hUisneach: Reassessments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0014/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0014</id>
-    <updated>2025-05-04T22:13:29.066451+00:00</updated>
+    <updated>2025-05-06T05:07:09.539039+00:00</updated>
     <summary>Article by Mícheál Hoyne
 DOI: https://doi.org/10.1515/zcph-2024-0014</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0014</summary>
     <title>Aengus Ó Fionnagáin &amp; Gordon Ó Riain (ed.): Léann na Sionainne</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0015/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0015</id>
-    <updated>2025-05-04T22:13:29.066457+00:00</updated>
+    <updated>2025-05-06T05:07:09.539045+00:00</updated>
     <summary>Article by Deirdre Nic Chárthaigh
 DOI: https://doi.org/10.1515/zcph-2024-0015</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0015</summary>
     <title>Kerstin Plein: Verbalkongruenz im Mittelkymrischen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0016/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0016</id>
-    <updated>2025-05-04T22:13:29.066462+00:00</updated>
+    <updated>2025-05-06T05:07:09.539051+00:00</updated>
     <summary>Article by David Willis
 DOI: https://doi.org/10.1515/zcph-2024-0016</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/zcph-2024-0016</summary>
     <title>Pádraigín Riggs (ed.): The wars of Charlemagne: reassessments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zcph-2024-0017/html"/>
     <id>https://doi.org/10.1515/zcph-2024-0017</id>
-    <updated>2025-05-04T22:13:29.066467+00:00</updated>
+    <updated>2025-05-06T05:07:09.539058+00:00</updated>
     <summary>Article by Uáitéar Mac Gearailt
 DOI: https://doi.org/10.1515/zcph-2024-0017</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jahrbücher für Nationalökonomie und Statistik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jbnst/245/3/html"/>
-  <updated>2025-05-04T22:07:25.785996+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jbnst/245/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbnst.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jbnst/html" rel="related"/>
+  <updated>2025-05-06T04:58:49.813296+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbnst.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Jahrbücher für Nationalökonomie und Statistik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbnst.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2025-frontmatter3/html"/>
     <id>https://doi.org/10.1515/jbnst-2025-frontmatter3</id>
-    <updated>2025-05-04T22:07:25.786034+00:00</updated>
+    <updated>2025-05-06T04:58:49.813340+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jbnst-2025-frontmatter3</summary>
   </entry>
   <entry>
     <title>Editorial: 2024 Best Paper Award</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2025-0013/html"/>
     <id>https://doi.org/10.1515/jbnst-2025-0013</id>
-    <updated>2025-05-04T22:07:25.786046+00:00</updated>
+    <updated>2025-05-06T04:58:49.813356+00:00</updated>
     <summary>Article by Michael Frenkel, Sandra Nolte, Susanne Prantl
 DOI: https://doi.org/10.1515/jbnst-2025-0013</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jbnst-2025-0013</summary>
     <title>Strategic Location and Manager Delegation with Concentrated Consumer Demand</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2023-0061/html"/>
     <id>https://doi.org/10.1515/jbnst-2023-0061</id>
-    <updated>2025-05-04T22:07:25.786059+00:00</updated>
+    <updated>2025-05-06T04:58:49.813369+00:00</updated>
     <summary>Article by Manfred Stadler, Maximiliane Unsorg
 DOI: https://doi.org/10.1515/jbnst-2023-0061</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jbnst-2023-0061</summary>
     <title>The German Inflation Trauma: Weimar’s Policy Lessons Between Persistence and Reconstruction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2023-0045/html"/>
     <id>https://doi.org/10.1515/jbnst-2023-0045</id>
-    <updated>2025-05-04T22:07:25.786070+00:00</updated>
+    <updated>2025-05-06T04:58:49.813383+00:00</updated>
     <summary>Article by David Barkhausen, Sebastian Teupe
 DOI: https://doi.org/10.1515/jbnst-2023-0045</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jbnst-2023-0045</summary>
     <title>Sustainable Macroeconomics, Climate Risks, and Energy Transitions: Dynamic Modeling, Empirics, and Policies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2024-0072/html"/>
     <id>https://doi.org/10.1515/jbnst-2024-0072</id>
-    <updated>2025-05-04T22:07:25.786080+00:00</updated>
+    <updated>2025-05-06T04:58:49.813391+00:00</updated>
     <summary>Article by Karim Errouaki
 DOI: https://doi.org/10.1515/jbnst-2024-0072</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jbnst-2024-0072</summary>
     <title>Combined International Trade and Investment Data “CITID” – A New Innovative and Comprehensive Data Landscape for Germany</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2024-0024/html"/>
     <id>https://doi.org/10.1515/jbnst-2024-0024</id>
-    <updated>2025-05-04T22:07:25.786091+00:00</updated>
+    <updated>2025-05-06T04:58:49.813404+00:00</updated>
     <summary>Article by Dominik Boddin, Hendrik W. Kruse, Hariolf Merkle, Susanne Walter, Benedikt Zapf
 DOI: https://doi.org/10.1515/jbnst-2024-0024</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jbnst-2024-0024</summary>
     <title>The Harmonised BIBB/BAuA Employment Survey 2006, 2012 and 2018 (H-ETB)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbnst-2024-0048/html"/>
     <id>https://doi.org/10.1515/jbnst-2024-0048</id>
-    <updated>2025-05-04T22:07:25.786101+00:00</updated>
+    <updated>2025-05-06T04:58:49.813417+00:00</updated>
     <summary>Article by Beatrice van Berk, Anett Friedrich
 DOI: https://doi.org/10.1515/jbnst-2024-0048</summary>
   </entry>

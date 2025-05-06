@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Klio</title>
-  <link href="https://www.degruyterbrill.com/journal/key/klio/106/2/html"/>
-  <updated>2025-05-04T22:09:07.522472+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/klio/106/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/klio.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/klio/html" rel="related"/>
+  <updated>2025-05-06T05:01:10.616849+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/klio.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Klio</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/klio.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/klio-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:07.522493+00:00</updated>
+    <updated>2025-05-06T05:01:10.616891+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/klio-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Die Pferde von Amnisos. Ein Wendepunkt in der Geschichte des bronzezeitlichen Kreta?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0021/html"/>
     <id>https://doi.org/10.1515/klio-2024-0021</id>
-    <updated>2025-05-04T22:09:07.522500+00:00</updated>
+    <updated>2025-05-06T05:01:10.616898+00:00</updated>
     <summary>Article by Klaus Tausend
 DOI: https://doi.org/10.1515/klio-2024-0021</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/klio-2024-0021</summary>
     <title>Revolts and the Persian Great Kings: Active Involvement or Careful Abstention?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2023-0030/html"/>
     <id>https://doi.org/10.1515/klio-2023-0030</id>
-    <updated>2025-05-04T22:09:07.522507+00:00</updated>
+    <updated>2025-05-06T05:01:10.616905+00:00</updated>
     <summary>Article by Orestis Belogiannis
 DOI: https://doi.org/10.1515/klio-2023-0030</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/klio-2023-0030</summary>
     <title>Die Trilingue vom Letoon und das lykische Geldsystem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0009/html"/>
     <id>https://doi.org/10.1515/klio-2024-0009</id>
-    <updated>2025-05-04T22:09:07.522513+00:00</updated>
+    <updated>2025-05-06T05:01:10.616911+00:00</updated>
     <summary>Article by Helmut Lotz
 DOI: https://doi.org/10.1515/klio-2024-0009</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/klio-2024-0009</summary>
     <title>Frammenti di storia assira nei Persikà di Ellanico di Lesbo e nella storiografia greca</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0024/html"/>
     <id>https://doi.org/10.1515/klio-2024-0024</id>
-    <updated>2025-05-04T22:09:07.522520+00:00</updated>
+    <updated>2025-05-06T05:01:10.616916+00:00</updated>
     <summary>Article by Ennio Biondi
 DOI: https://doi.org/10.1515/klio-2024-0024</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/klio-2024-0024</summary>
     <title>Gli Oreioi, Pseudo-Scilace e la Creta sud-occidentale</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0007/html"/>
     <id>https://doi.org/10.1515/klio-2024-0007</id>
-    <updated>2025-05-04T22:09:07.522525+00:00</updated>
+    <updated>2025-05-06T05:01:10.616921+00:00</updated>
     <summary>Article by Sergio Brillante
 DOI: https://doi.org/10.1515/klio-2024-0007</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/klio-2024-0007</summary>
     <title>Who Owned the Slaves in Lysias 1.42? The Role of Slavery in Agriculture and Criminal Violence in Classical Athens</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0018/html"/>
     <id>https://doi.org/10.1515/klio-2024-0018</id>
-    <updated>2025-05-04T22:09:07.522534+00:00</updated>
+    <updated>2025-05-06T05:01:10.616928+00:00</updated>
     <summary>Article by Jason Douglas Porter
 DOI: https://doi.org/10.1515/klio-2024-0018</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/klio-2024-0018</summary>
     <title>Living by the Clock II: The Diffusion of Clock Time in the Early Hellenistic Period</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2023-0036/html"/>
     <id>https://doi.org/10.1515/klio-2023-0036</id>
-    <updated>2025-05-04T22:09:07.522540+00:00</updated>
+    <updated>2025-05-06T05:01:10.616933+00:00</updated>
     <summary>Article by Sofie Remijsen
 DOI: https://doi.org/10.1515/klio-2023-0036</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/klio-2023-0036</summary>
     <title>Συνθήκη, δόγμα unddecretum: Zum Ratifizierungsprozess und zur nachträglichen Erweiterung des Friedensvertrags von 197/6 v. Chr. zwischen König Philipp V. von Makedonien und Rom</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0003/html"/>
     <id>https://doi.org/10.1515/klio-2024-0003</id>
-    <updated>2025-05-04T22:09:07.522547+00:00</updated>
+    <updated>2025-05-06T05:01:10.616941+00:00</updated>
     <summary>Article by Jack W. G. Schropp
 DOI: https://doi.org/10.1515/klio-2024-0003</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/klio-2024-0003</summary>
     <title>Rhetorische Kompendien im klassischen Griechenland und spätrepublikanischen Rom: DieRhetorica ad Alexandrumund dieRhetorica ad Herenniumim historischen Vergleich</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0006/html"/>
     <id>https://doi.org/10.1515/klio-2024-0006</id>
-    <updated>2025-05-04T22:09:07.522553+00:00</updated>
+    <updated>2025-05-06T05:01:10.616946+00:00</updated>
     <summary>Article by Karen Piepenbrink
 DOI: https://doi.org/10.1515/klio-2024-0006</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/klio-2024-0006</summary>
     <title>Envisioning the Panoply of the Roman Torturer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2023-0033/html"/>
     <id>https://doi.org/10.1515/klio-2023-0033</id>
-    <updated>2025-05-04T22:09:07.522559+00:00</updated>
+    <updated>2025-05-06T05:01:10.616951+00:00</updated>
     <summary>Article by John Granger Cook
 DOI: https://doi.org/10.1515/klio-2023-0033</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/klio-2023-0033</summary>
     <title>Zur Frage der Lokalisierung des sasanidischen Vizekönigtums Gēlān im 3. Jhd. n. Chr.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-0022/html"/>
     <id>https://doi.org/10.1515/klio-2024-0022</id>
-    <updated>2025-05-04T22:09:07.522566+00:00</updated>
+    <updated>2025-05-06T05:01:10.616957+00:00</updated>
     <summary>Article by Karin Mosig-Walburg
 DOI: https://doi.org/10.1515/klio-2024-0022</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/klio-2024-0022</summary>
     <title>Challenging the Significance of the LALIA and the Justinianic Plague: A Reanalysis of the Archaeological Record</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2023-0031/html"/>
     <id>https://doi.org/10.1515/klio-2023-0031</id>
-    <updated>2025-05-04T22:09:07.522572+00:00</updated>
+    <updated>2025-05-06T05:01:10.616962+00:00</updated>
     <summary>Article by Haggai Olshanetsky, Lev Cosijns
 DOI: https://doi.org/10.1515/klio-2023-0031</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/klio-2023-0031</summary>
     <title>Benjamin Allgaier, Embedded Inscriptions in Herodotus and Thucydides, Wiesbaden (Harrassowitz Verlag) 2022 (Philippika 157), VIII, 198 S., ISBN 978-3-447-11791-3 (brosch.), € 49,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2028/html"/>
     <id>https://doi.org/10.1515/klio-2024-2028</id>
-    <updated>2025-05-04T22:09:07.522580+00:00</updated>
+    <updated>2025-05-06T05:01:10.616968+00:00</updated>
     <summary>Article by Joseph W. Day
 DOI: https://doi.org/10.1515/klio-2024-2028</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/klio-2024-2028</summary>
     <title>Stefan Distler,Bauern und Banausen. Darstellungen des Handwerks und der Landwirtschaft in der griechischen Vasenmalerei, Wiesbaden (Reichert Verlag) 2022, 240 S., ISBN 978-3-95490-321-4 (geb.), € 110,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2024/html"/>
     <id>https://doi.org/10.1515/klio-2024-2024</id>
-    <updated>2025-05-04T22:09:07.522588+00:00</updated>
+    <updated>2025-05-06T05:01:10.616973+00:00</updated>
     <summary>Article by David Lewis
 DOI: https://doi.org/10.1515/klio-2024-2024</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/klio-2024-2024</summary>
     <title>Markus Sachs,Betriebswirtschaftliches Denken und Handeln im antiken Rom, Wiesbaden (Harrassowitz Verlag) 2022 (Philippika 161), 343 S., ISBN 978-3-447-11870-5 (geb.), € 89,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2029/html"/>
     <id>https://doi.org/10.1515/klio-2024-2029</id>
-    <updated>2025-05-04T22:09:07.522595+00:00</updated>
+    <updated>2025-05-06T05:01:10.616978+00:00</updated>
     <summary>Article by Jochen Streb
 DOI: https://doi.org/10.1515/klio-2024-2029</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/klio-2024-2029</summary>
     <title>Martin T. Dinter – Charles Guérin (Hgg.),Cultural Memory in Republican and Augustan Rome, Cambridge (Cambridge University Press) 2023, XV, 400 S., 15 Abb., ISBN 978-1-009-32775-6 (geb.), £ 115,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2026/html"/>
     <id>https://doi.org/10.1515/klio-2024-2026</id>
-    <updated>2025-05-04T22:09:07.522601+00:00</updated>
+    <updated>2025-05-06T05:01:10.616983+00:00</updated>
     <summary>Article by Karl-Joachim Hölkeskamp
 DOI: https://doi.org/10.1515/klio-2024-2026</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/klio-2024-2026</summary>
     <title>Mika Kajava, Naming Gods. An Onomastic Study of Divine Epithets Derived from Roman Anthroponyms, Helsinki (Societas Scientiarum Fennica) 2022 (Commentationes Humanarum Litterarum 144), 159 S., ISBN 978-951-653-490-2 (brosch.), € 25,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2022/html"/>
     <id>https://doi.org/10.1515/klio-2024-2022</id>
-    <updated>2025-05-04T22:09:07.522608+00:00</updated>
+    <updated>2025-05-06T05:01:10.617001+00:00</updated>
     <summary>Article by Marietta Horster
 DOI: https://doi.org/10.1515/klio-2024-2022</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/klio-2024-2022</summary>
     <title>Jean-Yves Strasser, Mémoires de champions. Corpus des palmarès, d’Octavien à Valentinien Ier, Athen (École française d’Athènes) 2021 (Bibliothèque des Écoles françaises d’Athènes et de Rome 395), VIII, 840 S., 81 Abb., ISBN 978-2-86958-553-9, € 65,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2023/html"/>
     <id>https://doi.org/10.1515/klio-2024-2023</id>
-    <updated>2025-05-04T22:09:07.522618+00:00</updated>
+    <updated>2025-05-06T05:01:10.617006+00:00</updated>
     <summary>Article by Marco Tentori Montalto
 DOI: https://doi.org/10.1515/klio-2024-2023</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/klio-2024-2023</summary>
     <title>Hansjoachim Andres,Bruderzwist. Strukturen und Methoden der Diplomatie zwischen Rom und Iran von der Teilung Armeniens bis zum Fünfzigjährigen Frieden, Stuttgart (Franz Steiner Verlag) 2022 (Oriens et Occidens 40), 559 S., ISBN 978-3-515-13363-0 (geb.), € 104,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2027/html"/>
     <id>https://doi.org/10.1515/klio-2024-2027</id>
-    <updated>2025-05-04T22:09:07.522625+00:00</updated>
+    <updated>2025-05-06T05:01:10.617012+00:00</updated>
     <summary>Article by Katarzyna Maksymiuk
 DOI: https://doi.org/10.1515/klio-2024-2027</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/klio-2024-2027</summary>
     <title>Hartmut Leppin, Paradoxe der Parrhesie. Eine antike Wortgeschichte, Tübingen (Mohr Siebeck) 2022 (Tria Corda 14), VIII, 263 S., ISBN 978-3-16-157550-1 (brosch.), € 29,–</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/klio-2024-2025/html"/>
     <id>https://doi.org/10.1515/klio-2024-2025</id>
-    <updated>2025-05-04T22:09:07.522631+00:00</updated>
+    <updated>2025-05-06T05:01:10.617016+00:00</updated>
     <summary>Article by Matthias Becker
 DOI: https://doi.org/10.1515/klio-2024-2025</summary>
   </entry>

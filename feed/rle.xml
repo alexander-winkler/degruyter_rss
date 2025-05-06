@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Review of Law &amp; Economics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rle/20/3/html"/>
-  <updated>2025-05-04T22:11:59.055327+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/rle/20/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rle.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rle/html" rel="related"/>
+  <updated>2025-05-06T05:05:04.352478+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rle.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Review of Law &amp; Economics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rle.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/rle-2024-frontmatter3</id>
-    <updated>2025-05-04T22:11:59.055361+00:00</updated>
+    <updated>2025-05-06T05:05:04.352501+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/rle-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>Editorial Statement</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-2001/html"/>
     <id>https://doi.org/10.1515/rle-2024-2001</id>
-    <updated>2025-05-04T22:11:59.055371+00:00</updated>
+    <updated>2025-05-06T05:05:04.352510+00:00</updated>
     <summary>Article by Keith N. Hylton
 DOI: https://doi.org/10.1515/rle-2024-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/rle-2024-2001</summary>
     <title>The Law – An Impossible Discipline</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-0109/html"/>
     <id>https://doi.org/10.1515/rle-2024-0109</id>
-    <updated>2025-05-04T22:11:59.055383+00:00</updated>
+    <updated>2025-05-06T05:05:04.352520+00:00</updated>
     <summary>Article by Christoph Engel
 DOI: https://doi.org/10.1515/rle-2024-0109</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/rle-2024-0109</summary>
     <title>The Social Costs of Deregulation in a Fight Against Corruption: A Case Study on Driver’s Licenses in Mexico City</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2023-0104/html"/>
     <id>https://doi.org/10.1515/rle-2023-0104</id>
-    <updated>2025-05-04T22:11:59.055393+00:00</updated>
+    <updated>2025-05-06T05:05:04.352528+00:00</updated>
     <summary>Article by Konrad Grabiszewski, Alex Horenstein
 DOI: https://doi.org/10.1515/rle-2023-0104</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/rle-2023-0104</summary>
     <title>Can the Decriminalization of Homosexuality Counter Religious and Traditional Homophobia in Africa?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-0079/html"/>
     <id>https://doi.org/10.1515/rle-2024-0079</id>
-    <updated>2025-05-04T22:11:59.055402+00:00</updated>
+    <updated>2025-05-06T05:05:04.352536+00:00</updated>
     <summary>Article by Mathieu Juliot Mpabe Bodjongo
 DOI: https://doi.org/10.1515/rle-2024-0079</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/rle-2024-0079</summary>
     <title>Multiple Equilibria and Equilibrium Selection in the Crime Commission Game</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-0113/html"/>
     <id>https://doi.org/10.1515/rle-2024-0113</id>
-    <updated>2025-05-04T22:11:59.055410+00:00</updated>
+    <updated>2025-05-06T05:05:04.352543+00:00</updated>
     <summary>Article by Matthew J. Baker, Thomas J. Miceli
 DOI: https://doi.org/10.1515/rle-2024-0113</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/rle-2024-0113</summary>
     <title>A Patent and a Prize</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-0096/html"/>
     <id>https://doi.org/10.1515/rle-2024-0096</id>
-    <updated>2025-05-04T22:11:59.055419+00:00</updated>
+    <updated>2025-05-06T05:05:04.352550+00:00</updated>
     <summary>Article by Keith N. Hylton
 DOI: https://doi.org/10.1515/rle-2024-0096</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/rle-2024-0096</summary>
     <title>On the Invariance Result of Liability Rules in Oligopoly</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/rle-2024-0093/html"/>
     <id>https://doi.org/10.1515/rle-2024-0093</id>
-    <updated>2025-05-04T22:11:59.055427+00:00</updated>
+    <updated>2025-05-06T05:05:04.352557+00:00</updated>
     <summary>Article by Daewon Kim, Jeong-Yoo Kim
 DOI: https://doi.org/10.1515/rle-2024-0093</summary>
   </entry>

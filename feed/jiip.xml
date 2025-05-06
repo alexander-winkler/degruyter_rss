@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Inverse and Ill-posed Problems</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jiip/33/2/html"/>
-  <updated>2025-05-04T22:08:06.499125+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jiip/33/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jiip.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jiip/html" rel="related"/>
+  <updated>2025-05-06T04:59:45.342685+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jiip.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Inverse and Ill-posed Problems</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jiip.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jiip-2025-frontmatter2</id>
-    <updated>2025-05-04T22:08:06.499165+00:00</updated>
+    <updated>2025-05-06T04:59:45.342705+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jiip-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Local convergence of the error-reduction algorithm for real-valued objects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2019-0021/html"/>
     <id>https://doi.org/10.1515/jiip-2019-0021</id>
-    <updated>2025-05-04T22:08:06.499175+00:00</updated>
+    <updated>2025-05-06T04:59:45.342714+00:00</updated>
     <summary>Article by Gi-Ren Liu
 DOI: https://doi.org/10.1515/jiip-2019-0021</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jiip-2019-0021</summary>
     <title>A rotation total variation regularization for full waveform inversion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2022-0067/html"/>
     <id>https://doi.org/10.1515/jiip-2022-0067</id>
-    <updated>2025-05-04T22:08:06.499184+00:00</updated>
+    <updated>2025-05-06T04:59:45.342723+00:00</updated>
     <summary>Article by Faxuan Wu, Qinglong He, Jiangyan Zou, Zexian Liu
 DOI: https://doi.org/10.1515/jiip-2022-0067</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jiip-2022-0067</summary>
     <title>Stochastic data-driven Bouligand–Landweber method for solving non-smooth inverse problems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0012/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0012</id>
-    <updated>2025-05-04T22:08:06.499204+00:00</updated>
+    <updated>2025-05-06T04:59:45.342732+00:00</updated>
     <summary>Article by Harshit Bajpai, Gaurav Mittal, Ankik Kumar Giri
 DOI: https://doi.org/10.1515/jiip-2024-0012</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0012</summary>
     <title>On determining the fractional exponent of the subdiffusion equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0019/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0019</id>
-    <updated>2025-05-04T22:08:06.499212+00:00</updated>
+    <updated>2025-05-06T04:59:45.342739+00:00</updated>
     <summary>Article by Shavkat Alimov, Ravshan Ashurov
 DOI: https://doi.org/10.1515/jiip-2024-0019</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0019</summary>
     <title>Tow-parameter quasi-boundary value method for a backward abstract time-degenerate fractional parabolic problem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0025/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0025</id>
-    <updated>2025-05-04T22:08:06.499222+00:00</updated>
+    <updated>2025-05-06T04:59:45.342746+00:00</updated>
     <summary>Article by Khelili Besma, Boussetila Nadjib, Benrabah Abderafik
 DOI: https://doi.org/10.1515/jiip-2024-0025</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0025</summary>
     <title>Determining both leading coefficient and source in a nonlocal elliptic equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0059/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0059</id>
-    <updated>2025-05-04T22:08:06.499230+00:00</updated>
+    <updated>2025-05-06T04:59:45.342753+00:00</updated>
     <summary>Article by Yi-Hsuan Lin
 DOI: https://doi.org/10.1515/jiip-2024-0059</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0059</summary>
     <title>Discrete dynamical systems: Inverse problems and related topics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0062/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0062</id>
-    <updated>2025-05-04T22:08:06.499237+00:00</updated>
+    <updated>2025-05-06T04:59:45.342760+00:00</updated>
     <summary>Article by Alexander Mikhaylov, Victor Mikhaylov
 DOI: https://doi.org/10.1515/jiip-2024-0062</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0062</summary>
     <title>Stability estimates for an inverse problem of determining time-dependent coefficients in a system of parabolic equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0063/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0063</id>
-    <updated>2025-05-04T22:08:06.499245+00:00</updated>
+    <updated>2025-05-06T04:59:45.342767+00:00</updated>
     <summary>Article by Nguyen Van Thang, Nguyen Van Duc
 DOI: https://doi.org/10.1515/jiip-2024-0063</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0063</summary>
     <title>Numerical solutions to inverse nodal problems for the Sturm–Liouville operator and their applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2024-0077/html"/>
     <id>https://doi.org/10.1515/jiip-2024-0077</id>
-    <updated>2025-05-04T22:08:06.499254+00:00</updated>
+    <updated>2025-05-06T04:59:45.342775+00:00</updated>
     <summary>Article by Yu Ping Wang, Tzong-Mo Tsai, Shahrbanoo Akbarpoor, Chung-Tsun Shieh
 DOI: https://doi.org/10.1515/jiip-2024-0077</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jiip-2024-0077</summary>
     <title>Revisiting linear machine learning through the perspective of inverse problems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jiip-2025-0010/html"/>
     <id>https://doi.org/10.1515/jiip-2025-0010</id>
-    <updated>2025-05-04T22:08:06.499261+00:00</updated>
+    <updated>2025-05-06T04:59:45.342783+00:00</updated>
     <summary>Article by Shuang Liu, Sergey Kabanikhin, Sergei Strijhak, Ying-Ao Wang, Ye Zhang
 DOI: https://doi.org/10.1515/jiip-2025-0010</summary>
   </entry>

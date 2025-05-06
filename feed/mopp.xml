@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Moral Philosophy and Politics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mopp/12/1/html"/>
-  <updated>2025-05-04T22:09:57.582539+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/mopp/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mopp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mopp/html" rel="related"/>
+  <updated>2025-05-06T05:02:18.690627+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mopp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Moral Philosophy and Politics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mopp.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/mopp-2025-frontmatter1</id>
-    <updated>2025-05-04T22:09:57.582572+00:00</updated>
+    <updated>2025-05-06T05:02:18.690646+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/mopp-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Philosophy for the Long Run: Introduction to the Symposium on Longtermism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2025-0012/html"/>
     <id>https://doi.org/10.1515/mopp-2025-0012</id>
-    <updated>2025-05-04T22:09:57.582580+00:00</updated>
+    <updated>2025-05-06T05:02:18.690654+00:00</updated>
     <summary>Article by Stefan Riedener
 DOI: https://doi.org/10.1515/mopp-2025-0012</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/mopp-2025-0012</summary>
     <title>Neo-Aristotelian Naturalism as a Metaethical Route to Virtue-Ethical Longtermism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0089/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0089</id>
-    <updated>2025-05-04T22:09:57.582588+00:00</updated>
+    <updated>2025-05-06T05:02:18.690664+00:00</updated>
     <summary>Article by Richard Friedrich Runge
 DOI: https://doi.org/10.1515/mopp-2023-0089</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0089</summary>
     <title>Capitalism and the Very Long Term</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0092/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0092</id>
-    <updated>2025-05-04T22:09:57.582594+00:00</updated>
+    <updated>2025-05-06T05:02:18.690671+00:00</updated>
     <summary>Article by Nikhil Venkatesh
 DOI: https://doi.org/10.1515/mopp-2023-0092</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0092</summary>
     <title>Future People as Future Victims: An Anti-Natalist Justification of Longtermism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2024-0060/html"/>
     <id>https://doi.org/10.1515/mopp-2024-0060</id>
-    <updated>2025-05-04T22:09:57.582601+00:00</updated>
+    <updated>2025-05-06T05:02:18.690677+00:00</updated>
     <summary>Article by Rex Lee
 DOI: https://doi.org/10.1515/mopp-2024-0060</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/mopp-2024-0060</summary>
     <title>Public Reason, Coercion, and Overlapping Consensus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0068/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0068</id>
-    <updated>2025-05-04T22:09:57.582607+00:00</updated>
+    <updated>2025-05-06T05:02:18.690684+00:00</updated>
     <summary>Article by Ezequiel Spector
 DOI: https://doi.org/10.1515/mopp-2023-0068</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0068</summary>
     <title>Act and Rule Consequentialism: A Synthesis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0075/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0075</id>
-    <updated>2025-05-04T22:09:57.582614+00:00</updated>
+    <updated>2025-05-06T05:02:18.690690+00:00</updated>
     <summary>Article by Jussi Suikkanen
 DOI: https://doi.org/10.1515/mopp-2023-0075</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0075</summary>
     <title>The Doctrine of Sufficiency as a Contractualist Principle</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0064/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0064</id>
-    <updated>2025-05-04T22:09:57.582619+00:00</updated>
+    <updated>2025-05-06T05:02:18.690697+00:00</updated>
     <summary>Article by Kenneth R. Pike
 DOI: https://doi.org/10.1515/mopp-2023-0064</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0064</summary>
     <title>Rawls, Humanity and the Concept of Expression</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0091/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0091</id>
-    <updated>2025-05-04T22:09:57.582625+00:00</updated>
+    <updated>2025-05-06T05:02:18.690703+00:00</updated>
     <summary>Article by Alexandros Manolatos
 DOI: https://doi.org/10.1515/mopp-2023-0091</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0091</summary>
     <title>A Marketplace for Honest Ideas</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0093/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0093</id>
-    <updated>2025-05-04T22:09:57.582632+00:00</updated>
+    <updated>2025-05-06T05:02:18.690709+00:00</updated>
     <summary>Article by Kasim Khorasanee
 DOI: https://doi.org/10.1515/mopp-2023-0093</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0093</summary>
     <title>Writing the Other: The Ethics of Out-Group Representation in Art</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0083/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0083</id>
-    <updated>2025-05-04T22:09:57.582645+00:00</updated>
+    <updated>2025-05-06T05:02:18.690716+00:00</updated>
     <summary>Article by Nils Holtug
 DOI: https://doi.org/10.1515/mopp-2023-0083</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0083</summary>
     <title>Carbon Pricing and Intergenerational Fairness</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0108/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0108</id>
-    <updated>2025-05-04T22:09:57.582651+00:00</updated>
+    <updated>2025-05-06T05:02:18.690723+00:00</updated>
     <summary>Article by Fausto Corvino
 DOI: https://doi.org/10.1515/mopp-2023-0108</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0108</summary>
     <title>Cooperation, Democracy, and Coercion: On the Grounds and Scope of Freedom of Movement</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2024-0012/html"/>
     <id>https://doi.org/10.1515/mopp-2024-0012</id>
-    <updated>2025-05-04T22:09:57.582658+00:00</updated>
+    <updated>2025-05-06T05:02:18.690729+00:00</updated>
     <summary>Article by Borja Niño Arnaiz
 DOI: https://doi.org/10.1515/mopp-2024-0012</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/mopp-2024-0012</summary>
     <title>Attempts at a Marxist Critique of Cancellation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0069/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0069</id>
-    <updated>2025-05-04T22:09:57.582664+00:00</updated>
+    <updated>2025-05-06T05:02:18.690736+00:00</updated>
     <summary>Article by SuddhaSatwa GuhaRoy
 DOI: https://doi.org/10.1515/mopp-2023-0069</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/mopp-2023-0069</summary>
     <title>Defensive Kidnapping</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mopp-2023-0059/html"/>
     <id>https://doi.org/10.1515/mopp-2023-0059</id>
-    <updated>2025-05-04T22:09:57.582674+00:00</updated>
+    <updated>2025-05-06T05:02:18.690742+00:00</updated>
     <summary>Article by Connor K. Kianpour
 DOI: https://doi.org/10.1515/mopp-2023-0059</summary>
   </entry>

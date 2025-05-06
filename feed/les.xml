@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lebende Sprachen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/les/69/2/html"/>
-  <updated>2025-05-04T22:09:18.381507+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/les/69/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/les/html" rel="related"/>
+  <updated>2025-05-06T05:01:25.946501+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Lebende Sprachen</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/les-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:18.381540+00:00</updated>
+    <updated>2025-05-06T05:01:25.946523+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/les-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Multiple translation and the translator’s visibility</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0021/html"/>
     <id>https://doi.org/10.1515/les-2024-0021</id>
-    <updated>2025-05-04T22:09:18.381549+00:00</updated>
+    <updated>2025-05-06T05:01:25.946531+00:00</updated>
     <summary>Article by Marco Agnetta
 DOI: https://doi.org/10.1515/les-2024-0021</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/les-2024-0021</summary>
     <title>Das Medium barbarisieren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0019/html"/>
     <id>https://doi.org/10.1515/les-2024-0019</id>
-    <updated>2025-05-04T22:09:18.381558+00:00</updated>
+    <updated>2025-05-06T05:01:25.946539+00:00</updated>
     <summary>Article by Daniele Vernillo
 DOI: https://doi.org/10.1515/les-2024-0019</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/les-2024-0019</summary>
     <title>Relational description as pivotal to dialogical translation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0013/html"/>
     <id>https://doi.org/10.1515/les-2024-0013</id>
-    <updated>2025-05-04T22:09:18.381565+00:00</updated>
+    <updated>2025-05-06T05:01:25.946546+00:00</updated>
     <summary>Article by Gerald Cipriani
 DOI: https://doi.org/10.1515/les-2024-0013</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/les-2024-0013</summary>
     <title>Insurrection or Protest? A corpus-linguistic analysis of the news reporting by CNN and Fox News based on the January 6, 2021, events at the US Capitol</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0017/html"/>
     <id>https://doi.org/10.1515/les-2024-0017</id>
-    <updated>2025-05-04T22:09:18.381572+00:00</updated>
+    <updated>2025-05-06T05:01:25.946553+00:00</updated>
     <summary>Article by Tobias Prahtel
 DOI: https://doi.org/10.1515/les-2024-0017</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/les-2024-0017</summary>
     <title>Shaping the visually impaired perception of gender through Netflix audio description of movies and series</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2023-0034/html"/>
     <id>https://doi.org/10.1515/les-2023-0034</id>
-    <updated>2025-05-04T22:09:18.381579+00:00</updated>
+    <updated>2025-05-06T05:01:25.946565+00:00</updated>
     <summary>Article by Ahmad S. Haider, Sausan Abu Tair, Mohammed M. Obeidat, Hadeel Saed, Yousef Sahari
 DOI: https://doi.org/10.1515/les-2023-0034</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/les-2023-0034</summary>
     <title>Exploring the effect of translating non-verbal elements in film subtitles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2023-0031/html"/>
     <id>https://doi.org/10.1515/les-2023-0031</id>
-    <updated>2025-05-04T22:09:18.381586+00:00</updated>
+    <updated>2025-05-06T05:01:25.946572+00:00</updated>
     <summary>Article by Melissa E. Mouzannar, Gina E. Abou Fadel Saad
 DOI: https://doi.org/10.1515/les-2023-0031</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/les-2023-0031</summary>
     <title>Humanitarian interpreting in the context of African migrant reception in the Canary Islands</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0007/html"/>
     <id>https://doi.org/10.1515/les-2024-0007</id>
-    <updated>2025-05-04T22:09:18.381593+00:00</updated>
+    <updated>2025-05-06T05:01:25.946579+00:00</updated>
     <summary>Article by María Goretti García-Morales, Leticia Fidalgo González
 DOI: https://doi.org/10.1515/les-2024-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/les-2024-0007</summary>
     <title>La pregunta como instrumento de retroalimentación correctiva escrita en la formación en traducción jurídica (francés-español): un estudio exploratorio</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0012/html"/>
     <id>https://doi.org/10.1515/les-2024-0012</id>
-    <updated>2025-05-04T22:09:18.381600+00:00</updated>
+    <updated>2025-05-06T05:01:25.946589+00:00</updated>
     <summary>Article by Tanagua Barceló Martínez, Iván Delgado Pugés
 DOI: https://doi.org/10.1515/les-2024-0012</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/les-2024-0012</summary>
     <title>Using ChatGPT and determinologisation to enhance understanding of lung cancer information</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0020/html"/>
     <id>https://doi.org/10.1515/les-2024-0020</id>
-    <updated>2025-05-04T22:09:18.381608+00:00</updated>
+    <updated>2025-05-06T05:01:25.946596+00:00</updated>
     <summary>Article by María-José Varela Salinas, Adriana Godoy Lorenzatto
 DOI: https://doi.org/10.1515/les-2024-0020</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/les-2024-0020</summary>
     <title>Posedición y paridad humano-máquina en traducción automática neuronal: Un estudio empírico desde la traducción profesional</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0003/html"/>
     <id>https://doi.org/10.1515/les-2024-0003</id>
-    <updated>2025-05-04T22:09:18.381616+00:00</updated>
+    <updated>2025-05-06T05:01:25.946603+00:00</updated>
     <summary>Article by Cristina Toledo-Báez
 DOI: https://doi.org/10.1515/les-2024-0003</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/les-2024-0003</summary>
     <title>Hat man da noch Worte? – Schulung der lexikalischen Präzision im zielorientierten Fremdsprachenunterricht Deutsch für spanischsprachige Translatoren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0006/html"/>
     <id>https://doi.org/10.1515/les-2024-0006</id>
-    <updated>2025-05-04T22:09:18.381623+00:00</updated>
+    <updated>2025-05-06T05:01:25.946611+00:00</updated>
     <summary>Article by Petra Zimmermann González, Silvia Roiss
 DOI: https://doi.org/10.1515/les-2024-0006</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/les-2024-0006</summary>
     <title>Klaus Brinker, Steffen Pappert, Hermann Cölfen (2024): Linguistische Textanalyse – Eine Einführung in Grundbegriffe und Methoden. 10., neu bearbeitete Auflage. Berlin: Erich Schmidt Verlag. [Grundlagen der Germanistik. Bd. 29] 200 S., ISBN 978 3 503 23861 3.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0025/html"/>
     <id>https://doi.org/10.1515/les-2024-0025</id>
-    <updated>2025-05-04T22:09:18.381634+00:00</updated>
+    <updated>2025-05-06T05:01:25.946623+00:00</updated>
     <summary>Article by Sebastian Seyferth
 DOI: https://doi.org/10.1515/les-2024-0025</summary>
   </entry>

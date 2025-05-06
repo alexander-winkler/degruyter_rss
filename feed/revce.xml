@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Reviews in Chemical Engineering</title>
-  <link href="https://www.degruyterbrill.com/journal/key/revce/41/4/html"/>
-  <updated>2025-05-04T22:11:46.467462+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/revce/41/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revce.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/revce/html" rel="related"/>
+  <updated>2025-05-06T05:04:46.626281+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revce.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Reviews in Chemical Engineering</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revce.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2025-frontmatter4/html"/>
     <id>https://doi.org/10.1515/revce-2025-frontmatter4</id>
-    <updated>2025-05-04T22:11:46.467502+00:00</updated>
+    <updated>2025-05-06T05:04:46.626297+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/revce-2025-frontmatter4</summary>
   </entry>
   <entry>
     <title>Recent developments and prospects of machine learning in chemical engineering</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2025-0015/html"/>
     <id>https://doi.org/10.1515/revce-2025-0015</id>
-    <updated>2025-05-04T22:11:46.467513+00:00</updated>
+    <updated>2025-05-06T05:04:46.626304+00:00</updated>
     <summary>Article by Michael Nikolaou
 DOI: https://doi.org/10.1515/revce-2025-0015</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/revce-2025-0015</summary>
     <title>Recent advances in continuous nanomanufacturing: focus on machine learning-driven process control</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0029/html"/>
     <id>https://doi.org/10.1515/revce-2024-0029</id>
-    <updated>2025-05-04T22:11:46.467525+00:00</updated>
+    <updated>2025-05-06T05:04:46.626312+00:00</updated>
     <summary>Article by Shashank Venkatesan, Michael A. Cullinan, Michael Baldea
 DOI: https://doi.org/10.1515/revce-2024-0029</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/revce-2024-0029</summary>
     <title>Uncertainty quantification and propagation in atomistic machine learning</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0028/html"/>
     <id>https://doi.org/10.1515/revce-2024-0028</id>
-    <updated>2025-05-04T22:11:46.467534+00:00</updated>
+    <updated>2025-05-06T05:04:46.626318+00:00</updated>
     <summary>Article by Jin Dai, Santosh Adhikari, Mingjian Wen
 DOI: https://doi.org/10.1515/revce-2024-0028</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/revce-2024-0028</summary>
     <title>A tutorial review of machine learning-based model predictive control methods</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0055/html"/>
     <id>https://doi.org/10.1515/revce-2024-0055</id>
-    <updated>2025-05-04T22:11:46.467544+00:00</updated>
+    <updated>2025-05-06T05:04:46.626323+00:00</updated>
     <summary>Article by Zhe Wu, Panagiotis D. Christofides, Wanlu Wu, Yujia Wang, Fahim Abdullah, Aisha Alnajdi, Yash Kadakia
 DOI: https://doi.org/10.1515/revce-2024-0055</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/revce-2024-0055</summary>
     <title>Accelerating process control and optimization via machine learning: a review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0060/html"/>
     <id>https://doi.org/10.1515/revce-2024-0060</id>
-    <updated>2025-05-04T22:11:46.467553+00:00</updated>
+    <updated>2025-05-06T05:04:46.626328+00:00</updated>
     <summary>Article by Ilias Mitrai, Prodromos Daoutidis
 DOI: https://doi.org/10.1515/revce-2024-0060</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/revce-2024-0060</summary>
     <title>Machine learning applications for thermochemical and kinetic property prediction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0027/html"/>
     <id>https://doi.org/10.1515/revce-2024-0027</id>
-    <updated>2025-05-04T22:11:46.467563+00:00</updated>
+    <updated>2025-05-06T05:04:46.626332+00:00</updated>
     <summary>Article by Lowie Tomme, Yannick Ureel, Maarten R. Dobbelaere, István Lengyel, Florence H. Vermeire, Christian V. Stevens, Kevin M. Van Geem
 DOI: https://doi.org/10.1515/revce-2024-0027</summary>
   </entry>

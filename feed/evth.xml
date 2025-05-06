@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Evangelische Theologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/evth/85/2/html"/>
-  <updated>2025-05-04T22:05:23.277653+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/evth/85/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/evth.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/evth/html" rel="related"/>
+  <updated>2025-05-06T04:56:04.768192+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/evth.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Evangelische Theologie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/evth.xml" type="application/rss+xml"/>
   <entry>
     <title>Die Autorinnen und Autoren dieses Heftes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850201/html"/>
     <id>https://doi.org/10.14315/evth-2025-850201</id>
-    <updated>2025-05-04T22:05:23.277681+00:00</updated>
+    <updated>2025-05-06T04:56:04.768212+00:00</updated>
     <summary>DOI: https://doi.org/10.14315/evth-2025-850201</summary>
   </entry>
   <entry>
     <title>INHALT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-toc8502/html"/>
     <id>https://doi.org/10.14315/evth-2025-toc8502</id>
-    <updated>2025-05-04T22:05:23.277689+00:00</updated>
+    <updated>2025-05-06T04:56:04.768221+00:00</updated>
     <summary>DOI: https://doi.org/10.14315/evth-2025-toc8502</summary>
   </entry>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-frontmatter8502/html"/>
     <id>https://doi.org/10.14315/evth-2025-frontmatter8502</id>
-    <updated>2025-05-04T22:05:23.277695+00:00</updated>
+    <updated>2025-05-06T04:56:04.768228+00:00</updated>
     <summary>DOI: https://doi.org/10.14315/evth-2025-frontmatter8502</summary>
   </entry>
   <entry>
     <title>Zu diesem Heft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850202/html"/>
     <id>https://doi.org/10.14315/evth-2025-850202</id>
-    <updated>2025-05-04T22:05:23.277701+00:00</updated>
+    <updated>2025-05-06T04:56:04.768234+00:00</updated>
     <summary>Article by Michael Domsgen
 DOI: https://doi.org/10.14315/evth-2025-850202</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.14315/evth-2025-850202</summary>
     <title>Über, von und in empowerment lernen – und so Reflexionsräume neu ausloten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850203/html"/>
     <id>https://doi.org/10.14315/evth-2025-850203</id>
-    <updated>2025-05-04T22:05:23.277712+00:00</updated>
+    <updated>2025-05-06T04:56:04.768245+00:00</updated>
     <summary>Article by Michael Domsgen
 DOI: https://doi.org/10.14315/evth-2025-850203</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.14315/evth-2025-850203</summary>
     <title>›Research on empowerment – Empowerment through research‹? Überlegungen zur religionspädagogischen und praktisch-theologischen Empowerment-Forschung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850204/html"/>
     <id>https://doi.org/10.14315/evth-2025-850204</id>
-    <updated>2025-05-04T22:05:23.277720+00:00</updated>
+    <updated>2025-05-06T04:56:04.768253+00:00</updated>
     <summary>Article by Georg Bucher
 DOI: https://doi.org/10.14315/evth-2025-850204</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.14315/evth-2025-850204</summary>
     <title>Empowerment als geteilte Erfahrung. Eine erziehungswissenschaftliche und praxeologisch-wissenssoziologische Perspektivierung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850205/html"/>
     <id>https://doi.org/10.14315/evth-2025-850205</id>
-    <updated>2025-05-04T22:05:23.277727+00:00</updated>
+    <updated>2025-05-06T04:56:04.768260+00:00</updated>
     <summary>Article by Anja Hackbarth
 DOI: https://doi.org/10.14315/evth-2025-850205</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.14315/evth-2025-850205</summary>
     <title>Empowerment als Zentralbegriff einer Missions- und Kirchentheorie des Lutherischen Weltbundes. Ein Beitrag zur theologischen Profilierung von Empowerment und zur Entwicklung eines Empowerment-orientierten Kirchenverständnisses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850206/html"/>
     <id>https://doi.org/10.14315/evth-2025-850206</id>
-    <updated>2025-05-04T22:05:23.277734+00:00</updated>
+    <updated>2025-05-06T04:56:04.768269+00:00</updated>
     <summary>Article by Hanna Kauhaus
 DOI: https://doi.org/10.14315/evth-2025-850206</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.14315/evth-2025-850206</summary>
     <title>Empowerment als Forschungsperspektive für missionale Kirchen- und Gemeindeentwicklung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850207/html"/>
     <id>https://doi.org/10.14315/evth-2025-850207</id>
-    <updated>2025-05-04T22:05:23.277740+00:00</updated>
+    <updated>2025-05-06T04:56:04.768276+00:00</updated>
     <summary>Article by Felix Eiffler
 DOI: https://doi.org/10.14315/evth-2025-850207</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.14315/evth-2025-850207</summary>
     <title>Ironies of Empowerment. Theological Reflections on Empowerment Pedagogy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850208/html"/>
     <id>https://doi.org/10.14315/evth-2025-850208</id>
-    <updated>2025-05-04T22:05:23.277746+00:00</updated>
+    <updated>2025-05-06T04:56:04.768285+00:00</updated>
     <summary>Article by Gordon S. Mikoski
 DOI: https://doi.org/10.14315/evth-2025-850208</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.14315/evth-2025-850208</summary>
     <title>Empowerment und Diakonie. Überlegungen zur (Arbeits)Relevanz christlicher Lebensform im Kontext der Säkularität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14315/evth-2025-850209/html"/>
     <id>https://doi.org/10.14315/evth-2025-850209</id>
-    <updated>2025-05-04T22:05:23.277753+00:00</updated>
+    <updated>2025-05-06T04:56:04.768293+00:00</updated>
     <summary>Article by Tobias Foß
 DOI: https://doi.org/10.14315/evth-2025-850209</summary>
   </entry>

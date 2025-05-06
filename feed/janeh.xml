@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Ancient Near Eastern History</title>
-  <link href="https://www.degruyterbrill.com/journal/key/janeh/11/2/html"/>
-  <updated>2025-05-04T22:07:20.843696+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/janeh/11/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/janeh.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/janeh/html" rel="related"/>
+  <updated>2025-05-06T04:58:43.151602+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/janeh.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Ancient Near Eastern History</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/janeh.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/janeh-2024-frontmatter2</id>
-    <updated>2025-05-04T22:07:20.843722+00:00</updated>
+    <updated>2025-05-06T04:58:43.151632+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/janeh-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0024/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0024</id>
-    <updated>2025-05-04T22:07:20.843731+00:00</updated>
+    <updated>2025-05-06T04:58:43.151645+00:00</updated>
     <summary>Article by Noemi Borrelli, Rachele Pierini
 DOI: https://doi.org/10.1515/janeh-2024-0024</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0024</summary>
     <title>Prestige on Display: Markers of Economic and Social Status in Ur III Babylonia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0005/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0005</id>
-    <updated>2025-05-04T22:07:20.843740+00:00</updated>
+    <updated>2025-05-06T04:58:43.151654+00:00</updated>
     <summary>Article by Noemi Borrelli, Palmiro Notizia
 DOI: https://doi.org/10.1515/janeh-2024-0005</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0005</summary>
     <title>Assyrian Imperial Elites and Textile Culture of the 1st Millennium BC: Shaping Power Visions Through Textiles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0003/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0003</id>
-    <updated>2025-05-04T22:07:20.843747+00:00</updated>
+    <updated>2025-05-06T04:58:43.151663+00:00</updated>
     <summary>Article by Salvatore Gaspa
 DOI: https://doi.org/10.1515/janeh-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0003</summary>
     <title>Royal Dress and the Expression of Power in Babylonia, First Millennium BCE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0007/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0007</id>
-    <updated>2025-05-04T22:07:20.843755+00:00</updated>
+    <updated>2025-05-06T04:58:43.151670+00:00</updated>
     <summary>Article by Louise Quillien
 DOI: https://doi.org/10.1515/janeh-2024-0007</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0007</summary>
     <title>Cypriot Fabrics? White Slip Pottery and Élite Linen Clothes of the Late Bronze Age</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0011/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0011</id>
-    <updated>2025-05-04T22:07:20.843763+00:00</updated>
+    <updated>2025-05-06T04:58:43.151678+00:00</updated>
     <summary>Article by Assaf Yasur-Landau, Chiara Spinazzi-Lucchesi
 DOI: https://doi.org/10.1515/janeh-2024-0011</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0011</summary>
     <title>Status in a Nutshell. A Praxeological/Phenomenological Approach to Seals as Power Accessories</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0006/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0006</id>
-    <updated>2025-05-04T22:07:20.843771+00:00</updated>
+    <updated>2025-05-06T04:58:43.151685+00:00</updated>
     <summary>Article by Diamantis Panagiotopoulos
 DOI: https://doi.org/10.1515/janeh-2024-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0006</summary>
     <title>The Scarf and the Cloak Prestige Garments for Aegean Elites</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0008/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0008</id>
-    <updated>2025-05-04T22:07:20.843778+00:00</updated>
+    <updated>2025-05-06T04:58:43.151693+00:00</updated>
     <summary>Article by Janice L Crowley
 DOI: https://doi.org/10.1515/janeh-2024-0008</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0008</summary>
     <title>Colour-Coding Aegean Elites: Status and Cultural Identities in Linear B Dyed Textiles and Late Bronze Age Socio-Political Changes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0019/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0019</id>
-    <updated>2025-05-04T22:07:20.843786+00:00</updated>
+    <updated>2025-05-06T04:58:43.151700+00:00</updated>
     <summary>Article by Rachele Pierini
 DOI: https://doi.org/10.1515/janeh-2024-0019</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/janeh-2024-0019</summary>
     <title>Seated in Power: A Look at “Participatory” Imaging of Thrones and (Foot)stools in the Mycenaean Palatial World</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/janeh-2024-0002/html"/>
     <id>https://doi.org/10.1515/janeh-2024-0002</id>
-    <updated>2025-05-04T22:07:20.843794+00:00</updated>
+    <updated>2025-05-06T04:58:43.151711+00:00</updated>
     <summary>Article by Vassilis Petrakis
 DOI: https://doi.org/10.1515/janeh-2024-0002</summary>
   </entry>

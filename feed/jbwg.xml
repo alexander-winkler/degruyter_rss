@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jbwg/66/1/html"/>
-  <updated>2025-05-04T22:07:31.735373+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jbwg/66/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jbwg/html" rel="related"/>
+  <updated>2025-05-06T04:58:58.277003+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Jahrbuch für Wirtschaftsgeschichte / Economic History Yearbook</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbwg.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-frontmatter1</id>
-    <updated>2025-05-04T22:07:31.735402+00:00</updated>
+    <updated>2025-05-06T04:58:58.277027+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jbwg-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Nachruf auf Wolfram Fischer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0001/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0001</id>
-    <updated>2025-05-04T22:07:31.735411+00:00</updated>
+    <updated>2025-05-06T04:58:58.277038+00:00</updated>
     <summary>Article by Harm Schröter
 DOI: https://doi.org/10.1515/jbwg-2025-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0001</summary>
     <title>Investment and Saving Opportunities for Different Socio-Economic Groups in Medieval and Early Modern Europe</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0002/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0002</id>
-    <updated>2025-05-04T22:07:31.735424+00:00</updated>
+    <updated>2025-05-06T04:58:58.277047+00:00</updated>
     <summary>Article by Stephan Nicolussi-Köhler, Marco Conti, Kirsten Wandschneider
 DOI: https://doi.org/10.1515/jbwg-2025-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0002</summary>
     <title>Politics, Investments and Public Spending in Bologna (End of 13th – First Half of 14th Century)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0003/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0003</id>
-    <updated>2025-05-04T22:07:31.735432+00:00</updated>
+    <updated>2025-05-06T04:58:58.277056+00:00</updated>
     <summary>Article by Marco Conti
 DOI: https://doi.org/10.1515/jbwg-2025-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0003</summary>
     <title>Financing Poor Relief in the Small Lower Rhine Town of Kalkar in the Late Middle Ages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0004/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0004</id>
-    <updated>2025-05-04T22:07:31.735440+00:00</updated>
+    <updated>2025-05-06T04:58:58.277063+00:00</updated>
     <summary>Article by Monika Gussone
 DOI: https://doi.org/10.1515/jbwg-2025-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0004</summary>
     <title>Credit for the Poor, Investments for the Rich? Different Strategies for Investing and Saving Money in Medieval Tirol</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0005/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0005</id>
-    <updated>2025-05-04T22:07:31.735447+00:00</updated>
+    <updated>2025-05-06T04:58:58.277070+00:00</updated>
     <summary>Article by Stephan Nicolussi-Köhler
 DOI: https://doi.org/10.1515/jbwg-2025-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0005</summary>
     <title>Financing the Commune</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0006/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0006</id>
-    <updated>2025-05-04T22:07:31.735455+00:00</updated>
+    <updated>2025-05-06T04:58:58.277078+00:00</updated>
     <summary>Article by Carlo Ludovico Severgnini
 DOI: https://doi.org/10.1515/jbwg-2025-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0006</summary>
     <title>Investing in a New Financial Instrument: The First Buyers of Urban Debt in Catalonia (Mid. 14th Century)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0007/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0007</id>
-    <updated>2025-05-04T22:07:31.735462+00:00</updated>
+    <updated>2025-05-06T04:58:58.277085+00:00</updated>
     <summary>Article by Laura Miquel Milian, Albert Reixach Sala, Pere Verdés Pijuan
 DOI: https://doi.org/10.1515/jbwg-2025-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0007</summary>
     <title>Set for Life: Old-Age Pensions Provided by Hospitals in Late-Medieval Amsterdam</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0008/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0008</id>
-    <updated>2025-05-04T22:07:31.735470+00:00</updated>
+    <updated>2025-05-06T04:58:58.277092+00:00</updated>
     <summary>Article by Jaco Zuijderduijn
 DOI: https://doi.org/10.1515/jbwg-2025-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0008</summary>
     <title>Credit Investments in Northern Italian States (17th–18th Centuries)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0009/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0009</id>
-    <updated>2025-05-04T22:07:31.735477+00:00</updated>
+    <updated>2025-05-06T04:58:58.277099+00:00</updated>
     <summary>Article by Marcella Lorenzini
 DOI: https://doi.org/10.1515/jbwg-2025-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jbwg-2025-0009</summary>
     <title>Food Crises in Germany, 1500–1871</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbwg-2025-0010/html"/>
     <id>https://doi.org/10.1515/jbwg-2025-0010</id>
-    <updated>2025-05-04T22:07:31.735484+00:00</updated>
+    <updated>2025-05-06T04:58:58.277106+00:00</updated>
     <summary>Article by Hakon Albers, Ulrich Pfister
 DOI: https://doi.org/10.1515/jbwg-2025-0010</summary>
   </entry>

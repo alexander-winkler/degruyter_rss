@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Folia Linguistica</title>
-  <link href="https://www.degruyterbrill.com/journal/key/flin/59/1/html"/>
-  <updated>2025-05-04T22:05:34.291884+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/flin/59/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flin.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/flin/html" rel="related"/>
+  <updated>2025-05-06T04:56:19.565266+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flin.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Folia Linguistica</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/flin.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/flin-2025-frontmatter1</id>
-    <updated>2025-05-04T22:05:34.291922+00:00</updated>
+    <updated>2025-05-06T04:56:19.565294+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/flin-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>The pragmatics of evidentiality: markers, strategies and implications for linguistic theory</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2047/html"/>
     <id>https://doi.org/10.1515/flin-2023-2047</id>
-    <updated>2025-05-04T22:05:34.291932+00:00</updated>
+    <updated>2025-05-06T04:56:19.565302+00:00</updated>
     <summary>Article by Viviana Masia, Roland Hinterhölzl
 DOI: https://doi.org/10.1515/flin-2023-2047</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/flin-2023-2047</summary>
     <title>Conjectural questions in Sm’algyax</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2051/html"/>
     <id>https://doi.org/10.1515/flin-2023-2051</id>
-    <updated>2025-05-04T22:05:34.291943+00:00</updated>
+    <updated>2025-05-06T04:56:19.565313+00:00</updated>
     <summary>Article by Colin Brown
 DOI: https://doi.org/10.1515/flin-2023-2051</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/flin-2023-2051</summary>
     <title>The epistemic conditional in polar questions as an argumentative strategy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2052/html"/>
     <id>https://doi.org/10.1515/flin-2023-2052</id>
-    <updated>2025-05-04T22:05:34.291951+00:00</updated>
+    <updated>2025-05-06T04:56:19.565322+00:00</updated>
     <summary>Article by Agnès Celle
 DOI: https://doi.org/10.1515/flin-2023-2052</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/flin-2023-2052</summary>
     <title>Evidentials and dubitatives in Finnish: perspective shift in questions and embedded contexts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-2002/html"/>
     <id>https://doi.org/10.1515/flin-2024-2002</id>
-    <updated>2025-05-04T22:05:34.291959+00:00</updated>
+    <updated>2025-05-06T04:56:19.565330+00:00</updated>
     <summary>Article by Elsi Kaiser
 DOI: https://doi.org/10.1515/flin-2024-2002</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/flin-2024-2002</summary>
     <title>Evidential strategies in English: not just lexical</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2054/html"/>
     <id>https://doi.org/10.1515/flin-2023-2054</id>
-    <updated>2025-05-04T22:05:34.291967+00:00</updated>
+    <updated>2025-05-06T04:56:19.565338+00:00</updated>
     <summary>Article by Elizabeth M. Riddle
 DOI: https://doi.org/10.1515/flin-2023-2054</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/flin-2023-2054</summary>
     <title>Romanian presumptive in interaction: evidentiality and beyond</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2049/html"/>
     <id>https://doi.org/10.1515/flin-2023-2049</id>
-    <updated>2025-05-04T22:05:34.291974+00:00</updated>
+    <updated>2025-05-06T04:56:19.565346+00:00</updated>
     <summary>Article by Cecilia Mihaela Popescu
 DOI: https://doi.org/10.1515/flin-2023-2049</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/flin-2023-2049</summary>
     <title>Some notes on the role of modal particles inweil+V2-clauses in German</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2025-2004/html"/>
     <id>https://doi.org/10.1515/flin-2025-2004</id>
-    <updated>2025-05-04T22:05:34.291981+00:00</updated>
+    <updated>2025-05-06T04:56:19.565354+00:00</updated>
     <summary>Article by Roland Hinterhölzl
 DOI: https://doi.org/10.1515/flin-2025-2004</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/flin-2025-2004</summary>
     <title>The evidential meaning of presupposition and implicature between retractability and deniability of information</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2048/html"/>
     <id>https://doi.org/10.1515/flin-2023-2048</id>
-    <updated>2025-05-04T22:05:34.291988+00:00</updated>
+    <updated>2025-05-06T04:56:19.565361+00:00</updated>
     <summary>Article by Viviana Masia
 DOI: https://doi.org/10.1515/flin-2023-2048</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/flin-2023-2048</summary>
     <title>The interrogative flip with illocutionary evidentials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2023-2050/html"/>
     <id>https://doi.org/10.1515/flin-2023-2050</id>
-    <updated>2025-05-04T22:05:34.291995+00:00</updated>
+    <updated>2025-05-06T04:56:19.565369+00:00</updated>
     <summary>Article by Martina Faller
 DOI: https://doi.org/10.1515/flin-2023-2050</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/flin-2023-2050</summary>
     <title>Once known, always known. Turn-finalsaiin North-East regional Italian</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/flin-2024-2001/html"/>
     <id>https://doi.org/10.1515/flin-2024-2001</id>
-    <updated>2025-05-04T22:05:34.292004+00:00</updated>
+    <updated>2025-05-06T04:56:19.565400+00:00</updated>
     <summary>Article by Marco Biasio, Dario Del Fante
 DOI: https://doi.org/10.1515/flin-2024-2001</summary>
   </entry>

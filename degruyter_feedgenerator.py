@@ -71,6 +71,24 @@ def parseIssuePage(url):
             issueItems.append(item)
     
     return issueTitle, issueItems
+
+def IsLocalFeedOlder(key, mostRecentIssue):
+    '''
+    Checks if local via link is different from
+    most recent issue online. If true, download
+    new one 
+    '''
+    ns = { "atom" : 'http://www.w3.org/2005/Atom'}
+    tree = etree.parse(f"feed/{key}.xml")
+    lastUrlInFeed = tree.xpath('./atom:link[@rel = "via"]/@href', namespaces = ns)
+    if len(lastUrlInFeed) > 0:
+        if lastUrlInFeed[0].strip() == mostRecentIssue.strip():
+            return False
+        else:
+            return True
+    # If no valid link is found trigger download
+    else:
+        return True
         
     
 def generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems):
@@ -84,10 +102,20 @@ def generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems):
     CH_TIT = etree.SubElement(root, "title")
     CH_TIT.text = journalTitle
     
-    CH_link = etree.SubElement(root, "link", href = journalUrl)
+    CH_link = etree.SubElement(root, "link", href = journalUrl, rel = "via")
+    CH_feedLink = etree.SubElement(root,
+    "link",
+    href = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml",
+    type = "application/rss+xml",
+    rel="self")
+
+    CH_viaLink = etree.SubElement(root,
+    "link",
+    href = f"https://www.degruyterbrill.com/journal/key/{key}/html",
+    rel="related")
     
     CH_timestamp = etree.SubElement(root, "updated")
-    CH_timestamp.text = issueItems[0].get('date')
+    CH_timestamp.text = createTimestamp()
 
     # CH_author = etree.SubElement(root, "author")
     # CH_authName = etree.SubElement(CH_author, "name")
@@ -103,11 +131,8 @@ def generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems):
     
     CH_desc = etree.SubElement(root, "subtitle")
     CH_desc.text = f"A RSS feed containing the latest articles published in {journalTitle}"
-    
-    CH_atomLink = etree.SubElement(root,
-    "link",
-    href = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml",
-    type = "application/rss+xml")
+
+
     # Single items (articles)
 
     for i in issueItems:
@@ -130,8 +155,11 @@ def generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems):
 
 def workflow(key):
     journalTitle, journalUrl = getLatestIssue(key)
-    issueTitle, issueItems = parseIssuePage(journalUrl)
-    generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems)
+    if IsLocalFeedOlder(key, journalUrl) == True:
+        issueTitle, issueItems = parseIssuePage(journalUrl)
+        generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems)
+    else:
+        print(f"{journalTitle} ({key}) is up to date!")
 
 def getKeyList(file):
     df = pd.read_excel(fileurl, skiprows=3)
@@ -148,7 +176,7 @@ def processFile(file):
             filtered_df.loc[index, "rss_feed"] = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{row['Journal Code Online']}.xml"
         except Exception as e:
             print(e)
-        time.sleep(0.4)
+        time.sleep(1)
 
     # Finally, write a csv list of feeds generated
 

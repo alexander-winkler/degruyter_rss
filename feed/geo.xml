@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Geosciences</title>
-  <link href="https://www.degruyterbrill.com/journal/key/geo/17/1/html"/>
-  <updated>2025-05-04T22:05:47.919216+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/geo/17/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/geo.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/geo/html" rel="related"/>
+  <updated>2025-05-06T04:56:38.132975+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/geo.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Geosciences</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/geo.xml" type="application/rss+xml"/>
   <entry>
     <title>Seismic response and damage model analysis of rocky slopes with weak interlayers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0621/html"/>
     <id>https://doi.org/10.1515/geo-2022-0621</id>
-    <updated>2025-05-04T22:05:47.919235+00:00</updated>
+    <updated>2025-05-06T04:56:38.132995+00:00</updated>
     <summary>Article by Yawen Zhao, Jinyu Dong, Handong Liu, Chuang Wang
 DOI: https://doi.org/10.1515/geo-2022-0621</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/geo-2022-0621</summary>
     <title>Multi-scenario simulation and eco-environmental effect analysis of “Production–Living–Ecological space” based on PLUS model: A case study of Anyang City</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0753/html"/>
     <id>https://doi.org/10.1515/geo-2022-0753</id>
-    <updated>2025-05-04T22:05:47.919247+00:00</updated>
+    <updated>2025-05-06T04:56:38.133003+00:00</updated>
     <summary>Article by Lei Li, Genming Li, Guangxing Ji, Qingsong Li, Zhihao Zhang, Weiqiang Chen
 DOI: https://doi.org/10.1515/geo-2022-0753</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/geo-2022-0753</summary>
     <title>Remote sensing estimation of chlorophyll content in rape leaves in Weibei dryland region of China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0756/html"/>
     <id>https://doi.org/10.1515/geo-2022-0756</id>
-    <updated>2025-05-04T22:05:47.919252+00:00</updated>
+    <updated>2025-05-06T04:56:38.133009+00:00</updated>
     <summary>Article by Liheng Xia, Panpan Zhang, Lei Shi, Kun Wang, Tingyu Zhang
 DOI: https://doi.org/10.1515/geo-2022-0756</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/geo-2022-0756</summary>
     <title>GIS-based frequency ratio and Shannon entropy modeling for landslide susceptibility mapping: A case study in Kundah Taluk, Nilgiris District, India</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0757/html"/>
     <id>https://doi.org/10.1515/geo-2022-0757</id>
-    <updated>2025-05-04T22:05:47.919258+00:00</updated>
+    <updated>2025-05-06T04:56:38.133014+00:00</updated>
     <summary>Article by Harithaa Senthilkumar, Evany Nithya Selvaraj
 DOI: https://doi.org/10.1515/geo-2022-0757</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/geo-2022-0757</summary>
     <title>Natural gas origin and accumulation of the Changxing–Feixianguan Formation in the Puguang area, China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0658/html"/>
     <id>https://doi.org/10.1515/geo-2022-0658</id>
-    <updated>2025-05-04T22:05:47.919262+00:00</updated>
+    <updated>2025-05-06T04:56:38.133019+00:00</updated>
     <summary>Article by Songfeng Li, Xiaoxia Liu, Peixin Zhang, Yinan Zhao
 DOI: https://doi.org/10.1515/geo-2022-0658</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/geo-2022-0658</summary>
     <title>Spatial variations of shear-wave velocity anomaly derived from Love wave ambient noise seismic tomography along Lembang Fault (West Java, Indonesia)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0665/html"/>
     <id>https://doi.org/10.1515/geo-2022-0665</id>
-    <updated>2025-05-04T22:05:47.919267+00:00</updated>
+    <updated>2025-05-06T04:56:38.133024+00:00</updated>
     <summary>Article by Firman Syaifuddin, Zulfakriza, Andri D. Nugraha, Mudrik R. Daryono
 DOI: https://doi.org/10.1515/geo-2022-0665</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/geo-2022-0665</summary>
     <title>Evaluation of cumulative rainfall and rainfall event–duration threshold based on triggering and non-triggering rainfalls: Northern Thailand case</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0747/html"/>
     <id>https://doi.org/10.1515/geo-2022-0747</id>
-    <updated>2025-05-04T22:05:47.919272+00:00</updated>
+    <updated>2025-05-06T04:56:38.133032+00:00</updated>
     <summary>Article by Avirut Chinkulkijniwat, Rattana Salee, Somjai Yubonchit, Hai La Duong, Suksun Horpibulsuk, Menglim Hoy
 DOI: https://doi.org/10.1515/geo-2022-0747</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/geo-2022-0747</summary>
     <title>Pixel and region-oriented classification of Sentinel-2 imagery to assess LULC dynamics and their climate impact in Nowshera, Pakistan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0745/html"/>
     <id>https://doi.org/10.1515/geo-2022-0745</id>
-    <updated>2025-05-04T22:05:47.919277+00:00</updated>
+    <updated>2025-05-06T04:56:38.133037+00:00</updated>
     <summary>Article by Farnaz, Narissara Nuthammachot, Rabia Shabbir, Benazeer Iqbal
 DOI: https://doi.org/10.1515/geo-2022-0745</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/geo-2022-0745</summary>
     <title>The use of radar-optical remote sensing data and geographic information system–analytical hierarchy process–multicriteria decision analysis techniques for revealing groundwater recharge prospective zones in arid-semi arid lands</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0666/html"/>
     <id>https://doi.org/10.1515/geo-2022-0666</id>
-    <updated>2025-05-04T22:05:47.919282+00:00</updated>
+    <updated>2025-05-06T04:56:38.133043+00:00</updated>
     <summary>Article by Yuxia Wang, Yanzhong Han, Yujiao Guo, Jingwei Wang, Nana Wang, Mohamed Abdelkareem
 DOI: https://doi.org/10.1515/geo-2022-0666</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/geo-2022-0666</summary>
     <title>Effect of pore throats on the reservoir quality of tight sandstone: A case study of the Yanchang Formation in the Zhidan area, Ordos Basin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0759/html"/>
     <id>https://doi.org/10.1515/geo-2022-0759</id>
-    <updated>2025-05-04T22:05:47.919287+00:00</updated>
+    <updated>2025-05-06T04:56:38.133050+00:00</updated>
     <summary>Article by Fanrong Wei, Xinzhi Yan, Yubin Bai, Yanjun Bai, Kai Zhou
 DOI: https://doi.org/10.1515/geo-2022-0759</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/geo-2022-0759</summary>
     <title>Hydroelectric simulation of the phreatic water response of mining cracked soil based on microbial solidification</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0728/html"/>
     <id>https://doi.org/10.1515/geo-2022-0728</id>
-    <updated>2025-05-04T22:05:47.919292+00:00</updated>
+    <updated>2025-05-06T04:56:38.133056+00:00</updated>
     <summary>Article by Ying Gao, Mohd Ashraf Mohamad Ismail, Tao Li, Bo Li, Jiarui Zhang
 DOI: https://doi.org/10.1515/geo-2022-0728</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/geo-2022-0728</summary>
     <title>Spatial-temporal evolution of habitat quality in tropical monsoon climate region based on “pattern–process–quality” – a case study of Cambodia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0748/html"/>
     <id>https://doi.org/10.1515/geo-2022-0748</id>
-    <updated>2025-05-04T22:05:47.919296+00:00</updated>
+    <updated>2025-05-06T04:56:38.133061+00:00</updated>
     <summary>Article by Junmei Kang, Fengshuo Yang, Jun Wang, Yang Liu, Dengmao Fang, Chengcheng Jiang
 DOI: https://doi.org/10.1515/geo-2022-0748</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/geo-2022-0748</summary>
     <title>Early Permian to Middle Triassic Formation petroleum potentials of Sydney Basin, Australia: A geochemical analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0750/html"/>
     <id>https://doi.org/10.1515/geo-2022-0750</id>
-    <updated>2025-05-04T22:05:47.919304+00:00</updated>
+    <updated>2025-05-06T04:56:38.133067+00:00</updated>
     <summary>Article by Terfa Elijah Garba, Khairul Azlan Mustapha, Lanre Asiwaju, Lawal Mutari
 DOI: https://doi.org/10.1515/geo-2022-0750</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/geo-2022-0750</summary>
     <title>Micro-mechanism analysis of Zhongchuan loess liquefaction disaster induced by Jishishan M6.2 earthquake in 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0751/html"/>
     <id>https://doi.org/10.1515/geo-2022-0751</id>
-    <updated>2025-05-04T22:05:47.919309+00:00</updated>
+    <updated>2025-05-06T04:56:38.133072+00:00</updated>
     <summary>Article by Yi Wang, Qian Wang, Wuyu Zhang, Xiumei Zhong, Fuqiang Liu, Shichao Jia, Xuefeng Hu
 DOI: https://doi.org/10.1515/geo-2022-0751</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/geo-2022-0751</summary>
     <title>Prediction method of S-wave velocities in tight sandstone reservoirs – a case study of CO2geological storage area in Ordos Basin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0758/html"/>
     <id>https://doi.org/10.1515/geo-2022-0758</id>
-    <updated>2025-05-04T22:05:47.919313+00:00</updated>
+    <updated>2025-05-06T04:56:38.133079+00:00</updated>
     <summary>Article by Lin Li, Haofan Wang, Jinfeng Ma
 DOI: https://doi.org/10.1515/geo-2022-0758</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/geo-2022-0758</summary>
     <title>Ecological restoration in valley area of semiarid region damaged by shallow buried coal seam mining</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0762/html"/>
     <id>https://doi.org/10.1515/geo-2022-0762</id>
-    <updated>2025-05-04T22:05:47.919318+00:00</updated>
+    <updated>2025-05-06T04:56:38.133085+00:00</updated>
     <summary>Article by Puhao Chen, Jianbin Wang, Haiyan Wang
 DOI: https://doi.org/10.1515/geo-2022-0762</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/geo-2022-0762</summary>
     <title>Hydrocarbon-generating characteristics of Xujiahe coal-bearing source rocks in the continuous sedimentary environment of the Southwest Sichuan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0754/html"/>
     <id>https://doi.org/10.1515/geo-2022-0754</id>
-    <updated>2025-05-04T22:05:47.919322+00:00</updated>
+    <updated>2025-05-06T04:56:38.133089+00:00</updated>
     <summary>Article by Tao Yang, Kun Xu, Jungang Lu, Bai Liu, Jianbo Liao
 DOI: https://doi.org/10.1515/geo-2022-0754</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/geo-2022-0754</summary>
     <title>Hazard analysis of future surface displacements on active faults based on the recurrence interval of strong earthquakes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0763/html"/>
     <id>https://doi.org/10.1515/geo-2022-0763</id>
-    <updated>2025-05-04T22:05:47.919327+00:00</updated>
+    <updated>2025-05-06T04:56:38.133093+00:00</updated>
     <summary>Article by Qingyun Zhou, Jingnan Liu, Peng Tian, Weidong Luo, Xianfu Bai, Yue Yang, Zhenyu Zou
 DOI: https://doi.org/10.1515/geo-2022-0763</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/geo-2022-0763</summary>
     <title>Structural characterization of the Zalm district, West Saudi Arabia, using aeromagnetic data: An approach for gold mineral exploration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0764/html"/>
     <id>https://doi.org/10.1515/geo-2022-0764</id>
-    <updated>2025-05-04T22:05:47.919331+00:00</updated>
+    <updated>2025-05-06T04:56:38.133098+00:00</updated>
     <summary>Article by Hassan Alzahrani, Elkhedr Ibrahim
 DOI: https://doi.org/10.1515/geo-2022-0764</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/geo-2022-0764</summary>
     <title>Research on the variation in the Shields curve of silt initiation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0635/html"/>
     <id>https://doi.org/10.1515/geo-2022-0635</id>
-    <updated>2025-05-04T22:05:47.919336+00:00</updated>
+    <updated>2025-05-06T04:56:38.133103+00:00</updated>
     <summary>Article by Qinghui Qi, Peihua Dong, Hongling Qu
 DOI: https://doi.org/10.1515/geo-2022-0635</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/geo-2022-0635</summary>
     <title>Reuse of agricultural drainage water and wastewater for crop irrigation in southeastern Algeria</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0749/html"/>
     <id>https://doi.org/10.1515/geo-2022-0749</id>
-    <updated>2025-05-04T22:05:47.919341+00:00</updated>
+    <updated>2025-05-06T04:56:38.133109+00:00</updated>
     <summary>Article by Djouheina Boukehlifi Kouider, Houria Athmani, Sofiane Bensefia
 DOI: https://doi.org/10.1515/geo-2022-0749</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/geo-2022-0749</summary>
     <title>Assessing the effectiveness of utilizing low-cost inertial measurement unit sensors for producing as-built plans</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0766/html"/>
     <id>https://doi.org/10.1515/geo-2025-0766</id>
-    <updated>2025-05-04T22:05:47.919345+00:00</updated>
+    <updated>2025-05-06T04:56:38.133113+00:00</updated>
     <summary>Article by Abdullah Kamel
 DOI: https://doi.org/10.1515/geo-2025-0766</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/geo-2025-0766</summary>
     <title>Analysis of the formation process of a natural fertilizer in the loess area</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0767/html"/>
     <id>https://doi.org/10.1515/geo-2025-0767</id>
-    <updated>2025-05-04T22:05:47.919349+00:00</updated>
+    <updated>2025-05-06T04:56:38.133119+00:00</updated>
     <summary>Article by Na Lei, Jinyang Zhang, Zenghui Sun, Zhicheng Wang
 DOI: https://doi.org/10.1515/geo-2025-0767</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/geo-2025-0767</summary>
     <title>Machine learning methods for landslide mapping studies: A comparative study of SVM and RF algorithms in the Oued Aoulai watershed (Morocco)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0740/html"/>
     <id>https://doi.org/10.1515/geo-2022-0740</id>
-    <updated>2025-05-04T22:05:47.919354+00:00</updated>
+    <updated>2025-05-06T04:56:38.133128+00:00</updated>
     <summary>Article by Latifa Ladel, Mohamed Mastere, Shuraik Kader, Velibor Spalević, Branislav Dudic
 DOI: https://doi.org/10.1515/geo-2022-0740</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/geo-2022-0740</summary>
     <title>Chemical dissolution and the source of salt efflorescence in weathering of sandstone cultural relics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0771/html"/>
     <id>https://doi.org/10.1515/geo-2025-0771</id>
-    <updated>2025-05-04T22:05:47.919359+00:00</updated>
+    <updated>2025-05-06T04:56:38.133136+00:00</updated>
     <summary>Article by Junxia Wang
 DOI: https://doi.org/10.1515/geo-2025-0771</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/geo-2025-0771</summary>
     <title>Molecular simulation of methane adsorption capacity in transitional shale – a case study of Longtan Formation shale in Southern Sichuan Basin, SW China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0775/html"/>
     <id>https://doi.org/10.1515/geo-2025-0775</id>
-    <updated>2025-05-04T22:05:47.919363+00:00</updated>
+    <updated>2025-05-06T04:56:38.133141+00:00</updated>
     <summary>Article by Weiming Chen, Lin Qi, Renkui Lin, Bangdi Tang, Dongyu Dai, Jie Zheng
 DOI: https://doi.org/10.1515/geo-2025-0775</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/geo-2025-0775</summary>
     <title>Evolution characteristics of extreme maximum temperature events in Central China and adaptation strategies under different future warming scenarios</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0773/html"/>
     <id>https://doi.org/10.1515/geo-2025-0773</id>
-    <updated>2025-05-04T22:05:47.919368+00:00</updated>
+    <updated>2025-05-06T04:56:38.133146+00:00</updated>
     <summary>Article by Yiping Duan, Xia You, Rongrong Wang, Ping Ouyang, Guanhua Wang, Muyan Chen, Min Gong
 DOI: https://doi.org/10.1515/geo-2025-0773</summary>
   </entry>
@@ -231,7 +228,7 @@ DOI: https://doi.org/10.1515/geo-2025-0773</summary>
     <title>Estimating Bowen ratio in local environment based on satellite imagery</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0774/html"/>
     <id>https://doi.org/10.1515/geo-2025-0774</id>
-    <updated>2025-05-04T22:05:47.919372+00:00</updated>
+    <updated>2025-05-06T04:56:38.133151+00:00</updated>
     <summary>Article by Tereza Pohanková, Vilém Pechanec
 DOI: https://doi.org/10.1515/geo-2025-0774</summary>
   </entry>
@@ -239,7 +236,7 @@ DOI: https://doi.org/10.1515/geo-2025-0774</summary>
     <title>3D fusion modeling of multi-scale geological structures based on subdivision-NURBS surfaces and stratigraphic sequence formalization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0785/html"/>
     <id>https://doi.org/10.1515/geo-2025-0785</id>
-    <updated>2025-05-04T22:05:47.919377+00:00</updated>
+    <updated>2025-05-06T04:56:38.133155+00:00</updated>
     <summary>Article by Mingming Lyu, Xiaomin Liu, Junlong Zhou, Liwei Song
 DOI: https://doi.org/10.1515/geo-2025-0785</summary>
   </entry>
@@ -247,7 +244,7 @@ DOI: https://doi.org/10.1515/geo-2025-0785</summary>
     <title>Comparative analysis of machine learning algorithms in Google Earth Engine for urban land use dynamics in rapidly urbanizing South Asian cities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0769/html"/>
     <id>https://doi.org/10.1515/geo-2025-0769</id>
-    <updated>2025-05-04T22:05:47.919381+00:00</updated>
+    <updated>2025-05-06T04:56:38.133160+00:00</updated>
     <summary>Article by Farzana Afroz, Mohammad Mahmudul Hasan, Rownoak Bin Rouf, Md. Mehedi Hasan Nazir, Hamad Ahmed Altuwaijri, Abdulla Al Kafy, Md. Mostafizur Rahman
 DOI: https://doi.org/10.1515/geo-2025-0769</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.1515/geo-2025-0769</summary>
     <title>Study on the mechanism of plant root influence on soil properties in expansive soil areas</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0777/html"/>
     <id>https://doi.org/10.1515/geo-2025-0777</id>
-    <updated>2025-05-04T22:05:47.919385+00:00</updated>
+    <updated>2025-05-06T04:56:38.133164+00:00</updated>
     <summary>Article by Cao Tingting, Zhang Haiou, Sun Xubo, Guo Zhen, Wang Jiaqi, Hu Yantao
 DOI: https://doi.org/10.1515/geo-2025-0777</summary>
   </entry>
@@ -263,7 +260,7 @@ DOI: https://doi.org/10.1515/geo-2025-0777</summary>
     <title>Simulation of seismic hazard parameters and earthquakes source mechanisms along the Red Sea rift, western Saudi Arabia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0779/html"/>
     <id>https://doi.org/10.1515/geo-2025-0779</id>
-    <updated>2025-05-04T22:05:47.919390+00:00</updated>
+    <updated>2025-05-06T04:56:38.133169+00:00</updated>
     <summary>Article by Saleh Qaysi, Hamada Saadalla, Nassir Alarifi, Sameh M. Moustafa, Abdalla Abdelnabi, Turki Sehli
 DOI: https://doi.org/10.1515/geo-2025-0779</summary>
   </entry>
@@ -271,7 +268,7 @@ DOI: https://doi.org/10.1515/geo-2025-0779</summary>
     <title>Tectonics vs sedimentation in foredeep basins: A tale from the Oligo-Miocene Monte Falterona Formation (Northern Apennines, Italy)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0772/html"/>
     <id>https://doi.org/10.1515/geo-2025-0772</id>
-    <updated>2025-05-04T22:05:47.919394+00:00</updated>
+    <updated>2025-05-06T04:56:38.133173+00:00</updated>
     <summary>Article by Michele Marroni, Maria Di Rosa, Edoardo Sanità, Rita Catanzariti, Francesca Meneghini, Luca Pandolfi
 DOI: https://doi.org/10.1515/geo-2025-0772</summary>
   </entry>
@@ -279,7 +276,7 @@ DOI: https://doi.org/10.1515/geo-2025-0772</summary>
     <title>Investigation of landslide areas in Tokat-Almus road between Bakımlı-Almus by the PS-InSAR method (Türkiye)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0789/html"/>
     <id>https://doi.org/10.1515/geo-2025-0789</id>
-    <updated>2025-05-04T22:05:47.919399+00:00</updated>
+    <updated>2025-05-06T04:56:38.133178+00:00</updated>
     <summary>Article by Osman Oktar
 DOI: https://doi.org/10.1515/geo-2025-0789</summary>
   </entry>
@@ -287,7 +284,7 @@ DOI: https://doi.org/10.1515/geo-2025-0789</summary>
     <title>Predicting coastal variations in non-storm conditions with machine learning</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0770/html"/>
     <id>https://doi.org/10.1515/geo-2025-0770</id>
-    <updated>2025-05-04T22:05:47.919403+00:00</updated>
+    <updated>2025-05-06T04:56:38.133183+00:00</updated>
     <summary>Article by Amir Jabari, Mehdi Adjami, Saeid Gharechelou
 DOI: https://doi.org/10.1515/geo-2025-0770</summary>
   </entry>
@@ -295,7 +292,7 @@ DOI: https://doi.org/10.1515/geo-2025-0770</summary>
     <title>Cross-dimensional adaptivity research on a 3D earth observation data cube model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0783/html"/>
     <id>https://doi.org/10.1515/geo-2025-0783</id>
-    <updated>2025-05-04T22:05:47.919408+00:00</updated>
+    <updated>2025-05-06T04:56:38.133188+00:00</updated>
     <summary>Article by Jinsongdi Yu, Zhanying Cui, Peter Baumann, Ruiju Tong, Dandan Wei, Yuan Luo
 DOI: https://doi.org/10.1515/geo-2025-0783</summary>
   </entry>
@@ -303,7 +300,7 @@ DOI: https://doi.org/10.1515/geo-2025-0783</summary>
     <title>Geochronology and geochemistry of late Paleozoic volcanic rocks in eastern Inner Mongolia and their geological significance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0786/html"/>
     <id>https://doi.org/10.1515/geo-2025-0786</id>
-    <updated>2025-05-04T22:05:47.919412+00:00</updated>
+    <updated>2025-05-06T04:56:38.133193+00:00</updated>
     <summary>Article by Liang Tianyi, Li Mengmeng, Wang Li, Wang Guanhong, Tang Xinglong, Li Zhuang
 DOI: https://doi.org/10.1515/geo-2025-0786</summary>
   </entry>
@@ -311,7 +308,7 @@ DOI: https://doi.org/10.1515/geo-2025-0786</summary>
     <title>Spatial and temporal evolution of land use and habitat quality in arid regions – a case of Northwest China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0695/html"/>
     <id>https://doi.org/10.1515/geo-2022-0695</id>
-    <updated>2025-05-04T22:05:47.919417+00:00</updated>
+    <updated>2025-05-06T04:56:38.133198+00:00</updated>
     <summary>Article by Feng Wen, Wei Dong, Fei Xu, Chunyang Lu
 DOI: https://doi.org/10.1515/geo-2022-0695</summary>
   </entry>
@@ -319,7 +316,7 @@ DOI: https://doi.org/10.1515/geo-2022-0695</summary>
     <title>Ground-penetrating radar imaging of subsurface karst features controlling water leakage across Wadi Namar dam, south Riyadh, Saudi Arabia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0781/html"/>
     <id>https://doi.org/10.1515/geo-2025-0781</id>
-    <updated>2025-05-04T22:05:47.919421+00:00</updated>
+    <updated>2025-05-06T04:56:38.133202+00:00</updated>
     <summary>Article by Saad S. Alarifi, Elkhedr Ibrahim, Khaled Al-Kahtany
 DOI: https://doi.org/10.1515/geo-2025-0781</summary>
   </entry>
@@ -327,7 +324,7 @@ DOI: https://doi.org/10.1515/geo-2025-0781</summary>
     <title>Rayleigh wave dispersion inversion via modified sine cosine algorithm: Application to Hangzhou, China passive surface wave data</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0794/html"/>
     <id>https://doi.org/10.1515/geo-2025-0794</id>
-    <updated>2025-05-04T22:05:47.919425+00:00</updated>
+    <updated>2025-05-06T04:56:38.133206+00:00</updated>
     <summary>Article by Chen Wenbin, Yu Chuantao
 DOI: https://doi.org/10.1515/geo-2025-0794</summary>
   </entry>
@@ -335,7 +332,7 @@ DOI: https://doi.org/10.1515/geo-2025-0794</summary>
     <title>Fractal insights into permeability control by pore structure in tight sandstone reservoirs, Heshui area, Ordos Basin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0791/html"/>
     <id>https://doi.org/10.1515/geo-2025-0791</id>
-    <updated>2025-05-04T22:05:47.919429+00:00</updated>
+    <updated>2025-05-06T04:56:38.133215+00:00</updated>
     <summary>Article by Shu Liu, Meng Wang, Yulin Cheng, Xinan Yu, Xingming Duan, Zhe Kang, Yixue Xiong
 DOI: https://doi.org/10.1515/geo-2025-0791</summary>
   </entry>
@@ -343,7 +340,7 @@ DOI: https://doi.org/10.1515/geo-2025-0791</summary>
     <title>Debris flow hazard characteristic and mitigation in Yusitong Gully, Hengduan Mountainous Region</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0719/html"/>
     <id>https://doi.org/10.1515/geo-2022-0719</id>
-    <updated>2025-05-04T22:05:47.919434+00:00</updated>
+    <updated>2025-05-06T04:56:38.133219+00:00</updated>
     <summary>Article by Guangchun Xu
 DOI: https://doi.org/10.1515/geo-2022-0719</summary>
   </entry>
@@ -351,7 +348,7 @@ DOI: https://doi.org/10.1515/geo-2022-0719</summary>
     <title>Research on community characteristics of vegetation restoration in hilly power engineering based on multi temporal remote sensing technology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0761/html"/>
     <id>https://doi.org/10.1515/geo-2022-0761</id>
-    <updated>2025-05-04T22:05:47.919438+00:00</updated>
+    <updated>2025-05-06T04:56:38.133223+00:00</updated>
     <summary>Article by Bin Chen, Dong Lei, Liangjun Huang, Qingdong Liu, Xuan Zhao, Yuanping Shi
 DOI: https://doi.org/10.1515/geo-2022-0761</summary>
   </entry>
@@ -359,7 +356,7 @@ DOI: https://doi.org/10.1515/geo-2022-0761</summary>
     <title>Identification of radial drainage networks based on topographic and geometric features</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0792/html"/>
     <id>https://doi.org/10.1515/geo-2025-0792</id>
-    <updated>2025-05-04T22:05:47.919442+00:00</updated>
+    <updated>2025-05-06T04:56:38.133228+00:00</updated>
     <summary>Article by Chengyi Liu, Renjian Zhai, Fang Wu, Xianyong Gong, Ruixing Xing, Yue Qiu
 DOI: https://doi.org/10.1515/geo-2025-0792</summary>
   </entry>
@@ -367,7 +364,7 @@ DOI: https://doi.org/10.1515/geo-2025-0792</summary>
     <title>Trace elements and melt inclusion in zircon within the Qunji porphyry Cu deposit: Application to the metallogenic potential of the reduced magma-hydrothermal system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0796/html"/>
     <id>https://doi.org/10.1515/geo-2025-0796</id>
-    <updated>2025-05-04T22:05:47.919446+00:00</updated>
+    <updated>2025-05-06T04:56:38.133232+00:00</updated>
     <summary>Article by Zizhen Zhang, Zhengxi Gao, Yushan Zuo, Lei Zuo, Rui Liu
 DOI: https://doi.org/10.1515/geo-2025-0796</summary>
   </entry>
@@ -375,7 +372,7 @@ DOI: https://doi.org/10.1515/geo-2025-0796</summary>
     <title>Pore, fracture characteristics and diagenetic evolution of medium-maturity marine shales from the Silurian Longmaxi Formation, NE Sichuan Basin, China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0797/html"/>
     <id>https://doi.org/10.1515/geo-2025-0797</id>
-    <updated>2025-05-04T22:05:47.919451+00:00</updated>
+    <updated>2025-05-06T04:56:38.133237+00:00</updated>
     <summary>Article by Xingping Yin, Yuqiang Jiang, Yi Li, Xuewen Shi, Xiugen Fu, Yifan Gu
 DOI: https://doi.org/10.1515/geo-2025-0797</summary>
   </entry>
@@ -383,7 +380,7 @@ DOI: https://doi.org/10.1515/geo-2025-0797</summary>
     <title>Study of the earthquakes source parameters, site response, and path attenuation using P and S-waves spectral inversion, Aswan region, south Egypt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0795/html"/>
     <id>https://doi.org/10.1515/geo-2025-0795</id>
-    <updated>2025-05-04T22:05:47.919456+00:00</updated>
+    <updated>2025-05-06T04:56:38.133242+00:00</updated>
     <summary>Article by Hamada Saadalla, Saleh Qaysi, Takumi Hayashida, Mona Hamada
 DOI: https://doi.org/10.1515/geo-2025-0795</summary>
   </entry>
@@ -391,7 +388,7 @@ DOI: https://doi.org/10.1515/geo-2025-0795</summary>
     <title>Source of contamination and assessment of potential health risks of potentially toxic metal(loid)s in agricultural soil from Al Lith, Saudi Arabia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0782/html"/>
     <id>https://doi.org/10.1515/geo-2025-0782</id>
-    <updated>2025-05-04T22:05:47.919460+00:00</updated>
+    <updated>2025-05-06T04:56:38.133247+00:00</updated>
     <summary>Article by Talal Alharbi, Abdelbaset S. El-Sorogy, Khaled Al-Kahtany, Mansour H. Al-Hashim
 DOI: https://doi.org/10.1515/geo-2025-0782</summary>
   </entry>
@@ -399,7 +396,7 @@ DOI: https://doi.org/10.1515/geo-2025-0782</summary>
     <title>Depopulation in the Visok micro-region: Toward demographic and economic revitalization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2022-0703/html"/>
     <id>https://doi.org/10.1515/geo-2022-0703</id>
-    <updated>2025-05-04T22:05:47.919465+00:00</updated>
+    <updated>2025-05-06T04:56:38.133251+00:00</updated>
     <summary>Article by Ksenija Marković, Aleksandar R. Radivojević, Rastko S. Marković
 DOI: https://doi.org/10.1515/geo-2022-0703</summary>
   </entry>
@@ -407,7 +404,7 @@ DOI: https://doi.org/10.1515/geo-2022-0703</summary>
     <title>Advancing urban sustainability: Applying GIS technologies to assess SDG indicators – a case study of Podgorica (Montenegro)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/geo-2025-0803/html"/>
     <id>https://doi.org/10.1515/geo-2025-0803</id>
-    <updated>2025-05-04T22:05:47.919469+00:00</updated>
+    <updated>2025-05-06T04:56:38.133256+00:00</updated>
     <summary>Article by Duško Vujačić, Tatijana Stanovčić, Tamara Gajić, Bojana Aleksova, Tin Lukić
 DOI: https://doi.org/10.1515/geo-2025-0803</summary>
   </entry>

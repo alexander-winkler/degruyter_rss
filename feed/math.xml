@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Mathematics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/math/23/1/html"/>
-  <updated>2025-05-04T22:09:31.439184+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/math/23/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/math.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/math/html" rel="related"/>
+  <updated>2025-05-06T05:01:43.922260+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/math.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Mathematics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/math.xml" type="application/rss+xml"/>
   <entry>
     <title>Forbidden subgraphs of TI-power graphs of finite groups</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0099/html"/>
     <id>https://doi.org/10.1515/math-2024-0099</id>
-    <updated>2025-05-04T22:09:31.439204+00:00</updated>
+    <updated>2025-05-06T05:01:43.922284+00:00</updated>
     <summary>Article by Huani Li, Jin Chen, Shixun Lin
 DOI: https://doi.org/10.1515/math-2024-0099</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/math-2024-0099</summary>
     <title>Finite group with somec#-normal andS-quasinormally embedded subgroups</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0140/html"/>
     <id>https://doi.org/10.1515/math-2025-0140</id>
-    <updated>2025-05-04T22:09:31.439212+00:00</updated>
+    <updated>2025-05-06T05:01:43.922293+00:00</updated>
     <summary>Article by Ning Li, Jing Jiang, Jianjun Liu
 DOI: https://doi.org/10.1515/math-2025-0140</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/math-2025-0140</summary>
     <title>Dynamics of particulate emissions in the presence of autonomous vehicles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0126/html"/>
     <id>https://doi.org/10.1515/math-2024-0126</id>
-    <updated>2025-05-04T22:09:31.439218+00:00</updated>
+    <updated>2025-05-06T05:01:43.922302+00:00</updated>
     <summary>Article by Maya Briani, Christopher Anthony Denaro, Benedetto Piccoli, Luigi Rarità
 DOI: https://doi.org/10.1515/math-2024-0126</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/math-2024-0126</summary>
     <title>The regularity of solutions to theLpGauss image problem</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0111/html"/>
     <id>https://doi.org/10.1515/math-2024-0111</id>
-    <updated>2025-05-04T22:09:31.439224+00:00</updated>
+    <updated>2025-05-06T05:01:43.922308+00:00</updated>
     <summary>Article by Xiumei Jia, Jing Chen
 DOI: https://doi.org/10.1515/math-2024-0111</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/math-2024-0111</summary>
     <title>Exploring homotopy with hyperspherical tracking to find complex roots with application to electrical circuits</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0115/html"/>
     <id>https://doi.org/10.1515/math-2024-0115</id>
-    <updated>2025-05-04T22:09:31.439230+00:00</updated>
+    <updated>2025-05-06T05:01:43.922314+00:00</updated>
     <summary>Article by Mario A. Sandoval-Hernandez, Hugo Jimenez-Islas, Hector Vazquez-Leal, Miriam L. Quemada-Villagómez, María de la Luz Lopez-Gonzalez
 DOI: https://doi.org/10.1515/math-2024-0115</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/math-2024-0115</summary>
     <title>The ill-posedness of the (non-)periodic traveling wave solution for the deformed continuous Heisenberg spin equation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0103/html"/>
     <id>https://doi.org/10.1515/math-2024-0103</id>
-    <updated>2025-05-04T22:09:31.439236+00:00</updated>
+    <updated>2025-05-06T05:01:43.922321+00:00</updated>
     <summary>Article by Penghong Zhong, Xingfa Chen, Ye Chen
 DOI: https://doi.org/10.1515/math-2024-0103</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/math-2024-0103</summary>
     <title>Some results on value distribution concerning Hayman's alternative</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0117/html"/>
     <id>https://doi.org/10.1515/math-2024-0117</id>
-    <updated>2025-05-04T22:09:31.439242+00:00</updated>
+    <updated>2025-05-06T05:01:43.922327+00:00</updated>
     <summary>Article by Xinyu Zhuang, Ruilin Zheng, Zhiying He, Mingliang Fang
 DOI: https://doi.org/10.1515/math-2024-0117</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/math-2024-0117</summary>
     <title>𝕮-inverse of graphs and mixed graphs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0104/html"/>
     <id>https://doi.org/10.1515/math-2024-0104</id>
-    <updated>2025-05-04T22:09:31.439248+00:00</updated>
+    <updated>2025-05-06T05:01:43.922333+00:00</updated>
     <summary>Article by Omar Alomari, Mohammad Abudayah, Manal Ghanem
 DOI: https://doi.org/10.1515/math-2024-0104</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/math-2024-0104</summary>
     <title>A note on the global existence and boundedness of anN-dimensional parabolic-elliptic predator-prey system with indirect pursuit-evasion interaction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0122/html"/>
     <id>https://doi.org/10.1515/math-2024-0122</id>
-    <updated>2025-05-04T22:09:31.439253+00:00</updated>
+    <updated>2025-05-06T05:01:43.922343+00:00</updated>
     <summary>Article by Ling Liu
 DOI: https://doi.org/10.1515/math-2024-0122</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/math-2024-0122</summary>
     <title>On a question of permutation groups acting on the power set</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0109/html"/>
     <id>https://doi.org/10.1515/math-2024-0109</id>
-    <updated>2025-05-04T22:09:31.439264+00:00</updated>
+    <updated>2025-05-06T05:01:43.922350+00:00</updated>
     <summary>Article by Jinbao Li, Yong Yang, Mengxi You
 DOI: https://doi.org/10.1515/math-2024-0109</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/math-2024-0109</summary>
     <title>Chebyshev polynomials of the first kind and the univariate Lommel function: Integral representations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0113/html"/>
     <id>https://doi.org/10.1515/math-2024-0113</id>
-    <updated>2025-05-04T22:09:31.439269+00:00</updated>
+    <updated>2025-05-06T05:01:43.922356+00:00</updated>
     <summary>Article by Carlos M. da Fonseca, M. Lawrence Glasser, Victor Kowalenko
 DOI: https://doi.org/10.1515/math-2024-0113</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/math-2024-0113</summary>
     <title>Blow-up of solutions for Euler-Bernoulli equation with nonlinear time delay</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0124/html"/>
     <id>https://doi.org/10.1515/math-2024-0124</id>
-    <updated>2025-05-04T22:09:31.439275+00:00</updated>
+    <updated>2025-05-06T05:01:43.922361+00:00</updated>
     <summary>Article by Rongrui Lin, Yunlong Gao, Lianbing She
 DOI: https://doi.org/10.1515/math-2024-0124</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/math-2024-0124</summary>
     <title>Spectrum boundary domination of semiregularities in Banach algebras</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0105/html"/>
     <id>https://doi.org/10.1515/math-2024-0105</id>
-    <updated>2025-05-04T22:09:31.439280+00:00</updated>
+    <updated>2025-05-06T05:01:43.922367+00:00</updated>
     <summary>Article by Ying Liu, Yingying Kong, Lining Jiang
 DOI: https://doi.org/10.1515/math-2024-0105</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/math-2024-0105</summary>
     <title>Statistical inference and data analysis of the record-based transmuted Burr X model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0121/html"/>
     <id>https://doi.org/10.1515/math-2024-0121</id>
-    <updated>2025-05-04T22:09:31.439285+00:00</updated>
+    <updated>2025-05-06T05:01:43.922372+00:00</updated>
     <summary>Article by Hleil Alrweili
 DOI: https://doi.org/10.1515/math-2024-0121</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/math-2024-0121</summary>
     <title>A modified predictor–corrector scheme with graded mesh for numerical solutions of nonlinear Ψ-caputo fractional-order systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0127/html"/>
     <id>https://doi.org/10.1515/math-2024-0127</id>
-    <updated>2025-05-04T22:09:31.439291+00:00</updated>
+    <updated>2025-05-06T05:01:43.922378+00:00</updated>
     <summary>Article by Danuruj Songsanga, Parinya Sa Ngiamsunthorn
 DOI: https://doi.org/10.1515/math-2024-0127</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/math-2024-0127</summary>
     <title>Dynamical properties of two-diffusion SIR epidemic model with Markovian switching</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0123/html"/>
     <id>https://doi.org/10.1515/math-2024-0123</id>
-    <updated>2025-05-04T22:09:31.439296+00:00</updated>
+    <updated>2025-05-06T05:01:43.922383+00:00</updated>
     <summary>Article by Milica Marković
 DOI: https://doi.org/10.1515/math-2024-0123</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/math-2024-0123</summary>
     <title>Classes of modules closed under projective covers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0136/html"/>
     <id>https://doi.org/10.1515/math-2025-0136</id>
-    <updated>2025-05-04T22:09:31.439302+00:00</updated>
+    <updated>2025-05-06T05:01:43.922389+00:00</updated>
     <summary>Article by César Cejudo-Castilla, Ángel Raúl García-Ramírez, Ivan Fernando Vilchis Montalvo
 DOI: https://doi.org/10.1515/math-2025-0136</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/math-2025-0136</summary>
     <title>On the dimension of the algebraic sum of subspaces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0128/html"/>
     <id>https://doi.org/10.1515/math-2024-0128</id>
-    <updated>2025-05-04T22:09:31.439307+00:00</updated>
+    <updated>2025-05-06T05:01:43.922395+00:00</updated>
     <summary>Article by Gregoris Makrides, Tomasz Szemberg
 DOI: https://doi.org/10.1515/math-2024-0128</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/math-2024-0128</summary>
     <title>Periodic or homoclinic orbit bifurcated from a heteroclinic loop for high-dimensional systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0134/html"/>
     <id>https://doi.org/10.1515/math-2025-0134</id>
-    <updated>2025-05-04T22:09:31.439313+00:00</updated>
+    <updated>2025-05-06T05:01:43.922401+00:00</updated>
     <summary>Article by Bin Long, Yiying Yang
 DOI: https://doi.org/10.1515/math-2025-0134</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/math-2025-0134</summary>
     <title>On tangent bundles of Walker four-manifolds</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0135/html"/>
     <id>https://doi.org/10.1515/math-2025-0135</id>
-    <updated>2025-05-04T22:09:31.439318+00:00</updated>
+    <updated>2025-05-06T05:01:43.922406+00:00</updated>
     <summary>Article by Haşim Çayir, Erkan Güler, Gökhan Köseoğlu
 DOI: https://doi.org/10.1515/math-2025-0135</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/math-2025-0135</summary>
     <title>Regularity of weak solutions to the 3D stationary tropical climate model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0137/html"/>
     <id>https://doi.org/10.1515/math-2025-0137</id>
-    <updated>2025-05-04T22:09:31.439324+00:00</updated>
+    <updated>2025-05-06T05:01:43.922411+00:00</updated>
     <summary>Article by Huiyang Song, Qunyi Bie, Yanping Zhou
 DOI: https://doi.org/10.1515/math-2025-0137</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/math-2025-0137</summary>
     <title>A new result for entire functions and their shifts with two shared values</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0138/html"/>
     <id>https://doi.org/10.1515/math-2025-0138</id>
-    <updated>2025-05-04T22:09:31.439330+00:00</updated>
+    <updated>2025-05-06T05:01:43.922417+00:00</updated>
     <summary>Article by Aizhu Xu, Peiqiang Lin, Shengjiang Chen
 DOI: https://doi.org/10.1515/math-2025-0138</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/math-2025-0138</summary>
     <title>Freely quasiconformal and locally weakly quasisymmetric mappings in metric spaces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0131/html"/>
     <id>https://doi.org/10.1515/math-2025-0131</id>
-    <updated>2025-05-04T22:09:31.439335+00:00</updated>
+    <updated>2025-05-06T05:01:43.922422+00:00</updated>
     <summary>Article by Hong-Jun Liu, Sha-Sha Yan, Ling Xia, Zhi-Fa Yu
 DOI: https://doi.org/10.1515/math-2025-0131</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/math-2025-0131</summary>
     <title>On the spectral radius and energy of the degree distance matrix of a connected graph</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0139/html"/>
     <id>https://doi.org/10.1515/math-2025-0139</id>
-    <updated>2025-05-04T22:09:31.439340+00:00</updated>
+    <updated>2025-05-06T05:01:43.922427+00:00</updated>
     <summary>Article by Zia Ullah Khan, Abdul Hameed
 DOI: https://doi.org/10.1515/math-2025-0139</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/math-2025-0139</summary>
     <title>Solving the quartic by conics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0132/html"/>
     <id>https://doi.org/10.1515/math-2025-0132</id>
-    <updated>2025-05-04T22:09:31.439346+00:00</updated>
+    <updated>2025-05-06T05:01:43.922432+00:00</updated>
     <summary>Article by Lorenz Halbeisen, Norbert Hungerbühler
 DOI: https://doi.org/10.1515/math-2025-0132</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/math-2025-0132</summary>
     <title>A topology related to implication and upsets on a bounded BCK-algebra</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0133/html"/>
     <id>https://doi.org/10.1515/math-2025-0133</id>
-    <updated>2025-05-04T22:09:31.439351+00:00</updated>
+    <updated>2025-05-06T05:01:43.922437+00:00</updated>
     <summary>Article by Supeng Wu, Hui Liu, Jiang Yang
 DOI: https://doi.org/10.1515/math-2025-0133</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/math-2025-0133</summary>
     <title>On a subclass of multivalent functions defined by generalized multiplier transformation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0088/html"/>
     <id>https://doi.org/10.1515/math-2024-0088</id>
-    <updated>2025-05-04T22:09:31.439356+00:00</updated>
+    <updated>2025-05-06T05:01:43.922442+00:00</updated>
     <summary>Article by Ma’moun I. Y. Alharayzeh
 DOI: https://doi.org/10.1515/math-2024-0088</summary>
   </entry>
@@ -231,7 +228,7 @@ DOI: https://doi.org/10.1515/math-2024-0088</summary>
     <title>Local minimizers for the NLS equation with localized nonlinearity on noncompact metric graphs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0129/html"/>
     <id>https://doi.org/10.1515/math-2024-0129</id>
-    <updated>2025-05-04T22:09:31.439361+00:00</updated>
+    <updated>2025-05-06T05:01:43.922447+00:00</updated>
     <summary>Article by Xiaoguang Li
 DOI: https://doi.org/10.1515/math-2024-0129</summary>
   </entry>
@@ -239,7 +236,7 @@ DOI: https://doi.org/10.1515/math-2024-0129</summary>
     <title>Approximate multi-Cauchy mappings on certain groupoids</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0142/html"/>
     <id>https://doi.org/10.1515/math-2025-0142</id>
-    <updated>2025-05-04T22:09:31.439366+00:00</updated>
+    <updated>2025-05-06T05:01:43.922454+00:00</updated>
     <summary>Article by Choonkil Park, Abasalt Bodaghi, Mana Donganont
 DOI: https://doi.org/10.1515/math-2025-0142</summary>
   </entry>
@@ -247,7 +244,7 @@ DOI: https://doi.org/10.1515/math-2025-0142</summary>
     <title>Multiple solutions for a class of fourth-order elliptic equations with critical growth</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2025-0141/html"/>
     <id>https://doi.org/10.1515/math-2025-0141</id>
-    <updated>2025-05-04T22:09:31.439372+00:00</updated>
+    <updated>2025-05-06T05:01:43.922460+00:00</updated>
     <summary>Article by Guaiqi Tian, Jun Lei, Yucheng An
 DOI: https://doi.org/10.1515/math-2025-0141</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.1515/math-2025-0141</summary>
     <title>A note on weighted measure-theoretic pressure</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/math-2024-0125/html"/>
     <id>https://doi.org/10.1515/math-2024-0125</id>
-    <updated>2025-05-04T22:09:31.439377+00:00</updated>
+    <updated>2025-05-06T05:01:43.922465+00:00</updated>
     <summary>Article by Bin Zhang, Yali Liang, Junjie Zhang
 DOI: https://doi.org/10.1515/math-2024-0125</summary>
   </entry>

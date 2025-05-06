@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Archiv für Papyrusforschung und verwandte Gebiete</title>
-  <link href="https://www.degruyterbrill.com/journal/key/apf/70/2/html"/>
-  <updated>2025-05-04T22:02:49.687338+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/apf/70/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apf.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/apf/html" rel="related"/>
+  <updated>2025-05-06T04:52:34.306299+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apf.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Archiv für Papyrusforschung und verwandte Gebiete</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apf.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-frontmatter7002/html"/>
     <id>https://doi.org/10.1515/apf-2024-frontmatter7002</id>
-    <updated>2025-05-04T22:02:49.687376+00:00</updated>
+    <updated>2025-05-06T04:52:34.306326+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/apf-2024-frontmatter7002</summary>
   </entry>
   <entry>
     <title>INHALT DES ZWEITEN HALBJAHRESHEFTES</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-toc7002/html"/>
     <id>https://doi.org/10.1515/apf-2024-toc7002</id>
-    <updated>2025-05-04T22:02:49.687386+00:00</updated>
+    <updated>2025-05-06T04:52:34.306333+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/apf-2024-toc7002</summary>
   </entry>
   <entry>
     <title>Hipponax’s Strasbourg Epode</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0016/html"/>
     <id>https://doi.org/10.1515/apf-2024-0016</id>
-    <updated>2025-05-04T22:02:49.687395+00:00</updated>
+    <updated>2025-05-06T04:52:34.306343+00:00</updated>
     <summary>Article by Enrico Emanuele Prodi
 DOI: https://doi.org/10.1515/apf-2024-0016</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/apf-2024-0016</summary>
     <title>P. Gen. inv. 376 – Ein neues Fragment von Isokrates’ Panegyrikos</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0017/html"/>
     <id>https://doi.org/10.1515/apf-2024-0017</id>
-    <updated>2025-05-04T22:02:49.687405+00:00</updated>
+    <updated>2025-05-06T04:52:34.306351+00:00</updated>
     <summary>Article by Lorenzo Sardone, Tobias Hirsch
 DOI: https://doi.org/10.1515/apf-2024-0017</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/apf-2024-0017</summary>
     <title>Demosthenes, not Callimachus! P.Oxy. 2258, Unidentified Fragment 11</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0018/html"/>
     <id>https://doi.org/10.1515/apf-2024-0018</id>
-    <updated>2025-05-04T22:02:49.687413+00:00</updated>
+    <updated>2025-05-06T04:52:34.306358+00:00</updated>
     <summary>Article by Claudio Meliadò
 DOI: https://doi.org/10.1515/apf-2024-0018</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/apf-2024-0018</summary>
     <title>Three Deluxe Horoscopes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0019/html"/>
     <id>https://doi.org/10.1515/apf-2024-0019</id>
-    <updated>2025-05-04T22:02:49.687422+00:00</updated>
+    <updated>2025-05-06T04:52:34.306365+00:00</updated>
     <summary>Article by Michael Zellmann-Rohrer
 DOI: https://doi.org/10.1515/apf-2024-0019</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/apf-2024-0019</summary>
     <title>Two Liturgical Papyri from the Bodleian Library</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0020/html"/>
     <id>https://doi.org/10.1515/apf-2024-0020</id>
-    <updated>2025-05-04T22:02:49.687429+00:00</updated>
+    <updated>2025-05-06T04:52:34.306371+00:00</updated>
     <summary>Article by Ágnes T. Mihálykó, Panegyres Konstantine
 DOI: https://doi.org/10.1515/apf-2024-0020</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/apf-2024-0020</summary>
     <title>Un’altra maniera insolita di recuperare papiri</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0021/html"/>
     <id>https://doi.org/10.1515/apf-2024-0021</id>
-    <updated>2025-05-04T22:02:49.687437+00:00</updated>
+    <updated>2025-05-06T04:52:34.306378+00:00</updated>
     <summary>Article by Claudio Gallazzi
 DOI: https://doi.org/10.1515/apf-2024-0021</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/apf-2024-0021</summary>
     <title>For the Taxpayer or the Administration? On the Function of Tax Payment Records from Eighth-Century Western Thebes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0022/html"/>
     <id>https://doi.org/10.1515/apf-2024-0022</id>
-    <updated>2025-05-04T22:02:49.687445+00:00</updated>
+    <updated>2025-05-06T04:52:34.306388+00:00</updated>
     <summary>Article by Renate Dekker
 DOI: https://doi.org/10.1515/apf-2024-0022</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/apf-2024-0022</summary>
     <title>Ehnas-Ersatz: Die von der Versicherungssumme erworbenen Ankäufe für die 1899 in Hamburg verbrannten Papyri aus Wilckens Grabung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0023/html"/>
     <id>https://doi.org/10.1515/apf-2024-0023</id>
-    <updated>2025-05-04T22:02:49.687455+00:00</updated>
+    <updated>2025-05-06T04:52:34.306396+00:00</updated>
     <summary>Article by Holger Essler
 DOI: https://doi.org/10.1515/apf-2024-0023</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/apf-2024-0023</summary>
     <title>Urkundenreferat 2020</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0024/html"/>
     <id>https://doi.org/10.1515/apf-2024-0024</id>
-    <updated>2025-05-04T22:02:49.687462+00:00</updated>
+    <updated>2025-05-06T04:52:34.306406+00:00</updated>
     <summary>Article by Thomas Kruse
 DOI: https://doi.org/10.1515/apf-2024-0024</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/apf-2024-0024</summary>
     <title>Demotica Selecta 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apf-2024-0025/html"/>
     <id>https://doi.org/10.1515/apf-2024-0025</id>
-    <updated>2025-05-04T22:02:49.687469+00:00</updated>
+    <updated>2025-05-06T04:52:34.306412+00:00</updated>
     <summary>Article by Maren Schentuleit
 DOI: https://doi.org/10.1515/apf-2024-0025</summary>
   </entry>

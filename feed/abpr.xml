@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The African Book Publishing Record</title>
-  <link href="https://www.degruyterbrill.com/journal/key/abpr/51/1/html"/>
-  <updated>2025-05-04T22:02:11.607978+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/abpr/51/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abpr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/abpr/html" rel="related"/>
+  <updated>2025-05-06T04:51:48.349890+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abpr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The African Book Publishing Record</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/abpr.xml" type="application/rss+xml"/>
   <entry>
     <title>Notes and News</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/abpr-2025-0001/html"/>
     <id>https://doi.org/10.1515/abpr-2025-0001</id>
-    <updated>2025-05-04T22:02:11.608012+00:00</updated>
+    <updated>2025-05-06T04:51:48.349921+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/abpr-2025-0001</summary>
   </entry>
   <entry>
     <title>Bibliography</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/abpr-2025-0002/html"/>
     <id>https://doi.org/10.1515/abpr-2025-0002</id>
-    <updated>2025-05-04T22:02:11.608022+00:00</updated>
+    <updated>2025-05-06T04:51:48.349930+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/abpr-2025-0002</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/abpr-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/abpr-2025-frontmatter1</id>
-    <updated>2025-05-04T22:02:11.608029+00:00</updated>
+    <updated>2025-05-06T04:51:48.349937+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/abpr-2025-frontmatter1</summary>
   </entry>
 </feed>

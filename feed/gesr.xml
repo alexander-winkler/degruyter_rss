@@ -1,91 +1,88 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>GesundheitsRecht</title>
-  <link href="https://www.degruyterbrill.com/journal/key/gesr/24/4/html"/>
-  <updated>2025-05-04T22:05:52.927264+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/gesr/24/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gesr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/gesr/html" rel="related"/>
+  <updated>2025-05-06T04:56:44.834635+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gesr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in GesundheitsRecht</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/gesr.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-frontmatter2404/html"/>
     <id>https://doi.org/10.9785/gesr-2025-frontmatter2404</id>
-    <updated>2025-05-04T22:05:52.927282+00:00</updated>
+    <updated>2025-05-06T04:56:44.834669+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-frontmatter2404</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-toc2404/html"/>
     <id>https://doi.org/10.9785/gesr-2025-toc2404</id>
-    <updated>2025-05-04T22:05:52.927288+00:00</updated>
+    <updated>2025-05-06T04:56:44.834682+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-toc2404</summary>
   </entry>
   <entry>
     <title>Aktuelles . KBV, KZBV, DKG, ABDA</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240403/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240403</id>
-    <updated>2025-05-04T22:05:52.927294+00:00</updated>
+    <updated>2025-05-06T04:56:44.834689+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240403</summary>
   </entry>
   <entry>
     <title>Aktuelles . BfArM</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240401/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240401</id>
-    <updated>2025-05-04T22:05:52.927299+00:00</updated>
+    <updated>2025-05-06T04:56:44.834697+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240401</summary>
   </entry>
   <entry>
     <title>Aktuelles . GKV-Spitzenverband</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240402/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240402</id>
-    <updated>2025-05-04T22:05:52.927304+00:00</updated>
+    <updated>2025-05-06T04:56:44.834704+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240402</summary>
   </entry>
   <entry>
     <title>Impressum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240425/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240425</id>
-    <updated>2025-05-04T22:05:52.927308+00:00</updated>
+    <updated>2025-05-06T04:56:44.834714+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240425</summary>
   </entry>
   <entry>
     <title>Aktuelles . Bundesärztekammer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240421/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240421</id>
-    <updated>2025-05-04T22:05:52.927313+00:00</updated>
+    <updated>2025-05-06T04:56:44.834720+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240421</summary>
   </entry>
   <entry>
     <title>Aktuelles . DKG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240422/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240422</id>
-    <updated>2025-05-04T22:05:52.927318+00:00</updated>
+    <updated>2025-05-06T04:56:44.834731+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240422</summary>
   </entry>
   <entry>
     <title>Aktuelles . Vfa</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240423/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240423</id>
-    <updated>2025-05-04T22:05:52.927323+00:00</updated>
+    <updated>2025-05-06T04:56:44.834737+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240423</summary>
   </entry>
   <entry>
     <title>Aktuelles . PKV</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240424/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240424</id>
-    <updated>2025-05-04T22:05:52.927328+00:00</updated>
+    <updated>2025-05-06T04:56:44.834746+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240424</summary>
   </entry>
   <entry>
     <title>Nichtbehandlung und Spontanheilung in Medizin und Recht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240404/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240404</id>
-    <updated>2025-05-04T22:05:52.927337+00:00</updated>
+    <updated>2025-05-06T04:56:44.834753+00:00</updated>
     <summary>Article by Mathias Dumbs
 DOI: https://doi.org/10.9785/gesr-2025-240404</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.9785/gesr-2025-240404</summary>
     <title>Fortführungsklausel im Gesellschaftsvertrag einer GbR</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240405/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240405</id>
-    <updated>2025-05-04T22:05:52.927344+00:00</updated>
+    <updated>2025-05-06T04:56:44.834768+00:00</updated>
     <summary>Article by Martin Rehborn
 DOI: https://doi.org/10.9785/gesr-2025-240405</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.9785/gesr-2025-240405</summary>
     <title>Befunderhebungsfehler im Rahmen der Geburtsleitung bei Vorliegen von Risikofaktoren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240406/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240406</id>
-    <updated>2025-05-04T22:05:52.927350+00:00</updated>
+    <updated>2025-05-06T04:56:44.834775+00:00</updated>
     <summary>Article by Ilse Dautert
 DOI: https://doi.org/10.9785/gesr-2025-240406</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.9785/gesr-2025-240406</summary>
     <title>Vergütungsanspruch bei behandlungsfehlerhafter Versorgung mit Zahnersatz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240407/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240407</id>
-    <updated>2025-05-04T22:05:52.927355+00:00</updated>
+    <updated>2025-05-06T04:56:44.834786+00:00</updated>
     <summary>Article by Peter W. Gaidzik
 DOI: https://doi.org/10.9785/gesr-2025-240407</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.9785/gesr-2025-240407</summary>
     <title>Behandlungs- und Aufklärungsfehler in der Notfallmedizin</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240408/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240408</id>
-    <updated>2025-05-04T22:05:52.927361+00:00</updated>
+    <updated>2025-05-06T04:56:44.834798+00:00</updated>
     <summary>Article by Michael Bergschneider
 DOI: https://doi.org/10.9785/gesr-2025-240408</summary>
   </entry>
@@ -125,84 +122,84 @@ DOI: https://doi.org/10.9785/gesr-2025-240408</summary>
     <title>Arzthaftung: Haftung eines Überweisungsempfängers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240409/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240409</id>
-    <updated>2025-05-04T22:05:52.927366+00:00</updated>
+    <updated>2025-05-06T04:56:44.834805+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240409</summary>
   </entry>
   <entry>
     <title>Hallux valgus-Operation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240410/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240410</id>
-    <updated>2025-05-04T22:05:52.927371+00:00</updated>
+    <updated>2025-05-06T04:56:44.834810+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240410</summary>
   </entry>
   <entry>
     <title>Nutzung einer objektiv unbrauchbaren Prothetik – Vergütungsanspruch?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240411/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240411</id>
-    <updated>2025-05-04T22:05:52.927375+00:00</updated>
+    <updated>2025-05-06T04:56:44.834819+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240411</summary>
   </entry>
   <entry>
     <title>„Werbung für Arzneimittel“ – europarechtliche Determinanten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240412/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240412</id>
-    <updated>2025-05-04T22:05:52.927380+00:00</updated>
+    <updated>2025-05-06T04:56:44.834825+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240412</summary>
   </entry>
   <entry>
     <title>„Rezeptmakeln“ über Internet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240413/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240413</id>
-    <updated>2025-05-04T22:05:52.927385+00:00</updated>
+    <updated>2025-05-06T04:56:44.834835+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240413</summary>
   </entry>
   <entry>
     <title>Sonntäglicher Apotheken-Lieferservice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240414/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240414</id>
-    <updated>2025-05-04T22:05:52.927390+00:00</updated>
+    <updated>2025-05-06T04:56:44.834841+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240414</summary>
   </entry>
   <entry>
     <title>Krankenhausabrechnung: Anwaltskosten im Erörterungsverfahren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240415/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240415</id>
-    <updated>2025-05-04T22:05:52.927396+00:00</updated>
+    <updated>2025-05-06T04:56:44.834849+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240415</summary>
   </entry>
   <entry>
     <title>Krankenhausbehandlung bei fehlendem stationären Hospiz-Platz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240416/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240416</id>
-    <updated>2025-05-04T22:05:52.927400+00:00</updated>
+    <updated>2025-05-06T04:56:44.834854+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240416</summary>
   </entry>
   <entry>
     <title>Rauschmittelgebrauch durch Krankenschwester</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240417/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240417</id>
-    <updated>2025-05-04T22:05:52.927405+00:00</updated>
+    <updated>2025-05-06T04:56:44.834860+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240417</summary>
   </entry>
   <entry>
     <title>Klassifizierung einer dermatologischen Diagnose-App</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240418/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240418</id>
-    <updated>2025-05-04T22:05:52.927409+00:00</updated>
+    <updated>2025-05-06T04:56:44.834874+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240418</summary>
   </entry>
   <entry>
     <title>Behandlung eines Kindes mit Variante der Geschlechtsentwicklung (AGS)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240419/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240419</id>
-    <updated>2025-05-04T22:05:52.927414+00:00</updated>
+    <updated>2025-05-06T04:56:44.834884+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/gesr-2025-240419</summary>
   </entry>
   <entry>
     <title>Peter Kostorz, Recht in der Pflege</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/gesr-2025-240420/html"/>
     <id>https://doi.org/10.9785/gesr-2025-240420</id>
-    <updated>2025-05-04T22:05:52.927419+00:00</updated>
+    <updated>2025-05-06T04:56:44.834889+00:00</updated>
     <summary>Article by Gerhard Igl
 DOI: https://doi.org/10.9785/gesr-2025-240420</summary>
   </entry>

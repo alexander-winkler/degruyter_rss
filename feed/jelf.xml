@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of English as a Lingua Franca</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jelf/13/2/html"/>
-  <updated>2025-05-04T22:07:48.999120+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jelf/13/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jelf.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jelf/html" rel="related"/>
+  <updated>2025-05-06T04:59:21.429088+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jelf.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of English as a Lingua Franca</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jelf.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jelf-2024-frontmatter2</id>
-    <updated>2025-05-04T22:07:48.999144+00:00</updated>
+    <updated>2025-05-06T04:59:21.429111+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jelf-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Competing for the floor towards a common goal: a focus on the functions of adversative markers in simultaneous sequences in BELF encounters</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2024-2015/html"/>
     <id>https://doi.org/10.1515/jelf-2024-2015</id>
-    <updated>2025-05-04T22:07:48.999153+00:00</updated>
+    <updated>2025-05-06T04:59:21.429121+00:00</updated>
     <summary>Article by Valeria Franceschi
 DOI: https://doi.org/10.1515/jelf-2024-2015</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jelf-2024-2015</summary>
     <title>Exploring the feasibility of incorporating ELFA awareness into the development of EAP pedagogy in a UK pre-sessional course</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2025-2001/html"/>
     <id>https://doi.org/10.1515/jelf-2025-2001</id>
-    <updated>2025-05-04T22:07:48.999163+00:00</updated>
+    <updated>2025-05-06T04:59:21.429131+00:00</updated>
     <summary>Article by Lu Liu
 DOI: https://doi.org/10.1515/jelf-2025-2001</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jelf-2025-2001</summary>
     <title>Signalling the loopholes and spreading the trampoline: a relevance-theoretic perspective on ELF communication</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2025-2003/html"/>
     <id>https://doi.org/10.1515/jelf-2025-2003</id>
-    <updated>2025-05-04T22:07:48.999171+00:00</updated>
+    <updated>2025-05-06T04:59:21.429138+00:00</updated>
     <summary>Article by Elena Salakhyan
 DOI: https://doi.org/10.1515/jelf-2025-2003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jelf-2025-2003</summary>
     <title>ELF speakers’ expert use of humor: catalyzing rapport in initial intercultural online video chat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2024-2014/html"/>
     <id>https://doi.org/10.1515/jelf-2024-2014</id>
-    <updated>2025-05-04T22:07:48.999179+00:00</updated>
+    <updated>2025-05-06T04:59:21.429148+00:00</updated>
     <summary>Article by Bingbing Lin, Jagdish Kaur
 DOI: https://doi.org/10.1515/jelf-2024-2014</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jelf-2024-2014</summary>
     <title>English as a lingua franca in academic publishing: using round-trip translation to estimate linguistic revision difficulty</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2025-2002/html"/>
     <id>https://doi.org/10.1515/jelf-2025-2002</id>
-    <updated>2025-05-04T22:07:48.999186+00:00</updated>
+    <updated>2025-05-06T04:59:21.429157+00:00</updated>
     <summary>Article by Novella Tedesco, Silvia Bernardini, Federico Garcea
 DOI: https://doi.org/10.1515/jelf-2025-2002</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jelf-2025-2002</summary>
     <title>Rudwick, Stephanie:The ambiguity of English as a Lingua Franca: Politics of language and race in South Africa</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2025-2004/html"/>
     <id>https://doi.org/10.1515/jelf-2025-2004</id>
-    <updated>2025-05-04T22:07:48.999193+00:00</updated>
+    <updated>2025-05-06T04:59:21.429164+00:00</updated>
     <summary>Article by Manal Ideis El Alam
 DOI: https://doi.org/10.1515/jelf-2025-2004</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jelf-2025-2004</summary>
     <title>Sardegna, Veronica G. and Anna Jarosz:English pronunciation teaching: Theory, practice and research findings</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2025-2005/html"/>
     <id>https://doi.org/10.1515/jelf-2025-2005</id>
-    <updated>2025-05-04T22:07:48.999200+00:00</updated>
+    <updated>2025-05-06T04:59:21.429172+00:00</updated>
     <summary>Article by Xavier Martin-Rubió
 DOI: https://doi.org/10.1515/jelf-2025-2005</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jelf-2025-2005</summary>
     <title>Mendoza, Anna:Translanguaging and English as a Lingua Franca in the plurilingual classroom</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jelf-2025-2006/html"/>
     <id>https://doi.org/10.1515/jelf-2025-2006</id>
-    <updated>2025-05-04T22:07:48.999207+00:00</updated>
+    <updated>2025-05-06T04:59:21.429179+00:00</updated>
     <summary>Article by Silvia Mª Bravo Palomares
 DOI: https://doi.org/10.1515/jelf-2025-2006</summary>
   </entry>

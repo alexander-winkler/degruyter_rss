@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Medizinische Genetik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/medgen/37/2/html"/>
-  <updated>2025-05-04T22:09:44.400500+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/medgen/37/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/medgen.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/medgen/html" rel="related"/>
+  <updated>2025-05-06T05:02:00.910852+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/medgen.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Medizinische Genetik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/medgen.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/medgen-2025-frontmatter2</id>
-    <updated>2025-05-04T22:09:44.400535+00:00</updated>
+    <updated>2025-05-06T05:02:00.910889+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/medgen-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>The role of genetics in inherited cardiac diseases</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2004/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2004</id>
-    <updated>2025-05-04T22:09:44.400546+00:00</updated>
+    <updated>2025-05-06T05:02:00.910899+00:00</updated>
     <summary>Article by Gudrun Rappold, Bernd Wollnik
 DOI: https://doi.org/10.1515/medgen-2025-2004</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/medgen-2025-2004</summary>
     <title>Current and future diagnostics of congenital heart disease (CHD)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2008/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2008</id>
-    <updated>2025-05-04T22:09:44.400555+00:00</updated>
+    <updated>2025-05-06T05:02:00.910910+00:00</updated>
     <summary>Article by Marc-Phillip Hitz, Gregor Dombrowsky, Nico Melnik, Chiara Vey
 DOI: https://doi.org/10.1515/medgen-2025-2008</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/medgen-2025-2008</summary>
     <title>Understanding inherited cardiomyopathies: clinical aspects and genetic determinants</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2007/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2007</id>
-    <updated>2025-05-04T22:09:44.400563+00:00</updated>
+    <updated>2025-05-06T05:02:00.910919+00:00</updated>
     <summary>Article by Gökhan Yigit, Silke Kaulfuß, Bernd Wollnik
 DOI: https://doi.org/10.1515/medgen-2025-2007</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/medgen-2025-2007</summary>
     <title>Cardiovascular aspects of Noonan syndrome and related disorders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2010/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2010</id>
-    <updated>2025-05-04T22:09:44.400571+00:00</updated>
+    <updated>2025-05-06T05:02:00.910932+00:00</updated>
     <summary>Article by Martin Zenker, Cordula M. Wolf
 DOI: https://doi.org/10.1515/medgen-2025-2010</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/medgen-2025-2010</summary>
     <title>Cardiac arrhythmias and genetics – current stage</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2006/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2006</id>
-    <updated>2025-05-04T22:09:44.400578+00:00</updated>
+    <updated>2025-05-06T05:02:00.910942+00:00</updated>
     <summary>Article by Schulze-Bahr, Sven Dittmann, Janis Kerkering
 DOI: https://doi.org/10.1515/medgen-2025-2006</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/medgen-2025-2006</summary>
     <title>Advances in human induced pluripotent stem cell (hiPSC)-based disease modelling in cardiogenetics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2009/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2009</id>
-    <updated>2025-05-04T22:09:44.400586+00:00</updated>
+    <updated>2025-05-06T05:02:00.910951+00:00</updated>
     <summary>Article by Sandra Hoffmann, Timon Seeger
 DOI: https://doi.org/10.1515/medgen-2025-2009</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/medgen-2025-2009</summary>
     <title>Disease mechanism and novel drug therapies for atrial fibrillation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2005/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2005</id>
-    <updated>2025-05-04T22:09:44.400593+00:00</updated>
+    <updated>2025-05-06T05:02:00.910959+00:00</updated>
     <summary>Article by Constanze Schmidt, Felix Wiedmann
 DOI: https://doi.org/10.1515/medgen-2025-2005</summary>
   </entry>
@@ -78,14 +75,14 @@ DOI: https://doi.org/10.1515/medgen-2025-2005</summary>
     <title>S1-Leitlinie zum „pränatalen Schnelltest“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2011/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2011</id>
-    <updated>2025-05-04T22:09:44.400600+00:00</updated>
+    <updated>2025-05-06T05:02:00.910968+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/medgen-2025-2011</summary>
   </entry>
   <entry>
     <title>Corrigendum to: Long-term experience with gene augmentation therapy in patients with inherited retinal disease associated with biallelic mutations in RPE65</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2012/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2012</id>
-    <updated>2025-05-04T22:09:44.400607+00:00</updated>
+    <updated>2025-05-06T05:02:00.910976+00:00</updated>
     <summary>Article by Birgit Lorenz
 DOI: https://doi.org/10.1515/medgen-2025-2012</summary>
   </entry>
@@ -93,14 +90,14 @@ DOI: https://doi.org/10.1515/medgen-2025-2012</summary>
     <title>S1-Leitlinie zum „pränatalen Schnelltest“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2011/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2011</id>
-    <updated>2025-05-04T22:09:44.400616+00:00</updated>
+    <updated>2025-05-06T05:02:00.910985+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/medgen-2025-2011</summary>
   </entry>
   <entry>
     <title>Corrigendum to: Long-term experience with gene augmentation therapy in patients with inherited retinal disease associated with biallelic mutations in RPE65</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/medgen-2025-2012/html"/>
     <id>https://doi.org/10.1515/medgen-2025-2012</id>
-    <updated>2025-05-04T22:09:44.400622+00:00</updated>
+    <updated>2025-05-06T05:02:00.910993+00:00</updated>
     <summary>Article by Birgit Lorenz
 DOI: https://doi.org/10.1515/medgen-2025-2012</summary>
   </entry>

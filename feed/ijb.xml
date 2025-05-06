@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The International Journal of Biostatistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijb/20/2/html"/>
-  <updated>2025-05-04T22:06:37.227354+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ijb/20/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijb.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijb/html" rel="related"/>
+  <updated>2025-05-06T04:57:44.940499+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The International Journal of Biostatistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijb.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/ijb-2024-frontmatter2</id>
-    <updated>2025-05-04T22:06:37.227387+00:00</updated>
+    <updated>2025-05-06T04:57:44.940524+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ijb-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Random forests for survival data: which methods work best and under what conditions?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0056/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0056</id>
-    <updated>2025-05-04T22:06:37.227401+00:00</updated>
+    <updated>2025-05-06T04:57:44.940533+00:00</updated>
     <summary>Article by Matthew Berkowitz, Rachel MacKay Altman, Thomas M. Loughin
 DOI: https://doi.org/10.1515/ijb-2023-0056</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0056</summary>
     <title>Flexible variable selection in the presence of missing data</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0059/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0059</id>
-    <updated>2025-05-04T22:06:37.227409+00:00</updated>
+    <updated>2025-05-06T04:57:44.940543+00:00</updated>
     <summary>Article by Brian D. Williamson, Ying Huang
 DOI: https://doi.org/10.1515/ijb-2023-0059</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0059</summary>
     <title>An interpretable cluster-based logistic regression model, with application to the characterization of response to therapy in severe eosinophilic asthma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0061/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0061</id>
-    <updated>2025-05-04T22:06:37.227416+00:00</updated>
+    <updated>2025-05-06T04:57:44.940552+00:00</updated>
     <summary>Article by Massimo Bilancia, Andrea Nigri, Barbara Cafarelli, Danilo Di Bona
 DOI: https://doi.org/10.1515/ijb-2023-0061</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0061</summary>
     <title>MBPCA-OS: an exploratory multiblock method for variables of different measurement levels. Application to study the immune response to SARS-CoV-2 infection and vaccination</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0062/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0062</id>
-    <updated>2025-05-04T22:06:37.227423+00:00</updated>
+    <updated>2025-05-06T04:57:44.940560+00:00</updated>
     <summary>Article by Martin Paries, Evelyne Vigneau, Adeline Huneau, Olivier Lantz, Stéphanie Bougeard
 DOI: https://doi.org/10.1515/ijb-2023-0062</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0062</summary>
     <title>Detecting differentially expressed genes from RNA-seq data using fuzzy clustering</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0125/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0125</id>
-    <updated>2025-05-04T22:06:37.227430+00:00</updated>
+    <updated>2025-05-06T04:57:44.940570+00:00</updated>
     <summary>Article by Yuki Ando, Asanao Shimokawa
 DOI: https://doi.org/10.1515/ijb-2023-0125</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0125</summary>
     <title>Hypothesis testing for detecting outlier evaluators</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0004/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0004</id>
-    <updated>2025-05-04T22:06:37.227436+00:00</updated>
+    <updated>2025-05-06T04:57:44.940579+00:00</updated>
     <summary>Article by Li Xu, David M. Zucker, Molin Wang
 DOI: https://doi.org/10.1515/ijb-2023-0004</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0004</summary>
     <title>Response to comments on ‘sensitivity of estimands in clinical trials with imperfect compliance’</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2024-0013/html"/>
     <id>https://doi.org/10.1515/ijb-2024-0013</id>
-    <updated>2025-05-04T22:06:37.227443+00:00</updated>
+    <updated>2025-05-06T04:57:44.940587+00:00</updated>
     <summary>Article by Heng Chen, Daniel F. Heitjan
 DOI: https://doi.org/10.1515/ijb-2024-0013</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ijb-2024-0013</summary>
     <title>Optimizing personalized treatments for targeted patient populations across multiple domains</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2024-0068/html"/>
     <id>https://doi.org/10.1515/ijb-2024-0068</id>
-    <updated>2025-05-04T22:06:37.227449+00:00</updated>
+    <updated>2025-05-06T04:57:44.940594+00:00</updated>
     <summary>Article by Yuan Chen, Donglin Zeng, Yuanjia Wang
 DOI: https://doi.org/10.1515/ijb-2024-0068</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/ijb-2024-0068</summary>
     <title>Statistical models for assessing agreement for quantitative data with heterogeneous random raters and replicate measurements</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0037/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0037</id>
-    <updated>2025-05-04T22:06:37.227455+00:00</updated>
+    <updated>2025-05-06T04:57:44.940602+00:00</updated>
     <summary>Article by Claus Thorn Ekstrøm, Bendix Carstensen
 DOI: https://doi.org/10.1515/ijb-2023-0037</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0037</summary>
     <title>History-restricted marginal structural model and latent class growth analysis of treatment trajectories for a time-dependent outcome</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0116/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0116</id>
-    <updated>2025-05-04T22:06:37.227461+00:00</updated>
+    <updated>2025-05-06T04:57:44.940611+00:00</updated>
     <summary>Article by Awa Diop, Caroline Sirois, Jason R. Guertin, Mireille E. Schnitzer, James M. Brophy, Claudia Blais, Denis Talbot
 DOI: https://doi.org/10.1515/ijb-2023-0116</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0116</summary>
     <title>Revisiting incidence rates comparison under right censorship</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0025/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0025</id>
-    <updated>2025-05-04T22:06:37.227467+00:00</updated>
+    <updated>2025-05-06T04:57:44.940618+00:00</updated>
     <summary>Article by Pablo Martínez-Camblor, Susana Díaz-Coto
 DOI: https://doi.org/10.1515/ijb-2023-0025</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0025</summary>
     <title>Ensemble learning methods of inference for spatially stratified infectious disease systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0102/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0102</id>
-    <updated>2025-05-04T22:06:37.227474+00:00</updated>
+    <updated>2025-05-06T04:57:44.940625+00:00</updated>
     <summary>Article by Jeffrey Peitsch, Gyanendra Pokharel, Shakhawat Hossain
 DOI: https://doi.org/10.1515/ijb-2023-0102</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0102</summary>
     <title>The survival function NPMLE for combined right-censored and length-biased right-censored failure time data: properties and applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0121/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0121</id>
-    <updated>2025-05-04T22:06:37.227480+00:00</updated>
+    <updated>2025-05-06T04:57:44.940634+00:00</updated>
     <summary>Article by James H. McVittie, David B. Wolfson, David A. Stephens
 DOI: https://doi.org/10.1515/ijb-2023-0121</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0121</summary>
     <title>Hybrid classical-Bayesian approach to sample size determination for two-arm superiority clinical trials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0050/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0050</id>
-    <updated>2025-05-04T22:06:37.227486+00:00</updated>
+    <updated>2025-05-06T04:57:44.940641+00:00</updated>
     <summary>Article by Valeria Sambucini
 DOI: https://doi.org/10.1515/ijb-2023-0050</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0050</summary>
     <title>Estimation of a decreasing mean residual life based on ranked set sampling with an application to survival analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0051/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0051</id>
-    <updated>2025-05-04T22:06:37.227492+00:00</updated>
+    <updated>2025-05-06T04:57:44.940648+00:00</updated>
     <summary>Article by Elham Zamanzade, Ehsan Zamanzade, Afshin Parvardeh
 DOI: https://doi.org/10.1515/ijb-2023-0051</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0051</summary>
     <title>Improving the mixed model for repeated measures to robustly increase precision in randomized trials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2022-0101/html"/>
     <id>https://doi.org/10.1515/ijb-2022-0101</id>
-    <updated>2025-05-04T22:06:37.227498+00:00</updated>
+    <updated>2025-05-06T04:57:44.940655+00:00</updated>
     <summary>Article by Bingkai Wang, Yu Du
 DOI: https://doi.org/10.1515/ijb-2022-0101</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/ijb-2022-0101</summary>
     <title>Bayesian second-order sensitivity of longitudinal inferences to non-ignorability: an application to antidepressant clinical trial data</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2022-0014/html"/>
     <id>https://doi.org/10.1515/ijb-2022-0014</id>
-    <updated>2025-05-04T22:06:37.227505+00:00</updated>
+    <updated>2025-05-06T04:57:44.940662+00:00</updated>
     <summary>Article by Elahe Momeni Roochi, Samaneh Eftekhari Mahabadi
 DOI: https://doi.org/10.1515/ijb-2022-0014</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/ijb-2022-0014</summary>
     <title>A modified rule of three for the one-sided binomial confidence interval</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2022-0061/html"/>
     <id>https://doi.org/10.1515/ijb-2022-0061</id>
-    <updated>2025-05-04T22:06:37.227511+00:00</updated>
+    <updated>2025-05-06T04:57:44.940670+00:00</updated>
     <summary>Article by Lonnie Turpin, Jeanne-Claire Patin, William Jens, Morgan Turpin
 DOI: https://doi.org/10.1515/ijb-2022-0061</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/ijb-2022-0061</summary>
     <title>Kalman filter with impulse noised outliers: a robust sequential algorithm to filter data with a large number of outliers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0065/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0065</id>
-    <updated>2025-05-04T22:06:37.227517+00:00</updated>
+    <updated>2025-05-06T04:57:44.940678+00:00</updated>
     <summary>Article by Bertrand Cloez, Bénédicte Fontez, Eliel González-García, Isabelle Sanchez
 DOI: https://doi.org/10.1515/ijb-2023-0065</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/ijb-2023-0065</summary>
     <title>Bayesian estimation and prediction for network meta-analysis with contrast-based approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2022-0121/html"/>
     <id>https://doi.org/10.1515/ijb-2022-0121</id>
-    <updated>2025-05-04T22:06:37.227523+00:00</updated>
+    <updated>2025-05-06T04:57:44.940686+00:00</updated>
     <summary>Article by Hisashi Noma
 DOI: https://doi.org/10.1515/ijb-2022-0121</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/ijb-2022-0121</summary>
     <title>Testing for association between ordinal traits and genetic variants in pedigree-structured samples by collapsing and kernel methods</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2022-0123/html"/>
     <id>https://doi.org/10.1515/ijb-2022-0123</id>
-    <updated>2025-05-04T22:06:37.227529+00:00</updated>
+    <updated>2025-05-06T04:57:44.940695+00:00</updated>
     <summary>Article by Li-Chu Chien
 DOI: https://doi.org/10.1515/ijb-2022-0123</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/ijb-2022-0123</summary>
     <title>Comments on “sensitivity of estimands in clinical trials with imperfect compliance” by Chen and Heitjan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijb-2023-0127/html"/>
     <id>https://doi.org/10.1515/ijb-2023-0127</id>
-    <updated>2025-05-04T22:06:37.227534+00:00</updated>
+    <updated>2025-05-06T04:57:44.940702+00:00</updated>
     <summary>Article by Stuart G. Baker, Karen S. Lindeman
 DOI: https://doi.org/10.1515/ijb-2023-0127</summary>
   </entry>

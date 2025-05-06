@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Millennium</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mjb/21/1/html"/>
-  <updated>2025-05-04T22:09:49.459698+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/mjb/21/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mjb.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mjb/html" rel="related"/>
+  <updated>2025-05-06T05:02:07.804618+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mjb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Millennium</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mjb.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/mill-2024-frontmatter1</id>
-    <updated>2025-05-04T22:09:49.459747+00:00</updated>
+    <updated>2025-05-06T05:02:07.804646+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/mill-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/mill-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:49.459756+00:00</updated>
+    <updated>2025-05-06T05:02:07.804652+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/mill-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Abkürzungen (Editionen, Zeitschriften, Reihen, Nachschlagewerke)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0001/html"/>
     <id>https://doi.org/10.1515/mill-2024-0001</id>
-    <updated>2025-05-04T22:09:49.459764+00:00</updated>
+    <updated>2025-05-06T05:02:07.804663+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/mill-2024-0001</summary>
   </entry>
   <entry>
     <title>In memoriam Wolf Liebeschuetz (1927 – 2022)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0002/html"/>
     <id>https://doi.org/10.1515/mill-2024-0002</id>
-    <updated>2025-05-04T22:09:49.459775+00:00</updated>
+    <updated>2025-05-06T05:02:07.804667+00:00</updated>
     <summary>Article by Hans-Ulrich Wiemer
 DOI: https://doi.org/10.1515/mill-2024-0002</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.1515/mill-2024-0002</summary>
     <title>Gauls in the Roman Senate: A Rhetorical Analysis of Claudius’ Speech Preserved on theTabula Lugdunensis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0003/html"/>
     <id>https://doi.org/10.1515/mill-2024-0003</id>
-    <updated>2025-05-04T22:09:49.459784+00:00</updated>
+    <updated>2025-05-06T05:02:07.804673+00:00</updated>
     <summary>Article by Casper de Jonge
 DOI: https://doi.org/10.1515/mill-2024-0003</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.1515/mill-2024-0003</summary>
     <title>The Apocalypse of Peter as the Origin of the Christian Hell. Sense and Purpose of the Afterlife Punishment in Fire</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0004/html"/>
     <id>https://doi.org/10.1515/mill-2024-0004</id>
-    <updated>2025-05-04T22:09:49.459795+00:00</updated>
+    <updated>2025-05-06T05:02:07.804681+00:00</updated>
     <summary>Article by Nikolai Kiel
 DOI: https://doi.org/10.1515/mill-2024-0004</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.1515/mill-2024-0004</summary>
     <title>Asymmetrische Gegenbegriffe in Laktanz’ ‚Politischer Theologie‘</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0005/html"/>
     <id>https://doi.org/10.1515/mill-2024-0005</id>
-    <updated>2025-05-04T22:09:49.459803+00:00</updated>
+    <updated>2025-05-06T05:02:07.804928+00:00</updated>
     <summary>Article by Marian Nebelin
 DOI: https://doi.org/10.1515/mill-2024-0005</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.1515/mill-2024-0005</summary>
     <title>Reichenauiensis.Ein verlorener Reichenauer Codex und seine Bedeutung für die Textkonstitution der Chronik Prospers, der Chronik Cassiodors, derContinuatio Reichenauiensisund desLaterculus Vandalorummitsamt einer Neuedition derFasti Augustani</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0006/html"/>
     <id>https://doi.org/10.1515/mill-2024-0006</id>
-    <updated>2025-05-04T22:09:49.459811+00:00</updated>
+    <updated>2025-05-06T05:02:07.804940+00:00</updated>
     <summary>Article by Niklas Fröhlich
 DOI: https://doi.org/10.1515/mill-2024-0006</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.1515/mill-2024-0006</summary>
     <title>Das Glück der schönen Mädchen? Überlegungen zu einem spätantiken Kerkergraffito aus Korinth (IG IV23, 1274)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0007/html"/>
     <id>https://doi.org/10.1515/mill-2024-0007</id>
-    <updated>2025-05-04T22:09:49.459822+00:00</updated>
+    <updated>2025-05-06T05:02:07.804945+00:00</updated>
     <summary>Article by Katharina Wojciech
 DOI: https://doi.org/10.1515/mill-2024-0007</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.1515/mill-2024-0007</summary>
     <title>Chalcedonian Bishops in the ‘Pagan Affair’ of 580</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0008/html"/>
     <id>https://doi.org/10.1515/mill-2024-0008</id>
-    <updated>2025-05-04T22:09:49.459829+00:00</updated>
+    <updated>2025-05-06T05:02:07.804950+00:00</updated>
     <summary>Article by Silvio Roggo
 DOI: https://doi.org/10.1515/mill-2024-0008</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.1515/mill-2024-0008</summary>
     <title>Thalassokratie, ein Leitprinzip byzantinischer Machtpolitik (6.–11. Jahrhundert)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/mill-2024-0009/html"/>
     <id>https://doi.org/10.1515/mill-2024-0009</id>
-    <updated>2025-05-04T22:09:49.459836+00:00</updated>
+    <updated>2025-05-06T05:02:07.804955+00:00</updated>
     <summary>Article by Ewald Kislinger
 DOI: https://doi.org/10.1515/mill-2024-0009</summary>
   </entry>

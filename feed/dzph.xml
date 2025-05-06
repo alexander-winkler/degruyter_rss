@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Deutsche Zeitschrift für Philosophie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dzph/72/5/html"/>
-  <updated>2025-05-04T22:04:51.619424+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/dzph/72/5/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dzph/html" rel="related"/>
+  <updated>2025-05-06T04:55:19.615124+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Deutsche Zeitschrift für Philosophie</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dzph.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-frontmatter5/html"/>
     <id>https://doi.org/10.1515/dzph-2024-frontmatter5</id>
-    <updated>2025-05-04T22:04:51.619448+00:00</updated>
+    <updated>2025-05-06T04:55:19.615141+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dzph-2024-frontmatter5</summary>
   </entry>
   <entry>
     <title>Das Ukraine-Dilemma, die Lehre vom gerechten Krieg und der Pazifismus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0047/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0047</id>
-    <updated>2025-05-04T22:04:51.619456+00:00</updated>
+    <updated>2025-05-06T04:55:19.615146+00:00</updated>
     <summary>Article by Ulrich Steinvorth
 DOI: https://doi.org/10.1515/dzph-2024-0047</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0047</summary>
     <title>Carnap und Heidegger</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0048/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0048</id>
-    <updated>2025-05-04T22:04:51.619467+00:00</updated>
+    <updated>2025-05-06T04:55:19.615154+00:00</updated>
     <summary>Article by Christian Damböck
 DOI: https://doi.org/10.1515/dzph-2024-0048</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0048</summary>
     <title>Einleitung: Krise und Zukunft der Religionsphilosophie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0049/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0049</id>
-    <updated>2025-05-04T22:04:51.619474+00:00</updated>
+    <updated>2025-05-06T04:55:19.615158+00:00</updated>
     <summary>Article by Sebastian Gäb, Georg Gasser
 DOI: https://doi.org/10.1515/dzph-2024-0049</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0049</summary>
     <title>Zwischen Kontingenzeinsicht und Geltungsbegehren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0050/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0050</id>
-    <updated>2025-05-04T22:04:51.619481+00:00</updated>
+    <updated>2025-05-06T04:55:19.615162+00:00</updated>
     <summary>Article by Annette Langner-Pitschmann
 DOI: https://doi.org/10.1515/dzph-2024-0050</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0050</summary>
     <title>Gott nicht-personal gedacht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0051/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0051</id>
-    <updated>2025-05-04T22:04:51.619488+00:00</updated>
+    <updated>2025-05-06T04:55:19.615166+00:00</updated>
     <summary>Article by Georg Gasser
 DOI: https://doi.org/10.1515/dzph-2024-0051</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0051</summary>
     <title>Globale Religionsphilosophie und die notorische Unklarheit des Religionsbegriffs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0052/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0052</id>
-    <updated>2025-05-04T22:04:51.619495+00:00</updated>
+    <updated>2025-05-06T04:55:19.615170+00:00</updated>
     <summary>Article by Sebastian Gäb
 DOI: https://doi.org/10.1515/dzph-2024-0052</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0052</summary>
     <title>Materialismus im feministischen und queeren Denken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0053/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0053</id>
-    <updated>2025-05-04T22:04:51.619501+00:00</updated>
+    <updated>2025-05-06T04:55:19.615174+00:00</updated>
     <summary>Article by Cornelia Möser
 DOI: https://doi.org/10.1515/dzph-2024-0053</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0053</summary>
     <title>Lässt sich der Fortschrittsbegriff retten?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0054/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0054</id>
-    <updated>2025-05-04T22:04:51.619508+00:00</updated>
+    <updated>2025-05-06T04:55:19.615178+00:00</updated>
     <summary>Article by Peter Dews
 DOI: https://doi.org/10.1515/dzph-2024-0054</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0054</summary>
     <title>Ist Lügen wie Schachspielen?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0055/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0055</id>
-    <updated>2025-05-04T22:04:51.619515+00:00</updated>
+    <updated>2025-05-06T04:55:19.615182+00:00</updated>
     <summary>Article by Maike Albertzart
 DOI: https://doi.org/10.1515/dzph-2024-0055</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0055</summary>
     <title>Sex im Patriarchat oder: Wir müssen reden!</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0056/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0056</id>
-    <updated>2025-05-04T22:04:51.619522+00:00</updated>
+    <updated>2025-05-06T04:55:19.615188+00:00</updated>
     <summary>Article by Christine Bratu, Carlo Backer, Sarah Elizabeth Riemann
 DOI: https://doi.org/10.1515/dzph-2024-0056</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/dzph-2024-0056</summary>
     <title>Die Theorie der Person als Morphologie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dzph-2024-0057/html"/>
     <id>https://doi.org/10.1515/dzph-2024-0057</id>
-    <updated>2025-05-04T22:04:51.619529+00:00</updated>
+    <updated>2025-05-06T04:55:19.615192+00:00</updated>
     <summary>Article by Martin Hoffmann
 DOI: https://doi.org/10.1515/dzph-2024-0057</summary>
   </entry>

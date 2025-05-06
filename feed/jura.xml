@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>JURA - Juristische Ausbildung</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jura/47/5/html"/>
-  <updated>2025-05-04T22:08:52.721618+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jura/47/5/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jura.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jura/html" rel="related"/>
+  <updated>2025-05-06T05:00:50.260479+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jura.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in JURA - Juristische Ausbildung</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jura.xml" type="application/rss+xml"/>
   <entry>
     <title>JURA INFO</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2050/html"/>
     <id>https://doi.org/10.1515/jura-2025-2050</id>
-    <updated>2025-05-04T22:08:52.721643+00:00</updated>
+    <updated>2025-05-06T05:00:50.260496+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jura-2025-2050</summary>
   </entry>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-frontmatter5/html"/>
     <id>https://doi.org/10.1515/jura-2025-frontmatter5</id>
-    <updated>2025-05-04T22:08:52.721650+00:00</updated>
+    <updated>2025-05-06T05:00:50.260503+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jura-2025-frontmatter5</summary>
   </entry>
   <entry>
     <title>Niemals geht man so ganz: Zum 50. Geburtstag des Radikalenbeschlusses des Bundesverfassungsgerichts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2029/html"/>
     <id>https://doi.org/10.1515/jura-2025-2029</id>
-    <updated>2025-05-04T22:08:52.721659+00:00</updated>
+    <updated>2025-05-06T05:00:50.260509+00:00</updated>
     <summary>Article by Thorsten Kingreen
 DOI: https://doi.org/10.1515/jura-2025-2029</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/jura-2025-2029</summary>
     <title>40 Jahre »Brokdorf-Beschluss« (BVerfGE 69, 315)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2036/html"/>
     <id>https://doi.org/10.1515/jura-2025-2036</id>
-    <updated>2025-05-04T22:08:52.721666+00:00</updated>
+    <updated>2025-05-06T05:00:50.260516+00:00</updated>
     <summary>Article by Zachariasz Hussendörfer
 DOI: https://doi.org/10.1515/jura-2025-2036</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/jura-2025-2036</summary>
     <title>Vorläufige Erbenstellung (Teil 1)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2003/html"/>
     <id>https://doi.org/10.1515/jura-2025-2003</id>
-    <updated>2025-05-04T22:08:52.721673+00:00</updated>
+    <updated>2025-05-06T05:00:50.260523+00:00</updated>
     <summary>Article by Arndt Dietrich, Nicolas Traut
 DOI: https://doi.org/10.1515/jura-2025-2003</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/jura-2025-2003</summary>
     <title>Nachhaltigkeit und Vertragsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2039/html"/>
     <id>https://doi.org/10.1515/jura-2025-2039</id>
-    <updated>2025-05-04T22:08:52.721679+00:00</updated>
+    <updated>2025-05-06T05:00:50.260529+00:00</updated>
     <summary>Article by Michael Stürner
 DOI: https://doi.org/10.1515/jura-2025-2039</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/jura-2025-2039</summary>
     <title>Großveranstaltungen in der Kommune</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2013/html"/>
     <id>https://doi.org/10.1515/jura-2025-2013</id>
-    <updated>2025-05-04T22:08:52.721688+00:00</updated>
+    <updated>2025-05-06T05:00:50.260535+00:00</updated>
     <summary>Article by Ulrich Stelkens, Sebastian Baur
 DOI: https://doi.org/10.1515/jura-2025-2013</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/jura-2025-2013</summary>
     <title>§ 840 III BGB – Reichweite und Grenzen eines deliktsrechtlichen Fremdkörpers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2024-2086/html"/>
     <id>https://doi.org/10.1515/jura-2024-2086</id>
-    <updated>2025-05-04T22:08:52.721694+00:00</updated>
+    <updated>2025-05-06T05:00:50.260541+00:00</updated>
     <summary>Article by Mats Huster, Connor Christensen
 DOI: https://doi.org/10.1515/jura-2024-2086</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/jura-2024-2086</summary>
     <title>ZR-Anfängerhausarbeit zum Allgemeinen Teil des BGB und zum Schuldrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2016/html"/>
     <id>https://doi.org/10.1515/jura-2025-2016</id>
-    <updated>2025-05-04T22:08:52.721704+00:00</updated>
+    <updated>2025-05-06T05:00:50.260547+00:00</updated>
     <summary>Article by Niklas Markowetz, Julius Kreibig
 DOI: https://doi.org/10.1515/jura-2025-2016</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/jura-2025-2016</summary>
     <title>ZR-Examensklausur zum Sachen- und Gesellschaftsrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2024-2209/html"/>
     <id>https://doi.org/10.1515/jura-2024-2209</id>
-    <updated>2025-05-04T22:08:52.721710+00:00</updated>
+    <updated>2025-05-06T05:00:50.260553+00:00</updated>
     <summary>Article by Paul Maier, Nikolai Stüttgen
 DOI: https://doi.org/10.1515/jura-2024-2209</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/jura-2024-2209</summary>
     <title>ÖR-Fortgeschrittenenhausarbeit zum Hochschulrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2020/html"/>
     <id>https://doi.org/10.1515/jura-2025-2020</id>
-    <updated>2025-05-04T22:08:52.721717+00:00</updated>
+    <updated>2025-05-06T05:00:50.260559+00:00</updated>
     <summary>Article by Tristan Wißgott, Hannah John
 DOI: https://doi.org/10.1515/jura-2025-2020</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/jura-2025-2020</summary>
     <title>ÖR-Examensklausur zum presserechtlichen Auskunftsanspruch</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2024-2231/html"/>
     <id>https://doi.org/10.1515/jura-2024-2231</id>
-    <updated>2025-05-04T22:08:52.721723+00:00</updated>
+    <updated>2025-05-06T05:00:50.260565+00:00</updated>
     <summary>Article by Jonas Lange, Nik Roeingh
 DOI: https://doi.org/10.1515/jura-2024-2231</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/jura-2024-2231</summary>
     <title>Bindung an die Stimmabgabe in einer Personengesellschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2055/html"/>
     <id>https://doi.org/10.1515/jura-2025-2055</id>
-    <updated>2025-05-04T22:08:52.721729+00:00</updated>
+    <updated>2025-05-06T05:00:50.260571+00:00</updated>
     <summary>Article by F. Möslein
 DOI: https://doi.org/10.1515/jura-2025-2055</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/jura-2025-2055</summary>
     <title>Inhaltskontrolle eines Ehevertrags: Sittenwidrigkeit eines Globalverzichts mit einer Schwangeren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2023/html"/>
     <id>https://doi.org/10.1515/jura-2025-2023</id>
-    <updated>2025-05-04T22:08:52.721735+00:00</updated>
+    <updated>2025-05-06T05:00:50.260579+00:00</updated>
     <summary>Article by S. Lettmaier
 DOI: https://doi.org/10.1515/jura-2025-2023</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/jura-2025-2023</summary>
     <title>Rückabwicklung eines über einen geleasten Pkw geschlossenen Kaufvertrags nach mangelbedingtem Rücktritt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2025/html"/>
     <id>https://doi.org/10.1515/jura-2025-2025</id>
-    <updated>2025-05-04T22:08:52.721743+00:00</updated>
+    <updated>2025-05-06T05:00:50.260585+00:00</updated>
     <summary>Article by M. Stürner
 DOI: https://doi.org/10.1515/jura-2025-2025</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/jura-2025-2025</summary>
     <title>Erforderlichkeit der Notwehr bei vermindert schuldfähigen Beteiligten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2041/html"/>
     <id>https://doi.org/10.1515/jura-2025-2041</id>
-    <updated>2025-05-04T22:08:52.721749+00:00</updated>
+    <updated>2025-05-06T05:00:50.260590+00:00</updated>
     <summary>Article by N. Bosch
 DOI: https://doi.org/10.1515/jura-2025-2041</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/jura-2025-2041</summary>
     <title>Trunkenheitsfahrt mit E-Scooter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2054/html"/>
     <id>https://doi.org/10.1515/jura-2025-2054</id>
-    <updated>2025-05-04T22:08:52.721758+00:00</updated>
+    <updated>2025-05-06T05:00:50.260596+00:00</updated>
     <summary>Article by N. Nestler
 DOI: https://doi.org/10.1515/jura-2025-2054</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/jura-2025-2054</summary>
     <title>Untersuchungshaft bei Schwerkriminalität</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2060/html"/>
     <id>https://doi.org/10.1515/jura-2025-2060</id>
-    <updated>2025-05-04T22:08:52.721764+00:00</updated>
+    <updated>2025-05-06T05:00:50.260602+00:00</updated>
     <summary>Article by N. Nestler
 DOI: https://doi.org/10.1515/jura-2025-2060</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/jura-2025-2060</summary>
     <title>Verbot des Tragens eines Niqabs beim Führen eines Kraftfahrzeugs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2024-2236/html"/>
     <id>https://doi.org/10.1515/jura-2024-2236</id>
-    <updated>2025-05-04T22:08:52.721769+00:00</updated>
+    <updated>2025-05-06T05:00:50.260607+00:00</updated>
     <summary>Article by T. Kingreen
 DOI: https://doi.org/10.1515/jura-2024-2236</summary>
   </entry>
@@ -165,7 +162,7 @@ DOI: https://doi.org/10.1515/jura-2024-2236</summary>
     <title>Wahl von Landtagsabgeordneten in den Rundfunkrat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2024-2237/html"/>
     <id>https://doi.org/10.1515/jura-2024-2237</id>
-    <updated>2025-05-04T22:08:52.721775+00:00</updated>
+    <updated>2025-05-06T05:00:50.260613+00:00</updated>
     <summary>Article by T. Kingreen
 DOI: https://doi.org/10.1515/jura-2024-2237</summary>
   </entry>
@@ -173,7 +170,7 @@ DOI: https://doi.org/10.1515/jura-2024-2237</summary>
     <title>Anspruch auf Zuteilung einer Adresse</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2042/html"/>
     <id>https://doi.org/10.1515/jura-2025-2042</id>
-    <updated>2025-05-04T22:08:52.721780+00:00</updated>
+    <updated>2025-05-06T05:00:50.260618+00:00</updated>
     <summary>Article by B.J. Hartmann
 DOI: https://doi.org/10.1515/jura-2025-2042</summary>
   </entry>
@@ -181,7 +178,7 @@ DOI: https://doi.org/10.1515/jura-2025-2042</summary>
     <title>Zugverkehrs-Sperrung als tiefgreifender Grundrechtseingriff zulasten des Versammlungsveranstalters?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jura-2025-2043/html"/>
     <id>https://doi.org/10.1515/jura-2025-2043</id>
-    <updated>2025-05-04T22:08:52.721786+00:00</updated>
+    <updated>2025-05-06T05:00:50.260624+00:00</updated>
     <summary>Article by B.J. Hartmann, L. Macketanz
 DOI: https://doi.org/10.1515/jura-2025-2043</summary>
   </entry>

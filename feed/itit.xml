@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>it - Information Technology</title>
-  <link href="https://www.degruyterbrill.com/journal/key/itit/66/6/html"/>
-  <updated>2025-05-04T22:07:07.963325+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/itit/66/6/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/itit.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/itit/html" rel="related"/>
+  <updated>2025-05-06T04:58:25.595908+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/itit.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in it - Information Technology</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/itit.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2024-frontmatter6/html"/>
     <id>https://doi.org/10.1515/itit-2024-frontmatter6</id>
-    <updated>2025-05-04T22:07:07.963356+00:00</updated>
+    <updated>2025-05-06T04:58:25.595937+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/itit-2024-frontmatter6</summary>
   </entry>
   <entry>
     <title>Kleine Fächer Digital</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2025-2001/html"/>
     <id>https://doi.org/10.1515/itit-2025-2001</id>
-    <updated>2025-05-04T22:07:07.963366+00:00</updated>
+    <updated>2025-05-06T04:58:25.595942+00:00</updated>
     <summary>Article by Tessa Gengnagel, Hubert Mara, Christian Schröter
 DOI: https://doi.org/10.1515/itit-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/itit-2025-2001</summary>
     <title>Discrete Morse theory segmentation on high-resolution 3D lithic artifacts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2023-0027/html"/>
     <id>https://doi.org/10.1515/itit-2023-0027</id>
-    <updated>2025-05-04T22:07:07.963377+00:00</updated>
+    <updated>2025-05-06T04:58:25.595948+00:00</updated>
     <summary>Article by Jan Philipp Bullenkamp, Theresa Kaiser, Florian Linsel, Susanne Krömker, Hubert Mara
 DOI: https://doi.org/10.1515/itit-2023-0027</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/itit-2023-0027</summary>
     <title>Signed, sealed, delivered – digital approaches to Byzantine sigillography</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2023-0030/html"/>
     <id>https://doi.org/10.1515/itit-2023-0030</id>
-    <updated>2025-05-04T22:07:07.963387+00:00</updated>
+    <updated>2025-05-06T04:58:25.595954+00:00</updated>
     <summary>Article by Claes Neuefeind, Jan Bigalke, Maria Teresa Catalano, Sviatoslav Drach, Sofia Efthymoglou, Pia Evening, Martina Filosa, Christos Malatras, Marcel Schaeben, Claudia Sode
 DOI: https://doi.org/10.1515/itit-2023-0030</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/itit-2023-0030</summary>
     <title>Matschoss 2.0 - Virtual machine collections as the missing link between museums and historic monuments</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2023-0113/html"/>
     <id>https://doi.org/10.1515/itit-2023-0113</id>
-    <updated>2025-05-04T22:07:07.963396+00:00</updated>
+    <updated>2025-05-06T04:58:25.595959+00:00</updated>
     <summary>Article by Erika Érsek, Maria Chizhova, Michael Hascher, Clarissa Kopanitsak
 DOI: https://doi.org/10.1515/itit-2023-0113</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/itit-2023-0113</summary>
     <title>A recursive encoding for cuneiform signs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2024-0067/html"/>
     <id>https://doi.org/10.1515/itit-2024-0067</id>
-    <updated>2025-05-04T22:07:07.963404+00:00</updated>
+    <updated>2025-05-06T04:58:25.595963+00:00</updated>
     <summary>Article by Daniel M. Stelzer
 DOI: https://doi.org/10.1515/itit-2024-0067</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/itit-2024-0067</summary>
     <title>A case study of the use of logical data analysis in the Workmen’s Village in Tell el-Amarna, Egypt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2024-0088/html"/>
     <id>https://doi.org/10.1515/itit-2024-0088</id>
-    <updated>2025-05-04T22:07:07.963413+00:00</updated>
+    <updated>2025-05-06T04:58:25.595967+00:00</updated>
     <summary>Article by Sarah M. Klasse, Marcus Weber
 DOI: https://doi.org/10.1515/itit-2024-0088</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/itit-2024-0088</summary>
     <title>Digital and computational archaeology in Germany</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/itit-2024-0091/html"/>
     <id>https://doi.org/10.1515/itit-2024-0091</id>
-    <updated>2025-05-04T22:07:07.963421+00:00</updated>
+    <updated>2025-05-06T04:58:25.595971+00:00</updated>
     <summary>Article by Sophie C. Schmidt, Sebastian Hageneuer
 DOI: https://doi.org/10.1515/itit-2024-0091</summary>
   </entry>

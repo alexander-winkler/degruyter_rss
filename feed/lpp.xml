@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lodz Papers in Pragmatics </title>
-  <link href="https://www.degruyterbrill.com/journal/key/lpp/20/2/html"/>
-  <updated>2025-05-04T22:09:27.964560+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/lpp/20/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lpp.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/lpp/html" rel="related"/>
+  <updated>2025-05-06T05:01:39.289395+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lpp.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Lodz Papers in Pragmatics </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/lpp.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/lpp-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:27.964585+00:00</updated>
+    <updated>2025-05-06T05:01:39.289425+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/lpp-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Introduction to the Special Issue: Pragmatics, digital content and opinions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0060/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0060</id>
-    <updated>2025-05-04T22:09:27.964594+00:00</updated>
+    <updated>2025-05-06T05:01:39.289435+00:00</updated>
     <summary>Article by Barbara Lewandowska-Tomaszczyk, Marcin Trojszczak
 DOI: https://doi.org/10.1515/lpp-2024-0060</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0060</summary>
     <title>Discursive news values analysis: the case of Liz Truss’ representation in the British press</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0032/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0032</id>
-    <updated>2025-05-04T22:09:27.964604+00:00</updated>
+    <updated>2025-05-06T05:01:39.289445+00:00</updated>
     <summary>Article by Ester Di Silvestro, Marco Venuti
 DOI: https://doi.org/10.1515/lpp-2024-0032</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0032</summary>
     <title>The case of romantic relationships: analysis of the use of metaphorical frames with ‘traditional family’ and related terms in political Telegram posts in three countries and three languages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0035/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0035</id>
-    <updated>2025-05-04T22:09:27.964614+00:00</updated>
+    <updated>2025-05-06T05:01:39.289455+00:00</updated>
     <summary>Article by Sviatlana Höhn
 DOI: https://doi.org/10.1515/lpp-2024-0035</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0035</summary>
     <title>Expressing anger on Mexican X/Twitter: the case of Uber customer complaints</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0033/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0033</id>
-    <updated>2025-05-04T22:09:27.964622+00:00</updated>
+    <updated>2025-05-06T05:01:39.289463+00:00</updated>
     <summary>Article by Hebe Powell, María Elena Placencia
 DOI: https://doi.org/10.1515/lpp-2024-0033</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0033</summary>
     <title>Expressing negative opinions through metaphor and simile in popular music reviews</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0036/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0036</id>
-    <updated>2025-05-04T22:09:27.964629+00:00</updated>
+    <updated>2025-05-06T05:01:39.289470+00:00</updated>
     <summary>Article by Marcin Trojszczak
 DOI: https://doi.org/10.1515/lpp-2024-0036</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0036</summary>
     <title>Slur reclamation, irony, and resilience</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0029/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0029</id>
-    <updated>2025-05-04T22:09:27.964636+00:00</updated>
+    <updated>2025-05-06T05:01:39.289478+00:00</updated>
     <summary>Article by Luigi Pavone
 DOI: https://doi.org/10.1515/lpp-2024-0029</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0029</summary>
     <title>What is the authentic internet register before &amp; after the Russian invasion in Ukraine? Polish and Czech YouTube comments from 2021–2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0026/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0026</id>
-    <updated>2025-05-04T22:09:27.964644+00:00</updated>
+    <updated>2025-05-06T05:01:39.289490+00:00</updated>
     <summary>Article by Aleksej Tikhonov
 DOI: https://doi.org/10.1515/lpp-2024-0026</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0026</summary>
     <title>Application of natural language processing for the recognition of obesity-related topics in the discourses of Argentine Twitter users</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0031/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0031</id>
-    <updated>2025-05-04T22:09:27.964651+00:00</updated>
+    <updated>2025-05-06T05:01:39.289497+00:00</updated>
     <summary>Article by Eugenia Haluszka, Camila Niclis, Antonio Pareja Lora, Laura Rosana Aballay
 DOI: https://doi.org/10.1515/lpp-2024-0031</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0031</summary>
     <title>Opinion events and stance types: advances in LLM performance with ChatGPT and Gemini</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0039/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0039</id>
-    <updated>2025-05-04T22:09:27.964660+00:00</updated>
+    <updated>2025-05-06T05:01:39.289514+00:00</updated>
     <summary>Article by Barbara Lewandowska-Tomaszczyk, Chaya Liebeskind
 DOI: https://doi.org/10.1515/lpp-2024-0039</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0039</summary>
     <title>Classifying offensive language in Arabic: a novel taxonomy and dataset</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0034/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0034</id>
-    <updated>2025-05-04T22:09:27.964668+00:00</updated>
+    <updated>2025-05-06T05:01:39.289521+00:00</updated>
     <summary>Article by Chaya Liebeskind, Ali Afawi, Marina Litvak, Natalia Vanetik
 DOI: https://doi.org/10.1515/lpp-2024-0034</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/lpp-2024-0034</summary>
     <title>Implicit offensive language taxonomy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/lpp-2024-0049/html"/>
     <id>https://doi.org/10.1515/lpp-2024-0049</id>
-    <updated>2025-05-04T22:09:27.964675+00:00</updated>
+    <updated>2025-05-06T05:01:39.289528+00:00</updated>
     <summary>Article by Anna Bączkowska, Barbara Lewandowska-Tomaszczyk, Slavko Žitnik, Chaya Liebeskind, Marcin Trojszczak, Giedre Valunaite Oleskeviciene
 DOI: https://doi.org/10.1515/lpp-2024-0049</summary>
   </entry>

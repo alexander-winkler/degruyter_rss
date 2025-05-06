@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>STUF - Language Typology and Universals</title>
-  <link href="https://www.degruyterbrill.com/journal/key/stuf/78/1/html"/>
-  <updated>2025-05-04T22:12:45.403073+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/stuf/78/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/stuf.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/stuf/html" rel="related"/>
+  <updated>2025-05-06T05:06:08.811199+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/stuf.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in STUF - Language Typology and Universals</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/stuf.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/stuf-2025-frontmatter1</id>
-    <updated>2025-05-04T22:12:45.403115+00:00</updated>
+    <updated>2025-05-06T05:06:08.811229+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/stuf-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Progressive and imminent in the verbal system of Albanian in Italy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2002/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2002</id>
-    <updated>2025-05-04T22:12:45.403126+00:00</updated>
+    <updated>2025-05-06T05:06:08.811238+00:00</updated>
     <summary>Article by Francesco Altimari
 DOI: https://doi.org/10.1515/stuf-2025-2002</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2002</summary>
     <title>Sprachbundfeatures in Italo-Albanian and the role of contact-induced change</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2006/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2006</id>
-    <updated>2025-05-04T22:12:45.403139+00:00</updated>
+    <updated>2025-05-06T05:06:08.811247+00:00</updated>
     <summary>Article by Walter Breu
 DOI: https://doi.org/10.1515/stuf-2025-2006</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2006</summary>
     <title>Towards a typology of loanword integration in Arbëresh</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2007/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2007</id>
-    <updated>2025-05-04T22:12:45.403149+00:00</updated>
+    <updated>2025-05-06T05:06:08.811255+00:00</updated>
     <summary>Article by Elvira Glaser
 DOI: https://doi.org/10.1515/stuf-2025-2007</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2007</summary>
     <title>The verbal system in the Arbëresh dialect of Contessa Entellina</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2005/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2005</id>
-    <updated>2025-05-04T22:12:45.403159+00:00</updated>
+    <updated>2025-05-06T05:06:08.811263+00:00</updated>
     <summary>Article by Matteo Mandalà
 DOI: https://doi.org/10.1515/stuf-2025-2005</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2005</summary>
     <title>A new look at an old question: finite control and the copy relation with special reference to Arbëresh</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2001/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2001</id>
-    <updated>2025-05-04T22:12:45.403173+00:00</updated>
+    <updated>2025-05-06T05:06:08.811271+00:00</updated>
     <summary>Article by Maria Rita Manzini, Anna Roussou
 DOI: https://doi.org/10.1515/stuf-2025-2001</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2001</summary>
     <title>The space of DP in Arbëresh dialects: data and theory</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2004/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2004</id>
-    <updated>2025-05-04T22:12:45.403182+00:00</updated>
+    <updated>2025-05-06T05:06:08.811279+00:00</updated>
     <summary>Article by Leonardo Maria Savoia, Benedetta Baldi
 DOI: https://doi.org/10.1515/stuf-2025-2004</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2004</summary>
     <title>Italo-Albanian (Arbëresh) and Albanian: language and cultural contact and retransmission</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2008/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2008</id>
-    <updated>2025-05-04T22:12:45.403191+00:00</updated>
+    <updated>2025-05-06T05:06:08.811286+00:00</updated>
     <summary>Article by John Bassett Trumper
 DOI: https://doi.org/10.1515/stuf-2025-2008</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/stuf-2025-2008</summary>
     <title>The distribution of complementizers in the Arbëresh varieties spoken in the province of Crotone (Calabria)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/stuf-2025-2003/html"/>
     <id>https://doi.org/10.1515/stuf-2025-2003</id>
-    <updated>2025-05-04T22:12:45.403199+00:00</updated>
+    <updated>2025-05-06T05:06:08.811293+00:00</updated>
     <summary>Article by Giuseppina Turano
 DOI: https://doi.org/10.1515/stuf-2025-2003</summary>
   </entry>

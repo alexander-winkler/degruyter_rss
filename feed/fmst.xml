@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Frühmittelalterliche Studien</title>
-  <link href="https://www.degruyterbrill.com/journal/key/fmst/58/1/html"/>
-  <updated>2025-05-04T22:05:30.926404+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/fmst/58/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fmst.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/fmst/html" rel="related"/>
+  <updated>2025-05-06T04:56:15.222671+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fmst.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Frühmittelalterliche Studien</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/fmst.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/fmst-2024-frontmatter1</id>
-    <updated>2025-05-04T22:05:30.926425+00:00</updated>
+    <updated>2025-05-06T04:56:15.222696+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/fmst-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Ökumenisches Kirchenrecht im Zerrbild historiographischer Erzählung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0001/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0001</id>
-    <updated>2025-05-04T22:05:30.926433+00:00</updated>
+    <updated>2025-05-06T04:56:15.222706+00:00</updated>
     <summary>Article by Stefan Esders
 DOI: https://doi.org/10.1515/fmst-2024-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0001</summary>
     <title>Merovingian or Vendel Period?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0002/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0002</id>
-    <updated>2025-05-04T22:05:30.926441+00:00</updated>
+    <updated>2025-05-06T04:56:15.222718+00:00</updated>
     <summary>Article by Mats Skare
 DOI: https://doi.org/10.1515/fmst-2024-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0002</summary>
     <title>Alcuin als planender Architekt in York und Aachen *</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0003/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0003</id>
-    <updated>2025-05-04T22:05:30.926448+00:00</updated>
+    <updated>2025-05-06T04:56:15.222725+00:00</updated>
     <summary>Article by Dietrich Lohrmann
 DOI: https://doi.org/10.1515/fmst-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0003</summary>
     <title>The Silent Succession of Riculf of Mainz ( d. 813 )</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0004/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0004</id>
-    <updated>2025-05-04T22:05:30.926455+00:00</updated>
+    <updated>2025-05-06T04:56:15.222733+00:00</updated>
     <summary>Article by Robert Flierman
 DOI: https://doi.org/10.1515/fmst-2024-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0004</summary>
     <title>Ego enim iter illud nec approbo nec inprobo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0005/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0005</id>
-    <updated>2025-05-04T22:05:30.926461+00:00</updated>
+    <updated>2025-05-06T04:56:15.222740+00:00</updated>
     <summary>Article by Francesco Veronese
 DOI: https://doi.org/10.1515/fmst-2024-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0005</summary>
     <title>Spin and Silence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0006/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0006</id>
-    <updated>2025-05-04T22:05:30.926468+00:00</updated>
+    <updated>2025-05-06T04:56:15.222746+00:00</updated>
     <summary>Article by Rachel Stone
 DOI: https://doi.org/10.1515/fmst-2024-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0006</summary>
     <title>The Semantic Constellation of Byzantineasteiotēs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0007/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0007</id>
-    <updated>2025-05-04T22:05:30.926474+00:00</updated>
+    <updated>2025-05-06T04:56:15.222756+00:00</updated>
     <summary>Article by Valeria Flavia Lovato
 DOI: https://doi.org/10.1515/fmst-2024-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0007</summary>
     <title>Gebet als Kapital?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0008/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0008</id>
-    <updated>2025-05-04T22:05:30.926481+00:00</updated>
+    <updated>2025-05-06T04:56:15.222763+00:00</updated>
     <summary>Article by Tim Weitzel
 DOI: https://doi.org/10.1515/fmst-2024-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0008</summary>
     <title>Der gut strukturierte Tod</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0009/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0009</id>
-    <updated>2025-05-04T22:05:30.926487+00:00</updated>
+    <updated>2025-05-06T04:56:15.222770+00:00</updated>
     <summary>Article by Kilian Baur
 DOI: https://doi.org/10.1515/fmst-2024-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0009</summary>
     <title>Meinhard of Bamberg and Early Medieval Humanism</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0010/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0010</id>
-    <updated>2025-05-04T22:05:30.926499+00:00</updated>
+    <updated>2025-05-06T04:56:15.222782+00:00</updated>
     <summary>Article by C. Stephen Jaeger
 DOI: https://doi.org/10.1515/fmst-2024-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0010</summary>
     <title>Aufstieg durch Deutungshoheit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0011/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0011</id>
-    <updated>2025-05-04T22:05:30.926505+00:00</updated>
+    <updated>2025-05-06T04:56:15.222788+00:00</updated>
     <summary>Article by Manuel Kamenzin
 DOI: https://doi.org/10.1515/fmst-2024-0011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0011</summary>
     <title>The So-Called Ansbert, his ‘Historia de expeditione’ and Related Sources as a Research Problem *</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0012/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0012</id>
-    <updated>2025-05-04T22:05:30.926512+00:00</updated>
+    <updated>2025-05-06T04:56:15.222795+00:00</updated>
     <summary>Article by Mikuláš Netík
 DOI: https://doi.org/10.1515/fmst-2024-0012</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0012</summary>
     <title>Königliche Friedensstiftung und Konsens</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0013/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0013</id>
-    <updated>2025-05-04T22:05:30.926518+00:00</updated>
+    <updated>2025-05-06T04:56:15.222802+00:00</updated>
     <summary>Article by Hermann Kamp
 DOI: https://doi.org/10.1515/fmst-2024-0013</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/fmst-2024-0013</summary>
     <title>Antizipation von Zukunft?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/fmst-2024-0014/html"/>
     <id>https://doi.org/10.1515/fmst-2024-0014</id>
-    <updated>2025-05-04T22:05:30.926525+00:00</updated>
+    <updated>2025-05-06T04:56:15.222809+00:00</updated>
     <summary>Article by Christoph Dartmann
 DOI: https://doi.org/10.1515/fmst-2024-0014</summary>
   </entry>

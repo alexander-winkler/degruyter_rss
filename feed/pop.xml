@@ -1,49 +1,46 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>POP. Kultur und Kritik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pop/14/1/html"/>
-  <updated>2025-05-04T22:11:16.342694+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/pop/14/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pop.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pop/html" rel="related"/>
+  <updated>2025-05-06T05:04:05.072674+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pop.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in POP. Kultur und Kritik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pop.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-frontmatter1401/html"/>
     <id>https://doi.org/10.14361/pop-2025-frontmatter1401</id>
-    <updated>2025-05-04T22:11:16.342714+00:00</updated>
+    <updated>2025-05-06T05:04:05.072704+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/pop-2025-frontmatter1401</summary>
   </entry>
   <entry>
     <title>INHALT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140101/html"/>
     <id>https://doi.org/10.14361/pop-2025-140101</id>
-    <updated>2025-05-04T22:11:16.342720+00:00</updated>
+    <updated>2025-05-06T05:04:05.072711+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/pop-2025-140101</summary>
   </entry>
   <entry>
     <title>HINWEIS ZU DEN AUTORINNEN UND AUTOREN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140122/html"/>
     <id>https://doi.org/10.14361/pop-2025-140122</id>
-    <updated>2025-05-04T22:11:16.342728+00:00</updated>
+    <updated>2025-05-06T05:04:05.072717+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/pop-2025-140122</summary>
   </entry>
   <entry>
     <title>IMPRESSUM</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140123/html"/>
     <id>https://doi.org/10.14361/pop-2025-140123</id>
-    <updated>2025-05-04T22:11:16.342733+00:00</updated>
+    <updated>2025-05-06T05:04:05.072724+00:00</updated>
     <summary>DOI: https://doi.org/10.14361/pop-2025-140123</summary>
   </entry>
   <entry>
     <title>PROMPTEN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140102/html"/>
     <id>https://doi.org/10.14361/pop-2025-140102</id>
-    <updated>2025-05-04T22:11:16.342738+00:00</updated>
+    <updated>2025-05-06T05:04:05.072729+00:00</updated>
     <summary>Article by Annekathrin Kohout
 DOI: https://doi.org/10.14361/pop-2025-140102</summary>
   </entry>
@@ -51,7 +48,7 @@ DOI: https://doi.org/10.14361/pop-2025-140102</summary>
     <title>KÜNSTLICHE INTELLIGENZ UND KRIEG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140103/html"/>
     <id>https://doi.org/10.14361/pop-2025-140103</id>
-    <updated>2025-05-04T22:11:16.342745+00:00</updated>
+    <updated>2025-05-06T05:04:05.072737+00:00</updated>
     <summary>Article by Ramón Reichert
 DOI: https://doi.org/10.14361/pop-2025-140103</summary>
   </entry>
@@ -59,7 +56,7 @@ DOI: https://doi.org/10.14361/pop-2025-140103</summary>
     <title>POP-TRÜMPFE. DIE FEHLINTERPRETIERTE US-WAHL</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140104/html"/>
     <id>https://doi.org/10.14361/pop-2025-140104</id>
-    <updated>2025-05-04T22:11:16.342751+00:00</updated>
+    <updated>2025-05-06T05:04:05.072744+00:00</updated>
     <summary>Article by Jörg Scheller
 DOI: https://doi.org/10.14361/pop-2025-140104</summary>
   </entry>
@@ -67,7 +64,7 @@ DOI: https://doi.org/10.14361/pop-2025-140104</summary>
     <title>SHED THEORY UND DIE NEUE TRAP-ÄSTHETIK</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140105/html"/>
     <id>https://doi.org/10.14361/pop-2025-140105</id>
-    <updated>2025-05-04T22:11:16.342757+00:00</updated>
+    <updated>2025-05-06T05:04:05.072751+00:00</updated>
     <summary>Article by Elena Beregow, Emre Bilgin
 DOI: https://doi.org/10.14361/pop-2025-140105</summary>
   </entry>
@@ -75,7 +72,7 @@ DOI: https://doi.org/10.14361/pop-2025-140105</summary>
     <title>ARCHIVE FASHION. AUFTRITT UND EMPÖRUNG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140106/html"/>
     <id>https://doi.org/10.14361/pop-2025-140106</id>
-    <updated>2025-05-04T22:11:16.342762+00:00</updated>
+    <updated>2025-05-06T05:04:05.072757+00:00</updated>
     <summary>Article by Jasmin Assadsolimani
 DOI: https://doi.org/10.14361/pop-2025-140106</summary>
   </entry>
@@ -83,7 +80,7 @@ DOI: https://doi.org/10.14361/pop-2025-140106</summary>
     <title>EMPATHISCHES MARKETING</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140107/html"/>
     <id>https://doi.org/10.14361/pop-2025-140107</id>
-    <updated>2025-05-04T22:11:16.342768+00:00</updated>
+    <updated>2025-05-06T05:04:05.072765+00:00</updated>
     <summary>Article by Gunnar Schmidt
 DOI: https://doi.org/10.14361/pop-2025-140107</summary>
   </entry>
@@ -91,7 +88,7 @@ DOI: https://doi.org/10.14361/pop-2025-140107</summary>
     <title>DIE NEUE INTIMITÄT ZWISCHEN POLITIK UND KULTUR. ÜBER DEN PODCAST »HOTEL MATZE«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140108/html"/>
     <id>https://doi.org/10.14361/pop-2025-140108</id>
-    <updated>2025-05-04T22:11:16.342773+00:00</updated>
+    <updated>2025-05-06T05:04:05.072771+00:00</updated>
     <summary>Article by Julian Müller
 DOI: https://doi.org/10.14361/pop-2025-140108</summary>
   </entry>
@@ -99,7 +96,7 @@ DOI: https://doi.org/10.14361/pop-2025-140108</summary>
     <title>DAS ENDE DER MODE?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140109/html"/>
     <id>https://doi.org/10.14361/pop-2025-140109</id>
-    <updated>2025-05-04T22:11:16.342778+00:00</updated>
+    <updated>2025-05-06T05:04:05.072777+00:00</updated>
     <summary>Article by Thomas Hecken
 DOI: https://doi.org/10.14361/pop-2025-140109</summary>
   </entry>
@@ -107,7 +104,7 @@ DOI: https://doi.org/10.14361/pop-2025-140109</summary>
     <title>TRADWIFE-CONTENT</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140110/html"/>
     <id>https://doi.org/10.14361/pop-2025-140110</id>
-    <updated>2025-05-04T22:11:16.342784+00:00</updated>
+    <updated>2025-05-06T05:04:05.072782+00:00</updated>
     <summary>Article by Marie Schröer
 DOI: https://doi.org/10.14361/pop-2025-140110</summary>
   </entry>
@@ -115,7 +112,7 @@ DOI: https://doi.org/10.14361/pop-2025-140110</summary>
     <title>ARTFORALL. DAS KUNSTJAHR 2025</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140111/html"/>
     <id>https://doi.org/10.14361/pop-2025-140111</id>
-    <updated>2025-05-04T22:11:16.342790+00:00</updated>
+    <updated>2025-05-06T05:04:05.072793+00:00</updated>
     <summary>Article by Joseph Imorde
 DOI: https://doi.org/10.14361/pop-2025-140111</summary>
   </entry>
@@ -123,7 +120,7 @@ DOI: https://doi.org/10.14361/pop-2025-140111</summary>
     <title>I WANT TO BE A GABBER</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140112/html"/>
     <id>https://doi.org/10.14361/pop-2025-140112</id>
-    <updated>2025-05-04T22:11:16.342800+00:00</updated>
+    <updated>2025-05-06T05:04:05.072799+00:00</updated>
     <summary>Article by Maren Lickhardt
 DOI: https://doi.org/10.14361/pop-2025-140112</summary>
   </entry>
@@ -131,7 +128,7 @@ DOI: https://doi.org/10.14361/pop-2025-140112</summary>
     <title>NOCH EINMAL AUFS TRAMPOLIN</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140113/html"/>
     <id>https://doi.org/10.14361/pop-2025-140113</id>
-    <updated>2025-05-04T22:11:16.342805+00:00</updated>
+    <updated>2025-05-06T05:04:05.072824+00:00</updated>
     <summary>Article by Christoph Ribbat
 DOI: https://doi.org/10.14361/pop-2025-140113</summary>
   </entry>
@@ -139,7 +136,7 @@ DOI: https://doi.org/10.14361/pop-2025-140113</summary>
     <title>APPLE WATCH</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140114/html"/>
     <id>https://doi.org/10.14361/pop-2025-140114</id>
-    <updated>2025-05-04T22:11:16.342810+00:00</updated>
+    <updated>2025-05-06T05:04:05.072830+00:00</updated>
     <summary>Article by Ann Kristin Augst, Cornelius Schubert
 DOI: https://doi.org/10.14361/pop-2025-140114</summary>
   </entry>
@@ -147,7 +144,7 @@ DOI: https://doi.org/10.14361/pop-2025-140114</summary>
     <title>»THE PENGUIN«</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140115/html"/>
     <id>https://doi.org/10.14361/pop-2025-140115</id>
-    <updated>2025-05-04T22:11:16.342816+00:00</updated>
+    <updated>2025-05-06T05:04:05.072836+00:00</updated>
     <summary>Article by Lars Koch
 DOI: https://doi.org/10.14361/pop-2025-140115</summary>
   </entry>
@@ -155,7 +152,7 @@ DOI: https://doi.org/10.14361/pop-2025-140115</summary>
     <title>KINO 2025: POLITISIERUNG UND VERABSCHIEDUNG</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140116/html"/>
     <id>https://doi.org/10.14361/pop-2025-140116</id>
-    <updated>2025-05-04T22:11:16.342821+00:00</updated>
+    <updated>2025-05-06T05:04:05.072841+00:00</updated>
     <summary>Article by Marcus Stiglegger
 DOI: https://doi.org/10.14361/pop-2025-140116</summary>
   </entry>
@@ -163,7 +160,7 @@ DOI: https://doi.org/10.14361/pop-2025-140116</summary>
     <title>GELD ZWISCHEN MEDIUM UND MOTIV</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140117/html"/>
     <id>https://doi.org/10.14361/pop-2025-140117</id>
-    <updated>2025-05-04T22:11:16.342826+00:00</updated>
+    <updated>2025-05-06T05:04:05.072847+00:00</updated>
     <summary>Article by Hans J. Wulff
 DOI: https://doi.org/10.14361/pop-2025-140117</summary>
   </entry>
@@ -171,7 +168,7 @@ DOI: https://doi.org/10.14361/pop-2025-140117</summary>
     <title>SMUT. ZUR POPULARITÄT VON NEW ADULT- UND DARK ROMANCE-LITERATUR</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140118/html"/>
     <id>https://doi.org/10.14361/pop-2025-140118</id>
-    <updated>2025-05-04T22:11:16.342831+00:00</updated>
+    <updated>2025-05-06T05:04:05.072852+00:00</updated>
     <summary>Article by Diana Weis
 DOI: https://doi.org/10.14361/pop-2025-140118</summary>
   </entry>
@@ -179,7 +176,7 @@ DOI: https://doi.org/10.14361/pop-2025-140118</summary>
     <title>SUBKULTUR, UNDERGROUND, SUBVERSION</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140119/html"/>
     <id>https://doi.org/10.14361/pop-2025-140119</id>
-    <updated>2025-05-04T22:11:16.342836+00:00</updated>
+    <updated>2025-05-06T05:04:05.072857+00:00</updated>
     <summary>Article by Thomas Hecken
 DOI: https://doi.org/10.14361/pop-2025-140119</summary>
   </entry>
@@ -187,7 +184,7 @@ DOI: https://doi.org/10.14361/pop-2025-140119</summary>
     <title>ALLTÄGLICHE ÄSTHETIK</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140120/html"/>
     <id>https://doi.org/10.14361/pop-2025-140120</id>
-    <updated>2025-05-04T22:11:16.342840+00:00</updated>
+    <updated>2025-05-06T05:04:05.072863+00:00</updated>
     <summary>Article by Kaspar Maase
 DOI: https://doi.org/10.14361/pop-2025-140120</summary>
   </entry>
@@ -195,7 +192,7 @@ DOI: https://doi.org/10.14361/pop-2025-140120</summary>
     <title>REALITY-TV. NOTES ON (DSCHUNGEL) CAMP</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.14361/pop-2025-140121/html"/>
     <id>https://doi.org/10.14361/pop-2025-140121</id>
-    <updated>2025-05-04T22:11:16.342845+00:00</updated>
+    <updated>2025-05-06T05:04:05.072868+00:00</updated>
     <summary>Article by Angelika Schwarz
 DOI: https://doi.org/10.14361/pop-2025-140121</summary>
   </entry>

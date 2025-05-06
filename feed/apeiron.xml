@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Apeiron</title>
-  <link href="https://www.degruyterbrill.com/journal/key/apeiron/58/2/html"/>
-  <updated>2025-05-04T22:02:47.037573+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/apeiron/58/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/apeiron/html" rel="related"/>
+  <updated>2025-05-06T04:52:32.182815+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Apeiron</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apeiron.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/apeiron-2025-frontmatter2</id>
-    <updated>2025-05-04T22:02:47.037597+00:00</updated>
+    <updated>2025-05-06T04:52:32.182847+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/apeiron-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Galen’s Typology of Organs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0077/html"/>
     <id>https://doi.org/10.1515/apeiron-2024-0077</id>
-    <updated>2025-05-04T22:02:47.037603+00:00</updated>
+    <updated>2025-05-06T04:52:32.182857+00:00</updated>
     <summary>Article by Dmitry Ezrokhi, Orly Lewis
 DOI: https://doi.org/10.1515/apeiron-2024-0077</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/apeiron-2024-0077</summary>
     <title>Doing and Being Done: The Definitional Primacy of the Active Power inMetaphysicsΘ 1</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2023-0111/html"/>
     <id>https://doi.org/10.1515/apeiron-2023-0111</id>
-    <updated>2025-05-04T22:02:47.037609+00:00</updated>
+    <updated>2025-05-06T04:52:32.182867+00:00</updated>
     <summary>Article by Emily Perry, Landon Hobbs
 DOI: https://doi.org/10.1515/apeiron-2023-0111</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/apeiron-2023-0111</summary>
     <title>The Dialectical Function of Names in theSophist</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2023-0094/html"/>
     <id>https://doi.org/10.1515/apeiron-2023-0094</id>
-    <updated>2025-05-04T22:02:47.037614+00:00</updated>
+    <updated>2025-05-06T04:52:32.182874+00:00</updated>
     <summary>Article by Anna Pavani
 DOI: https://doi.org/10.1515/apeiron-2023-0094</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/apeiron-2023-0094</summary>
     <title>Proclus: Counting the Hypotheses as Nine, Eight, or Twenty-Four?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0053/html"/>
     <id>https://doi.org/10.1515/apeiron-2024-0053</id>
-    <updated>2025-05-04T22:02:47.037618+00:00</updated>
+    <updated>2025-05-06T04:52:32.182881+00:00</updated>
     <summary>Article by Xin Liu
 DOI: https://doi.org/10.1515/apeiron-2024-0053</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/apeiron-2024-0053</summary>
     <title>Beyond Rustic and Urbane: A Unified Reading of the Pyrrhonist’s Assent to Appearances</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0065/html"/>
     <id>https://doi.org/10.1515/apeiron-2024-0065</id>
-    <updated>2025-05-04T22:02:47.037622+00:00</updated>
+    <updated>2025-05-06T04:52:32.182889+00:00</updated>
     <summary>Article by Evan O’Donnell
 DOI: https://doi.org/10.1515/apeiron-2024-0065</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/apeiron-2024-0065</summary>
     <title>About the Meaning of Φάντασμα in Aristotle</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apeiron-2024-0038/html"/>
     <id>https://doi.org/10.1515/apeiron-2024-0038</id>
-    <updated>2025-05-04T22:02:47.037628+00:00</updated>
+    <updated>2025-05-06T04:52:32.182900+00:00</updated>
     <summary>Article by Justin Winzenrieth
 DOI: https://doi.org/10.1515/apeiron-2024-0038</summary>
   </entry>

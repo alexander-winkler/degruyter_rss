@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of European Tort Law</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jetl/16/1/html"/>
-  <updated>2025-05-04T22:07:53.335647+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jetl/16/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jetl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jetl/html" rel="related"/>
+  <updated>2025-05-06T04:59:27.608019+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jetl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of European Tort Law</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jetl.xml" type="application/rss+xml"/>
   <entry>
     <title>Heterogeneity, Risks, and Torts: Exploring the Worlds of Acts and Activities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-0002/html"/>
     <id>https://doi.org/10.1515/jetl-2025-0002</id>
-    <updated>2025-05-04T22:07:53.335681+00:00</updated>
+    <updated>2025-05-06T04:59:27.608054+00:00</updated>
     <summary>Article by Jenny Steele
 DOI: https://doi.org/10.1515/jetl-2025-0002</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/jetl-2025-0002</summary>
     <title>Rights, Interests, and Tort Law as an Instrument: A Commentary on Gregory C Keating’s ‘Reasonableness and Risk’</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-0003/html"/>
     <id>https://doi.org/10.1515/jetl-2025-0003</id>
-    <updated>2025-05-04T22:07:53.335698+00:00</updated>
+    <updated>2025-05-06T04:59:27.608070+00:00</updated>
     <summary>Article by Felipe Jiménez
 DOI: https://doi.org/10.1515/jetl-2025-0003</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/jetl-2025-0003</summary>
     <title>Tort Law without Interpersonal Justice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-0004/html"/>
     <id>https://doi.org/10.1515/jetl-2025-0004</id>
-    <updated>2025-05-04T22:07:53.335711+00:00</updated>
+    <updated>2025-05-06T04:59:27.608080+00:00</updated>
     <summary>Article by Diego M Papayannis
 DOI: https://doi.org/10.1515/jetl-2025-0004</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/jetl-2025-0004</summary>
     <title>Beyond the Reasonable: Philosophical Assumptions, Deonto­logical Justification and Proportional Balancing</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-0005/html"/>
     <id>https://doi.org/10.1515/jetl-2025-0005</id>
-    <updated>2025-05-04T22:07:53.335720+00:00</updated>
+    <updated>2025-05-06T04:59:27.608089+00:00</updated>
     <summary>Article by Silvia Zorzetto
 DOI: https://doi.org/10.1515/jetl-2025-0005</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/jetl-2025-0005</summary>
     <title>Reasonableness and Risk</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-0006/html"/>
     <id>https://doi.org/10.1515/jetl-2025-0006</id>
-    <updated>2025-05-04T22:07:53.335728+00:00</updated>
+    <updated>2025-05-06T04:59:27.608098+00:00</updated>
     <summary>Article by Gregory C Keating
 DOI: https://doi.org/10.1515/jetl-2025-0006</summary>
   </entry>
@@ -55,14 +52,14 @@ DOI: https://doi.org/10.1515/jetl-2025-0006</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jetl-2025-frontmatter1</id>
-    <updated>2025-05-04T22:07:53.335738+00:00</updated>
+    <updated>2025-05-06T04:59:27.608106+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jetl-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Reasonableness and Risk: The Torts Scholarship of Gregory C Keating</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jetl-2025-0001/html"/>
     <id>https://doi.org/10.1515/jetl-2025-0001</id>
-    <updated>2025-05-04T22:07:53.335746+00:00</updated>
+    <updated>2025-05-06T04:59:27.608113+00:00</updated>
     <summary>Article by Diego M Papayannis, Henry M Reyes Garcés
 DOI: https://doi.org/10.1515/jetl-2025-0001</summary>
   </entry>

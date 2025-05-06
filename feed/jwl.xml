@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of World Languages</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jwl/10/3/html"/>
-  <updated>2025-05-04T22:08:56.492926+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jwl/10/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jwl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jwl/html" rel="related"/>
+  <updated>2025-05-06T05:00:55.213942+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jwl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of World Languages</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jwl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/jwl-2024-frontmatter3</id>
-    <updated>2025-05-04T22:08:56.492958+00:00</updated>
+    <updated>2025-05-06T05:00:55.213970+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jwl-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>On the demarcation of ecolinguistics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2024-0043/html"/>
     <id>https://doi.org/10.1515/jwl-2024-0043</id>
-    <updated>2025-05-04T22:08:56.492967+00:00</updated>
+    <updated>2025-05-06T05:00:55.213979+00:00</updated>
     <summary>Article by Sune Vork Steffensen
 DOI: https://doi.org/10.1515/jwl-2024-0043</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jwl-2024-0043</summary>
     <title>A comparative corpus-based ecological discourse analysis of Chinese, Indian, and American news reports on the Belt and Road Initiative (2013–2022)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2023-1007/html"/>
     <id>https://doi.org/10.1515/jwl-2023-1007</id>
-    <updated>2025-05-04T22:08:56.492979+00:00</updated>
+    <updated>2025-05-06T05:00:55.213991+00:00</updated>
     <summary>Article by Ruby Rong Wei, Yanlan Hu
 DOI: https://doi.org/10.1515/jwl-2023-1007</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jwl-2023-1007</summary>
     <title>Lexical niche and sustainability: an ecolinguistic perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2024-0012/html"/>
     <id>https://doi.org/10.1515/jwl-2024-0012</id>
-    <updated>2025-05-04T22:08:56.492987+00:00</updated>
+    <updated>2025-05-06T05:00:55.213999+00:00</updated>
     <summary>Article by Ruifeng Mo, Haozhang Xiao
 DOI: https://doi.org/10.1515/jwl-2024-0012</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jwl-2024-0012</summary>
     <title>A typology of the Arabic system ofmood</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2024-0018/html"/>
     <id>https://doi.org/10.1515/jwl-2024-0018</id>
-    <updated>2025-05-04T22:08:56.492994+00:00</updated>
+    <updated>2025-05-06T05:00:55.214006+00:00</updated>
     <summary>Article by Mohamed Ali Bardi
 DOI: https://doi.org/10.1515/jwl-2024-0018</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jwl-2024-0018</summary>
     <title>Readability and adaptation of children’s literature: an interpersonal metaphor perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2022-0039/html"/>
     <id>https://doi.org/10.1515/jwl-2022-0039</id>
-    <updated>2025-05-04T22:08:56.493008+00:00</updated>
+    <updated>2025-05-06T05:00:55.214014+00:00</updated>
     <summary>Article by Yan Liu
 DOI: https://doi.org/10.1515/jwl-2022-0039</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jwl-2022-0039</summary>
     <title>A review of interpersonal metafunction studies in systemic functional linguistics (2012–2022)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2023-0026/html"/>
     <id>https://doi.org/10.1515/jwl-2023-0026</id>
-    <updated>2025-05-04T22:08:56.493016+00:00</updated>
+    <updated>2025-05-06T05:00:55.214023+00:00</updated>
     <summary>Article by Shi Cheng
 DOI: https://doi.org/10.1515/jwl-2023-0026</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jwl-2023-0026</summary>
     <title>Transmigrant identities and attitudes: the case of a Pangasinan-American family</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2024-0025/html"/>
     <id>https://doi.org/10.1515/jwl-2024-0025</id>
-    <updated>2025-05-04T22:08:56.493024+00:00</updated>
+    <updated>2025-05-06T05:00:55.214031+00:00</updated>
     <summary>Article by Sheryl Bernardo-Hinesley, Alba Arias Álvarez
 DOI: https://doi.org/10.1515/jwl-2024-0025</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jwl-2024-0025</summary>
     <title>Bingjun Yang:Non-finiteness: A process-relation perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2023-0010/html"/>
     <id>https://doi.org/10.1515/jwl-2023-0010</id>
-    <updated>2025-05-04T22:08:56.493032+00:00</updated>
+    <updated>2025-05-06T05:00:55.214038+00:00</updated>
     <summary>Article by Hongmiao Gao
 DOI: https://doi.org/10.1515/jwl-2023-0010</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jwl-2023-0010</summary>
     <title>Anastazija Kirkova-Naskova, Alice Henderson &amp; Jonás Fouz-González:English pronunciation instruction: Research-based insights</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jwl-2024-0008/html"/>
     <id>https://doi.org/10.1515/jwl-2024-0008</id>
-    <updated>2025-05-04T22:08:56.493041+00:00</updated>
+    <updated>2025-05-06T05:00:55.214047+00:00</updated>
     <summary>Article by Chit Cheung Matthew Sung, Francois Wolfaardt
 DOI: https://doi.org/10.1515/jwl-2024-0008</summary>
   </entry>

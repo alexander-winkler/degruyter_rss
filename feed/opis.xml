@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Information Science</title>
-  <link href="https://www.degruyterbrill.com/journal/key/opis/9/1/html"/>
-  <updated>2025-05-04T22:10:45.224177+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/opis/9/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/opis/html" rel="related"/>
+  <updated>2025-05-06T05:03:21.803490+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Information Science</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opis.xml" type="application/rss+xml"/>
   <entry>
     <title>Proposing a Conceptual Framework for Social Listening in Libraries: A Potential Game Changer to Engage Gen Z and Centennial Users</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2024-0012/html"/>
     <id>https://doi.org/10.1515/opis-2024-0012</id>
-    <updated>2025-05-04T22:10:45.224232+00:00</updated>
+    <updated>2025-05-06T05:03:21.803529+00:00</updated>
     <summary>Article by Amit Kumar, Yadukrishnan T. A.
 DOI: https://doi.org/10.1515/opis-2024-0012</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/opis-2024-0012</summary>
     <title>Roles, Challenges, and Sustainability of Australian Journals: A Survey of Editors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2025-0013/html"/>
     <id>https://doi.org/10.1515/opis-2025-0013</id>
-    <updated>2025-05-04T22:10:45.224249+00:00</updated>
+    <updated>2025-05-06T05:03:21.803542+00:00</updated>
     <summary>Article by Hamid R. Jamali, Simon Wakeling
 DOI: https://doi.org/10.1515/opis-2025-0013</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/opis-2025-0013</summary>
     <title>The Now-Defunct ResearchGate Score and the Extant Research Interest Score: A Continued Debate on Metrics of a Highly Popular Academic Social Networking Site</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2024-0011/html"/>
     <id>https://doi.org/10.1515/opis-2024-0011</id>
-    <updated>2025-05-04T22:10:45.224260+00:00</updated>
+    <updated>2025-05-06T05:03:21.803555+00:00</updated>
     <summary>Article by Jaime A. Teixeira da Silva
 DOI: https://doi.org/10.1515/opis-2024-0011</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/opis-2024-0011</summary>
     <title>When Data Meets the Past: Data Collection, Sharing, and Reuse in Ancient World Studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opis-2025-0014/html"/>
     <id>https://doi.org/10.1515/opis-2025-0014</id>
-    <updated>2025-05-04T22:10:45.224272+00:00</updated>
+    <updated>2025-05-06T05:03:21.803563+00:00</updated>
     <summary>Article by Andrea Farina, Paola Marongiu, Mathilde Bru, Daniele Borkowski
 DOI: https://doi.org/10.1515/opis-2025-0014</summary>
   </entry>

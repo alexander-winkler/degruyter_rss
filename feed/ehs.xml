@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Energy Harvesting and Systems</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ehs/12/1/html"/>
-  <updated>2025-05-04T22:05:02.365812+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ehs/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ehs.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ehs/html" rel="related"/>
+  <updated>2025-05-06T04:55:34.392974+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ehs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Energy Harvesting and Systems</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ehs.xml" type="application/rss+xml"/>
   <entry>
     <title>A detailed review of the design parameters for augmenting the latent heat in a thermal energy storage system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ehs-2023-0038/html"/>
     <id>https://doi.org/10.1515/ehs-2023-0038</id>
-    <updated>2025-05-04T22:05:02.365859+00:00</updated>
+    <updated>2025-05-06T04:55:34.392997+00:00</updated>
     <summary>Article by Himanshu Kumar, Ankit Yadav, Gurjeet Singh, Sumit Taneja
 DOI: https://doi.org/10.1515/ehs-2023-0038</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/ehs-2023-0038</summary>
     <title>Optimizing energy for the independent electric power system with power-to-gas storage technology</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ehs-2023-0110/html"/>
     <id>https://doi.org/10.1515/ehs-2023-0110</id>
-    <updated>2025-05-04T22:05:02.365873+00:00</updated>
+    <updated>2025-05-06T04:55:34.393005+00:00</updated>
     <summary>Article by Ya Chen, Zhi Zhao
 DOI: https://doi.org/10.1515/ehs-2023-0110</summary>
   </entry>

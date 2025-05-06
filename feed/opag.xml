@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Open Agriculture</title>
-  <link href="https://www.degruyterbrill.com/journal/key/opag/10/1/html"/>
-  <updated>2025-05-04T22:10:42.177096+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/opag/10/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opag.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/opag/html" rel="related"/>
+  <updated>2025-05-06T05:03:17.655414+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opag.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Open Agriculture</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/opag.xml" type="application/rss+xml"/>
   <entry>
     <title>Optimization of sustainable corn–cattle integration in Gorontalo Province using goal programming</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2022-0405/html"/>
     <id>https://doi.org/10.1515/opag-2022-0405</id>
-    <updated>2025-05-04T22:10:42.177115+00:00</updated>
+    <updated>2025-05-06T05:03:17.655444+00:00</updated>
     <summary>Article by Supriyo Imran, Ria Indriani, Mohammad Zubair Hippy
 DOI: https://doi.org/10.1515/opag-2022-0405</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/opag-2022-0405</summary>
     <title>Competitiveness of Indonesia’s nutmeg in global market</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2022-0404/html"/>
     <id>https://doi.org/10.1515/opag-2022-0404</id>
-    <updated>2025-05-04T22:10:42.177120+00:00</updated>
+    <updated>2025-05-06T05:03:17.655453+00:00</updated>
     <summary>Article by Dini Rochdiani, Dadan Wardhana, Yosini Deliana, Eti Suminartika, Sulistyodewi Nur Wiyono, Tennisya Febriyanti Suardi
 DOI: https://doi.org/10.1515/opag-2022-0404</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/opag-2022-0404</summary>
     <title>Toward sustainable bioproducts from lignocellulosic biomass: Influence of chemical pretreatments on liquefied walnut shells</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2022-0382/html"/>
     <id>https://doi.org/10.1515/opag-2022-0382</id>
-    <updated>2025-05-04T22:10:42.177125+00:00</updated>
+    <updated>2025-05-06T05:03:17.655460+00:00</updated>
     <summary>Article by Nives Jovičić, Tajana Krička, Alan Antonović, Božidar Matin, Lato Pezo, Ivan Brandić, Ana Matin
 DOI: https://doi.org/10.1515/opag-2022-0382</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/opag-2022-0382</summary>
     <title>Efficacy of Betaproteobacteria-based insecticides for managing whitefly,Bemisia tabaci(Hemiptera: Aleyrodidae), on cucumber plants</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0408/html"/>
     <id>https://doi.org/10.1515/opag-2025-0408</id>
-    <updated>2025-05-04T22:10:42.177130+00:00</updated>
+    <updated>2025-05-06T05:03:17.655468+00:00</updated>
     <summary>Article by Hail Kamel Shannag
 DOI: https://doi.org/10.1515/opag-2025-0408</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/opag-2025-0408</summary>
     <title>Assessment of nutrition status of pineapple plants during ratoon season using diagnosis and recommendation integrated system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0414/html"/>
     <id>https://doi.org/10.1515/opag-2025-0414</id>
-    <updated>2025-05-04T22:10:42.177135+00:00</updated>
+    <updated>2025-05-06T05:03:17.655474+00:00</updated>
     <summary>Article by Nguyen Huynh Minh Anh, Phan Chan Hiep, Nguyen Thanh Ngan, Le Thi Ngoc Tho, Nguyen Duc Trong, Vo Minh Thuan, Tran Thi Ngoc Thien, Le Thanh Quang, Nguyen Quoc Khuong
 DOI: https://doi.org/10.1515/opag-2025-0414</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/opag-2025-0414</summary>
     <title>Nutritional value and consumer assessment of 12 avocado crosses between cvs. Hass × Pionero</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0415/html"/>
     <id>https://doi.org/10.1515/opag-2025-0415</id>
-    <updated>2025-05-04T22:10:42.177143+00:00</updated>
+    <updated>2025-05-06T05:03:17.655481+00:00</updated>
     <summary>Article by María Teresa Martínez-Damián, Damaris Leopoldina Ojeda-Barrios, Jesús Lugo-Espinosa, Alejandro Facundo Barrientos-Priego, Oscar Cruz-Alvarez
 DOI: https://doi.org/10.1515/opag-2025-0415</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/opag-2025-0415</summary>
     <title>The lacked access to beef in the low-income region: An evidence from the eastern part of Indonesia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0411/html"/>
     <id>https://doi.org/10.1515/opag-2025-0411</id>
-    <updated>2025-05-04T22:10:42.177148+00:00</updated>
+    <updated>2025-05-06T05:03:17.655488+00:00</updated>
     <summary>Article by La Ode Nazaruddin, Qisthina Aulia, Balázs Gyenge, Mária Fekete-Farkas, Kinga Szabó
 DOI: https://doi.org/10.1515/opag-2025-0411</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/opag-2025-0411</summary>
     <title>Comparison of milk consumption habits across two European countries: Pilot study in Portugal and France</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0413/html"/>
     <id>https://doi.org/10.1515/opag-2025-0413</id>
-    <updated>2025-05-04T22:10:42.177152+00:00</updated>
+    <updated>2025-05-06T05:03:17.655494+00:00</updated>
     <summary>Article by Raquel P. F. Guiné, Sofia G. Florença, Marius Bréjon, João Carlos Gonçalves, Maria João Barroca, Manuela Ferreira, Anabela Fragata
 DOI: https://doi.org/10.1515/opag-2025-0413</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/opag-2025-0413</summary>
     <title>Antioxidant responses of black glutinous rice to drought and salinity stresses at different growth stages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0417/html"/>
     <id>https://doi.org/10.1515/opag-2025-0417</id>
-    <updated>2025-05-04T22:10:42.177156+00:00</updated>
+    <updated>2025-05-06T05:03:17.655500+00:00</updated>
     <summary>Article by Yosefine Fetik Rudiyanto, Okta Hadina Alfiana, Anandita Linggar Putri, Ridho Rizkiantoro, Tri Agus Siswoyo
 DOI: https://doi.org/10.1515/opag-2025-0417</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/opag-2025-0417</summary>
     <title>Differential efficacy of salicylic acid-induced resistance against bacterial blight caused byXanthomonas oryzaepv.oryzaein rice genotypes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0419/html"/>
     <id>https://doi.org/10.1515/opag-2025-0419</id>
-    <updated>2025-05-04T22:10:42.177160+00:00</updated>
+    <updated>2025-05-06T05:03:17.655510+00:00</updated>
     <summary>Article by Natchanon Meesa, Kumrop Ratanasut, Walailak Laothaworn, Tepsuda Rungrat, Kittisak Buddhachat, Kawee Sujipuli, Phithak Inthima
 DOI: https://doi.org/10.1515/opag-2025-0419</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/opag-2025-0419</summary>
     <title>Yield and vegetation index of different maize varieties and nitrogen doses under normal irrigation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0410/html"/>
     <id>https://doi.org/10.1515/opag-2025-0410</id>
-    <updated>2025-05-04T22:10:42.177164+00:00</updated>
+    <updated>2025-05-06T05:03:17.655516+00:00</updated>
     <summary>Article by Rusnadi Padjung, Muh. Farid, Yunus Musa, Nasaruddin Nasaruddin, Nurfaida Nurfaida, Muhammad Fuad Anshori, Mahmud Achmad, Abdul Rahman Arinong, Nirwansyah Amier
 DOI: https://doi.org/10.1515/opag-2025-0410</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/opag-2025-0410</summary>
     <title>Urbanization and forecast possibilities of land use changes by 2050: New evidence in Ho Chi Minh city, Vietnam</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0421/html"/>
     <id>https://doi.org/10.1515/opag-2025-0421</id>
-    <updated>2025-05-04T22:10:42.177167+00:00</updated>
+    <updated>2025-05-06T05:03:17.655522+00:00</updated>
     <summary>Article by Nguyen Tran Tuan, Gábor Hegedűs, Nguyen Thi Tung Phuong
 DOI: https://doi.org/10.1515/opag-2025-0421</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/opag-2025-0421</summary>
     <title>Organizational-economic efficiency of raspberry farming – case study of Kosovo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0418/html"/>
     <id>https://doi.org/10.1515/opag-2025-0418</id>
-    <updated>2025-05-04T22:10:42.177171+00:00</updated>
+    <updated>2025-05-06T05:03:17.655528+00:00</updated>
     <summary>Article by Lindita Ibishi, Gábor Koncz
 DOI: https://doi.org/10.1515/opag-2025-0418</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/opag-2025-0418</summary>
     <title>Application of nitrogen-fixing purple non-sulfur bacteria in improving nitrogen uptake, growth, and yield of rice grown on extremely saline soil under greenhouse conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0425/html"/>
     <id>https://doi.org/10.1515/opag-2025-0425</id>
-    <updated>2025-05-04T22:10:42.177175+00:00</updated>
+    <updated>2025-05-06T05:03:17.655533+00:00</updated>
     <summary>Article by Nguyen Hoang Anh, Huynh Thanh Quang, Bui Thi Thien Huong, Le Thanh Quang, Le Thi My Thu, Nguyen Duc Trong, Tran Trong Khoi Nguyen, Ly Ngoc Thanh Xuan, Ngo Thanh Phong, Nguyen Quoc Khuong
 DOI: https://doi.org/10.1515/opag-2025-0425</summary>
   </entry>
@@ -127,7 +124,7 @@ DOI: https://doi.org/10.1515/opag-2025-0425</summary>
     <title>Digital motivation, knowledge, and skills: Pathways to adaptive millennial farmers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0426/html"/>
     <id>https://doi.org/10.1515/opag-2025-0426</id>
-    <updated>2025-05-04T22:10:42.177179+00:00</updated>
+    <updated>2025-05-06T05:03:17.655540+00:00</updated>
     <summary>Article by Hari Otang Sasmita, Amiruddin Saleh, Wahyu Budi Priatna, Pudji Muljono
 DOI: https://doi.org/10.1515/opag-2025-0426</summary>
   </entry>
@@ -135,7 +132,7 @@ DOI: https://doi.org/10.1515/opag-2025-0426</summary>
     <title>Investigation of biological characteristics of fruit development and physiological disorders of Musang King durian (Durio zibethinusMurr.)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0422/html"/>
     <id>https://doi.org/10.1515/opag-2025-0422</id>
-    <updated>2025-05-04T22:10:42.177183+00:00</updated>
+    <updated>2025-05-06T05:03:17.655545+00:00</updated>
     <summary>Article by Nguyen Huynh Duong, Huynh Thi Thanh Ngan, Bui Khanh Linh, La Cao Thang, Le Vinh Thuc, Tran Van Hau
 DOI: https://doi.org/10.1515/opag-2025-0422</summary>
   </entry>
@@ -143,7 +140,7 @@ DOI: https://doi.org/10.1515/opag-2025-0422</summary>
     <title>Enhancing rice yield and farmer welfare: Overcoming barriers to IPB 3S rice adoption in Indonesia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0424/html"/>
     <id>https://doi.org/10.1515/opag-2025-0424</id>
-    <updated>2025-05-04T22:10:42.177187+00:00</updated>
+    <updated>2025-05-06T05:03:17.655551+00:00</updated>
     <summary>Article by Suparman, Pudji Muljono, Amiruddin Saleh, Wahyu Budi Priatna
 DOI: https://doi.org/10.1515/opag-2025-0424</summary>
   </entry>
@@ -151,7 +148,7 @@ DOI: https://doi.org/10.1515/opag-2025-0424</summary>
     <title>Simulation model to realize soybean self-sufficiency and food security in Indonesia: A system dynamic approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0427/html"/>
     <id>https://doi.org/10.1515/opag-2025-0427</id>
-    <updated>2025-05-04T22:10:42.177191+00:00</updated>
+    <updated>2025-05-06T05:03:17.655557+00:00</updated>
     <summary>Article by Edi Paryanto, Mohamad Harisudin, Joko Sutrisno, Kusnandar Kusnandar
 DOI: https://doi.org/10.1515/opag-2025-0427</summary>
   </entry>
@@ -159,7 +156,7 @@ DOI: https://doi.org/10.1515/opag-2025-0427</summary>
     <title>Gender, empowerment, and rural sustainable development: A case study of crab business integration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0416/html"/>
     <id>https://doi.org/10.1515/opag-2025-0416</id>
-    <updated>2025-05-04T22:10:42.177195+00:00</updated>
+    <updated>2025-05-06T05:03:17.655562+00:00</updated>
     <summary>Article by Riri Amandaria, Rahim Darma, Nixia Tenriawaru, Letty Fudjaja, Untari, Rida Akzar
 DOI: https://doi.org/10.1515/opag-2025-0416</summary>
   </entry>
@@ -167,7 +164,7 @@ DOI: https://doi.org/10.1515/opag-2025-0416</summary>
     <title>Metagenomic and metabolomic analyses of bacterial communities in short mackerel (Rastrelliger brachysoma) under storage conditions and inoculation of the histamine-producing bacterium</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0420/html"/>
     <id>https://doi.org/10.1515/opag-2025-0420</id>
-    <updated>2025-05-04T22:10:42.177199+00:00</updated>
+    <updated>2025-05-06T05:03:17.655568+00:00</updated>
     <summary>Article by Pongrawee Nimnoi, Neelawan Pongsilp
 DOI: https://doi.org/10.1515/opag-2025-0420</summary>
   </entry>
@@ -175,7 +172,7 @@ DOI: https://doi.org/10.1515/opag-2025-0420</summary>
     <title>Fostering women’s engagement in good agricultural practices within oil palm smallholdings: Evaluating the role of partnerships</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0428/html"/>
     <id>https://doi.org/10.1515/opag-2025-0428</id>
-    <updated>2025-05-04T22:10:42.177203+00:00</updated>
+    <updated>2025-05-06T05:03:17.655574+00:00</updated>
     <summary>Article by Diana Chalil, Riantri Barus, Ketut Sukiyono, Arma Putra, Muhammad Khaliqi, Renato Andrin Villano
 DOI: https://doi.org/10.1515/opag-2025-0428</summary>
   </entry>
@@ -183,7 +180,7 @@ DOI: https://doi.org/10.1515/opag-2025-0428</summary>
     <title>Increasing nitrogen use efficiency by reducing ammonia and nitrate losses from tomato production in Kabul, Afghanistan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0429/html"/>
     <id>https://doi.org/10.1515/opag-2025-0429</id>
-    <updated>2025-05-04T22:10:42.177207+00:00</updated>
+    <updated>2025-05-06T05:03:17.655581+00:00</updated>
     <summary>Article by Zikrullah Safi, Robert Rees, Julia Drewer, Mark Sutton, Arti Bhatia, Tapan Kumar Adhya, Abdul Wakeel, Sangeeta Bansal
 DOI: https://doi.org/10.1515/opag-2025-0429</summary>
   </entry>
@@ -191,7 +188,7 @@ DOI: https://doi.org/10.1515/opag-2025-0429</summary>
     <title>Physiological activities and yield of yacon potato are affected by soil water availability</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0432/html"/>
     <id>https://doi.org/10.1515/opag-2025-0432</id>
-    <updated>2025-05-04T22:10:42.177210+00:00</updated>
+    <updated>2025-05-06T05:03:17.655587+00:00</updated>
     <summary>Article by Tiago P. Mendes, Josimar A. da Silva, Felipe V. R. Avelar, Edvaldo F. dos Reis, Paulo C. Cavatte, Fábio L. de Oliveira
 DOI: https://doi.org/10.1515/opag-2025-0432</summary>
   </entry>
@@ -199,7 +196,7 @@ DOI: https://doi.org/10.1515/opag-2025-0432</summary>
     <title>Vulnerability context due to COVID-19 and El Nino: Case study of poultry farming in South Sulawesi, Indonesia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0431/html"/>
     <id>https://doi.org/10.1515/opag-2025-0431</id>
-    <updated>2025-05-04T22:10:42.177214+00:00</updated>
+    <updated>2025-05-06T05:03:17.655593+00:00</updated>
     <summary>Article by Rusni Fitri Y. Rusman, Darmawan Salman, Abdul Razak Munir, Hastang
 DOI: https://doi.org/10.1515/opag-2025-0431</summary>
   </entry>
@@ -207,7 +204,7 @@ DOI: https://doi.org/10.1515/opag-2025-0431</summary>
     <title>Wheat freshness recognition leveraging Gramian angular field and attention-augmented resnet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0437/html"/>
     <id>https://doi.org/10.1515/opag-2025-0437</id>
-    <updated>2025-05-04T22:10:42.177218+00:00</updated>
+    <updated>2025-05-06T05:03:17.655598+00:00</updated>
     <summary>Article by Weiya Shi, Liang Chen
 DOI: https://doi.org/10.1515/opag-2025-0437</summary>
   </entry>
@@ -215,7 +212,7 @@ DOI: https://doi.org/10.1515/opag-2025-0437</summary>
     <title>Suggestions for promoting SOC storage within the carbon farming framework: Analyzing the INFOSOLO database</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0433/html"/>
     <id>https://doi.org/10.1515/opag-2025-0433</id>
-    <updated>2025-05-04T22:10:42.177221+00:00</updated>
+    <updated>2025-05-06T05:03:17.655604+00:00</updated>
     <summary>Article by Carlos Cunha, Nádia Luísa Castanheira, Tiago Brito Ramos, Vítor João Pereira Domingues Martinho, António José Dinis Ferreira, José Luís da Silva Pereira, María del Carmen Sánchez-Carreira
 DOI: https://doi.org/10.1515/opag-2025-0433</summary>
   </entry>
@@ -223,7 +220,7 @@ DOI: https://doi.org/10.1515/opag-2025-0433</summary>
     <title>Optimization of hot foam applications for thermal weed control in perennial crops and open-field vegetables</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0438/html"/>
     <id>https://doi.org/10.1515/opag-2025-0438</id>
-    <updated>2025-05-04T22:10:42.177225+00:00</updated>
+    <updated>2025-05-06T05:03:17.655610+00:00</updated>
     <summary>Article by Nikolaos Antonopoulos, Angeliki Kousta, Ioannis Gazoulis, Vasiliki Kontogeorgou, Marios Danaskos, Panagiotis Kanatas, Dimitra Petraki, Ilias Travlos
 DOI: https://doi.org/10.1515/opag-2025-0438</summary>
   </entry>
@@ -231,7 +228,7 @@ DOI: https://doi.org/10.1515/opag-2025-0438</summary>
     <title>Reference dietary patterns in Portugal: Mediterranean diet vs Atlantic diet</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2022-0406/html"/>
     <id>https://doi.org/10.1515/opag-2022-0406</id>
-    <updated>2025-05-04T22:10:42.177230+00:00</updated>
+    <updated>2025-05-06T05:03:17.655616+00:00</updated>
     <summary>Article by Raquel P. F. Guiné, Sofia G. Florença, Ana Luisa Amaral, Cristina A. Costa
 DOI: https://doi.org/10.1515/opag-2022-0406</summary>
   </entry>
@@ -239,7 +236,7 @@ DOI: https://doi.org/10.1515/opag-2022-0406</summary>
     <title>Evaluating the nutritional, therapeutic, and economic potential ofTetragonia decumbensMill.: A promising wild leafy vegetable for bio-saline agriculture in South Africa</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2022-0368/html"/>
     <id>https://doi.org/10.1515/opag-2022-0368</id>
-    <updated>2025-05-04T22:10:42.177234+00:00</updated>
+    <updated>2025-05-06T05:03:17.655622+00:00</updated>
     <summary>Article by Avela Sogoni, Muhali Olaide Jimoh, Sihle Ngxabi, Learnmore Kambizi, Charles Petrus Laubscher
 DOI: https://doi.org/10.1515/opag-2022-0368</summary>
   </entry>
@@ -247,7 +244,7 @@ DOI: https://doi.org/10.1515/opag-2022-0368</summary>
     <title>A review on apple cultivation in Morocco: Current situation and future prospects</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0412/html"/>
     <id>https://doi.org/10.1515/opag-2025-0412</id>
-    <updated>2025-05-04T22:10:42.177237+00:00</updated>
+    <updated>2025-05-06T05:03:17.655627+00:00</updated>
     <summary>Article by Mohammed Kara, Amine Assouguem, Lahlali Rachid, Sezai Ercisli, Nouha Haoudi, Safaâ Benmessaoud, Mouhcine Ajdi, Abdou Rachid Zerhouni, Jamila Bahhou
 DOI: https://doi.org/10.1515/opag-2025-0412</summary>
   </entry>
@@ -255,7 +252,7 @@ DOI: https://doi.org/10.1515/opag-2025-0412</summary>
     <title>Quercusacorns as a component of human dietary patterns</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0423/html"/>
     <id>https://doi.org/10.1515/opag-2025-0423</id>
-    <updated>2025-05-04T22:10:42.177241+00:00</updated>
+    <updated>2025-05-06T05:03:17.655633+00:00</updated>
     <summary>Article by Dani Dordevic, Johana Zemancova, Simona Dordevic, Piotr Kulawik, Ivan Kushkevych
 DOI: https://doi.org/10.1515/opag-2025-0423</summary>
   </entry>
@@ -263,7 +260,7 @@ DOI: https://doi.org/10.1515/opag-2025-0423</summary>
     <title>An analysis of consumer behavior regarding green product purchases in Semarang, Indonesia: The use of SEM-PLS and the AIDA model</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2022-0407/html"/>
     <id>https://doi.org/10.1515/opag-2022-0407</id>
-    <updated>2025-05-04T22:10:42.177244+00:00</updated>
+    <updated>2025-05-06T05:03:17.655639+00:00</updated>
     <summary>Article by Nobel K. T. Tampubolon, Wiludjeng Roessali, Siswanto I. Santoso
 DOI: https://doi.org/10.1515/opag-2022-0407</summary>
   </entry>
@@ -271,7 +268,7 @@ DOI: https://doi.org/10.1515/opag-2022-0407</summary>
     <title>Effect of NaOH concentration on production of Na-CMC derived from pineapple waste collected from local society</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/opag-2025-0409/html"/>
     <id>https://doi.org/10.1515/opag-2025-0409</id>
-    <updated>2025-05-04T22:10:42.177248+00:00</updated>
+    <updated>2025-05-06T05:03:17.655646+00:00</updated>
     <summary>Article by Anni Faridah, Aulia Azhar, Heru Suryanto, Ilman Saputra, Oktria Putri Utami, Kasmita, Muhammad Makky, Daimon Syukri
 DOI: https://doi.org/10.1515/opag-2025-0409</summary>
   </entry>

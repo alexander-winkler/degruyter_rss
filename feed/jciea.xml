@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Cultural Interaction in East Asia</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jciea/15/1/html"/>
-  <updated>2025-05-04T22:07:41.126588+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jciea/15/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jciea.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jciea/html" rel="related"/>
+  <updated>2025-05-06T04:59:10.914079+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jciea.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Cultural Interaction in East Asia</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jciea.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jciea-2024-frontmatter1</id>
-    <updated>2025-05-04T22:07:41.126624+00:00</updated>
+    <updated>2025-05-06T04:59:10.914101+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jciea-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Cross-Cultural Transmission of the Images of “The Story of Three Fishes” in Ancient Europe and Asia and the Relationship Between Texts and Images</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-0005/html"/>
     <id>https://doi.org/10.1515/jciea-2024-0005</id>
-    <updated>2025-05-04T22:07:41.126635+00:00</updated>
+    <updated>2025-05-06T04:59:10.914107+00:00</updated>
     <summary>Article by Ming Chen
 DOI: https://doi.org/10.1515/jciea-2024-0005</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jciea-2024-0005</summary>
     <title>Nenghai: A Perspective from Han-Tibetan Cultural Interaction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-0006/html"/>
     <id>https://doi.org/10.1515/jciea-2024-0006</id>
-    <updated>2025-05-04T22:07:41.126646+00:00</updated>
+    <updated>2025-05-06T04:59:10.914113+00:00</updated>
     <summary>Article by De Guang
 DOI: https://doi.org/10.1515/jciea-2024-0006</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jciea-2024-0006</summary>
     <title>Calligraphic Iconology on Literature: The Image Relationship Between Language Art and Writing Art</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-0004/html"/>
     <id>https://doi.org/10.1515/jciea-2024-0004</id>
-    <updated>2025-05-04T22:07:41.126655+00:00</updated>
+    <updated>2025-05-06T04:59:10.914118+00:00</updated>
     <summary>Article by Xianzhang Zhao
 DOI: https://doi.org/10.1515/jciea-2024-0004</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jciea-2024-0004</summary>
     <title>The Comic Adaptation of Lao She’s Short Story “Vision”: A Critical Analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-0009/html"/>
     <id>https://doi.org/10.1515/jciea-2024-0009</id>
-    <updated>2025-05-04T22:07:41.126664+00:00</updated>
+    <updated>2025-05-06T04:59:10.914122+00:00</updated>
     <summary>Article by Jianlong Yang
 DOI: https://doi.org/10.1515/jciea-2024-0009</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jciea-2024-0009</summary>
     <title>He Yansheng:Dōgen and Chinese Zen Thought</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-0008/html"/>
     <id>https://doi.org/10.1515/jciea-2024-0008</id>
-    <updated>2025-05-04T22:07:41.126673+00:00</updated>
+    <updated>2025-05-06T04:59:10.914127+00:00</updated>
     <summary>Article by Sueki Fumihiko, Zhai Zheng
 DOI: https://doi.org/10.1515/jciea-2024-0008</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jciea-2024-0008</summary>
     <title>Research Centre for Translation: Building a Strong Academic Community in Translation Studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jciea-2024-0003/html"/>
     <id>https://doi.org/10.1515/jciea-2024-0003</id>
-    <updated>2025-05-04T22:07:41.126682+00:00</updated>
+    <updated>2025-05-06T04:59:10.914131+00:00</updated>
     <summary>Article by Yunrou Liu
 DOI: https://doi.org/10.1515/jciea-2024-0003</summary>
   </entry>

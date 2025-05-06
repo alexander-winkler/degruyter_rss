@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Advances in Geometry </title>
-  <link href="https://www.degruyterbrill.com/journal/key/advg/25/1/html"/>
-  <updated>2025-05-04T22:02:16.186936+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/advg/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/advg/html" rel="related"/>
+  <updated>2025-05-06T04:51:54.609228+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Advances in Geometry </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/advgeom-2025-frontmatter1</id>
-    <updated>2025-05-04T22:02:16.186960+00:00</updated>
+    <updated>2025-05-06T04:51:54.609248+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/advgeom-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>New rigidity results for critical metrics of some quadratic curvature functionals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0032/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0032</id>
-    <updated>2025-05-04T22:02:16.186970+00:00</updated>
+    <updated>2025-05-06T04:51:54.609255+00:00</updated>
     <summary>Article by Marco Bernardini
 DOI: https://doi.org/10.1515/advgeom-2024-0032</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0032</summary>
     <title>Extremizers of the Alexandrov–Fenchel inequality within a new class of convex bodies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0030/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0030</id>
-    <updated>2025-05-04T22:02:16.186977+00:00</updated>
+    <updated>2025-05-06T04:51:54.609262+00:00</updated>
     <summary>Article by Daniel Hug, Paul A. Reichert
 DOI: https://doi.org/10.1515/advgeom-2024-0030</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0030</summary>
     <title>Perturbation theory of asymptotic operators of contact instantons and pseudoholomorphic curves on symplectization</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0033/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0033</id>
-    <updated>2025-05-04T22:02:16.186983+00:00</updated>
+    <updated>2025-05-06T04:51:54.609268+00:00</updated>
     <summary>Article by Taesu Kim, Yong-Geun Oh
 DOI: https://doi.org/10.1515/advgeom-2024-0033</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0033</summary>
     <title>Cylinders in smooth del Pezzo surfaces of degree 2</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0034/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0034</id>
-    <updated>2025-05-04T22:02:16.186988+00:00</updated>
+    <updated>2025-05-06T04:51:54.609273+00:00</updated>
     <summary>Article by Jaehyun Kim, Joonyeong Won
 DOI: https://doi.org/10.1515/advgeom-2024-0034</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0034</summary>
     <title>The total absolute curvature of closed curves with singularities</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0024/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0024</id>
-    <updated>2025-05-04T22:02:16.186994+00:00</updated>
+    <updated>2025-05-06T04:51:54.609278+00:00</updated>
     <summary>Article by Atsufumi Honda, Chisa Tanaka, Yuta Yamauchi
 DOI: https://doi.org/10.1515/advgeom-2024-0024</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0024</summary>
     <title>On some relations between the perimeter, the area and the visual angle of a convex set</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0036/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0036</id>
-    <updated>2025-05-04T22:02:16.186998+00:00</updated>
+    <updated>2025-05-06T04:51:54.609283+00:00</updated>
     <summary>Article by J. Bruna, J. Cufí, A. Reventós
 DOI: https://doi.org/10.1515/advgeom-2024-0036</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0036</summary>
     <title>Fundamental polyhedra of projective elementary groups</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0035/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0035</id>
-    <updated>2025-05-04T22:02:16.187004+00:00</updated>
+    <updated>2025-05-06T04:51:54.609288+00:00</updated>
     <summary>Article by Daniel E. Martin
 DOI: https://doi.org/10.1515/advgeom-2024-0035</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/advgeom-2024-0035</summary>
     <title>Study of the cone of sums of squares plus sums of nonnegative circuit forms</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2024-0031/html"/>
     <id>https://doi.org/10.1515/advgeom-2024-0031</id>
-    <updated>2025-05-04T22:02:16.187009+00:00</updated>
+    <updated>2025-05-06T04:51:54.609293+00:00</updated>
     <summary>Article by Mareike Dressler, Salma Kuhlmann, Moritz Schick
 DOI: https://doi.org/10.1515/advgeom-2024-0031</summary>
   </entry>

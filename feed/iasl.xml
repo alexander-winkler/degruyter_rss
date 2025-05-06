@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Internationales Archiv für Sozialgeschichte der deutschen Literatur</title>
-  <link href="https://www.degruyterbrill.com/journal/key/iasl/49/2/html"/>
-  <updated>2025-05-04T22:06:23.031735+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/iasl/49/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iasl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/iasl/html" rel="related"/>
+  <updated>2025-05-06T04:57:25.459880+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iasl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Internationales Archiv für Sozialgeschichte der deutschen Literatur</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/iasl.xml" type="application/rss+xml"/>
   <entry>
     <title>Erich MühsamsTanthologie– Ein literarisches Plädoyer gegen die Erbschaftspraxis im deutschen Kaiserreich</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0012/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0012</id>
-    <updated>2025-05-04T22:06:23.031764+00:00</updated>
+    <updated>2025-05-06T04:57:25.459903+00:00</updated>
     <summary>Article by Carl Junginger
 DOI: https://doi.org/10.1515/iasl-2024-0012</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0012</summary>
     <title>Konservative Transkulturalität oder Paradoxien der Moderne?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0013/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0013</id>
-    <updated>2025-05-04T22:06:23.031774+00:00</updated>
+    <updated>2025-05-06T04:57:25.459914+00:00</updated>
     <summary>Article by Jörg Krappmann
 DOI: https://doi.org/10.1515/iasl-2024-0013</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0013</summary>
     <title>Sozialistische Großfamilie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0014/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0014</id>
-    <updated>2025-05-04T22:06:23.031785+00:00</updated>
+    <updated>2025-05-06T04:57:25.459921+00:00</updated>
     <summary>Article by Paweł Zajas
 DOI: https://doi.org/10.1515/iasl-2024-0014</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0014</summary>
     <title>#KritischesWeißsein: Friedrich Dürrenmatt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0015/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0015</id>
-    <updated>2025-05-04T22:06:23.031792+00:00</updated>
+    <updated>2025-05-06T04:57:25.459930+00:00</updated>
     <summary>Article by Melanie Rohner
 DOI: https://doi.org/10.1515/iasl-2024-0015</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0015</summary>
     <title>Stimmen des Fortschritts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0018/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0018</id>
-    <updated>2025-05-04T22:06:23.031799+00:00</updated>
+    <updated>2025-05-06T04:57:25.459937+00:00</updated>
     <summary>Article by Robert Leucht
 DOI: https://doi.org/10.1515/iasl-2024-0018</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0018</summary>
     <title>Ingenieurssolipsismen in Großstadtutopien der 1920er Jahre</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0019/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0019</id>
-    <updated>2025-05-04T22:06:23.031806+00:00</updated>
+    <updated>2025-05-06T04:57:25.459944+00:00</updated>
     <summary>Article by Rainer Godel
 DOI: https://doi.org/10.1515/iasl-2024-0019</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0019</summary>
     <title>Nation in Wartestellung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0020/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0020</id>
-    <updated>2025-05-04T22:06:23.031812+00:00</updated>
+    <updated>2025-05-06T04:57:25.459950+00:00</updated>
     <summary>Article by Steffen Richter
 DOI: https://doi.org/10.1515/iasl-2024-0020</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0020</summary>
     <title>Geschichten vom Ingenieur</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0021/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0021</id>
-    <updated>2025-05-04T22:06:23.031818+00:00</updated>
+    <updated>2025-05-06T04:57:25.459957+00:00</updated>
     <summary>Article by Hans Krah
 DOI: https://doi.org/10.1515/iasl-2024-0021</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0021</summary>
     <title>Ingenieure (in) derDeutschen Rundschau</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0022/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0022</id>
-    <updated>2025-05-04T22:06:23.031825+00:00</updated>
+    <updated>2025-05-06T04:57:25.459969+00:00</updated>
     <summary>Article by Stefan Scherer
 DOI: https://doi.org/10.1515/iasl-2024-0022</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0022</summary>
     <title>Staunen ohne Gott</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0023/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0023</id>
-    <updated>2025-05-04T22:06:23.031843+00:00</updated>
+    <updated>2025-05-06T04:57:25.459975+00:00</updated>
     <summary>Article by Sebastian Böhmer
 DOI: https://doi.org/10.1515/iasl-2024-0023</summary>
   </entry>
@@ -95,14 +92,14 @@ DOI: https://doi.org/10.1515/iasl-2024-0023</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/iasl-2024-frontmatter2</id>
-    <updated>2025-05-04T22:06:23.031850+00:00</updated>
+    <updated>2025-05-06T04:57:25.459982+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/iasl-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Praxeologie der Geisteswissenschaften – revisited</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0016/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0016</id>
-    <updated>2025-05-04T22:06:23.031861+00:00</updated>
+    <updated>2025-05-06T04:57:25.459987+00:00</updated>
     <summary>Article by Steffen Martus, Carlos Spoerhase
 DOI: https://doi.org/10.1515/iasl-2024-0016</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/iasl-2024-0016</summary>
     <title>Fortschrittsdiskurse im Horizont der Ingenieursemanzipation in der frühen Hochmoderne. Zur Einleitung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/iasl-2024-0017/html"/>
     <id>https://doi.org/10.1515/iasl-2024-0017</id>
-    <updated>2025-05-04T22:06:23.031873+00:00</updated>
+    <updated>2025-05-06T04:57:25.459994+00:00</updated>
     <summary>Article by Sebastian Böhmer
 DOI: https://doi.org/10.1515/iasl-2024-0017</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of South Asian Languages and Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jsall/11/1-2/html"/>
-  <updated>2025-05-04T22:08:43.719327+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jsall/11/1-2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jsall.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jsall/html" rel="related"/>
+  <updated>2025-05-06T05:00:37.585204+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jsall.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of South Asian Languages and Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jsall.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-frontmatter1-2/html"/>
     <id>https://doi.org/10.1515/jsall-2024-frontmatter1-2</id>
-    <updated>2025-05-04T22:08:43.719373+00:00</updated>
+    <updated>2025-05-06T05:00:37.585231+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jsall-2024-frontmatter1-2</summary>
   </entry>
   <entry>
     <title>Complex verb constructions in Indo-Aryan in synchrony and diachrony: an introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2012/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2012</id>
-    <updated>2025-05-04T22:08:43.719382+00:00</updated>
+    <updated>2025-05-06T05:00:37.585242+00:00</updated>
     <summary>Article by Eystein Dahl, Beatrice Grieco
 DOI: https://doi.org/10.1515/jsall-2024-2012</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2012</summary>
     <title>Remarks on the diachrony of verbal periphrasis in Vedic Sanskrit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2004/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2004</id>
-    <updated>2025-05-04T22:08:43.719392+00:00</updated>
+    <updated>2025-05-06T05:00:37.585252+00:00</updated>
     <summary>Article by Eystein Dahl
 DOI: https://doi.org/10.1515/jsall-2024-2004</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2004</summary>
     <title>Secondary predicates and motion events: the rise of complex predicates in Vedic Sanskrit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2006/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2006</id>
-    <updated>2025-05-04T22:08:43.719404+00:00</updated>
+    <updated>2025-05-06T05:00:37.585261+00:00</updated>
     <summary>Article by Antje Casaretto
 DOI: https://doi.org/10.1515/jsall-2024-2006</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2006</summary>
     <title>Early Vedic denominatives and their analytic counterparts with √kr̥‘do, make’</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2009/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2009</id>
-    <updated>2025-05-04T22:08:43.719417+00:00</updated>
+    <updated>2025-05-06T05:00:37.585271+00:00</updated>
     <summary>Article by Alex Roy
 DOI: https://doi.org/10.1515/jsall-2024-2009</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2009</summary>
     <title>Action nouns in Vedic support-verb constructions withkṛ</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2008/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2008</id>
-    <updated>2025-05-04T22:08:43.719425+00:00</updated>
+    <updated>2025-05-06T05:00:37.585280+00:00</updated>
     <summary>Article by Máté Ittzés
 DOI: https://doi.org/10.1515/jsall-2024-2008</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2008</summary>
     <title>The use ofās- ‘sit’ andvas- ‘dwell’ plus participle and gerund from Early Vedic to Epic Sanskrit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2007/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2007</id>
-    <updated>2025-05-04T22:08:43.719436+00:00</updated>
+    <updated>2025-05-06T05:00:37.585290+00:00</updated>
     <summary>Article by Beatrice Grieco
 DOI: https://doi.org/10.1515/jsall-2024-2007</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2007</summary>
     <title>Double-finite Serial Verbs in Sanskrit and later Indo-Aryan</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2005/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2005</id>
-    <updated>2025-05-04T22:08:43.719444+00:00</updated>
+    <updated>2025-05-06T05:00:37.585298+00:00</updated>
     <summary>Article by Hans Henrich Hock
 DOI: https://doi.org/10.1515/jsall-2024-2005</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2005</summary>
     <title>Nell Shapiro Hawley &amp; Sohini Sarah Pillai:Many Mahābhāratas(SUNY series in Hindu studies)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2016/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2016</id>
-    <updated>2025-05-04T22:08:43.719451+00:00</updated>
+    <updated>2025-05-06T05:00:37.585306+00:00</updated>
     <summary>Article by Nina Budziszewska
 DOI: https://doi.org/10.1515/jsall-2024-2016</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jsall-2024-2016</summary>
     <title>In memoriam Dipak Bhattacharya (1940–2023)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jsall-2024-2015/html"/>
     <id>https://doi.org/10.1515/jsall-2024-2015</id>
-    <updated>2025-05-04T22:08:43.719458+00:00</updated>
+    <updated>2025-05-06T05:00:37.585314+00:00</updated>
     <summary>Article by Mau Das Gupta
 DOI: https://doi.org/10.1515/jsall-2024-2015</summary>
   </entry>

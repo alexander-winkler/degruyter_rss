@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Assyriologie und Vorderasiatische Archäologie     </title>
-  <link href="https://www.degruyterbrill.com/journal/key/zava/114/2/html"/>
-  <updated>2025-05-04T22:13:19.728578+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zava/114/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zava.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zava/html" rel="related"/>
+  <updated>2025-05-06T05:06:56.460687+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zava.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Assyriologie und Vorderasiatische Archäologie     </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zava.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/za-2024-frontmatter2</id>
-    <updated>2025-05-04T22:13:19.728624+00:00</updated>
+    <updated>2025-05-06T05:06:56.460724+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/za-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Franciscus Antonius Maria Wiggermann</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0016/html"/>
     <id>https://doi.org/10.1515/za-2024-0016</id>
-    <updated>2025-05-04T22:13:19.728636+00:00</updated>
+    <updated>2025-05-06T05:06:56.460734+00:00</updated>
     <summary>Article by Joost Hazenbos, Angelique Sterks
 DOI: https://doi.org/10.1515/za-2024-0016</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/za-2024-0016</summary>
     <title>Abundance of Fish, Source of Fat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0002/html"/>
     <id>https://doi.org/10.1515/za-2024-0002</id>
-    <updated>2025-05-04T22:13:19.728647+00:00</updated>
+    <updated>2025-05-06T05:06:56.460747+00:00</updated>
     <summary>Article by Angela Greco, Nadja Pöllath
 DOI: https://doi.org/10.1515/za-2024-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/za-2024-0002</summary>
     <title>Une lamentation pour une cérémonie funèbre avec des références à Dumuzi (MAH 15995)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0017/html"/>
     <id>https://doi.org/10.1515/za-2024-0017</id>
-    <updated>2025-05-04T22:13:19.728661+00:00</updated>
+    <updated>2025-05-06T05:06:56.460757+00:00</updated>
     <summary>Article by Margaret Jaques
 DOI: https://doi.org/10.1515/za-2024-0017</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/za-2024-0017</summary>
     <title>A Standardised Demon Sequence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0018/html"/>
     <id>https://doi.org/10.1515/za-2024-0018</id>
-    <updated>2025-05-04T22:13:19.728669+00:00</updated>
+    <updated>2025-05-06T05:06:56.460768+00:00</updated>
     <summary>Article by Marie Barkowsky
 DOI: https://doi.org/10.1515/za-2024-0018</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/za-2024-0018</summary>
     <title>Remedies for a Prince with a Nosebleed: SAA 10, 321–322 and the Missing Medical Tablet of Urad-Nanaya</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0019/html"/>
     <id>https://doi.org/10.1515/za-2024-0019</id>
-    <updated>2025-05-04T22:13:19.728682+00:00</updated>
+    <updated>2025-05-06T05:06:56.460777+00:00</updated>
     <summary>Article by Krisztián Simkó
 DOI: https://doi.org/10.1515/za-2024-0019</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/za-2024-0019</summary>
     <title>A New Late Babylonian Manuscript of the Medical-magical Series ‘Fumigation’ (qutāru)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0020/html"/>
     <id>https://doi.org/10.1515/za-2024-0020</id>
-    <updated>2025-05-04T22:13:19.728691+00:00</updated>
+    <updated>2025-05-06T05:06:56.460786+00:00</updated>
     <summary>Article by András Bácskay
 DOI: https://doi.org/10.1515/za-2024-0020</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/za-2024-0020</summary>
     <title>Old Seals in New Contexts at Kassite Basmaya: Sealing Devices, Collectibles, and Heirlooms</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0021/html"/>
     <id>https://doi.org/10.1515/za-2024-0021</id>
-    <updated>2025-05-04T22:13:19.728700+00:00</updated>
+    <updated>2025-05-06T05:06:56.460796+00:00</updated>
     <summary>Article by Haider Oraibi Almamori, Taha Abod, Karim Swadi, Agnete Wisti Lassen
 DOI: https://doi.org/10.1515/za-2024-0021</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/za-2024-0021</summary>
     <title>Evelyn Klengel-BrandtundHans-Ulrich Onasch: Die Terrakotten aus Assur im Vorderasiatischen Museum Berlin. Von der frühdynastischen bis zur parthischen Zeit. (Wissenschaftliche Veröffentlichungen der Deutschen Orient-Gesellschaft 156). Wiesbaden: Harrassowitz Verlag, 2020. 620 S. 24 × 34,5 cm, 340 Taf. ISBN: 978-3-447-11394-6. Preis: € 158,00.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/za-2024-0022/html"/>
     <id>https://doi.org/10.1515/za-2024-0022</id>
-    <updated>2025-05-04T22:13:19.728713+00:00</updated>
+    <updated>2025-05-06T05:06:56.460813+00:00</updated>
     <summary>Article by Elisa Roßberger
 DOI: https://doi.org/10.1515/za-2024-0022</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>at - Automatisierungstechnik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/auto/73/4/html"/>
-  <updated>2025-05-04T22:03:13.692639+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/auto/73/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auto.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/auto/html" rel="related"/>
+  <updated>2025-05-06T04:53:04.458327+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auto.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in at - Automatisierungstechnik</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auto.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-frontmatter4/html"/>
     <id>https://doi.org/10.1515/auto-2025-frontmatter4</id>
-    <updated>2025-05-04T22:03:13.692666+00:00</updated>
+    <updated>2025-05-06T04:53:04.458351+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/auto-2025-frontmatter4</summary>
   </entry>
   <entry>
     <title>Data-driven process modeling in metal forming</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-2001/html"/>
     <id>https://doi.org/10.1515/auto-2025-2001</id>
-    <updated>2025-05-04T22:03:13.692674+00:00</updated>
+    <updated>2025-05-06T04:53:04.458360+00:00</updated>
     <summary>Article by Birgit Vogel-Heuser, Alexander Fay, Mathias Liewald
 DOI: https://doi.org/10.1515/auto-2025-2001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/auto-2025-2001</summary>
     <title>Tube geometry prediction in rotary draw bending process using Random Forest regression</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0131/html"/>
     <id>https://doi.org/10.1515/auto-2024-0131</id>
-    <updated>2025-05-04T22:03:13.692682+00:00</updated>
+    <updated>2025-05-06T04:53:04.458370+00:00</updated>
     <summary>Article by Alireza Yazdani, Jonas Knoche, Bernd Engel, Kristof Van Laerhoven
 DOI: https://doi.org/10.1515/auto-2024-0131</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/auto-2024-0131</summary>
     <title>DSL4DPiFS – a graphical notation to model data pipeline deployment in forming systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0114/html"/>
     <id>https://doi.org/10.1515/auto-2024-0114</id>
-    <updated>2025-05-04T22:03:13.692689+00:00</updated>
+    <updated>2025-05-06T04:53:04.458378+00:00</updated>
     <summary>Article by Birgit Vogel-Heuser, Mingxi Zhang, Marius Krüger, Alejandra Vicaria, Markus Gardill, Yuyao Jiang, Ansgar Trächtler, Henning Peters, Mathias Liewald, Adrian Schenek, Pascal Heinzelmann, Michael Weyrich
 DOI: https://doi.org/10.1515/auto-2024-0114</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/auto-2024-0114</summary>
     <title>An AI approach for predicting the active surface of deep drawing tools in try-out</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0130/html"/>
     <id>https://doi.org/10.1515/auto-2024-0130</id>
-    <updated>2025-05-04T22:03:13.692697+00:00</updated>
+    <updated>2025-05-06T04:53:04.458386+00:00</updated>
     <summary>Article by Michael Hohmann, Adili Yiming, Lars Penter, Steffen Ihlenfeldt, Oliver Niggemann
 DOI: https://doi.org/10.1515/auto-2024-0130</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/auto-2024-0130</summary>
     <title>Enhancing FEA sheet metal forming simulations through 3D geometric data-driven surrogate modeling</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0116/html"/>
     <id>https://doi.org/10.1515/auto-2024-0116</id>
-    <updated>2025-05-04T22:03:13.692703+00:00</updated>
+    <updated>2025-05-06T04:53:04.458394+00:00</updated>
     <summary>Article by Sebastian Baum, Pascal Heinzelmann, Mathias Liewald, Michael Weyrich
 DOI: https://doi.org/10.1515/auto-2024-0116</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/auto-2024-0116</summary>
     <title>Grundlagen und Potenziale für Data-Mining-Anwendungen in der In-line-Messung beim Gesenkschmieden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0138/html"/>
     <id>https://doi.org/10.1515/auto-2024-0138</id>
-    <updated>2025-05-04T22:03:13.692710+00:00</updated>
+    <updated>2025-05-06T04:53:04.458404+00:00</updated>
     <summary>Article by Claudia Glaubitz, Marcel Rothgänger, Helena Monke, Eduard Ortlieb, Julius Peddinghaus, Kai Brunotte
 DOI: https://doi.org/10.1515/auto-2024-0138</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/auto-2024-0138</summary>
     <title>Zum Gedenken an Prof. em. Dr.-Ing. Günther Schmidt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-0028/html"/>
     <id>https://doi.org/10.1515/auto-2025-0028</id>
-    <updated>2025-05-04T22:03:13.692716+00:00</updated>
+    <updated>2025-05-06T04:53:04.458412+00:00</updated>
     <summary>Article by Georg Bretthauer, Martin Buss
 DOI: https://doi.org/10.1515/auto-2025-0028</summary>
   </entry>

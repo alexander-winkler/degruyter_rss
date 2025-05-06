@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of Chemical Reactor Engineering</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijcre/23/2/html"/>
-  <updated>2025-05-04T22:06:38.941927+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ijcre/23/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijcre.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijcre/html" rel="related"/>
+  <updated>2025-05-06T04:57:47.181090+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijcre.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of Chemical Reactor Engineering</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijcre.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/ijcre-2025-frontmatter2</id>
-    <updated>2025-05-04T22:06:38.941959+00:00</updated>
+    <updated>2025-05-06T04:57:47.181116+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ijcre-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>A critical analysis on synthesis of nanofluids and factors affecting thermal conductivity of nanofluids for heat transfer applications: a review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0189/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0189</id>
-    <updated>2025-05-04T22:06:38.941968+00:00</updated>
+    <updated>2025-05-06T04:57:47.181129+00:00</updated>
     <summary>Article by Vivek Sharma, Ritesh Patidar, Kunj Bihari Rana
 DOI: https://doi.org/10.1515/ijcre-2024-0189</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0189</summary>
     <title>Improving iron-bearing dust pellets performance through synergistic action of dual-component organic binders: cellulose and starch interactions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0139/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0139</id>
-    <updated>2025-05-04T22:06:38.941979+00:00</updated>
+    <updated>2025-05-06T04:57:47.181139+00:00</updated>
     <summary>Article by Tao Yang, Xing-wang Li, Qing-hai Yu, Yi-fan Wang, Jie Lei, Hong-ming Long
 DOI: https://doi.org/10.1515/ijcre-2024-0139</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0139</summary>
     <title>Preparation of mesoporous lignin-based aerogels for organic dyes removal</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0150/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0150</id>
-    <updated>2025-05-04T22:06:38.941989+00:00</updated>
+    <updated>2025-05-06T04:57:47.181149+00:00</updated>
     <summary>Article by Yingying Zhang, Xianke Hu, Jie Yang, Ying Kang, Jie Wei, Dawei Fang
 DOI: https://doi.org/10.1515/ijcre-2024-0150</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0150</summary>
     <title>Power generation potential and assessment of producer gas quality from blended rubber shell and palm kernel shell in open core downdraft gasifier</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0121/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0121</id>
-    <updated>2025-05-04T22:06:38.942001+00:00</updated>
+    <updated>2025-05-06T04:57:47.181157+00:00</updated>
     <summary>Article by P. Marshal Raj, M. Gerald Arul Selvan
 DOI: https://doi.org/10.1515/ijcre-2024-0121</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0121</summary>
     <title>Bi2S3loaded MXene Ti3C2Txnanosheet with an adsorption-photocatalytic synergistic removal for tetracycline</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0231/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0231</id>
-    <updated>2025-05-04T22:06:38.942009+00:00</updated>
+    <updated>2025-05-06T04:57:47.181164+00:00</updated>
     <summary>Article by Huan Xi, Lu Wang, Haimeng Huang
 DOI: https://doi.org/10.1515/ijcre-2024-0231</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0231</summary>
     <title>Preparation of activated carbon from waste tea and its performance in adsorptive desulfurization of model fuel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0232/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0232</id>
-    <updated>2025-05-04T22:06:38.942016+00:00</updated>
+    <updated>2025-05-06T04:57:47.181171+00:00</updated>
     <summary>Article by Samira Naseri, Gholamreza Moradi, Tanaz Ghanadi
 DOI: https://doi.org/10.1515/ijcre-2024-0232</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0232</summary>
     <title>Study on friction pressure drop characteristics of gas flow through multi-size irregular high-purity magnesia bed layer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0192/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0192</id>
-    <updated>2025-05-04T22:06:38.942024+00:00</updated>
+    <updated>2025-05-06T04:57:47.181179+00:00</updated>
     <summary>Article by Xiaohu Zhang, Liang Zhao, Hui Dong
 DOI: https://doi.org/10.1515/ijcre-2024-0192</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0192</summary>
     <title>Unlocking sustainable cooling: a numerical analysis of ice slurry flow in 180° U-bends-impacts of bend radius/pipe radius ratios and pressure drops on system performance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0233/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0233</id>
-    <updated>2025-05-04T22:06:38.942034+00:00</updated>
+    <updated>2025-05-06T04:57:47.181186+00:00</updated>
     <summary>Article by Kamal Singh Rawat, Prabhakar Bhandari, Vijay Singh Bisht, Beemkumar Nagappan, Lalit Ranakoti, Karthikeyan Alagu, Dhirendra Nath Thatoi, Shubham Sharma, V. Nagabhushana Rao, Ehab El Sayed Massoud
 DOI: https://doi.org/10.1515/ijcre-2024-0233</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/ijcre-2024-0233</summary>
     <title>DEM investigation on effect of internal pipe on active layer characterization in a drum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijcre-2024-0216/html"/>
     <id>https://doi.org/10.1515/ijcre-2024-0216</id>
-    <updated>2025-05-04T22:06:38.942042+00:00</updated>
+    <updated>2025-05-06T04:57:47.181197+00:00</updated>
     <summary>Article by Yong Zhang, Guoqing Chen, Baosheng Jin
 DOI: https://doi.org/10.1515/ijcre-2024-0216</summary>
   </entry>

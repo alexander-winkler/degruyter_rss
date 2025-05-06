@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Digital History</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jdh/3/3/html"/>
-  <updated>2025-05-04T22:07:45.972075+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jdh/3/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdh.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jdh/html" rel="related"/>
+  <updated>2025-05-06T04:59:17.326532+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdh.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Digital History</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jdh.xml" type="application/rss+xml"/>
   <entry>
     <title>ReOrienting Digital History: New frontiers in Chinese Studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jdh-2024-0001/html"/>
     <id>https://doi.org/10.1515/jdh-2024-0001</id>
-    <updated>2025-05-04T22:07:45.972110+00:00</updated>
+    <updated>2025-05-06T04:59:17.326556+00:00</updated>
     <summary>Article by Cécile ARMAND
 DOI: https://doi.org/10.1515/jdh-2024-0001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/jdh-2024-0001</summary>
     <title>Shaping the Transnational Public Sphere in Republican China: Discourses and Practices of the Rotary Club in the Shanghai Press (1919-1949)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jdh-2023-0017/html"/>
     <id>https://doi.org/10.1515/jdh-2023-0017</id>
-    <updated>2025-05-04T22:07:45.972125+00:00</updated>
+    <updated>2025-05-06T04:59:17.326566+00:00</updated>
     <summary>Article by Cécile ARMAND
 DOI: https://doi.org/10.1515/jdh-2023-0017</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/jdh-2023-0017</summary>
     <title>Eminent Chinese of the Shenbao (1872-1891). A digital investigation of news reporting and newspaper-making in late imperial China</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jdh-2023-0012/html"/>
     <id>https://doi.org/10.1515/jdh-2023-0012</id>
-    <updated>2025-05-04T22:07:45.972135+00:00</updated>
+    <updated>2025-05-06T04:59:17.326573+00:00</updated>
     <summary>Article by Christian Henriot
 DOI: https://doi.org/10.1515/jdh-2023-0012</summary>
   </entry>

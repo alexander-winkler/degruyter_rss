@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Optical Communications</title>
-  <link href="https://www.degruyterbrill.com/journal/key/joc/46/2/html"/>
-  <updated>2025-05-04T22:08:30.556687+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/joc/46/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joc.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/joc/html" rel="related"/>
+  <updated>2025-05-06T05:00:19.895493+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joc.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Optical Communications</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/joc.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/joc-2025-frontmatter2</id>
-    <updated>2025-05-04T22:08:30.556713+00:00</updated>
+    <updated>2025-05-06T05:00:19.895519+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/joc-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Comparative study of single pump all optical fiber amplifiers (POAs) with ultra wide band and high gain fiber optic parametric amplifiers in highly nonlinear fibers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0022/html"/>
     <id>https://doi.org/10.1515/joc-2024-0022</id>
-    <updated>2025-05-04T22:08:30.556720+00:00</updated>
+    <updated>2025-05-06T05:00:19.895526+00:00</updated>
     <summary>Article by Anitha Gopalan, Judy Simon, Thoti Hemalatha, Venkata Naresh Mandhala, Nalini Neelamegam, Binu Sukumar, Faten Kamel Madian
 DOI: https://doi.org/10.1515/joc-2024-0022</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/joc-2024-0022</summary>
     <title>Dense wavelength division multiplexing scheme based on effective distributed inline light fiber Raman amplifier configuration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0020/html"/>
     <id>https://doi.org/10.1515/joc-2024-0020</id>
-    <updated>2025-05-04T22:08:30.556731+00:00</updated>
+    <updated>2025-05-06T05:00:19.895533+00:00</updated>
     <summary>Article by Govindaraj Ramkumar, Perumal Kalpana Devi, Vinodhini Shankar, Sivaraman Pandarinathan, Rajinikanth Eshwar, Binu Sukumar, Omar Karem Omran
 DOI: https://doi.org/10.1515/joc-2024-0020</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/joc-2024-0020</summary>
     <title>Four wave mixing, average amplified spontaneous emission, and channel spacing effects on the optical transceiver systems based on multi pumped Raman amplifiers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0040/html"/>
     <id>https://doi.org/10.1515/joc-2024-0040</id>
-    <updated>2025-05-04T22:08:30.556738+00:00</updated>
+    <updated>2025-05-06T05:00:19.895542+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Judy Simon, Nellore Kapileswar, Dasari Naga Vinod, Phani Kumar Polasi, Hazem Hazem Ali Emam
 DOI: https://doi.org/10.1515/joc-2024-0040</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/joc-2024-0040</summary>
     <title>High efficient net gain and low noise figure based vertical cavity semiconductor optical amplifiers for wavelength division multiplexing applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0048/html"/>
     <id>https://doi.org/10.1515/joc-2024-0048</id>
-    <updated>2025-05-04T22:08:30.556748+00:00</updated>
+    <updated>2025-05-06T05:00:19.895547+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Arunsundar Balasubramanian, Nithyasundari Balakrishnan, Jeneetha Jebanazer, Mohana Sundaram Kandasamy, Nishanthi Govindaswamy, Rashida Maher Mahmoud
 DOI: https://doi.org/10.1515/joc-2024-0048</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/joc-2024-0048</summary>
     <title>Hybrid pumped laser sources based hybrid traveling wave SOA and optical EDFA amplifies for signal quality improvement</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0055/html"/>
     <id>https://doi.org/10.1515/joc-2024-0055</id>
-    <updated>2025-05-04T22:08:30.556756+00:00</updated>
+    <updated>2025-05-06T05:00:19.895553+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Shibu Soman, Vasumathi Gunasekaran, Ramkumar Velayudam, Jeneetha Jebanazer, Benisha Maria Xavier, Ayman Zain Hemadan
 DOI: https://doi.org/10.1515/joc-2024-0055</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/joc-2024-0055</summary>
     <title>The effect of misalignment on the coupling optics involving laser diode and single-mode triangular index fiber with an upside down tapered hyperbolic microlens on its tip</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0024/html"/>
     <id>https://doi.org/10.1515/joc-2024-0024</id>
-    <updated>2025-05-04T22:08:30.556762+00:00</updated>
+    <updated>2025-05-06T05:00:19.895561+00:00</updated>
     <summary>Article by Mithun Maity, Angshuman Majumdar, Ramkrishna Rakshit, Sankar Gangopadhyay
 DOI: https://doi.org/10.1515/joc-2024-0024</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/joc-2024-0024</summary>
     <title>Investigation of hybrid chalcogenide photonic crystal fiber for MIR supercontinuum generation and optical communication</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0025/html"/>
     <id>https://doi.org/10.1515/joc-2024-0025</id>
-    <updated>2025-05-04T22:08:30.556767+00:00</updated>
+    <updated>2025-05-06T05:00:19.895566+00:00</updated>
     <summary>Article by Sandeep Kumar Jain, Mohit Kumar Sharma, Sandeep Vyas
 DOI: https://doi.org/10.1515/joc-2024-0025</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/joc-2024-0025</summary>
     <title>Verified of leakage loss, birefringence, nonlinear parameters and total number of modes in silica/silica doped and plastic fibers for fiber system efficiency improvement</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0058/html"/>
     <id>https://doi.org/10.1515/joc-2024-0058</id>
-    <updated>2025-05-04T22:08:30.556773+00:00</updated>
+    <updated>2025-05-06T05:00:19.895572+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Dhilipkumar Santhakumar, Ata Kishore Kumar, Sangeetham Dharuman Lalitha, Jeneetha Jebanazer, Salem Balamurugan Mohan, Aisha abd Rahman Ahmed
 DOI: https://doi.org/10.1515/joc-2024-0058</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/joc-2024-0058</summary>
     <title>Total losses and dispersion effects management and upgrading fiber reach in ultra-high optical transmission system based on hybrid amplification system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0074/html"/>
     <id>https://doi.org/10.1515/joc-2024-0074</id>
-    <updated>2025-05-04T22:08:30.556783+00:00</updated>
+    <updated>2025-05-06T05:00:19.895579+00:00</updated>
     <summary>Article by Govindaraj Ramkumar, Ferlin Deva Shahila, Vanitha Lingaraj, Prabhu Chandran, Vivek Chidambaram, Parimala Arumugam, Hegazy Mahmoud Ramadan
 DOI: https://doi.org/10.1515/joc-2024-0074</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/joc-2024-0074</summary>
     <title>Various graded index plastic optical fiber performance signature capability with the optimum dispersion control for indoor coverage applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0069/html"/>
     <id>https://doi.org/10.1515/joc-2024-0069</id>
-    <updated>2025-05-04T22:08:30.556789+00:00</updated>
+    <updated>2025-05-06T05:00:19.895584+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Ashok Raja, Vanitha Lingaraj, Ferlin Deva Shahila, Thankamony Devakhi Subha, Ganekanti Naresh, Firoz Mostafa Ali
 DOI: https://doi.org/10.1515/joc-2024-0069</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/joc-2024-0069</summary>
     <title>Optically injected quantum dot lasers and its complex dynamics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0010/html"/>
     <id>https://doi.org/10.1515/joc-2024-0010</id>
-    <updated>2025-05-04T22:08:30.556795+00:00</updated>
+    <updated>2025-05-06T05:00:19.895589+00:00</updated>
     <summary>Article by Tahani Adil Kareem, Hussein B. Al Husseini
 DOI: https://doi.org/10.1515/joc-2024-0010</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/joc-2024-0010</summary>
     <title>Light emitting diode and laser diode system behaviour description and their performance signature measurements</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0043/html"/>
     <id>https://doi.org/10.1515/joc-2024-0043</id>
-    <updated>2025-05-04T22:08:30.556800+00:00</updated>
+    <updated>2025-05-06T05:00:19.895598+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Vanitha Lingaraj, Jegadish Kumar KailairaJan Jeyaprakash, Jeneetha Jebanazer, Nishanthi Govindaswamy, Sathish Kumar Natarajan, Orabi Salem Orabi
 DOI: https://doi.org/10.1515/joc-2024-0043</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/joc-2024-0043</summary>
     <title>Spectrum fragmentation-aware dynamic network slicing deployment in computing power networks based on elastic optical networks</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0023/html"/>
     <id>https://doi.org/10.1515/joc-2024-0023</id>
-    <updated>2025-05-04T22:08:30.556806+00:00</updated>
+    <updated>2025-05-06T05:00:19.895603+00:00</updated>
     <summary>Article by Laiming Wang, Haojie Zhang, Lei Li, Danping Ren, Jinhua Hu, Jijun Zhao
 DOI: https://doi.org/10.1515/joc-2024-0023</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/joc-2024-0023</summary>
     <title>Investigation of 16 × 10 Gbps mode division multiplexed enabled integrated NGPON–FSO architecture under wired-wireless link losses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0036/html"/>
     <id>https://doi.org/10.1515/joc-2024-0036</id>
-    <updated>2025-05-04T22:08:30.556813+00:00</updated>
+    <updated>2025-05-06T05:00:19.895609+00:00</updated>
     <summary>Article by Meet Kumari
 DOI: https://doi.org/10.1515/joc-2024-0036</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/joc-2024-0036</summary>
     <title>Free space optical communication system: a review of practical constraints, applications, and challenges</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0011/html"/>
     <id>https://doi.org/10.1515/joc-2024-0011</id>
-    <updated>2025-05-04T22:08:30.556818+00:00</updated>
+    <updated>2025-05-06T05:00:19.895614+00:00</updated>
     <summary>Article by Riyaz Saiyyed, Manoj Sindhwani, Bhavna Ambudkar, Shippu Sachdeva, Abhishek Kumar, Manoj Kumar Shukla
 DOI: https://doi.org/10.1515/joc-2024-0011</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/joc-2024-0011</summary>
     <title>High modulation effects on hybrid optical fiber links and OWC Channel based on optical DP-QSK transceiver systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0015/html"/>
     <id>https://doi.org/10.1515/joc-2024-0015</id>
-    <updated>2025-05-04T22:08:30.556825+00:00</updated>
+    <updated>2025-05-06T05:00:19.895619+00:00</updated>
     <summary>Article by Ramachandran Thandaiah Prabu, Balamuralitharan Balakrishnan, Hirald Dwaraka Praveena, Thulasi Bai Vijayan, Benisha Maria Xavier, Elayaraja Perumal, Wafaa Fahim Hossam Zain
 DOI: https://doi.org/10.1515/joc-2024-0015</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/joc-2024-0015</summary>
     <title>Optical communication enhanced IDMBOC for maximizing backhaul-effect &amp; maintaining optimum cell sizes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0035/html"/>
     <id>https://doi.org/10.1515/joc-2024-0035</id>
-    <updated>2025-05-04T22:08:30.556830+00:00</updated>
+    <updated>2025-05-06T05:00:19.895624+00:00</updated>
     <summary>Article by Kanchan Mankar, Suchita Varade
 DOI: https://doi.org/10.1515/joc-2024-0035</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/joc-2024-0035</summary>
     <title>Mitigating attenuation effects in free-space optics using WDM under variable atmospheric conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0008/html"/>
     <id>https://doi.org/10.1515/joc-2024-0008</id>
-    <updated>2025-05-04T22:08:30.556836+00:00</updated>
+    <updated>2025-05-06T05:00:19.895629+00:00</updated>
     <summary>Article by Dhrumi Chaudhari, Sandeep Rajput
 DOI: https://doi.org/10.1515/joc-2024-0008</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/joc-2024-0008</summary>
     <title>Performance analysis of variable-gain amplify and forward relayed hybrid FSO/VLC communication system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0013/html"/>
     <id>https://doi.org/10.1515/joc-2024-0013</id>
-    <updated>2025-05-04T22:08:30.556841+00:00</updated>
+    <updated>2025-05-06T05:00:19.895634+00:00</updated>
     <summary>Article by Kamna Sharma, Mona Aggarwal, Pooja Sabherwal
 DOI: https://doi.org/10.1515/joc-2024-0013</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/joc-2024-0013</summary>
     <title>Wavelength division multiplexing of free space optical system under the effect of oil fire smoke</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0037/html"/>
     <id>https://doi.org/10.1515/joc-2024-0037</id>
-    <updated>2025-05-04T22:08:30.556846+00:00</updated>
+    <updated>2025-05-06T05:00:19.895639+00:00</updated>
     <summary>Article by Noor Wisam Sabri, Firas S. Mohammed, Asmaa A. Abdul Razaq
 DOI: https://doi.org/10.1515/joc-2024-0037</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/joc-2024-0037</summary>
     <title>A hybrid approach combining OFC and FSO for multichannel connectivity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0042/html"/>
     <id>https://doi.org/10.1515/joc-2024-0042</id>
-    <updated>2025-05-04T22:08:30.556852+00:00</updated>
+    <updated>2025-05-06T05:00:19.895648+00:00</updated>
     <summary>Article by Iqra Khalil, Kanza Noor, Farhan Qamar, Romana Shahzadi
 DOI: https://doi.org/10.1515/joc-2024-0042</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/joc-2024-0042</summary>
     <title>Performance analysis of 4QAM-OFDM-FSO link under rain weather conditions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0021/html"/>
     <id>https://doi.org/10.1515/joc-2024-0021</id>
-    <updated>2025-05-04T22:08:30.556857+00:00</updated>
+    <updated>2025-05-06T05:00:19.895653+00:00</updated>
     <summary>Article by Saruchi Attri, Charu Madhu, Daljeet Kaur
 DOI: https://doi.org/10.1515/joc-2024-0021</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/joc-2024-0021</summary>
     <title>Exploring FSO link performance in varied atmospheric conditions to optimize 5G communication with a polarized quasi-diffuse transmitter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0049/html"/>
     <id>https://doi.org/10.1515/joc-2024-0049</id>
-    <updated>2025-05-04T22:08:30.556863+00:00</updated>
+    <updated>2025-05-06T05:00:19.895658+00:00</updated>
     <summary>Article by Nirav S. Desai, Sandeep J. Rajput
 DOI: https://doi.org/10.1515/joc-2024-0049</summary>
   </entry>
@@ -206,7 +203,7 @@ DOI: https://doi.org/10.1515/joc-2024-0049</summary>
     <title>Transmitter diversity and OAM incorporated 40 Gbps free space optical system</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0017/html"/>
     <id>https://doi.org/10.1515/joc-2024-0017</id>
-    <updated>2025-05-04T22:08:30.556868+00:00</updated>
+    <updated>2025-05-06T05:00:19.895663+00:00</updated>
     <summary>Article by Somdeep Singh, Preeti Singh, Pardeep Kaur
 DOI: https://doi.org/10.1515/joc-2024-0017</summary>
   </entry>
@@ -214,7 +211,7 @@ DOI: https://doi.org/10.1515/joc-2024-0017</summary>
     <title>Minimization of dispersion and non-linear effects in WDM based long-haul high capacity optical communication systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2024-0086/html"/>
     <id>https://doi.org/10.1515/joc-2024-0086</id>
-    <updated>2025-05-04T22:08:30.556874+00:00</updated>
+    <updated>2025-05-06T05:00:19.895668+00:00</updated>
     <summary>Article by Zahid Zaman, Yousaf Khan, Ammar Muhammad Khan
 DOI: https://doi.org/10.1515/joc-2024-0086</summary>
   </entry>
@@ -222,7 +219,7 @@ DOI: https://doi.org/10.1515/joc-2024-0086</summary>
     <title>Retraction notice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/joc-2025-2001/html"/>
     <id>https://doi.org/10.1515/joc-2025-2001</id>
-    <updated>2025-05-04T22:08:30.556879+00:00</updated>
+    <updated>2025-05-06T05:00:19.895673+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/joc-2025-2001</summary>
   </entry>
 </feed>

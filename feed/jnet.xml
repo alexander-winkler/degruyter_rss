@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Non-Equilibrium Thermodynamics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jnet/50/2/html"/>
-  <updated>2025-05-04T22:08:26.444989+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jnet/50/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnet.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jnet/html" rel="related"/>
+  <updated>2025-05-06T05:00:14.640476+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnet.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Non-Equilibrium Thermodynamics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnet.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jnet-2025-frontmatter2</id>
-    <updated>2025-05-04T22:08:26.445020+00:00</updated>
+    <updated>2025-05-06T05:00:14.640507+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jnet-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Modeling high-pressure viscosities of fatty acid esters and biodiesel fuels based on modified rough hard-sphere-chain model and deep learning method</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0040/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0040</id>
-    <updated>2025-05-04T22:08:26.445029+00:00</updated>
+    <updated>2025-05-06T05:00:14.640515+00:00</updated>
     <summary>Article by Sayed Mostafa Hosseini, Mariano Pierantozzi
 DOI: https://doi.org/10.1515/jnet-2024-0040</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0040</summary>
     <title>Study on heat and mass transfer mechanism of unsaturated porous media under CW laser irradiation: with and without carrier gas</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0025/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0025</id>
-    <updated>2025-05-04T22:08:26.445042+00:00</updated>
+    <updated>2025-05-06T05:00:14.640523+00:00</updated>
     <summary>Article by Shao-Hui Han, Yuan Dong, Guang-Yong Jin
 DOI: https://doi.org/10.1515/jnet-2024-0025</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0025</summary>
     <title>Efficient ecological function optimization for endoreversible Carnot heat pumps</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0061/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0061</id>
-    <updated>2025-05-04T22:08:26.445049+00:00</updated>
+    <updated>2025-05-06T05:00:14.640529+00:00</updated>
     <summary>Article by Yiwen Su, Lingen Chen, Yanlin Ge, Huijun Feng
 DOI: https://doi.org/10.1515/jnet-2024-0061</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0061</summary>
     <title>Entropy as Noether charge for quasistatic gradient flow</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0054/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0054</id>
-    <updated>2025-05-04T22:08:26.445060+00:00</updated>
+    <updated>2025-05-06T05:00:14.640533+00:00</updated>
     <summary>Article by Aaron Beyen, Christian Maes
 DOI: https://doi.org/10.1515/jnet-2024-0054</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0054</summary>
     <title>Numerical simulation of binary convection within the Soret regime in a tilted cylinder</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0064/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0064</id>
-    <updated>2025-05-04T22:08:26.445067+00:00</updated>
+    <updated>2025-05-06T05:00:14.640538+00:00</updated>
     <summary>Article by Arantxa Alonso, Isabel Mercader, Oriol Batiste, Alvaro Meseguer
 DOI: https://doi.org/10.1515/jnet-2024-0064</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0064</summary>
     <title>Is there a need for an extended phase definition for systems far from equilibrium?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0063/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0063</id>
-    <updated>2025-05-04T22:08:26.445078+00:00</updated>
+    <updated>2025-05-06T05:00:14.640543+00:00</updated>
     <summary>Article by Fernando Bautista, Juan Paulo García-Sandoval, Octavio Manero
 DOI: https://doi.org/10.1515/jnet-2024-0063</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0063</summary>
     <title>Existence of the Chapman–Enskog solution and its relation with first-order dissipative fluid theories</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0086/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0086</id>
-    <updated>2025-05-04T22:08:26.445086+00:00</updated>
+    <updated>2025-05-06T05:00:14.640548+00:00</updated>
     <summary>Article by Ana Laura García-Perciante, Alma Rosa Méndez, Olivier Sarbach
 DOI: https://doi.org/10.1515/jnet-2024-0086</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0086</summary>
     <title>Performance comparison of water towers and combined pumped hydro and compressed gas system and proposing a novel hybrid system to energy storage with a case study of a 50 MW wind farm</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0102/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0102</id>
-    <updated>2025-05-04T22:08:26.445096+00:00</updated>
+    <updated>2025-05-06T05:00:14.640554+00:00</updated>
     <summary>Article by Amin Hadidi
 DOI: https://doi.org/10.1515/jnet-2024-0102</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0102</summary>
     <title>Thermodynamic characterization of transient valve temperatures in diesel engines using probabilistic methods</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0052/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0052</id>
-    <updated>2025-05-04T22:08:26.445104+00:00</updated>
+    <updated>2025-05-06T05:00:14.640559+00:00</updated>
     <summary>Article by Pardeep Kumar, Anikate Gupta, Dinesh Kumar, Vipin Kumar Sharma, Santosh Kumar Rai
 DOI: https://doi.org/10.1515/jnet-2024-0052</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jnet-2024-0052</summary>
     <title>Energetic analysis of a non-isothermal linear energy converter operated in reverse mode (I-LEC): heat pump</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0065/html"/>
     <id>https://doi.org/10.1515/jnet-2024-0065</id>
-    <updated>2025-05-04T22:08:26.445111+00:00</updated>
+    <updated>2025-05-06T05:00:14.640563+00:00</updated>
     <summary>Article by Saul Gonzalez-Hernandez
 DOI: https://doi.org/10.1515/jnet-2024-0065</summary>
   </entry>

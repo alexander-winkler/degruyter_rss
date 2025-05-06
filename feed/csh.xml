@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Corpus-based Studies across Humanities</title>
-  <link href="https://www.degruyterbrill.com/journal/key/csh/2/2/html"/>
-  <updated>2025-05-04T22:04:21.988408+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/csh/2/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/csh.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/csh/html" rel="related"/>
+  <updated>2025-05-06T04:54:37.638627+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/csh.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Corpus-based Studies across Humanities</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/csh.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/csh-2024-frontmatter2</id>
-    <updated>2025-05-04T22:04:21.988432+00:00</updated>
+    <updated>2025-05-06T04:54:37.638651+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/csh-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Exploring the Capabilities of ChatGPT in Ancient Chinese Translation and Person Name Recognition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0017/html"/>
     <id>https://doi.org/10.1515/csh-2024-0017</id>
-    <updated>2025-05-04T22:04:21.988441+00:00</updated>
+    <updated>2025-05-06T04:54:37.638659+00:00</updated>
     <summary>Article by Shijing Si, Siqing Zhou, Yugui Zhang
 DOI: https://doi.org/10.1515/csh-2024-0017</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/csh-2024-0017</summary>
     <title>Gender Differences in Acoustic-Perceptual Mapping of Emotional Prosody in Mandarin Speech</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0025/html"/>
     <id>https://doi.org/10.1515/csh-2024-0025</id>
-    <updated>2025-05-04T22:04:21.988450+00:00</updated>
+    <updated>2025-05-06T04:54:37.638667+00:00</updated>
     <summary>Article by Xuyi Wang, Ruomei Fang, Hongwei Ding
 DOI: https://doi.org/10.1515/csh-2024-0025</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/csh-2024-0025</summary>
     <title>Lexical Complexity in Corporate Communication: A Corpus-Based Study of Translated and Non-Translated Chairman’s Statements</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0026/html"/>
     <id>https://doi.org/10.1515/csh-2024-0026</id>
-    <updated>2025-05-04T22:04:21.988458+00:00</updated>
+    <updated>2025-05-06T04:54:37.638674+00:00</updated>
     <summary>Article by Zhongliang Wang, Han Xu, Kanglong Liu
 DOI: https://doi.org/10.1515/csh-2024-0026</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/csh-2024-0026</summary>
     <title>A Comparative Analysis of the Use of the Discourse Marker “But” in a British Televised Political Interview Show: A Socio-Pragmatic Perspective</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0011/html"/>
     <id>https://doi.org/10.1515/csh-2024-0011</id>
-    <updated>2025-05-04T22:04:21.988465+00:00</updated>
+    <updated>2025-05-06T04:54:37.638681+00:00</updated>
     <summary>Article by Yanli Fu
 DOI: https://doi.org/10.1515/csh-2024-0011</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/csh-2024-0011</summary>
     <title>Between Nationalism and Globalism: Framing Climate Change Risks in Chinese and American Newspapers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0028/html"/>
     <id>https://doi.org/10.1515/csh-2024-0028</id>
-    <updated>2025-05-04T22:04:21.988472+00:00</updated>
+    <updated>2025-05-06T04:54:37.638689+00:00</updated>
     <summary>Article by Jingyi Huang, Ming Liu
 DOI: https://doi.org/10.1515/csh-2024-0028</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/csh-2024-0028</summary>
     <title>Interpreter-Mediated Diplomatic Discourse Represented and Reframed in Global News: A Case Study of China’s Statement at the General Debate of the 75th Session of United Nations General Assembly</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0016/html"/>
     <id>https://doi.org/10.1515/csh-2024-0016</id>
-    <updated>2025-05-04T22:04:21.988481+00:00</updated>
+    <updated>2025-05-06T04:54:37.638697+00:00</updated>
     <summary>Article by Ziyin Liang, Xin Li
 DOI: https://doi.org/10.1515/csh-2024-0016</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/csh-2024-0016</summary>
     <title>Speech Acts in the Digital Sphere: A Corpus-Based Exploration of Interactional Dynamics on Social Media Platforms</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0023/html"/>
     <id>https://doi.org/10.1515/csh-2024-0023</id>
-    <updated>2025-05-04T22:04:21.988488+00:00</updated>
+    <updated>2025-05-06T04:54:37.638704+00:00</updated>
     <summary>Article by Olusegun Oladele Jegede
 DOI: https://doi.org/10.1515/csh-2024-0023</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/csh-2024-0023</summary>
     <title>Twittering Child Trafficking: A Corpus-Assisted Discourse Analysis of Selected X Interactions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0021/html"/>
     <id>https://doi.org/10.1515/csh-2024-0021</id>
-    <updated>2025-05-04T22:04:21.988495+00:00</updated>
+    <updated>2025-05-06T04:54:37.638710+00:00</updated>
     <summary>Article by Ezekiel Olajimbiti, Ayo Osisanwo
 DOI: https://doi.org/10.1515/csh-2024-0021</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/csh-2024-0021</summary>
     <title>Book Review: Community Translation Research and Practice</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0022/html"/>
     <id>https://doi.org/10.1515/csh-2024-0022</id>
-    <updated>2025-05-04T22:04:21.988508+00:00</updated>
+    <updated>2025-05-06T04:54:37.638716+00:00</updated>
     <summary>Article by Dr. Adnan Tahir
 DOI: https://doi.org/10.1515/csh-2024-0022</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/csh-2024-0022</summary>
     <title>Perspectives on Design and Digital Communication: Research, Innovations and Best Practices</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/csh-2024-0020/html"/>
     <id>https://doi.org/10.1515/csh-2024-0020</id>
-    <updated>2025-05-04T22:04:21.988516+00:00</updated>
+    <updated>2025-05-06T04:54:37.638722+00:00</updated>
     <summary>Article by Xiao Shanshan
 DOI: https://doi.org/10.1515/csh-2024-0020</summary>
   </entry>

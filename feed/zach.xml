@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Antikes Christentum / Journal of Ancient Christianity</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zach/28/3/html"/>
-  <updated>2025-05-04T22:13:22.843944+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zach/28/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zach.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zach/html" rel="related"/>
+  <updated>2025-05-06T05:07:00.837060+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zach.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Antikes Christentum / Journal of Ancient Christianity</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zach.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-frontmatter3/html"/>
     <id>https://doi.org/10.1515/zac-2024-frontmatter3</id>
-    <updated>2025-05-04T22:13:22.843970+00:00</updated>
+    <updated>2025-05-06T05:07:00.837077+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zac-2024-frontmatter3</summary>
   </entry>
   <entry>
     <title>Prolegomenon to Irenaeus’ Epistemology: The Source ofAdversus haereses2,13,2 and the Five Powers of the Mind Tradition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0022/html"/>
     <id>https://doi.org/10.1515/zac-2024-0022</id>
-    <updated>2025-05-04T22:13:22.843978+00:00</updated>
+    <updated>2025-05-06T05:07:00.837085+00:00</updated>
     <summary>Article by Grayden McCashen
 DOI: https://doi.org/10.1515/zac-2024-0022</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zac-2024-0022</summary>
     <title>Stoische Doxographie in der Ethik des Clemens von Alexandrien</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0023/html"/>
     <id>https://doi.org/10.1515/zac-2024-0023</id>
-    <updated>2025-05-04T22:13:22.843990+00:00</updated>
+    <updated>2025-05-06T05:07:00.837093+00:00</updated>
     <summary>Article by Charlotte Kirsch-Klingelhöffer
 DOI: https://doi.org/10.1515/zac-2024-0023</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zac-2024-0023</summary>
     <title>« L’âme faite à partir des ītyē » : l’essai de reconstruction de la psychologie de Bardesane</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0024/html"/>
     <id>https://doi.org/10.1515/zac-2024-0024</id>
-    <updated>2025-05-04T22:13:22.843997+00:00</updated>
+    <updated>2025-05-06T05:07:00.837101+00:00</updated>
     <summary>Article by Izabela Jurasz
 DOI: https://doi.org/10.1515/zac-2024-0024</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zac-2024-0024</summary>
     <title>Relational Aspects of Attention in Chrysostom’s hermeneutics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0025/html"/>
     <id>https://doi.org/10.1515/zac-2024-0025</id>
-    <updated>2025-05-04T22:13:22.844004+00:00</updated>
+    <updated>2025-05-06T05:07:00.837107+00:00</updated>
     <summary>Article by Antigone Samellas
 DOI: https://doi.org/10.1515/zac-2024-0025</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zac-2024-0025</summary>
     <title>A Call to Holiness: Baptism, the Church, and Asceticism in Jerome’sAdversus Jovinianum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0026/html"/>
     <id>https://doi.org/10.1515/zac-2024-0026</id>
-    <updated>2025-05-04T22:13:22.844010+00:00</updated>
+    <updated>2025-05-06T05:07:00.837113+00:00</updated>
     <summary>Article by Katarina Plsson
 DOI: https://doi.org/10.1515/zac-2024-0026</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zac-2024-0026</summary>
     <title>Saints in the Latrine: Between Revealing and Relieving in the Late Antique Miracle Collections</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0027/html"/>
     <id>https://doi.org/10.1515/zac-2024-0027</id>
-    <updated>2025-05-04T22:13:22.844017+00:00</updated>
+    <updated>2025-05-06T05:07:00.837119+00:00</updated>
     <summary>Article by Julia Doroszewska
 DOI: https://doi.org/10.1515/zac-2024-0027</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zac-2024-0027</summary>
     <title>The Legend of Diocletian: “Naming and Framing” Diocletian in Coptic Hagiography</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0028/html"/>
     <id>https://doi.org/10.1515/zac-2024-0028</id>
-    <updated>2025-05-04T22:13:22.844023+00:00</updated>
+    <updated>2025-05-06T05:07:00.837126+00:00</updated>
     <summary>Article by Aaltje Hidding
 DOI: https://doi.org/10.1515/zac-2024-0028</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zac-2024-0028</summary>
     <title>Origen of Alexandria, Human Dignity and the History of Racism: A Rejoinder</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0029/html"/>
     <id>https://doi.org/10.1515/zac-2024-0029</id>
-    <updated>2025-05-04T22:13:22.844030+00:00</updated>
+    <updated>2025-05-06T05:07:00.837132+00:00</updated>
     <summary>Article by Matthijs den Dulk
 DOI: https://doi.org/10.1515/zac-2024-0029</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zac-2024-0029</summary>
     <title>Aline Pourkier, ed.:Épiphane de Salamine. Panarion. Tome I. Livre I (Hérésies 1 à 25). Introduction, texte grec révisé, traduction et notes, Sources Chrétiennes 631, Paris (Les éditions du Cerf) 2023, S. 662, ISBN 9782204149587, € 59,–.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0030/html"/>
     <id>https://doi.org/10.1515/zac-2024-0030</id>
-    <updated>2025-05-04T22:13:22.844042+00:00</updated>
+    <updated>2025-05-06T05:07:00.837141+00:00</updated>
     <summary>Article by Gaetano Spampinato
 DOI: https://doi.org/10.1515/zac-2024-0030</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zac-2024-0030</summary>
     <title>Bruce W. Longenecker und David E. Wilhite, Hgg.:The Cambridge History of Ancient Christianity, Cambridge (Cambridge University Press) 2023, S. XV + 698, ISBN: 9781108427396, ₤ 140,–.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0031/html"/>
     <id>https://doi.org/10.1515/zac-2024-0031</id>
-    <updated>2025-05-04T22:13:22.844050+00:00</updated>
+    <updated>2025-05-06T05:07:00.837149+00:00</updated>
     <summary>Article by Peter Gemeinhardt
 DOI: https://doi.org/10.1515/zac-2024-0031</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/zac-2024-0031</summary>
     <title>Andreas Weckwerth:Casta placent superis. Konzeptionen kultischer Reinheit in der Spätantike, JbAC 42, Münster (Aschendorff) 2022, S. XII + 409, ISBN 978-3-402-10809–3, € 69,–.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0032/html"/>
     <id>https://doi.org/10.1515/zac-2024-0032</id>
-    <updated>2025-05-04T22:13:22.844058+00:00</updated>
+    <updated>2025-05-06T05:07:00.837156+00:00</updated>
     <summary>Article by Christoph Auffarth
 DOI: https://doi.org/10.1515/zac-2024-0032</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/zac-2024-0032</summary>
     <title>Valentino Gasparini, Maik Patzelt, Rubina Raja, Anna-Katharina Rieger, Jörg Rüpke and Emiliano Urciuoli:Lived Religion in the Ancient Mediterranean World: Approaching Religious Transformations from Archaeology, Berlin/Boston (De Gruyter) 2020, S. VIII + 597, ISBN 9783110557572, € 129,95.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0033/html"/>
     <id>https://doi.org/10.1515/zac-2024-0033</id>
-    <updated>2025-05-04T22:13:22.844074+00:00</updated>
+    <updated>2025-05-06T05:07:00.837163+00:00</updated>
     <summary>Article by Aaron Kachuck
 DOI: https://doi.org/10.1515/zac-2024-0033</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/zac-2024-0033</summary>
     <title>Catalin-Stefan Popa:The Making of Syriac Jerusalem: Representations of the Holy City in Syriac Literature of Late Antiquity and the Middle Ages, London (Routledge) 2023, S. IX + 324, ISBN 9781032470993, £ 125. –.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0034/html"/>
     <id>https://doi.org/10.1515/zac-2024-0034</id>
-    <updated>2025-05-04T22:13:22.844082+00:00</updated>
+    <updated>2025-05-06T05:07:00.837171+00:00</updated>
     <summary>Article by Nathan Betz
 DOI: https://doi.org/10.1515/zac-2024-0034</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/zac-2024-0034</summary>
     <title>Peter Bruns, Thomas Kremer, Andreas Weckwerth (Hgg.):Sterben &amp; Töten für Gott? Das Martyrium in Spätantike und frühem Mittelalter.Internationale Tagung in Rom vom 20. bis 23. Februar 2019, Koinonia – Oriens 57, Münster (Aschendorff) 2022, S. XI + 391, ISBN 978-3-402-22524–0, € 49,–.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zac-2024-0035/html"/>
     <id>https://doi.org/10.1515/zac-2024-0035</id>
-    <updated>2025-05-04T22:13:22.844090+00:00</updated>
+    <updated>2025-05-06T05:07:00.837178+00:00</updated>
     <summary>Article by Rahel Schär
 DOI: https://doi.org/10.1515/zac-2024-0035</summary>
   </entry>

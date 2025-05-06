@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Romanistische Abteilung</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zrgr/141/1/html"/>
-  <updated>2025-05-04T22:14:14.590437+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zrgr/141/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgr.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zrgr/html" rel="related"/>
+  <updated>2025-05-06T05:08:13.445842+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift der Savigny-Stiftung für Rechtsgeschichte: Romanistische Abteilung</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zrgr.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-frontmatter1</id>
-    <updated>2025-05-04T22:14:14.590462+00:00</updated>
+    <updated>2025-05-06T05:08:13.445859+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zrgr-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>I. Die Herzmetaphorik im babylonischen Vertragsrecht – Ina ḫūd libbišu und der freie Wille beim Kaufvertrag</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0001/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0001</id>
-    <updated>2025-05-04T22:14:14.590468+00:00</updated>
+    <updated>2025-05-06T05:08:13.445866+00:00</updated>
     <summary>Article by Kristin Kleber, Anna Kirchhefer-Lauber
 DOI: https://doi.org/10.1515/zrgr-2024-0001</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0001</summary>
     <title>II. In Civitate: Captivity and Inheritance in Tannaitic Halakha in Light of Roman Law</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0002/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0002</id>
-    <updated>2025-05-04T22:14:14.590484+00:00</updated>
+    <updated>2025-05-06T05:08:13.445872+00:00</updated>
     <summary>Article by Orit Malka, Yakir Paz
 DOI: https://doi.org/10.1515/zrgr-2024-0002</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0002</summary>
     <title>III. Dis Manibus. Zum römischen Grabrecht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0003/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0003</id>
-    <updated>2025-05-04T22:14:14.590490+00:00</updated>
+    <updated>2025-05-06T05:08:13.445877+00:00</updated>
     <summary>Article by Ulrike Babusiaux
 DOI: https://doi.org/10.1515/zrgr-2024-0003</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0003</summary>
     <title>IV. Depositum/παρακαταθήκη und Vertrag zugunsten Dritter. Zu D. 32,37,5–6 (Scaev. 18 dig.) und C. 3,42,8 (Diocl.; a. 293)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0004/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0004</id>
-    <updated>2025-05-04T22:14:14.590495+00:00</updated>
+    <updated>2025-05-06T05:08:13.445883+00:00</updated>
     <summary>Article by Wolfgang Kaiser
 DOI: https://doi.org/10.1515/zrgr-2024-0004</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0004</summary>
     <title>V. Textkritische Bemerkungen zu D. 47,10,15,15 (Ulp. [77] &lt;57&gt; ed.)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0005/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0005</id>
-    <updated>2025-05-04T22:14:14.590500+00:00</updated>
+    <updated>2025-05-06T05:08:13.445890+00:00</updated>
     <summary>Article by Matthias Ehmer
 DOI: https://doi.org/10.1515/zrgr-2024-0005</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0005</summary>
     <title>VI. The colonate in the west of Europe after ca. 500 AD</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0006/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0006</id>
-    <updated>2025-05-04T22:14:14.590505+00:00</updated>
+    <updated>2025-05-06T05:08:13.445895+00:00</updated>
     <summary>Article by A. J. B. Sirks
 DOI: https://doi.org/10.1515/zrgr-2024-0006</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0006</summary>
     <title>VII. Der Index des Thalelaios zu C. 4,44,15 und die laesio enormis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0007/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0007</id>
-    <updated>2025-05-04T22:14:14.590509+00:00</updated>
+    <updated>2025-05-06T05:08:13.445905+00:00</updated>
     <summary>Article by Wolfgang Kaiser
 DOI: https://doi.org/10.1515/zrgr-2024-0007</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0007</summary>
     <title>VIII. Die sogenannte Epitome Guelferbitana der Lex Romana Visigothorum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0008/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0008</id>
-    <updated>2025-05-04T22:14:14.590514+00:00</updated>
+    <updated>2025-05-06T05:08:13.445910+00:00</updated>
     <summary>Article by Detlef Liebs
 DOI: https://doi.org/10.1515/zrgr-2024-0008</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0008</summary>
     <title>Nochmals zu D. 19,1,23 (Iul. 13 dig.) = Iul. 221 Lenel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0009/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0009</id>
-    <updated>2025-05-04T22:14:14.590522+00:00</updated>
+    <updated>2025-05-06T05:08:13.445915+00:00</updated>
     <summary>Article by Johannes Platschek
 DOI: https://doi.org/10.1515/zrgr-2024-0009</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0009</summary>
     <title>Politikoi Nomoi Again</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0010/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0010</id>
-    <updated>2025-05-04T22:14:14.590526+00:00</updated>
+    <updated>2025-05-06T05:08:13.445920+00:00</updated>
     <summary>Article by Uri Yiftach
 DOI: https://doi.org/10.1515/zrgr-2024-0010</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0010</summary>
     <title>Resistenz des talmudischen Rechts gegenüber dem römischen Recht?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0011/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0011</id>
-    <updated>2025-05-04T22:14:14.590532+00:00</updated>
+    <updated>2025-05-06T05:08:13.445924+00:00</updated>
     <summary>Article by Doris Forster
 DOI: https://doi.org/10.1515/zrgr-2024-0011</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0011</summary>
     <title>Zur Konzeption des neuen Handbuchs des Römischen Privatrechts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0012/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0012</id>
-    <updated>2025-05-04T22:14:14.590537+00:00</updated>
+    <updated>2025-05-06T05:08:13.445929+00:00</updated>
     <summary>Article by Ulrike Babusiaux, Franz-Stefan Meissel
 DOI: https://doi.org/10.1515/zrgr-2024-0012</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0012</summary>
     <title>Zum Text von D. 1,16,6pr. (Ulp. 1 off. procons.) = Ulp. 2144 Lenel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0013/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0013</id>
-    <updated>2025-05-04T22:14:14.590544+00:00</updated>
+    <updated>2025-05-06T05:08:13.445934+00:00</updated>
     <summary>Article by Johannes Platschek
 DOI: https://doi.org/10.1515/zrgr-2024-0013</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0013</summary>
     <title>Giacomo D’Angelo, Civiliter vel naturaliter possidere</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0014/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0014</id>
-    <updated>2025-05-04T22:14:14.590550+00:00</updated>
+    <updated>2025-05-06T05:08:13.445938+00:00</updated>
     <summary>Article by Fabian Klinck
 DOI: https://doi.org/10.1515/zrgr-2024-0014</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0014</summary>
     <title>Carlo De Cristofaro, Inpudicus. Il diritto romano di fronte al prisma della sessualità maschile dalle origini al principato</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0015/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0015</id>
-    <updated>2025-05-04T22:14:14.590555+00:00</updated>
+    <updated>2025-05-06T05:08:13.445943+00:00</updated>
     <summary>Article by Thomas A. J. McGinn
 DOI: https://doi.org/10.1515/zrgr-2024-0015</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0015</summary>
     <title>Documentality. New Approaches to Written Literature in Imperial Life and Literature</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0016/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0016</id>
-    <updated>2025-05-04T22:14:14.590560+00:00</updated>
+    <updated>2025-05-06T05:08:13.445947+00:00</updated>
     <summary>Article by Michael A. Speidel
 DOI: https://doi.org/10.1515/zrgr-2024-0016</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0016</summary>
     <title>Caroline Duret, Causa contractus. Définition et fonctions en droit romain classique (= Collection Latine série II vol. 19)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0017/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0017</id>
-    <updated>2025-05-04T22:14:14.590564+00:00</updated>
+    <updated>2025-05-06T05:08:13.445952+00:00</updated>
     <summary>Article by Gregor Albers
 DOI: https://doi.org/10.1515/zrgr-2024-0017</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0017</summary>
     <title>Verena Fercho, Die stadtrömische supplicatio in republikanischer Zeit. Formierungen eines Ritualkomplexes (= Studien zur Alten Geschichte 35)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0018/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0018</id>
-    <updated>2025-05-04T22:14:14.590569+00:00</updated>
+    <updated>2025-05-06T05:08:13.445960+00:00</updated>
     <summary>Article by Margherita Scognamiglio
 DOI: https://doi.org/10.1515/zrgr-2024-0018</summary>
   </entry>
@@ -166,7 +163,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0018</summary>
     <title>Marina Frunzio, Res furtivae. Contributo allo studio della circolazione degli oggetti furtivi in diritto romano (= Collana del dipartimento di giurisprudenza, Università degli Studi di Urbino 2)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0019/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0019</id>
-    <updated>2025-05-04T22:14:14.590574+00:00</updated>
+    <updated>2025-05-06T05:08:13.445967+00:00</updated>
     <summary>Article by J. Michael Rainer
 DOI: https://doi.org/10.1515/zrgr-2024-0019</summary>
   </entry>
@@ -174,7 +171,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0019</summary>
     <title>Elena Giannozzi, Le vir bonus en droit romain (= Revue internationale du droit d’auteur [RIDA] Hors série)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0020/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0020</id>
-    <updated>2025-05-04T22:14:14.590579+00:00</updated>
+    <updated>2025-05-06T05:08:13.445972+00:00</updated>
     <summary>Article by Thomas Finkenauer
 DOI: https://doi.org/10.1515/zrgr-2024-0020</summary>
   </entry>
@@ -182,7 +179,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0020</summary>
     <title>Inscriptiones Graecae, consilio et auctoritate Academiae Scientiarum Berolinensis et Brandenburgensis editae</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0021/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0021</id>
-    <updated>2025-05-04T22:14:14.590583+00:00</updated>
+    <updated>2025-05-06T05:08:13.445978+00:00</updated>
     <summary>Article by Gerhard Thür
 DOI: https://doi.org/10.1515/zrgr-2024-0021</summary>
   </entry>
@@ -190,7 +187,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0021</summary>
     <title>Veronika Kleňová, Die Schenkung unter Auflage im römischen Recht (= Forschungen zum Römischen Recht 64)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0022/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0022</id>
-    <updated>2025-05-04T22:14:14.590588+00:00</updated>
+    <updated>2025-05-06T05:08:13.445983+00:00</updated>
     <summary>Article by Tiziana J. Chiusi
 DOI: https://doi.org/10.1515/zrgr-2024-0022</summary>
   </entry>
@@ -198,7 +195,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0022</summary>
     <title>Klaus Kowalski, Das Vertragsverständnis des Hugo Grotius. Zwischen Gerechtigkeit, Treue und Rechtsübertragung (= Forschungen zur neueren Privatrechtsgeschichte 36)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0023/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0023</id>
-    <updated>2025-05-04T22:14:14.590593+00:00</updated>
+    <updated>2025-05-06T05:08:13.445988+00:00</updated>
     <summary>Article by Lisa Isola
 DOI: https://doi.org/10.1515/zrgr-2024-0023</summary>
   </entry>
@@ -206,7 +203,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0023</summary>
     <title>Quintijn Mauer, Application, Adaptation and Rejection. The strategies of Roman jurists in responsa concerning Greek documents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0024/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0024</id>
-    <updated>2025-05-04T22:14:14.590597+00:00</updated>
+    <updated>2025-05-06T05:08:13.445993+00:00</updated>
     <summary>Article by Adrian Häusler
 DOI: https://doi.org/10.1515/zrgr-2024-0024</summary>
   </entry>
@@ -214,7 +211,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0024</summary>
     <title>Maria Nowak, Bastards in Egypt: Social and Legal Illegitimacy in the Roman Era (= Journal of Juristic Papyrology, Suppl. 37)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0025/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0025</id>
-    <updated>2025-05-04T22:14:14.590606+00:00</updated>
+    <updated>2025-05-06T05:08:13.445997+00:00</updated>
     <summary>Article by Uri Yiftach
 DOI: https://doi.org/10.1515/zrgr-2024-0025</summary>
   </entry>
@@ -222,7 +219,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0025</summary>
     <title>Edition griechischer Papyri aus der Kölner Papyrussammlung. Das Archiv des Sarapion (P. Köln Sarapion)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0026/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0026</id>
-    <updated>2025-05-04T22:14:14.590611+00:00</updated>
+    <updated>2025-05-06T05:08:13.446002+00:00</updated>
     <summary>Article by José-Domingo Rodríguez Martín
 DOI: https://doi.org/10.1515/zrgr-2024-0026</summary>
   </entry>
@@ -230,7 +227,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0026</summary>
     <title>Sebastian Prignitz, Bauurkunden und Bauprogramm von Epidauros II (350–300): Abaton, Kleisia, Aphroditetempel, Artemistempel, Theater, Epidoteion, epi Kynos skanamata (= Vestigia 75)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0027/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0027</id>
-    <updated>2025-05-04T22:14:14.590617+00:00</updated>
+    <updated>2025-05-06T05:08:13.446009+00:00</updated>
     <summary>Article by Gerhard Thür
 DOI: https://doi.org/10.1515/zrgr-2024-0027</summary>
   </entry>
@@ -238,7 +235,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0027</summary>
     <title>Philipp Rohdenburg, Die Entwicklung der romanistischen Methode bei Fritz Schulz (= Ius Romanum 9)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0028/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0028</id>
-    <updated>2025-05-04T22:14:14.590622+00:00</updated>
+    <updated>2025-05-06T05:08:13.446013+00:00</updated>
     <summary>Article by Wolfgang Ernst
 DOI: https://doi.org/10.1515/zrgr-2024-0028</summary>
   </entry>
@@ -246,7 +243,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0028</summary>
     <title>Margherita Scognamiglio, Lex Fabia. Le origini del plagio (= Diritto senza tempo 4)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0029/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0029</id>
-    <updated>2025-05-04T22:14:14.590626+00:00</updated>
+    <updated>2025-05-06T05:08:13.446018+00:00</updated>
     <summary>Article by Jörg Domisch
 DOI: https://doi.org/10.1515/zrgr-2024-0029</summary>
   </entry>
@@ -254,7 +251,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0029</summary>
     <title>A sourcebook on Byzantine law. Illustrating Byzantine law through the sources</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0030/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0030</id>
-    <updated>2025-05-04T22:14:14.590634+00:00</updated>
+    <updated>2025-05-06T05:08:13.446023+00:00</updated>
     <summary>Article by Athina Dimopoulou
 DOI: https://doi.org/10.1515/zrgr-2024-0030</summary>
   </entry>
@@ -262,7 +259,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0030</summary>
     <title>Jacob Stern, Aspects de la pratique sociale des testaments à Rome. Voluntas du testateur face aux institutions légales et aux normes sociales et transmission des patrimoines par voie testamentaire à l’époque républicaine et du principat</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0031/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0031</id>
-    <updated>2025-05-04T22:14:14.590639+00:00</updated>
+    <updated>2025-05-06T05:08:13.446039+00:00</updated>
     <summary>Article by Ulrike Babusiaux
 DOI: https://doi.org/10.1515/zrgr-2024-0031</summary>
   </entry>
@@ -270,7 +267,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0031</summary>
     <title>Anzeigen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0032/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0032</id>
-    <updated>2025-05-04T22:14:14.590644+00:00</updated>
+    <updated>2025-05-06T05:08:13.446045+00:00</updated>
     <summary>Article by Tiziana J. Chiusi
 DOI: https://doi.org/10.1515/zrgr-2024-0032</summary>
   </entry>
@@ -278,7 +275,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0032</summary>
     <title>David Haubner, Der Seewurf. Studien zur lex Rhodia de iactu</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0033/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0033</id>
-    <updated>2025-05-04T22:14:14.590648+00:00</updated>
+    <updated>2025-05-06T05:08:13.446050+00:00</updated>
     <summary>Article by Carlos Sánchez-Moreno Ellart
 DOI: https://doi.org/10.1515/zrgr-2024-0033</summary>
   </entry>
@@ -286,7 +283,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0033</summary>
     <title>Pervading Empire: Relationality and Diversity in the Roman Provinces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0034/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0034</id>
-    <updated>2025-05-04T22:14:14.590652+00:00</updated>
+    <updated>2025-05-06T05:08:13.446055+00:00</updated>
     <summary>Article by Jean-Jacques Aubert
 DOI: https://doi.org/10.1515/zrgr-2024-0034</summary>
   </entry>
@@ -294,7 +291,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0034</summary>
     <title>Recht und Billigkeit. Zur Geschichte der Beurteilung ihres Verhältnisses</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0035/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0035</id>
-    <updated>2025-05-04T22:14:14.590657+00:00</updated>
+    <updated>2025-05-06T05:08:13.446060+00:00</updated>
     <summary>Article by Jakob Fortunat Stagl
 DOI: https://doi.org/10.1515/zrgr-2024-0035</summary>
   </entry>
@@ -302,7 +299,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0035</summary>
     <title>Eingelangte Schriften und Neuerscheinungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0036/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0036</id>
-    <updated>2025-05-04T22:14:14.590661+00:00</updated>
+    <updated>2025-05-06T05:08:13.446064+00:00</updated>
     <summary>Article by W. K.
 DOI: https://doi.org/10.1515/zrgr-2024-0036</summary>
   </entry>
@@ -310,7 +307,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0036</summary>
     <title>Horst Heinrich Jakobs † 24. November 1934–27. Januar 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0037/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0037</id>
-    <updated>2025-05-04T22:14:14.590668+00:00</updated>
+    <updated>2025-05-06T05:08:13.446069+00:00</updated>
     <summary>Article by Wolfgang Ernst
 DOI: https://doi.org/10.1515/zrgr-2024-0037</summary>
   </entry>
@@ -318,7 +315,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0037</summary>
     <title>Gunter Wesener † 3. Juni 1932–27. Mai 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0038/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0038</id>
-    <updated>2025-05-04T22:14:14.590673+00:00</updated>
+    <updated>2025-05-06T05:08:13.446074+00:00</updated>
     <summary>Article by Martin Pennitz
 DOI: https://doi.org/10.1515/zrgr-2024-0038</summary>
   </entry>
@@ -326,7 +323,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0038</summary>
     <title>Uwe Wesel † 2. Februar 1933–11. September 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0039/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0039</id>
-    <updated>2025-05-04T22:14:14.590677+00:00</updated>
+    <updated>2025-05-06T05:08:13.446078+00:00</updated>
     <summary>Article by Susanne Hähnchen
 DOI: https://doi.org/10.1515/zrgr-2024-0039</summary>
   </entry>
@@ -334,7 +331,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0039</summary>
     <title>Wolfgang Waldstein † 27. August 1928–17. Oktober 2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0040/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0040</id>
-    <updated>2025-05-04T22:14:14.590682+00:00</updated>
+    <updated>2025-05-06T05:08:13.446083+00:00</updated>
     <summary>Article by Martin J. Schermaier
 DOI: https://doi.org/10.1515/zrgr-2024-0040</summary>
   </entry>
@@ -342,7 +339,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0040</summary>
     <title>XVII. Jahrestreffen der Jungen Romanisten 13.–14. April 2023, Brünn</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0041/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0041</id>
-    <updated>2025-05-04T22:14:14.590686+00:00</updated>
+    <updated>2025-05-06T05:08:13.446087+00:00</updated>
     <summary>Article by Marcel Liebsch
 DOI: https://doi.org/10.1515/zrgr-2024-0041</summary>
   </entry>
@@ -350,7 +347,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0041</summary>
     <title>XIII. Internationaler Romanistischer Preis Gérard Boulvert</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0042/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0042</id>
-    <updated>2025-05-04T22:14:14.590691+00:00</updated>
+    <updated>2025-05-06T05:08:13.446091+00:00</updated>
     <summary>Article by Martin Schermaier
 DOI: https://doi.org/10.1515/zrgr-2024-0042</summary>
   </entry>
@@ -358,7 +355,7 @@ DOI: https://doi.org/10.1515/zrgr-2024-0042</summary>
     <title>Quellenverzeichnis zu Band 141 erstellt von den Herausgebern</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zrgr-2024-0043/html"/>
     <id>https://doi.org/10.1515/zrgr-2024-0043</id>
-    <updated>2025-05-04T22:14:14.590695+00:00</updated>
+    <updated>2025-05-06T05:08:13.446096+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zrgr-2024-0043</summary>
   </entry>
 </feed>

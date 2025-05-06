@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The Philosophy of Humor Yearbook</title>
-  <link href="https://www.degruyterbrill.com/journal/key/phhumyb/5/1/html"/>
-  <updated>2025-05-04T22:11:01.538712+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/phhumyb/5/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phhumyb.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/phhumyb/html" rel="related"/>
+  <updated>2025-05-06T05:03:44.101913+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phhumyb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The Philosophy of Humor Yearbook</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phhumyb.xml" type="application/rss+xml"/>
   <entry>
     <title>Titlepages</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-frontmatter1</id>
-    <updated>2025-05-04T22:11:01.538730+00:00</updated>
+    <updated>2025-05-06T05:03:44.101932+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Table of Contents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-frontmatter2</id>
-    <updated>2025-05-04T22:11:01.538736+00:00</updated>
+    <updated>2025-05-06T05:03:44.101939+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Democritus, The Laughing Philosopher</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0001/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0001</id>
-    <updated>2025-05-04T22:11:01.538740+00:00</updated>
+    <updated>2025-05-06T05:03:44.101945+00:00</updated>
     <summary>Article by Monte Ransome Johnson
 DOI: https://doi.org/10.1515/phhumyb-2024-0001</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0001</summary>
     <title>The Contemptuous Laughter of Democritus and Nietzsche</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0002/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0002</id>
-    <updated>2025-05-04T22:11:01.538746+00:00</updated>
+    <updated>2025-05-06T05:03:44.101953+00:00</updated>
     <summary>Article by Eric v.d. Luft
 DOI: https://doi.org/10.1515/phhumyb-2024-0002</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0002</summary>
     <title>A Joke:On the Plurality of WorldsandOstrichist</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0003/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0003</id>
-    <updated>2025-05-04T22:11:01.538750+00:00</updated>
+    <updated>2025-05-06T05:03:44.101959+00:00</updated>
     <summary>Article by Felipe G. A. Moreira
 DOI: https://doi.org/10.1515/phhumyb-2024-0003</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0003</summary>
     <title>Joke Capital vs. Punching Up/Punching Down: Accounting for the Ethical Relation between Joker and Target</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0004/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0004</id>
-    <updated>2025-05-04T22:11:01.538755+00:00</updated>
+    <updated>2025-05-06T05:03:44.101965+00:00</updated>
     <summary>Article by Steven Gimbel, Thomas Wilk
 DOI: https://doi.org/10.1515/phhumyb-2024-0004</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0004</summary>
     <title>Humanistic Ethics of Humor: The Problematics of Punching Up and Kicking Down</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0005/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0005</id>
-    <updated>2025-05-04T22:11:01.538759+00:00</updated>
+    <updated>2025-05-06T05:03:44.101970+00:00</updated>
     <summary>Article by Jarno Hietalahti
 DOI: https://doi.org/10.1515/phhumyb-2024-0005</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0005</summary>
     <title>“You Must Be Joking!”: Theory, Religion, and The Domestication of the Ludic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0006/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0006</id>
-    <updated>2025-05-04T22:11:01.538764+00:00</updated>
+    <updated>2025-05-06T05:03:44.101976+00:00</updated>
     <summary>Article by Nicholas Low
 DOI: https://doi.org/10.1515/phhumyb-2024-0006</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0006</summary>
     <title>Humor in Chinese Traditions of Thought, Part One: Systematic Reflections in View of Ancient Confucian and Daoist Applications of Humor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0007/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0007</id>
-    <updated>2025-05-04T22:11:01.538768+00:00</updated>
+    <updated>2025-05-06T05:03:44.101984+00:00</updated>
     <summary>Article by David Bartosch
 DOI: https://doi.org/10.1515/phhumyb-2024-0007</summary>
   </entry>
@@ -85,14 +82,14 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0007</summary>
     <title>Discussion: Short Article for Further Debate   Edited by John Marmysz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0999/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0999</id>
-    <updated>2025-05-04T22:11:01.538773+00:00</updated>
+    <updated>2025-05-06T05:03:44.101990+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0999</summary>
   </entry>
   <entry>
     <title>The Shared Presupposition Norm of Joking: A Philosophical Exploration</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0008/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0008</id>
-    <updated>2025-05-04T22:11:01.538778+00:00</updated>
+    <updated>2025-05-06T05:03:44.101996+00:00</updated>
     <summary>Article by Kishor Vaidya
 DOI: https://doi.org/10.1515/phhumyb-2024-0008</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0008</summary>
     <title>“I Finally Got the Joke”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0009/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0009</id>
-    <updated>2025-05-04T22:11:01.538784+00:00</updated>
+    <updated>2025-05-06T05:03:44.102002+00:00</updated>
     <summary>Article by Timothy M. Kwiatek
 DOI: https://doi.org/10.1515/phhumyb-2024-0009</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0009</summary>
     <title>Do Joke-Telling Norms Apply to Laughtivism?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0010/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0010</id>
-    <updated>2025-05-04T22:11:01.538789+00:00</updated>
+    <updated>2025-05-06T05:03:44.102007+00:00</updated>
     <summary>Article by Margaret Betz
 DOI: https://doi.org/10.1515/phhumyb-2024-0010</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0010</summary>
     <title>“I’m Only Human”: A Self-Referential Sense of Humor and Meaningful Living</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0011/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0011</id>
-    <updated>2025-05-04T22:11:01.538794+00:00</updated>
+    <updated>2025-05-06T05:03:44.102012+00:00</updated>
     <summary>Article by Drew Chastain
 DOI: https://doi.org/10.1515/phhumyb-2024-0011</summary>
   </entry>
@@ -124,14 +121,14 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0011</summary>
     <title>Philosophical Satire and Criticism   Edited by Steven Gimbel</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0998/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0998</id>
-    <updated>2025-05-04T22:11:01.538800+00:00</updated>
+    <updated>2025-05-06T05:03:44.102018+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0998</summary>
   </entry>
   <entry>
     <title>Recaptioning Cartoons from Historical Turkish Humor Magazines as Feminist Media Activism: The Case of Boşboğaz</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0012/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0012</id>
-    <updated>2025-05-04T22:11:01.538804+00:00</updated>
+    <updated>2025-05-06T05:03:44.102023+00:00</updated>
     <summary>Article by Fatma Fulya Tepe, Per Bauhn
 DOI: https://doi.org/10.1515/phhumyb-2024-0012</summary>
   </entry>
@@ -139,14 +136,14 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0012</summary>
     <title>Humor in Philosophy Education   Edited by Christine A. James</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0997/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0997</id>
-    <updated>2025-05-04T22:11:01.538809+00:00</updated>
+    <updated>2025-05-06T05:03:44.102029+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0997</summary>
   </entry>
   <entry>
     <title>How Can Philosophy Improve Your Sense of Humor?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0013/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0013</id>
-    <updated>2025-05-04T22:11:01.538812+00:00</updated>
+    <updated>2025-05-06T05:03:44.102034+00:00</updated>
     <summary>Article by Lydia Amir
 DOI: https://doi.org/10.1515/phhumyb-2024-0013</summary>
   </entry>
@@ -154,14 +151,14 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0013</summary>
     <title>SymposiumEdited by Steven GimbelDustin Peone.Making Philosophy Laugh: Humor, Irony, and Folly in Philosophical Thought.Cascade Books, 2023. pp. 158.Critics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0996/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0996</id>
-    <updated>2025-05-04T22:11:01.538817+00:00</updated>
+    <updated>2025-05-06T05:03:44.102039+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0996</summary>
   </entry>
   <entry>
     <title>In Search of a Lost Philosophical Humor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0014/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0014</id>
-    <updated>2025-05-04T22:11:01.538821+00:00</updated>
+    <updated>2025-05-06T05:03:44.102044+00:00</updated>
     <summary>Article by Claudine Davidshofer
 DOI: https://doi.org/10.1515/phhumyb-2024-0014</summary>
   </entry>
@@ -169,7 +166,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0014</summary>
     <title>The Moment of Laughter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0015/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0015</id>
-    <updated>2025-05-04T22:11:01.538825+00:00</updated>
+    <updated>2025-05-06T05:03:44.102049+00:00</updated>
     <summary>Article by Alexander Bertland
 DOI: https://doi.org/10.1515/phhumyb-2024-0015</summary>
   </entry>
@@ -177,7 +174,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0015</summary>
     <title>On Making Philosophy Laugh</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0016/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0016</id>
-    <updated>2025-05-04T22:11:01.538829+00:00</updated>
+    <updated>2025-05-06T05:03:44.102055+00:00</updated>
     <summary>Article by Alex Montag
 DOI: https://doi.org/10.1515/phhumyb-2024-0016</summary>
   </entry>
@@ -185,7 +182,7 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0016</summary>
     <title>“Where the enemy is mighty, one must be clever”: Peone, Vico, and Guareschi on Power in Humor</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0017/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0017</id>
-    <updated>2025-05-04T22:11:01.538833+00:00</updated>
+    <updated>2025-05-06T05:03:44.102061+00:00</updated>
     <summary>Article by Alan Perry, Steven Gimbel
 DOI: https://doi.org/10.1515/phhumyb-2024-0017</summary>
   </entry>
@@ -193,14 +190,14 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0017</summary>
     <title>Author’s Response</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0995/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0995</id>
-    <updated>2025-05-04T22:11:01.538837+00:00</updated>
+    <updated>2025-05-06T05:03:44.102067+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0995</summary>
   </entry>
   <entry>
     <title>Humor Resartus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0018/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0018</id>
-    <updated>2025-05-04T22:11:01.538840+00:00</updated>
+    <updated>2025-05-06T05:03:44.102073+00:00</updated>
     <summary>Article by Dustin Peone
 DOI: https://doi.org/10.1515/phhumyb-2024-0018</summary>
   </entry>
@@ -208,21 +205,21 @@ DOI: https://doi.org/10.1515/phhumyb-2024-0018</summary>
     <title>Book Reviews   Edited by Lydia Amir With Pierre Destrée (Ancient and Medieval Philosophy) and John Marmysz (Modern and Contemporary Philosophy)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0994/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0994</id>
-    <updated>2025-05-04T22:11:01.538846+00:00</updated>
+    <updated>2025-05-06T05:03:44.102079+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0994</summary>
   </entry>
   <entry>
     <title>Call for Papers, Book Reviews, Guidelines</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0993/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0993</id>
-    <updated>2025-05-04T22:11:01.538849+00:00</updated>
+    <updated>2025-05-06T05:03:44.102083+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0993</summary>
   </entry>
   <entry>
     <title>Call for Papers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/phhumyb-2024-0992/html"/>
     <id>https://doi.org/10.1515/phhumyb-2024-0992</id>
-    <updated>2025-05-04T22:11:01.538853+00:00</updated>
+    <updated>2025-05-06T05:03:44.102088+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/phhumyb-2024-0992</summary>
   </entry>
 </feed>

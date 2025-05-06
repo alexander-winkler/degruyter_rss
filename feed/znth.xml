@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</title>
-  <link href="https://www.degruyterbrill.com/journal/key/znth/31/2/html"/>
-  <updated>2025-05-04T22:14:02.710699+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/znth/31/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/znth.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/znth/html" rel="related"/>
+  <updated>2025-05-06T05:07:57.611464+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/znth.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal for the History of Modern Theology / Zeitschrift für Neuere Theologiegeschichte</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/znth.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/znth-2024-frontmatter2</id>
-    <updated>2025-05-04T22:14:02.710725+00:00</updated>
+    <updated>2025-05-06T05:07:57.611487+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/znth-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Friedrich Schleiermachers unbekanntes Buch. Plädoyer für eine Neuausgabe von Friedrich SchleiermachersReden Über die Religionvon 1806</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0027/html"/>
     <id>https://doi.org/10.1515/znth-2024-0027</id>
-    <updated>2025-05-04T22:14:02.710733+00:00</updated>
+    <updated>2025-05-06T05:07:57.611496+00:00</updated>
     <summary>Article by Hermann Patsch
 DOI: https://doi.org/10.1515/znth-2024-0027</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/znth-2024-0027</summary>
     <title>Vordenker wider Willen. Der dogmatische Standpunkt Magnús Eiríkssons</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0028/html"/>
     <id>https://doi.org/10.1515/znth-2024-0028</id>
-    <updated>2025-05-04T22:14:02.710741+00:00</updated>
+    <updated>2025-05-06T05:07:57.611505+00:00</updated>
     <summary>Article by Gerhard Schreiber
 DOI: https://doi.org/10.1515/znth-2024-0028</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/znth-2024-0028</summary>
     <title>Matthias Joseph Scheeben and Czech Catholic Theology 1861–2023</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0017/html"/>
     <id>https://doi.org/10.1515/znth-2024-0017</id>
-    <updated>2025-05-04T22:14:02.710747+00:00</updated>
+    <updated>2025-05-06T05:07:57.611513+00:00</updated>
     <summary>Article by Veronika Řeháková
 DOI: https://doi.org/10.1515/znth-2024-0017</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/znth-2024-0017</summary>
     <title>Before religious socialism: Tillich and social democracy in Wilhelmine Germany</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0018/html"/>
     <id>https://doi.org/10.1515/znth-2024-0018</id>
-    <updated>2025-05-04T22:14:02.710754+00:00</updated>
+    <updated>2025-05-06T05:07:57.611521+00:00</updated>
     <summary>Article by Samuel Shearn
 DOI: https://doi.org/10.1515/znth-2024-0018</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/znth-2024-0018</summary>
     <title>Theodosius Harnack in Italien. Eine Romreise 1871</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0019/html"/>
     <id>https://doi.org/10.1515/znth-2024-0019</id>
-    <updated>2025-05-04T22:14:02.710760+00:00</updated>
+    <updated>2025-05-06T05:07:57.611528+00:00</updated>
     <summary>Article by Friedrich Wilhelm Graf
 DOI: https://doi.org/10.1515/znth-2024-0019</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/znth-2024-0019</summary>
     <title>Friedrich Schleiermacher zwischen Reform und Restauration. Politische Konstellationen, theoretische Zugänge und das Berliner Stadtleben</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0020/html"/>
     <id>https://doi.org/10.1515/znth-2024-0020</id>
-    <updated>2025-05-04T22:14:02.710765+00:00</updated>
+    <updated>2025-05-06T05:07:57.611536+00:00</updated>
     <summary>Article by Carsten Voswinkel
 DOI: https://doi.org/10.1515/znth-2024-0020</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/znth-2024-0020</summary>
     <title>Otto Hintze. Werk und Wirkung in den historischen Sozialwissenschaften</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0021/html"/>
     <id>https://doi.org/10.1515/znth-2024-0021</id>
-    <updated>2025-05-04T22:14:02.710771+00:00</updated>
+    <updated>2025-05-06T05:07:57.611543+00:00</updated>
     <summary>Article by Friedrich Wilhelm Graf
 DOI: https://doi.org/10.1515/znth-2024-0021</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/znth-2024-0021</summary>
     <title>„Eyn sonderlicher Gottisdienst“? Evangelische Theologinnen und Theologen als Parlamentarier</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0022/html"/>
     <id>https://doi.org/10.1515/znth-2024-0022</id>
-    <updated>2025-05-04T22:14:02.710778+00:00</updated>
+    <updated>2025-05-06T05:07:57.611550+00:00</updated>
     <summary>Article by Friedrich Wilhelm Graf
 DOI: https://doi.org/10.1515/znth-2024-0022</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/znth-2024-0022</summary>
     <title>Paul Tillichs frühe Ethik. Von den Anfängen bis zum Religiösen Sozialismus (1906–1933)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0023/html"/>
     <id>https://doi.org/10.1515/znth-2024-0023</id>
-    <updated>2025-05-04T22:14:02.710784+00:00</updated>
+    <updated>2025-05-06T05:07:57.611559+00:00</updated>
     <summary>Article by Michael Murrmann-Kahl
 DOI: https://doi.org/10.1515/znth-2024-0023</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/znth-2024-0023</summary>
     <title>Glaubenskämpfe zwischen den Zeiten. Theologische, politische und ideengeschichtliche Konzepte in der Weimarer Republik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0024/html"/>
     <id>https://doi.org/10.1515/znth-2024-0024</id>
-    <updated>2025-05-04T22:14:02.710792+00:00</updated>
+    <updated>2025-05-06T05:07:57.611566+00:00</updated>
     <summary>Article by Friedrich Wilhelm Graf
 DOI: https://doi.org/10.1515/znth-2024-0024</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/znth-2024-0024</summary>
     <title>Die protestantische Theologie des 20. Jahrhunderts und der Deutsche Idealismus. Rezeption – Kritik – Transformation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0025/html"/>
     <id>https://doi.org/10.1515/znth-2024-0025</id>
-    <updated>2025-05-04T22:14:02.710798+00:00</updated>
+    <updated>2025-05-06T05:07:57.611573+00:00</updated>
     <summary>Article by Michael Murrmann-Kahl
 DOI: https://doi.org/10.1515/znth-2024-0025</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/znth-2024-0025</summary>
     <title>Tradition und Schrift. Eine Verhältnisbestimmung bei Wolfhart Pannenberg und Walter Kasper</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/znth-2024-0026/html"/>
     <id>https://doi.org/10.1515/znth-2024-0026</id>
-    <updated>2025-05-04T22:14:02.710809+00:00</updated>
+    <updated>2025-05-06T05:07:57.611580+00:00</updated>
     <summary>Article by Michael Murrmann-Kahl
 DOI: https://doi.org/10.1515/znth-2024-0026</summary>
   </entry>

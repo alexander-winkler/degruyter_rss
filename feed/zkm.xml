@@ -1,42 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Konfliktmanagement</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zkm/28/2/html"/>
-  <updated>2025-05-04T22:13:54.032266+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zkm/28/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkm.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zkm/html" rel="related"/>
+  <updated>2025-05-06T05:07:45.608156+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Konfliktmanagement</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkm.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelei</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-frontmatter2802/html"/>
     <id>https://doi.org/10.9785/zkm-2025-frontmatter2802</id>
-    <updated>2025-05-04T22:13:54.032289+00:00</updated>
+    <updated>2025-05-06T05:07:45.608175+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/zkm-2025-frontmatter2802</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-toc2802/html"/>
     <id>https://doi.org/10.9785/zkm-2025-toc2802</id>
-    <updated>2025-05-04T22:13:54.032296+00:00</updated>
+    <updated>2025-05-06T05:07:45.608183+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/zkm-2025-toc2802</summary>
   </entry>
   <entry>
     <title>Editorial</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280201/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280201</id>
-    <updated>2025-05-04T22:13:54.032301+00:00</updated>
+    <updated>2025-05-06T05:07:45.608189+00:00</updated>
     <summary>DOI: https://doi.org/10.9785/zkm-2025-280201</summary>
   </entry>
   <entry>
     <title>Diebische Körper? Auswahl und Deutung von Körpermerkmalen in Gauner- und Diebeslisten des 18. und frühen 19. Jahrhunderts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280202/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280202</id>
-    <updated>2025-05-04T22:13:54.032307+00:00</updated>
+    <updated>2025-05-06T05:07:45.608195+00:00</updated>
     <summary>Article by Cornelia Aust
 DOI: https://doi.org/10.9785/zkm-2025-280202</summary>
   </entry>
@@ -44,7 +41,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280202</summary>
     <title>Von »vital heat« zur Eugenik. Klimasomatischer Rassismus und die Ausdifferenzierung der Körperkonzeptionen im 19. Jahrhundert</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280203/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280203</id>
-    <updated>2025-05-04T22:13:54.032314+00:00</updated>
+    <updated>2025-05-06T05:07:45.608203+00:00</updated>
     <summary>Article by Christa Klein
 DOI: https://doi.org/10.9785/zkm-2025-280203</summary>
   </entry>
@@ -52,7 +49,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280203</summary>
     <title>Die Suche nach den körperlichen Indizien von Homosexualität. Körperfett als Thema der Sexualwissenschaften (1870–1930)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280204/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280204</id>
-    <updated>2025-05-04T22:13:54.032320+00:00</updated>
+    <updated>2025-05-06T05:07:45.608210+00:00</updated>
     <summary>Article by Frederik Doktor
 DOI: https://doi.org/10.9785/zkm-2025-280204</summary>
   </entry>
@@ -60,7 +57,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280204</summary>
     <title>Umstrittene Personen erinnern. Potenzial Museum in der Debatte um Karl Lueger</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280205/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280205</id>
-    <updated>2025-05-04T22:13:54.032325+00:00</updated>
+    <updated>2025-05-06T05:07:45.608216+00:00</updated>
     <summary>Article by Alina Strmljan, Anna Jungmayr
 DOI: https://doi.org/10.9785/zkm-2025-280205</summary>
   </entry>
@@ -68,7 +65,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280205</summary>
     <title>Kolonialfotografie und kritisches Blickregime. Franz und Marie Pauline Thorbeckes Fotosammlungen zu Kamerun (1911–1913)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280206/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280206</id>
-    <updated>2025-05-04T22:13:54.032331+00:00</updated>
+    <updated>2025-05-06T05:07:45.608222+00:00</updated>
     <summary>Article by Romuald Valentin Nkouda Sopgui
 DOI: https://doi.org/10.9785/zkm-2025-280206</summary>
   </entry>
@@ -76,7 +73,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280206</summary>
     <title>Kollaborativ arbeiten. Ein Gespräch über feministische Perspektiven in der Forschung zum KZ-Außenlager Dessauer Ufer</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280207/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280207</id>
-    <updated>2025-05-04T22:13:54.032337+00:00</updated>
+    <updated>2025-05-06T05:07:45.608228+00:00</updated>
     <summary>Article by Lucy Debus, Lisa Hellriegel
 DOI: https://doi.org/10.9785/zkm-2025-280207</summary>
   </entry>
@@ -84,7 +81,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280207</summary>
     <title>Das Museum Zwangsarbeit im Nationalsozialismus in Weimar</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280208/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280208</id>
-    <updated>2025-05-04T22:13:54.032344+00:00</updated>
+    <updated>2025-05-06T05:07:45.608236+00:00</updated>
     <summary>Article by Maximilian Jung
 DOI: https://doi.org/10.9785/zkm-2025-280208</summary>
   </entry>
@@ -92,7 +89,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280208</summary>
     <title>Neu gelesen: Max Beer, Handlexikon sozialistischer Persönlichkeiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280209/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280209</id>
-    <updated>2025-05-04T22:13:54.032349+00:00</updated>
+    <updated>2025-05-06T05:07:45.608242+00:00</updated>
     <summary>Article by Axel Weipert
 DOI: https://doi.org/10.9785/zkm-2025-280209</summary>
   </entry>
@@ -100,7 +97,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280209</summary>
     <title>Peter Collmer, Verwaltete Vielfalt. Königliche Tafelgüter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280210/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280210</id>
-    <updated>2025-05-04T22:13:54.032355+00:00</updated>
+    <updated>2025-05-06T05:07:45.608248+00:00</updated>
     <summary>Article by Karsten Holste
 DOI: https://doi.org/10.9785/zkm-2025-280210</summary>
   </entry>
@@ -108,7 +105,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280210</summary>
     <title>Peter Reinkemeier, Gouvernementalisierung der Natur</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280211/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280211</id>
-    <updated>2025-05-04T22:13:54.032360+00:00</updated>
+    <updated>2025-05-06T05:07:45.608254+00:00</updated>
     <summary>Article by Birgit Näther
 DOI: https://doi.org/10.9785/zkm-2025-280211</summary>
   </entry>
@@ -116,7 +113,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280211</summary>
     <title>Eva Seemann, Hofzwerge</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280212/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280212</id>
-    <updated>2025-05-04T22:13:54.032365+00:00</updated>
+    <updated>2025-05-06T05:07:45.608260+00:00</updated>
     <summary>Article by Annika Bärwald
 DOI: https://doi.org/10.9785/zkm-2025-280212</summary>
   </entry>
@@ -124,7 +121,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280212</summary>
     <title>Felizitas Schaub, Stadtnomaden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280213/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280213</id>
-    <updated>2025-05-04T22:13:54.032373+00:00</updated>
+    <updated>2025-05-06T05:07:45.608266+00:00</updated>
     <summary>Article by Anne Purschwitz
 DOI: https://doi.org/10.9785/zkm-2025-280213</summary>
   </entry>
@@ -132,7 +129,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280213</summary>
     <title>Heiner Stahl, Geräuschkulissen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280214/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280214</id>
-    <updated>2025-05-04T22:13:54.032378+00:00</updated>
+    <updated>2025-05-06T05:07:45.608271+00:00</updated>
     <summary>Article by Helen Wagner
 DOI: https://doi.org/10.9785/zkm-2025-280214</summary>
   </entry>
@@ -140,7 +137,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280214</summary>
     <title>Jule Ehms, Revolutionärer Syndikalismus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280215/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280215</id>
-    <updated>2025-05-04T22:13:54.032383+00:00</updated>
+    <updated>2025-05-06T05:07:45.608278+00:00</updated>
     <summary>Article by Alicia Gorny
 DOI: https://doi.org/10.9785/zkm-2025-280215</summary>
   </entry>
@@ -148,7 +145,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280215</summary>
     <title>Ulrike Winkler, Menschen mit Behinderungen in der DDR</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280216/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280216</id>
-    <updated>2025-05-04T22:13:54.032388+00:00</updated>
+    <updated>2025-05-06T05:07:45.608283+00:00</updated>
     <summary>Article by Michael Rasell
 DOI: https://doi.org/10.9785/zkm-2025-280216</summary>
   </entry>
@@ -156,7 +153,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280216</summary>
     <title>Karl Christian Führer, Das Fleisch der Republik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280217/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280217</id>
-    <updated>2025-05-04T22:13:54.032393+00:00</updated>
+    <updated>2025-05-06T05:07:45.608289+00:00</updated>
     <summary>Article by Michael Heinz
 DOI: https://doi.org/10.9785/zkm-2025-280217</summary>
   </entry>
@@ -164,7 +161,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280217</summary>
     <title>Wiebke Wiede, Das arbeitslose Subjekt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280218/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280218</id>
-    <updated>2025-05-04T22:13:54.032398+00:00</updated>
+    <updated>2025-05-06T05:07:45.608295+00:00</updated>
     <summary>Article by Bettina Grimmer
 DOI: https://doi.org/10.9785/zkm-2025-280218</summary>
   </entry>
@@ -172,7 +169,7 @@ DOI: https://doi.org/10.9785/zkm-2025-280218</summary>
     <title>Rainer Eckert, Umkämpfte Vergangenheit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.9785/zkm-2025-280219/html"/>
     <id>https://doi.org/10.9785/zkm-2025-280219</id>
-    <updated>2025-05-04T22:13:54.032403+00:00</updated>
+    <updated>2025-05-06T05:07:45.608301+00:00</updated>
     <summary>Article by Enrico Heitzer
 DOI: https://doi.org/10.9785/zkm-2025-280219</summary>
   </entry>

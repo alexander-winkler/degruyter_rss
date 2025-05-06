@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Business Valuation and Economic Loss Analysis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jbvela/19/1/html"/>
-  <updated>2025-05-04T22:07:30.244988+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jbvela/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbvela.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jbvela/html" rel="related"/>
+  <updated>2025-05-06T04:58:56.166457+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbvela.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Business Valuation and Economic Loss Analysis</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jbvela.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jbvela-2024-frontmatter1</id>
-    <updated>2025-05-04T22:07:30.245026+00:00</updated>
+    <updated>2025-05-06T04:58:56.166495+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jbvela-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>From Hindsight to Foresight: Understanding and Overcoming Bias in Financial Forecasts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2024-0011/html"/>
     <id>https://doi.org/10.1515/jbvela-2024-0011</id>
-    <updated>2025-05-04T22:07:30.245036+00:00</updated>
+    <updated>2025-05-06T04:58:56.166507+00:00</updated>
     <summary>Article by Derek Zweig, Timothy Sumner, Adam Luke
 DOI: https://doi.org/10.1515/jbvela-2024-0011</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jbvela-2024-0011</summary>
     <title>Consistent DCF Methods for Constant-Growth Annuities à la Modigliani &amp; Miller or Miles &amp; Ezzell</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2023-0015/html"/>
     <id>https://doi.org/10.1515/jbvela-2023-0015</id>
-    <updated>2025-05-04T22:07:30.245050+00:00</updated>
+    <updated>2025-05-06T04:58:56.166521+00:00</updated>
     <summary>Article by Denis M. Becker
 DOI: https://doi.org/10.1515/jbvela-2023-0015</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jbvela-2023-0015</summary>
     <title>The Journal of Business Valuation and Economic Loss Analysis Shannon Pratt’sThe Lawyer’s Business Valuation Handbook</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jbvela-2024-0029/html"/>
     <id>https://doi.org/10.1515/jbvela-2024-0029</id>
-    <updated>2025-05-04T22:07:30.245061+00:00</updated>
+    <updated>2025-05-06T04:58:56.166532+00:00</updated>
     <summary>Article by Rob Schlegel, Penny Lutocka
 DOI: https://doi.org/10.1515/jbvela-2024-0029</summary>
   </entry>

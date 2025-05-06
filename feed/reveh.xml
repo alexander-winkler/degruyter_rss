@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Reviews on Environmental Health</title>
-  <link href="https://www.degruyterbrill.com/journal/key/reveh/40/1/html"/>
-  <updated>2025-05-04T22:11:48.166902+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/reveh/40/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/reveh.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/reveh/html" rel="related"/>
+  <updated>2025-05-06T05:04:49.007297+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/reveh.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Reviews on Environmental Health</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/reveh.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/reveh-2025-frontmatter1</id>
-    <updated>2025-05-04T22:11:48.166928+00:00</updated>
+    <updated>2025-05-06T05:04:49.007317+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/reveh-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Mercury and cadmium-induced inflammatory cytokines activation and its effect on the risk of preeclampsia: a review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0083/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0083</id>
-    <updated>2025-05-04T22:11:48.166936+00:00</updated>
+    <updated>2025-05-06T05:04:49.007324+00:00</updated>
     <summary>Article by Alya N. Fadhila, Besari A. Pramono, Muflihatul Muniroh
 DOI: https://doi.org/10.1515/reveh-2023-0083</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0083</summary>
     <title>Prevalence of chronic obstructive pulmonary disease in Indian nonsmokers: a systematic review &amp; meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0135/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0135</id>
-    <updated>2025-05-04T22:11:48.166944+00:00</updated>
+    <updated>2025-05-06T05:04:49.007335+00:00</updated>
     <summary>Article by Tejas M. Suri, Tamoghna Ghosh, Saurabh Mittal, Vijay Hadda, Karan Madan, Anant Mohan
 DOI: https://doi.org/10.1515/reveh-2023-0135</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0135</summary>
     <title>Beyond the outdoors: indoor air quality guidelines and standards – challenges, inequalities, and the path forward</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0150/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0150</id>
-    <updated>2025-05-04T22:11:48.166952+00:00</updated>
+    <updated>2025-05-06T05:04:49.007343+00:00</updated>
     <summary>Article by Azhar Siddique, Maryam Y. M. Al-Shamlan, Hamad E. Al-Romaihi, Haider A. Khwaja
 DOI: https://doi.org/10.1515/reveh-2023-0150</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0150</summary>
     <title>Cadmium exposure and thyroid hormone disruption: a systematic review and meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0122/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0122</id>
-    <updated>2025-05-04T22:11:48.166958+00:00</updated>
+    <updated>2025-05-06T05:04:49.007349+00:00</updated>
     <summary>Article by Seung Min Chung, Min Cheol Chang
 DOI: https://doi.org/10.1515/reveh-2023-0122</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0122</summary>
     <title>New generation sequencing: molecular approaches for the detection and monitoring of bioaerosols in an indoor environment: a systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0004/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0004</id>
-    <updated>2025-05-04T22:11:48.166964+00:00</updated>
+    <updated>2025-05-06T05:04:49.007356+00:00</updated>
     <summary>Article by Cynthia Oluchi Onwusereaka, Juliana Jalaludin, Sampson Emilia Oluchi, Veronica Chua Poh Choo
 DOI: https://doi.org/10.1515/reveh-2023-0004</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0004</summary>
     <title>Concentration of Tetrabromobisphenol-A in fish: systematic review and meta-analysis and probabilistic health risk assessment</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0157/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0157</id>
-    <updated>2025-05-04T22:11:48.166971+00:00</updated>
+    <updated>2025-05-06T05:04:49.007363+00:00</updated>
     <summary>Article by Trias Mahmudiono, Yadolah Fakhri, Vahid Ranaei, Zahra Pilevar, Intissar Limam, Fatemeh Sahlabadi, Negin Rezaeiarshad, Marzieh Torabbeigi, Samaneh Jalali
 DOI: https://doi.org/10.1515/reveh-2023-0157</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0157</summary>
     <title>The association between indoor air pollution from solid fuels and cognitive impairment: a systematic review and meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0158/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0158</id>
-    <updated>2025-05-04T22:11:48.166978+00:00</updated>
+    <updated>2025-05-06T05:04:49.007369+00:00</updated>
     <summary>Article by Hongye Peng, Miyuan Wang, Yichong Wang, Zuohu Niu, Feiya Suo, Jixiang Liu, Tianhui Zhou, Shukun Yao
 DOI: https://doi.org/10.1515/reveh-2023-0158</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0158</summary>
     <title>Phthalates and uterine disorders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0159/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0159</id>
-    <updated>2025-05-04T22:11:48.166985+00:00</updated>
+    <updated>2025-05-06T05:04:49.007376+00:00</updated>
     <summary>Article by Shuhong Yang, Shuhao Yang, Aiyue Luo
 DOI: https://doi.org/10.1515/reveh-2023-0159</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0159</summary>
     <title>Effectiveness of educational interventions for the prevention of lead poisoning in children: a systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0108/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0108</id>
-    <updated>2025-05-04T22:11:48.166994+00:00</updated>
+    <updated>2025-05-06T05:04:49.007385+00:00</updated>
     <summary>Article by Joanna Balza, Jean C. Bikomeye, Kathryn E. Flynn
 DOI: https://doi.org/10.1515/reveh-2023-0108</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0108</summary>
     <title>Association between exposure to per- and polyfluoroalkyl substances and levels of lipid profile based on human studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0146/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0146</id>
-    <updated>2025-05-04T22:11:48.167001+00:00</updated>
+    <updated>2025-05-06T05:04:49.007395+00:00</updated>
     <summary>Article by Xinru Song, Tingtao Ye, Dongmei Jing, Kai Wei, Yue Ge, Xinyue Bei, Yuqian Qi, Huanqiang Wang, Jun Li, Yan Zhang
 DOI: https://doi.org/10.1515/reveh-2023-0146</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0146</summary>
     <title>Summary of seven Swedish case reports on the microwave syndrome associated with 5G radiofrequency radiation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2024-0017/html"/>
     <id>https://doi.org/10.1515/reveh-2024-0017</id>
-    <updated>2025-05-04T22:11:48.167010+00:00</updated>
+    <updated>2025-05-06T05:04:49.007401+00:00</updated>
     <summary>Article by Lennart Hardell, Mona Nilsson
 DOI: https://doi.org/10.1515/reveh-2024-0017</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/reveh-2024-0017</summary>
     <title>Expanding the focus of the One Health concept: links between the Earth-system processes of the planetary boundaries framework and antibiotic resistance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2024-0013/html"/>
     <id>https://doi.org/10.1515/reveh-2024-0013</id>
-    <updated>2025-05-04T22:11:48.167016+00:00</updated>
+    <updated>2025-05-06T05:04:49.007408+00:00</updated>
     <summary>Article by Itziar Alkorta, Carlos Garbisu
 DOI: https://doi.org/10.1515/reveh-2024-0013</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/reveh-2024-0013</summary>
     <title>Exploring the link between ambient PM2.5concentrations and respiratory diseases in the elderly: a study in the Muang district of Khon Kaen, Thailand</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0138/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0138</id>
-    <updated>2025-05-04T22:11:48.167023+00:00</updated>
+    <updated>2025-05-06T05:04:49.007414+00:00</updated>
     <summary>Article by Chananya Jirapornkul, Kornkawat Darunikorn, Yuparat Limmongkon, Rittirong Junggoth, Naowarat Maneenin, Pornpun Sakunkoo, Jetnapis Rayubkul
 DOI: https://doi.org/10.1515/reveh-2023-0138</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0138</summary>
     <title>Standards for levels of lead in soil and dust around the world</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2024-0030/html"/>
     <id>https://doi.org/10.1515/reveh-2024-0030</id>
-    <updated>2025-05-04T22:11:48.167029+00:00</updated>
+    <updated>2025-05-06T05:04:49.007420+00:00</updated>
     <summary>Article by Omosehin D. Moyebi, Tamba Lebbie, David O. Carpenter
 DOI: https://doi.org/10.1515/reveh-2024-0030</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/reveh-2024-0030</summary>
     <title>Tributyltin induces apoptosis in mammalian cellsin vivo: a scoping review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0152/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0152</id>
-    <updated>2025-05-04T22:11:48.167036+00:00</updated>
+    <updated>2025-05-06T05:04:49.007428+00:00</updated>
     <summary>Article by Lucas Vilas Bôas Correia, Talita Trindade de Moraes, Aparecida Marta Regina dos Santos Pereira, Gabriel Carvalhal de Aguiar, Milena de Barros Viana, Daniel Araki Ribeiro, Regina Cláudia Barbosa da Silva
 DOI: https://doi.org/10.1515/reveh-2023-0152</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/reveh-2023-0152</summary>
     <title>The influence of geology on the quality of groundwater for domestic use: a Kenyan review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2024-0022/html"/>
     <id>https://doi.org/10.1515/reveh-2024-0022</id>
-    <updated>2025-05-04T22:11:48.167045+00:00</updated>
+    <updated>2025-05-06T05:04:49.007437+00:00</updated>
     <summary>Article by Patrick Kirita Gevera, Ednah Kwamboka Onyari
 DOI: https://doi.org/10.1515/reveh-2024-0022</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/reveh-2024-0022</summary>
     <title>Biological concentrations of DDT metabolites and breast cancer risk: an updated systematic review and meta-analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2024-0021/html"/>
     <id>https://doi.org/10.1515/reveh-2024-0021</id>
-    <updated>2025-05-04T22:11:48.167051+00:00</updated>
+    <updated>2025-05-06T05:04:49.007443+00:00</updated>
     <summary>Article by Rodrigo Ugalde-Resano, Brenda Gamboa-Loira, Ángel Mérida-Ortega, Alma Rincón-Rubio, Gisela Flores-Collado, Maricela Piña-Pozas, Lizbeth López-Carrillo
 DOI: https://doi.org/10.1515/reveh-2024-0021</summary>
   </entry>
@@ -158,7 +155,7 @@ DOI: https://doi.org/10.1515/reveh-2024-0021</summary>
     <title>Ancient medicine and famous iranian physicians</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/reveh-2023-0077/html"/>
     <id>https://doi.org/10.1515/reveh-2023-0077</id>
-    <updated>2025-05-04T22:11:48.167057+00:00</updated>
+    <updated>2025-05-06T05:04:49.007450+00:00</updated>
     <summary>Article by Mehdi Shafiei_Bafti, Farzane Safa
 DOI: https://doi.org/10.1515/reveh-2023-0077</summary>
   </entry>

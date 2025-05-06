@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Kristallographie - Crystalline Materials </title>
-  <link href="https://www.degruyterbrill.com/journal/key/zkri/240/3-4/html"/>
-  <updated>2025-05-04T22:13:55.796255+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/zkri/240/3-4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zkri/html" rel="related"/>
+  <updated>2025-05-06T05:07:48.048385+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Kristallographie - Crystalline Materials </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-frontmatter3-4/html"/>
     <id>https://doi.org/10.1515/zkri-2025-frontmatter3-4</id>
-    <updated>2025-05-04T22:13:55.796278+00:00</updated>
+    <updated>2025-05-06T05:07:48.048417+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zkri-2025-frontmatter3-4</summary>
   </entry>
   <entry>
     <title>In this issue</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-graphabs3-4/html"/>
     <id>https://doi.org/10.1515/zkri-2025-graphabs3-4</id>
-    <updated>2025-05-04T22:13:55.796284+00:00</updated>
+    <updated>2025-05-06T05:07:48.048429+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/zkri-2025-graphabs3-4</summary>
   </entry>
   <entry>
     <title>Flux-growth synthesis and structural characterization ofR6Nb4Al43(R= Sm, Gd, Tb, Dy, Ho, Er, Tm, Yb, and Lu)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0002/html"/>
     <id>https://doi.org/10.1515/zkri-2025-0002</id>
-    <updated>2025-05-04T22:13:55.796290+00:00</updated>
+    <updated>2025-05-06T05:07:48.048438+00:00</updated>
     <summary>Article by Shrenik Patha, Soham Bhatt, Daniel S. Tortorella, Connor Donnelly, Svilen Bobev
 DOI: https://doi.org/10.1515/zkri-2025-0002</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/zkri-2025-0002</summary>
     <title>Topological densities of quasiperiodic structures</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0003/html"/>
     <id>https://doi.org/10.1515/zkri-2025-0003</id>
-    <updated>2025-05-04T22:13:55.796297+00:00</updated>
+    <updated>2025-05-06T05:07:48.048450+00:00</updated>
     <summary>Article by Anton Shutov
 DOI: https://doi.org/10.1515/zkri-2025-0003</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/zkri-2025-0003</summary>
     <title>Crystal chemistry of the high hydrous analogue of gismondine-Sr and the role of water in the extra-framework cations ordering</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0108/html"/>
     <id>https://doi.org/10.1515/zkri-2024-0108</id>
-    <updated>2025-05-04T22:13:55.796302+00:00</updated>
+    <updated>2025-05-06T05:07:48.048462+00:00</updated>
     <summary>Article by Natalia V. Zubkova, Nikita V. Chukanov, Igor V. Pekov, Christof Schäfer, Dmitry A. Ksenofontov, Katarzyna Skrzyńska, Dmitry Yu. Pushcharovsky
 DOI: https://doi.org/10.1515/zkri-2024-0108</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/zkri-2024-0108</summary>
     <title>Halogen bonds versus hydrogen bonds in the crystal packing formation of halogen substituted anilines</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0119/html"/>
     <id>https://doi.org/10.1515/zkri-2024-0119</id>
-    <updated>2025-05-04T22:13:55.796311+00:00</updated>
+    <updated>2025-05-06T05:07:48.048475+00:00</updated>
     <summary>Article by Irina S. Konovalova, Guido J. Reiss
 DOI: https://doi.org/10.1515/zkri-2024-0119</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/zkri-2024-0119</summary>
     <title>One trityl, two trityl, three trityl groups – Structural differences of differently substituted triethanolamines</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0112/html"/>
     <id>https://doi.org/10.1515/zkri-2024-0112</id>
-    <updated>2025-05-04T22:13:55.796316+00:00</updated>
+    <updated>2025-05-06T05:07:48.048483+00:00</updated>
     <summary>Article by Tabea Lenz, Marcus Layh, Marian Hebenbrock
 DOI: https://doi.org/10.1515/zkri-2024-0112</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/zkri-2024-0112</summary>
     <title>Conformational polymorphism in a mononuclear phosphanegold(I) thiocarbamato species, Cy3PAu[SC(OEt)=N(C6H4Cl-3)]</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0124/html"/>
     <id>https://doi.org/10.1515/zkri-2024-0124</id>
-    <updated>2025-05-04T22:13:55.796321+00:00</updated>
+    <updated>2025-05-06T05:07:48.048492+00:00</updated>
     <summary>Article by Chien Ing Yeo, Yee Seng Tan, Wai Kit Tang, Edward R.T. Tiekink
 DOI: https://doi.org/10.1515/zkri-2024-0124</summary>
   </entry>

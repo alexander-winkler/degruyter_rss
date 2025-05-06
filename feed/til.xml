@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Theoretical Inquiries in Law</title>
-  <link href="https://www.degruyterbrill.com/journal/key/til/25/1/html"/>
-  <updated>2025-05-04T22:12:56.187508+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/til/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/til.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/til/html" rel="related"/>
+  <updated>2025-05-06T05:06:23.900447+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/til.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Theoretical Inquiries in Law</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/til.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/til-2024-frontmatter1</id>
-    <updated>2025-05-04T22:12:56.187533+00:00</updated>
+    <updated>2025-05-06T05:06:23.900463+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/til-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>Introduction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0001/html"/>
     <id>https://doi.org/10.1515/til-2024-0001</id>
-    <updated>2025-05-04T22:12:56.187540+00:00</updated>
+    <updated>2025-05-06T05:06:23.900468+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/til-2024-0001</summary>
   </entry>
   <entry>
     <title>Loyalty voting structures: A better dual class?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0002/html"/>
     <id>https://doi.org/10.1515/til-2024-0002</id>
-    <updated>2025-05-04T22:12:56.187546+00:00</updated>
+    <updated>2025-05-06T05:06:23.900472+00:00</updated>
     <summary>Article by Marco Becht
 DOI: https://doi.org/10.1515/til-2024-0002</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/til-2024-0002</summary>
     <title>Extending dual-class stock: A proposal</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0003/html"/>
     <id>https://doi.org/10.1515/til-2024-0003</id>
-    <updated>2025-05-04T22:12:56.187554+00:00</updated>
+    <updated>2025-05-06T05:06:23.900477+00:00</updated>
     <summary>Article by David J. Berger, Jill Fisch, Steven Davidoff Solomon
 DOI: https://doi.org/10.1515/til-2024-0003</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/til-2024-0003</summary>
     <title>Controlling shareholders and sustainable corporate governance: The role of dual-class shares</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0004/html"/>
     <id>https://doi.org/10.1515/til-2024-0004</id>
-    <updated>2025-05-04T22:12:56.187561+00:00</updated>
+    <updated>2025-05-06T05:06:23.900481+00:00</updated>
     <summary>Article by Alessio M. Pacces
 DOI: https://doi.org/10.1515/til-2024-0004</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/til-2024-0004</summary>
     <title>The UK and dual-class stock-lite – Is it really even better than the real thing?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0005/html"/>
     <id>https://doi.org/10.1515/til-2024-0005</id>
-    <updated>2025-05-04T22:12:56.187568+00:00</updated>
+    <updated>2025-05-06T05:06:23.900489+00:00</updated>
     <summary>Article by Bobby V. Reddy
 DOI: https://doi.org/10.1515/til-2024-0005</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/til-2024-0005</summary>
     <title>Corruption and controlling shareholders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0006/html"/>
     <id>https://doi.org/10.1515/til-2024-0006</id>
-    <updated>2025-05-04T22:12:56.187574+00:00</updated>
+    <updated>2025-05-06T05:06:23.900494+00:00</updated>
     <summary>Article by Kevin E. Davis, Mariana Pargendler
 DOI: https://doi.org/10.1515/til-2024-0006</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/til-2024-0006</summary>
     <title>Justifications for minority co-owned groups and their corporate law implications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0007/html"/>
     <id>https://doi.org/10.1515/til-2024-0007</id>
-    <updated>2025-05-04T22:12:56.187580+00:00</updated>
+    <updated>2025-05-06T05:06:23.900498+00:00</updated>
     <summary>Article by Luca Enriques, Sergio Gilotta
 DOI: https://doi.org/10.1515/til-2024-0007</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/til-2024-0007</summary>
     <title>The (geo)politics of controlling shareholders</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0008/html"/>
     <id>https://doi.org/10.1515/til-2024-0008</id>
-    <updated>2025-05-04T22:12:56.187587+00:00</updated>
+    <updated>2025-05-06T05:06:23.900506+00:00</updated>
     <summary>Article by Curtis J. Milhaupt
 DOI: https://doi.org/10.1515/til-2024-0008</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/til-2024-0008</summary>
     <title>Controlling non-controlling shareholders: The case of effective control</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0009/html"/>
     <id>https://doi.org/10.1515/til-2024-0009</id>
-    <updated>2025-05-04T22:12:56.187593+00:00</updated>
+    <updated>2025-05-06T05:06:23.900510+00:00</updated>
     <summary>Article by Moran Ofir
 DOI: https://doi.org/10.1515/til-2024-0009</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/til-2024-0009</summary>
     <title>Ousted</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/til-2024-0010/html"/>
     <id>https://doi.org/10.1515/til-2024-0010</id>
-    <updated>2025-05-04T22:12:56.187600+00:00</updated>
+    <updated>2025-05-06T05:06:23.900514+00:00</updated>
     <summary>Article by Yifat Aran, Elizabeth Pollman
 DOI: https://doi.org/10.1515/til-2024-0010</summary>
   </entry>

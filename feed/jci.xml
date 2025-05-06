@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Causal Inference </title>
-  <link href="https://www.degruyterbrill.com/journal/key/jci/13/1/html"/>
-  <updated>2025-05-04T22:07:39.374495+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jci/13/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jci.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jci/html" rel="related"/>
+  <updated>2025-05-06T04:59:08.805584+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jci.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Causal Inference </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jci.xml" type="application/rss+xml"/>
   <entry>
     <title>Decision making, symmetry and structure: Justifying causal interventions</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0001/html"/>
     <id>https://doi.org/10.1515/jci-2023-0001</id>
-    <updated>2025-05-04T22:07:39.374522+00:00</updated>
+    <updated>2025-05-06T04:59:08.805601+00:00</updated>
     <summary>Article by David O. Johnston, Cheng Soon Ong, Robert C. Williamson
 DOI: https://doi.org/10.1515/jci-2023-0001</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/jci-2023-0001</summary>
     <title>Targeted maximum likelihood based estimation for longitudinal mediation analysis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0013/html"/>
     <id>https://doi.org/10.1515/jci-2023-0013</id>
-    <updated>2025-05-04T22:07:39.374537+00:00</updated>
+    <updated>2025-05-06T04:59:08.805609+00:00</updated>
     <summary>Article by Zeyi Wang, Lars van der Laan, Maya Petersen, Thomas Gerds, Kajsa Kvist, Mark van der Laan
 DOI: https://doi.org/10.1515/jci-2023-0013</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/jci-2023-0013</summary>
     <title>Optimal precision of coarse structural nested mean models to estimate the effect of initiating ART in early and acute HIV infection</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0078/html"/>
     <id>https://doi.org/10.1515/jci-2023-0078</id>
-    <updated>2025-05-04T22:07:39.374546+00:00</updated>
+    <updated>2025-05-06T04:59:08.805615+00:00</updated>
     <summary>Article by Judith J. Lok
 DOI: https://doi.org/10.1515/jci-2023-0078</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/jci-2023-0078</summary>
     <title>Targeting mediating mechanisms of social disparities with an interventional effects framework, applied to the gender pay gap in Western Germany</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0015/html"/>
     <id>https://doi.org/10.1515/jci-2023-0015</id>
-    <updated>2025-05-04T22:07:39.374553+00:00</updated>
+    <updated>2025-05-06T04:59:08.805620+00:00</updated>
     <summary>Article by Christiane Didden
 DOI: https://doi.org/10.1515/jci-2023-0015</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/jci-2023-0015</summary>
     <title>Role of placebo samples in observational studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0020/html"/>
     <id>https://doi.org/10.1515/jci-2023-0020</id>
-    <updated>2025-05-04T22:07:39.374563+00:00</updated>
+    <updated>2025-05-06T04:59:08.805624+00:00</updated>
     <summary>Article by Ting Ye, Qijia He, Shuxiao Chen, Bo Zhang
 DOI: https://doi.org/10.1515/jci-2023-0020</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/jci-2023-0020</summary>
     <title>Combining observational and experimental data for causal inference considering data privacy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2022-0081/html"/>
     <id>https://doi.org/10.1515/jci-2022-0081</id>
-    <updated>2025-05-04T22:07:39.374571+00:00</updated>
+    <updated>2025-05-06T04:59:08.805628+00:00</updated>
     <summary>Article by Charlotte Z. Mann, Adam C. Sales, Johann A. Gagnon-Bartsch
 DOI: https://doi.org/10.1515/jci-2022-0081</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/jci-2022-0081</summary>
     <title>Recovery and inference of causal effects with sequential adjustment for confounding and attrition</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2024-0009/html"/>
     <id>https://doi.org/10.1515/jci-2024-0009</id>
-    <updated>2025-05-04T22:07:39.374578+00:00</updated>
+    <updated>2025-05-06T04:59:08.805632+00:00</updated>
     <summary>Article by Johan de Aguas, Johan Pensar, Tomás Varnet Pérez, Guido Biele
 DOI: https://doi.org/10.1515/jci-2024-0009</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/jci-2024-0009</summary>
     <title>Conservative inference for counterfactuals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0071/html"/>
     <id>https://doi.org/10.1515/jci-2023-0071</id>
-    <updated>2025-05-04T22:07:39.374586+00:00</updated>
+    <updated>2025-05-06T04:59:08.805638+00:00</updated>
     <summary>Article by Sivaraman Balakrishnan, Edward Kennedy, Larry Wasserman
 DOI: https://doi.org/10.1515/jci-2023-0071</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/jci-2023-0071</summary>
     <title>Treatment effect estimation with observational network data using machine learning</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2023-0082/html"/>
     <id>https://doi.org/10.1515/jci-2023-0082</id>
-    <updated>2025-05-04T22:07:39.374593+00:00</updated>
+    <updated>2025-05-06T04:59:08.805644+00:00</updated>
     <summary>Article by Corinne Emmenegger, Meta-Lina Spohn, Timon Elmer, Peter Bühlmann
 DOI: https://doi.org/10.1515/jci-2023-0082</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/jci-2023-0082</summary>
     <title>Causal structure learning in directed, possibly cyclic, graphical models</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2024-0037/html"/>
     <id>https://doi.org/10.1515/jci-2024-0037</id>
-    <updated>2025-05-04T22:07:39.374601+00:00</updated>
+    <updated>2025-05-06T04:59:08.805648+00:00</updated>
     <summary>Article by Pardis Semnani, Elina Robeva
 DOI: https://doi.org/10.1515/jci-2024-0037</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/jci-2024-0037</summary>
     <title>The necessity of construct and external validity for deductive causal inference</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jci-2024-0002/html"/>
     <id>https://doi.org/10.1515/jci-2024-0002</id>
-    <updated>2025-05-04T22:07:39.374608+00:00</updated>
+    <updated>2025-05-06T04:59:08.805652+00:00</updated>
     <summary>Article by Kevin M. Esterling, David Brady, Eric Schwitzgebel
 DOI: https://doi.org/10.1515/jci-2024-0002</summary>
   </entry>

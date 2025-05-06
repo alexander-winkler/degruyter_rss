@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Applied Analysis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jaa/30/2/html"/>
-  <updated>2025-05-04T22:07:11.446474+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jaa/30/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jaa.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jaa/html" rel="related"/>
+  <updated>2025-05-06T04:58:30.254260+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jaa.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Applied Analysis</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jaa.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/jaa-2024-frontmatter2</id>
-    <updated>2025-05-04T22:07:11.446496+00:00</updated>
+    <updated>2025-05-06T04:58:30.254278+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jaa-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>On the Laplace transform</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2024-0003/html"/>
     <id>https://doi.org/10.1515/jaa-2024-0003</id>
-    <updated>2025-05-04T22:07:11.446503+00:00</updated>
+    <updated>2025-05-06T04:58:30.254284+00:00</updated>
     <summary>Article by Alexander G. Ramm
 DOI: https://doi.org/10.1515/jaa-2024-0003</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jaa-2024-0003</summary>
     <title>An uncertainty principle for the windowed Bochner–Fourier transform with the complex-valued window function</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0120/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0120</id>
-    <updated>2025-05-04T22:07:11.446511+00:00</updated>
+    <updated>2025-05-06T04:58:30.254290+00:00</updated>
     <summary>Article by Mykola Ivanovich Yaremenko
 DOI: https://doi.org/10.1515/jaa-2023-0120</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0120</summary>
     <title>Controllability result in α-norm for some impulsive partial functional integrodifferential equation with infinite delay in Banach spaces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0076/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0076</id>
-    <updated>2025-05-04T22:07:11.446518+00:00</updated>
+    <updated>2025-05-06T04:58:30.254296+00:00</updated>
     <summary>Article by Djendode Mbainadji
 DOI: https://doi.org/10.1515/jaa-2023-0076</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0076</summary>
     <title>Polynomial convergence of iterations of certain random operators in Hilbert space</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0115/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0115</id>
-    <updated>2025-05-04T22:07:11.446524+00:00</updated>
+    <updated>2025-05-06T04:58:30.254301+00:00</updated>
     <summary>Article by Soumyadip Ghosh, Yingdong Lu, Tomasz Nowicki
 DOI: https://doi.org/10.1515/jaa-2023-0115</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0115</summary>
     <title>Trigonometric approximation of signals (functions) belonging to certain Lipschitz spaces usingCδ.Coperator</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0128/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0128</id>
-    <updated>2025-05-04T22:07:11.446530+00:00</updated>
+    <updated>2025-05-06T04:58:30.254305+00:00</updated>
     <summary>Article by Shivani Luhar, Shailesh Kumar Srivastava
 DOI: https://doi.org/10.1515/jaa-2023-0128</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0128</summary>
     <title>Almost compactness in neutrosophic topological spaces</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0132/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0132</id>
-    <updated>2025-05-04T22:07:11.446536+00:00</updated>
+    <updated>2025-05-06T04:58:30.254310+00:00</updated>
     <summary>Article by Sudeep Dey, Gautam Chandra Ray
 DOI: https://doi.org/10.1515/jaa-2023-0132</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0132</summary>
     <title>Some results for a weakly coupled system of semi-linear structurally damped σ-evolution equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0099/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0099</id>
-    <updated>2025-05-04T22:07:11.446542+00:00</updated>
+    <updated>2025-05-06T04:58:30.254314+00:00</updated>
     <summary>Article by Tuan Anh Dao, Khaldi Said
 DOI: https://doi.org/10.1515/jaa-2023-0099</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0099</summary>
     <title>On the stochastic elliptic equations involving fractional derivative</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0151/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0151</id>
-    <updated>2025-05-04T22:07:11.446548+00:00</updated>
+    <updated>2025-05-06T04:58:30.254319+00:00</updated>
     <summary>Article by Nguyen Duc Phuong
 DOI: https://doi.org/10.1515/jaa-2023-0151</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0151</summary>
     <title>A note on Köthe–Toeplitz duals and multiplier spaces of sequence spaces involving bicomplex numbers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0123/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0123</id>
-    <updated>2025-05-04T22:07:11.446554+00:00</updated>
+    <updated>2025-05-06T04:58:30.254325+00:00</updated>
     <summary>Article by Nilay Değirmen, Birsen Sağır
 DOI: https://doi.org/10.1515/jaa-2023-0123</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0123</summary>
     <title>A brief survey on the development and applications of Goebel’s coincidence point theorem in differential and integral equations</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0114/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0114</id>
-    <updated>2025-05-04T22:07:11.446562+00:00</updated>
+    <updated>2025-05-06T04:58:30.254330+00:00</updated>
     <summary>Article by Ravindra K. Bisht
 DOI: https://doi.org/10.1515/jaa-2023-0114</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0114</summary>
     <title>Boundary controllability for variable coefficients one-dimensional wave equation with interior degeneracy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0125/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0125</id>
-    <updated>2025-05-04T22:07:11.446568+00:00</updated>
+    <updated>2025-05-06T04:58:30.254335+00:00</updated>
     <summary>Article by Mohamed Azzaoui, Jawad Salhi, Mouhcine Tilioua
 DOI: https://doi.org/10.1515/jaa-2023-0125</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0125</summary>
     <title>On random pairwise comparisons matrices and their geometry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0057/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0057</id>
-    <updated>2025-05-04T22:07:11.446574+00:00</updated>
+    <updated>2025-05-06T04:58:30.254340+00:00</updated>
     <summary>Article by Jean-Pierre Magnot
 DOI: https://doi.org/10.1515/jaa-2023-0057</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0057</summary>
     <title>Statistically convergent difference sequences of bi-complex numbers</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0133/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0133</id>
-    <updated>2025-05-04T22:07:11.446580+00:00</updated>
+    <updated>2025-05-06T04:58:30.254344+00:00</updated>
     <summary>Article by Subhajit Bera, Binod Chandra Tripathy
 DOI: https://doi.org/10.1515/jaa-2023-0133</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0133</summary>
     <title>On some inequalities concerning polynomials with restricted zeros</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0160/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0160</id>
-    <updated>2025-05-04T22:07:11.446588+00:00</updated>
+    <updated>2025-05-06T04:58:30.254348+00:00</updated>
     <summary>Article by Aijaz Bhat, Tanveer Bhat, N. A. Rather
 DOI: https://doi.org/10.1515/jaa-2023-0160</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0160</summary>
     <title>New retarded nonlinear integral inequalities of Gronwall–Bellman–Pachpatte type and their applications</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0122/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0122</id>
-    <updated>2025-05-04T22:07:11.446594+00:00</updated>
+    <updated>2025-05-06T04:58:30.254353+00:00</updated>
     <summary>Article by Nagesh Kale
 DOI: https://doi.org/10.1515/jaa-2023-0122</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0122</summary>
     <title>On a new variant of cyclic (noncyclic) condensing operators with existence of optimal solutions to an FDE</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0159/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0159</id>
-    <updated>2025-05-04T22:07:11.446600+00:00</updated>
+    <updated>2025-05-06T04:58:30.254357+00:00</updated>
     <summary>Article by Gurpreet Kaur Khokhar, Moosa Gabeleh, Deepesh Kumar Patel
 DOI: https://doi.org/10.1515/jaa-2023-0159</summary>
   </entry>
@@ -150,7 +147,7 @@ DOI: https://doi.org/10.1515/jaa-2023-0159</summary>
     <title>Exponential stability of non-conformable fractional-order systems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jaa-2023-0134/html"/>
     <id>https://doi.org/10.1515/jaa-2023-0134</id>
-    <updated>2025-05-04T22:07:11.446606+00:00</updated>
+    <updated>2025-05-06T04:58:30.254361+00:00</updated>
     <summary>Article by Nadhem Echi, Fehmi Mabrouk, Faouzi Omri
 DOI: https://doi.org/10.1515/jaa-2023-0134</summary>
   </entry>

@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of Practical Theology </title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijpt/28/s1/html"/>
-  <updated>2025-05-04T22:06:50.481221+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ijpt/28/s1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijpt.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijpt/html" rel="related"/>
+  <updated>2025-05-06T04:58:02.638810+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijpt.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of Practical Theology </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijpt.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2024-frontmatters1/html"/>
     <id>https://doi.org/10.1515/ijpt-2024-frontmatters1</id>
-    <updated>2025-05-04T22:06:50.481276+00:00</updated>
+    <updated>2025-05-06T04:58:02.638832+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ijpt-2024-frontmatters1</summary>
   </entry>
   <entry>
     <title>Christina Bickel,Religion im Werk von Maarten ‘t Hart. Eine narratologische Untersuchung in praktisch-theologischer Perspektive, Leipzig (Evangelische Verlagsanstalt) 2022, 321 pp., ISBN 978-3-374-06946-0 (Series Hermeneutik und Ästhetik 5), 88,00 €.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2024-0045/html"/>
     <id>https://doi.org/10.1515/ijpt-2024-0045</id>
-    <updated>2025-05-04T22:06:50.481297+00:00</updated>
+    <updated>2025-05-06T04:58:02.638840+00:00</updated>
     <summary>Article by Hans-Günter Heimbrock
 DOI: https://doi.org/10.1515/ijpt-2024-0045</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ijpt-2024-0045</summary>
     <title>Choi Hee An,A Postcolonial Relationship: Challenges of Asian Immigrants as the Third Other.Albany (State University of New York Press) 2022, 192 pp., ISBN 9781438486574, $99 (Paperback: $33.95).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2024-0047/html"/>
     <id>https://doi.org/10.1515/ijpt-2024-0047</id>
-    <updated>2025-05-04T22:06:50.481313+00:00</updated>
+    <updated>2025-05-06T04:58:02.638848+00:00</updated>
     <summary>Article by Febrianto Febrianto
 DOI: https://doi.org/10.1515/ijpt-2024-0047</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ijpt-2024-0047</summary>
     <title>Jason Steidl Jack,LGBTQ Catholic Ministry: Past and Present, New York / Mahwah, NJ (Paulist Press) 2023, 224 pp., ISBN 9780809155699, $27.95.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2023-0071/html"/>
     <id>https://doi.org/10.1515/ijpt-2023-0071</id>
-    <updated>2025-05-04T22:06:50.481326+00:00</updated>
+    <updated>2025-05-06T04:58:02.638854+00:00</updated>
     <summary>Article by Jade Willaert
 DOI: https://doi.org/10.1515/ijpt-2023-0071</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ijpt-2023-0071</summary>
     <title>Geoffrey Legrand,Les enjeux théologiques de la pastorale scolaire. Recherche sur les finalités de la pastorale scolaire à partir d’une relecture de Paul Tillich(Tillich Research 25), Berlin / Boston (De Gruyter) 2022, 413 pp., ISBN 978-3-11-078185-4, 102,95 €.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2024-0005/html"/>
     <id>https://doi.org/10.1515/ijpt-2024-0005</id>
-    <updated>2025-05-04T22:06:50.481338+00:00</updated>
+    <updated>2025-05-06T04:58:02.638860+00:00</updated>
     <summary>Article by Maike Maria Domsel
 DOI: https://doi.org/10.1515/ijpt-2024-0005</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ijpt-2024-0005</summary>
     <title>Simon Linder,Eine streitende Kirche in digitaler Gegenwart: Warum eine Theologie der Digitalität nach Synodalität und Streitkultur verlangt, Tübingen (Tübingen University Press) 2023, 576 pp., ISBN 978-3-947251-80-3, open-access: http://dx.doi.org/10.15496/publikation-82287.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2023-0077/html"/>
     <id>https://doi.org/10.1515/ijpt-2023-0077</id>
-    <updated>2025-05-04T22:06:50.481353+00:00</updated>
+    <updated>2025-05-06T04:58:02.638867+00:00</updated>
     <summary>Article by Felix Roleder
 DOI: https://doi.org/10.1515/ijpt-2023-0077</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ijpt-2023-0077</summary>
     <title>Sabrina Müller and Jasmine Suhner,Transformative Homiletik – Jenseits der Kanzel. (M)achtsam predigen in einer sich verändernden Welt, Interdisziplinäre Studien zur Transformation 3, Neukirchen-Vluyn (Neukirchener Verlagsgesellschaft) 2023, 240 pp., ISBN 9783761569115, 28,00 €.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2023-0037/html"/>
     <id>https://doi.org/10.1515/ijpt-2023-0037</id>
-    <updated>2025-05-04T22:06:50.481364+00:00</updated>
+    <updated>2025-05-06T04:58:02.638873+00:00</updated>
     <summary>Article by Bernhard Lauxmann
 DOI: https://doi.org/10.1515/ijpt-2023-0037</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ijpt-2023-0037</summary>
     <title>Malan Nel,Youth Ministry: An Inclusive Missional Approach, Cape Town (AOSIS) 2018, 420 pp., ISBN 9781928396413, R 1,226.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2023-0030/html"/>
     <id>https://doi.org/10.1515/ijpt-2023-0030</id>
-    <updated>2025-05-04T22:06:50.481372+00:00</updated>
+    <updated>2025-05-06T04:58:02.638878+00:00</updated>
     <summary>Article by Nathan Chiroma
 DOI: https://doi.org/10.1515/ijpt-2023-0030</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/ijpt-2023-0030</summary>
     <title>Mahmoud Abdallah:Islamische Seelsorgelehre: Theologische Grundlegung und Perspektiven in einer pluralistischen Gesellschaft, Ostfildern (Matthias-Grünewald-Verlag) 2022, 426 pp., ISBN 978-3-7867-3292-1, 52,00 €.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2023-0029/html"/>
     <id>https://doi.org/10.1515/ijpt-2023-0029</id>
-    <updated>2025-05-04T22:06:50.481382+00:00</updated>
+    <updated>2025-05-06T04:58:02.638884+00:00</updated>
     <summary>Article by Felix Roleder
 DOI: https://doi.org/10.1515/ijpt-2023-0029</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/ijpt-2023-0029</summary>
     <title>Andreas Pangritz,Die Schattenseite des Christentums: Theologie und Antisemitismus, Stuttgart (Kohlhammer) 2023, 218 pp., ISBN 978-3-17-040046-7, 29,00 €.</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijpt-2023-0022/html"/>
     <id>https://doi.org/10.1515/ijpt-2023-0022</id>
-    <updated>2025-05-04T22:06:50.481395+00:00</updated>
+    <updated>2025-05-06T04:58:02.638890+00:00</updated>
     <summary>Article by Hans-Ulrich Probst
 DOI: https://doi.org/10.1515/ijpt-2023-0022</summary>
   </entry>

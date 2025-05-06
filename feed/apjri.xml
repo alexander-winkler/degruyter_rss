@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Asia-Pacific Journal of Risk and Insurance</title>
-  <link href="https://www.degruyterbrill.com/journal/key/apjri/19/1/html"/>
-  <updated>2025-05-04T22:02:52.400594+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/apjri/19/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apjri.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/apjri/html" rel="related"/>
+  <updated>2025-05-06T04:52:36.459981+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apjri.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Asia-Pacific Journal of Risk and Insurance</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/apjri.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apjri-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/apjri-2025-frontmatter1</id>
-    <updated>2025-05-04T22:02:52.400622+00:00</updated>
+    <updated>2025-05-06T04:52:36.460026+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/apjri-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Balancing Innovation and Profitability: Technological Diversification in Iran’s Insurance Industry</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apjri-2024-0011/html"/>
     <id>https://doi.org/10.1515/apjri-2024-0011</id>
-    <updated>2025-05-04T22:02:52.400631+00:00</updated>
+    <updated>2025-05-06T04:52:36.460038+00:00</updated>
     <summary>Article by Seyed Amirhossein Shojaei, Bashar Yaser Almansour
 DOI: https://doi.org/10.1515/apjri-2024-0011</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/apjri-2024-0011</summary>
     <title>Medical Insurance Contribution and Firm-Level Total Factor Productivity</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apjri-2024-0019/html"/>
     <id>https://doi.org/10.1515/apjri-2024-0019</id>
-    <updated>2025-05-04T22:02:52.400639+00:00</updated>
+    <updated>2025-05-06T04:52:36.460053+00:00</updated>
     <summary>Article by Tao Huang, Rui Sun, Zhe Zhao
 DOI: https://doi.org/10.1515/apjri-2024-0019</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/apjri-2024-0019</summary>
     <title>Cream Skimming and Technological Innovations in Automobile Insurance Market</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apjri-2024-0023/html"/>
     <id>https://doi.org/10.1515/apjri-2024-0023</id>
-    <updated>2025-05-04T22:02:52.400646+00:00</updated>
+    <updated>2025-05-06T04:52:36.460066+00:00</updated>
     <summary>Article by Yoichiro Fujii, Shuhei Nishizawa
 DOI: https://doi.org/10.1515/apjri-2024-0023</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/apjri-2024-0023</summary>
     <title>A Study on the Current Bonus–Malus System in the Moroccan Automobile Insurance Market</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/apjri-2023-0022/html"/>
     <id>https://doi.org/10.1515/apjri-2023-0022</id>
-    <updated>2025-05-04T22:02:52.400653+00:00</updated>
+    <updated>2025-05-06T04:52:36.460081+00:00</updated>
     <summary>Article by Mohamed Yasser BOUNNITE
 DOI: https://doi.org/10.1515/apjri-2023-0022</summary>
   </entry>

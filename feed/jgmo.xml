@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Jahrbuch für die Geschichte Mittel- und Ostdeutschlands</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jgmo/68/1/html"/>
-  <updated>2025-05-04T22:07:57.009032+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jgmo/68/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgmo.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jgmo/html" rel="related"/>
+  <updated>2025-05-06T04:59:32.374151+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgmo.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Jahrbuch für die Geschichte Mittel- und Ostdeutschlands</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jgmo.xml" type="application/rss+xml"/>
   <entry>
     <title>Titelseiten</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-frontmatter1/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-frontmatter1</id>
-    <updated>2025-05-04T22:07:57.009049+00:00</updated>
+    <updated>2025-05-06T04:59:32.374167+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jgmo-2022-frontmatter1</summary>
   </entry>
   <entry>
     <title>Zeitschriftenumschau für 2021</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0045/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0045</id>
-    <updated>2025-05-04T22:07:57.009054+00:00</updated>
+    <updated>2025-05-06T04:59:32.374172+00:00</updated>
     <summary>Article by Gerhard Weiduschat
 DOI: https://doi.org/10.1515/jgmo-2022-0045</summary>
   </entry>
@@ -30,14 +27,14 @@ DOI: https://doi.org/10.1515/jgmo-2022-0045</summary>
     <title>Register zu den Buchbesprechungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0046/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0046</id>
-    <updated>2025-05-04T22:07:57.009059+00:00</updated>
+    <updated>2025-05-06T04:59:32.374177+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jgmo-2022-0046</summary>
   </entry>
   <entry>
     <title>Korrigendum zu: Ein Blick über Brandenburgs neuzeitliche Schlösserlandschaft</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0001/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0001</id>
-    <updated>2025-05-04T22:07:57.009063+00:00</updated>
+    <updated>2025-05-06T04:59:32.374181+00:00</updated>
     <summary>Article by Sibylle Badstübner-Gröger
 DOI: https://doi.org/10.1515/jgmo-2022-0001</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0001</summary>
     <title>Der rote Adler als brandenburgischer Erinnerungsort</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0002/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0002</id>
-    <updated>2025-05-04T22:07:57.009068+00:00</updated>
+    <updated>2025-05-06T04:59:32.374185+00:00</updated>
     <summary>Article by Ralf-Gunnar Werlich
 DOI: https://doi.org/10.1515/jgmo-2022-0002</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0002</summary>
     <title>Von der rechten Methode der Edition brandenburgischer Geschichtsquellen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0003/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0003</id>
-    <updated>2025-05-04T22:07:57.009076+00:00</updated>
+    <updated>2025-05-06T04:59:32.374189+00:00</updated>
     <summary>Article by Wolfgang Ribbe
 DOI: https://doi.org/10.1515/jgmo-2022-0003</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0003</summary>
     <title>Alma Lessing – Biografisches und Fotografisches zu einer Wegbereiterin der künstlerischen Fotografie und der bürgerlichen Frauenbewegung in Deutschland</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0004/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0004</id>
-    <updated>2025-05-04T22:07:57.009081+00:00</updated>
+    <updated>2025-05-06T04:59:32.374194+00:00</updated>
     <summary>Article by Werner Sarholz
 DOI: https://doi.org/10.1515/jgmo-2022-0004</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0004</summary>
     <title>Wissenschaftszensur im Nationalsozialismus – Fritz Hartungs Edition der Aufsätze Otto Hintzes und die ‚Parteiamtliche Prüfungskommission zum Schutze des NS-Schrifttums‘</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0005/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0005</id>
-    <updated>2025-05-04T22:07:57.009085+00:00</updated>
+    <updated>2025-05-06T04:59:32.374198+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0005</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0005</summary>
     <title>Ausflug in ein ‚Niemandsland‘ der brandenburgischen Landesgeschichte</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0006/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0006</id>
-    <updated>2025-05-04T22:07:57.009089+00:00</updated>
+    <updated>2025-05-06T04:59:32.374202+00:00</updated>
     <summary>Article by Andreas Stegmann
 DOI: https://doi.org/10.1515/jgmo-2022-0006</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0006</summary>
     <title>‚Götter-Ideen‘ für Königin Elisabeth Christine. Rätsel um ein Sankt Petersburger Rarissimum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0007/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0007</id>
-    <updated>2025-05-04T22:07:57.009093+00:00</updated>
+    <updated>2025-05-06T04:59:32.374209+00:00</updated>
     <summary>Article by Tatjana Schabalina, Irmgard Scheitler
 DOI: https://doi.org/10.1515/jgmo-2022-0007</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0007</summary>
     <title>Kaiser Wilhelm I. und die Hohenzollernmonarchie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0008/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0008</id>
-    <updated>2025-05-04T22:07:57.009097+00:00</updated>
+    <updated>2025-05-06T04:59:32.374213+00:00</updated>
     <summary>Article by Jan Markert
 DOI: https://doi.org/10.1515/jgmo-2022-0008</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0008</summary>
     <title>Forschung und Kampagne? Zu einigen Beiträgen im ‚Hohenzollern-Streit‘ aus jüngster Zeit</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0009/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0009</id>
-    <updated>2025-05-04T22:07:57.009101+00:00</updated>
+    <updated>2025-05-06T04:59:32.374217+00:00</updated>
     <summary>Article by Wolfgang Neugebauer
 DOI: https://doi.org/10.1515/jgmo-2022-0009</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0009</summary>
     <title>Jüdische Kollaboration? Wie aus Holocaust-Überlebenden in Nachkriegsdeutschland NS-Täter wurden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0010/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0010</id>
-    <updated>2025-05-04T22:07:57.009105+00:00</updated>
+    <updated>2025-05-06T04:59:32.374221+00:00</updated>
     <summary>Article by Philipp Dinkelaker
 DOI: https://doi.org/10.1515/jgmo-2022-0010</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0010</summary>
     <title>Das Archivgut der ostpreußischen Kreis- und Stadtgemeinschaften im Kulturzentrum Ostpreußen in Ellingen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0011/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0011</id>
-    <updated>2025-05-04T22:07:57.009110+00:00</updated>
+    <updated>2025-05-06T04:59:32.374225+00:00</updated>
     <summary>Article by Albrecht Hoppe
 DOI: https://doi.org/10.1515/jgmo-2022-0011</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0011</summary>
     <title>Adriaan von Müller (1928 bis 2021)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0012/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0012</id>
-    <updated>2025-05-04T22:07:57.009113+00:00</updated>
+    <updated>2025-05-06T04:59:32.374228+00:00</updated>
     <summary>Article by Heino Neumayer
 DOI: https://doi.org/10.1515/jgmo-2022-0012</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0012</summary>
     <title>Ingo Materna (1932 bis 2022)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0013/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0013</id>
-    <updated>2025-05-04T22:07:57.009117+00:00</updated>
+    <updated>2025-05-06T04:59:32.374232+00:00</updated>
     <summary>Article by Gaby Huch, Bärbel Holtz
 DOI: https://doi.org/10.1515/jgmo-2022-0013</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0013</summary>
     <title>Erinnerungen an Jürgen Wetzel (1938 bis 2022)</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0014/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0014</id>
-    <updated>2025-05-04T22:07:57.009121+00:00</updated>
+    <updated>2025-05-06T04:59:32.374236+00:00</updated>
     <summary>Article by Uwe Schaper
 DOI: https://doi.org/10.1515/jgmo-2022-0014</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0014</summary>
     <title>Oliver Auge/Michael Hecht (Hrsg.),‚Kleine Fürsten‘ im Alten Reich.Strukturelle Zwänge und soziale Praktiken im Wandel (1300–1800) (Zeitschrift für Historische Forschung, Beih. 59), Berlin: Duncker &amp; Humblot 2022. 471 S., Abb. – ISBN 978-3-428-18427-9 (79,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0015/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0015</id>
-    <updated>2025-05-04T22:07:57.009127+00:00</updated>
+    <updated>2025-05-06T04:59:32.374241+00:00</updated>
     <summary>Article by Frank Göse
 DOI: https://doi.org/10.1515/jgmo-2022-0015</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0015</summary>
     <title>Felix Engel u. a. (Hrsg.),Aus der märkischen Streusandbüchse in die Welt hinein. Beiträge zur brandenburgischen, preußischen, sächsischen und internationalen Geschichte. Frank Göse zum 65. Geburtstag (Schriften der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, N. F., Bd. 14), Berlin: Lukas Verlag 2022. 344 S., 1 Abb. – ISBN 978-3-86732-423-6 (30,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0016/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0016</id>
-    <updated>2025-05-04T22:07:57.009131+00:00</updated>
+    <updated>2025-05-06T04:59:32.374247+00:00</updated>
     <summary>Article by Pauline Puppel
 DOI: https://doi.org/10.1515/jgmo-2022-0016</summary>
   </entry>
@@ -165,7 +162,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0016</summary>
     <title>Lenka Bobková u. a. (Hrsg.),Johann von Görlitz.Der dritte Sohn Karls IV. (Beihefte zum Neuen Lausitzischen Magazin, Bd. 22), Görlitz/Zittau: Verlag Gunter Oettel 2019. 328 S. – ISBN 978-3-944560-65-6 (28,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0017/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0017</id>
-    <updated>2025-05-04T22:07:57.009136+00:00</updated>
+    <updated>2025-05-06T04:59:32.374251+00:00</updated>
     <summary>Article by Uwe Tresp
 DOI: https://doi.org/10.1515/jgmo-2022-0017</summary>
   </entry>
@@ -173,7 +170,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0017</summary>
     <title>Thomas Kaufmann,Die Druckmacher.Wie die Generation Luther die erste Medienrevolution entfesselte, München: C.H. Beck Verlag 2022. 350 S., 61 Abb., 1 Kt. – ISBN 978-3-406-78180-3 (28,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0018/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0018</id>
-    <updated>2025-05-04T22:07:57.009140+00:00</updated>
+    <updated>2025-05-06T04:59:32.374256+00:00</updated>
     <summary>Article by Holger Schmidt
 DOI: https://doi.org/10.1515/jgmo-2022-0018</summary>
   </entry>
@@ -181,7 +178,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0018</summary>
     <title>Uwe Folwarczny,Lutherische Orthodoxie und konfessioneller Pragmatismus.Kurfürst Joachim Friedrich von Brandenburg zwischen Dynastie, Territorien und Reich (Veröffentlichungen aus den Archiven Preußischer Kulturbesitz. Forschungen, Bd. 20), Berlin: Duncker &amp; Humblot 2022. 625 S., Abb. – ISBN 978-3-428-18263-3 (109,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0019/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0019</id>
-    <updated>2025-05-04T22:07:57.009145+00:00</updated>
+    <updated>2025-05-06T04:59:32.374265+00:00</updated>
     <summary>Article by Achim Beyer
 DOI: https://doi.org/10.1515/jgmo-2022-0019</summary>
   </entry>
@@ -189,7 +186,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0019</summary>
     <title>Udo Roth/Gideon Stiening (Hrsg.),Christian Garve (1742–1798).Philosoph und Philologe der Aufklärung (Werkprofile – Philosophen und Literaten des 17. und 18. Jahrhunderts, Bd. 14), Berlin/Boston: De Gruyter 2021. X, 400 S. – ISBN 978-3-11-064590-3 (149,95 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0020/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0020</id>
-    <updated>2025-05-04T22:07:57.009149+00:00</updated>
+    <updated>2025-05-06T04:59:32.374269+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0020</summary>
   </entry>
@@ -197,7 +194,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0020</summary>
     <title>Anna Dietrich,‚Und sie alle sind des Königs Gäste‘.Legitimierungspolitik der preußischen Monarchie durch soziale Öffnung am Beispiel der Krönungs- und Ordensfeste (1810–1914) (Veröffentlichungen aus den Archiven Preußischer Kulturbesitz. Forschungen, Bd. 19), Berlin: Duncker &amp; Humblot 2021. 421 S. – ISBN 978-3-428-18176-6 (99,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0021/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0021</id>
-    <updated>2025-05-04T22:07:57.009153+00:00</updated>
+    <updated>2025-05-06T04:59:32.374274+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0021</summary>
   </entry>
@@ -205,7 +202,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0021</summary>
     <title>Rolf-Barnim Foth,Der Meister der Panoramen.Friedrich Wilhelm Delkeskamp, Hamburg: Edition Kentavros 2022. 310 S., 220 Abb. – ISBN: 978-3-9821744-7-1 (39,80 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0022/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0022</id>
-    <updated>2025-05-04T22:07:57.009157+00:00</updated>
+    <updated>2025-05-06T04:59:32.374278+00:00</updated>
     <summary>Article by Iris Berndt
 DOI: https://doi.org/10.1515/jgmo-2022-0022</summary>
   </entry>
@@ -213,7 +210,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0022</summary>
     <title>Hedwig Koch,Mein Weg mit Robert Koch, hrsg. von Heiner Barz, Göttingen: Wallstein 2023. 167 S., 8 Abb. – 978-3-8353-5328-2 (22,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0023/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0023</id>
-    <updated>2025-05-04T22:07:57.009161+00:00</updated>
+    <updated>2025-05-06T04:59:32.374282+00:00</updated>
     <summary>Article by Ulrich van der Heyden
 DOI: https://doi.org/10.1515/jgmo-2022-0023</summary>
   </entry>
@@ -221,7 +218,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0023</summary>
     <title>Manfred Kittel/Gabriele Schneider/Thomas Simon (Hrsg.),Preußen und sein Osten in der Weimarer Republik(Forschungen zur Brandenburgischen und Preußischen Geschichte, N. F., Beih. 17), Berlin: Duncker &amp; Humblot 2022. VI, 383 S. – ISBN 978-3-428-18526-9 (119,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0024/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0024</id>
-    <updated>2025-05-04T22:07:57.009165+00:00</updated>
+    <updated>2025-05-06T04:59:32.374286+00:00</updated>
     <summary>Article by Jens Flemming
 DOI: https://doi.org/10.1515/jgmo-2022-0024</summary>
   </entry>
@@ -229,7 +226,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0024</summary>
     <title>Brandenburgisches Landesamt für Denkmalpflege und Archäologisches Landesmuseum (Hrsg.)/Katharina Steudtner (Bearb.),Der ‚Auftrag Speer‘ der Staatlichen Bildstelle Berlin.Zur wissenschaftlichen Erschließung eines fotografischen Bestandes im Messbildarchiv des Brandenburgischen Landesamtes für Denkmalpflege und Archäologischen Landesmuseums (Arbeitshefte des Brandenburgischen Landesamtes für Denkmalpflege und Archäologischen Landesmuseums, Nr. 60), Berlin: Lukas Verlag 2022. 381 S., 379 teils farbige Abb. u. Kt. – ISBN 978-3-86732-378-9 (40,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0025/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0025</id>
-    <updated>2025-05-04T22:07:57.009170+00:00</updated>
+    <updated>2025-05-06T04:59:32.374291+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0025</summary>
   </entry>
@@ -237,7 +234,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0025</summary>
     <title>Sebastian Brather,Archäologie und Denkmalpflege in der DDR.Institutionen, Gremien, Personen, Berlin: Lukas Verlag 2023. 460 S., 22 Grafiken, Tab. u. Kt. – ISBN 978-3-86732-416-8 (50,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0026/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0026</id>
-    <updated>2025-05-04T22:07:57.009175+00:00</updated>
+    <updated>2025-05-06T04:59:32.374295+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0026</summary>
   </entry>
@@ -245,7 +242,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0026</summary>
     <title>Arne Lindemann,Vom Germanenerbe zum Urkommunismus.Urgeschichtsbilder in Museen der SBZ und DDR, Berlin/Boston: De Gruyter 2022. 405 S., 99 SW- u. sechs Farb-Abb. – ISBN 978-3-11-076086-6 (49,95 Euro); ISBN eBook (PDF) 978-3-11-076106-1 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0027/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0027</id>
-    <updated>2025-05-04T22:07:57.009180+00:00</updated>
+    <updated>2025-05-06T04:59:32.374300+00:00</updated>
     <summary>Article by Felix Biermann
 DOI: https://doi.org/10.1515/jgmo-2022-0027</summary>
   </entry>
@@ -253,7 +250,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0027</summary>
     <title>Gerhard Barkleit,Werner Hartmann.Wegbereiter der Mikroelektronik in der DDR (Zeitgeschichtliche Forschungen, Bd. 60), Berlin: Duncker &amp; Humblot 2022. 271 S., 36 Abb., 22 Tabellen. – ISBN 978-3-428-18446-0 (49,50 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0028/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0028</id>
-    <updated>2025-05-04T22:07:57.009184+00:00</updated>
+    <updated>2025-05-06T04:59:32.374304+00:00</updated>
     <summary>Article by Günter Nagel
 DOI: https://doi.org/10.1515/jgmo-2022-0028</summary>
   </entry>
@@ -261,7 +258,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0028</summary>
     <title>Die DDR im Blick der Stasi 1983. Die geheimen Berichte an die SED-Führung, bearb. von Mark Schiefer und Martin Stief, Göttingen: Vandenhoeck &amp; Ruprecht 2021. 320 S., Abb. – ISBN 978-3-525-31734-1 (30,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0029/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0029</id>
-    <updated>2025-05-04T22:07:57.009188+00:00</updated>
+    <updated>2025-05-06T04:59:32.374308+00:00</updated>
     <summary>Article by Sebastian Stude
 DOI: https://doi.org/10.1515/jgmo-2022-0029</summary>
   </entry>
@@ -269,7 +266,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0029</summary>
     <title>Cay-Uwe Dähn,Der Spreeflügel des Berliner Schlosses(Schriften der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, N. F., Bd. 22), Berlin: Lukas Verlag 2021. 378 S., 293 Abb., davon 50 farbig. – ISBN 978-3-86732-382-6 (40,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0030/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0030</id>
-    <updated>2025-05-04T22:07:57.009192+00:00</updated>
+    <updated>2025-05-06T04:59:32.374312+00:00</updated>
     <summary>Article by Helmut Börsch-Supan
 DOI: https://doi.org/10.1515/jgmo-2022-0030</summary>
   </entry>
@@ -277,7 +274,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0030</summary>
     <title>Ingo Haar,Jüdische Migration und Diversität in Wien und Berlin 1667/71–1918.Von der Vertreibung der Juden Wiens und ihrer Wiederansiedlung in Berlin bis zum Zionismus, Göttingen: Wallstein 2022. 535 S., 8 Abb. – ISBN 978-3-8353-3976-7 (42,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0031/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0031</id>
-    <updated>2025-05-04T22:07:57.009196+00:00</updated>
+    <updated>2025-05-06T04:59:32.374317+00:00</updated>
     <summary>Article by Tobias Schenk
 DOI: https://doi.org/10.1515/jgmo-2022-0031</summary>
   </entry>
@@ -285,7 +282,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0031</summary>
     <title>Rüdiger Hachtmann,1848.Revolution in Berlin, Berlin: be.bra Verlag 2022. 240 S., Abb. – ISBN 978-3-8148-0261-9 (26,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0032/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0032</id>
-    <updated>2025-05-04T22:07:57.009200+00:00</updated>
+    <updated>2025-05-06T04:59:32.374321+00:00</updated>
     <summary>Article by Wolfgang Radtke
 DOI: https://doi.org/10.1515/jgmo-2022-0032</summary>
   </entry>
@@ -293,7 +290,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0032</summary>
     <title>Uwe Lehmann-Brauns,Zwischen den Fronten.Notizen eines Grenzgängers durch Politik und Kultur, Berlin: be.bra Verlag 2022. 176 S., 16 Abb. – ISBN 978-3-8148-0264-0 (24,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0033/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0033</id>
-    <updated>2025-05-04T22:07:57.009204+00:00</updated>
+    <updated>2025-05-06T04:59:32.374325+00:00</updated>
     <summary>Article by Kai-Uwe Merz
 DOI: https://doi.org/10.1515/jgmo-2022-0033</summary>
   </entry>
@@ -301,7 +298,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0033</summary>
     <title>Klaus Neitmann/Winfried Schich † (Hrsg.)/Joachim Stephan (Bearb.),Städtebuch Historisches Ostbrandenburg(Bibliothek der Brandenburgischen und Preußischen Geschichte, Bd. 19/Deutsches Städtebuch. Handbuch städtischer Geschichte. Neubearbeitung, Bd. 4), Berlin: Berliner Wissenschafts-Verlag 2022. 596 S. – ISBN Print 978-3-8305-5098-8 (72,– Euro), ISBN eBook (PDF) 978-3-8305-4320-6 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0034/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0034</id>
-    <updated>2025-05-04T22:07:57.009208+00:00</updated>
+    <updated>2025-05-06T04:59:32.374330+00:00</updated>
     <summary>Article by Michael Scholz
 DOI: https://doi.org/10.1515/jgmo-2022-0034</summary>
   </entry>
@@ -309,7 +306,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0034</summary>
     <title>Jörn Roland Christophersen,Krisen, Chancen und Bedrohungen. Studien zur Geschichte der Juden in der Mark Brandenburg während des späteren Mittelalters (13. bis Anfang des 16. Jahrhunderts) (Forschungen zur Geschichte der Juden, Abt. A: Abhandlungen, Bd. 32), Wiesbaden: Harrassowitz 2021. XVI, 870 S., 27 Abb., 6 Tabellen. – ISBN Print 978-3-447-11710-4; ISBN eBook 978-3-447-39185-6 (jeweils 148,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0035/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0035</id>
-    <updated>2025-05-04T22:07:57.009213+00:00</updated>
+    <updated>2025-05-06T04:59:32.374334+00:00</updated>
     <summary>Article by Joachim Stephan
 DOI: https://doi.org/10.1515/jgmo-2022-0035</summary>
   </entry>
@@ -317,7 +314,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0035</summary>
     <title>Willi Carl/Martin Gorholt/Sabine Hering (Hrsg.),Sozialdemokratie in Brandenburg (1868–1933).Lebenswege zwischen Aufbruch, Aufstieg und Abgrund. Mit einem Vorwort von Dietmar Woidke, Bonn: Verlag J. H. W. Dietz Nachf. 2021. 357 S., Abb. – ISBN 978-3-8012-0596-6 (24,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0036/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0036</id>
-    <updated>2025-05-04T22:07:57.009217+00:00</updated>
+    <updated>2025-05-06T04:59:32.374338+00:00</updated>
     <summary>Article by Michael Wildt
 DOI: https://doi.org/10.1515/jgmo-2022-0036</summary>
   </entry>
@@ -325,7 +322,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0036</summary>
     <title>Peter Bahl,Belastung und Bereicherung.Vertriebenenintegration in Brandenburg ab 1945 (Bibliothek der Brandenburgischen und Preußischen Geschichte, Bd. 17), Berlin: BWV Berliner Wissenschafts-Verlag 2020. XVII, 1.718 S. – ISBN Print 978-3-8305-5016-7 (125,– Euro), ISBN eBook (PDF) 978-3-8305-4186-8 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0037/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0037</id>
-    <updated>2025-05-04T22:07:57.009221+00:00</updated>
+    <updated>2025-05-06T04:59:32.374342+00:00</updated>
     <summary>Article by Andreas Kossert
 DOI: https://doi.org/10.1515/jgmo-2022-0037</summary>
   </entry>
@@ -333,7 +330,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0037</summary>
     <title>Torsten Hartisch,‚Zum Landrat nicht geeignet‘. Leitendes Personal der zentralen, regionalen und lokalen Verwaltungsdienststellen in Brandenburg 1945–1952 (Veröffentlichungen des Brandenburgischen Landeshauptarchivs, Bd. 78), Berlin: BWV Berliner Wissenschafts-Verlag 2022. XII, 675 S., zahlr. S/W-Abb. – ISBN Print 978-3-8305-4329-9 (96,– Euro), ISBN eBook (PDF) 978-3-8305-4329-9 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0038/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0038</id>
-    <updated>2025-05-04T22:07:57.009226+00:00</updated>
+    <updated>2025-05-06T04:59:32.374347+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0038</summary>
   </entry>
@@ -341,7 +338,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0038</summary>
     <title>Wolfgang Blöß,Siedlungsplanung in Brandenburg 1945–1990.‚Bei der Schaffung von Neubauernsiedlungen wollen wir uns nicht mit komplizierten Planungen befassen, sondern arbeiten‘ (Veröffentlichungen des Brandenburgischen Landeshauptarchivs, Bd. 77), Berlin: Berliner Wissenschafts-Verlag 2021. 673 S., 23 Abb. – ISBN Print 978-3-8305-5038-9 (98,– Euro), ISBN eBook (PDF) 978-3-8305-4238-4 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0039/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0039</id>
-    <updated>2025-05-04T22:07:57.009231+00:00</updated>
+    <updated>2025-05-06T04:59:32.374351+00:00</updated>
     <summary>Article by Arnd Bauerkämper
 DOI: https://doi.org/10.1515/jgmo-2022-0039</summary>
   </entry>
@@ -349,7 +346,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0039</summary>
     <title>Alexander Sperk,Die Geheime Staatspolizei in Anhalt.Lageberichte, Personal, Verfolgte (Wissenschaftliche Reihe der Stiftung Gedenkstätten Sachsen-Anhalt, Bd. 5), Halle: Mitteldeutscher Verlag 2021. 614 S. – ISBN 978-3-96311-373-4 (48,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0040/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0040</id>
-    <updated>2025-05-04T22:07:57.009235+00:00</updated>
+    <updated>2025-05-06T04:59:32.374355+00:00</updated>
     <summary>Article by Michael Wildt
 DOI: https://doi.org/10.1515/jgmo-2022-0040</summary>
   </entry>
@@ -357,7 +354,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0040</summary>
     <title>Gisela Borchers,Vom Domänenamt Schöneck zur Domäne Pogutken 1772 bis 1920.Ein Abschnitt preußischer Agrargeschichte (Quellen und Forschungen zur Brandenburgischen und Preußischen Geschichte, Bd. 57), Berlin: Duncker &amp; Humblot 2022. 192 S., 14 Abb. – ISBN 978-3-428-18615-0 (69,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0041/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0041</id>
-    <updated>2025-05-04T22:07:57.009239+00:00</updated>
+    <updated>2025-05-06T04:59:32.374359+00:00</updated>
     <summary>Article by Heinrich Kaak
 DOI: https://doi.org/10.1515/jgmo-2022-0041</summary>
   </entry>
@@ -365,7 +362,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0041</summary>
     <title>Ulrich Schmilewski (Hrsg.),70 Jahre Kulturwerk Schlesien.Eine Veröffentlichung der Stiftung Kulturwerk Schlesien, Würzburg 2023. 64 S., 39 Farb- und 9 S/W-Abb. – ISBN 978-929817-12-6 (12,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0042/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0042</id>
-    <updated>2025-05-04T22:07:57.009243+00:00</updated>
+    <updated>2025-05-06T04:59:32.374363+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0042</summary>
   </entry>
@@ -373,7 +370,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0042</summary>
     <title>Priit Raudkivi,Der livländische Landtag.Zur Entstehung einer mittelalterlichen Institution (Schriften der Baltischen Historischen Kommission, Bd. 21), Berlin: LIT-Verlag 2018. 149 S. – ISBN: 978-3-643-14066-1 (29,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0043/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0043</id>
-    <updated>2025-05-04T22:07:57.009247+00:00</updated>
+    <updated>2025-05-06T04:59:32.374368+00:00</updated>
     <summary>Article by Johannes Götz
 DOI: https://doi.org/10.1515/jgmo-2022-0043</summary>
   </entry>
@@ -381,7 +378,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0043</summary>
     <title>Christine Rühling/Johannes Burkardt (Hrsg.),Zwischen Ancien Régime und Moderne?Fürstin Pauline zur Lippe in ihrer Zeit (Veröffentlichungen des Landesarchivs Nordrhein-Westfalen, Bd. 85/Sonderveröffentlichungen des Naturwissenschaftlichen Vereins für das Land Lippe e.V., Bd. 96), Petersberg: Michael Imhof Verlag 2021. 222 S., 42 Farb- und drei S/W-Abb. – ISBN 978-3-7319-1181-4 (24,95 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0044/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0044</id>
-    <updated>2025-05-04T22:07:57.009252+00:00</updated>
+    <updated>2025-05-06T04:59:32.374373+00:00</updated>
     <summary>Article by Ingeborg Schnelling-Reinicke
 DOI: https://doi.org/10.1515/jgmo-2022-0044</summary>
   </entry>
@@ -389,7 +386,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0044</summary>
     <title>Oliver Auge/Michael Hecht (Hrsg.),‚Kleine Fürsten‘ im Alten Reich.Strukturelle Zwänge und soziale Praktiken im Wandel (1300–1800) (Zeitschrift für Historische Forschung, Beih. 59), Berlin: Duncker &amp; Humblot 2022. 471 S., Abb. – ISBN 978-3-428-18427-9 (79,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0015/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0015</id>
-    <updated>2025-05-04T22:07:57.009256+00:00</updated>
+    <updated>2025-05-06T04:59:32.374377+00:00</updated>
     <summary>Article by Frank Göse
 DOI: https://doi.org/10.1515/jgmo-2022-0015</summary>
   </entry>
@@ -397,7 +394,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0015</summary>
     <title>Felix Engel u. a. (Hrsg.),Aus der märkischen Streusandbüchse in die Welt hinein. Beiträge zur brandenburgischen, preußischen, sächsischen und internationalen Geschichte. Frank Göse zum 65. Geburtstag (Schriften der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, N. F., Bd. 14), Berlin: Lukas Verlag 2022. 344 S., 1 Abb. – ISBN 978-3-86732-423-6 (30,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0016/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0016</id>
-    <updated>2025-05-04T22:07:57.009260+00:00</updated>
+    <updated>2025-05-06T04:59:32.374382+00:00</updated>
     <summary>Article by Pauline Puppel
 DOI: https://doi.org/10.1515/jgmo-2022-0016</summary>
   </entry>
@@ -405,7 +402,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0016</summary>
     <title>Lenka Bobková u. a. (Hrsg.),Johann von Görlitz.Der dritte Sohn Karls IV. (Beihefte zum Neuen Lausitzischen Magazin, Bd. 22), Görlitz/Zittau: Verlag Gunter Oettel 2019. 328 S. – ISBN 978-3-944560-65-6 (28,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0017/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0017</id>
-    <updated>2025-05-04T22:07:57.009264+00:00</updated>
+    <updated>2025-05-06T04:59:32.374386+00:00</updated>
     <summary>Article by Uwe Tresp
 DOI: https://doi.org/10.1515/jgmo-2022-0017</summary>
   </entry>
@@ -413,7 +410,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0017</summary>
     <title>Thomas Kaufmann,Die Druckmacher.Wie die Generation Luther die erste Medienrevolution entfesselte, München: C.H. Beck Verlag 2022. 350 S., 61 Abb., 1 Kt. – ISBN 978-3-406-78180-3 (28,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0018/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0018</id>
-    <updated>2025-05-04T22:07:57.009268+00:00</updated>
+    <updated>2025-05-06T04:59:32.374390+00:00</updated>
     <summary>Article by Holger Schmidt
 DOI: https://doi.org/10.1515/jgmo-2022-0018</summary>
   </entry>
@@ -421,7 +418,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0018</summary>
     <title>Uwe Folwarczny,Lutherische Orthodoxie und konfessioneller Pragmatismus.Kurfürst Joachim Friedrich von Brandenburg zwischen Dynastie, Territorien und Reich (Veröffentlichungen aus den Archiven Preußischer Kulturbesitz. Forschungen, Bd. 20), Berlin: Duncker &amp; Humblot 2022. 625 S., Abb. – ISBN 978-3-428-18263-3 (109,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0019/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0019</id>
-    <updated>2025-05-04T22:07:57.009273+00:00</updated>
+    <updated>2025-05-06T04:59:32.374394+00:00</updated>
     <summary>Article by Achim Beyer
 DOI: https://doi.org/10.1515/jgmo-2022-0019</summary>
   </entry>
@@ -429,7 +426,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0019</summary>
     <title>Udo Roth/Gideon Stiening (Hrsg.),Christian Garve (1742–1798).Philosoph und Philologe der Aufklärung (Werkprofile – Philosophen und Literaten des 17. und 18. Jahrhunderts, Bd. 14), Berlin/Boston: De Gruyter 2021. X, 400 S. – ISBN 978-3-11-064590-3 (149,95 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0020/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0020</id>
-    <updated>2025-05-04T22:07:57.009277+00:00</updated>
+    <updated>2025-05-06T04:59:32.374398+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0020</summary>
   </entry>
@@ -437,7 +434,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0020</summary>
     <title>Anna Dietrich,‚Und sie alle sind des Königs Gäste‘.Legitimierungspolitik der preußischen Monarchie durch soziale Öffnung am Beispiel der Krönungs- und Ordensfeste (1810–1914) (Veröffentlichungen aus den Archiven Preußischer Kulturbesitz. Forschungen, Bd. 19), Berlin: Duncker &amp; Humblot 2021. 421 S. – ISBN 978-3-428-18176-6 (99,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0021/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0021</id>
-    <updated>2025-05-04T22:07:57.009282+00:00</updated>
+    <updated>2025-05-06T04:59:32.374403+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0021</summary>
   </entry>
@@ -445,7 +442,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0021</summary>
     <title>Rolf-Barnim Foth,Der Meister der Panoramen.Friedrich Wilhelm Delkeskamp, Hamburg: Edition Kentavros 2022. 310 S., 220 Abb. – ISBN: 978-3-9821744-7-1 (39,80 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0022/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0022</id>
-    <updated>2025-05-04T22:07:57.009285+00:00</updated>
+    <updated>2025-05-06T04:59:32.374407+00:00</updated>
     <summary>Article by Iris Berndt
 DOI: https://doi.org/10.1515/jgmo-2022-0022</summary>
   </entry>
@@ -453,7 +450,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0022</summary>
     <title>Hedwig Koch,Mein Weg mit Robert Koch, hrsg. von Heiner Barz, Göttingen: Wallstein 2023. 167 S., 8 Abb. – 978-3-8353-5328-2 (22,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0023/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0023</id>
-    <updated>2025-05-04T22:07:57.009289+00:00</updated>
+    <updated>2025-05-06T04:59:32.374410+00:00</updated>
     <summary>Article by Ulrich van der Heyden
 DOI: https://doi.org/10.1515/jgmo-2022-0023</summary>
   </entry>
@@ -461,7 +458,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0023</summary>
     <title>Manfred Kittel/Gabriele Schneider/Thomas Simon (Hrsg.),Preußen und sein Osten in der Weimarer Republik(Forschungen zur Brandenburgischen und Preußischen Geschichte, N. F., Beih. 17), Berlin: Duncker &amp; Humblot 2022. VI, 383 S. – ISBN 978-3-428-18526-9 (119,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0024/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0024</id>
-    <updated>2025-05-04T22:07:57.009293+00:00</updated>
+    <updated>2025-05-06T04:59:32.374416+00:00</updated>
     <summary>Article by Jens Flemming
 DOI: https://doi.org/10.1515/jgmo-2022-0024</summary>
   </entry>
@@ -469,7 +466,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0024</summary>
     <title>Brandenburgisches Landesamt für Denkmalpflege und Archäologisches Landesmuseum (Hrsg.)/Katharina Steudtner (Bearb.),Der ‚Auftrag Speer‘ der Staatlichen Bildstelle Berlin.Zur wissenschaftlichen Erschließung eines fotografischen Bestandes im Messbildarchiv des Brandenburgischen Landesamtes für Denkmalpflege und Archäologischen Landesmuseums (Arbeitshefte des Brandenburgischen Landesamtes für Denkmalpflege und Archäologischen Landesmuseums, Nr. 60), Berlin: Lukas Verlag 2022. 381 S., 379 teils farbige Abb. u. Kt. – ISBN 978-3-86732-378-9 (40,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0025/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0025</id>
-    <updated>2025-05-04T22:07:57.009298+00:00</updated>
+    <updated>2025-05-06T04:59:32.374420+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0025</summary>
   </entry>
@@ -477,7 +474,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0025</summary>
     <title>Sebastian Brather,Archäologie und Denkmalpflege in der DDR.Institutionen, Gremien, Personen, Berlin: Lukas Verlag 2023. 460 S., 22 Grafiken, Tab. u. Kt. – ISBN 978-3-86732-416-8 (50,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0026/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0026</id>
-    <updated>2025-05-04T22:07:57.009302+00:00</updated>
+    <updated>2025-05-06T04:59:32.374424+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0026</summary>
   </entry>
@@ -485,7 +482,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0026</summary>
     <title>Arne Lindemann,Vom Germanenerbe zum Urkommunismus.Urgeschichtsbilder in Museen der SBZ und DDR, Berlin/Boston: De Gruyter 2022. 405 S., 99 SW- u. sechs Farb-Abb. – ISBN 978-3-11-076086-6 (49,95 Euro); ISBN eBook (PDF) 978-3-11-076106-1 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0027/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0027</id>
-    <updated>2025-05-04T22:07:57.009306+00:00</updated>
+    <updated>2025-05-06T04:59:32.374428+00:00</updated>
     <summary>Article by Felix Biermann
 DOI: https://doi.org/10.1515/jgmo-2022-0027</summary>
   </entry>
@@ -493,7 +490,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0027</summary>
     <title>Gerhard Barkleit,Werner Hartmann.Wegbereiter der Mikroelektronik in der DDR (Zeitgeschichtliche Forschungen, Bd. 60), Berlin: Duncker &amp; Humblot 2022. 271 S., 36 Abb., 22 Tabellen. – ISBN 978-3-428-18446-0 (49,50 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0028/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0028</id>
-    <updated>2025-05-04T22:07:57.009310+00:00</updated>
+    <updated>2025-05-06T04:59:32.374432+00:00</updated>
     <summary>Article by Günter Nagel
 DOI: https://doi.org/10.1515/jgmo-2022-0028</summary>
   </entry>
@@ -501,7 +498,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0028</summary>
     <title>Die DDR im Blick der Stasi 1983. Die geheimen Berichte an die SED-Führung, bearb. von Mark Schiefer und Martin Stief, Göttingen: Vandenhoeck &amp; Ruprecht 2021. 320 S., Abb. – ISBN 978-3-525-31734-1 (30,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0029/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0029</id>
-    <updated>2025-05-04T22:07:57.009314+00:00</updated>
+    <updated>2025-05-06T04:59:32.374436+00:00</updated>
     <summary>Article by Sebastian Stude
 DOI: https://doi.org/10.1515/jgmo-2022-0029</summary>
   </entry>
@@ -509,7 +506,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0029</summary>
     <title>Oliver Auge/Michael Hecht (Hrsg.),‚Kleine Fürsten‘ im Alten Reich.Strukturelle Zwänge und soziale Praktiken im Wandel (1300–1800) (Zeitschrift für Historische Forschung, Beih. 59), Berlin: Duncker &amp; Humblot 2022. 471 S., Abb. – ISBN 978-3-428-18427-9 (79,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0015/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0015</id>
-    <updated>2025-05-04T22:07:57.009318+00:00</updated>
+    <updated>2025-05-06T04:59:32.374440+00:00</updated>
     <summary>Article by Frank Göse
 DOI: https://doi.org/10.1515/jgmo-2022-0015</summary>
   </entry>
@@ -517,7 +514,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0015</summary>
     <title>Felix Engel u. a. (Hrsg.),Aus der märkischen Streusandbüchse in die Welt hinein. Beiträge zur brandenburgischen, preußischen, sächsischen und internationalen Geschichte. Frank Göse zum 65. Geburtstag (Schriften der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, N. F., Bd. 14), Berlin: Lukas Verlag 2022. 344 S., 1 Abb. – ISBN 978-3-86732-423-6 (30,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0016/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0016</id>
-    <updated>2025-05-04T22:07:57.009323+00:00</updated>
+    <updated>2025-05-06T04:59:32.374445+00:00</updated>
     <summary>Article by Pauline Puppel
 DOI: https://doi.org/10.1515/jgmo-2022-0016</summary>
   </entry>
@@ -525,7 +522,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0016</summary>
     <title>Lenka Bobková u. a. (Hrsg.),Johann von Görlitz.Der dritte Sohn Karls IV. (Beihefte zum Neuen Lausitzischen Magazin, Bd. 22), Görlitz/Zittau: Verlag Gunter Oettel 2019. 328 S. – ISBN 978-3-944560-65-6 (28,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0017/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0017</id>
-    <updated>2025-05-04T22:07:57.009327+00:00</updated>
+    <updated>2025-05-06T04:59:32.374449+00:00</updated>
     <summary>Article by Uwe Tresp
 DOI: https://doi.org/10.1515/jgmo-2022-0017</summary>
   </entry>
@@ -533,7 +530,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0017</summary>
     <title>Thomas Kaufmann,Die Druckmacher.Wie die Generation Luther die erste Medienrevolution entfesselte, München: C.H. Beck Verlag 2022. 350 S., 61 Abb., 1 Kt. – ISBN 978-3-406-78180-3 (28,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0018/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0018</id>
-    <updated>2025-05-04T22:07:57.009331+00:00</updated>
+    <updated>2025-05-06T04:59:32.374453+00:00</updated>
     <summary>Article by Holger Schmidt
 DOI: https://doi.org/10.1515/jgmo-2022-0018</summary>
   </entry>
@@ -541,7 +538,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0018</summary>
     <title>Uwe Folwarczny,Lutherische Orthodoxie und konfessioneller Pragmatismus.Kurfürst Joachim Friedrich von Brandenburg zwischen Dynastie, Territorien und Reich (Veröffentlichungen aus den Archiven Preußischer Kulturbesitz. Forschungen, Bd. 20), Berlin: Duncker &amp; Humblot 2022. 625 S., Abb. – ISBN 978-3-428-18263-3 (109,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0019/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0019</id>
-    <updated>2025-05-04T22:07:57.009335+00:00</updated>
+    <updated>2025-05-06T04:59:32.374457+00:00</updated>
     <summary>Article by Achim Beyer
 DOI: https://doi.org/10.1515/jgmo-2022-0019</summary>
   </entry>
@@ -549,7 +546,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0019</summary>
     <title>Udo Roth/Gideon Stiening (Hrsg.),Christian Garve (1742–1798).Philosoph und Philologe der Aufklärung (Werkprofile – Philosophen und Literaten des 17. und 18. Jahrhunderts, Bd. 14), Berlin/Boston: De Gruyter 2021. X, 400 S. – ISBN 978-3-11-064590-3 (149,95 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0020/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0020</id>
-    <updated>2025-05-04T22:07:57.009339+00:00</updated>
+    <updated>2025-05-06T04:59:32.374461+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0020</summary>
   </entry>
@@ -557,7 +554,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0020</summary>
     <title>Anna Dietrich,‚Und sie alle sind des Königs Gäste‘.Legitimierungspolitik der preußischen Monarchie durch soziale Öffnung am Beispiel der Krönungs- und Ordensfeste (1810–1914) (Veröffentlichungen aus den Archiven Preußischer Kulturbesitz. Forschungen, Bd. 19), Berlin: Duncker &amp; Humblot 2021. 421 S. – ISBN 978-3-428-18176-6 (99,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0021/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0021</id>
-    <updated>2025-05-04T22:07:57.009343+00:00</updated>
+    <updated>2025-05-06T04:59:32.374466+00:00</updated>
     <summary>Article by Hans-Christof Kraus
 DOI: https://doi.org/10.1515/jgmo-2022-0021</summary>
   </entry>
@@ -565,7 +562,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0021</summary>
     <title>Rolf-Barnim Foth,Der Meister der Panoramen.Friedrich Wilhelm Delkeskamp, Hamburg: Edition Kentavros 2022. 310 S., 220 Abb. – ISBN: 978-3-9821744-7-1 (39,80 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0022/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0022</id>
-    <updated>2025-05-04T22:07:57.009347+00:00</updated>
+    <updated>2025-05-06T04:59:32.374470+00:00</updated>
     <summary>Article by Iris Berndt
 DOI: https://doi.org/10.1515/jgmo-2022-0022</summary>
   </entry>
@@ -573,7 +570,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0022</summary>
     <title>Hedwig Koch,Mein Weg mit Robert Koch, hrsg. von Heiner Barz, Göttingen: Wallstein 2023. 167 S., 8 Abb. – 978-3-8353-5328-2 (22,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0023/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0023</id>
-    <updated>2025-05-04T22:07:57.009350+00:00</updated>
+    <updated>2025-05-06T04:59:32.374473+00:00</updated>
     <summary>Article by Ulrich van der Heyden
 DOI: https://doi.org/10.1515/jgmo-2022-0023</summary>
   </entry>
@@ -581,7 +578,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0023</summary>
     <title>Manfred Kittel/Gabriele Schneider/Thomas Simon (Hrsg.),Preußen und sein Osten in der Weimarer Republik(Forschungen zur Brandenburgischen und Preußischen Geschichte, N. F., Beih. 17), Berlin: Duncker &amp; Humblot 2022. VI, 383 S. – ISBN 978-3-428-18526-9 (119,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0024/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0024</id>
-    <updated>2025-05-04T22:07:57.009354+00:00</updated>
+    <updated>2025-05-06T04:59:32.374477+00:00</updated>
     <summary>Article by Jens Flemming
 DOI: https://doi.org/10.1515/jgmo-2022-0024</summary>
   </entry>
@@ -589,7 +586,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0024</summary>
     <title>Brandenburgisches Landesamt für Denkmalpflege und Archäologisches Landesmuseum (Hrsg.)/Katharina Steudtner (Bearb.),Der ‚Auftrag Speer‘ der Staatlichen Bildstelle Berlin.Zur wissenschaftlichen Erschließung eines fotografischen Bestandes im Messbildarchiv des Brandenburgischen Landesamtes für Denkmalpflege und Archäologischen Landesmuseums (Arbeitshefte des Brandenburgischen Landesamtes für Denkmalpflege und Archäologischen Landesmuseums, Nr. 60), Berlin: Lukas Verlag 2022. 381 S., 379 teils farbige Abb. u. Kt. – ISBN 978-3-86732-378-9 (40,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0025/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0025</id>
-    <updated>2025-05-04T22:07:57.009359+00:00</updated>
+    <updated>2025-05-06T04:59:32.374482+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0025</summary>
   </entry>
@@ -597,7 +594,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0025</summary>
     <title>Sebastian Brather,Archäologie und Denkmalpflege in der DDR.Institutionen, Gremien, Personen, Berlin: Lukas Verlag 2023. 460 S., 22 Grafiken, Tab. u. Kt. – ISBN 978-3-86732-416-8 (50,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0026/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0026</id>
-    <updated>2025-05-04T22:07:57.009363+00:00</updated>
+    <updated>2025-05-06T04:59:32.374486+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0026</summary>
   </entry>
@@ -605,7 +602,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0026</summary>
     <title>Arne Lindemann,Vom Germanenerbe zum Urkommunismus.Urgeschichtsbilder in Museen der SBZ und DDR, Berlin/Boston: De Gruyter 2022. 405 S., 99 SW- u. sechs Farb-Abb. – ISBN 978-3-11-076086-6 (49,95 Euro); ISBN eBook (PDF) 978-3-11-076106-1 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0027/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0027</id>
-    <updated>2025-05-04T22:07:57.009367+00:00</updated>
+    <updated>2025-05-06T04:59:32.374490+00:00</updated>
     <summary>Article by Felix Biermann
 DOI: https://doi.org/10.1515/jgmo-2022-0027</summary>
   </entry>
@@ -613,7 +610,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0027</summary>
     <title>Gerhard Barkleit,Werner Hartmann.Wegbereiter der Mikroelektronik in der DDR (Zeitgeschichtliche Forschungen, Bd. 60), Berlin: Duncker &amp; Humblot 2022. 271 S., 36 Abb., 22 Tabellen. – ISBN 978-3-428-18446-0 (49,50 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0028/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0028</id>
-    <updated>2025-05-04T22:07:57.009372+00:00</updated>
+    <updated>2025-05-06T04:59:32.374494+00:00</updated>
     <summary>Article by Günter Nagel
 DOI: https://doi.org/10.1515/jgmo-2022-0028</summary>
   </entry>
@@ -621,7 +618,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0028</summary>
     <title>Die DDR im Blick der Stasi 1983. Die geheimen Berichte an die SED-Führung, bearb. von Mark Schiefer und Martin Stief, Göttingen: Vandenhoeck &amp; Ruprecht 2021. 320 S., Abb. – ISBN 978-3-525-31734-1 (30,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0029/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0029</id>
-    <updated>2025-05-04T22:07:57.009376+00:00</updated>
+    <updated>2025-05-06T04:59:32.374497+00:00</updated>
     <summary>Article by Sebastian Stude
 DOI: https://doi.org/10.1515/jgmo-2022-0029</summary>
   </entry>
@@ -629,7 +626,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0029</summary>
     <title>Cay-Uwe Dähn,Der Spreeflügel des Berliner Schlosses(Schriften der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, N. F., Bd. 22), Berlin: Lukas Verlag 2021. 378 S., 293 Abb., davon 50 farbig. – ISBN 978-3-86732-382-6 (40,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0030/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0030</id>
-    <updated>2025-05-04T22:07:57.009380+00:00</updated>
+    <updated>2025-05-06T04:59:32.374501+00:00</updated>
     <summary>Article by Helmut Börsch-Supan
 DOI: https://doi.org/10.1515/jgmo-2022-0030</summary>
   </entry>
@@ -637,7 +634,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0030</summary>
     <title>Ingo Haar,Jüdische Migration und Diversität in Wien und Berlin 1667/71–1918.Von der Vertreibung der Juden Wiens und ihrer Wiederansiedlung in Berlin bis zum Zionismus, Göttingen: Wallstein 2022. 535 S., 8 Abb. – ISBN 978-3-8353-3976-7 (42,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0031/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0031</id>
-    <updated>2025-05-04T22:07:57.009384+00:00</updated>
+    <updated>2025-05-06T04:59:32.374506+00:00</updated>
     <summary>Article by Tobias Schenk
 DOI: https://doi.org/10.1515/jgmo-2022-0031</summary>
   </entry>
@@ -645,7 +642,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0031</summary>
     <title>Rüdiger Hachtmann,1848.Revolution in Berlin, Berlin: be.bra Verlag 2022. 240 S., Abb. – ISBN 978-3-8148-0261-9 (26,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0032/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0032</id>
-    <updated>2025-05-04T22:07:57.009388+00:00</updated>
+    <updated>2025-05-06T04:59:32.374509+00:00</updated>
     <summary>Article by Wolfgang Radtke
 DOI: https://doi.org/10.1515/jgmo-2022-0032</summary>
   </entry>
@@ -653,7 +650,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0032</summary>
     <title>Uwe Lehmann-Brauns,Zwischen den Fronten.Notizen eines Grenzgängers durch Politik und Kultur, Berlin: be.bra Verlag 2022. 176 S., 16 Abb. – ISBN 978-3-8148-0264-0 (24,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0033/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0033</id>
-    <updated>2025-05-04T22:07:57.009391+00:00</updated>
+    <updated>2025-05-06T04:59:32.374514+00:00</updated>
     <summary>Article by Kai-Uwe Merz
 DOI: https://doi.org/10.1515/jgmo-2022-0033</summary>
   </entry>
@@ -661,7 +658,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0033</summary>
     <title>Klaus Neitmann/Winfried Schich † (Hrsg.)/Joachim Stephan (Bearb.),Städtebuch Historisches Ostbrandenburg(Bibliothek der Brandenburgischen und Preußischen Geschichte, Bd. 19/Deutsches Städtebuch. Handbuch städtischer Geschichte. Neubearbeitung, Bd. 4), Berlin: Berliner Wissenschafts-Verlag 2022. 596 S. – ISBN Print 978-3-8305-5098-8 (72,– Euro), ISBN eBook (PDF) 978-3-8305-4320-6 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0034/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0034</id>
-    <updated>2025-05-04T22:07:57.009396+00:00</updated>
+    <updated>2025-05-06T04:59:32.374518+00:00</updated>
     <summary>Article by Michael Scholz
 DOI: https://doi.org/10.1515/jgmo-2022-0034</summary>
   </entry>
@@ -669,7 +666,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0034</summary>
     <title>Jörn Roland Christophersen,Krisen, Chancen und Bedrohungen. Studien zur Geschichte der Juden in der Mark Brandenburg während des späteren Mittelalters (13. bis Anfang des 16. Jahrhunderts) (Forschungen zur Geschichte der Juden, Abt. A: Abhandlungen, Bd. 32), Wiesbaden: Harrassowitz 2021. XVI, 870 S., 27 Abb., 6 Tabellen. – ISBN Print 978-3-447-11710-4; ISBN eBook 978-3-447-39185-6 (jeweils 148,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0035/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0035</id>
-    <updated>2025-05-04T22:07:57.009400+00:00</updated>
+    <updated>2025-05-06T04:59:32.374523+00:00</updated>
     <summary>Article by Joachim Stephan
 DOI: https://doi.org/10.1515/jgmo-2022-0035</summary>
   </entry>
@@ -677,7 +674,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0035</summary>
     <title>Willi Carl/Martin Gorholt/Sabine Hering (Hrsg.),Sozialdemokratie in Brandenburg (1868–1933).Lebenswege zwischen Aufbruch, Aufstieg und Abgrund. Mit einem Vorwort von Dietmar Woidke, Bonn: Verlag J. H. W. Dietz Nachf. 2021. 357 S., Abb. – ISBN 978-3-8012-0596-6 (24,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0036/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0036</id>
-    <updated>2025-05-04T22:07:57.009404+00:00</updated>
+    <updated>2025-05-06T04:59:32.374527+00:00</updated>
     <summary>Article by Michael Wildt
 DOI: https://doi.org/10.1515/jgmo-2022-0036</summary>
   </entry>
@@ -685,7 +682,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0036</summary>
     <title>Peter Bahl,Belastung und Bereicherung.Vertriebenenintegration in Brandenburg ab 1945 (Bibliothek der Brandenburgischen und Preußischen Geschichte, Bd. 17), Berlin: BWV Berliner Wissenschafts-Verlag 2020. XVII, 1.718 S. – ISBN Print 978-3-8305-5016-7 (125,– Euro), ISBN eBook (PDF) 978-3-8305-4186-8 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0037/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0037</id>
-    <updated>2025-05-04T22:07:57.009408+00:00</updated>
+    <updated>2025-05-06T04:59:32.374531+00:00</updated>
     <summary>Article by Andreas Kossert
 DOI: https://doi.org/10.1515/jgmo-2022-0037</summary>
   </entry>
@@ -693,7 +690,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0037</summary>
     <title>Torsten Hartisch,‚Zum Landrat nicht geeignet‘. Leitendes Personal der zentralen, regionalen und lokalen Verwaltungsdienststellen in Brandenburg 1945–1952 (Veröffentlichungen des Brandenburgischen Landeshauptarchivs, Bd. 78), Berlin: BWV Berliner Wissenschafts-Verlag 2022. XII, 675 S., zahlr. S/W-Abb. – ISBN Print 978-3-8305-4329-9 (96,– Euro), ISBN eBook (PDF) 978-3-8305-4329-9 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0038/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0038</id>
-    <updated>2025-05-04T22:07:57.009412+00:00</updated>
+    <updated>2025-05-06T04:59:32.374535+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0038</summary>
   </entry>
@@ -701,7 +698,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0038</summary>
     <title>Wolfgang Blöß,Siedlungsplanung in Brandenburg 1945–1990.‚Bei der Schaffung von Neubauernsiedlungen wollen wir uns nicht mit komplizierten Planungen befassen, sondern arbeiten‘ (Veröffentlichungen des Brandenburgischen Landeshauptarchivs, Bd. 77), Berlin: Berliner Wissenschafts-Verlag 2021. 673 S., 23 Abb. – ISBN Print 978-3-8305-5038-9 (98,– Euro), ISBN eBook (PDF) 978-3-8305-4238-4 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0039/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0039</id>
-    <updated>2025-05-04T22:07:57.009418+00:00</updated>
+    <updated>2025-05-06T04:59:32.374539+00:00</updated>
     <summary>Article by Arnd Bauerkämper
 DOI: https://doi.org/10.1515/jgmo-2022-0039</summary>
   </entry>
@@ -709,7 +706,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0039</summary>
     <title>Alexander Sperk,Die Geheime Staatspolizei in Anhalt.Lageberichte, Personal, Verfolgte (Wissenschaftliche Reihe der Stiftung Gedenkstätten Sachsen-Anhalt, Bd. 5), Halle: Mitteldeutscher Verlag 2021. 614 S. – ISBN 978-3-96311-373-4 (48,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0040/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0040</id>
-    <updated>2025-05-04T22:07:57.009422+00:00</updated>
+    <updated>2025-05-06T04:59:32.374544+00:00</updated>
     <summary>Article by Michael Wildt
 DOI: https://doi.org/10.1515/jgmo-2022-0040</summary>
   </entry>
@@ -717,7 +714,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0040</summary>
     <title>Gisela Borchers,Vom Domänenamt Schöneck zur Domäne Pogutken 1772 bis 1920.Ein Abschnitt preußischer Agrargeschichte (Quellen und Forschungen zur Brandenburgischen und Preußischen Geschichte, Bd. 57), Berlin: Duncker &amp; Humblot 2022. 192 S., 14 Abb. – ISBN 978-3-428-18615-0 (69,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0041/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0041</id>
-    <updated>2025-05-04T22:07:57.009426+00:00</updated>
+    <updated>2025-05-06T04:59:32.374548+00:00</updated>
     <summary>Article by Heinrich Kaak
 DOI: https://doi.org/10.1515/jgmo-2022-0041</summary>
   </entry>
@@ -725,7 +722,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0041</summary>
     <title>Ulrich Schmilewski (Hrsg.),70 Jahre Kulturwerk Schlesien.Eine Veröffentlichung der Stiftung Kulturwerk Schlesien, Würzburg 2023. 64 S., 39 Farb- und 9 S/W-Abb. – ISBN 978-929817-12-6 (12,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0042/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0042</id>
-    <updated>2025-05-04T22:07:57.009430+00:00</updated>
+    <updated>2025-05-06T04:59:32.374552+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0042</summary>
   </entry>
@@ -733,7 +730,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0042</summary>
     <title>Priit Raudkivi,Der livländische Landtag.Zur Entstehung einer mittelalterlichen Institution (Schriften der Baltischen Historischen Kommission, Bd. 21), Berlin: LIT-Verlag 2018. 149 S. – ISBN: 978-3-643-14066-1 (29,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0043/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0043</id>
-    <updated>2025-05-04T22:07:57.009433+00:00</updated>
+    <updated>2025-05-06T04:59:32.374556+00:00</updated>
     <summary>Article by Johannes Götz
 DOI: https://doi.org/10.1515/jgmo-2022-0043</summary>
   </entry>
@@ -741,7 +738,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0043</summary>
     <title>Christine Rühling/Johannes Burkardt (Hrsg.),Zwischen Ancien Régime und Moderne?Fürstin Pauline zur Lippe in ihrer Zeit (Veröffentlichungen des Landesarchivs Nordrhein-Westfalen, Bd. 85/Sonderveröffentlichungen des Naturwissenschaftlichen Vereins für das Land Lippe e.V., Bd. 96), Petersberg: Michael Imhof Verlag 2021. 222 S., 42 Farb- und drei S/W-Abb. – ISBN 978-3-7319-1181-4 (24,95 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0044/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0044</id>
-    <updated>2025-05-04T22:07:57.009438+00:00</updated>
+    <updated>2025-05-06T04:59:32.374561+00:00</updated>
     <summary>Article by Ingeborg Schnelling-Reinicke
 DOI: https://doi.org/10.1515/jgmo-2022-0044</summary>
   </entry>
@@ -749,7 +746,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0044</summary>
     <title>Cay-Uwe Dähn,Der Spreeflügel des Berliner Schlosses(Schriften der Landesgeschichtlichen Vereinigung für die Mark Brandenburg, N. F., Bd. 22), Berlin: Lukas Verlag 2021. 378 S., 293 Abb., davon 50 farbig. – ISBN 978-3-86732-382-6 (40,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0030/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0030</id>
-    <updated>2025-05-04T22:07:57.009442+00:00</updated>
+    <updated>2025-05-06T04:59:32.374565+00:00</updated>
     <summary>Article by Helmut Börsch-Supan
 DOI: https://doi.org/10.1515/jgmo-2022-0030</summary>
   </entry>
@@ -757,7 +754,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0030</summary>
     <title>Ingo Haar,Jüdische Migration und Diversität in Wien und Berlin 1667/71–1918.Von der Vertreibung der Juden Wiens und ihrer Wiederansiedlung in Berlin bis zum Zionismus, Göttingen: Wallstein 2022. 535 S., 8 Abb. – ISBN 978-3-8353-3976-7 (42,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0031/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0031</id>
-    <updated>2025-05-04T22:07:57.009446+00:00</updated>
+    <updated>2025-05-06T04:59:32.374569+00:00</updated>
     <summary>Article by Tobias Schenk
 DOI: https://doi.org/10.1515/jgmo-2022-0031</summary>
   </entry>
@@ -765,7 +762,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0031</summary>
     <title>Rüdiger Hachtmann,1848.Revolution in Berlin, Berlin: be.bra Verlag 2022. 240 S., Abb. – ISBN 978-3-8148-0261-9 (26,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0032/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0032</id>
-    <updated>2025-05-04T22:07:57.009449+00:00</updated>
+    <updated>2025-05-06T04:59:32.374573+00:00</updated>
     <summary>Article by Wolfgang Radtke
 DOI: https://doi.org/10.1515/jgmo-2022-0032</summary>
   </entry>
@@ -773,7 +770,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0032</summary>
     <title>Uwe Lehmann-Brauns,Zwischen den Fronten.Notizen eines Grenzgängers durch Politik und Kultur, Berlin: be.bra Verlag 2022. 176 S., 16 Abb. – ISBN 978-3-8148-0264-0 (24,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0033/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0033</id>
-    <updated>2025-05-04T22:07:57.009453+00:00</updated>
+    <updated>2025-05-06T04:59:32.374577+00:00</updated>
     <summary>Article by Kai-Uwe Merz
 DOI: https://doi.org/10.1515/jgmo-2022-0033</summary>
   </entry>
@@ -781,7 +778,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0033</summary>
     <title>Klaus Neitmann/Winfried Schich † (Hrsg.)/Joachim Stephan (Bearb.),Städtebuch Historisches Ostbrandenburg(Bibliothek der Brandenburgischen und Preußischen Geschichte, Bd. 19/Deutsches Städtebuch. Handbuch städtischer Geschichte. Neubearbeitung, Bd. 4), Berlin: Berliner Wissenschafts-Verlag 2022. 596 S. – ISBN Print 978-3-8305-5098-8 (72,– Euro), ISBN eBook (PDF) 978-3-8305-4320-6 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0034/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0034</id>
-    <updated>2025-05-04T22:07:57.009458+00:00</updated>
+    <updated>2025-05-06T04:59:32.374581+00:00</updated>
     <summary>Article by Michael Scholz
 DOI: https://doi.org/10.1515/jgmo-2022-0034</summary>
   </entry>
@@ -789,7 +786,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0034</summary>
     <title>Jörn Roland Christophersen,Krisen, Chancen und Bedrohungen. Studien zur Geschichte der Juden in der Mark Brandenburg während des späteren Mittelalters (13. bis Anfang des 16. Jahrhunderts) (Forschungen zur Geschichte der Juden, Abt. A: Abhandlungen, Bd. 32), Wiesbaden: Harrassowitz 2021. XVI, 870 S., 27 Abb., 6 Tabellen. – ISBN Print 978-3-447-11710-4; ISBN eBook 978-3-447-39185-6 (jeweils 148,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0035/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0035</id>
-    <updated>2025-05-04T22:07:57.009462+00:00</updated>
+    <updated>2025-05-06T04:59:32.374585+00:00</updated>
     <summary>Article by Joachim Stephan
 DOI: https://doi.org/10.1515/jgmo-2022-0035</summary>
   </entry>
@@ -797,7 +794,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0035</summary>
     <title>Willi Carl/Martin Gorholt/Sabine Hering (Hrsg.),Sozialdemokratie in Brandenburg (1868–1933).Lebenswege zwischen Aufbruch, Aufstieg und Abgrund. Mit einem Vorwort von Dietmar Woidke, Bonn: Verlag J. H. W. Dietz Nachf. 2021. 357 S., Abb. – ISBN 978-3-8012-0596-6 (24,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0036/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0036</id>
-    <updated>2025-05-04T22:07:57.009467+00:00</updated>
+    <updated>2025-05-06T04:59:32.374589+00:00</updated>
     <summary>Article by Michael Wildt
 DOI: https://doi.org/10.1515/jgmo-2022-0036</summary>
   </entry>
@@ -805,7 +802,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0036</summary>
     <title>Peter Bahl,Belastung und Bereicherung.Vertriebenenintegration in Brandenburg ab 1945 (Bibliothek der Brandenburgischen und Preußischen Geschichte, Bd. 17), Berlin: BWV Berliner Wissenschafts-Verlag 2020. XVII, 1.718 S. – ISBN Print 978-3-8305-5016-7 (125,– Euro), ISBN eBook (PDF) 978-3-8305-4186-8 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0037/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0037</id>
-    <updated>2025-05-04T22:07:57.009471+00:00</updated>
+    <updated>2025-05-06T04:59:32.374593+00:00</updated>
     <summary>Article by Andreas Kossert
 DOI: https://doi.org/10.1515/jgmo-2022-0037</summary>
   </entry>
@@ -813,7 +810,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0037</summary>
     <title>Torsten Hartisch,‚Zum Landrat nicht geeignet‘. Leitendes Personal der zentralen, regionalen und lokalen Verwaltungsdienststellen in Brandenburg 1945–1952 (Veröffentlichungen des Brandenburgischen Landeshauptarchivs, Bd. 78), Berlin: BWV Berliner Wissenschafts-Verlag 2022. XII, 675 S., zahlr. S/W-Abb. – ISBN Print 978-3-8305-4329-9 (96,– Euro), ISBN eBook (PDF) 978-3-8305-4329-9 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0038/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0038</id>
-    <updated>2025-05-04T22:07:57.009475+00:00</updated>
+    <updated>2025-05-06T04:59:32.374597+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0038</summary>
   </entry>
@@ -821,7 +818,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0038</summary>
     <title>Wolfgang Blöß,Siedlungsplanung in Brandenburg 1945–1990.‚Bei der Schaffung von Neubauernsiedlungen wollen wir uns nicht mit komplizierten Planungen befassen, sondern arbeiten‘ (Veröffentlichungen des Brandenburgischen Landeshauptarchivs, Bd. 77), Berlin: Berliner Wissenschafts-Verlag 2021. 673 S., 23 Abb. – ISBN Print 978-3-8305-5038-9 (98,– Euro), ISBN eBook (PDF) 978-3-8305-4238-4 (Open Access).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0039/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0039</id>
-    <updated>2025-05-04T22:07:57.009480+00:00</updated>
+    <updated>2025-05-06T04:59:32.374601+00:00</updated>
     <summary>Article by Arnd Bauerkämper
 DOI: https://doi.org/10.1515/jgmo-2022-0039</summary>
   </entry>
@@ -829,7 +826,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0039</summary>
     <title>Alexander Sperk,Die Geheime Staatspolizei in Anhalt.Lageberichte, Personal, Verfolgte (Wissenschaftliche Reihe der Stiftung Gedenkstätten Sachsen-Anhalt, Bd. 5), Halle: Mitteldeutscher Verlag 2021. 614 S. – ISBN 978-3-96311-373-4 (48,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0040/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0040</id>
-    <updated>2025-05-04T22:07:57.009484+00:00</updated>
+    <updated>2025-05-06T04:59:32.374605+00:00</updated>
     <summary>Article by Michael Wildt
 DOI: https://doi.org/10.1515/jgmo-2022-0040</summary>
   </entry>
@@ -837,7 +834,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0040</summary>
     <title>Gisela Borchers,Vom Domänenamt Schöneck zur Domäne Pogutken 1772 bis 1920.Ein Abschnitt preußischer Agrargeschichte (Quellen und Forschungen zur Brandenburgischen und Preußischen Geschichte, Bd. 57), Berlin: Duncker &amp; Humblot 2022. 192 S., 14 Abb. – ISBN 978-3-428-18615-0 (69,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0041/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0041</id>
-    <updated>2025-05-04T22:07:57.009488+00:00</updated>
+    <updated>2025-05-06T04:59:32.374610+00:00</updated>
     <summary>Article by Heinrich Kaak
 DOI: https://doi.org/10.1515/jgmo-2022-0041</summary>
   </entry>
@@ -845,7 +842,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0041</summary>
     <title>Ulrich Schmilewski (Hrsg.),70 Jahre Kulturwerk Schlesien.Eine Veröffentlichung der Stiftung Kulturwerk Schlesien, Würzburg 2023. 64 S., 39 Farb- und 9 S/W-Abb. – ISBN 978-929817-12-6 (12,– Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0042/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0042</id>
-    <updated>2025-05-04T22:07:57.009492+00:00</updated>
+    <updated>2025-05-06T04:59:32.374615+00:00</updated>
     <summary>Article by Peter Bahl
 DOI: https://doi.org/10.1515/jgmo-2022-0042</summary>
   </entry>
@@ -853,7 +850,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0042</summary>
     <title>Priit Raudkivi,Der livländische Landtag.Zur Entstehung einer mittelalterlichen Institution (Schriften der Baltischen Historischen Kommission, Bd. 21), Berlin: LIT-Verlag 2018. 149 S. – ISBN: 978-3-643-14066-1 (29,90 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0043/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0043</id>
-    <updated>2025-05-04T22:07:57.009496+00:00</updated>
+    <updated>2025-05-06T04:59:32.374619+00:00</updated>
     <summary>Article by Johannes Götz
 DOI: https://doi.org/10.1515/jgmo-2022-0043</summary>
   </entry>
@@ -861,7 +858,7 @@ DOI: https://doi.org/10.1515/jgmo-2022-0043</summary>
     <title>Christine Rühling/Johannes Burkardt (Hrsg.),Zwischen Ancien Régime und Moderne?Fürstin Pauline zur Lippe in ihrer Zeit (Veröffentlichungen des Landesarchivs Nordrhein-Westfalen, Bd. 85/Sonderveröffentlichungen des Naturwissenschaftlichen Vereins für das Land Lippe e.V., Bd. 96), Petersberg: Michael Imhof Verlag 2021. 222 S., 42 Farb- und drei S/W-Abb. – ISBN 978-3-7319-1181-4 (24,95 Euro).</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jgmo-2022-0044/html"/>
     <id>https://doi.org/10.1515/jgmo-2022-0044</id>
-    <updated>2025-05-04T22:07:57.009500+00:00</updated>
+    <updated>2025-05-06T04:59:32.374623+00:00</updated>
     <summary>Article by Ingeborg Schnelling-Reinicke
 DOI: https://doi.org/10.1515/jgmo-2022-0044</summary>
   </entry>

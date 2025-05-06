@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Poznan Studies in Contemporary Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/psicl/61/1/html"/>
-  <updated>2025-05-04T22:11:23.815674+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/psicl/61/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psicl.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/psicl/html" rel="related"/>
+  <updated>2025-05-06T05:04:15.732164+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psicl.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Poznan Studies in Contemporary Linguistics</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/psicl.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/psicl-2025-frontmatter1</id>
-    <updated>2025-05-04T22:11:23.815700+00:00</updated>
+    <updated>2025-05-06T05:04:15.732186+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/psicl-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Modelling the choice between PP+DE+N and PP+N possessive constructions in Mandarin Chinese: a mixed effects logistic regression approach</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2024-0053/html"/>
     <id>https://doi.org/10.1515/psicl-2024-0053</id>
-    <updated>2025-05-04T22:11:23.815708+00:00</updated>
+    <updated>2025-05-06T05:04:15.732193+00:00</updated>
     <summary>Article by Yue Chen
 DOI: https://doi.org/10.1515/psicl-2024-0053</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/psicl-2024-0053</summary>
     <title>Case-mismatching versus D-linking of ATB wh-questions in Korean</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2024-0030/html"/>
     <id>https://doi.org/10.1515/psicl-2024-0030</id>
-    <updated>2025-05-04T22:11:23.815716+00:00</updated>
+    <updated>2025-05-06T05:04:15.732200+00:00</updated>
     <summary>Article by Jeong-Seok Kim, Yoo-Jeong Kim, Jee Young Lee
 DOI: https://doi.org/10.1515/psicl-2024-0030</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/psicl-2024-0030</summary>
     <title>Impacts of working memory, L2 proficiency, and cognitive flexibility on cross-domain structural priming</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2023-0071/html"/>
     <id>https://doi.org/10.1515/psicl-2023-0071</id>
-    <updated>2025-05-04T22:11:23.815723+00:00</updated>
+    <updated>2025-05-06T05:04:15.732205+00:00</updated>
     <summary>Article by Wenrong Lei, Baochang Wang
 DOI: https://doi.org/10.1515/psicl-2023-0071</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/psicl-2023-0071</summary>
     <title>Developing awareness of Global Englishes: questioning the native-speakerist paradigm of ELT at a Polish university</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2023-0048/html"/>
     <id>https://doi.org/10.1515/psicl-2023-0048</id>
-    <updated>2025-05-04T22:11:23.815730+00:00</updated>
+    <updated>2025-05-06T05:04:15.732210+00:00</updated>
     <summary>Article by Tomasz Paciorkowski
 DOI: https://doi.org/10.1515/psicl-2023-0048</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/psicl-2023-0048</summary>
     <title>Continua and orientations of packing-repacking and unpacking ideational metaphor for knowledge construction</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/psicl-2024-0044/html"/>
     <id>https://doi.org/10.1515/psicl-2024-0044</id>
-    <updated>2025-05-04T22:11:23.815736+00:00</updated>
+    <updated>2025-05-06T05:04:15.732216+00:00</updated>
     <summary>Article by Nana Zhou
 DOI: https://doi.org/10.1515/psicl-2024-0044</summary>
   </entry>

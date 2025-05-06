@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>The Forum</title>
-  <link href="https://www.degruyterbrill.com/journal/key/for/22/1/html"/>
-  <updated>2025-05-04T22:05:35.896548+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/for/22/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/for.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/for/html" rel="related"/>
+  <updated>2025-05-06T04:56:21.803859+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/for.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in The Forum</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/for.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-frontmatter1/html"/>
     <id>https://doi.org/10.1515/for-2024-frontmatter1</id>
-    <updated>2025-05-04T22:05:35.896572+00:00</updated>
+    <updated>2025-05-06T04:56:21.803894+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/for-2024-frontmatter1</summary>
   </entry>
   <entry>
     <title>The Forum: Spring 2024 Issue</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2006/html"/>
     <id>https://doi.org/10.1515/for-2024-2006</id>
-    <updated>2025-05-04T22:05:35.896582+00:00</updated>
+    <updated>2025-05-06T04:56:21.803903+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/for-2024-2006</summary>
   </entry>
   <entry>
     <title>Affluence and the Demand-side for Policy Improvements: Exploring Elite Beliefs About Vulnerability to Societal Problems</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2007/html"/>
     <id>https://doi.org/10.1515/for-2024-2007</id>
-    <updated>2025-05-04T22:05:35.896589+00:00</updated>
+    <updated>2025-05-06T04:56:21.803911+00:00</updated>
     <summary>Article by Alan S. Gerber, Mackenzie Lockhart, Eric M. Patashnik
 DOI: https://doi.org/10.1515/for-2024-2007</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/for-2024-2007</summary>
     <title>The Post-BrownEra in Judicial Policymaking</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2008/html"/>
     <id>https://doi.org/10.1515/for-2024-2008</id>
-    <updated>2025-05-04T22:05:35.896599+00:00</updated>
+    <updated>2025-05-06T04:56:21.803921+00:00</updated>
     <summary>Article by Thomas F. Burke, Jeb Barnes
 DOI: https://doi.org/10.1515/for-2024-2008</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/for-2024-2008</summary>
     <title>Blame, Policy Feedback, and the Politics of Student Debt Relief Policy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2009/html"/>
     <id>https://doi.org/10.1515/for-2024-2009</id>
-    <updated>2025-05-04T22:05:35.896607+00:00</updated>
+    <updated>2025-05-06T04:56:21.803929+00:00</updated>
     <summary>Article by Mallory E. SoRelle, Serena Laws
 DOI: https://doi.org/10.1515/for-2024-2009</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/for-2024-2009</summary>
     <title>The Nationalized Politics of Police Reform</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2010/html"/>
     <id>https://doi.org/10.1515/for-2024-2010</id>
-    <updated>2025-05-04T22:05:35.896614+00:00</updated>
+    <updated>2025-05-06T04:56:21.803936+00:00</updated>
     <summary>Article by Michael W. Sances
 DOI: https://doi.org/10.1515/for-2024-2010</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/for-2024-2010</summary>
     <title>Inside the “Administrative State”: The Enigmatic Office for Civil Rights</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2011/html"/>
     <id>https://doi.org/10.1515/for-2024-2011</id>
-    <updated>2025-05-04T22:05:35.896623+00:00</updated>
+    <updated>2025-05-06T04:56:21.803944+00:00</updated>
     <summary>Article by R. Shep Melnick
 DOI: https://doi.org/10.1515/for-2024-2011</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/for-2024-2011</summary>
     <title>How Ideological Diversity Moderates Republican Support for Voter Suppression Measures: The Cases of Georgia and Alabama</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2012/html"/>
     <id>https://doi.org/10.1515/for-2024-2012</id>
-    <updated>2025-05-04T22:05:35.896630+00:00</updated>
+    <updated>2025-05-06T04:56:21.803952+00:00</updated>
     <summary>Article by Jesse H. Rhodes, Adam Eichen
 DOI: https://doi.org/10.1515/for-2024-2012</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/for-2024-2012</summary>
     <title>Ten Years Later: How Water Crises in Flint and Detroit Transformed the Politics of U.S. Water Policy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2013/html"/>
     <id>https://doi.org/10.1515/for-2024-2013</id>
-    <updated>2025-05-04T22:05:35.896637+00:00</updated>
+    <updated>2025-05-06T04:56:21.803960+00:00</updated>
     <summary>Article by Olivia David, Sara Hughes
 DOI: https://doi.org/10.1515/for-2024-2013</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/for-2024-2013</summary>
     <title>Climate Change Policy Development: A Multiple Streams Analysis of the Inflation Reduction Act of 2022</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2014/html"/>
     <id>https://doi.org/10.1515/for-2024-2014</id>
-    <updated>2025-05-04T22:05:35.896645+00:00</updated>
+    <updated>2025-05-06T04:56:21.803971+00:00</updated>
     <summary>Article by Morgan McGlynn, Aaron C. Sparks
 DOI: https://doi.org/10.1515/for-2024-2014</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/for-2024-2014</summary>
     <title>Steven Rogers:Accountability in State Legislatures</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/for-2024-2015/html"/>
     <id>https://doi.org/10.1515/for-2024-2015</id>
-    <updated>2025-05-04T22:05:35.896652+00:00</updated>
+    <updated>2025-05-06T04:56:21.803979+00:00</updated>
     <summary>Article by Zoe Nemerever
 DOI: https://doi.org/10.1515/for-2024-2015</summary>
   </entry>

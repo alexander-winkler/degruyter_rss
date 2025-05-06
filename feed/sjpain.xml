@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Scandinavian Journal of Pain</title>
-  <link href="https://www.degruyterbrill.com/journal/key/sjpain/25/1/html"/>
-  <updated>2025-05-04T22:12:26.670604+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/sjpain/25/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sjpain.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/sjpain/html" rel="related"/>
+  <updated>2025-05-06T05:05:42.609328+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sjpain.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Scandinavian Journal of Pain</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sjpain.xml" type="application/rss+xml"/>
   <entry>
     <title>Exploring the complexities of chronic pain: The ICEPAIN study on prevalence, lifestyle factors, and quality of life in a general population</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0056/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0056</id>
-    <updated>2025-05-04T22:12:26.670628+00:00</updated>
+    <updated>2025-05-06T05:05:42.609352+00:00</updated>
     <summary>Article by Thorbjorg Jonsdottir, Sigfridur Inga Karlsdottir, Hafdis Skuladottir, Eva Halapi, Gudmundur Kristjan Oskarsson
 DOI: https://doi.org/10.1515/sjpain-2024-0056</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0056</summary>
     <title>The effect of peer group management intervention on chronic pain intensity, number of areas of pain, and pain self-efficacy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0018/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0018</id>
-    <updated>2025-05-04T22:12:26.670637+00:00</updated>
+    <updated>2025-05-06T05:05:42.609363+00:00</updated>
     <summary>Article by Marjatta Inkeri Reilimo, Markku Sainio, Juha Liira, Marjukka Laurola
 DOI: https://doi.org/10.1515/sjpain-2024-0018</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0018</summary>
     <title>Effects of symbolic function on pain experience and vocational outcome in patients with chronic neck pain referred to the evaluation of surgical intervention: 6-year follow-up</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0002/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0002</id>
-    <updated>2025-05-04T22:12:26.670644+00:00</updated>
+    <updated>2025-05-06T05:05:42.609372+00:00</updated>
     <summary>Article by Hannu Heikkilä, Rolf Asp, Eva Holmlund, Aet Ristmägi
 DOI: https://doi.org/10.1515/sjpain-2024-0002</summary>
   </entry>
@@ -39,7 +36,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0002</summary>
     <title>Experiences of cross-sectoral collaboration between social security service and healthcare service for patients with chronic pain – a qualitative study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0057/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0057</id>
-    <updated>2025-05-04T22:12:26.670651+00:00</updated>
+    <updated>2025-05-06T05:05:42.609381+00:00</updated>
     <summary>Article by Maryam Haghshenas, Aslak Steinsbekk, Karen Walseth Hara
 DOI: https://doi.org/10.1515/sjpain-2024-0057</summary>
   </entry>
@@ -47,7 +44,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0057</summary>
     <title>Completion of the PainData questionnaire – A qualitative study of patients’ experiences</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0048/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0048</id>
-    <updated>2025-05-04T22:12:26.670657+00:00</updated>
+    <updated>2025-05-06T05:05:42.609390+00:00</updated>
     <summary>Article by Rannvá Apolonia Egholm, Ann Merete Møller, Thordis Thomsen
 DOI: https://doi.org/10.1515/sjpain-2024-0048</summary>
   </entry>
@@ -55,7 +52,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0048</summary>
     <title>Association between clinical laboratory indicators and WOMAC scores in Qatar Biobank participants: The impact of testosterone and fibrinogen on pain, stiffness, and functional limitation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0045/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0045</id>
-    <updated>2025-05-04T22:12:26.670663+00:00</updated>
+    <updated>2025-05-06T05:05:42.609398+00:00</updated>
     <summary>Article by Ovelia Masoud, Linzette Morris, Mohammed Al-Hamdani, Amal Al-Haidose, Atiyeh M. Abdallah
 DOI: https://doi.org/10.1515/sjpain-2024-0045</summary>
   </entry>
@@ -63,7 +60,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0045</summary>
     <title>Well-being in pain questionnaire: A novel, reliable, and valid tool for assessment of the personal well-being in individuals with chronic low back pain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0067/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0067</id>
-    <updated>2025-05-04T22:12:26.670669+00:00</updated>
+    <updated>2025-05-06T05:05:42.609406+00:00</updated>
     <summary>Article by Jani Mikkonen, Frank Martela, Riikka Holopainen, Kristian Ekström, Liesbet Goubert, Ville Leinonen, Tuomas Selander, Olavi Airaksinen, Randy Neblett
 DOI: https://doi.org/10.1515/sjpain-2024-0067</summary>
   </entry>
@@ -71,7 +68,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0067</summary>
     <title>Effectiveness of non-invasive vagus nerve stimulation vs heart rate variability biofeedback interventions for chronic pain conditions: A systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0037/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0037</id>
-    <updated>2025-05-04T22:12:26.670675+00:00</updated>
+    <updated>2025-05-06T05:05:42.609415+00:00</updated>
     <summary>Article by Katie Pellow, Jackie Harrison, Paul Tucker, Brent Harper
 DOI: https://doi.org/10.1515/sjpain-2024-0037</summary>
   </entry>
@@ -79,7 +76,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0037</summary>
     <title>A scoping review of the effectiveness of underwater treadmill exercise in clinical trials of chronic pain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0051/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0051</id>
-    <updated>2025-05-04T22:12:26.670681+00:00</updated>
+    <updated>2025-05-06T05:05:42.609422+00:00</updated>
     <summary>Article by Michael Miglietta, Larah Maunder, Piera Rooke, Erin Gorchinsky, Sonia Keshavari, Griffin Douglas, Nicholas Held
 DOI: https://doi.org/10.1515/sjpain-2024-0051</summary>
   </entry>
@@ -87,7 +84,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0051</summary>
     <title>Neural networks involved in painful diabetic neuropathy: A systematic review</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0069/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0069</id>
-    <updated>2025-05-04T22:12:26.670688+00:00</updated>
+    <updated>2025-05-06T05:05:42.609431+00:00</updated>
     <summary>Article by Johanne Lundager Axelsen, Ulrich Kirk, Søren Bo Andersen, Juliana Janeiro Schmidt, Maria Beck Gaarde, Christopher Lund Franck, Eelco van Duinkerken, François Pouwer
 DOI: https://doi.org/10.1515/sjpain-2024-0069</summary>
   </entry>
@@ -95,7 +92,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0069</summary>
     <title>Knowledge, attitudes, and practices of transcutaneous electrical nerve stimulation in perioperative care: A Swedish web-based survey</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0078/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0078</id>
-    <updated>2025-05-04T22:12:26.670695+00:00</updated>
+    <updated>2025-05-06T05:05:42.609440+00:00</updated>
     <summary>Article by Salwan Diwan, Alexander Olausson, Paulin Andréll, Axel Wolf, Pether Jildenstål
 DOI: https://doi.org/10.1515/sjpain-2024-0078</summary>
   </entry>
@@ -103,7 +100,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0078</summary>
     <title>Stellate ganglion block in disparate treatment-resistant mental health disorders: A case series</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-0071/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-0071</id>
-    <updated>2025-05-04T22:12:26.670703+00:00</updated>
+    <updated>2025-05-06T05:05:42.609449+00:00</updated>
     <summary>Article by G. Niraj, V. Karanth, S. Niraj, N. Charan
 DOI: https://doi.org/10.1515/sjpain-2024-0071</summary>
   </entry>
@@ -111,7 +108,7 @@ DOI: https://doi.org/10.1515/sjpain-2024-0071</summary>
     <title>Letter to the Editor For: “Stellate ganglion block in disparate treatment-resistant mental health disorders: A case series”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2025-0014/html"/>
     <id>https://doi.org/10.1515/sjpain-2025-0014</id>
-    <updated>2025-05-04T22:12:26.670709+00:00</updated>
+    <updated>2025-05-06T05:05:42.609457+00:00</updated>
     <summary>Article by Eugene Lipov, Kevin Marmo
 DOI: https://doi.org/10.1515/sjpain-2025-0014</summary>
   </entry>
@@ -119,7 +116,7 @@ DOI: https://doi.org/10.1515/sjpain-2025-0014</summary>
     <title>Corrigendum to “Patient characteristics in relation to opioid exposure in a chronic non-cancer pain population”</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sjpain-2024-9997/html"/>
     <id>https://doi.org/10.1515/sjpain-2024-9997</id>
-    <updated>2025-05-04T22:12:26.670716+00:00</updated>
+    <updated>2025-05-06T05:05:42.609465+00:00</updated>
     <summary>Article by Henrik Grelz, Ulf Jakobsson, Patrik Midlöv, Marcelo Rivano Fischer, Åsa Ringqvist
 DOI: https://doi.org/10.1515/sjpain-2024-9997</summary>
   </entry>

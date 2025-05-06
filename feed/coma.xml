@@ -1,21 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Complex Manifolds</title>
-  <link href="https://www.degruyterbrill.com/journal/key/coma/12/1/html"/>
-  <updated>2025-05-04T22:04:07.702511+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/coma/12/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/coma.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/coma/html" rel="related"/>
+  <updated>2025-05-06T04:54:18.237211+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/coma.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Complex Manifolds</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/coma.xml" type="application/rss+xml"/>
   <entry>
     <title>On the rigidity of ℂℙ2n× ℂℙ1</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/coma-2024-0008/html"/>
     <id>https://doi.org/10.1515/coma-2024-0008</id>
-    <updated>2025-05-04T22:04:07.702547+00:00</updated>
+    <updated>2025-05-06T04:54:18.237249+00:00</updated>
     <summary>Article by Stuart James Hall
 DOI: https://doi.org/10.1515/coma-2024-0008</summary>
   </entry>
@@ -23,7 +20,7 @@ DOI: https://doi.org/10.1515/coma-2024-0008</summary>
     <title>Asymptotics of a modified holomorphic analytic torsion</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/coma-2025-0010/html"/>
     <id>https://doi.org/10.1515/coma-2025-0010</id>
-    <updated>2025-05-04T22:04:07.702560+00:00</updated>
+    <updated>2025-05-06T04:54:18.237264+00:00</updated>
     <summary>Article by Andrés Larraín-Hubach
 DOI: https://doi.org/10.1515/coma-2025-0010</summary>
   </entry>
@@ -31,7 +28,7 @@ DOI: https://doi.org/10.1515/coma-2025-0010</summary>
     <title>UniformL2-estimates for flat nontrivial line bundles on compact complex manifolds</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/coma-2024-0009/html"/>
     <id>https://doi.org/10.1515/coma-2024-0009</id>
-    <updated>2025-05-04T22:04:07.702568+00:00</updated>
+    <updated>2025-05-06T04:54:18.237274+00:00</updated>
     <summary>Article by Yoshinori Hashimoto, Takayuki Koike, Shin-ichi Matsumura
 DOI: https://doi.org/10.1515/coma-2024-0009</summary>
   </entry>

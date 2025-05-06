@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of Food Engineering</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijfe/21/3/html"/>
-  <updated>2025-05-04T22:06:43.995185+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ijfe/21/3/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijfe.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijfe/html" rel="related"/>
+  <updated>2025-05-06T04:57:53.913025+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijfe.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of Food Engineering</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijfe.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2025-frontmatter3/html"/>
     <id>https://doi.org/10.1515/ijfe-2025-frontmatter3</id>
-    <updated>2025-05-04T22:06:43.995230+00:00</updated>
+    <updated>2025-05-06T04:57:53.913043+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ijfe-2025-frontmatter3</summary>
   </entry>
   <entry>
     <title>Quantitation of adulterated honey by three-dimensional fluorescence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0196/html"/>
     <id>https://doi.org/10.1515/ijfe-2024-0196</id>
-    <updated>2025-05-04T22:06:43.995239+00:00</updated>
+    <updated>2025-05-06T04:57:53.913052+00:00</updated>
     <summary>Article by Lin Cong, Hua Bai, Fangdi Cong
 DOI: https://doi.org/10.1515/ijfe-2024-0196</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ijfe-2024-0196</summary>
     <title>Insights into the physicochemical stability of ammonium glycyrrhizate and curcumin nanocomplexes</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0244/html"/>
     <id>https://doi.org/10.1515/ijfe-2024-0244</id>
-    <updated>2025-05-04T22:06:43.995252+00:00</updated>
+    <updated>2025-05-06T04:57:53.913064+00:00</updated>
     <summary>Article by Yonghui Wang, Jingwen Wu, Weiyun Guo, Xueli Gao, Guanghui Li, Shenghua He, Jihong Huang, Zirui Du, Sa Wen
 DOI: https://doi.org/10.1515/ijfe-2024-0244</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ijfe-2024-0244</summary>
     <title>Improving delivery capacity of soy 7S protein via high pressure homogenization: in the case of vitamin D3</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0258/html"/>
     <id>https://doi.org/10.1515/ijfe-2024-0258</id>
-    <updated>2025-05-04T22:06:43.995260+00:00</updated>
+    <updated>2025-05-06T04:57:53.913070+00:00</updated>
     <summary>Article by Zhengsong Chen, Wenjing Zhong, Jie Xia, Jianhua Zhu
 DOI: https://doi.org/10.1515/ijfe-2024-0258</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ijfe-2024-0258</summary>
     <title>Conventional and microwave drying of kefir grains: effect on drying, rehydration and fermentation kinetics and viability of kefir grains</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0059/html"/>
     <id>https://doi.org/10.1515/ijfe-2024-0059</id>
-    <updated>2025-05-04T22:06:43.995271+00:00</updated>
+    <updated>2025-05-06T04:57:53.913075+00:00</updated>
     <summary>Article by Sena Nur Karabekiroğlu, Dilek Kılıç
 DOI: https://doi.org/10.1515/ijfe-2024-0059</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ijfe-2024-0059</summary>
     <title>An application of drop test analysis on chicken eggs under different drop angles</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijfe-2024-0029/html"/>
     <id>https://doi.org/10.1515/ijfe-2024-0029</id>
-    <updated>2025-05-04T22:06:43.995279+00:00</updated>
+    <updated>2025-05-06T04:57:53.913081+00:00</updated>
     <summary>Article by Seyhan Özen, Ramazan Bayrak, Hamit Kenan, Hüseyin Rıza Börklü
 DOI: https://doi.org/10.1515/ijfe-2024-0029</summary>
   </entry>

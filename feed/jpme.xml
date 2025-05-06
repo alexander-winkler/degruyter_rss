@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Perinatal Medicine</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jpme/53/4/html"/>
-  <updated>2025-05-04T22:08:40.598510+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/jpme/53/4/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jpme.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jpme/html" rel="related"/>
+  <updated>2025-05-06T05:00:33.331821+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jpme.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Perinatal Medicine</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jpme.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2025-frontmatter4/html"/>
     <id>https://doi.org/10.1515/jpm-2025-frontmatter4</id>
-    <updated>2025-05-04T22:08:40.598540+00:00</updated>
+    <updated>2025-05-06T05:00:33.331841+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/jpm-2025-frontmatter4</summary>
   </entry>
   <entry>
     <title>Vasa previa guidelines and their supporting evidence</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0473/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0473</id>
-    <updated>2025-05-04T22:08:40.598548+00:00</updated>
+    <updated>2025-05-06T05:00:33.331849+00:00</updated>
     <summary>Article by Carine McMahon, Shelene Laiu, Yinka Oyelese, Daniel L. Rolnik
 DOI: https://doi.org/10.1515/jpm-2024-0473</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0473</summary>
     <title>Fetal origins of adult disease: transforming prenatal care by integrating Barker’s Hypothesis with AI-driven 4D ultrasound</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0617/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0617</id>
-    <updated>2025-05-04T22:08:40.598560+00:00</updated>
+    <updated>2025-05-06T05:00:33.331857+00:00</updated>
     <summary>Article by Wiku Andonotopo, Muhammad Adrianes Bachnas, Muhammad Ilham Aldika Akbar, Muhammad Alamsyah Aziz, Julian Dewantiningrum, Mochammad Besari Adi Pramono, Sri Sulistyowati, Milan Stanojevic, Asim Kurjak
 DOI: https://doi.org/10.1515/jpm-2024-0617</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0617</summary>
     <title>Postpartum remote blood pressure monitoring and risk of hypertensive-related readmission: systematic review and meta-analysis of randomized controlled trials</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0515/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0515</id>
-    <updated>2025-05-04T22:08:40.598568+00:00</updated>
+    <updated>2025-05-06T05:00:33.331864+00:00</updated>
     <summary>Article by Fabrizio Zullo, Daniele Di Mascio, Farah H. Amro, Sara Sorrenti, Elena D’Alberti, Antonella Giancotti, Giuseppe Rizzo, Suneet P. Chauhan
 DOI: https://doi.org/10.1515/jpm-2024-0515</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0515</summary>
     <title>Proposal of a novel index in assessing perinatal mortality in prenatal diagnosis of Sacrococcygeal teratoma</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0202/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0202</id>
-    <updated>2025-05-04T22:08:40.598580+00:00</updated>
+    <updated>2025-05-06T05:00:33.331878+00:00</updated>
     <summary>Article by Pedro Llancarí, Diego Velarde-García, Rommy H. Novoa, Walter Ventura
 DOI: https://doi.org/10.1515/jpm-2024-0202</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0202</summary>
     <title>Maternity staff views on implementing a national perinatal mortality review tool: understanding barriers and facilitators</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0601/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0601</id>
-    <updated>2025-05-04T22:08:40.598587+00:00</updated>
+    <updated>2025-05-06T05:00:33.331884+00:00</updated>
     <summary>Article by Emily O’Connor, Aenne Helps, Richard Greene, Keelin O’Donoghue, Sara Leitao
 DOI: https://doi.org/10.1515/jpm-2024-0601</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0601</summary>
     <title>Prenatal care for twin pregnancies: analysis of maternal and neonatal morbidity and mortality</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0484/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0484</id>
-    <updated>2025-05-04T22:08:40.598594+00:00</updated>
+    <updated>2025-05-06T05:00:33.331890+00:00</updated>
     <summary>Article by Isabelle Cordeiro de Nojosa Sombra, Edward Araujo Júnior, Julio Elito Júnior
 DOI: https://doi.org/10.1515/jpm-2024-0484</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0484</summary>
     <title>Hematological indicators and their impact on maternal and neonatal outcomes in pregnancies with thalassemia traits</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0394/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0394</id>
-    <updated>2025-05-04T22:08:40.598604+00:00</updated>
+    <updated>2025-05-06T05:00:33.331896+00:00</updated>
     <summary>Article by Ratana Meng, Hai-ning Bi, Chanrith Mork, Ji-fang Shi
 DOI: https://doi.org/10.1515/jpm-2024-0394</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0394</summary>
     <title>The reference ranges for fetal ductus venosus flow velocities and calculated waveform indices and their predictive values for right heart diseases</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0577/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0577</id>
-    <updated>2025-05-04T22:08:40.598611+00:00</updated>
+    <updated>2025-05-06T05:00:33.331902+00:00</updated>
     <summary>Article by Jian Wu, Yanping Ruan, Xinru Gao, Hairui Wang, Yuxuan Guan, Xiaoyan Hao, Jiancheng Han, Xiaoyan Gu, Yihua He
 DOI: https://doi.org/10.1515/jpm-2024-0577</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0577</summary>
     <title>Risk factors and outcomes of uterine rupture before onset of labor vs. during labor: a multicenter study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0309/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0309</id>
-    <updated>2025-05-04T22:08:40.598619+00:00</updated>
+    <updated>2025-05-06T05:00:33.331908+00:00</updated>
     <summary>Article by Qingwen Nie, Shujuan Luo, Bingjun Chen, Lu Wang, Fang He
 DOI: https://doi.org/10.1515/jpm-2024-0309</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0309</summary>
     <title>Feasibility and reproducibility of speckle tracking echocardiography in routine assessment of the fetal heart in a low-risk population</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0514/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0514</id>
-    <updated>2025-05-04T22:08:40.598625+00:00</updated>
+    <updated>2025-05-06T05:00:33.331914+00:00</updated>
     <summary>Article by Adalina Sacco, Ayisha Kazi, Diane Nzelu, Victoria Jowett, Pranav Pandya
 DOI: https://doi.org/10.1515/jpm-2024-0514</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0514</summary>
     <title>Enhancing external cephalic version success: insights from an Israeli tertiary center</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0546/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0546</id>
-    <updated>2025-05-04T22:08:40.598637+00:00</updated>
+    <updated>2025-05-06T05:00:33.331919+00:00</updated>
     <summary>Article by Nicolas Andre, Ayat Abu Hamad, Salvatore Andrea Mastrolia, Yael Baumfeld, Eyal Sheiner, Eli H. Bernstein, Offer Erez, Giuseppe Trojano, Polina Schwarzman
 DOI: https://doi.org/10.1515/jpm-2024-0546</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0546</summary>
     <title>Comparative sonographic measurement of the fetal thymus size in singleton and twin pregnancies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0356/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0356</id>
-    <updated>2025-05-04T22:08:40.598644+00:00</updated>
+    <updated>2025-05-06T05:00:33.331926+00:00</updated>
     <summary>Article by Anna-Lena Kuper, Ralf Schmitz, Kathrin Oelmeier, Chiara De Santis, Daniela Willy, Janina Braun, Laura Kerschke, Mareike Möllers
 DOI: https://doi.org/10.1515/jpm-2024-0356</summary>
   </entry>
@@ -118,7 +115,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0356</summary>
     <title>Transversal cardiac diameter is increased in fetuses with dextro-transposition of the great arteries older than 28th weeks of gestation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0621/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0621</id>
-    <updated>2025-05-04T22:08:40.598660+00:00</updated>
+    <updated>2025-05-06T05:00:33.331933+00:00</updated>
     <summary>Article by Oskar Sylwestrzak, Aleksandra Piórecka, Iwona Strzelecka, Łukasz Sokołowski, Maciej Słodki, Maria Respondek-Liberska
 DOI: https://doi.org/10.1515/jpm-2024-0621</summary>
   </entry>
@@ -126,7 +123,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0621</summary>
     <title>Severe maternal morbidity in twin pregnancies: the impact of body mass index and gestational weight gain</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0532/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0532</id>
-    <updated>2025-05-04T22:08:40.598667+00:00</updated>
+    <updated>2025-05-06T05:00:33.331939+00:00</updated>
     <summary>Article by Nathan A. Keller, Frank I. Jackson, Insaf Kouba, Luis A. Bracero, Matthew J. Blitz
 DOI: https://doi.org/10.1515/jpm-2024-0532</summary>
   </entry>
@@ -134,7 +131,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0532</summary>
     <title>Trends in gestational age and short-term neonatal outcomes in the United States</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2024-0590/html"/>
     <id>https://doi.org/10.1515/jpm-2024-0590</id>
-    <updated>2025-05-04T22:08:40.598674+00:00</updated>
+    <updated>2025-05-06T05:00:33.331946+00:00</updated>
     <summary>Article by Pranita Shenoy, Fredrick Dapaah-Siakwan
 DOI: https://doi.org/10.1515/jpm-2024-0590</summary>
   </entry>
@@ -142,7 +139,7 @@ DOI: https://doi.org/10.1515/jpm-2024-0590</summary>
     <title>Mechanisms of hypoxaemia in late pulmonary hypertension associated with bronchopulmonary dysplasia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/jpm-2025-0058/html"/>
     <id>https://doi.org/10.1515/jpm-2025-0058</id>
-    <updated>2025-05-04T22:08:40.598680+00:00</updated>
+    <updated>2025-05-06T05:00:33.331952+00:00</updated>
     <summary>Article by Eleanor Jeffreys, Fahad M.S. Arattu Thodika, Aaron Bell, Anne Greenough, Theodore Dassios
 DOI: https://doi.org/10.1515/jpm-2025-0058</summary>
   </entry>

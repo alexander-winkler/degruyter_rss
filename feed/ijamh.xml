@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of Adolescent Medicine and Health </title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijamh/37/1/html"/>
-  <updated>2025-05-04T22:06:35.510930+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ijamh/37/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijamh.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijamh/html" rel="related"/>
+  <updated>2025-05-06T04:57:42.636732+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijamh.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of Adolescent Medicine and Health </subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijamh.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2025-frontmatter1/html"/>
     <id>https://doi.org/10.1515/ijamh-2025-frontmatter1</id>
-    <updated>2025-05-04T22:06:35.510973+00:00</updated>
+    <updated>2025-05-06T04:57:42.636766+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ijamh-2025-frontmatter1</summary>
   </entry>
   <entry>
     <title>Evaluating the relationship between marijuana use, aggressive behaviors, and victimization: an epidemiological study in colombian adolescents</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2024-0167/html"/>
     <id>https://doi.org/10.1515/ijamh-2024-0167</id>
-    <updated>2025-05-04T22:06:35.510987+00:00</updated>
+    <updated>2025-05-06T04:57:42.636777+00:00</updated>
     <summary>Article by Orlando Scoppetta, Francisco Cardozo, Eric C. Brown, Vanessa Morales
 DOI: https://doi.org/10.1515/ijamh-2024-0167</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/ijamh-2024-0167</summary>
     <title>Enhancing adolescent health awareness: impact of online training on medical and community health officers in Andhra Pradesh, India</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2024-0100/html"/>
     <id>https://doi.org/10.1515/ijamh-2024-0100</id>
-    <updated>2025-05-04T22:06:35.510996+00:00</updated>
+    <updated>2025-05-06T04:57:42.636788+00:00</updated>
     <summary>Article by Arti Gupta, Rajeev Aravindakshan, Vijayan Sharmila, Venkatashiva Reddy B., Navya Krishna Naidu
 DOI: https://doi.org/10.1515/ijamh-2024-0100</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/ijamh-2024-0100</summary>
     <title>Development of the “KARUNI” (young adolescents community) model to prevent stunting: a phenomenological study on adolescents in Gunungkidul regency, Yogyakarta, Indonesia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2024-0171/html"/>
     <id>https://doi.org/10.1515/ijamh-2024-0171</id>
-    <updated>2025-05-04T22:06:35.511006+00:00</updated>
+    <updated>2025-05-06T04:57:42.636799+00:00</updated>
     <summary>Article by Benny Karuniawati, Supriyadi Hari Respati, Dhiya Urrahman, Fahmi Baiquni, Sri Mulyani
 DOI: https://doi.org/10.1515/ijamh-2024-0171</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/ijamh-2024-0171</summary>
     <title>Energy drinks, depression, insomnia, and stress in palestinian adolescents: a cross-sectional study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2024-0178/html"/>
     <id>https://doi.org/10.1515/ijamh-2024-0178</id>
-    <updated>2025-05-04T22:06:35.511013+00:00</updated>
+    <updated>2025-05-06T04:57:42.636808+00:00</updated>
     <summary>Article by Beesan Maraqa, Ahmad Fasfoos, Mohammad Alami, Nader Banat, Obada Amr, Atef Saraheen
 DOI: https://doi.org/10.1515/ijamh-2024-0178</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/ijamh-2024-0178</summary>
     <title>Characterization of the most common diagnoses in a population of adolescents and young adults attended by a Healthcare Service Provider (HSP) in Bogotá, Colombia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2024-0128/html"/>
     <id>https://doi.org/10.1515/ijamh-2024-0128</id>
-    <updated>2025-05-04T22:06:35.511024+00:00</updated>
+    <updated>2025-05-06T04:57:42.636817+00:00</updated>
     <summary>Article by Camilo Borda-Piñeres, Jesús Brito-Mugno, Manuela Bonilla-Rivera, Laura Botero-Villarreal, Isabel Zapata, Luz Marina Moya, Francisco Palencia-Sánchez
 DOI: https://doi.org/10.1515/ijamh-2024-0128</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/ijamh-2024-0128</summary>
     <title>Association of chronotype pattern on the quality of sleep and anxiety among medical undergraduates – a cross-sectional study</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2024-0189/html"/>
     <id>https://doi.org/10.1515/ijamh-2024-0189</id>
-    <updated>2025-05-04T22:06:35.511034+00:00</updated>
+    <updated>2025-05-06T04:57:42.636827+00:00</updated>
     <summary>Article by Hargun Kaur Khaira, Sonia Kochhar, Jitender Aneja, Madhur Verma, Rajathi Rajendran, Anupinder Thind
 DOI: https://doi.org/10.1515/ijamh-2024-0189</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/ijamh-2024-0189</summary>
     <title>Addressing emotional aggression in Thai adolescents: evaluating the P-positive program using EQ metric</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijamh-2025-0005/html"/>
     <id>https://doi.org/10.1515/ijamh-2025-0005</id>
-    <updated>2025-05-04T22:06:35.511042+00:00</updated>
+    <updated>2025-05-06T04:57:42.636836+00:00</updated>
     <summary>Article by Sujinun Junsomang, Sunisa Thampradit, Chanapat Sripatnet, Apinya Ainyeam, Rattanaporn Arsa, Apichet Jumneansuk, Phitchasuda Dechboon, Anongnat Pansathin, Tanatas Pudpong
 DOI: https://doi.org/10.1515/ijamh-2025-0005</summary>
   </entry>

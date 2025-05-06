@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Man and the Economy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/me/11/2/html"/>
-  <updated>2025-05-04T22:09:40.000326+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/me/11/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/me.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/me/html" rel="related"/>
+  <updated>2025-05-06T05:01:55.443590+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/me.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Man and the Economy</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/me.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/me-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/me-2024-frontmatter2</id>
-    <updated>2025-05-04T22:09:40.000360+00:00</updated>
+    <updated>2025-05-06T05:01:55.443618+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/me-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>An Economic Analysis of Exclusive Contracts</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/me-2024-2008/html"/>
     <id>https://doi.org/10.1515/me-2024-2008</id>
-    <updated>2025-05-04T22:09:40.000371+00:00</updated>
+    <updated>2025-05-06T05:01:55.443630+00:00</updated>
     <summary>Article by Xiaofang Chen, Zhimin Liao
 DOI: https://doi.org/10.1515/me-2024-2008</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/me-2024-2008</summary>
     <title>Erasmus on Laws</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/me-2024-2004/html"/>
     <id>https://doi.org/10.1515/me-2024-2004</id>
-    <updated>2025-05-04T22:09:40.000382+00:00</updated>
+    <updated>2025-05-06T05:01:55.443645+00:00</updated>
     <summary>Article by Ning Wang
 DOI: https://doi.org/10.1515/me-2024-2004</summary>
   </entry>

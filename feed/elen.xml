@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Elenchos</title>
-  <link href="https://www.degruyterbrill.com/journal/key/elen/45/2/html"/>
-  <updated>2025-05-04T22:05:05.594225+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/elen/45/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/elen/html" rel="related"/>
+  <updated>2025-05-06T04:55:39.045634+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Elenchos</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/elen.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/elen-2024-frontmatter2</id>
-    <updated>2025-05-04T22:05:05.594259+00:00</updated>
+    <updated>2025-05-06T04:55:39.045671+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/elen-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Variazioni sul tema. Il cinismo antico e lo stile di vita: tra imitazione e interpretazione</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0011/html"/>
     <id>https://doi.org/10.1515/elen-2024-0011</id>
-    <updated>2025-05-04T22:05:05.594271+00:00</updated>
+    <updated>2025-05-06T04:55:39.045681+00:00</updated>
     <summary>Article by Stefano Mecci
 DOI: https://doi.org/10.1515/elen-2024-0011</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/elen-2024-0011</summary>
     <title>Aristotle on Platonic Efficient Causes. A Rehabilitation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0012/html"/>
     <id>https://doi.org/10.1515/elen-2024-0012</id>
-    <updated>2025-05-04T22:05:05.594280+00:00</updated>
+    <updated>2025-05-06T04:55:39.045691+00:00</updated>
     <summary>Article by Rareș Ilie Marinescu
 DOI: https://doi.org/10.1515/elen-2024-0012</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/elen-2024-0012</summary>
     <title>Aristotle’s Critique of Form-Number</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0013/html"/>
     <id>https://doi.org/10.1515/elen-2024-0013</id>
-    <updated>2025-05-04T22:05:05.594288+00:00</updated>
+    <updated>2025-05-06T04:55:39.045701+00:00</updated>
     <summary>Article by Daniel Sung-hyun Yang
 DOI: https://doi.org/10.1515/elen-2024-0013</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/elen-2024-0013</summary>
     <title>Yet Another Heuristic: AssessingEudaimonversusMakariosin Aristotle’sNicomachean Ethics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0014/html"/>
     <id>https://doi.org/10.1515/elen-2024-0014</id>
-    <updated>2025-05-04T22:05:05.594295+00:00</updated>
+    <updated>2025-05-06T04:55:39.045709+00:00</updated>
     <summary>Article by Kelsey Boor
 DOI: https://doi.org/10.1515/elen-2024-0014</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/elen-2024-0014</summary>
     <title>L’interpretazione dei proemi dei dialoghi nelCommento all’Alcibiade Idi Proclo</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0015/html"/>
     <id>https://doi.org/10.1515/elen-2024-0015</id>
-    <updated>2025-05-04T22:05:05.594302+00:00</updated>
+    <updated>2025-05-06T04:55:39.045720+00:00</updated>
     <summary>Article by Anna Motta
 DOI: https://doi.org/10.1515/elen-2024-0015</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/elen-2024-0015</summary>
     <title>Filone Alessandrino a Venezia nel ’500. Le prime traduzioni in volgare italiano</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0016/html"/>
     <id>https://doi.org/10.1515/elen-2024-0016</id>
-    <updated>2025-05-04T22:05:05.594309+00:00</updated>
+    <updated>2025-05-06T04:55:39.045727+00:00</updated>
     <summary>Article by Francesca Calabi
 DOI: https://doi.org/10.1515/elen-2024-0016</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/elen-2024-0016</summary>
     <title>Un passo di Michele di Efeso e l’origine del commento composito all’Etica Nicomachea</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0017/html"/>
     <id>https://doi.org/10.1515/elen-2024-0017</id>
-    <updated>2025-05-04T22:05:05.594315+00:00</updated>
+    <updated>2025-05-06T04:55:39.045737+00:00</updated>
     <summary>Article by Carlo Natali
 DOI: https://doi.org/10.1515/elen-2024-0017</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/elen-2024-0017</summary>
     <title>M. Laura Gemelli Marciano (a c. di):Presocratici. Volume I:Sentieri di sapienza attraverso la Ionia e oltre.Da Talete a Eraclito</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0018/html"/>
     <id>https://doi.org/10.1515/elen-2024-0018</id>
-    <updated>2025-05-04T22:05:05.594325+00:00</updated>
+    <updated>2025-05-06T04:55:39.045745+00:00</updated>
     <summary>Article by Francesco Verde
 DOI: https://doi.org/10.1515/elen-2024-0018</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/elen-2024-0018</summary>
     <title>Anca Vasiliu, Elsa Grasso:Platon et la Pensée de l’image</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0019/html"/>
     <id>https://doi.org/10.1515/elen-2024-0019</id>
-    <updated>2025-05-04T22:05:05.594332+00:00</updated>
+    <updated>2025-05-06T04:55:39.045752+00:00</updated>
     <summary>Article by Federico Casella
 DOI: https://doi.org/10.1515/elen-2024-0019</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/elen-2024-0019</summary>
     <title>Pierre-Marie Morel:La nature et le bien. L’éthique d’Aristote et la question naturaliste</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/elen-2024-0020/html"/>
     <id>https://doi.org/10.1515/elen-2024-0020</id>
-    <updated>2025-05-04T22:05:05.594339+00:00</updated>
+    <updated>2025-05-06T04:55:39.045761+00:00</updated>
     <summary>Article by Francesco Fronterotta
 DOI: https://doi.org/10.1515/elen-2024-0020</summary>
   </entry>

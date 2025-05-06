@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nonprofit Policy Forum</title>
-  <link href="https://www.degruyterbrill.com/journal/key/npf/16/2/html"/>
-  <updated>2025-05-04T22:10:28.292931+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/npf/16/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/npf.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/npf/html" rel="related"/>
+  <updated>2025-05-06T05:02:59.732336+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/npf.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Nonprofit Policy Forum</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/npf.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2025-frontmatter2/html"/>
     <id>https://doi.org/10.1515/npf-2025-frontmatter2</id>
-    <updated>2025-05-04T22:10:28.292967+00:00</updated>
+    <updated>2025-05-06T05:02:59.732365+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/npf-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Nonprofit Organizations and Public Policy in Refugee and Other Migrant Crises: Concepts and Frameworks</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2025-0010/html"/>
     <id>https://doi.org/10.1515/npf-2025-0010</id>
-    <updated>2025-05-04T22:10:28.292975+00:00</updated>
+    <updated>2025-05-06T05:02:59.732373+00:00</updated>
     <summary>Article by Shawn T. Flanigan, Tania Haddad, Anna Domaradzka
 DOI: https://doi.org/10.1515/npf-2025-0010</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/npf-2025-0010</summary>
     <title>Are We All in This Together? Examining Nonprofits’ Perceptions of Governmental Actors in the Management of the U.S. Refugee Crisis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0064/html"/>
     <id>https://doi.org/10.1515/npf-2023-0064</id>
-    <updated>2025-05-04T22:10:28.292985+00:00</updated>
+    <updated>2025-05-06T05:02:59.732383+00:00</updated>
     <summary>Article by Katherine R. Cooper, Yannick C. Atouba, Rong Wang
 DOI: https://doi.org/10.1515/npf-2023-0064</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/npf-2023-0064</summary>
     <title>Governance in Crisis. Examining the Role of TSOs in Asylum Seekers Reception in France and Italy</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0068/html"/>
     <id>https://doi.org/10.1515/npf-2023-0068</id>
-    <updated>2025-05-04T22:10:28.292993+00:00</updated>
+    <updated>2025-05-06T05:02:59.732389+00:00</updated>
     <summary>Article by Giorgia Trasciani
 DOI: https://doi.org/10.1515/npf-2023-0068</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/npf-2023-0068</summary>
     <title>Migration Crisis in the Andes: A Case Study of Localization andAcompañamientofrom Medellin, Colombia</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0056/html"/>
     <id>https://doi.org/10.1515/npf-2023-0056</id>
-    <updated>2025-05-04T22:10:28.293000+00:00</updated>
+    <updated>2025-05-06T05:02:59.732396+00:00</updated>
     <summary>Article by Susan Appe, Lenis Yelin Araque, Fabian Telch
 DOI: https://doi.org/10.1515/npf-2023-0056</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/npf-2023-0056</summary>
     <title>Perceived and Pursued Opportunities from Mass Deportation Threats: The Case of Haitian Migrant-Serving Nonprofit Organizations in the Dominican Republic</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0067/html"/>
     <id>https://doi.org/10.1515/npf-2023-0067</id>
-    <updated>2025-05-04T22:10:28.293007+00:00</updated>
+    <updated>2025-05-06T05:02:59.732403+00:00</updated>
     <summary>Article by Karie Jo Peralta
 DOI: https://doi.org/10.1515/npf-2023-0067</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/npf-2023-0067</summary>
     <title>Breaking Down the Wall: The Effect of Immigration Enforcement and Nonprofit Services on Undocumented Student Academic Performance</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0075/html"/>
     <id>https://doi.org/10.1515/npf-2023-0075</id>
-    <updated>2025-05-04T22:10:28.293014+00:00</updated>
+    <updated>2025-05-06T05:02:59.732414+00:00</updated>
     <summary>Article by Daniel P. Hawes, Daniel E. Chand, Maria Apolonia Calderon
 DOI: https://doi.org/10.1515/npf-2023-0075</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/npf-2023-0075</summary>
     <title>Frontline of Refugee Reception Policy: Warsaw Reception Centers During the 2022 Ukrainian Crisis</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0082/html"/>
     <id>https://doi.org/10.1515/npf-2023-0082</id>
-    <updated>2025-05-04T22:10:28.293020+00:00</updated>
+    <updated>2025-05-06T05:02:59.732420+00:00</updated>
     <summary>Article by Mateusz Robert Trochymiak, Nina Wróblewska
 DOI: https://doi.org/10.1515/npf-2023-0082</summary>
   </entry>
@@ -78,7 +75,7 @@ DOI: https://doi.org/10.1515/npf-2023-0082</summary>
     <title>Who Volunteers at Refugee and Immigrant Nonprofits? Results from Two Studies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0066/html"/>
     <id>https://doi.org/10.1515/npf-2023-0066</id>
-    <updated>2025-05-04T22:10:28.293028+00:00</updated>
+    <updated>2025-05-06T05:02:59.732428+00:00</updated>
     <summary>Article by Anna Ferris, Tiana Marrese, Ram Cnaan, Daniel Choi, Femida Handy
 DOI: https://doi.org/10.1515/npf-2023-0066</summary>
   </entry>
@@ -86,7 +83,7 @@ DOI: https://doi.org/10.1515/npf-2023-0066</summary>
     <title>Testing the Relationship Between Local Context and Immigrant-Serving Nonprofit Strategies</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0063/html"/>
     <id>https://doi.org/10.1515/npf-2023-0063</id>
-    <updated>2025-05-04T22:10:28.293042+00:00</updated>
+    <updated>2025-05-06T05:02:59.732440+00:00</updated>
     <summary>Article by Zayda Sorrell-Medina
 DOI: https://doi.org/10.1515/npf-2023-0063</summary>
   </entry>
@@ -94,7 +91,7 @@ DOI: https://doi.org/10.1515/npf-2023-0063</summary>
     <title>Achieving Better Integration of Ukrainian Refugees in the Czech Republic: Making Use of Expertise and Addressing Cultural Differences</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0059/html"/>
     <id>https://doi.org/10.1515/npf-2023-0059</id>
-    <updated>2025-05-04T22:10:28.293049+00:00</updated>
+    <updated>2025-05-06T05:02:59.732447+00:00</updated>
     <summary>Article by Marie Jelínková, Michal Plaček, František Ochrana
 DOI: https://doi.org/10.1515/npf-2023-0059</summary>
   </entry>
@@ -102,7 +99,7 @@ DOI: https://doi.org/10.1515/npf-2023-0059</summary>
     <title>Burden Shifting to U.S. Nonprofits: Supporting Access to Asylum When Legal Protection Frameworks Fail</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2023-0071/html"/>
     <id>https://doi.org/10.1515/npf-2023-0071</id>
-    <updated>2025-05-04T22:10:28.293056+00:00</updated>
+    <updated>2025-05-06T05:02:59.732455+00:00</updated>
     <summary>Article by Afshan Paarlberg
 DOI: https://doi.org/10.1515/npf-2023-0071</summary>
   </entry>
@@ -110,7 +107,7 @@ DOI: https://doi.org/10.1515/npf-2023-0071</summary>
     <title>Book Review for “Nonprofits, Public Policy, and Migration Crises” Special Issue of Nonprofit Policy Forum</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/npf-2024-0005/html"/>
     <id>https://doi.org/10.1515/npf-2024-0005</id>
-    <updated>2025-05-04T22:10:28.293063+00:00</updated>
+    <updated>2025-05-06T05:02:59.732462+00:00</updated>
     <summary>Article by Amy Risley
 DOI: https://doi.org/10.1515/npf-2024-0005</summary>
   </entry>

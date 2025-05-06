@@ -1,35 +1,32 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ORDO</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ordo/72-73/1/html"/>
-  <updated>2025-05-04T22:10:51.482771+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/ordo/72-73/1/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ordo.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ordo/html" rel="related"/>
+  <updated>2025-05-06T05:03:30.469522+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ordo.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in ORDO</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ordo.xml" type="application/rss+xml"/>
   <entry>
     <title>Verzeichnis der Autoren / List of Contributors</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2099/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2099</id>
-    <updated>2025-05-04T22:10:51.482793+00:00</updated>
+    <updated>2025-05-06T05:03:30.469539+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ordo-2023-2099</summary>
   </entry>
   <entry>
     <title>Vorwort</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2034/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2034</id>
-    <updated>2025-05-04T22:10:51.482800+00:00</updated>
+    <updated>2025-05-06T05:03:30.469545+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ordo-2023-2034</summary>
   </entry>
   <entry>
     <title>Framing the Market: The Unexpected Commonalities between Karl Polanyi and the Ordoliberals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2003/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2003</id>
-    <updated>2025-05-04T22:10:51.482804+00:00</updated>
+    <updated>2025-05-06T05:03:30.469550+00:00</updated>
     <summary>Article by Erwin Dekker
 DOI: https://doi.org/10.1515/ordo-2023-2003</summary>
   </entry>
@@ -37,7 +34,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2003</summary>
     <title>Den Fronsperger finde ich geistesgeschichtlich aufregend interessant</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2005/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2005</id>
-    <updated>2025-05-04T22:10:51.482810+00:00</updated>
+    <updated>2025-05-06T05:03:30.469561+00:00</updated>
     <summary>Article by Rainer Klump, Lars Pilz
 DOI: https://doi.org/10.1515/ordo-2023-2005</summary>
   </entry>
@@ -45,7 +42,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2005</summary>
     <title>Institutioneller Wandel im Werk von Götz Briefs</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2004/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2004</id>
-    <updated>2025-05-04T22:10:51.482816+00:00</updated>
+    <updated>2025-05-06T05:03:30.469567+00:00</updated>
     <summary>Article by Daniel Eissrich
 DOI: https://doi.org/10.1515/ordo-2023-2004</summary>
   </entry>
@@ -53,7 +50,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2004</summary>
     <title>Gustav Schmoller and the Idea of a Social Market Economy: A Precursor to Ordoliberalism?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2007/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2007</id>
-    <updated>2025-05-04T22:10:51.482822+00:00</updated>
+    <updated>2025-05-06T05:03:30.469576+00:00</updated>
     <summary>Article by Matthias Störring, Nils Goldschmidt
 DOI: https://doi.org/10.1515/ordo-2023-2007</summary>
   </entry>
@@ -61,7 +58,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2007</summary>
     <title>“Corporate Social Responsibility” avant la lettre? Welche Narrative unternehmerischer Verantwortung hat die deutschsprachige Volkswirtschaftslehre im 20. Jahrhundert vermittelt?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2012/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2012</id>
-    <updated>2025-05-04T22:10:51.482829+00:00</updated>
+    <updated>2025-05-06T05:03:30.469583+00:00</updated>
     <summary>Article by Christian Hecker
 DOI: https://doi.org/10.1515/ordo-2023-2012</summary>
   </entry>
@@ -69,7 +66,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2012</summary>
     <title>Private Militärunternehmer aus institutionenökonomischer Sicht</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2014/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2014</id>
-    <updated>2025-05-04T22:10:51.482834+00:00</updated>
+    <updated>2025-05-06T05:03:30.469588+00:00</updated>
     <summary>Article by Frank Daumann
 DOI: https://doi.org/10.1515/ordo-2023-2014</summary>
   </entry>
@@ -77,7 +74,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2014</summary>
     <title>Ordnungspolitische Handlungsspielräume des Anwohnerparkens in deutschen Städten – ökonomische und kalkulatorische Grundlagen zur kostenwahren Bepreisung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2013/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2013</id>
-    <updated>2025-05-04T22:10:51.482840+00:00</updated>
+    <updated>2025-05-06T05:03:30.469594+00:00</updated>
     <summary>Article by Maike Erić
 DOI: https://doi.org/10.1515/ordo-2023-2013</summary>
   </entry>
@@ -85,7 +82,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2013</summary>
     <title>The Rule of Law at Risk: The Dark Side of the Digital Markets Act</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2016/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2016</id>
-    <updated>2025-05-04T22:10:51.482846+00:00</updated>
+    <updated>2025-05-06T05:03:30.469599+00:00</updated>
     <summary>Article by Maya-Salomé Garnier
 DOI: https://doi.org/10.1515/ordo-2023-2016</summary>
   </entry>
@@ -93,7 +90,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2016</summary>
     <title>Impfstoffmärkte, COVID-19 und gesundheitspolitische Maßnahmen in Deutschland: Ordnungsökonomische Anmerkungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2010/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2010</id>
-    <updated>2025-05-04T22:10:51.482851+00:00</updated>
+    <updated>2025-05-06T05:03:30.469610+00:00</updated>
     <summary>Article by Björn A. Kuchinke
 DOI: https://doi.org/10.1515/ordo-2023-2010</summary>
   </entry>
@@ -101,7 +98,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2010</summary>
     <title>Eine Überprüfung der Informationsquellen für Inflationserwartungen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2002/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2002</id>
-    <updated>2025-05-04T22:10:51.482858+00:00</updated>
+    <updated>2025-05-06T05:03:30.469615+00:00</updated>
     <summary>Article by Timo Pascal Kaiser
 DOI: https://doi.org/10.1515/ordo-2023-2002</summary>
   </entry>
@@ -109,7 +106,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2002</summary>
     <title>Geld- und Finanzpolitik in der Corona-Zeit aus sozialethischer Perspektive</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2018/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2018</id>
-    <updated>2025-05-04T22:10:51.482863+00:00</updated>
+    <updated>2025-05-06T05:03:30.469620+00:00</updated>
     <summary>Article by Elmar Nass
 DOI: https://doi.org/10.1515/ordo-2023-2018</summary>
   </entry>
@@ -117,7 +114,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2018</summary>
     <title>Niedrigzinspolitik und Sparkultur in Japan: Implikationen für die Wirtschaftspolitik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2001/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2001</id>
-    <updated>2025-05-04T22:10:51.482868+00:00</updated>
+    <updated>2025-05-06T05:03:30.469627+00:00</updated>
     <summary>Article by Gunther Schnabl, Tim Sepp
 DOI: https://doi.org/10.1515/ordo-2023-2001</summary>
   </entry>
@@ -125,7 +122,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2001</summary>
     <title>Ist die Forderung nach direkter Demokratie populistisch?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2017/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2017</id>
-    <updated>2025-05-04T22:10:51.482878+00:00</updated>
+    <updated>2025-05-06T05:03:30.469633+00:00</updated>
     <summary>Article by Nils Hesse
 DOI: https://doi.org/10.1515/ordo-2023-2017</summary>
   </entry>
@@ -133,7 +130,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2017</summary>
     <title>Umsetzung der Schuldenbremse in Eigenverantwortung der Länder</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2019/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2019</id>
-    <updated>2025-05-04T22:10:51.482883+00:00</updated>
+    <updated>2025-05-06T05:03:30.469638+00:00</updated>
     <summary>Article by Julia Fischer, Gunther Markwardt
 DOI: https://doi.org/10.1515/ordo-2023-2019</summary>
   </entry>
@@ -141,7 +138,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2019</summary>
     <title>Individual Hope and Cultural Despair among the early Ordoliberals</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2033/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2033</id>
-    <updated>2025-05-04T22:10:51.482888+00:00</updated>
+    <updated>2025-05-06T05:03:30.469643+00:00</updated>
     <summary>Article by Erwin Dekker
 DOI: https://doi.org/10.1515/ordo-2023-2033</summary>
   </entry>
@@ -149,7 +146,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2033</summary>
     <title>Liberalism in Dark Times</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2025/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2025</id>
-    <updated>2025-05-04T22:10:51.482893+00:00</updated>
+    <updated>2025-05-06T05:03:30.469648+00:00</updated>
     <summary>Article by Karen Horn
 DOI: https://doi.org/10.1515/ordo-2023-2025</summary>
   </entry>
@@ -157,7 +154,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2025</summary>
     <title>Soziale Marktwirtschaft kann Krise!</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2035/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2035</id>
-    <updated>2025-05-04T22:10:51.482898+00:00</updated>
+    <updated>2025-05-06T05:03:30.469652+00:00</updated>
     <summary>Article by Anselm Küsters
 DOI: https://doi.org/10.1515/ordo-2023-2035</summary>
   </entry>
@@ -165,7 +162,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2035</summary>
     <title>Die Realität des Risikos: Über den vernünftigen Umgang mit Gefahren</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2026/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2026</id>
-    <updated>2025-05-04T22:10:51.482903+00:00</updated>
+    <updated>2025-05-06T05:03:30.469657+00:00</updated>
     <summary>Article by Marius May
 DOI: https://doi.org/10.1515/ordo-2023-2026</summary>
   </entry>
@@ -173,7 +170,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2026</summary>
     <title>Österreichische Wissenschaftstheorie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2027/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2027</id>
-    <updated>2025-05-04T22:10:51.482908+00:00</updated>
+    <updated>2025-05-06T05:03:30.469662+00:00</updated>
     <summary>Article by Wilhelm Meyer
 DOI: https://doi.org/10.1515/ordo-2023-2027</summary>
   </entry>
@@ -181,7 +178,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2027</summary>
     <title>Grundzüge der Wirtschafts- und Unternehmensethik</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2028/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2028</id>
-    <updated>2025-05-04T22:10:51.482913+00:00</updated>
+    <updated>2025-05-06T05:03:30.469670+00:00</updated>
     <summary>Article by Hans-Jörg Naumer
 DOI: https://doi.org/10.1515/ordo-2023-2028</summary>
   </entry>
@@ -189,7 +186,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2028</summary>
     <title>Klima muss sich lohnen: Ökonomische Vernunft für ein gutes Gewissen</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2029/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2029</id>
-    <updated>2025-05-04T22:10:51.482918+00:00</updated>
+    <updated>2025-05-06T05:03:30.469676+00:00</updated>
     <summary>Article by Sebastian Panreck
 DOI: https://doi.org/10.1515/ordo-2023-2029</summary>
   </entry>
@@ -197,7 +194,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2029</summary>
     <title>Wirtschaftskrieg. Rivalität ökonomisch zu Ende denken</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2030/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2030</id>
-    <updated>2025-05-04T22:10:51.482922+00:00</updated>
+    <updated>2025-05-06T05:03:30.469681+00:00</updated>
     <summary>Article by Ingo Pies
 DOI: https://doi.org/10.1515/ordo-2023-2030</summary>
   </entry>
@@ -205,7 +202,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2030</summary>
     <title>F. A. Hayek and the Epistemology of Politics</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2031/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2031</id>
-    <updated>2025-05-04T22:10:51.482927+00:00</updated>
+    <updated>2025-05-06T05:03:30.469685+00:00</updated>
     <summary>Article by Viktor J. Vanberg
 DOI: https://doi.org/10.1515/ordo-2023-2031</summary>
   </entry>
@@ -213,7 +210,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2031</summary>
     <title>Die politische Theorie des Neoliberalismus</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2032/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2032</id>
-    <updated>2025-05-04T22:10:51.482933+00:00</updated>
+    <updated>2025-05-06T05:03:30.469690+00:00</updated>
     <summary>Article by Gerhard Wegner
 DOI: https://doi.org/10.1515/ordo-2023-2032</summary>
   </entry>
@@ -221,14 +218,14 @@ DOI: https://doi.org/10.1515/ordo-2023-2032</summary>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-frontmatter1/html"/>
     <id>https://doi.org/10.1515/ordo-2023-frontmatter1</id>
-    <updated>2025-05-04T22:10:51.482938+00:00</updated>
+    <updated>2025-05-06T05:03:30.469695+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/ordo-2023-frontmatter1</summary>
   </entry>
   <entry>
     <title>Künstliche Intelligenz als Ersatz für Märkte und Wettbewerb?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2006/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2006</id>
-    <updated>2025-05-04T22:10:51.482942+00:00</updated>
+    <updated>2025-05-06T05:03:30.469700+00:00</updated>
     <summary>Article by Hubertus Bardt, Stefan Kooths
 DOI: https://doi.org/10.1515/ordo-2023-2006</summary>
   </entry>
@@ -236,7 +233,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2006</summary>
     <title>Entwicklungen der Vorstandsabfindungen von 2010 bis 2019</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2011/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2011</id>
-    <updated>2025-05-04T22:10:51.482947+00:00</updated>
+    <updated>2025-05-06T05:03:30.469705+00:00</updated>
     <summary>Article by Ute Schottmüller-Einwag, Alexander Dilger
 DOI: https://doi.org/10.1515/ordo-2023-2011</summary>
   </entry>
@@ -244,7 +241,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2011</summary>
     <title>Regulating Big Tech: From Competition Policy to Sector Regulation?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2015/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2015</id>
-    <updated>2025-05-04T22:10:51.482952+00:00</updated>
+    <updated>2025-05-06T05:03:30.469710+00:00</updated>
     <summary>Article by Oliver Budzinski, Juliane Mendelsohn
 DOI: https://doi.org/10.1515/ordo-2023-2015</summary>
   </entry>
@@ -252,7 +249,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2015</summary>
     <title>Bürokratieabbau durch Sunset-Legislation</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2009/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2009</id>
-    <updated>2025-05-04T22:10:51.482957+00:00</updated>
+    <updated>2025-05-06T05:03:30.469715+00:00</updated>
     <summary>Article by Andreas Freytag, Sebastian Schuhmann
 DOI: https://doi.org/10.1515/ordo-2023-2009</summary>
   </entry>
@@ -260,7 +257,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2009</summary>
     <title>Kapitalismus – die Wirtschaftsform des Gebens</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2008/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2008</id>
-    <updated>2025-05-04T22:10:51.482961+00:00</updated>
+    <updated>2025-05-06T05:03:30.469720+00:00</updated>
     <summary>Article by Martin Rhonheimer
 DOI: https://doi.org/10.1515/ordo-2023-2008</summary>
   </entry>
@@ -268,7 +265,7 @@ DOI: https://doi.org/10.1515/ordo-2023-2008</summary>
     <title>A Political Economy of Power. Ordoliberalism in Context, 1932–1950</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/ordo-2023-2022/html"/>
     <id>https://doi.org/10.1515/ordo-2023-2022</id>
-    <updated>2025-05-04T22:10:51.482966+00:00</updated>
+    <updated>2025-05-06T05:03:30.469725+00:00</updated>
     <summary>Article by Arndt Christiansen
 DOI: https://doi.org/10.1515/ordo-2023-2022</summary>
   </entry>

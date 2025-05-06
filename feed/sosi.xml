@@ -1,28 +1,25 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Sozialer Sinn</title>
-  <link href="https://www.degruyterbrill.com/journal/key/sosi/25/2/html"/>
-  <updated>2025-05-04T22:12:36.270860+00:00</updated>
-  <author>
-    <name>Alexander Winkler</name>
-    <uri>https://orcid.org/0000-0002-9145-7238</uri>
-  </author>
+  <link href="https://www.degruyterbrill.com/journal/key/sosi/25/2/html" rel="via"/>
+  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sosi.xml" type="application/rss+xml" rel="self"/>
+  <link href="https://www.degruyterbrill.com/journal/key/sosi/html" rel="related"/>
+  <updated>2025-05-06T05:05:55.960098+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sosi.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Sozialer Sinn</subtitle>
-  <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sosi.xml" type="application/rss+xml"/>
   <entry>
     <title>Frontmatter</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-frontmatter2/html"/>
     <id>https://doi.org/10.1515/sosi-2024-frontmatter2</id>
-    <updated>2025-05-04T22:12:36.270891+00:00</updated>
+    <updated>2025-05-06T05:05:55.960115+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/sosi-2024-frontmatter2</summary>
   </entry>
   <entry>
     <title>Einleitung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0008/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0008</id>
-    <updated>2025-05-04T22:12:36.270900+00:00</updated>
+    <updated>2025-05-06T05:05:55.960122+00:00</updated>
     <summary>Article by Wassilios Baros, Heinz Sünker
 DOI: https://doi.org/10.1515/sosi-2024-0008</summary>
   </entry>
@@ -30,7 +27,7 @@ DOI: https://doi.org/10.1515/sosi-2024-0008</summary>
     <title>„Das Hoffen lernen“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0009/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0009</id>
-    <updated>2025-05-04T22:12:36.270912+00:00</updated>
+    <updated>2025-05-06T05:05:55.960130+00:00</updated>
     <summary>Article by Dominik Novkovic
 DOI: https://doi.org/10.1515/sosi-2024-0009</summary>
   </entry>
@@ -38,7 +35,7 @@ DOI: https://doi.org/10.1515/sosi-2024-0009</summary>
     <title>Krisenerfahrung, Hoffnung und der utopische Raum transformatorischer Bildung</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0010/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0010</id>
-    <updated>2025-05-04T22:12:36.270921+00:00</updated>
+    <updated>2025-05-06T05:05:55.960135+00:00</updated>
     <summary>Article by Thomas Eppenstein
 DOI: https://doi.org/10.1515/sosi-2024-0010</summary>
   </entry>
@@ -46,7 +43,7 @@ DOI: https://doi.org/10.1515/sosi-2024-0010</summary>
     <title>Hoffnung und Prozessmaterie</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0011/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0011</id>
-    <updated>2025-05-04T22:12:36.270932+00:00</updated>
+    <updated>2025-05-06T05:05:55.960140+00:00</updated>
     <summary>Article by Moritz Krebs
 DOI: https://doi.org/10.1515/sosi-2024-0011</summary>
   </entry>
@@ -54,7 +51,7 @@ DOI: https://doi.org/10.1515/sosi-2024-0011</summary>
     <title>„Nun haben wir zu beginnen.“</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0012/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0012</id>
-    <updated>2025-05-04T22:12:36.270942+00:00</updated>
+    <updated>2025-05-06T05:05:55.960144+00:00</updated>
     <summary>Article by Jirko Piberger
 DOI: https://doi.org/10.1515/sosi-2024-0012</summary>
   </entry>
@@ -62,7 +59,7 @@ DOI: https://doi.org/10.1515/sosi-2024-0012</summary>
     <title>Empirisch widerlegt, nicht anschlussfähig, unzeitgemäß… Fehlt der Soziologie psychischer Störungen ein Paradigma?</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0013/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0013</id>
-    <updated>2025-05-04T22:12:36.270950+00:00</updated>
+    <updated>2025-05-06T05:05:55.960149+00:00</updated>
     <summary>Article by Monique Lathan
 DOI: https://doi.org/10.1515/sosi-2024-0013</summary>
   </entry>
@@ -70,7 +67,7 @@ DOI: https://doi.org/10.1515/sosi-2024-0013</summary>
     <title>Wenn aus Routinen Krisen werden</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/sosi-2024-0014/html"/>
     <id>https://doi.org/10.1515/sosi-2024-0014</id>
-    <updated>2025-05-04T22:12:36.270958+00:00</updated>
+    <updated>2025-05-06T05:05:55.960154+00:00</updated>
     <summary>Article by Uwe Raven
 DOI: https://doi.org/10.1515/sosi-2024-0014</summary>
   </entry>
