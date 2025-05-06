@@ -89,11 +89,11 @@ def generateFeed(key, journalTitle, journalUrl, issueTitle, issueItems):
     CH_timestamp = etree.SubElement(root, "updated")
     CH_timestamp.text = issueItems[0].get('date')
 
-    CH_author = etree.SubElement(root, "author")
-    CH_authName = etree.SubElement(CH_author, "name")
-    CH_authName.text = "Alexander Winkler"
-    CH_URI = etree.SubElement(CH_author, "uri")
-    CH_URI.text = "https://orcid.org/0000-0002-9145-7238"
+    # CH_author = etree.SubElement(root, "author")
+    # CH_authName = etree.SubElement(CH_author, "name")
+    # CH_authName.text = "Alexander Winkler"
+    # CH_URI = etree.SubElement(CH_author, "uri")
+    # CH_URI.text = "https://orcid.org/0000-0002-9145-7238"
 
     CH_id = etree.SubElement(root, "id")
     CH_id.text = f"https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/{key}.xml"
