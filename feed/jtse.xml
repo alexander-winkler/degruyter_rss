@@ -1,34 +1,34 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Time Series Econometrics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jtse/16/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jtse/17/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtse.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jtse/html" rel="related"/>
-  <updated>2025-05-06T05:00:48.067559+00:00</updated>
+  <updated>2025-05-21T18:40:14.330545+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jtse.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Time Series Econometrics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/jtse-2024-frontmatter2</id>
-    <updated>2025-05-06T05:00:48.067592+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jtse-2024-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jtse-2025-frontmatter1</id>
+    <updated>2025-05-21T18:40:14.330573+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jtse-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>Recurrent Neural Network GO-GARCH Model for Portfolio Selection</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2023-0012/html"/>
-    <id>https://doi.org/10.1515/jtse-2023-0012</id>
-    <updated>2025-05-06T05:00:48.067604+00:00</updated>
-    <summary>Article by Martin Burda, Adrian K. Schroeder
-DOI: https://doi.org/10.1515/jtse-2023-0012</summary>
+    <title>VS-LTGARCHX: A Flexible Variable Selection in Log-TGARCHX Models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2023-0035/html"/>
+    <id>https://doi.org/10.1515/jtse-2023-0035</id>
+    <updated>2025-05-21T18:40:14.330581+00:00</updated>
+    <summary>Article by Samir Orujov, Victor Elvira, Audrey Poterie, Farid Rajabov, Francois Septier
+DOI: https://doi.org/10.1515/jtse-2023-0035</summary>
   </entry>
   <entry>
-    <title>Forecasting the Risk of Cryptocurrencies: Comparison and Combination of GARCH and Stochastic Volatility Models</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2023-0039/html"/>
-    <id>https://doi.org/10.1515/jtse-2023-0039</id>
-    <updated>2025-05-06T05:00:48.067616+00:00</updated>
-    <summary>Article by Jan Prüser
-DOI: https://doi.org/10.1515/jtse-2023-0039</summary>
+    <title>Forecasting High-Dimensional Portfolios</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jtse-2023-0011/html"/>
+    <id>https://doi.org/10.1515/jtse-2023-0011</id>
+    <updated>2025-05-21T18:40:14.330591+00:00</updated>
+    <summary>Article by Raffaele Mattera
+DOI: https://doi.org/10.1515/jtse-2023-0011</summary>
   </entry>
 </feed>
