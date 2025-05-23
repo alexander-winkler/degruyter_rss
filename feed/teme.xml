@@ -1,74 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>tm - Technisches Messen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/teme/92/5/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/teme/92/6/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/teme/html" rel="related"/>
-  <updated>2025-05-06T05:06:19.581654+00:00</updated>
+  <updated>2025-05-23T19:42:52.461767+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in tm - Technisches Messen</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter5/html"/>
-    <id>https://doi.org/10.1515/teme-2025-frontmatter5</id>
-    <updated>2025-05-06T05:06:19.581693+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter5</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter6/html"/>
+    <id>https://doi.org/10.1515/teme-2025-frontmatter6</id>
+    <updated>2025-05-23T19:42:52.461785+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter6</summary>
   </entry>
   <entry>
-    <title>XXXVIII. Messtechnisches Symposium des AHMT in Hall in Tirol</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0046/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0046</id>
-    <updated>2025-05-06T05:06:19.581701+00:00</updated>
-    <summary>Article by Alexander Sutor
-DOI: https://doi.org/10.1515/teme-2025-0046</summary>
+    <title>6. Workshop ,,Messtechnische Anwendungen von Ultraschall“ vom 17. bis 19. Juni 2024 im Kloster Drübeck</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0066/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0066</id>
+    <updated>2025-05-23T19:42:52.461794+00:00</updated>
+    <summary>Article by Bernd Henning
+DOI: https://doi.org/10.1515/teme-2025-0066</summary>
   </entry>
   <entry>
-    <title>Review and perspectives of the force-displacement measurement system with electromagnetic and electrostatic force compensation principles</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0005/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0005</id>
-    <updated>2025-05-06T05:06:19.581712+00:00</updated>
-    <summary>Article by Valeriya Cherkasova
-DOI: https://doi.org/10.1515/teme-2025-0005</summary>
+    <title>Estimation of piezoelectric material parameters of ring-shaped specimens</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0107/html"/>
+    <id>https://doi.org/10.1515/teme-2024-0107</id>
+    <updated>2025-05-23T19:42:52.461800+00:00</updated>
+    <summary>Article by Olga Friesen, Leander Claes, Nadine Feldmann, Bernd Henning
+DOI: https://doi.org/10.1515/teme-2024-0107</summary>
   </entry>
   <entry>
-    <title>Optimizing defect detection in connections of power electronics by laser speckle photometry</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0006/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0006</id>
-    <updated>2025-05-06T05:06:19.581720+00:00</updated>
-    <summary>Article by Lennard Surner, Lili Chen, Beatrice Bendjus, Gerald Gerlach
-DOI: https://doi.org/10.1515/teme-2025-0006</summary>
+    <title>Phased-Array basiertes Structural Health Monitoring zur Delaminationserkennung bei Mehrschichtsystemen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0111/html"/>
+    <id>https://doi.org/10.1515/teme-2024-0111</id>
+    <updated>2025-05-23T19:42:52.461806+00:00</updated>
+    <summary>Article by Alexander Backer, Klaus Stefan Drese
+DOI: https://doi.org/10.1515/teme-2024-0111</summary>
   </entry>
   <entry>
-    <title>Design methodology and uncertainty estimation of a wireless sensor network for surface strain and shape measurements</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0008/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0008</id>
-    <updated>2025-05-06T05:06:19.581727+00:00</updated>
-    <summary>Article by Lars-Michel Bretthauer, Ralf Heynicke, Gerd Scholl
-DOI: https://doi.org/10.1515/teme-2025-0008</summary>
+    <title>Luftgekoppelter Ultraschall für die Prüfung des Alterungszustandes von Klebeverbindungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0115/html"/>
+    <id>https://doi.org/10.1515/teme-2024-0115</id>
+    <updated>2025-05-23T19:42:52.461811+00:00</updated>
+    <summary>Article by Christian Gragert, Christoph Pientschke
+DOI: https://doi.org/10.1515/teme-2024-0115</summary>
   </entry>
   <entry>
-    <title>High-resolution coherence scanning immersion interferometry for characterization of sub-micrometer surface structures</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0011/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0011</id>
-    <updated>2025-05-06T05:06:19.581734+00:00</updated>
-    <summary>Article by Andre Stelter, Eireen Käkel, Hartmut Hillmer, Peter Lehmann
-DOI: https://doi.org/10.1515/teme-2025-0011</summary>
+    <title>Sensitivity analysis of piezoelectric material parameters using Sobol indices</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0116/html"/>
+    <id>https://doi.org/10.1515/teme-2024-0116</id>
+    <updated>2025-05-23T19:42:52.461816+00:00</updated>
+    <summary>Article by Franziska Anderl, Michael Mayle
+DOI: https://doi.org/10.1515/teme-2024-0116</summary>
   </entry>
   <entry>
-    <title>Using laser Doppler extensometry with polarization diversity to measure strain in high-speed tensile testing</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0014/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0014</id>
-    <updated>2025-05-06T05:06:19.581745+00:00</updated>
-    <summary>Article by Fangjian Wang, Marcel Hess, Johannes Wölck, Christian Rembe
-DOI: https://doi.org/10.1515/teme-2025-0014</summary>
+    <title>Investigations on anelastic effects in electrical discharge machined titan grade 2 flexures for the use in precision force instruments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0020/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0020</id>
+    <updated>2025-05-23T19:42:52.461821+00:00</updated>
+    <summary>Article by Norbert Rogge, Hannes Jahn, Markus Pabst, Vitalii Shmagun, Lena Zentner, Thomas Fröhlich
+DOI: https://doi.org/10.1515/teme-2025-0020</summary>
   </entry>
   <entry>
-    <title>Edge width and edge gradient: influence on accuracy when measuring areas in lossily compressed images</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0019/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0019</id>
-    <updated>2025-05-06T05:06:19.581753+00:00</updated>
-    <summary>Article by Niels-Ole Rohweder, Lisa Alena Raimund, Christian Rembe
-DOI: https://doi.org/10.1515/teme-2025-0019</summary>
+    <title>2D image-based electrical contact surface degradation and its health assessment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0003/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0003</id>
+    <updated>2025-05-23T19:42:52.461826+00:00</updated>
+    <summary>Article by Guojin Liu, Yuze Yang, Lekang Wang, Xu Liu, Xujing Wang
+DOI: https://doi.org/10.1515/teme-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>From marker features to multimodal fusion: a review of vision-based tactile sensor design and development</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0001/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0001</id>
+    <updated>2025-05-23T19:42:52.461831+00:00</updated>
+    <summary>Article by Ning Han, Shen Jingjin
+DOI: https://doi.org/10.1515/teme-2025-0001</summary>
   </entry>
 </feed>

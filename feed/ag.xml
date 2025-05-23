@@ -1,337 +1,259 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Die Aktiengesellschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ag/70/10/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ag/70/11/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ag.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/ag/html" rel="related"/>
-  <updated>2025-05-21T18:33:11.232974+00:00</updated>
+  <updated>2025-05-23T19:30:37.928903+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ag.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Die Aktiengesellschaft</subtitle>
   <entry>
     <title>Titelei</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-frontmatter7010/html"/>
-    <id>https://doi.org/10.9785/ag-2025-frontmatter7010</id>
-    <updated>2025-05-21T18:33:11.232996+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-frontmatter7010</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-frontmatter7011/html"/>
+    <id>https://doi.org/10.9785/ag-2025-frontmatter7011</id>
+    <updated>2025-05-23T19:30:37.928921+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-frontmatter7011</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-toc7010/html"/>
-    <id>https://doi.org/10.9785/ag-2025-toc7010</id>
-    <updated>2025-05-21T18:33:11.233003+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-toc7010</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-toc7011/html"/>
+    <id>https://doi.org/10.9785/ag-2025-toc7011</id>
+    <updated>2025-05-23T19:30:37.928926+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-toc7011</summary>
   </entry>
   <entry>
-    <title>25 Jahre Exchange Traded Funds in Europa</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701003/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701003</id>
-    <updated>2025-05-21T18:33:11.233008+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701003</summary>
-  </entry>
-  <entry>
-    <title>Spanische Börse lanciert neues System für Devisengeschäftsabwicklung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701005/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701005</id>
-    <updated>2025-05-21T18:33:11.233015+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701005</summary>
-  </entry>
-  <entry>
-    <title>One Trading startet Handelsplatz für unbefristete Terminkontrakte in der EU</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701004/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701004</id>
-    <updated>2025-05-21T18:33:11.233020+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701004</summary>
-  </entry>
-  <entry>
-    <title>ICE und Circle unterzeichnen Absichtserklärung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701009/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701009</id>
-    <updated>2025-05-21T18:33:11.233025+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701009</summary>
-  </entry>
-  <entry>
-    <title>China emittiert grüne Staatsanleihen an der Londoner Börse</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701006/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701006</id>
-    <updated>2025-05-21T18:33:11.233030+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701006</summary>
-  </entry>
-  <entry>
-    <title>Investors Exchange plant Start von Optionen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701008/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701008</id>
-    <updated>2025-05-21T18:33:11.233035+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701008</summary>
-  </entry>
-  <entry>
-    <title>SEC lässt Green Impact Exchange zu</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701007/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701007</id>
-    <updated>2025-05-21T18:33:11.233040+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701007</summary>
+    <title>Nutzung von künstlicher Intelligenz steigt. Part 1</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701108/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701108</id>
+    <updated>2025-05-23T19:30:37.928930+00:00</updated>
+    <summary>Article by Marion Müller
+DOI: https://doi.org/10.9785/ag-2025-701108</summary>
   </entry>
   <entry>
     <title>Impressum</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701030/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701030</id>
-    <updated>2025-05-21T18:33:11.233045+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701030</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701124/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701124</id>
+    <updated>2025-05-23T19:30:37.928935+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-701124</summary>
   </entry>
   <entry>
-    <title>Cboe führt neue Bitcoin Indexfutures ein</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701020/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701020</id>
-    <updated>2025-05-21T18:33:11.233050+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701020</summary>
-  </entry>
-  <entry>
-    <title>Strategieplan der Dubai Financial Services Authority</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701021/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701021</id>
-    <updated>2025-05-21T18:33:11.233055+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701021</summary>
-  </entry>
-  <entry>
-    <title>24 Exchange startet Devisenswap-Handel mit Echtzeit-Kreditzuteilung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701022/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701022</id>
-    <updated>2025-05-21T18:33:11.233059+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701022</summary>
-  </entry>
-  <entry>
-    <title>Börse Bermuda führt neue Handels- und Abwicklungsplattform ein</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701023/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701023</id>
-    <updated>2025-05-21T18:33:11.233064+00:00</updated>
-    <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701023</summary>
-  </entry>
-  <entry>
-    <title>Wirtschaftliche Lage deutscher Unternehmen bleibt angespannt</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701024/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701024</id>
-    <updated>2025-05-21T18:33:11.233069+00:00</updated>
+    <title>Nutzung von künstlicher Intelligenz steigt. Part 2</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701118/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701118</id>
+    <updated>2025-05-23T19:30:37.928939+00:00</updated>
     <summary>Article by Marion Müller
-DOI: https://doi.org/10.9785/ag-2025-701024</summary>
+DOI: https://doi.org/10.9785/ag-2025-701118</summary>
   </entry>
   <entry>
-    <title>Maschinenbau: Investitionen nehmen wieder zu</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701025/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701025</id>
-    <updated>2025-05-21T18:33:11.233074+00:00</updated>
+    <title>Zahlungsarten im Einzelhandel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701119/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701119</id>
+    <updated>2025-05-23T19:30:37.928943+00:00</updated>
     <summary>Article by Marion Müller
-DOI: https://doi.org/10.9785/ag-2025-701025</summary>
+DOI: https://doi.org/10.9785/ag-2025-701119</summary>
   </entry>
   <entry>
-    <title>Stiftungen in Deutschland</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701026/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701026</id>
-    <updated>2025-05-21T18:33:11.233078+00:00</updated>
+    <title>Wirtschaftliche Entwicklung der Wellpappenindustrie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701120/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701120</id>
+    <updated>2025-05-23T19:30:37.928947+00:00</updated>
     <summary>Article by Marion Müller
-DOI: https://doi.org/10.9785/ag-2025-701026</summary>
+DOI: https://doi.org/10.9785/ag-2025-701120</summary>
   </entry>
   <entry>
-    <title>GEA Group AG — Konzernabschluss zum 31.12.2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701027/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701027</id>
-    <updated>2025-05-21T18:33:11.233087+00:00</updated>
+    <title>Amadeus FiRe AG — Konzernabschluss zum 31.12.2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701121/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701121</id>
+    <updated>2025-05-23T19:30:37.928951+00:00</updated>
     <summary>Article by Christoph Schlienkamp
-DOI: https://doi.org/10.9785/ag-2025-701027</summary>
+DOI: https://doi.org/10.9785/ag-2025-701121</summary>
   </entry>
   <entry>
-    <title>Rheinmetall AG — Konzernabschluss zum 31.12.2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701028/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701028</id>
-    <updated>2025-05-21T18:33:11.233092+00:00</updated>
+    <title>Norma Group SE — Konzernabschluss zum 31.12.2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701122/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701122</id>
+    <updated>2025-05-23T19:30:37.928956+00:00</updated>
     <summary>Article by Christoph Schlienkamp
-DOI: https://doi.org/10.9785/ag-2025-701028</summary>
+DOI: https://doi.org/10.9785/ag-2025-701122</summary>
   </entry>
   <entry>
     <title>Zeitschriftenspiegel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701029/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701029</id>
-    <updated>2025-05-21T18:33:11.233097+00:00</updated>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701123/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701123</id>
+    <updated>2025-05-23T19:30:37.928959+00:00</updated>
     <summary>Article by Rafael Harnos
-DOI: https://doi.org/10.9785/ag-2025-701029</summary>
+DOI: https://doi.org/10.9785/ag-2025-701123</summary>
   </entry>
   <entry>
-    <title>Folgefragen aus dem Vierten Bürokratieentlastungsgesetz für die Hauptversammlungssaison 2025 — Beschlussfeststellung bei vergütungsbezogenen Hauptversammlungsbeschlüssen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701001/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701001</id>
-    <updated>2025-05-21T18:33:11.233102+00:00</updated>
-    <summary>Article by Stefan Mutter, Jessica Werner
-DOI: https://doi.org/10.9785/ag-2025-701001</summary>
+    <title>Unvermeidbarer Verbotsirrtum nach Einholung des Rechtsrats zur Erlaubnispflichtigkeit von Einlagengeschäften — zu BGH v. 20.3.2025 – III ZR 261/23, ZIP 2025, 1080</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701101/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701101</id>
+    <updated>2025-05-23T19:30:37.928964+00:00</updated>
+    <summary>Article by Rafael Harnos
+DOI: https://doi.org/10.9785/ag-2025-701101</summary>
   </entry>
   <entry>
-    <title>Lieferkettenregulierung: Neue Veröffentlichungen des Bundesamtes für Wirtschaft und Ausfuhrkontrolle (BAFA) — FAQ zu risikobasiertem Vorgehen und Handreichung zu externen Instrumenten im Sorgfaltsprozess</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701002/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701002</id>
-    <updated>2025-05-21T18:33:11.233110+00:00</updated>
+    <title>Finaler Bericht der Europäischen Kommission zur Anwendung der Aktionärsrechte-Richtlinien</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701102/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701102</id>
+    <updated>2025-05-23T19:30:37.928968+00:00</updated>
     <summary>Article by Sandra Reich
-DOI: https://doi.org/10.9785/ag-2025-701002</summary>
+DOI: https://doi.org/10.9785/ag-2025-701102</summary>
   </entry>
   <entry>
-    <title>Cboe führt neue Bitcoin Indexfutures ein</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701020/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701020</id>
-    <updated>2025-05-21T18:33:11.233115+00:00</updated>
+    <title>EEX integriert Grexel Systems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701103/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701103</id>
+    <updated>2025-05-23T19:30:37.928972+00:00</updated>
     <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701020</summary>
+DOI: https://doi.org/10.9785/ag-2025-701103</summary>
   </entry>
   <entry>
-    <title>Strategieplan der Dubai Financial Services Authority</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701021/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701021</id>
-    <updated>2025-05-21T18:33:11.233119+00:00</updated>
+    <title>Euronext startet einheitlichen europäischen Prospekt</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701104/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701104</id>
+    <updated>2025-05-23T19:30:37.928976+00:00</updated>
     <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701021</summary>
+DOI: https://doi.org/10.9785/ag-2025-701104</summary>
   </entry>
   <entry>
-    <title>24 Exchange startet Devisenswap-Handel mit Echtzeit-Kreditzuteilung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701022/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701022</id>
-    <updated>2025-05-21T18:33:11.233124+00:00</updated>
+    <title>Eurex plant Futures auf EU-Anleihen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701105/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701105</id>
+    <updated>2025-05-23T19:30:37.928979+00:00</updated>
     <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701022</summary>
+DOI: https://doi.org/10.9785/ag-2025-701105</summary>
   </entry>
   <entry>
-    <title>Börse Bermuda führt neue Handels- und Abwicklungsplattform ein</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701023/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701023</id>
-    <updated>2025-05-21T18:33:11.233128+00:00</updated>
+    <title>Schweizer Börse erweitert Datenabdeckung für festverzinsliche Wertpapiere</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701106/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701106</id>
+    <updated>2025-05-23T19:30:37.928983+00:00</updated>
     <summary>Article by Marianne Gajo
-DOI: https://doi.org/10.9785/ag-2025-701023</summary>
+DOI: https://doi.org/10.9785/ag-2025-701106</summary>
   </entry>
   <entry>
-    <title>Konzernrechtsvergleichung innerhalb des deutschen Rechtskreises: Kontrastfolien aus Österreich und der Schweiz</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701010/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701010</id>
-    <updated>2025-05-21T18:33:11.233132+00:00</updated>
-    <summary>Article by Holger Fleischer
-DOI: https://doi.org/10.9785/ag-2025-701010</summary>
+    <title>Börse Tel Aviv startet neues Market-Making-Programm</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701107/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701107</id>
+    <updated>2025-05-23T19:30:37.928987+00:00</updated>
+    <summary>Article by Marianne Gajo
+DOI: https://doi.org/10.9785/ag-2025-701107</summary>
   </entry>
   <entry>
-    <title>Verjährung im Übernahmerecht</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701011/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701011</id>
-    <updated>2025-05-21T18:33:11.233136+00:00</updated>
-    <summary>Article by Karl Döding
-DOI: https://doi.org/10.9785/ag-2025-701011</summary>
-  </entry>
-  <entry>
-    <title>Insolvenzrecht: Zur schuldbefreienden Wirkung einer Leistung an Schuldner nach Insolvenzeröffnung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701012/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701012</id>
-    <updated>2025-05-21T18:33:11.233141+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701012</summary>
-  </entry>
-  <entry>
-    <title>Hauptversammlungsrecht: Nachweis der Aktionärseigenschaft in einer nicht börsennotierten Aktiengesellschaft</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701013/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701013</id>
-    <updated>2025-05-21T18:33:11.233146+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701013</summary>
-  </entry>
-  <entry>
-    <title>Firmenrecht: Unterscheidungskraft der Firma bei einem Gattungsbegriff in der Second-Level-Domain</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701014/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701014</id>
-    <updated>2025-05-21T18:33:11.233151+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701014</summary>
-  </entry>
-  <entry>
-    <title>Kostenrecht: Erstattungsfähigkeit von Kosten eines Konzerninkassos</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701015/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701015</id>
-    <updated>2025-05-21T18:33:11.233155+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701015</summary>
-  </entry>
-  <entry>
-    <title>Prozessrecht: Gerichtsstand bei Klagen gegen juristische Personen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701016/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701016</id>
-    <updated>2025-05-21T18:33:11.233159+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701016</summary>
-  </entry>
-  <entry>
-    <title>Übernahmerecht: Wissenszurechnung bei einer öffentlichen Übernahme; Zumutbarkeit der Klageerhebung und Verjährung des übernahmerechtlichen Nachzahlungsanspruchs</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701017/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701017</id>
-    <updated>2025-05-21T18:33:11.233164+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701017</summary>
-  </entry>
-  <entry>
-    <title>Übernahmerecht: Kenntnis der anspruchsbegründenden Umstände und Verjährung des übernahmerechtlichen Nachzahlungsanspruchs; Verzinsung des Nachzahlungsanspruchs</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701018/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701018</id>
-    <updated>2025-05-21T18:33:11.233168+00:00</updated>
-    <summary>DOI: https://doi.org/10.9785/ag-2025-701018</summary>
-  </entry>
-  <entry>
-    <title>Marsch-Barner/Schäfer, Handbuch börsennotierte AG — Aktienrecht und Kapitalmarktrecht. 6. Auflage. Verlag Dr. Otto Schmidt KG, Köln 2025. 2.680 S., gbd. 329 €</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701019/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701019</id>
-    <updated>2025-05-21T18:33:11.233172+00:00</updated>
-    <summary>Article by Philipp Maximilian Holle
-DOI: https://doi.org/10.9785/ag-2025-701019</summary>
-  </entry>
-  <entry>
-    <title>Wirtschaftliche Lage deutscher Unternehmen bleibt angespannt</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701024/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701024</id>
-    <updated>2025-05-21T18:33:11.233177+00:00</updated>
+    <title>Nutzung von künstlicher Intelligenz steigt. Part 2</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701118/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701118</id>
+    <updated>2025-05-23T19:30:37.928990+00:00</updated>
     <summary>Article by Marion Müller
-DOI: https://doi.org/10.9785/ag-2025-701024</summary>
+DOI: https://doi.org/10.9785/ag-2025-701118</summary>
   </entry>
   <entry>
-    <title>Maschinenbau: Investitionen nehmen wieder zu</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701025/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701025</id>
-    <updated>2025-05-21T18:33:11.233268+00:00</updated>
+    <title>Zahlungsarten im Einzelhandel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701119/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701119</id>
+    <updated>2025-05-23T19:30:37.928994+00:00</updated>
     <summary>Article by Marion Müller
-DOI: https://doi.org/10.9785/ag-2025-701025</summary>
+DOI: https://doi.org/10.9785/ag-2025-701119</summary>
   </entry>
   <entry>
-    <title>Stiftungen in Deutschland</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701026/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701026</id>
-    <updated>2025-05-21T18:33:11.233294+00:00</updated>
+    <title>Wirtschaftliche Entwicklung der Wellpappenindustrie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701120/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701120</id>
+    <updated>2025-05-23T19:30:37.928998+00:00</updated>
     <summary>Article by Marion Müller
-DOI: https://doi.org/10.9785/ag-2025-701026</summary>
+DOI: https://doi.org/10.9785/ag-2025-701120</summary>
   </entry>
   <entry>
-    <title>GEA Group AG — Konzernabschluss zum 31.12.2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701027/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701027</id>
-    <updated>2025-05-21T18:33:11.233305+00:00</updated>
+    <title>Kernprobleme der Aufsichtsratshaftung in der gesellschaftlichen Krisenlage — Eine Neubetrachtung im Lichte von Wirecard (LG München I v. 5.9.2024 – 5 HKO 17452/21, AG 2025, 281)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701109/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701109</id>
+    <updated>2025-05-23T19:30:37.929010+00:00</updated>
+    <summary>Article by David Markworth
+DOI: https://doi.org/10.9785/ag-2025-701109</summary>
+  </entry>
+  <entry>
+    <title>Die Haftung des persönlich haftenden Gesellschafters und der Geschäftsleiter in der Kapitalgesellschaft und Co. KGaA für eine fehlerhafte Geschäftsführung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701110/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701110</id>
+    <updated>2025-05-23T19:30:37.929014+00:00</updated>
+    <summary>Article by Marten Schmitt
+DOI: https://doi.org/10.9785/ag-2025-701110</summary>
+  </entry>
+  <entry>
+    <title>Geschäftsleitende Holding-Personengesellschaft als Organträgerin — Anmerkung zu BFH v. 27.11.2024 – I R 23/21, DB 2025, 1182</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701111/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701111</id>
+    <updated>2025-05-23T19:30:37.929019+00:00</updated>
+    <summary>Article by Burkhard Binnewies, Carina Freitag
+DOI: https://doi.org/10.9785/ag-2025-701111</summary>
+  </entry>
+  <entry>
+    <title>D&amp;O-Versicherung: Inhaltskontrolle allgemeiner Versicherungsbedingungen; Mindestkündigungsfrist; Claims-made-Prinzip</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701112/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701112</id>
+    <updated>2025-05-23T19:30:37.929023+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-701112</summary>
+  </entry>
+  <entry>
+    <title>Anlegerschutz: Zum unvermeidbaren Verbotsirrtum beim Betreiben unerlaubter Einlagengeschäfte bei Einschaltung eines Fachanwalts für Bank- und Kapitalmarktrecht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701113/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701113</id>
+    <updated>2025-05-23T19:30:37.929027+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-701113</summary>
+  </entry>
+  <entry>
+    <title>Körperschaftsteuerrecht: Geschäftsleitende Holding-Personengesellschaft als Organträgerin</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701114/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701114</id>
+    <updated>2025-05-23T19:30:37.929031+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-701114</summary>
+  </entry>
+  <entry>
+    <title>Anlegerschutz: Prospektpflicht nach dem Vermögensanlagengesetz bei sog. Private Placements</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701115/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701115</id>
+    <updated>2025-05-23T19:30:37.929034+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-701115</summary>
+  </entry>
+  <entry>
+    <title>Vorstandshaftung: Umfang und Erschöpfung der D&amp;O-Versicherung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701116/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701116</id>
+    <updated>2025-05-23T19:30:37.929038+00:00</updated>
+    <summary>DOI: https://doi.org/10.9785/ag-2025-701116</summary>
+  </entry>
+  <entry>
+    <title>Lutter/Hommelhoff/Teichmann, SE-Kommentar — 3. Auflage. Verlag Dr. Otto Schmidt KG, Köln 2025. 1.515 S., gbd. 279 €</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701117/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701117</id>
+    <updated>2025-05-23T19:30:37.929042+00:00</updated>
+    <summary>Article by Sascha Stiegler
+DOI: https://doi.org/10.9785/ag-2025-701117</summary>
+  </entry>
+  <entry>
+    <title>Amadeus FiRe AG — Konzernabschluss zum 31.12.2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701121/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701121</id>
+    <updated>2025-05-23T19:30:37.929046+00:00</updated>
     <summary>Article by Christoph Schlienkamp
-DOI: https://doi.org/10.9785/ag-2025-701027</summary>
+DOI: https://doi.org/10.9785/ag-2025-701121</summary>
   </entry>
   <entry>
-    <title>Rheinmetall AG — Konzernabschluss zum 31.12.2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701028/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701028</id>
-    <updated>2025-05-21T18:33:11.233311+00:00</updated>
+    <title>Norma Group SE — Konzernabschluss zum 31.12.2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701122/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701122</id>
+    <updated>2025-05-23T19:30:37.929050+00:00</updated>
     <summary>Article by Christoph Schlienkamp
-DOI: https://doi.org/10.9785/ag-2025-701028</summary>
+DOI: https://doi.org/10.9785/ag-2025-701122</summary>
   </entry>
   <entry>
     <title>Zeitschriftenspiegel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701029/html"/>
-    <id>https://doi.org/10.9785/ag-2025-701029</id>
-    <updated>2025-05-21T18:33:11.233321+00:00</updated>
+    <link href="https://www.degruyterbrill.com/document/doi/10.9785/ag-2025-701123/html"/>
+    <id>https://doi.org/10.9785/ag-2025-701123</id>
+    <updated>2025-05-23T19:30:37.929053+00:00</updated>
     <summary>Article by Rafael Harnos
-DOI: https://doi.org/10.9785/ag-2025-701029</summary>
+DOI: https://doi.org/10.9785/ag-2025-701123</summary>
   </entry>
 </feed>

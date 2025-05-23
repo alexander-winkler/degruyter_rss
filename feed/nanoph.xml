@@ -1,90 +1,170 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nanophotonics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/nanoph/14/9/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/nanoph/14/10/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nanoph.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/nanoph/html" rel="related"/>
-  <updated>2025-05-06T05:02:41.299829+00:00</updated>
+  <updated>2025-05-23T19:39:42.265096+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nanoph.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Nanophotonics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-frontmatter9/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-frontmatter9</id>
-    <updated>2025-05-06T05:02:41.299850+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/nanoph-2025-frontmatter9</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-frontmatter10/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-frontmatter10</id>
+    <updated>2025-05-23T19:39:42.265118+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/nanoph-2025-frontmatter10</summary>
   </entry>
   <entry>
-    <title>Anisotropic metamaterials for scalable photonic integrated circuits: a review on subwavelength gratings for high-density integration</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0627/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0627</id>
-    <updated>2025-05-06T05:02:41.299859+00:00</updated>
-    <summary>Article by Yosep Shin, Kyungtae Kim, Jaewhan Lee, Saman Jahani, Zubin Jacob, Sangsik Kim
-DOI: https://doi.org/10.1515/nanoph-2024-0627</summary>
+    <title>Emerging phenomena in nanophotonics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0171/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0171</id>
+    <updated>2025-05-23T19:39:42.265125+00:00</updated>
+    <summary>Article by Donghyun Kim, Cheng-Wei Qiu, Yuri Kivshar, Dong-Il Yeom, Hong-Gyu Park
+DOI: https://doi.org/10.1515/nanoph-2025-0171</summary>
   </entry>
   <entry>
-    <title>Disorder robust, ultra-low power, continuous-wave four-wave mixing in a topological waveguide</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0659/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0659</id>
-    <updated>2025-05-06T05:02:41.299869+00:00</updated>
-    <summary>Article by Ju Won Choi, Byoung-Uk Sohn, George F.R. Chen, Hongwei Gao, William J. Mitchell, Doris K.T. Ng, Dawn T.H. Tan
-DOI: https://doi.org/10.1515/nanoph-2024-0659</summary>
+    <title>Programmable photonic unitary circuits for light computing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0602/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0602</id>
+    <updated>2025-05-23T19:39:42.265132+00:00</updated>
+    <summary>Article by Kyuho Kim, Kunwoo Park, Hyungchul Park, Sunkyu Yu, Namkyoo Park, Xianji Piao
+DOI: https://doi.org/10.1515/nanoph-2024-0602</summary>
   </entry>
   <entry>
-    <title>Continuously adjustable hollow beam for ultrafast laser fabrication of size-controllable nanoparticles</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0690/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0690</id>
-    <updated>2025-05-06T05:02:41.299877+00:00</updated>
-    <summary>Article by Zhi Wang, Peng Yi, Andong Wang, Taoyong Li, Wentao Chen, Xiaolin Qi, Xiaowei Li
-DOI: https://doi.org/10.1515/nanoph-2024-0690</summary>
+    <title>Exploring the frontier: nonlinear optics in low dimensional materials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0652/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0652</id>
+    <updated>2025-05-23T19:39:42.265142+00:00</updated>
+    <summary>Article by Mohammad A. Adeshina, Hyunmin Kim
+DOI: https://doi.org/10.1515/nanoph-2024-0652</summary>
   </entry>
   <entry>
-    <title>Generation of fast photoelectrons in strong-field emission from metal nanoparticles</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0719/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0719</id>
-    <updated>2025-05-06T05:02:41.299884+00:00</updated>
-    <summary>Article by Erfan Saydanzad, Jeffrey Powell, Tim Renner, Adam Summers, Daniel Rolles, Carlos Trallero-Herrero, Matthias F. Kling, Artem Rudenko, Uwe Thumm
-DOI: https://doi.org/10.1515/nanoph-2024-0719</summary>
+    <title>Emergent 2D van der Waals materials photonic sources</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0702/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0702</id>
+    <updated>2025-05-23T19:39:42.265148+00:00</updated>
+    <summary>Article by Kwok Kwan Tang, Chun Li, Changhai Zhu, Peipei Li, Liyun Zhao, Qing Zhang
+DOI: https://doi.org/10.1515/nanoph-2024-0702</summary>
   </entry>
   <entry>
-    <title>Interband plasmonic nanoresonators for enhanced thermoelectric photodetection</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0752/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0752</id>
-    <updated>2025-05-06T05:02:41.299892+00:00</updated>
-    <summary>Article by Golnoush Zamiri, Simon Wredh, Md Abdur Rahman, Nur Qalishah Adanan, Cam Nhung Vu, Hongtao Wang, Deepshikha Arora, Haruya Sugiyama, Wakana Kubo, Zhaogang Dong, Robert E. Simpson, Joel K.W. Yang
-DOI: https://doi.org/10.1515/nanoph-2024-0752</summary>
+    <title>Stimulated Brillouin scattering in micro/nanophotonic waveguides and resonators</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0732/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0732</id>
+    <updated>2025-05-23T19:39:42.265155+00:00</updated>
+    <summary>Article by Linhao Ren, Wenyu Wang, Kang Xu, Liying Zhu, Jun Wang, Lei Shi, Xinliang Zhang
+DOI: https://doi.org/10.1515/nanoph-2024-0732</summary>
   </entry>
   <entry>
-    <title>Low-cost large-area 100 GHz intelligent reflective surface: electrically column control of screen-printable high phase changing ratio vanadium dioxides</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0006/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0006</id>
-    <updated>2025-05-06T05:02:41.299901+00:00</updated>
-    <summary>Article by Eiyong Park, Junghyeon Kim, Minjae Lee, Ratanak Phon, Mihyun Kim, Sunghoon Hong, Sungjoon Lim
-DOI: https://doi.org/10.1515/nanoph-2025-0006</summary>
+    <title>Deterministic generation and nanophotonic integration of 2D quantum emitters for advanced quantum photonic functionalities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0629/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0629</id>
+    <updated>2025-05-23T19:39:42.265161+00:00</updated>
+    <summary>Article by Jae-Pil So
+DOI: https://doi.org/10.1515/nanoph-2024-0629</summary>
   </entry>
   <entry>
-    <title>Metasurface-enabled optical encryption and steganography with enhanced information security</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0015/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0015</id>
-    <updated>2025-05-06T05:02:41.299911+00:00</updated>
-    <summary>Article by Wen Xing, Changke Bu, Xiaoyi Zhang, Duk-Yong Choi, Yang Li, Wenjing Yue, Jiaqi Cheng, Zhancheng Li, Shuqi Chen, Song Gao
-DOI: https://doi.org/10.1515/nanoph-2025-0015</summary>
+    <title>Harnessing in-plane optical anisotropy in WS2through ReS2crystal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0672/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0672</id>
+    <updated>2025-05-23T19:39:42.265167+00:00</updated>
+    <summary>Article by Soyeong Kwon, Tae Keun Yun, Peiwen J. Ma, SungWoo Nam
+DOI: https://doi.org/10.1515/nanoph-2024-0672</summary>
   </entry>
   <entry>
-    <title>Radial rotation of cell-pair under beam mode coupling effect of microcavity cascaded single fiber optical tweezers</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0033/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0033</id>
-    <updated>2025-05-06T05:02:41.299918+00:00</updated>
-    <summary>Article by Zhaoqi Ji, Chunlei Jiang, Peng Chen, Linzhi Yao, Minghui Zhang, Qizan Shi, Cun Zhao, Xiufang Wang, Yu Sun, Taiji Dong
-DOI: https://doi.org/10.1515/nanoph-2025-0033</summary>
+    <title>Frequency-comb-referenced multiwavelength interferometry for high-precision and high-speed 3D measurement in heterogeneous semiconductor packaging</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0578/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0578</id>
+    <updated>2025-05-23T19:39:42.265174+00:00</updated>
+    <summary>Article by Jun Hyung Park, Dae Hee Kim, Huy Hoang Chu, Ji Won Hahm, Guseon Kang, Dongil Lee, Seyong Song, Mingu Kang, Seung-Woo Kim, Young-Jin Kim
+DOI: https://doi.org/10.1515/nanoph-2024-0578</summary>
   </entry>
   <entry>
-    <title>Inverse design of 3D nanophotonic devices with structural integrity using auxiliary thermal solvers</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0067/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0067</id>
-    <updated>2025-05-06T05:02:41.299931+00:00</updated>
-    <summary>Article by Oliver Kuster, Yannick Augenstein, Roberto Narváez Hernández, Carsten Rockstuhl, Thomas Jebb Sturges
-DOI: https://doi.org/10.1515/nanoph-2025-0067</summary>
+    <title>Nanoscale heat generation in a single Si nanowire</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0604/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0604</id>
+    <updated>2025-05-23T19:39:42.265184+00:00</updated>
+    <summary>Article by Jungkil Kim, Hoo-Cheol Lee, Hong-Gyu Park
+DOI: https://doi.org/10.1515/nanoph-2024-0604</summary>
+  </entry>
+  <entry>
+    <title>Visible transparency modulated cooling windows using pseudorandom dielectric multilayers</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0619/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0619</id>
+    <updated>2025-05-23T19:39:42.265191+00:00</updated>
+    <summary>Article by Seok-Beom Seo, Jong-Goog Lee, Jae-Seon Yu, Jae-Hyun Kim, Serang Jung, Gumin Kang, Hyungduk Ko, Run Hu, Eungkyu Lee, Sun-Kyung Kim
+DOI: https://doi.org/10.1515/nanoph-2024-0619</summary>
+  </entry>
+  <entry>
+    <title>W-band frequency selective digital metasurface using active learning-based binary optimization</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0628/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0628</id>
+    <updated>2025-05-23T19:39:42.265197+00:00</updated>
+    <summary>Article by Young-Bin Kim, Jaehyeon Park, Jun-Young Kim, Seok-Beom Seo, Sun-Kyung Kim, Eungkyu Lee
+DOI: https://doi.org/10.1515/nanoph-2024-0628</summary>
+  </entry>
+  <entry>
+    <title>Electrodynamics of photo-carriers in multiferroic Eu0.75Y0.25MnO3</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0641/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0641</id>
+    <updated>2025-05-23T19:39:42.265203+00:00</updated>
+    <summary>Article by Yue Huang, Rolando V. Aguilar, Stuart A. Trugman, Sang-Wook Cheong, Yuan Long, Min-Cheol Lee, Jian-Xin Zhu, Priscila F.S. Rosa, Rohit P. Prasankumar, Dmitry A. Yarotski, Abul Azad, Nicholas S. Sirica, Antoinette J. Taylor
+DOI: https://doi.org/10.1515/nanoph-2024-0641</summary>
+  </entry>
+  <entry>
+    <title>Polarization-independent narrowband photodetection with plasmon-induced thermoelectric effect in a hexagonal array of Au nanoholes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0643/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0643</id>
+    <updated>2025-05-23T19:39:42.265213+00:00</updated>
+    <summary>Article by Sehyeon Kim, San Kim, Jae-Young Kim, Tae-In Jeong, Munki Song, Seungchul Kim
+DOI: https://doi.org/10.1515/nanoph-2024-0643</summary>
+  </entry>
+  <entry>
+    <title>All-optical switch exploiting Fano resonance and subwavelength light confinement</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0644/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0644</id>
+    <updated>2025-05-23T19:39:42.265219+00:00</updated>
+    <summary>Article by Quentin Saudan, Dagmawi A. Bekele, Meng Xiong, Kresten Yvind, Michael Galili, Jesper Mørk
+DOI: https://doi.org/10.1515/nanoph-2024-0644</summary>
+  </entry>
+  <entry>
+    <title>Efficient non-Hermitian wave-modulation protocol with a rapid parametric jump</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0694/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0694</id>
+    <updated>2025-05-23T19:39:42.265226+00:00</updated>
+    <summary>Article by Seung Han Shin, Yu Sung Choi, Yae Jun Kim, Jae Woong Yoon
+DOI: https://doi.org/10.1515/nanoph-2024-0694</summary>
+  </entry>
+  <entry>
+    <title>Colloidal-quantum-dot nanolaser oscillating at a bound-state-in-the-continuum with planar surface topography for a highQ-factor</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0730/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0730</id>
+    <updated>2025-05-23T19:39:42.265235+00:00</updated>
+    <summary>Article by Tae-Yun Lee, Hansol Lee, Heonsu Jeon
+DOI: https://doi.org/10.1515/nanoph-2024-0730</summary>
+  </entry>
+  <entry>
+    <title>On-chip manipulation of trion drift in suspended WS2monolayer at room temperature</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0739/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0739</id>
+    <updated>2025-05-23T19:39:42.265241+00:00</updated>
+    <summary>Article by Woo Hun Choi, Seong Won Lee, Su-Hyun Gong
+DOI: https://doi.org/10.1515/nanoph-2024-0739</summary>
+  </entry>
+  <entry>
+    <title>Resonance modes in microstructured photonic waveguides: efficient and accurate computation based on AAA rational approximation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0755/html"/>
+    <id>https://doi.org/10.1515/nanoph-2024-0755</id>
+    <updated>2025-05-23T19:39:42.265247+00:00</updated>
+    <summary>Article by Felix Binkowski, Fridtjof Betz, Martin Hammerschmidt, Lin Zschiedrich, Sven Burger
+DOI: https://doi.org/10.1515/nanoph-2024-0755</summary>
+  </entry>
+  <entry>
+    <title>Dielectric permittivity extraction of MoS2nanoribbons using THz nanoscopy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0060/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0060</id>
+    <updated>2025-05-23T19:39:42.265253+00:00</updated>
+    <summary>Article by Henrik B. Lassen, William V. Carstensen, Denys I. Miakota, Ganesh Ghimire, Stela Canulescu, Peter U. Jepsen, Edmund J. R. Kelleher
+DOI: https://doi.org/10.1515/nanoph-2025-0060</summary>
   </entry>
 </feed>
