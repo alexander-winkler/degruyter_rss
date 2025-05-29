@@ -1,90 +1,98 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Frequenz</title>
-  <link href="https://www.degruyterbrill.com/journal/key/freq/79/3-4/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/freq/79/5-6/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/freq/html" rel="related"/>
-  <updated>2025-05-06T04:56:29.125788+00:00</updated>
+  <updated>2025-05-29T04:55:51.965191+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Frequenz</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2025-frontmatter3-4/html"/>
-    <id>https://doi.org/10.1515/freq-2025-frontmatter3-4</id>
-    <updated>2025-05-06T04:56:29.125824+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/freq-2025-frontmatter3-4</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2025-frontmatter5-6/html"/>
+    <id>https://doi.org/10.1515/freq-2025-frontmatter5-6</id>
+    <updated>2025-05-29T04:55:51.965209+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/freq-2025-frontmatter5-6</summary>
   </entry>
   <entry>
-    <title>A wideband tunable quadrature coupler with flat coupling</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0200/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0200</id>
-    <updated>2025-05-06T04:56:29.125833+00:00</updated>
-    <summary>Article by Henning Mextorf, Winfried Schernus
-DOI: https://doi.org/10.1515/freq-2024-0200</summary>
+    <title>Accurate channel estimation of on-grid partially coherent compressive phase retrieval for mmWave massive MIMO systems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0250/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0250</id>
+    <updated>2025-05-29T04:55:51.965216+00:00</updated>
+    <summary>Article by Baranidharan Varadharajan, Surendar Maruthu
+DOI: https://doi.org/10.1515/freq-2024-0250</summary>
   </entry>
   <entry>
-    <title>Small size dual-band coupled-line coupler for WiMAX applications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0173/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0173</id>
-    <updated>2025-05-06T04:56:29.125843+00:00</updated>
-    <summary>Article by Samaneh Sedighi Maragheh, Mina Rahimi, Iman Chaharmahali, Massoud Dousti
-DOI: https://doi.org/10.1515/freq-2024-0173</summary>
+    <title>Bandwidth enhancement of resonating absorber using a lossy dielectric layer for RCS reduction in X-band</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0290/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0290</id>
+    <updated>2025-05-29T04:55:51.965222+00:00</updated>
+    <summary>Article by Inbavalli V. Palaniappan, SureshKumar T. Rajamanickam, Sakthivel V. Ponnuvel, Venkatesh Chakrapani
+DOI: https://doi.org/10.1515/freq-2024-0290</summary>
   </entry>
   <entry>
-    <title>A flexible wideband wearable CPW antenna for WBAN application</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0142/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0142</id>
-    <updated>2025-05-06T04:56:29.125851+00:00</updated>
-    <summary>Article by Sapna B. A., Ramasamy K.
-DOI: https://doi.org/10.1515/freq-2024-0142</summary>
+    <title>Graphene-based tunable dual-band polarization sensitive absorber for applications in the terahertz regime</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0253/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0253</id>
+    <updated>2025-05-29T04:55:51.965227+00:00</updated>
+    <summary>Article by Muhammad Hani Mazaheri, Husnul Maab, Arbab Abdur Rahim
+DOI: https://doi.org/10.1515/freq-2024-0253</summary>
   </entry>
   <entry>
-    <title>A dual-band dual-mode customer premises equipment antenna</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0224/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0224</id>
-    <updated>2025-05-06T04:56:29.125867+00:00</updated>
-    <summary>Article by Zhu Duan, Cheng-Lu Gao, Feng Wang, Wen Geyi
-DOI: https://doi.org/10.1515/freq-2024-0224</summary>
+    <title>Graphene-based compact polarization-insensitive broadband terahertz absorber for sensing applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0303/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0303</id>
+    <updated>2025-05-29T04:55:51.965232+00:00</updated>
+    <summary>Article by Manpreet Kaur, Hari Shankar Singh, Mayank Agarwal
+DOI: https://doi.org/10.1515/freq-2024-0303</summary>
   </entry>
   <entry>
-    <title>A compact multiband frequency reconfigurable antenna integrated with sextuple band artificial magnetic conductor for heterogeneous wireless applications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0193/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0193</id>
-    <updated>2025-05-06T04:56:29.125880+00:00</updated>
-    <summary>Article by Vellaichamy Rajavel, Dibyendu Ghoshal
-DOI: https://doi.org/10.1515/freq-2024-0193</summary>
+    <title>Broadband metasurface-based reflective polarization converter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0306/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0306</id>
+    <updated>2025-05-29T04:55:51.965236+00:00</updated>
+    <summary>Article by Samiran Pramanik, Shubhajit Bhaumik, Satyajit Bhunia, Chaitali Koley
+DOI: https://doi.org/10.1515/freq-2024-0306</summary>
   </entry>
   <entry>
-    <title>A wideband reconfigurable filtering phase shifter based on Stub-loaded multimode resonators</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0167/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0167</id>
-    <updated>2025-05-06T04:56:29.125887+00:00</updated>
-    <summary>Article by Qi Wang, Feng Wei, Xue-Zhi Ding, Qi-Wei Li, Jia-Qi Wang, Zeng-Hui Shi, Kai-Xuan Wang
-DOI: https://doi.org/10.1515/freq-2024-0167</summary>
+    <title>Using one-dimensional thinned antenna arrays to form a two-dimensional MIMO antenna array</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0140/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0140</id>
+    <updated>2025-05-29T04:55:51.965242+00:00</updated>
+    <summary>Article by Maksim Stepanov, Vadim Artyushenko, Vadim Sokolov, Artemy Podkopayev
+DOI: https://doi.org/10.1515/freq-2024-0140</summary>
   </entry>
   <entry>
-    <title>Balanced tri- and quad-band BPFs based on SIR with improved passbands selectivity</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0134/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0134</id>
-    <updated>2025-05-06T04:56:29.125895+00:00</updated>
-    <summary>Article by Jia-Qi Wang, Kai-Xuan Wang, Qi Wang, Feng Wei
-DOI: https://doi.org/10.1515/freq-2024-0134</summary>
+    <title>Dual-resonance dielectric resonator-based MIMO antenna for Sub-6 GHz 5G and IoT applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0213/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0213</id>
+    <updated>2025-05-29T04:55:51.965246+00:00</updated>
+    <summary>Article by Gouri Shankar Sharma, Anshul Gupta, Ravi Kumar Gangwar, Amit Kr. Pandey
+DOI: https://doi.org/10.1515/freq-2024-0213</summary>
   </entry>
   <entry>
-    <title>A metasurface with three different configurations for absorption, transmission or reflection of incident electromagnetic waves</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0172/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0172</id>
-    <updated>2025-05-06T04:56:29.125903+00:00</updated>
-    <summary>Article by Sayan Sarkar
-DOI: https://doi.org/10.1515/freq-2024-0172</summary>
+    <title>Implantable F-shaped antenna with 93.32 Mbps speed for Intra-body communications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0151/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0151</id>
+    <updated>2025-05-29T04:55:51.965251+00:00</updated>
+    <summary>Article by Dipika Sagne, Rashmi A. Pandhare
+DOI: https://doi.org/10.1515/freq-2024-0151</summary>
   </entry>
   <entry>
-    <title>Experimental study on thermal cycling of nano-silver and nano-silver coated tin flip solder joints</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0223/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0223</id>
-    <updated>2025-05-06T04:56:29.125915+00:00</updated>
-    <summary>Article by Hui Yang, Mincong Chen
-DOI: https://doi.org/10.1515/freq-2024-0223</summary>
+    <title>Frequency and pattern reconfigurable arrow shape patch antenna with a PIN diode</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0211/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0211</id>
+    <updated>2025-05-29T04:55:51.965256+00:00</updated>
+    <summary>Article by Prem Nath Suman, Gajendra Kant Mishra
+DOI: https://doi.org/10.1515/freq-2024-0211</summary>
+  </entry>
+  <entry>
+    <title>Data driven modeling for linearization of particle accelerator RF power source</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0156/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0156</id>
+    <updated>2025-05-29T04:55:51.965260+00:00</updated>
+    <summary>Article by Rajesh T. Keshwani, Siddhartha Mukhopadhyay, Ravindra D. Gudi, Gopal Joshi
+DOI: https://doi.org/10.1515/freq-2024-0156</summary>
   </entry>
 </feed>

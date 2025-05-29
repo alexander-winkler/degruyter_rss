@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Numerical Mathematics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jnma/33/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jnma/33/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnma.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jnma/html" rel="related"/>
-  <updated>2025-05-06T05:00:16.761868+00:00</updated>
+  <updated>2025-05-29T04:58:48.506955+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnma.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Numerical Mathematics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2025-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/jnma-2025-frontmatter1</id>
-    <updated>2025-05-06T05:00:16.761893+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jnma-2025-frontmatter1</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/jnma-2025-frontmatter2</id>
+    <updated>2025-05-29T04:58:48.506984+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jnma-2025-frontmatter2</summary>
   </entry>
   <entry>
-    <title>Stabilized weighted reduced order methods for parametrized advection-dominated optimal control problems governed by partial differential equations with random inputs</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0006/html"/>
-    <id>https://doi.org/10.1515/jnma-2023-0006</id>
-    <updated>2025-05-06T05:00:16.761903+00:00</updated>
-    <summary>Article by Fabio Zoccolan, Maria Strazzullo, Gianluigi Rozza
-DOI: https://doi.org/10.1515/jnma-2023-0006</summary>
+    <title>Effective highly accurate time integrators for linear Klein–Gordon equations across the scales</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0070/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0070</id>
+    <updated>2025-05-29T04:58:48.506991+00:00</updated>
+    <summary>Article by Karolina Kropielnicka, Karolina Lademann, Katharina Schratz
+DOI: https://doi.org/10.1515/jnma-2023-0070</summary>
   </entry>
   <entry>
-    <title>Augmenting the grad-div stabilization for Taylor–Hood finite elements with a vorticity stabilization</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0118/html"/>
-    <id>https://doi.org/10.1515/jnma-2023-0118</id>
-    <updated>2025-05-06T05:00:16.761914+00:00</updated>
-    <summary>Article by Volker John, Christian Merdon, Marwa Zainelabdeen
-DOI: https://doi.org/10.1515/jnma-2023-0118</summary>
+    <title>Optimal complexity of goal-oriented adaptive FEM for nonsymmetric linear elliptic PDEs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0150/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0150</id>
+    <updated>2025-05-29T04:58:48.506998+00:00</updated>
+    <summary>Article by Philipp Bringmann, Maximilian Brunner, Dirk Praetorius, Julian Streitberger
+DOI: https://doi.org/10.1515/jnma-2023-0150</summary>
   </entry>
   <entry>
-    <title>Obtaining higher-order Galerkin accuracy when the boundary is polygonally approximated</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0135/html"/>
-    <id>https://doi.org/10.1515/jnma-2023-0135</id>
-    <updated>2025-05-06T05:00:16.761924+00:00</updated>
-    <summary>Article by Todd Dupont, Johnny Guzmán, L. Ridgway Scott
-DOI: https://doi.org/10.1515/jnma-2023-0135</summary>
+    <title>Stability and error analysis of a semi-implicit scheme for incompressible flows with variable density and viscosity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2024-0033/html"/>
+    <id>https://doi.org/10.1515/jnma-2024-0033</id>
+    <updated>2025-05-29T04:58:48.507008+00:00</updated>
+    <summary>Article by An Vu, Loic Cappanera
+DOI: https://doi.org/10.1515/jnma-2024-0033</summary>
   </entry>
   <entry>
-    <title>Optimal evaluation of symmetry-adaptedn-correlations via recursive contraction of sparse symmetric tensors</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2024-0025/html"/>
-    <id>https://doi.org/10.1515/jnma-2024-0025</id>
-    <updated>2025-05-06T05:00:16.761932+00:00</updated>
-    <summary>Article by Illia Kaliuzhnyi, Christoph Ortner
-DOI: https://doi.org/10.1515/jnma-2024-0025</summary>
+    <title>Error analysis of virtual element method for the Poisson–Boltzmann equation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0085/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0085</id>
+    <updated>2025-05-29T04:58:48.507013+00:00</updated>
+    <summary>Article by Linghan Huang, Shi Shu, Ying Yang
+DOI: https://doi.org/10.1515/jnma-2023-0085</summary>
   </entry>
 </feed>
