@@ -1,114 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Lebende Sprachen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/les/69/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/les/70/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/les/html" rel="related"/>
-  <updated>2025-05-06T05:01:25.946501+00:00</updated>
+  <updated>2025-06-06T09:42:15.014162+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/les.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Lebende Sprachen</subtitle>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/les-2024-frontmatter2</id>
-    <updated>2025-05-06T05:01:25.946523+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/les-2024-frontmatter2</summary>
+    <title>Introduction to the special issue</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0011/html"/>
+    <id>https://doi.org/10.1515/les-2025-0011</id>
+    <updated>2025-06-06T09:42:15.014209+00:00</updated>
+    <summary>Article by Alexander Holste, Marco Agnetta
+DOI: https://doi.org/10.1515/les-2025-0011</summary>
   </entry>
   <entry>
-    <title>Multiple translation and the translator’s visibility</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0021/html"/>
-    <id>https://doi.org/10.1515/les-2024-0021</id>
-    <updated>2025-05-06T05:01:25.946531+00:00</updated>
+    <title>Implementing generative artificial intelligence technologies in language industry workflows – A competence perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0016/html"/>
+    <id>https://doi.org/10.1515/les-2025-0016</id>
+    <updated>2025-06-06T09:42:15.014228+00:00</updated>
+    <summary>Article by Ralph Krüger
+DOI: https://doi.org/10.1515/les-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>Prolegomena zu einer an Embodiment orientierten Fachkommunikationswissenschaft</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0012/html"/>
+    <id>https://doi.org/10.1515/les-2025-0012</id>
+    <updated>2025-06-06T09:42:15.014234+00:00</updated>
+    <summary>Article by Alexander Holste
+DOI: https://doi.org/10.1515/les-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Using think-aloud, screen recording, and questionnaire data to gauge translation student application and perception of ChatGPT</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0020/html"/>
+    <id>https://doi.org/10.1515/les-2025-0020</id>
+    <updated>2025-06-06T09:42:15.014239+00:00</updated>
+    <summary>Article by Erik Angelone
+DOI: https://doi.org/10.1515/les-2025-0020</summary>
+  </entry>
+  <entry>
+    <title>Kontrastive Analyse maschinell generierter Fachtranslate (EN-DE) im Strafrecht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0024/html"/>
+    <id>https://doi.org/10.1515/les-2025-0024</id>
+    <updated>2025-06-06T09:42:15.014252+00:00</updated>
+    <summary>Article by Wilma Eleonore Castro-Lesching
+DOI: https://doi.org/10.1515/les-2025-0024</summary>
+  </entry>
+  <entry>
+    <title>Literarisches Übersetzen im KI-Zeitalter: Überlegungen zu einer nachhaltigen Markttransformation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0019/html"/>
+    <id>https://doi.org/10.1515/les-2025-0019</id>
+    <updated>2025-06-06T09:42:15.014260+00:00</updated>
+    <summary>Article by Katharina Walter
+DOI: https://doi.org/10.1515/les-2025-0019</summary>
+  </entry>
+  <entry>
+    <title>Zu Einschätzung und Akzeptanz von KI-Technologien in der AVT-Branche: Die Perspektive der Verbände</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0018/html"/>
+    <id>https://doi.org/10.1515/les-2025-0018</id>
+    <updated>2025-06-06T09:42:15.014264+00:00</updated>
     <summary>Article by Marco Agnetta
-DOI: https://doi.org/10.1515/les-2024-0021</summary>
+DOI: https://doi.org/10.1515/les-2025-0018</summary>
   </entry>
   <entry>
-    <title>Das Medium barbarisieren</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0019/html"/>
-    <id>https://doi.org/10.1515/les-2024-0019</id>
-    <updated>2025-05-06T05:01:25.946539+00:00</updated>
-    <summary>Article by Daniele Vernillo
-DOI: https://doi.org/10.1515/les-2024-0019</summary>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/les-2025-frontmatter1</id>
+    <updated>2025-06-06T09:42:15.014269+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/les-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>Relational description as pivotal to dialogical translation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0013/html"/>
-    <id>https://doi.org/10.1515/les-2024-0013</id>
-    <updated>2025-05-06T05:01:25.946546+00:00</updated>
-    <summary>Article by Gerald Cipriani
-DOI: https://doi.org/10.1515/les-2024-0013</summary>
+    <title>Translation of compound terms: Cognitive insights</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0026/html"/>
+    <id>https://doi.org/10.1515/les-2024-0026</id>
+    <updated>2025-06-06T09:42:15.014273+00:00</updated>
+    <summary>Article by Silvana Deilen, Ekaterina Lapshinova-Koltunski, Anna Lafrenz
+DOI: https://doi.org/10.1515/les-2024-0026</summary>
   </entry>
   <entry>
-    <title>Insurrection or Protest? A corpus-linguistic analysis of the news reporting by CNN and Fox News based on the January 6, 2021, events at the US Capitol</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0017/html"/>
-    <id>https://doi.org/10.1515/les-2024-0017</id>
-    <updated>2025-05-06T05:01:25.946553+00:00</updated>
-    <summary>Article by Tobias Prahtel
-DOI: https://doi.org/10.1515/les-2024-0017</summary>
+    <title>Translating non-binary narratives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0032/html"/>
+    <id>https://doi.org/10.1515/les-2024-0032</id>
+    <updated>2025-06-06T09:42:15.014278+00:00</updated>
+    <summary>Article by Daniele Vecchiato
+DOI: https://doi.org/10.1515/les-2024-0032</summary>
   </entry>
   <entry>
-    <title>Shaping the visually impaired perception of gender through Netflix audio description of movies and series</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2023-0034/html"/>
-    <id>https://doi.org/10.1515/les-2023-0034</id>
-    <updated>2025-05-06T05:01:25.946565+00:00</updated>
-    <summary>Article by Ahmad S. Haider, Sausan Abu Tair, Mohammed M. Obeidat, Hadeel Saed, Yousef Sahari
-DOI: https://doi.org/10.1515/les-2023-0034</summary>
+    <title>Calibrating the passive: An experimental approach to plain languages rules</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0035/html"/>
+    <id>https://doi.org/10.1515/les-2024-0035</id>
+    <updated>2025-06-06T09:42:15.014291+00:00</updated>
+    <summary>Article by Stefano Rastelli
+DOI: https://doi.org/10.1515/les-2024-0035</summary>
   </entry>
   <entry>
-    <title>Exploring the effect of translating non-verbal elements in film subtitles</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2023-0031/html"/>
-    <id>https://doi.org/10.1515/les-2023-0031</id>
-    <updated>2025-05-06T05:01:25.946572+00:00</updated>
-    <summary>Article by Melissa E. Mouzannar, Gina E. Abou Fadel Saad
-DOI: https://doi.org/10.1515/les-2023-0031</summary>
+    <title>Analyzing metaphors in the English translation of the Chinese novelSandalwood Deathfrom cognitive perspectives: A multi-level model</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0024/html"/>
+    <id>https://doi.org/10.1515/les-2024-0024</id>
+    <updated>2025-06-06T09:42:15.014296+00:00</updated>
+    <summary>Article by Jing Yang
+DOI: https://doi.org/10.1515/les-2024-0024</summary>
   </entry>
   <entry>
-    <title>Humanitarian interpreting in the context of African migrant reception in the Canary Islands</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0007/html"/>
-    <id>https://doi.org/10.1515/les-2024-0007</id>
-    <updated>2025-05-06T05:01:25.946579+00:00</updated>
-    <summary>Article by María Goretti García-Morales, Leticia Fidalgo González
-DOI: https://doi.org/10.1515/les-2024-0007</summary>
+    <title>La imagen del vikingo a través del análisis de la terminología meta en las traducciones de textos en inglés antiguo al inglés moderno</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0030/html"/>
+    <id>https://doi.org/10.1515/les-2024-0030</id>
+    <updated>2025-06-06T09:42:15.014301+00:00</updated>
+    <summary>Article by Miguel Ayerbe Linares
+DOI: https://doi.org/10.1515/les-2024-0030</summary>
   </entry>
   <entry>
-    <title>La pregunta como instrumento de retroalimentación correctiva escrita en la formación en traducción jurídica (francés-español): un estudio exploratorio</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0012/html"/>
-    <id>https://doi.org/10.1515/les-2024-0012</id>
-    <updated>2025-05-06T05:01:25.946589+00:00</updated>
-    <summary>Article by Tanagua Barceló Martínez, Iván Delgado Pugés
-DOI: https://doi.org/10.1515/les-2024-0012</summary>
+    <title>Describing and evaluating MT results from small and resource-poor languages: A translation didactic orientated case study of Galician-German touristic texts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0023/html"/>
+    <id>https://doi.org/10.1515/les-2024-0023</id>
+    <updated>2025-06-06T09:42:15.014306+00:00</updated>
+    <summary>Article by Sheila Gondar Tubío, Christine Paasch-Kaiser
+DOI: https://doi.org/10.1515/les-2024-0023</summary>
   </entry>
   <entry>
-    <title>Using ChatGPT and determinologisation to enhance understanding of lung cancer information</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0020/html"/>
-    <id>https://doi.org/10.1515/les-2024-0020</id>
-    <updated>2025-05-06T05:01:25.946596+00:00</updated>
-    <summary>Article by María-José Varela Salinas, Adriana Godoy Lorenzatto
-DOI: https://doi.org/10.1515/les-2024-0020</summary>
-  </entry>
-  <entry>
-    <title>Posedición y paridad humano-máquina en traducción automática neuronal: Un estudio empírico desde la traducción profesional</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0003/html"/>
-    <id>https://doi.org/10.1515/les-2024-0003</id>
-    <updated>2025-05-06T05:01:25.946603+00:00</updated>
-    <summary>Article by Cristina Toledo-Báez
-DOI: https://doi.org/10.1515/les-2024-0003</summary>
-  </entry>
-  <entry>
-    <title>Hat man da noch Worte? – Schulung der lexikalischen Präzision im zielorientierten Fremdsprachenunterricht Deutsch für spanischsprachige Translatoren</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0006/html"/>
-    <id>https://doi.org/10.1515/les-2024-0006</id>
-    <updated>2025-05-06T05:01:25.946611+00:00</updated>
-    <summary>Article by Petra Zimmermann González, Silvia Roiss
-DOI: https://doi.org/10.1515/les-2024-0006</summary>
-  </entry>
-  <entry>
-    <title>Klaus Brinker, Steffen Pappert, Hermann Cölfen (2024): Linguistische Textanalyse – Eine Einführung in Grundbegriffe und Methoden. 10., neu bearbeitete Auflage. Berlin: Erich Schmidt Verlag. [Grundlagen der Germanistik. Bd. 29] 200 S., ISBN 978 3 503 23861 3.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2024-0025/html"/>
-    <id>https://doi.org/10.1515/les-2024-0025</id>
-    <updated>2025-05-06T05:01:25.946623+00:00</updated>
-    <summary>Article by Sebastian Seyferth
-DOI: https://doi.org/10.1515/les-2024-0025</summary>
+    <title>Nachruf für Gerd Wotjak</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/les-2025-0023/html"/>
+    <id>https://doi.org/10.1515/les-2025-0023</id>
+    <updated>2025-06-06T09:42:15.014312+00:00</updated>
+    <summary>Article by Carsten Sinner, Encarnación Tabares Plasencia
+DOI: https://doi.org/10.1515/les-2025-0023</summary>
   </entry>
 </feed>

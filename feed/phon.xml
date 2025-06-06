@@ -1,34 +1,42 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Phonetica</title>
-  <link href="https://www.degruyterbrill.com/journal/key/phon/82/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/phon/82/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/phon/html" rel="related"/>
-  <updated>2025-05-06T05:03:48.411621+00:00</updated>
+  <updated>2025-06-06T09:44:08.474986+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phon.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Phonetica</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/phon-2025-frontmatter2</id>
-    <updated>2025-05-06T05:03:48.411648+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/phon-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/phon-2025-frontmatter3</id>
+    <updated>2025-06-06T09:44:08.475028+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phon-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>On the salience of prenuclear accents: evidence from an imitation study</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0026/html"/>
-    <id>https://doi.org/10.1515/phon-2024-0026</id>
-    <updated>2025-05-06T05:03:48.411658+00:00</updated>
-    <summary>Article by Suyeon Im, José Ignacio Hualde, Jennifer Cole
-DOI: https://doi.org/10.1515/phon-2024-0026</summary>
+    <title>Voice register in Mon: experiments in production and perception</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0047/html"/>
+    <id>https://doi.org/10.1515/phon-2024-0047</id>
+    <updated>2025-06-06T09:44:08.475037+00:00</updated>
+    <summary>Article by Sireemas Maspong, Patrick McCormick, James Kirby
+DOI: https://doi.org/10.1515/phon-2024-0047</summary>
   </entry>
   <entry>
-    <title>Probing syllabic affiliation of word-initial and word-medial consonant sequences in north-central Peninsular Spanish</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2024-0004/html"/>
-    <id>https://doi.org/10.1515/phon-2024-0004</id>
-    <updated>2025-05-06T05:03:48.411670+00:00</updated>
-    <summary>Article by Karthik Durvasula, Silvina Bongiovanni
-DOI: https://doi.org/10.1515/phon-2024-0004</summary>
+    <title>Mathias Scharinger and Richard Wiese:How Language Speaks to Music: Prosody from a Cross-domain Perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0017/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0017</id>
+    <updated>2025-06-06T09:44:08.475056+00:00</updated>
+    <summary>Article by Xinbing Luo, Xueyun Tian
+DOI: https://doi.org/10.1515/phon-2025-0017</summary>
+  </entry>
+  <entry>
+    <title>Karin McClellan:English Prosody in First and Second Language Speakers: A contrastive interlanguage analysis across intonational dimensions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phon-2025-0019/html"/>
+    <id>https://doi.org/10.1515/phon-2025-0019</id>
+    <updated>2025-06-06T09:44:08.475062+00:00</updated>
+    <summary>Article by Zepeng Wang, Yansheng Mao
+DOI: https://doi.org/10.1515/phon-2025-0019</summary>
   </entry>
 </feed>

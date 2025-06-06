@@ -1,82 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Biomedical Engineering / Biomedizinische Technik </title>
-  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/bmte/html" rel="related"/>
-  <updated>2025-05-06T04:53:25.119133+00:00</updated>
+  <updated>2025-06-04T13:29:30.232963+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Biomedical Engineering / Biomedizinische Technik </subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/bmt-2025-frontmatter2</id>
-    <updated>2025-05-06T04:53:25.119152+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bmt-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/bmt-2025-frontmatter3</id>
+    <updated>2025-06-04T13:29:30.233001+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bmt-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Hydrogel promotes bone regeneration through various mechanisms: a review</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0391/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0391</id>
-    <updated>2025-05-06T04:53:25.119158+00:00</updated>
-    <summary>Article by Yuanyuan Zheng, Zengguang Ke, Guofeng Hu, Songlin Tong
-DOI: https://doi.org/10.1515/bmt-2024-0391</summary>
+    <title>An exploratory study of pilot EEG features during the climb and descent phases of flight</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0412/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0412</id>
+    <updated>2025-06-04T13:29:30.233009+00:00</updated>
+    <summary>Article by Li Ji, Leiye Yi, Haiwei Li, Wenjie Han, Ningning Zhang
+DOI: https://doi.org/10.1515/bmt-2024-0412</summary>
   </entry>
   <entry>
-    <title>Wear investigation of implant-supported upper removable prothesis with electroplated gold or PEKK secondary crowns</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0038/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0038</id>
-    <updated>2025-05-06T04:53:25.119165+00:00</updated>
-    <summary>Article by Annika Holtz, Manfred Grüner, Ludger Keilig, Christoph Bourauel, Helmut Stark, Istabrak Dörsam
-DOI: https://doi.org/10.1515/bmt-2024-0038</summary>
+    <title>Gesture recognition from surface electromyography signals based on the SE-DenseNet network</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0282/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0282</id>
+    <updated>2025-06-04T13:29:30.233017+00:00</updated>
+    <summary>Article by Ying Xiang, Wei Zheng, Jiajia Tang, You Dong, Yuhao Pang
+DOI: https://doi.org/10.1515/bmt-2024-0282</summary>
   </entry>
   <entry>
-    <title>Straight and helical plating with locking plates for proximal humeral shaft fractures – a biomechanical comparison under physiological load conditions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0347/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0347</id>
-    <updated>2025-05-06T04:53:25.119172+00:00</updated>
-    <summary>Article by Christian Halbauer, Felix Capanni, Andreas Paech, Christian Knop, Tobias Merkle, Tomas Da Silva
-DOI: https://doi.org/10.1515/bmt-2024-0347</summary>
+    <title>Empirical analysis on retinal segmentation using PSO-based thresholding in diabetic retinopathy grading</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0299/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0299</id>
+    <updated>2025-06-04T13:29:30.233024+00:00</updated>
+    <summary>Article by Bhuvaneswari Sekar, Subashini Parthasarathy
+DOI: https://doi.org/10.1515/bmt-2024-0299</summary>
   </entry>
   <entry>
-    <title>Integration of neuromuscular control for multidirectional horizontal planar reaching movements in a portable upper limb exoskeleton for enhanced stroke rehabilitation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2023-0622/html"/>
-    <id>https://doi.org/10.1515/bmt-2023-0622</id>
-    <updated>2025-05-06T04:53:25.119178+00:00</updated>
-    <summary>Article by Yongkun Zhao, Juzheng Mao, Mingquan Zhang, Haijun Wu, Jiatong Jiang, Shibo Jing
-DOI: https://doi.org/10.1515/bmt-2023-0622</summary>
+    <title>Prediction of remaining surgery duration based on machine learning methods and laparoscopic annotation data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0431/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0431</id>
+    <updated>2025-06-04T13:29:30.233031+00:00</updated>
+    <summary>Article by Spiros Kostopoulos, Dionisis Cavouras, Dimitris Glotsos, Constantinos Loukas
+DOI: https://doi.org/10.1515/bmt-2024-0431</summary>
   </entry>
   <entry>
-    <title>Recognition analysis of spiral and straight-line drawings in tremor assessment</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2023-0080/html"/>
-    <id>https://doi.org/10.1515/bmt-2023-0080</id>
-    <updated>2025-05-06T04:53:25.119184+00:00</updated>
-    <summary>Article by Attila Z. Jenei, Dávid Sztahó, István Valálik
-DOI: https://doi.org/10.1515/bmt-2023-0080</summary>
+    <title>Caries-segnet: multi-scale cascaded hybrid spatial channel attention encoder-decoder for semantic segmentation of dental caries</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0439/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0439</id>
+    <updated>2025-06-04T13:29:30.233037+00:00</updated>
+    <summary>Article by Jayaraman Priya, Subramanian Kanaga Suba Raja
+DOI: https://doi.org/10.1515/bmt-2024-0439</summary>
   </entry>
   <entry>
-    <title>Combination of edge enhancement and cold diffusion model for low dose CT image denoising</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0362/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0362</id>
-    <updated>2025-05-06T04:53:25.119189+00:00</updated>
-    <summary>Article by Yinglin Du, Yi Liu, Han Wu, Jiaqi Kang, Zhiguo Gui, Pengcheng Zhang, Yali Ren
-DOI: https://doi.org/10.1515/bmt-2024-0362</summary>
+    <title>An analysis of initial force and moment delivery of different aligner materials</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-0003/html"/>
+    <id>https://doi.org/10.1515/bmt-2025-0003</id>
+    <updated>2025-06-04T13:29:30.233044+00:00</updated>
+    <summary>Article by Thomas Wendl, Brigitte Wendl, Peter Proff
+DOI: https://doi.org/10.1515/bmt-2025-0003</summary>
   </entry>
   <entry>
-    <title>High-performance breast cancer diagnosis method using hybrid feature selection method</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0185/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0185</id>
-    <updated>2025-05-06T04:53:25.119194+00:00</updated>
-    <summary>Article by Mohammad Moradi, Abdalhossein Rezai
-DOI: https://doi.org/10.1515/bmt-2024-0185</summary>
+    <title>Influence of microstructure on metal-ceramic bonding in SLM-manufactured titanium alloy crowns and bridges</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0531/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0531</id>
+    <updated>2025-06-04T13:29:30.233050+00:00</updated>
+    <summary>Article by Lijun Yang, Xuyuan Liang, Mingxuan Liu
+DOI: https://doi.org/10.1515/bmt-2024-0531</summary>
   </entry>
   <entry>
-    <title>A multimodal deep learning-based algorithm for specific fetal heart rate events detection</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0334/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0334</id>
-    <updated>2025-05-06T04:53:25.119198+00:00</updated>
-    <summary>Article by Zhuya Huang, Junsheng Yu, Ying Shan
-DOI: https://doi.org/10.1515/bmt-2024-0334</summary>
+    <title>Design and evaluation of powered lumbar exoskeleton based on human biomechanics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0232/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0232</id>
+    <updated>2025-06-04T13:29:30.233056+00:00</updated>
+    <summary>Article by Qingqing Wang, Ruyu Yuan, Yunjing Yi, Shizhen Du, Chen He, Ping Shi
+DOI: https://doi.org/10.1515/bmt-2024-0232</summary>
+  </entry>
+  <entry>
+    <title>Evaluation of mesoporous polyaniline for glucose sensor under different pH electrolyte conditions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0141/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0141</id>
+    <updated>2025-06-04T13:29:30.233063+00:00</updated>
+    <summary>Article by Zinah N. Alabdali, Amar Al-Keisy, Sinan S. Hamdi
+DOI: https://doi.org/10.1515/bmt-2024-0141</summary>
   </entry>
 </feed>

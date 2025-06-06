@@ -1,74 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>at - Automatisierungstechnik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/auto/73/5/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/auto/73/6/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auto.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/auto/html" rel="related"/>
-  <updated>2025-05-29T04:53:16.016070+00:00</updated>
+  <updated>2025-06-04T13:29:08.632183+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/auto.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in at - Automatisierungstechnik</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-frontmatter5/html"/>
-    <id>https://doi.org/10.1515/auto-2025-frontmatter5</id>
-    <updated>2025-05-29T04:53:16.016087+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/auto-2025-frontmatter5</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-frontmatter6/html"/>
+    <id>https://doi.org/10.1515/auto-2025-frontmatter6</id>
+    <updated>2025-06-04T13:29:08.632222+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/auto-2025-frontmatter6</summary>
   </entry>
   <entry>
-    <title>Architectures and methods for intelligent robot systems</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-0034/html"/>
-    <id>https://doi.org/10.1515/auto-2025-0034</id>
-    <updated>2025-05-29T04:53:16.016092+00:00</updated>
-    <summary>Article by Mike Barth, Stefan Schwab
-DOI: https://doi.org/10.1515/auto-2025-0034</summary>
+    <title>Data-driven and learning-based control – perspectives and prospects</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-0038/html"/>
+    <id>https://doi.org/10.1515/auto-2025-0038</id>
+    <updated>2025-06-04T13:29:08.632233+00:00</updated>
+    <summary>Article by Timm Faulwasser, Annika Eichler, Julian Berberich
+DOI: https://doi.org/10.1515/auto-2025-0038</summary>
   </entry>
   <entry>
-    <title>Introduction of a unified robot intergration package</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-0007/html"/>
-    <id>https://doi.org/10.1515/auto-2025-0007</id>
-    <updated>2025-05-29T04:53:16.016097+00:00</updated>
-    <summary>Article by Linus Witucki, Marwin Madsen, Eric L. Wagemann, Mike Barth
-DOI: https://doi.org/10.1515/auto-2025-0007</summary>
+    <title>Towards explainable data-driven predictive control with regularizations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0161/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0161</id>
+    <updated>2025-06-04T13:29:08.632240+00:00</updated>
+    <summary>Article by Manuel Klädtke, Moritz Schulze Darup
+DOI: https://doi.org/10.1515/auto-2024-0161</summary>
   </entry>
   <entry>
-    <title>Model-driven latency analysis of distributed skills in automation networks with robots in the AI.Factory</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0175/html"/>
-    <id>https://doi.org/10.1515/auto-2024-0175</id>
-    <updated>2025-05-29T04:53:16.016101+00:00</updated>
-    <summary>Article by Dominik Hujo-Lauer, Birgit Vogel-Heuser, Cedric Wagner, Jingyun Zhao, Josua Höfgen
-DOI: https://doi.org/10.1515/auto-2024-0175</summary>
+    <title>Two-component controller design to safeguard data-driven predictive control</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0166/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0166</id>
+    <updated>2025-06-04T13:29:08.632327+00:00</updated>
+    <summary>Article by Lea Bold, Lukas Lanza, Karl Worthmann
+DOI: https://doi.org/10.1515/auto-2024-0166</summary>
   </entry>
   <entry>
-    <title>Coordinated trajectory planning of homogeneous and heterogeneous mobile robots in collision avoidance scenarios</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0178/html"/>
-    <id>https://doi.org/10.1515/auto-2024-0178</id>
-    <updated>2025-05-29T04:53:16.016114+00:00</updated>
-    <summary>Article by Nina Majer, Xin Ye, Stefan Schwab, Sören Hohmann
-DOI: https://doi.org/10.1515/auto-2024-0178</summary>
+    <title>Robustness of online identification-based policy iteration to noisy data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0164/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0164</id>
+    <updated>2025-06-04T13:29:08.632332+00:00</updated>
+    <summary>Article by Bowen Song, Andrea Iannelli
+DOI: https://doi.org/10.1515/auto-2024-0164</summary>
   </entry>
   <entry>
-    <title>Leveraging reinforcement and curriculum learning for flexible robot-based snap-fit assembly automation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0177/html"/>
-    <id>https://doi.org/10.1515/auto-2024-0177</id>
-    <updated>2025-05-29T04:53:16.016118+00:00</updated>
-    <summary>Article by Josefine Monnet, Emma Heyen, Oliver Petrovic, Werner Herfs
-DOI: https://doi.org/10.1515/auto-2024-0177</summary>
+    <title>Koopman-based control of nonlinear systems with closed-loop guarantees</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0162/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0162</id>
+    <updated>2025-06-04T13:29:08.632609+00:00</updated>
+    <summary>Article by Robin Strässer, Julian Berberich, Manuel Schaller, Karl Worthmann, Frank Allgöwer
+DOI: https://doi.org/10.1515/auto-2024-0162</summary>
   </entry>
   <entry>
-    <title>Flexible voice control for collaborative robotics</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2025-0008/html"/>
-    <id>https://doi.org/10.1515/auto-2025-0008</id>
-    <updated>2025-05-29T04:53:16.016129+00:00</updated>
-    <summary>Article by David Kötter, Denis Teknetas, Melanie Kolditz, Oliver Petrovic, Christian Brecher
-DOI: https://doi.org/10.1515/auto-2025-0008</summary>
+    <title>Data-driven feedback optimization for particle accelerator application</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0170/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0170</id>
+    <updated>2025-06-04T13:29:08.632618+00:00</updated>
+    <summary>Article by Christian Hespe, Jan Kaiser, Jannis Lübsen, Frank Mayet, Matthias Scholz, Annika Eichler
+DOI: https://doi.org/10.1515/auto-2024-0170</summary>
   </entry>
   <entry>
-    <title>Vibro-tactile localisation of mobile robots</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0173/html"/>
-    <id>https://doi.org/10.1515/auto-2024-0173</id>
-    <updated>2025-05-29T04:53:16.016134+00:00</updated>
-    <summary>Article by Alexander Grosse-Kreul, Marius Boshoff, Kevin Hansch, Bernd Kuhlenkötter
-DOI: https://doi.org/10.1515/auto-2024-0173</summary>
+    <title>Application of stochastic model predictive control for building energy systems using latent force models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0160/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0160</id>
+    <updated>2025-06-04T13:29:08.632625+00:00</updated>
+    <summary>Article by Thore Wietzke, Daniel Landgraf, Knut Graichen
+DOI: https://doi.org/10.1515/auto-2024-0160</summary>
+  </entry>
+  <entry>
+    <title>Learning-based model identification for greenhouse climate control</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/auto-2024-0163/html"/>
+    <id>https://doi.org/10.1515/auto-2024-0163</id>
+    <updated>2025-06-04T13:29:08.632632+00:00</updated>
+    <summary>Article by Michael Fink, Annalena Daniels, Francisco García-Mañas, Francisco Rodríguez, Marion Leibold, Dirk Wollherr
+DOI: https://doi.org/10.1515/auto-2024-0163</summary>
   </entry>
 </feed>

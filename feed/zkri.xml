@@ -1,73 +1,89 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Kristallographie - Crystalline Materials </title>
-  <link href="https://www.degruyterbrill.com/journal/key/zkri/240/3-4/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zkri/240/5-6/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/zkri/html" rel="related"/>
-  <updated>2025-05-06T05:07:48.048385+00:00</updated>
+  <updated>2025-06-06T09:47:21.630476+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zkri.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Kristallographie - Crystalline Materials </subtitle>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-frontmatter3-4/html"/>
-    <id>https://doi.org/10.1515/zkri-2025-frontmatter3-4</id>
-    <updated>2025-05-06T05:07:48.048417+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zkri-2025-frontmatter3-4</summary>
-  </entry>
-  <entry>
     <title>In this issue</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-graphabs3-4/html"/>
-    <id>https://doi.org/10.1515/zkri-2025-graphabs3-4</id>
-    <updated>2025-05-06T05:07:48.048429+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zkri-2025-graphabs3-4</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-graphabs5-6/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-graphabs5-6</id>
+    <updated>2025-06-06T09:47:21.630513+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zkri-2025-graphabs5-6</summary>
   </entry>
   <entry>
-    <title>Flux-growth synthesis and structural characterization ofR6Nb4Al43(R= Sm, Gd, Tb, Dy, Ho, Er, Tm, Yb, and Lu)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0002/html"/>
-    <id>https://doi.org/10.1515/zkri-2025-0002</id>
-    <updated>2025-05-06T05:07:48.048438+00:00</updated>
-    <summary>Article by Shrenik Patha, Soham Bhatt, Daniel S. Tortorella, Connor Donnelly, Svilen Bobev
-DOI: https://doi.org/10.1515/zkri-2025-0002</summary>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-frontmatter5-6/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-frontmatter5-6</id>
+    <updated>2025-06-06T09:47:21.630527+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zkri-2025-frontmatter5-6</summary>
   </entry>
   <entry>
-    <title>Topological densities of quasiperiodic structures</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0003/html"/>
-    <id>https://doi.org/10.1515/zkri-2025-0003</id>
-    <updated>2025-05-06T05:07:48.048450+00:00</updated>
-    <summary>Article by Anton Shutov
-DOI: https://doi.org/10.1515/zkri-2025-0003</summary>
+    <title>Obituary for Hartmut Bärnighausen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0018/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0018</id>
+    <updated>2025-06-06T09:47:21.630533+00:00</updated>
+    <summary>Article by Michael Ruck
+DOI: https://doi.org/10.1515/zkri-2025-0018</summary>
   </entry>
   <entry>
-    <title>Crystal chemistry of the high hydrous analogue of gismondine-Sr and the role of water in the extra-framework cations ordering</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0108/html"/>
-    <id>https://doi.org/10.1515/zkri-2024-0108</id>
-    <updated>2025-05-06T05:07:48.048462+00:00</updated>
-    <summary>Article by Natalia V. Zubkova, Nikita V. Chukanov, Igor V. Pekov, Christof Schäfer, Dmitry A. Ksenofontov, Katarzyna Skrzyńska, Dmitry Yu. Pushcharovsky
-DOI: https://doi.org/10.1515/zkri-2024-0108</summary>
+    <title>Bismuth as reactive and non-reactive flux medium for the synthesis and crystal growth of intermetallics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0006/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0006</id>
+    <updated>2025-06-06T09:47:21.630576+00:00</updated>
+    <summary>Article by Rainer Pöttgen
+DOI: https://doi.org/10.1515/zkri-2025-0006</summary>
   </entry>
   <entry>
-    <title>Halogen bonds versus hydrogen bonds in the crystal packing formation of halogen substituted anilines</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0119/html"/>
-    <id>https://doi.org/10.1515/zkri-2024-0119</id>
-    <updated>2025-05-06T05:07:48.048475+00:00</updated>
-    <summary>Article by Irina S. Konovalova, Guido J. Reiss
-DOI: https://doi.org/10.1515/zkri-2024-0119</summary>
+    <title>Racemic and unusual enantiomeric crystal forms ofN-cycloalkyl-4-methyl-2,2-dioxo-1H-2λ6,1-benzothiazine-3-carboxamides and their biological activity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0005/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0005</id>
+    <updated>2025-06-06T09:47:21.630611+00:00</updated>
+    <summary>Article by Svitlana V. Shishkina, Igor V. Ukrainets, Irina S. Konovalova, Guido J. Reiss, Natalia I. Voloshchuk
+DOI: https://doi.org/10.1515/zkri-2025-0005</summary>
   </entry>
   <entry>
-    <title>One trityl, two trityl, three trityl groups – Structural differences of differently substituted triethanolamines</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0112/html"/>
-    <id>https://doi.org/10.1515/zkri-2024-0112</id>
-    <updated>2025-05-06T05:07:48.048483+00:00</updated>
-    <summary>Article by Tabea Lenz, Marcus Layh, Marian Hebenbrock
-DOI: https://doi.org/10.1515/zkri-2024-0112</summary>
+    <title>Lead phosphate oxyapatite, Pb10(PO4)6O, withc-double superstructure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0103/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0103</id>
+    <updated>2025-06-06T09:47:21.630634+00:00</updated>
+    <summary>Article by Kotomi Hirano, Hiroki Okudera
+DOI: https://doi.org/10.1515/zkri-2024-0103</summary>
   </entry>
   <entry>
-    <title>Conformational polymorphism in a mononuclear phosphanegold(I) thiocarbamato species, Cy3PAu[SC(OEt)=N(C6H4Cl-3)]</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0124/html"/>
-    <id>https://doi.org/10.1515/zkri-2024-0124</id>
-    <updated>2025-05-06T05:07:48.048492+00:00</updated>
-    <summary>Article by Chien Ing Yeo, Yee Seng Tan, Wai Kit Tang, Edward R.T. Tiekink
-DOI: https://doi.org/10.1515/zkri-2024-0124</summary>
+    <title>A novel microporous uranyl silicate prepared by high temperature flux technique</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0121/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0121</id>
+    <updated>2025-06-06T09:47:21.630645+00:00</updated>
+    <summary>Article by Evgeny V. Nazarchuk, Oleg I. Siidra, Dmitri N. Dmitriev, Dmitri O. Charkin
+DOI: https://doi.org/10.1515/zkri-2024-0121</summary>
+  </entry>
+  <entry>
+    <title>The Grubbs catalyst – dichlorido(1-(2,6-diethylphenyl)-3,5,5-trimethyl-3-phenylpyrrolidin-2-ylidene)-({5-nitro-2-[(propan-2-yl)oxy]phenyl}methylidene)ruthenium(II) – some observations on the crystallography and stereochemistry of a racemic mimic pair</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0001/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0001</id>
+    <updated>2025-06-06T09:47:21.630654+00:00</updated>
+    <summary>Article by Demetrius C. Levendis, Ivan Bernal
+DOI: https://doi.org/10.1515/zkri-2025-0001</summary>
+  </entry>
+  <entry>
+    <title>Thermal decomposition of copper(II) hydroxide and hydroxocarbonates according to X-ray photoelectron spectroscopyin operando</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2024-0125/html"/>
+    <id>https://doi.org/10.1515/zkri-2024-0125</id>
+    <updated>2025-06-06T09:47:21.630666+00:00</updated>
+    <summary>Article by Marina A. Shumilova, Nadezhda N. Pastukhova, Natalia V. Lomova, Irina S. Kazantseva, Nikita Yu. Isupov, Dmitriy S. Rybin, Feodor F. Chausov
+DOI: https://doi.org/10.1515/zkri-2024-0125</summary>
+  </entry>
+  <entry>
+    <title>New calcium perrhenates: synthesis and crystal structures of Ca(ReO4)2and K2Ca3(ReO4)8·4H2O</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zkri-2025-0008/html"/>
+    <id>https://doi.org/10.1515/zkri-2025-0008</id>
+    <updated>2025-06-06T09:47:21.630673+00:00</updated>
+    <summary>Article by Dmitri O. Charkin, Oleg I. Siidra, Evgeni V. Nazarchuk, Artem S. Borisov, Anna S. Baikina
+DOI: https://doi.org/10.1515/zkri-2025-0008</summary>
   </entry>
 </feed>
