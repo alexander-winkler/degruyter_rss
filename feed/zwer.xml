@@ -1,79 +1,71 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Wettbewerbsrecht</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zwer/23/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zwer/23/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwer.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/zwer/html" rel="related"/>
-  <updated>2025-05-06T05:08:26.807844+00:00</updated>
+  <updated>2025-06-10T15:19:42.136026+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zwer.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Wettbewerbsrecht</subtitle>
   <entry>
-    <title>Cover</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-frontmatter1/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-frontmatter1</id>
-    <updated>2025-05-06T05:08:26.807866+00:00</updated>
-    <summary>DOI: https://doi.org/10.15375/zwer-2025-frontmatter1</summary>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0207/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0207</id>
+    <updated>2025-06-10T15:19:42.136073+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zwer-2025-0207</summary>
   </entry>
   <entry>
     <title>Inhaltsverzeichnis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0101/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0101</id>
-    <updated>2025-05-06T05:08:26.807875+00:00</updated>
-    <summary>DOI: https://doi.org/10.15375/zwer-2025-0101</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0201/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0201</id>
+    <updated>2025-06-10T15:19:42.136085+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zwer-2025-0201</summary>
+  </entry>
+  <entry>
+    <title>Cover</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-frontmatter2</id>
+    <updated>2025-06-10T15:19:42.136091+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zwer-2025-frontmatter2</summary>
   </entry>
   <entry>
     <title>Veranstaltungshinweise</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0102/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0102</id>
-    <updated>2025-05-06T05:08:26.807882+00:00</updated>
-    <summary>DOI: https://doi.org/10.15375/zwer-2025-0102</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0202/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0202</id>
+    <updated>2025-06-10T15:19:42.136102+00:00</updated>
+    <summary>DOI: https://doi.org/10.15375/zwer-2025-0202</summary>
   </entry>
   <entry>
-    <title>Impressum</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0108/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0108</id>
-    <updated>2025-05-06T05:08:26.807889+00:00</updated>
-    <summary>DOI: https://doi.org/10.15375/zwer-2025-0108</summary>
+    <title>Die Kosten der effizienten Leistungsbereitstellung (KeL) als Maßstab für einen Preishöhenmissbrauch?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0203/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0203</id>
+    <updated>2025-06-10T15:19:42.136108+00:00</updated>
+    <summary>Article by Hannah Döding, Christian Koenig
+DOI: https://doi.org/10.15375/zwer-2025-0203</summary>
   </entry>
   <entry>
-    <title>Private Rechtsdurchsetzung des Digital Markets Act – Ausgewählte Rechtsfragen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0103/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0103</id>
-    <updated>2025-05-06T05:08:26.807896+00:00</updated>
-    <summary>Article by Christoph Thole, Lorenz Paffrath
-DOI: https://doi.org/10.15375/zwer-2025-0103</summary>
+    <title>Opfer und Abschöpfung als komplementäre Elemente von Behinderungsmissbräuchen – Der Leitlinienentwurf der Kommission im Lichte ökonomischer Schadenstheorien</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0204/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0204</id>
+    <updated>2025-06-10T15:19:42.136115+00:00</updated>
+    <summary>Article by Georg Götz, Daniel Herold
+DOI: https://doi.org/10.15375/zwer-2025-0204</summary>
   </entry>
   <entry>
-    <title>Google in Washington D. C. vor Gericht – Startschuss für die Zerschlagung von Big Tech?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0104/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0104</id>
-    <updated>2025-05-06T05:08:26.807905+00:00</updated>
-    <summary>Article by Jürgen Kühling, Gregor Schwerda
-DOI: https://doi.org/10.15375/zwer-2025-0104</summary>
+    <title>Wettbewerbsschutz auf Arbeitsmärkten – Die Leitlinien der Kommission für Solo-Selbstständige</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0205/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0205</id>
+    <updated>2025-06-10T15:19:42.136130+00:00</updated>
+    <summary>Article by Sarah Legner
+DOI: https://doi.org/10.15375/zwer-2025-0205</summary>
   </entry>
   <entry>
-    <title>Die Kopplung der Vergabe von Außenwerberechten mit der Verpflichtung zur Stadtmöblierung im Licht des Vergabe- und Kartellrechts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0105/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0105</id>
-    <updated>2025-05-06T05:08:26.807913+00:00</updated>
-    <summary>Article by Michael Kling
-DOI: https://doi.org/10.15375/zwer-2025-0105</summary>
-  </entry>
-  <entry>
-    <title>Keine Zuständigkeit ohne Zuständigkeit – Das Urteil des EuGH in Sachen Illumina GRAIL</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0106/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0106</id>
-    <updated>2025-05-06T05:08:26.807920+00:00</updated>
-    <summary>Article by Stephan Manuel Nagel, Marieka Müller-Steinmann
-DOI: https://doi.org/10.15375/zwer-2025-0106</summary>
-  </entry>
-  <entry>
-    <title>Gesamtvergabe im Interesse der Allgemeinheit? OLG Düsseldorf fordert auftraggeberzentrierte Darlegung der wirtschaftlichen Gründe i. S. d. § 97 Abs. 4 Satz 3 GWB</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0107/html"/>
-    <id>https://doi.org/10.15375/zwer-2025-0107</id>
-    <updated>2025-05-06T05:08:26.807928+00:00</updated>
-    <summary>Article by Jan Mädler
-DOI: https://doi.org/10.15375/zwer-2025-0107</summary>
+    <title>Wettbewerb um das Netz? – Das BGH-UrteilFernwärmenetz Stuttgart</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.15375/zwer-2025-0206/html"/>
+    <id>https://doi.org/10.15375/zwer-2025-0206</id>
+    <updated>2025-06-10T15:19:42.136136+00:00</updated>
+    <summary>Article by Josef Hainz, Jan Heithecker, Elisabeth Zinke
+DOI: https://doi.org/10.15375/zwer-2025-0206</summary>
   </entry>
 </feed>
