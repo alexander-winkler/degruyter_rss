@@ -1,58 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Russian Journal of Numerical Analysis and Mathematical Modelling</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rnam/40/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rnam/40/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rnam.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/rnam/html" rel="related"/>
-  <updated>2025-05-06T05:05:08.677828+00:00</updated>
+  <updated>2025-06-24T10:53:59.468072+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rnam.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Russian Journal of Numerical Analysis and Mathematical Modelling</subtitle>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-frontmatter2</id>
-    <updated>2025-05-06T05:05:08.677863+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/rnam-2025-frontmatter2</summary>
+    <title>Preface</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0013/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0013</id>
+    <updated>2025-06-24T10:53:59.468096+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rnam-2025-0013</summary>
   </entry>
   <entry>
-    <title>Analysis of forced response and internal climate variability in the INMCM Earth system model</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0008/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0008</id>
-    <updated>2025-05-06T05:05:08.677877+00:00</updated>
-    <summary>Article by Maria Buyanova, Andrei Gavrilov, Dmitry Mukhin
-DOI: https://doi.org/10.1515/rnam-2025-0008</summary>
+    <title>Algorithms of variational data assimilation for problems of ocean dynamics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0014/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0014</id>
+    <updated>2025-06-24T10:53:59.468103+00:00</updated>
+    <summary>Article by Valery I. Agoshkov, Vladimir B. Zalesny, Victor P. Shutyaev, Eugene I. Parmuzin, Natalia B. Zakharova, Tatiana O. Sheloput
+DOI: https://doi.org/10.1515/rnam-2025-0014</summary>
   </entry>
   <entry>
-    <title>Validation of the MGO regional climate model with a new parameterization of land surface processes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0009/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0009</id>
-    <updated>2025-05-06T05:05:08.677887+00:00</updated>
-    <summary>Article by Alexander V. Kozlov, Igor M. Shkolnik, Tatiana V. Pavlova
-DOI: https://doi.org/10.1515/rnam-2025-0009</summary>
+    <title>Identifiability of basic models and parameters in mathematical immunology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0015/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0015</id>
+    <updated>2025-06-24T10:53:59.468109+00:00</updated>
+    <summary>Article by Dmitry S. Grebennikov, Rostislav S. Savinkov, Gennady A. Bocharov
+DOI: https://doi.org/10.1515/rnam-2025-0015</summary>
   </entry>
   <entry>
-    <title>An energy consistent summation-by-parts finite difference discretization for the non-hydrostatic atmospheric dynamics equations on the cubed-sphere grid</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0010/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0010</id>
-    <updated>2025-05-06T05:05:08.677900+00:00</updated>
-    <summary>Article by Dmitry A. Markhanov, Vladimir V. Shashkin, Gordey S. Goyman
-DOI: https://doi.org/10.1515/rnam-2025-0010</summary>
+    <title>Analysis of the error of difference solutions as a basis for improving accuracy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0016/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0016</id>
+    <updated>2025-06-24T10:53:59.468114+00:00</updated>
+    <summary>Article by Vladimir V. Shaydurov, Lidiya V. Gileva, Roman A. Golubev
+DOI: https://doi.org/10.1515/rnam-2025-0016</summary>
   </entry>
   <entry>
-    <title>Reproducibility of atmospheric circulation regimes over the winter Northern Hemisphere by the INMCM5 Earth system model</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0011/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0011</id>
-    <updated>2025-05-06T05:05:08.677909+00:00</updated>
-    <summary>Article by Roman S. Samoilov, Dmitry N. Mukhin, Semen E. Safonov, Evgeny M. Loskutov, Anna Y. Mukhina, Andrey S. Gritsun
-DOI: https://doi.org/10.1515/rnam-2025-0011</summary>
+    <title>Numerical method for hydraulic fracture propagation in a two-phase poroelastoplasticity model</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0017/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0017</id>
+    <updated>2025-06-24T10:53:59.468119+00:00</updated>
+    <summary>Article by Kirill M. Terekhov, Yuri V. Vassilevski
+DOI: https://doi.org/10.1515/rnam-2025-0017</summary>
   </entry>
   <entry>
-    <title>Modelling magnetic field of a compact electro-magnetic device of experimental setup to study ROT effects in fission of heavy nuclei</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0012/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0012</id>
-    <updated>2025-05-06T05:05:08.677920+00:00</updated>
-    <summary>Article by Marina B. Yuldasheva, Oleg I. Yuldashev, Vadim V. Novitsky
-DOI: https://doi.org/10.1515/rnam-2025-0012</summary>
+    <title>The method of adjoint equations for solving the problem of quasi-geostrophic currents in a two-layer ocean periodic channel</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0018/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0018</id>
+    <updated>2025-06-24T10:53:59.468124+00:00</updated>
+    <summary>Article by Vladimir Zalesny
+DOI: https://doi.org/10.1515/rnam-2025-0018</summary>
   </entry>
 </feed>

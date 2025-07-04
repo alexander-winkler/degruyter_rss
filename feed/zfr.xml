@@ -1,105 +1,121 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Religionswissenschaft</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfr/32/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfr/33/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/zfr/html" rel="related"/>
-  <updated>2025-05-06T05:07:24.136610+00:00</updated>
+  <updated>2025-07-04T16:39:48.356645+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfr.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Religionswissenschaft</subtitle>
   <entry>
-    <title>Editorial</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0031/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0031</id>
-    <updated>2025-05-06T05:07:24.136633+00:00</updated>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-frontmatter1</id>
+    <updated>2025-07-04T16:39:48.356677+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfr-2025-frontmatter1</summary>
+  </entry>
+  <entry>
+    <title>Editorial: Zugleich ein Plädoyer fürs Rezensieren!</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0017/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0017</id>
+    <updated>2025-07-04T16:39:48.356686+00:00</updated>
     <summary>Article by Anne Koch, Sebastian Schüler
-DOI: https://doi.org/10.1515/zfr-2024-0031</summary>
-  </entry>
-  <entry>
-    <title>Zwi Werblowsky, the IAHR, andReligionswissenschaftas ‘Basic Science’</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0030/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0030</id>
-    <updated>2025-05-06T05:07:24.136646+00:00</updated>
-    <summary>Article by Donald Wiebe
-DOI: https://doi.org/10.1515/zfr-2024-0030</summary>
-  </entry>
-  <entry>
-    <title>Religionsmusikologie als Teildisziplin der Religionswissenschaft</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0018/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0018</id>
-    <updated>2025-05-06T05:07:24.136654+00:00</updated>
-    <summary>Article by Clara Ragnitz
-DOI: https://doi.org/10.1515/zfr-2024-0018</summary>
+DOI: https://doi.org/10.1515/zfr-2025-0017</summary>
   </entry>
   <entry>
     <title>English Summaries</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0032/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0032</id>
-    <updated>2025-05-06T05:07:24.136663+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zfr-2024-0032</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0018/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0018</id>
+    <updated>2025-07-04T16:39:48.356695+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfr-2025-0018</summary>
   </entry>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-frontmatter2</id>
-    <updated>2025-05-06T05:07:24.136670+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zfr-2024-frontmatter2</summary>
+    <title>Muss die Religionswissenschaft dekolonialisiert werden und wenn ja, wie?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0001/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0001</id>
+    <updated>2025-07-04T16:39:48.356702+00:00</updated>
+    <summary>Article by Christoph Kleine
+DOI: https://doi.org/10.1515/zfr-2025-0001</summary>
   </entry>
   <entry>
-    <title>Monika Amsler. 2023.The Babylonian Talmud and Late Antique Book Culture. Cambridge: Cambridge University Press. 280 Seiten.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0016/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0016</id>
-    <updated>2025-05-06T05:07:24.136677+00:00</updated>
-    <summary>Article by Jan Heilmann
-DOI: https://doi.org/10.1515/zfr-2024-0016</summary>
+    <title>Globale Religionsgeschichte, Natur und nicht-menschliche Akteure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0010/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0010</id>
+    <updated>2025-07-04T16:39:48.356709+00:00</updated>
+    <summary>Article by Simon Wiesgickl
+DOI: https://doi.org/10.1515/zfr-2025-0010</summary>
   </entry>
   <entry>
-    <title>Dietrich Jung, Kirstine Sinclair, eds.2020.Muslim Subjectivities in Global Modernity. Islamic Traditions and the Construction of Modern Muslim Identities.International Studies in Religion and Society 35. Leiden, Boston: Brill. 300 Seiten.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0022/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0022</id>
-    <updated>2025-05-06T05:07:24.136685+00:00</updated>
-    <summary>Article by Carmen Becker
-DOI: https://doi.org/10.1515/zfr-2024-0022</summary>
+    <title>Lutherhymnen und Lederhosen – Zur Aushandlung lutherischer und deutscher Identität bei der Zweihundertjahrfeier „Lutherische Präsenz in Brasilien“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0007/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0007</id>
+    <updated>2025-07-04T16:39:48.356717+00:00</updated>
+    <summary>Article by Thorsten Wettich
+DOI: https://doi.org/10.1515/zfr-2025-0007</summary>
   </entry>
   <entry>
-    <title>Robert Dodaro OSA, Cornelius Mayer und Christof Müller, Hg. 1995–2024.Augustinus-Lexikon. 5 Bände. Basel: Schwabe.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0021/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0021</id>
-    <updated>2025-05-06T05:07:24.136692+00:00</updated>
+    <title>Verschwörungstheorien im öffentlichen Diskurs zu religiösen Themen während der Coronapandemie. Ein deutsch-polnischer Vergleich</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0003/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0003</id>
+    <updated>2025-07-04T16:39:48.356725+00:00</updated>
+    <summary>Article by Andy Christian Körber
+DOI: https://doi.org/10.1515/zfr-2025-0003</summary>
+  </entry>
+  <entry>
+    <title>Oliver Freiberger. 2022.Religionsvergleich: Ansätze, Kritik, Praxis. Baden-Baden: Nomos. 191 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0011/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0011</id>
+    <updated>2025-07-04T16:39:48.356735+00:00</updated>
+    <summary>Article by Yves Mühlematter
+DOI: https://doi.org/10.1515/zfr-2025-0011</summary>
+  </entry>
+  <entry>
+    <title>Manfred Hutter. 2023.Der Manichäismus. Vom Iran in den Mittelmeerraum und über die Seidenstraße nach Südchina. Standorte in Antike und Christentum 11. Stuttgart: Anton Hiersemann. 274 Seiten. Moritz Maurer. 2024.Kosmos, Gesellschaft, Religion. Zoroastrische und manichäische Sozialordnungsdiskurse in der langen Spätantike.Religionsgeschichtliche Versuche und Vorarbeiten 80. Berlin: de Gruyter. 461 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0008/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0008</id>
+    <updated>2025-07-04T16:39:48.356745+00:00</updated>
     <summary>Article by Christoph Auffarth
-DOI: https://doi.org/10.1515/zfr-2024-0021</summary>
+DOI: https://doi.org/10.1515/zfr-2025-0008</summary>
   </entry>
   <entry>
-    <title>Helmut Zander. 2019.Die Anthroposophie. Rudolf Steiners Ideen zwischen Esoterik, Weleda, Demeter und Waldorfpädagogik.Paderborn: Ferdinand Schöningh. 287 Seiten.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0015/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0015</id>
-    <updated>2025-05-06T05:07:24.136700+00:00</updated>
+    <title>Katharina Limacher. 2021.Doing mandir, doing kōvil. Eine empirische Rekonstruktion hinduistischer Tempelpraktiken in der Schweiz und in Österreich. Religionen aktuell 32. Baden-Baden: Nomos. 350 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0002/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0002</id>
+    <updated>2025-07-04T16:39:48.356754+00:00</updated>
+    <summary>Article by Franz Winter
+DOI: https://doi.org/10.1515/zfr-2025-0002</summary>
+  </entry>
+  <entry>
+    <title>Annette Wilke, Robert Stephanus, Robert Suckro, eds. 2021.Constructions of Mysticism as a Universal. Roots and Interactions Across Borders. Studies in Oriental Religions 71. Wiesbaden: Harrassowitz. 503 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0005/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0005</id>
+    <updated>2025-07-04T16:39:48.356761+00:00</updated>
+    <summary>Article by Alina Pătru
+DOI: https://doi.org/10.1515/zfr-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Andrea Zimmermann. 2023.Träume, Tränen und Tempel: Thai-Buddhistische Religiosität im Alltag thailändischer Heiratsmigrantinnen in der Schweiz. Bielefeld: transcript Verlag. 336 Seiten. Rafaela Eulberg. 2022.Neue Orte für die Götter: Zu Lokalisierungsdynamiken von tamilischer Hindu-Praxis in der Schweiz. Zürich: Seismo. 403 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0016/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0016</id>
+    <updated>2025-07-04T16:39:48.356770+00:00</updated>
+    <summary>Article by Johannes Beltz
+DOI: https://doi.org/10.1515/zfr-2025-0016</summary>
+  </entry>
+  <entry>
+    <title>Carl Müller Frøland. 2020.Understanding Nazi Ideology. The Genesis and Impact of a Political Faith. Jefferson, NC: McFarland &amp; Co Inc. 345 Seiten.Hannah M. Strømmen. 2024.The Bibles of the Far Right. Oxford: University Press. 344 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0014/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0014</id>
+    <updated>2025-07-04T16:39:48.356777+00:00</updated>
     <summary>Article by Dirk Schuster
-DOI: https://doi.org/10.1515/zfr-2024-0015</summary>
+DOI: https://doi.org/10.1515/zfr-2025-0014</summary>
   </entry>
   <entry>
-    <title>Ulrich Berner.2020.Religionswissenschaft (historisch orientiert).Basiswissen Theologie und Religionswissenschaft. Göttingen: Vandenhoeck &amp; Ruprecht. 424 Seit</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0020/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0020</id>
-    <updated>2025-05-06T05:07:24.136708+00:00</updated>
-    <summary>Article by Jörg Rüpke
-DOI: https://doi.org/10.1515/zfr-2024-0020</summary>
-  </entry>
-  <entry>
-    <title>Hubert Knoblauch, Hg. 2020.Die Refiguration der Religion. Perspektiven der Religionssoziologie und Religionswissenschaft.Weinheim: Beltz Juventa. 228 Seiten.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0019/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0019</id>
-    <updated>2025-05-06T05:07:24.136715+00:00</updated>
-    <summary>Article by Dirk Schuster
-DOI: https://doi.org/10.1515/zfr-2024-0019</summary>
-  </entry>
-  <entry>
-    <title>Christiane Nagel.Religionswissenschaft und Theologie. Disziplinen diskursiv denken. Theologische Bibliothek Töpelmann 204. Berlin, Boston: De Gruyter, 2023.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2024-0029/html"/>
-    <id>https://doi.org/10.1515/zfr-2024-0029</id>
-    <updated>2025-05-06T05:07:24.136723+00:00</updated>
-    <summary>Article by Isabella Schwaderer
-DOI: https://doi.org/10.1515/zfr-2024-0029</summary>
+    <title>Maren Freudenberg, Kianoosh Rezania. 2023.Religionsökonomie: Einführung für Studierende der Religionswissenschaft und Wirtschaftswissenschaften. UTB 5912. Konstanz: UTB; UVK. 317 Seiten.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfr-2025-0009/html"/>
+    <id>https://doi.org/10.1515/zfr-2025-0009</id>
+    <updated>2025-07-04T16:39:48.356785+00:00</updated>
+    <summary>Article by Evelyn Reuter
+DOI: https://doi.org/10.1515/zfr-2025-0009</summary>
   </entry>
 </feed>

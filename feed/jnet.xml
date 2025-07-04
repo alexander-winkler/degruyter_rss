@@ -1,98 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Non-Equilibrium Thermodynamics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jnet/50/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jnet/50/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnet.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jnet/html" rel="related"/>
-  <updated>2025-05-06T05:00:14.640476+00:00</updated>
+  <updated>2025-06-24T10:48:17.045780+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnet.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Non-Equilibrium Thermodynamics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/jnet-2025-frontmatter2</id>
-    <updated>2025-05-06T05:00:14.640507+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jnet-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/jnet-2025-frontmatter3</id>
+    <updated>2025-06-24T10:48:17.045820+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jnet-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Modeling high-pressure viscosities of fatty acid esters and biodiesel fuels based on modified rough hard-sphere-chain model and deep learning method</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0040/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0040</id>
-    <updated>2025-05-06T05:00:14.640515+00:00</updated>
-    <summary>Article by Sayed Mostafa Hosseini, Mariano Pierantozzi
-DOI: https://doi.org/10.1515/jnet-2024-0040</summary>
+    <title>Heat transfer at nano-scale and boundary conditions: a comparison between the Guyer-Krumhansl model and the Thermomass theory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0098/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0098</id>
+    <updated>2025-06-24T10:48:17.045828+00:00</updated>
+    <summary>Article by Carmelo F. Munafó, Patrizia Rogolino, Antonio Sellitto
+DOI: https://doi.org/10.1515/jnet-2024-0098</summary>
   </entry>
   <entry>
-    <title>Study on heat and mass transfer mechanism of unsaturated porous media under CW laser irradiation: with and without carrier gas</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0025/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0025</id>
-    <updated>2025-05-06T05:00:14.640523+00:00</updated>
-    <summary>Article by Shao-Hui Han, Yuan Dong, Guang-Yong Jin
-DOI: https://doi.org/10.1515/jnet-2024-0025</summary>
+    <title>Exergy-based efficient ecological-function optimization for endoreversible Carnot refrigerators</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0099/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0099</id>
+    <updated>2025-06-24T10:48:17.045837+00:00</updated>
+    <summary>Article by Yanju He, Yanlin Ge, Lingen Chen, Huijun Feng
+DOI: https://doi.org/10.1515/jnet-2024-0099</summary>
   </entry>
   <entry>
-    <title>Efficient ecological function optimization for endoreversible Carnot heat pumps</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0061/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0061</id>
-    <updated>2025-05-06T05:00:14.640529+00:00</updated>
-    <summary>Article by Yiwen Su, Lingen Chen, Yanlin Ge, Huijun Feng
-DOI: https://doi.org/10.1515/jnet-2024-0061</summary>
+    <title>Effect of depositional nanoparticles on heat transfer at the solid–liquid interface using molecular dynamics simulations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0080/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0080</id>
+    <updated>2025-06-24T10:48:17.045845+00:00</updated>
+    <summary>Article by Xunyan Yin, Congzheng Li, Zhihai Kou, Ran Zhang, Hailun Zhou
+DOI: https://doi.org/10.1515/jnet-2024-0080</summary>
   </entry>
   <entry>
-    <title>Entropy as Noether charge for quasistatic gradient flow</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0054/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0054</id>
-    <updated>2025-05-06T05:00:14.640533+00:00</updated>
-    <summary>Article by Aaron Beyen, Christian Maes
-DOI: https://doi.org/10.1515/jnet-2024-0054</summary>
+    <title>Optimization of injection parameters, and ethanol shares for cottonseed biodiesel fuel in diesel engine utilizing artificial neural network (ANN) and taguchi grey relation analysis (GRA)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0095/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0095</id>
+    <updated>2025-06-24T10:48:17.045852+00:00</updated>
+    <summary>Article by G. Praveen Kumar Yadav, Pullarao Muvvala, R. Meenakshi Reddy
+DOI: https://doi.org/10.1515/jnet-2024-0095</summary>
   </entry>
   <entry>
-    <title>Numerical simulation of binary convection within the Soret regime in a tilted cylinder</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0064/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0064</id>
-    <updated>2025-05-06T05:00:14.640538+00:00</updated>
-    <summary>Article by Arantxa Alonso, Isabel Mercader, Oriol Batiste, Alvaro Meseguer
-DOI: https://doi.org/10.1515/jnet-2024-0064</summary>
+    <title>A general relativistic kinetic theory approach to linear transport in generic hydrodynamic frame</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0024/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0024</id>
+    <updated>2025-06-24T10:48:17.045858+00:00</updated>
+    <summary>Article by Long Cui, Xin Hao, Liu Zhao
+DOI: https://doi.org/10.1515/jnet-2024-0024</summary>
   </entry>
   <entry>
-    <title>Is there a need for an extended phase definition for systems far from equilibrium?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0063/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0063</id>
-    <updated>2025-05-06T05:00:14.640543+00:00</updated>
-    <summary>Article by Fernando Bautista, Juan Paulo García-Sandoval, Octavio Manero
-DOI: https://doi.org/10.1515/jnet-2024-0063</summary>
+    <title>Asymmetric quantum harmonic Otto engine under hot squeezed thermal reservoir</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0110/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0110</id>
+    <updated>2025-06-24T10:48:17.045865+00:00</updated>
+    <summary>Article by Monika, Kirandeep Kaur, Varinder Singh, Shishram Rebari
+DOI: https://doi.org/10.1515/jnet-2024-0110</summary>
   </entry>
   <entry>
-    <title>Existence of the Chapman–Enskog solution and its relation with first-order dissipative fluid theories</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0086/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0086</id>
-    <updated>2025-05-06T05:00:14.640548+00:00</updated>
-    <summary>Article by Ana Laura García-Perciante, Alma Rosa Méndez, Olivier Sarbach
-DOI: https://doi.org/10.1515/jnet-2024-0086</summary>
+    <title>Approaches of finite-time thermodynamics in conceptual design of heat exchange systems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0118/html"/>
+    <id>https://doi.org/10.1515/jnet-2024-0118</id>
+    <updated>2025-06-24T10:48:17.045873+00:00</updated>
+    <summary>Article by Ivan Sukin, Alexandr Mazikov, Anatoly Tsirlin, Ruben Gevorkyan
+DOI: https://doi.org/10.1515/jnet-2024-0118</summary>
   </entry>
   <entry>
-    <title>Performance comparison of water towers and combined pumped hydro and compressed gas system and proposing a novel hybrid system to energy storage with a case study of a 50 MW wind farm</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0102/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0102</id>
-    <updated>2025-05-06T05:00:14.640554+00:00</updated>
-    <summary>Article by Amin Hadidi
-DOI: https://doi.org/10.1515/jnet-2024-0102</summary>
+    <title>Thermal transport in a silicon/diamond micro-flake with quantum dots inserts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2025-0025/html"/>
+    <id>https://doi.org/10.1515/jnet-2025-0025</id>
+    <updated>2025-06-24T10:48:17.045879+00:00</updated>
+    <summary>Article by Saad Bin Mansoor, Bekir Sami Yilbas
+DOI: https://doi.org/10.1515/jnet-2025-0025</summary>
   </entry>
   <entry>
-    <title>Thermodynamic characterization of transient valve temperatures in diesel engines using probabilistic methods</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0052/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0052</id>
-    <updated>2025-05-06T05:00:14.640559+00:00</updated>
-    <summary>Article by Pardeep Kumar, Anikate Gupta, Dinesh Kumar, Vipin Kumar Sharma, Santosh Kumar Rai
-DOI: https://doi.org/10.1515/jnet-2024-0052</summary>
-  </entry>
-  <entry>
-    <title>Energetic analysis of a non-isothermal linear energy converter operated in reverse mode (I-LEC): heat pump</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2024-0065/html"/>
-    <id>https://doi.org/10.1515/jnet-2024-0065</id>
-    <updated>2025-05-06T05:00:14.640563+00:00</updated>
-    <summary>Article by Saul Gonzalez-Hernandez
-DOI: https://doi.org/10.1515/jnet-2024-0065</summary>
+    <title>Finite element analysis on generalized piezothermoelastic interactions in an unbounded piezoelectric medium containing a spherical cavity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnet-2025-0034/html"/>
+    <id>https://doi.org/10.1515/jnet-2025-0034</id>
+    <updated>2025-06-24T10:48:17.045889+00:00</updated>
+    <summary>Article by Ibrahim Abbas, Areej Almuneef, Zuhur Alqahtani
+DOI: https://doi.org/10.1515/jnet-2025-0034</summary>
   </entry>
 </feed>

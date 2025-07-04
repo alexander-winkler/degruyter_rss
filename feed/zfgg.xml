@@ -1,66 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für das gesamte Genossenschaftswesen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zfgg/74/4/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zfgg/75/1-2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgg.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/zfgg/html" rel="related"/>
-  <updated>2025-05-06T05:07:19.900512+00:00</updated>
+  <updated>2025-07-04T16:39:44.657843+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zfgg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für das gesamte Genossenschaftswesen</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2024-frontmatter4/html"/>
-    <id>https://doi.org/10.1515/zfgg-2024-frontmatter4</id>
-    <updated>2025-05-06T05:07:19.900551+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zfgg-2024-frontmatter4</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-frontmatter1-2/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-frontmatter1-2</id>
+    <updated>2025-07-04T16:39:44.657874+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zfgg-2025-frontmatter1-2</summary>
   </entry>
   <entry>
-    <title>Energiegenossenschaften im legislativen Aufwind</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0001/html"/>
-    <id>https://doi.org/10.1515/zfgg-2025-0001</id>
-    <updated>2025-05-06T05:07:19.900565+00:00</updated>
-    <summary>Article by Michael Kling
-DOI: https://doi.org/10.1515/zfgg-2025-0001</summary>
+    <title>Genossenschaftsreform mit Augenmaß</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0007/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0007</id>
+    <updated>2025-07-04T16:39:44.657885+00:00</updated>
+    <summary>Article by Christian Picker
+DOI: https://doi.org/10.1515/zfgg-2025-0007</summary>
   </entry>
   <entry>
-    <title>Die Energiewende als gesellschaftliche Transformation: Potenziale der Zivilgesellschaft nutzen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0002/html"/>
-    <id>https://doi.org/10.1515/zfgg-2025-0002</id>
-    <updated>2025-05-06T05:07:19.900575+00:00</updated>
-    <summary>Article by Peter Schubert, Laura Benning, Robert Schlüter, Holger Krimmer
-DOI: https://doi.org/10.1515/zfgg-2025-0002</summary>
+    <title>Schaffung bezahlbaren Wohnraums als soziale Herausforderung – Steuerliche Irrwege als Investitionshemmnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0008/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0008</id>
+    <updated>2025-07-04T16:39:44.657896+00:00</updated>
+    <summary>Article by Eberhard Kalbfleisch, Sascha H. Mölls, Maurice Ulitzka
+DOI: https://doi.org/10.1515/zfgg-2025-0008</summary>
   </entry>
   <entry>
-    <title>Die Entwicklung des EEG und seine Wirkung auf die Energiegenossenschaften am Beispiel der Freiburger Solar-Bürger-Genossenschaft eG</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0003/html"/>
-    <id>https://doi.org/10.1515/zfgg-2025-0003</id>
-    <updated>2025-05-06T05:07:19.900584+00:00</updated>
-    <summary>Article by Burghard Flieger
-DOI: https://doi.org/10.1515/zfgg-2025-0003</summary>
+    <title>Genossenschaftliches Mehrweg-Poolsystem im europäischen Pflanzenhandel – Eine Gründungsstudie am Beispiel der Euro Plant Tray eG</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0009/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0009</id>
+    <updated>2025-07-04T16:39:44.657906+00:00</updated>
+    <summary>Article by Nick Bansemer, Johannes Blome-Drees, Philipp Thimm
+DOI: https://doi.org/10.1515/zfgg-2025-0009</summary>
   </entry>
   <entry>
-    <title>Praktische Erfahrungen bei der Finanzierung von Bürgerenergiegenossenschaften</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0004/html"/>
-    <id>https://doi.org/10.1515/zfgg-2025-0004</id>
-    <updated>2025-05-06T05:07:19.900591+00:00</updated>
-    <summary>Article by Annette Littmann
-DOI: https://doi.org/10.1515/zfgg-2025-0004</summary>
+    <title>Vom Lagerhaus ins Netz: Digitalisierung in landwirtschaftlichen Warengenossenschaften – Ein Kurzbericht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0010/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0010</id>
+    <updated>2025-07-04T16:39:44.657915+00:00</updated>
+    <summary>Article by Julius Velder, Hendrik Wever, Vanessa Bonke, Lorenz Schmidt, Marius Michels
+DOI: https://doi.org/10.1515/zfgg-2025-0010</summary>
   </entry>
   <entry>
-    <title>With Agrivoltaics Cooperatives towards Electricity Self-Sufficient Villages in Germany?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0005/html"/>
-    <id>https://doi.org/10.1515/zfgg-2025-0005</id>
-    <updated>2025-05-06T05:07:19.900598+00:00</updated>
-    <summary>Article by Martin Bauknecht
-DOI: https://doi.org/10.1515/zfgg-2025-0005</summary>
+    <title>Interview mit Prof. Dr. Alexander Lohschmidt, stellvertretender Vorsitzender des Aufsichtsrats Bürger Energie Erzgebirge eG, Drebach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0011/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0011</id>
+    <updated>2025-07-04T16:39:44.657924+00:00</updated>
+    <summary>Article by Alexander Lohschmidt, Richard Reichel
+DOI: https://doi.org/10.1515/zfgg-2025-0011</summary>
   </entry>
   <entry>
-    <title>Genossenschaftsbanken und Energiewende</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0006/html"/>
-    <id>https://doi.org/10.1515/zfgg-2025-0006</id>
-    <updated>2025-05-06T05:07:19.900606+00:00</updated>
-    <summary>Article by Michael Brechtelsbauer
-DOI: https://doi.org/10.1515/zfgg-2025-0006</summary>
+    <title>Volker Beuthien zum 90. Geburtstag</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0012/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0012</id>
+    <updated>2025-07-04T16:39:44.657932+00:00</updated>
+    <summary>Article by Heinz-Otto Weber
+DOI: https://doi.org/10.1515/zfgg-2025-0012</summary>
+  </entry>
+  <entry>
+    <title>Handbuch Genossenschaftswesen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0013/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0013</id>
+    <updated>2025-07-04T16:39:44.657940+00:00</updated>
+    <summary>Article by Arnd Kluge
+DOI: https://doi.org/10.1515/zfgg-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Kooperatives Wirtschaften in der Zivilgesellschaft. Gemeinwohlorientiert, tragfähig und transformativ</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zfgg-2025-0014/html"/>
+    <id>https://doi.org/10.1515/zfgg-2025-0014</id>
+    <updated>2025-07-04T16:39:44.657949+00:00</updated>
+    <summary>Article by Ingrid Schmale
+DOI: https://doi.org/10.1515/zfgg-2025-0014</summary>
   </entry>
 </feed>

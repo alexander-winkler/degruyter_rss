@@ -1,90 +1,19 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Statistical Applications in Genetics and Molecular Biology</title>
-  <link href="https://www.degruyterbrill.com/journal/key/sagmb/23/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/sagmb/24/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sagmb.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/sagmb/html" rel="related"/>
-  <updated>2025-05-06T05:05:23.517541+00:00</updated>
+  <updated>2025-07-04T16:38:13.214792+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sagmb.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Statistical Applications in Genetics and Molecular Biology</subtitle>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2024-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/sagmb-2024-frontmatter1</id>
-    <updated>2025-05-06T05:05:23.517565+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/sagmb-2024-frontmatter1</summary>
-  </entry>
-  <entry>
-    <title>Empirically adjusted fixed-effects meta-analysis methods in genomic studies</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0041/html"/>
-    <id>https://doi.org/10.1515/sagmb-2023-0041</id>
-    <updated>2025-05-06T05:05:23.517574+00:00</updated>
-    <summary>Article by Wimarsha T. Jayanetti, Sinjini Sikdar
-DOI: https://doi.org/10.1515/sagmb-2023-0041</summary>
-  </entry>
-  <entry>
-    <title>A CNN-CBAM-BIGRU model for protein function prediction</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2024-0004/html"/>
-    <id>https://doi.org/10.1515/sagmb-2024-0004</id>
-    <updated>2025-05-06T05:05:23.517583+00:00</updated>
-    <summary>Article by Lavkush Sharma, Akshay Deepak, Ashish Ranjan, Gopalakrishnan Krishnasamy
-DOI: https://doi.org/10.1515/sagmb-2024-0004</summary>
-  </entry>
-  <entry>
-    <title>A heavy-tailed model for analyzing miRNA-seq raw read counts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0016/html"/>
-    <id>https://doi.org/10.1515/sagmb-2023-0016</id>
-    <updated>2025-05-06T05:05:23.517591+00:00</updated>
-    <summary>Article by Annika Krutto, Therese Haugdahl Nøst, Magne Thoresen
-DOI: https://doi.org/10.1515/sagmb-2023-0016</summary>
-  </entry>
-  <entry>
-    <title>Flexible model-based non-negative matrix factorization with application to mutational signatures</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0034/html"/>
-    <id>https://doi.org/10.1515/sagmb-2023-0034</id>
-    <updated>2025-05-06T05:05:23.517599+00:00</updated>
-    <summary>Article by Ragnhild Laursen, Lasse Maretty, Asger Hobolth
-DOI: https://doi.org/10.1515/sagmb-2023-0034</summary>
-  </entry>
-  <entry>
-    <title>Choice of baseline hazards in joint modeling of longitudinal and time-to-event cancer survival data</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0038/html"/>
-    <id>https://doi.org/10.1515/sagmb-2023-0038</id>
-    <updated>2025-05-06T05:05:23.517607+00:00</updated>
-    <summary>Article by Anand Hari, Edakkalathoor George Jinto, Divya Dennis, Kumarapillai Mohanan Nair Jagathnath Krishna, Preethi S. George, Sivasevan Roshni, Aleyamma Mathew
-DOI: https://doi.org/10.1515/sagmb-2023-0038</summary>
-  </entry>
-  <entry>
-    <title>Assessing the feasibility of statistical inference using synthetic antibody-antigen datasets</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2023-0027/html"/>
-    <id>https://doi.org/10.1515/sagmb-2023-0027</id>
-    <updated>2025-05-06T05:05:23.517615+00:00</updated>
-    <summary>Article by Thomas Minotto, Philippe A. Robert, Ingrid Hobæk Haff, Geir K. Sandve
-DOI: https://doi.org/10.1515/sagmb-2023-0027</summary>
-  </entry>
-  <entry>
-    <title>A global test of hybrid ancestry from genome-scale data</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2022-0061/html"/>
-    <id>https://doi.org/10.1515/sagmb-2022-0061</id>
-    <updated>2025-05-06T05:05:23.517622+00:00</updated>
-    <summary>Article by Md Rejuan Haque, Laura Kubatko
-DOI: https://doi.org/10.1515/sagmb-2022-0061</summary>
-  </entry>
-  <entry>
-    <title>Integrative pathway analysis with gene expression, miRNA, methylation and copy number variation for breast cancer subtypes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2019-0050/html"/>
-    <id>https://doi.org/10.1515/sagmb-2019-0050</id>
-    <updated>2025-05-06T05:05:23.517629+00:00</updated>
-    <summary>Article by Henry Linder, Yuping Zhang, Yunqi Wang, Zhengqing Ouyang
-DOI: https://doi.org/10.1515/sagmb-2019-0050</summary>
-  </entry>
-  <entry>
-    <title>Bayesian LASSO for population stratification correction in rare haplotype association studies</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2022-0034/html"/>
-    <id>https://doi.org/10.1515/sagmb-2022-0034</id>
-    <updated>2025-05-06T05:05:23.517637+00:00</updated>
-    <summary>Article by Zilu Liu, Asuman Seda Turkmen, Shili Lin
-DOI: https://doi.org/10.1515/sagmb-2022-0034</summary>
+    <title>A fast (CNN + MCWS-transformer) based architecture for protein function prediction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sagmb-2024-0027/html"/>
+    <id>https://doi.org/10.1515/sagmb-2024-0027</id>
+    <updated>2025-07-04T16:38:13.214808+00:00</updated>
+    <summary>Article by Abhipsa Mahala, Ashish Ranjan, Rojalina Priyadarshini, Raj Vikram, Prabhat Dansena
+DOI: https://doi.org/10.1515/sagmb-2024-0027</summary>
   </entry>
 </feed>

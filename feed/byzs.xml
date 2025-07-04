@@ -1,150 +1,39 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Byzantinische Zeitschrift</title>
-  <link href="https://www.degruyterbrill.com/journal/key/byzs/118/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/byzs/118/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/byzs.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/byzs/html" rel="related"/>
-  <updated>2025-05-06T04:53:32.148838+00:00</updated>
+  <updated>2025-06-24T10:35:35.420316+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/byzs.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Byzantinische Zeitschrift</subtitle>
   <entry>
     <title>Titelei</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-frontmatter11801/html"/>
-    <id>https://doi.org/10.1515/bz-2025-frontmatter11801</id>
-    <updated>2025-05-06T04:53:32.148860+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bz-2025-frontmatter11801</summary>
-  </entry>
-  <entry>
-    <title>Siglenverzeichnis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0001/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0001</id>
-    <updated>2025-05-06T04:53:32.148868+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bz-2025-0001</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-frontmatter11802/html"/>
+    <id>https://doi.org/10.1515/bz-2025-frontmatter11802</id>
+    <updated>2025-06-24T10:35:35.420355+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bz-2025-frontmatter11802</summary>
   </entry>
   <entry>
     <title>Inhalt</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-toc11801/html"/>
-    <id>https://doi.org/10.1515/bz-2025-toc11801</id>
-    <updated>2025-05-06T04:53:32.148874+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bz-2025-toc11801</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-toc11802/html"/>
+    <id>https://doi.org/10.1515/bz-2025-toc11802</id>
+    <updated>2025-06-24T10:35:35.420367+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bz-2025-toc11802</summary>
   </entry>
   <entry>
-    <title>The importance of Sozopolis Fortress in determining the location of the battle of Myriokephalon</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0002/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0002</id>
-    <updated>2025-05-06T04:53:32.148880+00:00</updated>
-    <summary>Article by Serhat Altınkaynak
-DOI: https://doi.org/10.1515/bz-2025-0002</summary>
+    <title>Siglenverzeichnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0020/html"/>
+    <id>https://doi.org/10.1515/bz-2025-0020</id>
+    <updated>2025-06-24T10:35:35.420377+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bz-2025-0020</summary>
   </entry>
   <entry>
-    <title>“Let us weep with much compunction”. Edition and translation of a katanyktic kanon by Neophytos Enkleistos</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0003/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0003</id>
-    <updated>2025-05-06T04:53:32.148894+00:00</updated>
-    <summary>Article by Cristina Cocola
-DOI: https://doi.org/10.1515/bz-2025-0003</summary>
-  </entry>
-  <entry>
-    <title>Anastasius I, Justin I and Vitalian: the political appropriation of Archangel Michael</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0004/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0004</id>
-    <updated>2025-05-06T04:53:32.148901+00:00</updated>
-    <summary>Article by Brian Croke
-DOI: https://doi.org/10.1515/bz-2025-0004</summary>
-  </entry>
-  <entry>
-    <title>The Martyrion of Theodoros at Hippos above the Sea of Galilee</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0005/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0005</id>
-    <updated>2025-05-06T04:53:32.148908+00:00</updated>
-    <summary>Article by Michael Eisenberg, Gregor Staab, Arleta Kowalewska
-DOI: https://doi.org/10.1515/bz-2025-0005</summary>
-  </entry>
-  <entry>
-    <title>„Lasst uns angesichts trauriger Ereignisse nicht unsinnig den Mut verlieren!“ Andreas von Kretas Homilia de lunatico (CPG 8210)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0006/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0006</id>
-    <updated>2025-05-06T04:53:32.148915+00:00</updated>
-    <summary>Article by Radu Gârbacea, Konrad F. Zawadzki
-DOI: https://doi.org/10.1515/bz-2025-0006</summary>
-  </entry>
-  <entry>
-    <title>The Psalms of Degrees through Byzantine lenses: the Anabathmoi of the Oktoechos and their commentary by Nikephoros Xanthopoulos</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0007/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0007</id>
-    <updated>2025-05-06T04:53:32.148921+00:00</updated>
-    <summary>Article by Maria-Lucia Goiana
-DOI: https://doi.org/10.1515/bz-2025-0007</summary>
-  </entry>
-  <entry>
-    <title>Two campaigns in one year? The chronology of the beginning of the Avar wars of Emperor Maurice (582–602) revisited</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0008/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0008</id>
-    <updated>2025-05-06T04:53:32.148941+00:00</updated>
-    <summary>Article by Martin Hurbanič
-DOI: https://doi.org/10.1515/bz-2025-0008</summary>
-  </entry>
-  <entry>
-    <title>Joseph Rhakendytes’ Synopsis of Rhetoric and the late Byzantine rhetorical curriculum</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0009/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0009</id>
-    <updated>2025-05-06T04:53:32.148949+00:00</updated>
-    <summary>Article by Vessela Valiavitcharska
-DOI: https://doi.org/10.1515/bz-2025-0009</summary>
-  </entry>
-  <entry>
-    <title>‘Our imperial dignity is the source, seat and highest summit of all earthly power’. To legitimate a new signoria: the privileges of John VIII Palaiologos to Florence in 1439</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0010/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0010</id>
-    <updated>2025-05-06T04:53:32.148958+00:00</updated>
-    <summary>Article by Carlo Virgilio
-DOI: https://doi.org/10.1515/bz-2025-0010</summary>
-  </entry>
-  <entry>
-    <title>Reconsidering the floruit of Anastasius of Sinai</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0011/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0011</id>
-    <updated>2025-05-06T04:53:32.148965+00:00</updated>
-    <summary>Article by Dimitrios Zaganas
-DOI: https://doi.org/10.1515/bz-2025-0011</summary>
-  </entry>
-  <entry>
-    <title>Anna M. Sitz. Pagan inscriptions, Christian viewers. The afterlives of temples and their texts in the late antique eastern Mediterranean</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0012/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0012</id>
-    <updated>2025-05-06T04:53:32.148971+00:00</updated>
-    <summary>Article by Benjamin Anderson
-DOI: https://doi.org/10.1515/bz-2025-0012</summary>
-  </entry>
-  <entry>
-    <title>Myrto Veikou. Spatial paths to holiness. Literary ‘lived spaces’ in eleventhcentury Byzantine saints’ lives</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0013/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0013</id>
-    <updated>2025-05-06T04:53:32.148977+00:00</updated>
-    <summary>Article by Piril Us MacLennan
-DOI: https://doi.org/10.1515/bz-2025-0013</summary>
-  </entry>
-  <entry>
-    <title>Joanita Vroom (Ed.), Feeding the Byzantine city. The archaeology of consumption in the eastern Mediterranean (ca. 500–1500)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0014/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0014</id>
-    <updated>2025-05-06T04:53:32.148986+00:00</updated>
-    <summary>Article by Beate Böhlendorf-Arslan
-DOI: https://doi.org/10.1515/bz-2025-0014</summary>
-  </entry>
-  <entry>
-    <title>Totentafel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0015/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0015</id>
-    <updated>2025-05-06T04:53:32.148993+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bz-2025-0015</summary>
-  </entry>
-  <entry>
-    <title>Tafelanhang</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0016/html"/>
-    <id>https://doi.org/10.1515/bz-2025-0016</id>
-    <updated>2025-05-06T04:53:32.148998+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bz-2025-0016</summary>
+    <title>Bibliographische Notizen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bz-2025-0021/html"/>
+    <id>https://doi.org/10.1515/bz-2025-0021</id>
+    <updated>2025-06-24T10:35:35.420386+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bz-2025-0021</summary>
   </entry>
 </feed>

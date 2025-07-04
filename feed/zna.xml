@@ -1,74 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Naturforschung A</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zna/80/6/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zna/80/7/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zna.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/zna/html" rel="related"/>
-  <updated>2025-06-06T09:47:23.924902+00:00</updated>
+  <updated>2025-07-04T16:40:09.759809+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zna.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Naturforschung A</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-frontmatter6/html"/>
-    <id>https://doi.org/10.1515/zna-2025-frontmatter6</id>
-    <updated>2025-06-06T09:47:23.924923+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zna-2025-frontmatter6</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-frontmatter7/html"/>
+    <id>https://doi.org/10.1515/zna-2025-frontmatter7</id>
+    <updated>2025-07-04T16:40:09.759834+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zna-2025-frontmatter7</summary>
   </entry>
   <entry>
-    <title>Controlling the convective heat transfer of shear thinning and shear thickening fluids in parallel plates with magnetic force</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0015/html"/>
-    <id>https://doi.org/10.1515/zna-2025-0015</id>
-    <updated>2025-06-06T09:47:23.924950+00:00</updated>
-    <summary>Article by Mubbashar Nazeer, Salman Saleem, M. Waqas Nazir
-DOI: https://doi.org/10.1515/zna-2025-0015</summary>
+    <title>Canonical quantization of dynamical systems using gauge transformation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2024-0311/html"/>
+    <id>https://doi.org/10.1515/zna-2024-0311</id>
+    <updated>2025-07-04T16:40:09.759841+00:00</updated>
+    <summary>Article by Farhan Saif
+DOI: https://doi.org/10.1515/zna-2024-0311</summary>
   </entry>
   <entry>
-    <title>Multistability, chaos and hyperchaos in a novel 3D discrete memristive system: microcontroller implementation and cryptography</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0024/html"/>
-    <id>https://doi.org/10.1515/zna-2025-0024</id>
-    <updated>2025-06-06T09:47:23.924975+00:00</updated>
-    <summary>Article by Brondelle Falonne Namekong Tatang, Adele Armele Ngo Mouelas, Rodrigue Andre Tchamda, Herman Landry Ndassi, Romanic Kengne, Martin Tchoffo
-DOI: https://doi.org/10.1515/zna-2025-0024</summary>
+    <title>New performances to the perturbed rotation dynamics of the two-dimensional homogeneous Bose–Einstein condensates</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0082/html"/>
+    <id>https://doi.org/10.1515/zna-2025-0082</id>
+    <updated>2025-07-04T16:40:09.759848+00:00</updated>
+    <summary>Article by Emad Zahran, Ahmet Bekir, Maha Shehata
+DOI: https://doi.org/10.1515/zna-2025-0082</summary>
   </entry>
   <entry>
-    <title>Comparative study of thermally intense cilia and non-cilia generated motion of Ellis’s fluid by using MATHEMATICA 14.1</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0006/html"/>
-    <id>https://doi.org/10.1515/zna-2025-0006</id>
-    <updated>2025-06-06T09:47:23.924980+00:00</updated>
-    <summary>Article by Zareen Zafar, Zulfiqar Ali, Mubbashar Nazeer
-DOI: https://doi.org/10.1515/zna-2025-0006</summary>
+    <title>Effect of couple stresses on convective stability of rotating Navier–Stokes–Voigt fluid saturating a porous medium</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0012/html"/>
+    <id>https://doi.org/10.1515/zna-2025-0012</id>
+    <updated>2025-07-04T16:40:09.759853+00:00</updated>
+    <summary>Article by Deepak Kumar, Sunil, Reeta Devi
+DOI: https://doi.org/10.1515/zna-2025-0012</summary>
   </entry>
   <entry>
-    <title>Nonlinear electrodynamics and its possible connection to relativistic superconductivity: instance of a time-dependent system</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2024-0208/html"/>
-    <id>https://doi.org/10.1515/zna-2024-0208</id>
-    <updated>2025-06-06T09:47:23.924985+00:00</updated>
-    <summary>Article by Stanley A. Bruce
-DOI: https://doi.org/10.1515/zna-2024-0208</summary>
+    <title>Nonlinear propagation of coherent Rossby waves in the earth’s atmosphere</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0038/html"/>
+    <id>https://doi.org/10.1515/zna-2025-0038</id>
+    <updated>2025-07-04T16:40:09.759859+00:00</updated>
+    <summary>Article by Chandan Bhowmik, Biswajit Sahu
+DOI: https://doi.org/10.1515/zna-2025-0038</summary>
   </entry>
   <entry>
-    <title>Galilean decoherence and quantum measurement</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2024-0313/html"/>
-    <id>https://doi.org/10.1515/zna-2024-0313</id>
-    <updated>2025-06-06T09:47:23.925019+00:00</updated>
-    <summary>Article by Heinz-Jürgen Schmidt
-DOI: https://doi.org/10.1515/zna-2024-0313</summary>
+    <title>Chemical reactive Casson nanofluid with gyrotactic microorganisms and velocity slips conditions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2024-0277/html"/>
+    <id>https://doi.org/10.1515/zna-2024-0277</id>
+    <updated>2025-07-04T16:40:09.759863+00:00</updated>
+    <summary>Article by Waleed Khan, Waris Khan, Shah Hussain, Bashir Salah
+DOI: https://doi.org/10.1515/zna-2024-0277</summary>
   </entry>
   <entry>
-    <title>A dynamically tunable polarization-insensitive broadband vanadium dioxide-assisted absorber for terahertz applications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0058/html"/>
-    <id>https://doi.org/10.1515/zna-2025-0058</id>
-    <updated>2025-06-06T09:47:23.925029+00:00</updated>
-    <summary>Article by Mahesh Valathuru, Pokkunuri Pardhasaradhi, Boddapati Taraka Phani Madhav, Prasad Nagandla
-DOI: https://doi.org/10.1515/zna-2025-0058</summary>
-  </entry>
-  <entry>
-    <title>Heat transfer analysis for the Cattaneo–Cristov heat flux model using integral transform technique with isothermal and isoflux wall conditions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2025-0018/html"/>
-    <id>https://doi.org/10.1515/zna-2025-0018</id>
-    <updated>2025-06-06T09:47:23.925035+00:00</updated>
-    <summary>Article by Zeeshan Asghar, Muhammad Waris Saeed Khan, Wasfi Shatanawi, Muhammad Asif Gondal
-DOI: https://doi.org/10.1515/zna-2025-0018</summary>
+    <title>Head-on collision phenomena and coherent structures of ion-acoustic waves in dusty plasmas: adiabatic pair ions and combined kappa-Cairns distributed electrons</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zna-2024-0245/html"/>
+    <id>https://doi.org/10.1515/zna-2024-0245</id>
+    <updated>2025-07-04T16:40:09.759869+00:00</updated>
+    <summary>Article by Umma Imon, Mohammad Shah Alam
+DOI: https://doi.org/10.1515/zna-2024-0245</summary>
   </entry>
 </feed>

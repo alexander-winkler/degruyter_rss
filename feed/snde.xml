@@ -1,66 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Studies in Nonlinear Dynamics &amp; Econometrics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/snde/29/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/snde/29/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/snde/html" rel="related"/>
-  <updated>2025-05-06T05:05:47.102974+00:00</updated>
+  <updated>2025-07-04T16:38:31.553433+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Studies in Nonlinear Dynamics &amp; Econometrics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/snde-2025-frontmatter2</id>
-    <updated>2025-05-06T05:05:47.102990+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/snde-2025-frontmatter3</id>
+    <updated>2025-07-04T16:38:31.553449+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Multiscale SUR Estimation of Systematic Risk</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0017/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0017</id>
-    <updated>2025-05-06T05:05:47.102995+00:00</updated>
-    <summary>Article by Antonis A. Michis
-DOI: https://doi.org/10.1515/snde-2023-0017</summary>
+    <title>Multivariate Stochastic Volatility with Co-Heteroscedasticity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0056/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0056</id>
+    <updated>2025-07-04T16:38:31.553454+00:00</updated>
+    <summary>Article by Joshua Chan, Arnaud Doucet, Roberto León-González, Rodney W. Strachan
+DOI: https://doi.org/10.1515/snde-2023-0056</summary>
   </entry>
   <entry>
-    <title>A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0028/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0028</id>
-    <updated>2025-05-06T05:05:47.103001+00:00</updated>
-    <summary>Article by Jean-François Bégin, Mathieu Boudreault
-DOI: https://doi.org/10.1515/snde-2023-0028</summary>
+    <title>Extreme Return Spillover Between the WTI, the VIX, and Six Latin American Stock Markets: A Quantile Connectedness Approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0076/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0076</id>
+    <updated>2025-07-04T16:38:31.553459+00:00</updated>
+    <summary>Article by Maximiliano Kruel, Paulo Sergio Ceretta
+DOI: https://doi.org/10.1515/snde-2023-0076</summary>
   </entry>
   <entry>
-    <title>Core Inflation Rate for China and the ASEAN-10 Countries: Smoothed Signal for Score-Driven Local Level Plus Scale Models</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0042/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0042</id>
-    <updated>2025-05-06T05:05:47.103006+00:00</updated>
-    <summary>Article by Szabolcs Blazsek, Adrian Licht, Astrid Ayala, Su-Ping Liu
-DOI: https://doi.org/10.1515/snde-2023-0042</summary>
+    <title>A Regression-based Method for Estimating Generalised Entropy and Atkinson Inequality Indices and their Standard Errors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2024-0021/html"/>
+    <id>https://doi.org/10.1515/snde-2024-0021</id>
+    <updated>2025-07-04T16:38:31.553464+00:00</updated>
+    <summary>Article by Sriram Shankar
+DOI: https://doi.org/10.1515/snde-2024-0021</summary>
   </entry>
   <entry>
-    <title>Diversified Reward-Risk Parity in Portfolio Construction</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0012/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0012</id>
-    <updated>2025-05-06T05:05:47.103010+00:00</updated>
-    <summary>Article by Jaehyung Choi, Hyangju Kim, Young Shin Kim
-DOI: https://doi.org/10.1515/snde-2023-0012</summary>
+    <title>Homogeneity Pursuit in the Functional-Coefficient Quantile Regression Model for Panel Data with Censored Data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0024/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0024</id>
+    <updated>2025-07-04T16:38:31.553468+00:00</updated>
+    <summary>Article by Lu Li, Yue Xia, Shuyi Ren, Xiaorong Yang
+DOI: https://doi.org/10.1515/snde-2023-0024</summary>
   </entry>
   <entry>
-    <title>Time-Varying Parameter Four-Equation DSGE Model</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0010/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0010</id>
-    <updated>2025-05-06T05:05:47.103015+00:00</updated>
-    <summary>Article by Rangan Gupta, Xiaojin Sun
-DOI: https://doi.org/10.1515/snde-2023-0010</summary>
+    <title>Asymptotic Efficiency of Joint Estimator Relative to Two-Stage Estimator Under Misspecified Likelihoods</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0009/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0009</id>
+    <updated>2025-07-04T16:38:31.553472+00:00</updated>
+    <summary>Article by Doosoo Kim
+DOI: https://doi.org/10.1515/snde-2023-0009</summary>
   </entry>
   <entry>
-    <title>Does State Dependence Matter in Relation to Oil Price Shocks on Global Economic Conditions?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0018/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0018</id>
-    <updated>2025-05-06T05:05:47.103019+00:00</updated>
-    <summary>Article by Gilles Dufrénot, William Ginn, Marc Pourroy, Adam Sullivan
-DOI: https://doi.org/10.1515/snde-2023-0018</summary>
+    <title>Chinese Crude Oil Futures and Sectoral Stocks: Copula-Based Dependence Structure and Connectedness</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0083/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0083</id>
+    <updated>2025-07-04T16:38:31.553476+00:00</updated>
+    <summary>Article by Zulfiqar A. Imran, Muhammad Ahad, Mobeen Ahmad, Imran Hameed
+DOI: https://doi.org/10.1515/snde-2023-0083</summary>
   </entry>
 </feed>

@@ -1,225 +1,187 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Mitteilungen der Deutschen Mathematiker-Vereinigung</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dmvm/33/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dmvm/33/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmvm.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/dmvm/html" rel="related"/>
-  <updated>2025-05-06T04:55:10.475410+00:00</updated>
+  <updated>2025-06-24T10:39:23.488197+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dmvm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Mitteilungen der Deutschen Mathematiker-Vereinigung</subtitle>
   <entry>
-    <title>Gesamtheft 33(1)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-frontmatter3301/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-frontmatter3301</id>
-    <updated>2025-05-06T04:55:10.475432+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-frontmatter3301</summary>
-  </entry>
-  <entry>
-    <title>Gesamtheft 33(1)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-3301/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-3301</id>
-    <updated>2025-05-06T04:55:10.475439+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-3301</summary>
+    <title>Gesamtheft 33(2)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-3302/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-3302</id>
+    <updated>2025-06-24T10:39:23.488217+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dmvm-2025-3302</summary>
   </entry>
   <entry>
     <title>Editorial</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0001/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0001</id>
-    <updated>2025-05-06T04:55:10.475444+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0001</summary>
-  </entry>
-  <entry>
-    <title>Inhalt</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0002/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0002</id>
-    <updated>2025-05-06T04:55:10.475449+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0002</summary>
-  </entry>
-  <entry>
-    <title>Save the Date: DMV Topic Days zu Felix Klein</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0003/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0003</id>
-    <updated>2025-05-06T04:55:10.475454+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0003</summary>
-  </entry>
-  <entry>
-    <title>Grußwort des Präsidenten</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0004/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0004</id>
-    <updated>2025-05-06T04:55:10.475462+00:00</updated>
-    <summary>Article by Jürg Kramer
-DOI: https://doi.org/10.1515/dmvm-2025-0004</summary>
-  </entry>
-  <entry>
-    <title>Verleihung der Georg-Cantor-Medaille der Deutschen Mathematiker-Vereinigung an Felix Otto</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0005/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0005</id>
-    <updated>2025-05-06T04:55:10.475469+00:00</updated>
-    <summary>Article by Karin Richter
-DOI: https://doi.org/10.1515/dmvm-2025-0005</summary>
-  </entry>
-  <entry>
-    <title>Laudatio zur Verleihung der Georg-Cantor-Medaille an Felix Otto</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0006/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0006</id>
-    <updated>2025-05-06T04:55:10.475479+00:00</updated>
-    <summary>Article by Angela Stevens
-DOI: https://doi.org/10.1515/dmvm-2025-0006</summary>
-  </entry>
-  <entry>
-    <title>News, Tipps und Termine</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0007/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0007</id>
-    <updated>2025-05-06T04:55:10.475485+00:00</updated>
-    <summary>Article by Thomas Vogt
-DOI: https://doi.org/10.1515/dmvm-2025-0007</summary>
-  </entry>
-  <entry>
-    <title>Zufall und Schleifensuppen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0008/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0008</id>
-    <updated>2025-05-06T04:55:10.475490+00:00</updated>
-    <summary>Article by Alexandra Quitmann
-DOI: https://doi.org/10.1515/dmvm-2025-0008</summary>
-  </entry>
-  <entry>
-    <title>Elliptische Kurven, Modulformen und ihre Galois-Darstellungen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0009/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0009</id>
-    <updated>2025-05-06T04:55:10.475498+00:00</updated>
-    <summary>Article by Carlo Kaul
-DOI: https://doi.org/10.1515/dmvm-2025-0009</summary>
-  </entry>
-  <entry>
-    <title>Modellerweiterungen eines Advektion-Diffusion-Reaktion-Modells für Waldbrände</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0010/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0010</id>
-    <updated>2025-05-06T04:55:10.475503+00:00</updated>
-    <summary>Article by Luca Nieding
-DOI: https://doi.org/10.1515/dmvm-2025-0010</summary>
-  </entry>
-  <entry>
-    <title>KMS-Ungleichungen: Von elliptischen Operatoren zu konstantem Rang</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0011/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0011</id>
-    <updated>2025-05-06T04:55:10.475509+00:00</updated>
-    <summary>Article by Paul Stephan
-DOI: https://doi.org/10.1515/dmvm-2025-0011</summary>
-  </entry>
-  <entry>
-    <title>Zur Minimierung der Willmore-Energie unter einer Nebenbedingung an Fläche und totale mittlere Krümmung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0012/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0012</id>
-    <updated>2025-05-06T04:55:10.475514+00:00</updated>
-    <summary>Article by Alexander West
-DOI: https://doi.org/10.1515/dmvm-2025-0012</summary>
-  </entry>
-  <entry>
-    <title>Welches fachliche Wissen sollten angehende Gymnasiallehrkräfte erwerben?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0013/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0013</id>
-    <updated>2025-05-06T04:55:10.475520+00:00</updated>
-    <summary>Article by Birke-Johanna Weber, Daniel Sommerhoff, Anika Dreher, Aiso Heinze
-DOI: https://doi.org/10.1515/dmvm-2025-0013</summary>
-  </entry>
-  <entry>
-    <title>Logbuch Mathematik</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0014/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0014</id>
-    <updated>2025-05-06T04:55:10.475525+00:00</updated>
-    <summary>Article by Thilo Kuessner
-DOI: https://doi.org/10.1515/dmvm-2025-0014</summary>
-  </entry>
-  <entry>
-    <title>Queer in Math Day 2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0015/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0015</id>
-    <updated>2025-05-06T04:55:10.475530+00:00</updated>
-    <summary>Article by Celia Hacker, Leonie Kayser, Mireille Soergel
-DOI: https://doi.org/10.1515/dmvm-2025-0015</summary>
-  </entry>
-  <entry>
-    <title>Is Career Mobility a Strategic Advantage? Weighing the Worth – A Personal Journey</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0016/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0016</id>
-    <updated>2025-05-06T04:55:10.475536+00:00</updated>
-    <summary>Article by Adrian Muntean
-DOI: https://doi.org/10.1515/dmvm-2025-0016</summary>
-  </entry>
-  <entry>
-    <title>Mathe studiert – und dann?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0017/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0017</id>
-    <updated>2025-05-06T04:55:10.475541+00:00</updated>
-    <summary>Article by Kari Küster
-DOI: https://doi.org/10.1515/dmvm-2025-0017</summary>
-  </entry>
-  <entry>
-    <title>Erstis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0018/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0018</id>
-    <updated>2025-05-06T04:55:10.475550+00:00</updated>
-    <summary>Article by Rebecca Waldecker
-DOI: https://doi.org/10.1515/dmvm-2025-0018</summary>
-  </entry>
-  <entry>
-    <title>Das Institut für Mathematik der Technischen Universität Clausthal</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0019/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0019</id>
-    <updated>2025-05-06T04:55:10.475555+00:00</updated>
-    <summary>Article by Niklas Sapountzoglou, Aleksandra Zimmermann
-DOI: https://doi.org/10.1515/dmvm-2025-0019</summary>
-  </entry>
-  <entry>
-    <title>Die Mathematik in Rostock: Mit Tradition innovativ</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0020/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0020</id>
-    <updated>2025-05-06T04:55:10.475562+00:00</updated>
-    <summary>Article by Gohar Kyureghyan, Roger Labahn, Dennis Müller, Andreas Straßburg
-DOI: https://doi.org/10.1515/dmvm-2025-0020</summary>
-  </entry>
-  <entry>
-    <title>Ein neuer Name für die DMV? Ergebnis der Mitgliederbefragung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0021/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0021</id>
-    <updated>2025-05-06T04:55:10.475568+00:00</updated>
-    <summary>Article by Moritz Kaßmann, Jörg Lehnert
-DOI: https://doi.org/10.1515/dmvm-2025-0021</summary>
-  </entry>
-  <entry>
-    <title>Protokoll der Mitgliederversammlung der DMV Erlangen, 6.12.2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0023/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0023</id>
-    <updated>2025-05-06T04:55:10.475574+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0023</summary>
-  </entry>
-  <entry>
-    <title>Ergebnis der Wahlen zum DMV-Präsidium ab 2025</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0022/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0022</id>
-    <updated>2025-05-06T04:55:10.475579+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0022</summary>
-  </entry>
-  <entry>
-    <title>Protokoll der Mitgliederversammlung der DMV am 6. 12. 2024</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0025/html"/>
     <id>https://doi.org/10.1515/dmvm-2025-0025</id>
-    <updated>2025-05-06T04:55:10.475584+00:00</updated>
+    <updated>2025-06-24T10:39:23.488224+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dmvm-2025-0025</summary>
   </entry>
   <entry>
-    <title>INFORMATIONEN</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0024/html"/>
-    <id>https://doi.org/10.1515/dmvm-2025-0024</id>
-    <updated>2025-05-06T04:55:10.475589+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0024</summary>
-  </entry>
-  <entry>
-    <title>Die DMV und Impressum</title>
+    <title>Inhalt</title>
     <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0026/html"/>
     <id>https://doi.org/10.1515/dmvm-2025-0026</id>
-    <updated>2025-05-06T04:55:10.475593+00:00</updated>
+    <updated>2025-06-24T10:39:23.488230+00:00</updated>
     <summary>DOI: https://doi.org/10.1515/dmvm-2025-0026</summary>
+  </entry>
+  <entry>
+    <title>Einladung zur Mitgliederversammlung der DMV</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0028/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0028</id>
+    <updated>2025-06-24T10:39:23.488235+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0028</summary>
+  </entry>
+  <entry>
+    <title>Grußwort des Präsidenten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0029/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0029</id>
+    <updated>2025-06-24T10:39:23.488241+00:00</updated>
+    <summary>Article by Jürg Kramer
+DOI: https://doi.org/10.1515/dmvm-2025-0029</summary>
+  </entry>
+  <entry>
+    <title>News, Tipps und Termine</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0030/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0030</id>
+    <updated>2025-06-24T10:39:23.488249+00:00</updated>
+    <summary>Article by Thomas Vogt
+DOI: https://doi.org/10.1515/dmvm-2025-0030</summary>
+  </entry>
+  <entry>
+    <title>Wissenschaft braucht mehr als Geld und gute Worte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0031/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0031</id>
+    <updated>2025-06-24T10:39:23.488255+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0031</summary>
+  </entry>
+  <entry>
+    <title>LieART – Lie-Algebren und Darstellungstheorie</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0032/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0032</id>
+    <updated>2025-06-24T10:39:23.488261+00:00</updated>
+    <summary>Article by Robert Feger
+DOI: https://doi.org/10.1515/dmvm-2025-0032</summary>
+  </entry>
+  <entry>
+    <title>Building bridges between Bayesian Statistics and Deep Learning</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0033/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0033</id>
+    <updated>2025-06-24T10:39:23.488266+00:00</updated>
+    <summary>Article by Nadja Klein, Moussa Kassem Sbeyti
+DOI: https://doi.org/10.1515/dmvm-2025-0033</summary>
+  </entry>
+  <entry>
+    <title>Hodge-Zahlen in positiver Charakteristik und gewöhnliche Varietäten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0034/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0034</id>
+    <updated>2025-06-24T10:39:23.488273+00:00</updated>
+    <summary>Article by Vivien Picard
+DOI: https://doi.org/10.1515/dmvm-2025-0034</summary>
+  </entry>
+  <entry>
+    <title>Optimierungsverfahren für die Verkehrsforschung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0035/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0035</id>
+    <updated>2025-06-24T10:39:23.488279+00:00</updated>
+    <summary>Article by Christine Markwart
+DOI: https://doi.org/10.1515/dmvm-2025-0035</summary>
+  </entry>
+  <entry>
+    <title>Kollektive Bühne für ein internationales Mathe-Fest: Die Creative Challenges zum Internationalen Tag der Mathematik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0036/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0036</id>
+    <updated>2025-06-24T10:39:23.488286+00:00</updated>
+    <summary>Article by Eric Londaits, Elisabeth Schaber
+DOI: https://doi.org/10.1515/dmvm-2025-0036</summary>
+  </entry>
+  <entry>
+    <title>True Math Interaktive Wissenschaftskommunikation in der Mathematik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0037/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0037</id>
+    <updated>2025-06-24T10:39:23.488292+00:00</updated>
+    <summary>Article by Christian Spannagel
+DOI: https://doi.org/10.1515/dmvm-2025-0037</summary>
+  </entry>
+  <entry>
+    <title>Die Fachgruppe Inverse Probleme stellt sich vor</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0038/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0038</id>
+    <updated>2025-06-24T10:39:23.488297+00:00</updated>
+    <summary>Article by Christian Clason, Thorsten Hohage, Thomas Schuster
+DOI: https://doi.org/10.1515/dmvm-2025-0038</summary>
+  </entry>
+  <entry>
+    <title>Logbuch Mathematik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0039/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0039</id>
+    <updated>2025-06-24T10:39:23.488303+00:00</updated>
+    <summary>Article by Thilo Kuessner
+DOI: https://doi.org/10.1515/dmvm-2025-0039</summary>
+  </entry>
+  <entry>
+    <title>Mathe studiert – und dann?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0040/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0040</id>
+    <updated>2025-06-24T10:39:23.488309+00:00</updated>
+    <summary>Article by Kari Küster
+DOI: https://doi.org/10.1515/dmvm-2025-0040</summary>
+  </entry>
+  <entry>
+    <title>Felix Klein im Lichte von ihm geförderter Talente</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0041/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0041</id>
+    <updated>2025-06-24T10:39:23.488315+00:00</updated>
+    <summary>Article by Renate Tobies
+DOI: https://doi.org/10.1515/dmvm-2025-0041</summary>
+  </entry>
+  <entry>
+    <title>Ein Blick in die Nachbarschaft: Forschungsförderung in Polen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0042/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0042</id>
+    <updated>2025-06-24T10:39:23.488321+00:00</updated>
+    <summary>Article by Nils Waterstraat
+DOI: https://doi.org/10.1515/dmvm-2025-0042</summary>
+  </entry>
+  <entry>
+    <title>Mathematik an der Universität Siegen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0043/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0043</id>
+    <updated>2025-06-24T10:39:23.488327+00:00</updated>
+    <summary>Article by Gregor Nickel
+DOI: https://doi.org/10.1515/dmvm-2025-0043</summary>
+  </entry>
+  <entry>
+    <title>Das Christine-Bessenrodt-Stipendium</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0044/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0044</id>
+    <updated>2025-06-24T10:39:23.488332+00:00</updated>
+    <summary>Article by Hans-Christoph Grunau
+DOI: https://doi.org/10.1515/dmvm-2025-0044</summary>
+  </entry>
+  <entry>
+    <title>Gemeinsame Stellungnahme der Fachgesellschaften DMV, MNU und GDM sowie des Deutschen Zentrums für Lehrkräftebildung Mathematik (DZLM) zur Zulassung von digitalen Hilfsmitteln für das Abitur</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0045/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0045</id>
+    <updated>2025-06-24T10:39:23.488339+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0045</summary>
+  </entry>
+  <entry>
+    <title>Neue Mitglieder und Todesfälle Berufungen, Habilitationen und Promotionen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0046/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0046</id>
+    <updated>2025-06-24T10:39:23.488345+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0046</summary>
+  </entry>
+  <entry>
+    <title>DMV-Ansprechpartner*innen vor Ort</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dmvm-2025-0047/html"/>
+    <id>https://doi.org/10.1515/dmvm-2025-0047</id>
+    <updated>2025-06-24T10:39:23.488353+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dmvm-2025-0047</summary>
   </entry>
 </feed>
