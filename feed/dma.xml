@@ -1,58 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Discrete Mathematics and Applications</title>
-  <link href="https://www.degruyterbrill.com/journal/key/dma/35/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/dma/35/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/dma/html" rel="related"/>
-  <updated>2025-05-06T04:55:05.955923+00:00</updated>
+  <updated>2025-08-07T15:06:41.528552+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/dma.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Discrete Mathematics and Applications</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/dma-2025-frontmatter2</id>
-    <updated>2025-05-06T04:55:05.955948+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/dma-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/dma-2025-frontmatter3</id>
+    <updated>2025-08-07T15:06:41.528582+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/dma-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>On cosets in the direct product of groups whose images by bijective mappings from factors to groups are cosets</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0004/html"/>
-    <id>https://doi.org/10.1515/dma-2025-0004</id>
-    <updated>2025-05-06T04:55:05.955959+00:00</updated>
-    <summary>Article by Dmitry A. Burov
-DOI: https://doi.org/10.1515/dma-2025-0004</summary>
+    <title>On the number of particles from a marked set of cells for an analogue of a general allocation scheme</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0009/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0009</id>
+    <updated>2025-08-07T15:06:41.528590+00:00</updated>
+    <summary>Article by Aleksey N. Chuprunov
+DOI: https://doi.org/10.1515/dma-2025-0009</summary>
   </entry>
   <entry>
-    <title>On the linear disjunctive decomposition of ap-logic function into a sum of functions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0005/html"/>
-    <id>https://doi.org/10.1515/dma-2025-0005</id>
-    <updated>2025-05-06T04:55:05.955969+00:00</updated>
-    <summary>Article by Aleksandr V. Cheremushkin
-DOI: https://doi.org/10.1515/dma-2025-0005</summary>
+    <title>Scaling of graphs with diameter constraint</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0010/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0010</id>
+    <updated>2025-08-07T15:06:41.528611+00:00</updated>
+    <summary>Article by Mikhail A. Iordanski
+DOI: https://doi.org/10.1515/dma-2025-0010</summary>
   </entry>
   <entry>
-    <title>Hadamard square of series connected linear codes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0006/html"/>
-    <id>https://doi.org/10.1515/dma-2025-0006</id>
-    <updated>2025-05-06T04:55:05.955977+00:00</updated>
-    <summary>Article by Ivan V. Chizhov
-DOI: https://doi.org/10.1515/dma-2025-0006</summary>
+    <title>On the maximal tree in Galton–Watson forest with infinite variance of the offspring</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0011/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0011</id>
+    <updated>2025-08-07T15:06:41.528620+00:00</updated>
+    <summary>Article by Yuriy L. Pavlov
+DOI: https://doi.org/10.1515/dma-2025-0011</summary>
   </entry>
   <entry>
-    <title>New bounds for the nonlinearity of PN functions and APN functions over finite fields</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0007/html"/>
-    <id>https://doi.org/10.1515/dma-2025-0007</id>
-    <updated>2025-05-06T04:55:05.955986+00:00</updated>
-    <summary>Article by Vladimir G. Ryabov
-DOI: https://doi.org/10.1515/dma-2025-0007</summary>
+    <title>Short tests for contact circuits with similar-type weakly connected faults of contacts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0012/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0012</id>
+    <updated>2025-08-07T15:06:41.528627+00:00</updated>
+    <summary>Article by Kirill A. Popkov
+DOI: https://doi.org/10.1515/dma-2025-0012</summary>
   </entry>
   <entry>
-    <title>Describing the closed class of polynomial functions modulo a power of a prime number by a relation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0008/html"/>
-    <id>https://doi.org/10.1515/dma-2025-0008</id>
-    <updated>2025-05-06T04:55:05.955996+00:00</updated>
-    <summary>Article by Svetlana N. Selezneva
-DOI: https://doi.org/10.1515/dma-2025-0008</summary>
+    <title>Large deviations of bisexual branching process in random environment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0013/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0013</id>
+    <updated>2025-08-07T15:06:41.528643+00:00</updated>
+    <summary>Article by Aleksandr V. Shklyaev
+DOI: https://doi.org/10.1515/dma-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Properties of critical branching random walks on the line under non-extinction condition</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/dma-2025-0014/html"/>
+    <id>https://doi.org/10.1515/dma-2025-0014</id>
+    <updated>2025-08-07T15:06:41.528658+00:00</updated>
+    <summary>Article by Valentin A. Topchii
+DOI: https://doi.org/10.1515/dma-2025-0014</summary>
   </entry>
 </feed>

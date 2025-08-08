@@ -1,90 +1,114 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Philologus</title>
-  <link href="https://www.degruyterbrill.com/journal/key/phil/168/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/phil/169/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phil.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/phil/html" rel="related"/>
-  <updated>2025-05-06T05:03:46.292284+00:00</updated>
+  <updated>2025-08-07T15:46:01.622341+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/phil.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Philologus</subtitle>
   <entry>
-    <title>Un frammento inedito di Zenone daglischolia veteraalleOperedi Esiodo (= Plut.fragmentum novum?)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0004/html"/>
-    <id>https://doi.org/10.1515/phil-2024-0004</id>
-    <updated>2025-05-06T05:03:46.292305+00:00</updated>
-    <summary>Article by Simone Fiori
-DOI: https://doi.org/10.1515/phil-2024-0004</summary>
-  </entry>
-  <entry>
-    <title>Scholia and marginalia as testimonia of earlier stages of the text of Lucian: three notes on theLexiphanes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0066/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0066</id>
-    <updated>2025-05-06T05:03:46.292317+00:00</updated>
-    <summary>Article by Luca Beltramini
-DOI: https://doi.org/10.1515/phil-2023-0066</summary>
-  </entry>
-  <entry>
-    <title>Ovidio, Cicerone e il finale delleMetamorfosi</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0042/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0042</id>
-    <updated>2025-05-06T05:03:46.292325+00:00</updated>
-    <summary>Article by Emanuele Berti
-DOI: https://doi.org/10.1515/phil-2023-0042</summary>
-  </entry>
-  <entry>
-    <title>Capaneus philosophus? Una nota su Zenone, Filodemo, Stazio (e Lucrezio)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0058/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0058</id>
-    <updated>2025-05-06T05:03:46.292332+00:00</updated>
-    <summary>Article by Francesco Cannizzaro
-DOI: https://doi.org/10.1515/phil-2023-0058</summary>
-  </entry>
-  <entry>
-    <title>Certa non certis...Sul testo dellapoetica tempestasnella redazione A dell’Historia Apollonii regis Tyri</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0054/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0054</id>
-    <updated>2025-05-06T05:03:46.292340+00:00</updated>
-    <summary>Article by Francesco Lubian
-DOI: https://doi.org/10.1515/phil-2023-0054</summary>
-  </entry>
-  <entry>
-    <title>La luce della luna:lucifluusin Zenone di Verona (Tract.1.2.19) e Isidoro di Siviglia (Nat. 18.1;Etym. 3.53.1)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0059/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0059</id>
-    <updated>2025-05-06T05:03:46.292347+00:00</updated>
-    <summary>Article by Donato De Gianni
-DOI: https://doi.org/10.1515/phil-2023-0059</summary>
-  </entry>
-  <entry>
-    <title>The Riddles in Martius Valerius</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0002/html"/>
-    <id>https://doi.org/10.1515/phil-2024-0002</id>
-    <updated>2025-05-06T05:03:46.292354+00:00</updated>
-    <summary>Article by Ruurd Nauta
-DOI: https://doi.org/10.1515/phil-2024-0002</summary>
-  </entry>
-  <entry>
-    <title>„In tyrannos“ !? – Sicco Polentons Ovidvita zwischen mittelalterlichem ‚Aberglauben‘, ‚republikanischem Diskurs‘ und pragmatischem Bildungsideal</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0041/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0041</id>
-    <updated>2025-05-06T05:03:46.292362+00:00</updated>
-    <summary>Article by Friedrich Meins
-DOI: https://doi.org/10.1515/phil-2023-0041</summary>
-  </entry>
-  <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/phil-2024-frontmatter2</id>
-    <updated>2025-05-06T05:03:46.292369+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/phil-2024-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/phil-2025-frontmatter1</id>
+    <updated>2025-08-07T15:46:01.622367+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/phil-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>Note filologiche alPraeceptum deliberativaedi Emporio</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2023-0068/html"/>
-    <id>https://doi.org/10.1515/phil-2023-0068</id>
-    <updated>2025-05-06T05:03:46.292376+00:00</updated>
-    <summary>Article by Luigi Pirovano
-DOI: https://doi.org/10.1515/phil-2023-0068</summary>
+    <title>Two Unnoticed References to Aristophanes and One to Demosthenes in Pollux: The Contribution of Ms.Matritensis4625 to Atticist Lexicography</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0018/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0018</id>
+    <updated>2025-08-07T15:46:01.622375+00:00</updated>
+    <summary>Article by Jacopo Cavarzeran
+DOI: https://doi.org/10.1515/phil-2024-0018</summary>
+  </entry>
+  <entry>
+    <title>On a Possible Half-Ass Aristotle Fragment in Orion’sEtymologicum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0030/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0030</id>
+    <updated>2025-08-07T15:46:01.622385+00:00</updated>
+    <summary>Article by Robert Mayhew
+DOI: https://doi.org/10.1515/phil-2024-0030</summary>
+  </entry>
+  <entry>
+    <title>Silencing Silenus: Theparadoxonof the Fountain of Gades (Str. 3.7–9) in the Context of Barcid Propaganda</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0031/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0031</id>
+    <updated>2025-08-07T15:46:01.622393+00:00</updated>
+    <summary>Article by Pamina Fernández Camacho
+DOI: https://doi.org/10.1515/phil-2024-0031</summary>
+  </entry>
+  <entry>
+    <title>Ierocle nellaSynagoge</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0024/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0024</id>
+    <updated>2025-08-07T15:46:01.622402+00:00</updated>
+    <summary>Article by Andrea Pellettieri
+DOI: https://doi.org/10.1515/phil-2024-0024</summary>
+  </entry>
+  <entry>
+    <title>Profaning Mars asDevictusinDe Rerum Natura</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0021/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0021</id>
+    <updated>2025-08-07T15:46:01.622409+00:00</updated>
+    <summary>Article by Michael Pope
+DOI: https://doi.org/10.1515/phil-2024-0021</summary>
+  </entry>
+  <entry>
+    <title>Ov.Pont. 1.1.41–44: a tentative emendation of line 41</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0036/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0036</id>
+    <updated>2025-08-07T15:46:01.622417+00:00</updated>
+    <summary>Article by Alessio Ranno
+DOI: https://doi.org/10.1515/phil-2024-0036</summary>
+  </entry>
+  <entry>
+    <title>Friendship, glory, and common death: The Nisus and Euryalus theme in Curtius Rufus’Historiae Alexandri Magni</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0019/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0019</id>
+    <updated>2025-08-07T15:46:01.622425+00:00</updated>
+    <summary>Article by Andreas Ammann
+DOI: https://doi.org/10.1515/phil-2024-0019</summary>
+  </entry>
+  <entry>
+    <title>Tibi laus perennis, auctor: un inno di Venanzio Fortunato?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0013/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0013</id>
+    <updated>2025-08-07T15:46:01.622432+00:00</updated>
+    <summary>Article by Elena Castelnuovo
+DOI: https://doi.org/10.1515/phil-2024-0013</summary>
+  </entry>
+  <entry>
+    <title>The Homeric Quotation in Plato,RepublicV 468e1–2</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0039/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0039</id>
+    <updated>2025-08-07T15:46:01.622442+00:00</updated>
+    <summary>Article by Ruobing Xian
+DOI: https://doi.org/10.1515/phil-2024-0039</summary>
+  </entry>
+  <entry>
+    <title>A didactic acrostic in Virgil,Aeneid6.847–850</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0020/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0020</id>
+    <updated>2025-08-07T15:46:01.622450+00:00</updated>
+    <summary>Article by Gabriel A. F. Silva
+DOI: https://doi.org/10.1515/phil-2024-0020</summary>
+  </entry>
+  <entry>
+    <title>Nota a Ovidio,Heroides4.9</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0006/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0006</id>
+    <updated>2025-08-07T15:46:01.622460+00:00</updated>
+    <summary>Article by Michele Castaldo
+DOI: https://doi.org/10.1515/phil-2024-0006</summary>
+  </entry>
+  <entry>
+    <title>Scipio Ovidianus– Neues zur Ovid-Rezeption in denPunica</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/phil-2024-0051/html"/>
+    <id>https://doi.org/10.1515/phil-2024-0051</id>
+    <updated>2025-08-07T15:46:01.622467+00:00</updated>
+    <summary>Article by Christoph Schwameis
+DOI: https://doi.org/10.1515/phil-2024-0051</summary>
   </entry>
 </feed>

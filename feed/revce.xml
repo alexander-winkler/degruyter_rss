@@ -1,50 +1,42 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Reviews in Chemical Engineering</title>
-  <link href="https://www.degruyterbrill.com/journal/key/revce/41/5/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/revce/41/6/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revce.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/revce/html" rel="related"/>
-  <updated>2025-07-04T16:37:43.543423+00:00</updated>
+  <updated>2025-08-07T15:50:08.493655+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/revce.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Reviews in Chemical Engineering</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2025-frontmatter5/html"/>
-    <id>https://doi.org/10.1515/revce-2025-frontmatter5</id>
-    <updated>2025-07-04T16:37:43.543486+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/revce-2025-frontmatter5</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2025-frontmatter6/html"/>
+    <id>https://doi.org/10.1515/revce-2025-frontmatter6</id>
+    <updated>2025-08-07T15:50:08.493695+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/revce-2025-frontmatter6</summary>
   </entry>
   <entry>
-    <title>Trends and perspectives in deterministic MINLP optimization for integrated planning, scheduling, control, and design of chemical processes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0064/html"/>
-    <id>https://doi.org/10.1515/revce-2024-0064</id>
-    <updated>2025-07-04T16:37:43.543503+00:00</updated>
-    <summary>Article by David A. Liñán, Luis A. Ricardez-Sandoval
-DOI: https://doi.org/10.1515/revce-2024-0064</summary>
+    <title>Effect of water matrix on photocatalytic degradation of organic pollutants in water: a literature review</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0093/html"/>
+    <id>https://doi.org/10.1515/revce-2024-0093</id>
+    <updated>2025-08-07T15:50:08.493705+00:00</updated>
+    <summary>Article by Isam Y. Qudsieh, Mohammad Ashraf Ali, Ibrahim M. Maafa
+DOI: https://doi.org/10.1515/revce-2024-0093</summary>
   </entry>
   <entry>
-    <title>Self-heat recuperation (SHR) theory: principle and applications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0038/html"/>
-    <id>https://doi.org/10.1515/revce-2024-0038</id>
-    <updated>2025-07-04T16:37:43.543522+00:00</updated>
-    <summary>Article by Zhonglin Zhang, Qiwang Hou, Peirui Li, Zhaolun Wen, Xueer Pan, Xiaogang Hao, Guoqing Guan
-DOI: https://doi.org/10.1515/revce-2024-0038</summary>
+    <title>Low-temperature hydrogenation of CO2to methanol: progress in constructing catalytic active sites</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2025-0003/html"/>
+    <id>https://doi.org/10.1515/revce-2025-0003</id>
+    <updated>2025-08-07T15:50:08.493723+00:00</updated>
+    <summary>Article by Jiadong Wang, Mingliang Ma, Qingxiang Ma, Tian-Sheng Zhao
+DOI: https://doi.org/10.1515/revce-2025-0003</summary>
   </entry>
   <entry>
-    <title>Heteropolyacid-alumina composites as heterogeneous catalysts for the synthesis of organic compounds: a comprehensive review</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0085/html"/>
-    <id>https://doi.org/10.1515/revce-2024-0085</id>
-    <updated>2025-07-04T16:37:43.543534+00:00</updated>
-    <summary>Article by María Belén Colombo Migliorero, Valeria Palermo, Agustín Ponzinibbio, Gustavo Pablo Romanelli
-DOI: https://doi.org/10.1515/revce-2024-0085</summary>
-  </entry>
-  <entry>
-    <title>Hybrid MOF-COF structures for advanced gas separation membranes: a short review of synthesis, performance analysis and application potential</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0088/html"/>
-    <id>https://doi.org/10.1515/revce-2024-0088</id>
-    <updated>2025-07-04T16:37:43.543545+00:00</updated>
-    <summary>Article by Maciej Szwast, Daniel Polak
-DOI: https://doi.org/10.1515/revce-2024-0088</summary>
+    <title>Gravity-driven highly selective ultrafiltration: a sustainable solution for addressing global drinking water scarcity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/revce-2024-0040/html"/>
+    <id>https://doi.org/10.1515/revce-2024-0040</id>
+    <updated>2025-08-07T15:50:08.493739+00:00</updated>
+    <summary>Article by I Gede Wenten, Khoiruddin Khoiruddin
+DOI: https://doi.org/10.1515/revce-2024-0040</summary>
   </entry>
 </feed>

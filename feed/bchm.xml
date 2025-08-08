@@ -1,66 +1,122 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Biological Chemistry</title>
-  <link href="https://www.degruyterbrill.com/journal/key/bchm/406/1-2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bchm/406/5-7/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bchm.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/bchm/html" rel="related"/>
-  <updated>2025-05-06T04:57:09.659671+00:00</updated>
+  <updated>2025-08-07T15:15:56.170974+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bchm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Biological Chemistry</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-frontmatter1-2/html"/>
-    <id>https://doi.org/10.1515/hsz-2025-frontmatter1-2</id>
-    <updated>2025-05-06T04:57:09.659708+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/hsz-2025-frontmatter1-2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-frontmatter5-7/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-frontmatter5-7</id>
+    <updated>2025-08-07T15:15:56.170994+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/hsz-2025-frontmatter5-7</summary>
   </entry>
   <entry>
-    <title>GPI-anchored serine proteases: essential roles in development, homeostasis, and disease</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0135/html"/>
-    <id>https://doi.org/10.1515/hsz-2024-0135</id>
-    <updated>2025-05-06T04:57:09.659719+00:00</updated>
-    <summary>Article by Joseph G. Lundgren, Michael G. Flynn, Karin List
-DOI: https://doi.org/10.1515/hsz-2024-0135</summary>
+    <title>Stress response pathways: machineries and mechanisms</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0168/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0168</id>
+    <updated>2025-08-07T15:15:56.170999+00:00</updated>
+    <summary>Article by Johannes Buchner, Johannes M. Herrmann
+DOI: https://doi.org/10.1515/hsz-2025-0168</summary>
   </entry>
   <entry>
-    <title>Revival of theEscherichia coliheat shock response after two decades with a small Hsp in a critical but distinct act</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0140/html"/>
-    <id>https://doi.org/10.1515/hsz-2024-0140</id>
-    <updated>2025-05-06T04:57:09.659730+00:00</updated>
-    <summary>Article by Tsukumi Miwa, Hideki Taguchi
-DOI: https://doi.org/10.1515/hsz-2024-0140</summary>
+    <title>Computational strategies in systems-level stress response data analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0109/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0109</id>
+    <updated>2025-08-07T15:15:56.171004+00:00</updated>
+    <summary>Article by Felix Jung, David Zimmer, Timo Mühlhaus
+DOI: https://doi.org/10.1515/hsz-2025-0109</summary>
   </entry>
   <entry>
-    <title>Analysis of kallikrein-related peptidase 7 (KLK7) autolysis reveals novel protease and cytokine substrates</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0127/html"/>
-    <id>https://doi.org/10.1515/hsz-2024-0127</id>
-    <updated>2025-05-06T04:57:09.659738+00:00</updated>
-    <summary>Article by Swapnil V. Ghodge, Robert A. Lazarus
-DOI: https://doi.org/10.1515/hsz-2024-0127</summary>
+    <title>Back to the basics: the molecular blueprint of plant heat stress transcription factors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0115/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0115</id>
+    <updated>2025-08-07T15:15:56.171009+00:00</updated>
+    <summary>Article by Sotirios Fragkostefanakis, Enrico Schleiff, Klaus-Dieter Scharf
+DOI: https://doi.org/10.1515/hsz-2025-0115</summary>
   </entry>
   <entry>
-    <title>Broadened substrate specificity of bacterial dipeptidyl-peptidase 7 enables release of half of all dipeptide combinations from peptide N-termini</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0156/html"/>
-    <id>https://doi.org/10.1515/hsz-2024-0156</id>
-    <updated>2025-05-06T04:57:09.659751+00:00</updated>
-    <summary>Article by Kana Shirakura, Takayuki K. Nemoto, Yuko Ohara Nemoto, Haruka Nishimata, Momo Sawase, Yu Shimoyama, Manami Nakasato-Suzuki, Kiyoshi Ito, Naomi Tanoue
-DOI: https://doi.org/10.1515/hsz-2024-0156</summary>
+    <title>Unfolded protein responses inChlamydomonas reinhardtii</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0101/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0101</id>
+    <updated>2025-08-07T15:15:56.171013+00:00</updated>
+    <summary>Article by Sarah Gabelmann, Michael Schroda
+DOI: https://doi.org/10.1515/hsz-2025-0101</summary>
   </entry>
   <entry>
-    <title>Analysis of kallikrein-related peptidase 7 (KLK7) autolysis reveals novel protease and cytokine substrates</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0127/html"/>
-    <id>https://doi.org/10.1515/hsz-2024-0127</id>
-    <updated>2025-05-06T04:57:09.659759+00:00</updated>
-    <summary>Article by Swapnil V. Ghodge, Robert A. Lazarus
-DOI: https://doi.org/10.1515/hsz-2024-0127</summary>
+    <title>Diversification of glutathione transferases in plants and their role in oxidative stress defense</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0111/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0111</id>
+    <updated>2025-08-07T15:15:56.171017+00:00</updated>
+    <summary>Article by José M. Ugalde, Manjeera Nath, Stephan Wagner, Andreas J. Meyer
+DOI: https://doi.org/10.1515/hsz-2025-0111</summary>
   </entry>
   <entry>
-    <title>Broadened substrate specificity of bacterial dipeptidyl-peptidase 7 enables release of half of all dipeptide combinations from peptide N-termini</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0156/html"/>
-    <id>https://doi.org/10.1515/hsz-2024-0156</id>
-    <updated>2025-05-06T04:57:09.659767+00:00</updated>
-    <summary>Article by Kana Shirakura, Takayuki K. Nemoto, Yuko Ohara Nemoto, Haruka Nishimata, Momo Sawase, Yu Shimoyama, Manami Nakasato-Suzuki, Kiyoshi Ito, Naomi Tanoue
-DOI: https://doi.org/10.1515/hsz-2024-0156</summary>
+    <title>How neurons cope with oxidative stress</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0146/html"/>
+    <id>https://doi.org/10.1515/hsz-2024-0146</id>
+    <updated>2025-08-07T15:15:56.171021+00:00</updated>
+    <summary>Article by Johannes Ebding, Fiorella Mazzone, Stefan Kins, Jan Pielage, Tanja Maritzen
+DOI: https://doi.org/10.1515/hsz-2024-0146</summary>
+  </entry>
+  <entry>
+    <title>The mitochondrial unfolded protein response: acting near and far</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0107/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0107</id>
+    <updated>2025-08-07T15:15:56.171025+00:00</updated>
+    <summary>Article by Nikolaos Charmpilas, Qiaochu Li, Thorsten Hoppe
+DOI: https://doi.org/10.1515/hsz-2025-0107</summary>
+  </entry>
+  <entry>
+    <title>MitoStores: stress-induced aggregation of mitochondrial proteins</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0148/html"/>
+    <id>https://doi.org/10.1515/hsz-2024-0148</id>
+    <updated>2025-08-07T15:15:56.171029+00:00</updated>
+    <summary>Article by Pragya Kaushik, Johannes M. Herrmann, Katja G. Hansen
+DOI: https://doi.org/10.1515/hsz-2024-0148</summary>
+  </entry>
+  <entry>
+    <title>Unclogging of the TOM complex under import stress</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0110/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0110</id>
+    <updated>2025-08-07T15:15:56.171039+00:00</updated>
+    <summary>Article by Joshua Jackson, Thomas Becker
+DOI: https://doi.org/10.1515/hsz-2025-0110</summary>
+  </entry>
+  <entry>
+    <title>The mitochondrial intermembrane space – a permanently proteostasis-challenged compartment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0108/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0108</id>
+    <updated>2025-08-07T15:15:56.171043+00:00</updated>
+    <summary>Article by Matthias Weith, Konstantin Weiss, Dylan Stobbe, Jan Riemer
+DOI: https://doi.org/10.1515/hsz-2025-0108</summary>
+  </entry>
+  <entry>
+    <title>The nascent polypeptide-associated complex (NAC) as regulatory hub on ribosomes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0114/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0114</id>
+    <updated>2025-08-07T15:15:56.171047+00:00</updated>
+    <summary>Article by Laurenz Rabl, Elke Deuerling
+DOI: https://doi.org/10.1515/hsz-2025-0114</summary>
+  </entry>
+  <entry>
+    <title>The evolution and diversification of the Hsp90 co-chaperone system</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2025-0112/html"/>
+    <id>https://doi.org/10.1515/hsz-2025-0112</id>
+    <updated>2025-08-07T15:15:56.171051+00:00</updated>
+    <summary>Article by Sonja Engler, Johannes Buchner
+DOI: https://doi.org/10.1515/hsz-2025-0112</summary>
+  </entry>
+  <entry>
+    <title>The proteostasis burden of aneuploidy</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/hsz-2024-0163/html"/>
+    <id>https://doi.org/10.1515/hsz-2024-0163</id>
+    <updated>2025-08-07T15:15:56.171054+00:00</updated>
+    <summary>Article by Prince Saforo Amponsah, Zuzana Storchová
+DOI: https://doi.org/10.1515/hsz-2024-0163</summary>
   </entry>
 </feed>

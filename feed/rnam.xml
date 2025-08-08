@@ -1,58 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Russian Journal of Numerical Analysis and Mathematical Modelling</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rnam/40/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rnam/40/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rnam.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/rnam/html" rel="related"/>
-  <updated>2025-06-24T10:53:59.468072+00:00</updated>
+  <updated>2025-08-07T15:51:27.538984+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rnam.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Russian Journal of Numerical Analysis and Mathematical Modelling</subtitle>
   <entry>
-    <title>Preface</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0013/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0013</id>
-    <updated>2025-06-24T10:53:59.468096+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/rnam-2025-0013</summary>
+    <title>Frontmatter</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-frontmatter4</id>
+    <updated>2025-08-07T15:51:27.539026+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rnam-2025-frontmatter4</summary>
   </entry>
   <entry>
-    <title>Algorithms of variational data assimilation for problems of ocean dynamics</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0014/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0014</id>
-    <updated>2025-06-24T10:53:59.468103+00:00</updated>
-    <summary>Article by Valery I. Agoshkov, Vladimir B. Zalesny, Victor P. Shutyaev, Eugene I. Parmuzin, Natalia B. Zakharova, Tatiana O. Sheloput
-DOI: https://doi.org/10.1515/rnam-2025-0014</summary>
+    <title>A two-level parallelization algorithm for the direct simulation Monte Carlo method of problems of rarefied gas dynamics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0019/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0019</id>
+    <updated>2025-08-07T15:51:27.539037+00:00</updated>
+    <summary>Article by Nikolay Y. Bykov, Stanislav A. Fyodorov
+DOI: https://doi.org/10.1515/rnam-2025-0019</summary>
   </entry>
   <entry>
-    <title>Identifiability of basic models and parameters in mathematical immunology</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0015/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0015</id>
-    <updated>2025-06-24T10:53:59.468109+00:00</updated>
-    <summary>Article by Dmitry S. Grebennikov, Rostislav S. Savinkov, Gennady A. Bocharov
-DOI: https://doi.org/10.1515/rnam-2025-0015</summary>
+    <title>Conservative correction of the sequential noniterative scheme for reactive transport problems with minerals precipitation–dissolution and variable media properties</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0020/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0020</id>
+    <updated>2025-08-07T15:51:27.539049+00:00</updated>
+    <summary>Article by Ivan V. Kapyrin
+DOI: https://doi.org/10.1515/rnam-2025-0020</summary>
   </entry>
   <entry>
-    <title>Analysis of the error of difference solutions as a basis for improving accuracy</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0016/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0016</id>
-    <updated>2025-06-24T10:53:59.468114+00:00</updated>
-    <summary>Article by Vladimir V. Shaydurov, Lidiya V. Gileva, Roman A. Golubev
-DOI: https://doi.org/10.1515/rnam-2025-0016</summary>
+    <title>Numerical solution of BVP for the incompressible Navier–Stokes equations at large Reynolds numbers</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0021/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0021</id>
+    <updated>2025-08-07T15:51:27.539059+00:00</updated>
+    <summary>Article by Dmitri V. Lomasov, Petr N. Vabishchevich
+DOI: https://doi.org/10.1515/rnam-2025-0021</summary>
   </entry>
   <entry>
-    <title>Numerical method for hydraulic fracture propagation in a two-phase poroelastoplasticity model</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0017/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0017</id>
-    <updated>2025-06-24T10:53:59.468119+00:00</updated>
-    <summary>Article by Kirill M. Terekhov, Yuri V. Vassilevski
-DOI: https://doi.org/10.1515/rnam-2025-0017</summary>
+    <title>Low-rank Monte Carlo method for aggregation kinetics with particle sources</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0022/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0022</id>
+    <updated>2025-08-07T15:51:27.539069+00:00</updated>
+    <summary>Article by Sergey Matveev, Roman Dyachenko
+DOI: https://doi.org/10.1515/rnam-2025-0022</summary>
   </entry>
   <entry>
-    <title>The method of adjoint equations for solving the problem of quasi-geostrophic currents in a two-layer ocean periodic channel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0018/html"/>
-    <id>https://doi.org/10.1515/rnam-2025-0018</id>
-    <updated>2025-06-24T10:53:59.468124+00:00</updated>
-    <summary>Article by Vladimir Zalesny
-DOI: https://doi.org/10.1515/rnam-2025-0018</summary>
+    <title>Numerical simulation of propeller aerodynamics and tonal noise using parallel code ‘Gerbera’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rnam-2025-0023/html"/>
+    <id>https://doi.org/10.1515/rnam-2025-0023</id>
+    <updated>2025-08-07T15:51:27.539078+00:00</updated>
+    <summary>Article by Vladimir A. Titarev, Sergey A. Chernyshev, Georgy A. Faranosov
+DOI: https://doi.org/10.1515/rnam-2025-0023</summary>
   </entry>
 </feed>

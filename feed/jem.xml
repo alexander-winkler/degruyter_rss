@@ -1,58 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Econometric Methods</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jem/13/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jem/14/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jem.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jem/html" rel="related"/>
-  <updated>2025-05-06T04:59:23.471335+00:00</updated>
+  <updated>2025-08-07T15:27:02.709268+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jem.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Econometric Methods</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/jem-2024-frontmatter2</id>
-    <updated>2025-05-06T04:59:23.471357+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jem-2024-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jem-2025-frontmatter1</id>
+    <updated>2025-08-07T15:27:02.709307+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jem-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>Estimating Social Effects with Randomized and Observational Network Data</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2023-0043/html"/>
-    <id>https://doi.org/10.1515/jem-2023-0043</id>
-    <updated>2025-05-06T04:59:23.471365+00:00</updated>
-    <summary>Article by TszKin Julian Chan, Juan Estrada, Kim Huynh, David Jacho-Chávez, Chungsang Tom Lam, Leonardo Sánchez-Aragón
-DOI: https://doi.org/10.1515/jem-2023-0043</summary>
+    <title>The Story of a Model: The First-Order Diagonal Bilinear Autoregression</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2024-0025/html"/>
+    <id>https://doi.org/10.1515/jem-2024-0025</id>
+    <updated>2025-08-07T15:27:02.709318+00:00</updated>
+    <summary>Article by Philip Hans Franses
+DOI: https://doi.org/10.1515/jem-2024-0025</summary>
   </entry>
   <entry>
-    <title>Dynamic Bunching Estimation with Panel Data</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2022-0031/html"/>
-    <id>https://doi.org/10.1515/jem-2022-0031</id>
-    <updated>2025-05-06T04:59:23.471375+00:00</updated>
-    <summary>Article by Benjamin M. Marx
-DOI: https://doi.org/10.1515/jem-2022-0031</summary>
+    <title>Maximum Likelihood Estimation of Regression Effects in State Space Models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2024-0020/html"/>
+    <id>https://doi.org/10.1515/jem-2024-0020</id>
+    <updated>2025-08-07T15:27:02.709330+00:00</updated>
+    <summary>Article by Hang Qian
+DOI: https://doi.org/10.1515/jem-2024-0020</summary>
   </entry>
   <entry>
-    <title>Shrinkage Estimation and Forecasting in Dynamic Regression Models Under Structural Instability</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2023-0036/html"/>
-    <id>https://doi.org/10.1515/jem-2023-0036</id>
-    <updated>2025-05-06T04:59:23.471382+00:00</updated>
-    <summary>Article by Ali Mehrabani, Shahnaz Parsaeian, Aman Ullah
-DOI: https://doi.org/10.1515/jem-2023-0036</summary>
+    <title>QR.break: An R Package for Structural Breaks in Quantile Regression</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2025-0010/html"/>
+    <id>https://doi.org/10.1515/jem-2025-0010</id>
+    <updated>2025-08-07T15:27:02.709339+00:00</updated>
+    <summary>Article by Zhongjun Qu, Tatsushi Oka, Samuel Messer
+DOI: https://doi.org/10.1515/jem-2025-0010</summary>
   </entry>
   <entry>
-    <title>An Application of the Dagum Type III Model to Measure Household Net Wealth Inequality in Indonesia</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2022-0026/html"/>
-    <id>https://doi.org/10.1515/jem-2022-0026</id>
-    <updated>2025-05-06T04:59:23.471390+00:00</updated>
-    <summary>Article by Thomas Soseco, Susan Olivia, Les Oxley
-DOI: https://doi.org/10.1515/jem-2022-0026</summary>
-  </entry>
-  <entry>
-    <title>Moment-Based Estimation of Linear Panel Data Models with Factor-Augmented Errors</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2023-0050/html"/>
-    <id>https://doi.org/10.1515/jem-2023-0050</id>
-    <updated>2025-05-06T04:59:23.471398+00:00</updated>
-    <summary>Article by Nicholas L. Brown
-DOI: https://doi.org/10.1515/jem-2023-0050</summary>
+    <title>Fast Algorithms for Quantile Regression with Selection</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jem-2024-0022/html"/>
+    <id>https://doi.org/10.1515/jem-2024-0022</id>
+    <updated>2025-08-07T15:27:02.709348+00:00</updated>
+    <summary>Article by Santiago Pereda-Fernández
+DOI: https://doi.org/10.1515/jem-2024-0022</summary>
   </entry>
 </feed>

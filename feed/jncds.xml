@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Nonlinear, Complex and Data Science</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jncds/25/7-8/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jncds/26/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jncds.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jncds/html" rel="related"/>
-  <updated>2025-05-06T05:00:12.387573+00:00</updated>
+  <updated>2025-08-07T15:30:15.255249+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jncds.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Nonlinear, Complex and Data Science</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-frontmatter7-8/html"/>
-    <id>https://doi.org/10.1515/jncds-2024-frontmatter7-8</id>
-    <updated>2025-05-06T05:00:12.387600+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jncds-2024-frontmatter7-8</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jncds-2025-frontmatter1</id>
+    <updated>2025-08-07T15:30:15.255267+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jncds-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>A polynomial-based operational matrix approach to solve fractional-order Bratu-type problems</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2023-0084/html"/>
-    <id>https://doi.org/10.1515/jncds-2023-0084</id>
-    <updated>2025-05-06T05:00:12.387607+00:00</updated>
-    <summary>Article by Saurabh Kumar, Vikas Gupta
-DOI: https://doi.org/10.1515/jncds-2023-0084</summary>
+    <title>Regional observability of time-fractional systems with a differentiation order 1 &lt;α&lt; 2</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0040/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0040</id>
+    <updated>2025-08-07T15:30:15.255273+00:00</updated>
+    <summary>Article by Hamza Ben Brahim, Khalid Zguaid, Fatima-Zahrae El Alaoui
+DOI: https://doi.org/10.1515/jncds-2024-0040</summary>
   </entry>
   <entry>
-    <title>Existence, uniqueness, and UH-stability results for nonlinear fuzzy fractional Volterra–Fredholm integro-differential equations</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0019/html"/>
-    <id>https://doi.org/10.1515/jncds-2024-0019</id>
-    <updated>2025-05-06T05:00:12.387615+00:00</updated>
-    <summary>Article by Aziz El Ghazouani, M’hamed Elomari, Said Melliani
-DOI: https://doi.org/10.1515/jncds-2024-0019</summary>
+    <title>Adaptive consensus control of nonlinear multi-agent systems with mixed-delays via energy-based intermittent communication scheme</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0036/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0036</id>
+    <updated>2025-08-07T15:30:15.255281+00:00</updated>
+    <summary>Article by Jian Sun, Guangpeng Wang, Jianxin Zhang, Haipeng Sun, Lei Liu, Qihe Shan
+DOI: https://doi.org/10.1515/jncds-2024-0036</summary>
   </entry>
   <entry>
-    <title>Stochastic perspective to a SIVA in-host model of DENV transmission</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0032/html"/>
-    <id>https://doi.org/10.1515/jncds-2024-0032</id>
-    <updated>2025-05-06T05:00:12.387620+00:00</updated>
-    <summary>Article by Bikash Modak, Muthu Poosan
-DOI: https://doi.org/10.1515/jncds-2024-0032</summary>
+    <title>Extremal solution of nonlinear fractional order integro-differential systems with time-varying delays in Banach space</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0107/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0107</id>
+    <updated>2025-08-07T15:30:15.255300+00:00</updated>
+    <summary>Article by Ajay Kumar, Rohit Patel, Velusamy Vijayakumar, Anurag Shukla
+DOI: https://doi.org/10.1515/jncds-2024-0107</summary>
   </entry>
   <entry>
-    <title>Physics-informed neural network for vibration analysis of large membranes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0081/html"/>
-    <id>https://doi.org/10.1515/jncds-2024-0081</id>
-    <updated>2025-05-06T05:00:12.387626+00:00</updated>
-    <summary>Article by Arup Kumar Sahoo, Sandeep Kumar, S. Chakraverty
-DOI: https://doi.org/10.1515/jncds-2024-0081</summary>
+    <title>Derivation of Sawada–Kotera and Kaup–Kupershmidt equations KdV flow equations from Manakov equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jncds-2024-0099/html"/>
+    <id>https://doi.org/10.1515/jncds-2024-0099</id>
+    <updated>2025-08-07T15:30:15.255306+00:00</updated>
+    <summary>Article by Murat Koparan
+DOI: https://doi.org/10.1515/jncds-2024-0099</summary>
   </entry>
 </feed>

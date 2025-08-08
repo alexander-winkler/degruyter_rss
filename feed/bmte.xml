@@ -1,90 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Biomedical Engineering / Biomedizinische Technik </title>
-  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/bmte/html" rel="related"/>
-  <updated>2025-06-04T13:29:30.232963+00:00</updated>
+  <updated>2025-08-07T15:00:02.831371+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Biomedical Engineering / Biomedizinische Technik </subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/bmt-2025-frontmatter3</id>
-    <updated>2025-06-04T13:29:30.233001+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bmt-2025-frontmatter3</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/bmt-2025-frontmatter4</id>
+    <updated>2025-08-07T15:00:02.831393+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bmt-2025-frontmatter4</summary>
   </entry>
   <entry>
-    <title>An exploratory study of pilot EEG features during the climb and descent phases of flight</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0412/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0412</id>
-    <updated>2025-06-04T13:29:30.233009+00:00</updated>
-    <summary>Article by Li Ji, Leiye Yi, Haiwei Li, Wenjie Han, Ningning Zhang
-DOI: https://doi.org/10.1515/bmt-2024-0412</summary>
+    <title>Design and optimization of a high-definition transcranial electrical stimulation device with envelope wave</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0284/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0284</id>
+    <updated>2025-08-07T15:00:02.831401+00:00</updated>
+    <summary>Article by Renling Zou, Linpeng Jin, Yuhao Liu, Liang Zhao, Li Cao, Xiufang Hu, Xuezhi Yin
+DOI: https://doi.org/10.1515/bmt-2024-0284</summary>
   </entry>
   <entry>
-    <title>Gesture recognition from surface electromyography signals based on the SE-DenseNet network</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0282/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0282</id>
-    <updated>2025-06-04T13:29:30.233017+00:00</updated>
-    <summary>Article by Ying Xiang, Wei Zheng, Jiajia Tang, You Dong, Yuhao Pang
-DOI: https://doi.org/10.1515/bmt-2024-0282</summary>
+    <title>Free gas micro-/nano-bubble water: a novel dispersion system to prepare ultrasound imaging vehicles</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0280/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0280</id>
+    <updated>2025-08-07T15:00:02.831409+00:00</updated>
+    <summary>Article by Lu Jin, Zhen Yang, Xu Wang, Shixiao Wan, Huanhuan Zhao, Ying Zhang, Juan Jin, Jilai Tian
+DOI: https://doi.org/10.1515/bmt-2024-0280</summary>
   </entry>
   <entry>
-    <title>Empirical analysis on retinal segmentation using PSO-based thresholding in diabetic retinopathy grading</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0299/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0299</id>
-    <updated>2025-06-04T13:29:30.233024+00:00</updated>
-    <summary>Article by Bhuvaneswari Sekar, Subashini Parthasarathy
-DOI: https://doi.org/10.1515/bmt-2024-0299</summary>
+    <title>MEMS-based narrow-bandwidth magnetic field sensors: preliminary assessment of prototypes regarding coercivity, remanence, and sensitivity</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0415/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0415</id>
+    <updated>2025-08-07T15:00:02.831415+00:00</updated>
+    <summary>Article by Negar Ziehm, Johan Arbustini, Eric Elzenheimer, Mohsen Samadi, Giuseppe Barbieri, Martina Gerken, Michael Höft, Robert Rieger, Andreas Bahr
+DOI: https://doi.org/10.1515/bmt-2024-0415</summary>
   </entry>
   <entry>
-    <title>Prediction of remaining surgery duration based on machine learning methods and laparoscopic annotation data</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0431/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0431</id>
-    <updated>2025-06-04T13:29:30.233031+00:00</updated>
-    <summary>Article by Spiros Kostopoulos, Dionisis Cavouras, Dimitris Glotsos, Constantinos Loukas
-DOI: https://doi.org/10.1515/bmt-2024-0431</summary>
+    <title>Novel low-cost approach to build large-scale flexible sensors for spatially distributed ground reaction force measurements</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0453/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0453</id>
+    <updated>2025-08-07T15:00:02.831423+00:00</updated>
+    <summary>Article by Louis F. Straub, Peter P. Pott
+DOI: https://doi.org/10.1515/bmt-2024-0453</summary>
   </entry>
   <entry>
-    <title>Caries-segnet: multi-scale cascaded hybrid spatial channel attention encoder-decoder for semantic segmentation of dental caries</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0439/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0439</id>
-    <updated>2025-06-04T13:29:30.233037+00:00</updated>
-    <summary>Article by Jayaraman Priya, Subramanian Kanaga Suba Raja
-DOI: https://doi.org/10.1515/bmt-2024-0439</summary>
+    <title>Does helical plating for proximal humeral shaft fractures benefit bone healing? – anin silicoanalysis in fracture healing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0445/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0445</id>
+    <updated>2025-08-07T15:00:02.831430+00:00</updated>
+    <summary>Article by Christian Halbauer, Felix Capanni, Lucas Engelhardt, Andreas Paech, Christian Knop, Tobias Merkle, Tomas Da Silva
+DOI: https://doi.org/10.1515/bmt-2024-0445</summary>
   </entry>
   <entry>
-    <title>An analysis of initial force and moment delivery of different aligner materials</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-0003/html"/>
-    <id>https://doi.org/10.1515/bmt-2025-0003</id>
-    <updated>2025-06-04T13:29:30.233044+00:00</updated>
-    <summary>Article by Thomas Wendl, Brigitte Wendl, Peter Proff
-DOI: https://doi.org/10.1515/bmt-2025-0003</summary>
+    <title>Meta-analysis of animal experiments on osteogenic effects of trace element doped calcium phosphate ceramic/PLGA composites</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0593/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0593</id>
+    <updated>2025-08-07T15:00:02.831436+00:00</updated>
+    <summary>Article by Hongwei He, Meng Zhong, Panxianzhi Ni, Tun Yuan, Jie Liang, Yujiang Fan, Xingdong Zhang
+DOI: https://doi.org/10.1515/bmt-2024-0593</summary>
   </entry>
   <entry>
-    <title>Influence of microstructure on metal-ceramic bonding in SLM-manufactured titanium alloy crowns and bridges</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0531/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0531</id>
-    <updated>2025-06-04T13:29:30.233050+00:00</updated>
-    <summary>Article by Lijun Yang, Xuyuan Liang, Mingxuan Liu
-DOI: https://doi.org/10.1515/bmt-2024-0531</summary>
+    <title>Classification of anemic condition based on photoplethysmography signals and clinical dataset</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0433/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0433</id>
+    <updated>2025-08-07T15:00:02.831442+00:00</updated>
+    <summary>Article by Neven Saleh, Ahmed M. Salaheldin, Yasser Ismail, Heba M. Afify
+DOI: https://doi.org/10.1515/bmt-2024-0433</summary>
   </entry>
   <entry>
-    <title>Design and evaluation of powered lumbar exoskeleton based on human biomechanics</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0232/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0232</id>
-    <updated>2025-06-04T13:29:30.233056+00:00</updated>
-    <summary>Article by Qingqing Wang, Ruyu Yuan, Yunjing Yi, Shizhen Du, Chen He, Ping Shi
-DOI: https://doi.org/10.1515/bmt-2024-0232</summary>
+    <title>Improving the cleaning quality of tube lumen instruments by imaging analysis and deep learning techniques</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2023-0527/html"/>
+    <id>https://doi.org/10.1515/bmt-2023-0527</id>
+    <updated>2025-08-07T15:00:02.831448+00:00</updated>
+    <summary>Article by Changjun Chen, Yewen Feng, Lijun Lu, Linze Qian, Ling Wang, Quchao Zou, Yonghua Chu, Panpan Xu, Yuhang Pan
+DOI: https://doi.org/10.1515/bmt-2023-0527</summary>
   </entry>
   <entry>
-    <title>Evaluation of mesoporous polyaniline for glucose sensor under different pH electrolyte conditions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0141/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0141</id>
-    <updated>2025-06-04T13:29:30.233063+00:00</updated>
-    <summary>Article by Zinah N. Alabdali, Amar Al-Keisy, Sinan S. Hamdi
-DOI: https://doi.org/10.1515/bmt-2024-0141</summary>
+    <title>Machine learning prediction of effective radiation doses in various computed tomography applications: a virtual human phantom study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0620/html"/>
+    <id>https://doi.org/10.1515/bmt-2024-0620</id>
+    <updated>2025-08-07T15:00:02.831455+00:00</updated>
+    <summary>Article by Handan Tanyildizi-Kokkulunk
+DOI: https://doi.org/10.1515/bmt-2024-0620</summary>
   </entry>
 </feed>

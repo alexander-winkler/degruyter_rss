@@ -1,130 +1,138 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Advanced Nonlinear Studies</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ans/25/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ans/25/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ans.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/ans/html" rel="related"/>
-  <updated>2025-07-04T16:28:03.223744+00:00</updated>
+  <updated>2025-08-07T14:55:56.826916+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ans.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Advanced Nonlinear Studies</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/ans-2025-frontmatter2</id>
-    <updated>2025-07-04T16:28:03.223767+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/ans-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/ans-2025-frontmatter3</id>
+    <updated>2025-08-07T14:55:56.826946+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ans-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Preface for the special issue in honor of Robert Fefferman</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0189/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0189</id>
-    <updated>2025-07-04T16:28:03.223775+00:00</updated>
-    <summary>Article by Charles Fefferman, Guozhen Lu
-DOI: https://doi.org/10.1515/ans-2023-0189</summary>
+    <title>Solitons to the Willmore flow</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0150/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0150</id>
+    <updated>2025-08-07T14:55:56.826952+00:00</updated>
+    <summary>Article by Pak Tung Ho, Juncheol Pyo
+DOI: https://doi.org/10.1515/ans-2023-0150</summary>
   </entry>
   <entry>
-    <title>Sobolev extension in a simple case</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0132/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0132</id>
-    <updated>2025-07-04T16:28:03.223784+00:00</updated>
-    <summary>Article by Marjorie Drake, Charles Fefferman, Kevin Ren, Anna Skorobogatova
-DOI: https://doi.org/10.1515/ans-2023-0132</summary>
+    <title>Solutions to the coupled Schrödinger systems with steep potential well and critical exponent</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0149/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0149</id>
+    <updated>2025-08-07T14:55:56.826958+00:00</updated>
+    <summary>Article by Zongyan Lv, Zhongwei Tang
+DOI: https://doi.org/10.1515/ans-2023-0149</summary>
   </entry>
   <entry>
-    <title>Soliton resolution and channels of energy</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0174/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0174</id>
-    <updated>2025-07-04T16:28:03.223792+00:00</updated>
-    <summary>Article by Charles Collot, Thomas Duyckaerts, Carlos Kenig, Frank Merle
-DOI: https://doi.org/10.1515/ans-2023-0174</summary>
+    <title>Normalized solutions for nonlinear Schrödinger systems with critical exponents</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0175/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0175</id>
+    <updated>2025-08-07T14:55:56.826966+00:00</updated>
+    <summary>Article by Jiaqing Hu, Anmin Mao
+DOI: https://doi.org/10.1515/ans-2023-0175</summary>
   </entry>
   <entry>
-    <title>Matrix weights and a maximal function with exponent 3/2</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0170/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0170</id>
-    <updated>2025-07-04T16:28:03.223799+00:00</updated>
-    <summary>Article by Sergei Treil, Alexander Volberg
-DOI: https://doi.org/10.1515/ans-2023-0170</summary>
+    <title>Multiplicity of normalized solutions for nonlinear Choquard equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0168/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0168</id>
+    <updated>2025-08-07T14:55:56.826972+00:00</updated>
+    <summary>Article by Chun-Fei Long, Chonghao Deng, Gui-Dong Li, Chun-Lei Tang
+DOI: https://doi.org/10.1515/ans-2023-0168</summary>
   </entry>
   <entry>
-    <title>An introduction to the distorted Fourier transform</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0164/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0164</id>
-    <updated>2025-07-04T16:28:03.223806+00:00</updated>
-    <summary>Article by Haram Ko, Wilhelm Schlag
-DOI: https://doi.org/10.1515/ans-2023-0164</summary>
+    <title>Well-posedness of damped Kirchhoff-type wave equation with fractional Laplacian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0172/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0172</id>
+    <updated>2025-08-07T14:55:56.826976+00:00</updated>
+    <summary>Article by Shaohua Chen, Jiangbo Han, Runzhang Xu, Chao Yang, Meina Zhang
+DOI: https://doi.org/10.1515/ans-2023-0172</summary>
   </entry>
   <entry>
-    <title>The Neumann function and theLpNeumann problem in chord-arc domains</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0171/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0171</id>
-    <updated>2025-07-04T16:28:03.223813+00:00</updated>
-    <summary>Article by Steve Hofmann, Derek Sparrius
-DOI: https://doi.org/10.1515/ans-2023-0171</summary>
+    <title>On Bobkov-Tanaka type spectrum for the double-phase operator</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0173/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0173</id>
+    <updated>2025-08-07T14:55:56.826981+00:00</updated>
+    <summary>Article by Laura Gambera, Umberto Guarnotta
+DOI: https://doi.org/10.1515/ans-2023-0173</summary>
   </entry>
   <entry>
-    <title>An example related to Whitney’s extension problem forL2,p(R2) when 1 &lt;p&lt; 2</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0126/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0126</id>
-    <updated>2025-07-04T16:28:03.223821+00:00</updated>
-    <summary>Article by Jacob Carruth, Arie Israel
-DOI: https://doi.org/10.1515/ans-2023-0126</summary>
+    <title>Hopf’s lemma for parabolic equations involving a generalized tempered fractionalp-Laplacian</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0179/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0179</id>
+    <updated>2025-08-07T14:55:56.826985+00:00</updated>
+    <summary>Article by Linlin Fan, Linfen Cao, Peibiao Zhao
+DOI: https://doi.org/10.1515/ans-2023-0179</summary>
   </entry>
   <entry>
-    <title>Convergence rates of eigenvalue problems in perforated domains: the case of small volume</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0166/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0166</id>
-    <updated>2025-07-04T16:28:03.223828+00:00</updated>
-    <summary>Article by Zhongwei Shen, Jinping Zhuge
-DOI: https://doi.org/10.1515/ans-2023-0166</summary>
+    <title>Disc stackings and their Morse index</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0177/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0177</id>
+    <updated>2025-08-07T14:55:56.826993+00:00</updated>
+    <summary>Article by Alessandro Carlotto, Mario B. Schulz, David Wiygul
+DOI: https://doi.org/10.1515/ans-2023-0177</summary>
   </entry>
   <entry>
-    <title>The initial-value problem for a Gardner-type equation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0182/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0182</id>
-    <updated>2025-07-04T16:28:03.223836+00:00</updated>
-    <summary>Article by Jerry Bona, Hongqiu Chen, Pamela Guerrero, Cristina Haidau, Sanja Pantic
-DOI: https://doi.org/10.1515/ans-2023-0182</summary>
+    <title>Singular Trudinger–Moser inequalities for the Aharonov–Bohm magnetic field</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0187/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0187</id>
+    <updated>2025-08-07T14:55:56.827001+00:00</updated>
+    <summary>Article by Xumin Wang
+DOI: https://doi.org/10.1515/ans-2023-0187</summary>
   </entry>
   <entry>
-    <title>Global Schauder estimates for kinetic Kolmogorov-Fokker-Planck equations</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0167/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0167</id>
-    <updated>2025-07-04T16:28:03.223843+00:00</updated>
-    <summary>Article by Hongjie Dong, Timur Yastrzhembskiy
-DOI: https://doi.org/10.1515/ans-2023-0167</summary>
+    <title>A topological analysis ofp(x)-harmonic functionals in one-dimensional nonlocal elliptic equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0185/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0185</id>
+    <updated>2025-08-07T14:55:56.827010+00:00</updated>
+    <summary>Article by Christopher S. Goodrich
+DOI: https://doi.org/10.1515/ans-2023-0185</summary>
   </entry>
   <entry>
-    <title>Maximal estimates for strong arithmetic means of Fourier series</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0180/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0180</id>
-    <updated>2025-07-04T16:28:03.223851+00:00</updated>
-    <summary>Article by Bobby Wilson
-DOI: https://doi.org/10.1515/ans-2023-0180</summary>
+    <title>Generalized Gaussian curvature flows related to the Orlicz Gaussian Minkowski problem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0188/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0188</id>
+    <updated>2025-08-07T14:55:56.827014+00:00</updated>
+    <summary>Article by Yannan Liu, Yuxin Peng
+DOI: https://doi.org/10.1515/ans-2023-0188</summary>
   </entry>
   <entry>
-    <title>On theLp-boundedness of Calderón-Zygmund operators</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0183/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0183</id>
-    <updated>2025-07-04T16:28:03.223858+00:00</updated>
-    <summary>Article by Dorina Mitrea, Marius Mitrea
-DOI: https://doi.org/10.1515/ans-2023-0183</summary>
+    <title>Qualitative properties of two-end solutions to the Allen–Cahn equation inR3</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0186/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0186</id>
+    <updated>2025-08-07T14:55:56.827018+00:00</updated>
+    <summary>Article by Weizhao Liang, Jianmin Yang
+DOI: https://doi.org/10.1515/ans-2023-0186</summary>
   </entry>
   <entry>
-    <title>Current perspectives on the Halo Conjecture</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0157/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0157</id>
-    <updated>2025-07-04T16:28:03.223865+00:00</updated>
-    <summary>Article by Paul Hagelstein
-DOI: https://doi.org/10.1515/ans-2023-0157</summary>
+    <title>Radial symmetry, monotonicity and Liouville theorem for Marchaud fractional parabolic equations with the nonlocal Bellman operator</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0191/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0191</id>
+    <updated>2025-08-07T14:55:56.827027+00:00</updated>
+    <summary>Article by Mengru Liu, Lihong Zhang, Guotao Wang
+DOI: https://doi.org/10.1515/ans-2023-0191</summary>
   </entry>
   <entry>
-    <title>On certain trilinear oscillatory integral inequalities</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0181/html"/>
-    <id>https://doi.org/10.1515/ans-2023-0181</id>
-    <updated>2025-07-04T16:28:03.223872+00:00</updated>
-    <summary>Article by Michael Christ
-DOI: https://doi.org/10.1515/ans-2023-0181</summary>
+    <title>Local analytic integrability for a class of degenerate planar vector fields</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0184/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0184</id>
+    <updated>2025-08-07T14:55:56.827030+00:00</updated>
+    <summary>Article by Antonio Algaba, Manuel Reyes, Jaume Giné
+DOI: https://doi.org/10.1515/ans-2023-0184</summary>
+  </entry>
+  <entry>
+    <title>Nonexistence and existence of solutions for a supercriticalp-Laplacian elliptic problem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ans-2023-0192/html"/>
+    <id>https://doi.org/10.1515/ans-2023-0192</id>
+    <updated>2025-08-07T14:55:56.827034+00:00</updated>
+    <summary>Article by Yanjun Liu, Yu Li, Yuan Chen
+DOI: https://doi.org/10.1515/ans-2023-0192</summary>
   </entry>
 </feed>

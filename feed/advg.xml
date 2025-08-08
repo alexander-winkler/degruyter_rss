@@ -1,106 +1,98 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Advances in Geometry </title>
-  <link href="https://www.degruyterbrill.com/journal/key/advg/25/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/advg/25/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/advg/html" rel="related"/>
-  <updated>2025-05-21T18:33:05.388399+00:00</updated>
+  <updated>2025-08-07T14:53:39.048581+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/advg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Advances in Geometry </subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-frontmatter2</id>
-    <updated>2025-05-21T18:33:05.388421+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/advgeom-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-frontmatter3</id>
+    <updated>2025-08-07T14:53:39.048605+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/advgeom-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Polyhedral combinatorics of bisectors</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0003/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0003</id>
-    <updated>2025-05-21T18:33:05.388430+00:00</updated>
-    <summary>Article by Aryaman Jal, Katharina Jochemko
-DOI: https://doi.org/10.1515/advgeom-2025-0003</summary>
+    <title>Combinatorics of stratified hyperbolic slices</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0017/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0017</id>
+    <updated>2025-08-07T14:53:39.048614+00:00</updated>
+    <summary>Article by Arne Lien
+DOI: https://doi.org/10.1515/advgeom-2025-0017</summary>
   </entry>
   <entry>
-    <title>Explicit construction of decomposable Jacobians</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0004/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0004</id>
-    <updated>2025-05-21T18:33:05.388440+00:00</updated>
-    <summary>Article by Mesut Buğday, Mohammad Sadek
-DOI: https://doi.org/10.1515/advgeom-2025-0004</summary>
+    <title>Godbersen’s conjecture for locally anti-blocking bodies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0019/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0019</id>
+    <updated>2025-08-07T14:53:39.048624+00:00</updated>
+    <summary>Article by Shay Sadovsky
+DOI: https://doi.org/10.1515/advgeom-2025-0019</summary>
   </entry>
   <entry>
-    <title>Some rigidity results onq-solitons</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0001/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0001</id>
-    <updated>2025-05-21T18:33:05.388448+00:00</updated>
-    <summary>Article by Rahul Poddar, S. Balasubramanian, Ramesh Sharma
-DOI: https://doi.org/10.1515/advgeom-2025-0001</summary>
+    <title>A Hilbert metric for bounded symmetric domains</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0015/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0015</id>
+    <updated>2025-08-07T14:53:39.048631+00:00</updated>
+    <summary>Article by Elisha Falbel, Antonin Guilloux, Pierre Will
+DOI: https://doi.org/10.1515/advgeom-2025-0015</summary>
   </entry>
   <entry>
-    <title>On nearly optimal paper Moebius bands</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0006/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0006</id>
-    <updated>2025-05-21T18:33:05.388456+00:00</updated>
-    <summary>Article by Richard Evan Schwartz
-DOI: https://doi.org/10.1515/advgeom-2025-0006</summary>
+    <title>On the generalized Suzuki curve</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0022/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0022</id>
+    <updated>2025-08-07T14:53:39.048638+00:00</updated>
+    <summary>Article by Peter Beelen, Maria Montanucci, Jonathan Niemann
+DOI: https://doi.org/10.1515/advgeom-2025-0022</summary>
   </entry>
   <entry>
-    <title>Desargues’ Theorem in Laguerre Planes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0002/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0002</id>
-    <updated>2025-05-21T18:33:05.388467+00:00</updated>
-    <summary>Article by Robert D. Knight
-DOI: https://doi.org/10.1515/advgeom-2025-0002</summary>
+    <title>The partition of PG(2,q3) arising from an order 3 planar collineation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0016/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0016</id>
+    <updated>2025-08-07T14:53:39.048645+00:00</updated>
+    <summary>Article by S. G. Barwick, Alice M. W. Hui, Wen-Ai Jackson
+DOI: https://doi.org/10.1515/advgeom-2025-0016</summary>
   </entry>
   <entry>
-    <title>Simple obstructions and cone reduction</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0005/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0005</id>
-    <updated>2025-05-21T18:33:05.388473+00:00</updated>
-    <summary>Article by Feng Qu
-DOI: https://doi.org/10.1515/advgeom-2025-0005</summary>
+    <title>Well-rounded lattices from odd prime degree number fields in the ramified case</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0018/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0018</id>
+    <updated>2025-08-07T14:53:39.048651+00:00</updated>
+    <summary>Article by Jefferson Luiz Rocha Bastos, Robson Ricardo de Araujo, Trajano Pires da Nóbrega Neto, Antonio Aparecido de Andrade
+DOI: https://doi.org/10.1515/advgeom-2025-0018</summary>
   </entry>
   <entry>
-    <title>The Bogomolov–Gieseker–Koseki inequality on surfaces with canonical singularities in arbitrary characteristic</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0008/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0008</id>
-    <updated>2025-05-21T18:33:05.388481+00:00</updated>
-    <summary>Article by Howard Nuer, Alan Sorani
-DOI: https://doi.org/10.1515/advgeom-2025-0008</summary>
+    <title>Split Cayley hexagons via subalgebras of octonion algebras</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0021/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0021</id>
+    <updated>2025-08-07T14:53:39.048658+00:00</updated>
+    <summary>Article by Norbert Knarr, Markus Stroppel
+DOI: https://doi.org/10.1515/advgeom-2025-0021</summary>
   </entry>
   <entry>
-    <title>The simultaneous lattice packing-covering constant of octahedra</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0007/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0007</id>
-    <updated>2025-05-21T18:33:05.388488+00:00</updated>
-    <summary>Article by Yiming Li, Chuanming Zong
-DOI: https://doi.org/10.1515/advgeom-2025-0007</summary>
+    <title>Relative Lipschitz saturation of complex algebraic varieties</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0014/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0014</id>
+    <updated>2025-08-07T14:53:39.048664+00:00</updated>
+    <summary>Article by François Bernard
+DOI: https://doi.org/10.1515/advgeom-2025-0014</summary>
   </entry>
   <entry>
-    <title>An Abel–Jacobi theorem for metrized complexes of Riemann surfaces</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0010/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0010</id>
-    <updated>2025-05-21T18:33:05.388496+00:00</updated>
-    <summary>Article by Maximilian C. E. Hofmann, Martin Ulirsch
-DOI: https://doi.org/10.1515/advgeom-2025-0010</summary>
+    <title>The prime grid contains arbitrarily large empty polygons</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0013/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0013</id>
+    <updated>2025-08-07T14:53:39.048670+00:00</updated>
+    <summary>Article by Travis Dillon
+DOI: https://doi.org/10.1515/advgeom-2025-0013</summary>
   </entry>
   <entry>
-    <title>Exploring the interplay of semistable vector bundles and their restrictions on reducible curves</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0009/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0009</id>
-    <updated>2025-05-21T18:33:05.388503+00:00</updated>
-    <summary>Article by B N Suhas, Praveen Kumar Roy, Amit Kumar Singh
-DOI: https://doi.org/10.1515/advgeom-2025-0009</summary>
-  </entry>
-  <entry>
-    <title>Another proof of Segre’s theorem about ovals</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0012/html"/>
-    <id>https://doi.org/10.1515/advgeom-2025-0012</id>
-    <updated>2025-05-21T18:33:05.388514+00:00</updated>
-    <summary>Article by Peter Müller
-DOI: https://doi.org/10.1515/advgeom-2025-0012</summary>
+    <title>The geometry of locally bounded rational functions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/advgeom-2025-0020/html"/>
+    <id>https://doi.org/10.1515/advgeom-2025-0020</id>
+    <updated>2025-08-07T14:53:39.048677+00:00</updated>
+    <summary>Article by Victor Delage, Goulwen Fichou, Aftab Patel
+DOI: https://doi.org/10.1515/advgeom-2025-0020</summary>
   </entry>
 </feed>

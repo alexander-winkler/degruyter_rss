@@ -1,82 +1,82 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>tm - Technisches Messen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/teme/92/6/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/teme/92/7-8/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/teme/html" rel="related"/>
-  <updated>2025-05-23T19:42:52.461767+00:00</updated>
+  <updated>2025-08-07T15:55:27.221813+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in tm - Technisches Messen</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter6/html"/>
-    <id>https://doi.org/10.1515/teme-2025-frontmatter6</id>
-    <updated>2025-05-23T19:42:52.461785+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter6</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter7-8/html"/>
+    <id>https://doi.org/10.1515/teme-2025-frontmatter7-8</id>
+    <updated>2025-08-07T15:55:27.221842+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter7-8</summary>
   </entry>
   <entry>
-    <title>6. Workshop ,,Messtechnische Anwendungen von Ultraschall“ vom 17. bis 19. Juni 2024 im Kloster Drübeck</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0066/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0066</id>
-    <updated>2025-05-23T19:42:52.461794+00:00</updated>
-    <summary>Article by Bernd Henning
-DOI: https://doi.org/10.1515/teme-2025-0066</summary>
+    <title>Image Processing Forum – Forum Bildverarbeitung 2024</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0076/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0076</id>
+    <updated>2025-08-07T15:55:27.221848+00:00</updated>
+    <summary>Article by Michael Heizmann, Thomas Längle
+DOI: https://doi.org/10.1515/teme-2025-0076</summary>
   </entry>
   <entry>
-    <title>Estimation of piezoelectric material parameters of ring-shaped specimens</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0107/html"/>
-    <id>https://doi.org/10.1515/teme-2024-0107</id>
-    <updated>2025-05-23T19:42:52.461800+00:00</updated>
-    <summary>Article by Olga Friesen, Leander Claes, Nadine Feldmann, Bernd Henning
-DOI: https://doi.org/10.1515/teme-2024-0107</summary>
+    <title>Optimizing speed and quality in rendering of sensor-realistic images</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0016/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0016</id>
+    <updated>2025-08-07T15:55:27.221858+00:00</updated>
+    <summary>Article by Christian Kludt, Frederik Seiler, Verena Eichinger, Johannes Meyer, Ira Effenberger, Thomas Längle, Jürgen Beyerer
+DOI: https://doi.org/10.1515/teme-2025-0016</summary>
   </entry>
   <entry>
-    <title>Phased-Array basiertes Structural Health Monitoring zur Delaminationserkennung bei Mehrschichtsystemen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0111/html"/>
-    <id>https://doi.org/10.1515/teme-2024-0111</id>
-    <updated>2025-05-23T19:42:52.461806+00:00</updated>
-    <summary>Article by Alexander Backer, Klaus Stefan Drese
-DOI: https://doi.org/10.1515/teme-2024-0111</summary>
+    <title>Characterisation metrics for performance comparison of area scan and event-based sensors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0018/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0018</id>
+    <updated>2025-08-07T15:55:27.221863+00:00</updated>
+    <summary>Article by Alkhazur Manakov, Helmut Herrmann, Bernd Jähne
+DOI: https://doi.org/10.1515/teme-2025-0018</summary>
   </entry>
   <entry>
-    <title>Luftgekoppelter Ultraschall für die Prüfung des Alterungszustandes von Klebeverbindungen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0115/html"/>
-    <id>https://doi.org/10.1515/teme-2024-0115</id>
-    <updated>2025-05-23T19:42:52.461811+00:00</updated>
-    <summary>Article by Christian Gragert, Christoph Pientschke
-DOI: https://doi.org/10.1515/teme-2024-0115</summary>
+    <title>A comparative study on multi-task uncertainty quantification in semantic segmentation and monocular depth estimation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0004/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0004</id>
+    <updated>2025-08-07T15:55:27.221869+00:00</updated>
+    <summary>Article by Steven Landgraf, Markus Hillemann, Theodor Kapler, Markus Ulrich
+DOI: https://doi.org/10.1515/teme-2025-0004</summary>
   </entry>
   <entry>
-    <title>Sensitivity analysis of piezoelectric material parameters using Sobol indices</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2024-0116/html"/>
-    <id>https://doi.org/10.1515/teme-2024-0116</id>
-    <updated>2025-05-23T19:42:52.461816+00:00</updated>
-    <summary>Article by Franziska Anderl, Michael Mayle
-DOI: https://doi.org/10.1515/teme-2024-0116</summary>
+    <title>Comparing fast semantic segmentation CNNs for FPGAs with standard methods</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0015/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0015</id>
+    <updated>2025-08-07T15:55:27.221874+00:00</updated>
+    <summary>Article by Simon Wezstein, Muen Jin, Michael Stelzl, Michael Heizmann
+DOI: https://doi.org/10.1515/teme-2025-0015</summary>
   </entry>
   <entry>
-    <title>Investigations on anelastic effects in electrical discharge machined titan grade 2 flexures for the use in precision force instruments</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0020/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0020</id>
-    <updated>2025-05-23T19:42:52.461821+00:00</updated>
-    <summary>Article by Norbert Rogge, Hannes Jahn, Markus Pabst, Vitalii Shmagun, Lena Zentner, Thomas Fröhlich
-DOI: https://doi.org/10.1515/teme-2025-0020</summary>
+    <title>A comparative study of Q-Seg, quantum-inspired techniques, and U-Net for crack image segmentation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0017/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0017</id>
+    <updated>2025-08-07T15:55:27.221878+00:00</updated>
+    <summary>Article by Akshaya Srinivasan, Alexander Geng, Antonio Macaluso, Maximilian Kiefer-Emmanouilidis, Ali Moghiseh
+DOI: https://doi.org/10.1515/teme-2025-0017</summary>
   </entry>
   <entry>
-    <title>2D image-based electrical contact surface degradation and its health assessment</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0003/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0003</id>
-    <updated>2025-05-23T19:42:52.461826+00:00</updated>
-    <summary>Article by Guojin Liu, Yuze Yang, Lekang Wang, Xu Liu, Xujing Wang
-DOI: https://doi.org/10.1515/teme-2025-0003</summary>
+    <title>Bayesian optimization of single-pulse laser drilling using advanced image processing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0012/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0012</id>
+    <updated>2025-08-07T15:55:27.221886+00:00</updated>
+    <summary>Article by Manuel Klaiber, Mathias Hug, Lukas Schneller, Ömer Can, Andreas Jahn, Axel Fehrenbacher, Michael Haas, Peter Reimann, Andreas Michalowski
+DOI: https://doi.org/10.1515/teme-2025-0012</summary>
   </entry>
   <entry>
-    <title>From marker features to multimodal fusion: a review of vision-based tactile sensor design and development</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0001/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0001</id>
-    <updated>2025-05-23T19:42:52.461831+00:00</updated>
-    <summary>Article by Ning Han, Shen Jingjin
-DOI: https://doi.org/10.1515/teme-2025-0001</summary>
+    <title>Robuste Ampeldetektion und Haltelinienfreigabe durch HD-Karten Assoziation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0013/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0013</id>
+    <updated>2025-08-07T15:55:27.221894+00:00</updated>
+    <summary>Article by Richard Fehler, Kevin Rösch, Fabian Immel, Christoph Stiller
+DOI: https://doi.org/10.1515/teme-2025-0013</summary>
   </entry>
 </feed>

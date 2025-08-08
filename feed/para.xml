@@ -1,209 +1,137 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Paragrana</title>
-  <link href="https://www.degruyterbrill.com/journal/key/para/33/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/para/34/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/para.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/para/html" rel="related"/>
-  <updated>2025-05-06T05:03:35.347697+00:00</updated>
+  <updated>2025-08-07T15:45:14.981728+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/para.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Paragrana</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/para-2024-frontmatter2</id>
-    <updated>2025-05-06T05:03:35.347717+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/para-2024-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/para-2025-frontmatter1</id>
+    <updated>2025-08-07T15:45:14.981751+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/para-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>Editorial</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0021/html"/>
-    <id>https://doi.org/10.1515/para-2024-0021</id>
-    <updated>2025-05-06T05:03:35.347724+00:00</updated>
-    <summary>Article by Christoph Wulf
-DOI: https://doi.org/10.1515/para-2024-0021</summary>
+    <title>Anthropologie, Kritik und Ungleichheit</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0001/html"/>
+    <id>https://doi.org/10.1515/para-2025-0001</id>
+    <updated>2025-08-07T15:45:14.981760+00:00</updated>
+    <summary>Article by Daniel Burghardt, Jörg Zirfas
+DOI: https://doi.org/10.1515/para-2025-0001</summary>
   </entry>
   <entry>
-    <title>Welterbe und Immaterielles Erbe – Was verbindet es und was unterscheidet es?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0022/html"/>
-    <id>https://doi.org/10.1515/para-2024-0022</id>
-    <updated>2025-05-06T05:03:35.347733+00:00</updated>
-    <summary>Article by Marie-Theres Albert
-DOI: https://doi.org/10.1515/para-2024-0022</summary>
+    <title>Negative Anthropologie der Leistungsgesellschaft: Soziale Ungleichheit und die ‚Natur des Menschen‘</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0002/html"/>
+    <id>https://doi.org/10.1515/para-2025-0002</id>
+    <updated>2025-08-07T15:45:14.981769+00:00</updated>
+    <summary>Article by Martin Mettin, Thomas Lux
+DOI: https://doi.org/10.1515/para-2025-0002</summary>
   </entry>
   <entry>
-    <title>Die Umsetzung des UNESCO-Übereinkommens zur Erhaltung des immateriellen Kulturerbes von 2003 in der Bundesrepublik Deutschland</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0023/html"/>
-    <id>https://doi.org/10.1515/para-2024-0023</id>
-    <updated>2025-05-06T05:03:35.347739+00:00</updated>
-    <summary>Article by Tolin Jojo
-DOI: https://doi.org/10.1515/para-2024-0023</summary>
+    <title>Elite und Ungleichheit – ein untrennbares Begriffspaar</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0003/html"/>
+    <id>https://doi.org/10.1515/para-2025-0003</id>
+    <updated>2025-08-07T15:45:14.981776+00:00</updated>
+    <summary>Article by Michael Hartmann
+DOI: https://doi.org/10.1515/para-2025-0003</summary>
   </entry>
   <entry>
-    <title>Probleme und Chancen der Weitergabe traditioneller Kulturformen in den Bewerbungsdossiers auf der bundesdeutschen Liste des Immateriellen Kulturerbes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0024/html"/>
-    <id>https://doi.org/10.1515/para-2024-0024</id>
-    <updated>2025-05-06T05:03:35.347748+00:00</updated>
-    <summary>Article by Manfred Seifert
-DOI: https://doi.org/10.1515/para-2024-0024</summary>
+    <title>Privilegien: An Ongoing Scandal</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0004/html"/>
+    <id>https://doi.org/10.1515/para-2025-0004</id>
+    <updated>2025-08-07T15:45:14.981782+00:00</updated>
+    <summary>Article by Markus Rieger-Ladich
+DOI: https://doi.org/10.1515/para-2025-0004</summary>
   </entry>
   <entry>
-    <title>Immaterielles Kulturerbe – Beratung als Cultural Brokerage</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0025/html"/>
-    <id>https://doi.org/10.1515/para-2024-0025</id>
-    <updated>2025-05-06T05:03:35.347754+00:00</updated>
-    <summary>Article by Helmut Groschwitz
-DOI: https://doi.org/10.1515/para-2024-0025</summary>
+    <title>Bildungsaufstieg als epistemologische Herausforderung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0005/html"/>
+    <id>https://doi.org/10.1515/para-2025-0005</id>
+    <updated>2025-08-07T15:45:14.981788+00:00</updated>
+    <summary>Article by Flora Petrik
+DOI: https://doi.org/10.1515/para-2025-0005</summary>
   </entry>
   <entry>
-    <title>Immaterielles Kulturerbe als guter Grund</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0026/html"/>
-    <id>https://doi.org/10.1515/para-2024-0026</id>
-    <updated>2025-05-06T05:03:35.347759+00:00</updated>
-    <summary>Article by Marie Enders
-DOI: https://doi.org/10.1515/para-2024-0026</summary>
+    <title>Zur Herstellung sozialer Ungleichheit: Diskriminierung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0006/html"/>
+    <id>https://doi.org/10.1515/para-2025-0006</id>
+    <updated>2025-08-07T15:45:14.981794+00:00</updated>
+    <summary>Article by Markus Dederich
+DOI: https://doi.org/10.1515/para-2025-0006</summary>
   </entry>
   <entry>
-    <title>Kultur, Tradition und gesellschaftlicher Wandel – Potentiale des UNESCO-Übereinkommens zur Erhaltung des Immateriellen Kulturerbes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0027/html"/>
-    <id>https://doi.org/10.1515/para-2024-0027</id>
-    <updated>2025-05-06T05:03:35.347765+00:00</updated>
-    <summary>Article by Gabriele Detschmann, Gabriele Eschig, Maria Walcher
-DOI: https://doi.org/10.1515/para-2024-0027</summary>
+    <title>Entworfen und Verworfen: Wie weiblicher Aufruhr an konservativen Gesellschaftsordnungen scheiterte</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0007/html"/>
+    <id>https://doi.org/10.1515/para-2025-0007</id>
+    <updated>2025-08-07T15:45:14.981800+00:00</updated>
+    <summary>Article by Inga Wiedemann
+DOI: https://doi.org/10.1515/para-2025-0007</summary>
   </entry>
   <entry>
-    <title>Täler tief, Berge hoch</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0028/html"/>
-    <id>https://doi.org/10.1515/para-2024-0028</id>
-    <updated>2025-05-06T05:03:35.347771+00:00</updated>
-    <summary>Article by Stefan Koslowski, Julien Vuilleumier
-DOI: https://doi.org/10.1515/para-2024-0028</summary>
+    <title>Das Elend von Gleichheit und Ungleichheit in derDialektik der Aufklärung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0008/html"/>
+    <id>https://doi.org/10.1515/para-2025-0008</id>
+    <updated>2025-08-07T15:45:14.981806+00:00</updated>
+    <summary>Article by Nina Rabuza
+DOI: https://doi.org/10.1515/para-2025-0008</summary>
   </entry>
   <entry>
-    <title>Images of Living Culture</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0029/html"/>
-    <id>https://doi.org/10.1515/para-2024-0029</id>
-    <updated>2025-05-06T05:03:35.347777+00:00</updated>
-    <summary>Article by Chiara Simonigh
-DOI: https://doi.org/10.1515/para-2024-0029</summary>
+    <title>„Die kranke Ideologie der Gleichheit“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0009/html"/>
+    <id>https://doi.org/10.1515/para-2025-0009</id>
+    <updated>2025-08-07T15:45:14.981812+00:00</updated>
+    <summary>Article by Judith Goetz
+DOI: https://doi.org/10.1515/para-2025-0009</summary>
   </entry>
   <entry>
-    <title>Wie „lebendig“ mussLiving Heritagesein?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0030/html"/>
-    <id>https://doi.org/10.1515/para-2024-0030</id>
-    <updated>2025-05-06T05:03:35.347783+00:00</updated>
-    <summary>Article by Tiago de Oliveira Pinto
-DOI: https://doi.org/10.1515/para-2024-0030</summary>
+    <title>Vulnerabilität und Ressentiment</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0010/html"/>
+    <id>https://doi.org/10.1515/para-2025-0010</id>
+    <updated>2025-08-07T15:45:14.981819+00:00</updated>
+    <summary>Article by Moritz Krebs
+DOI: https://doi.org/10.1515/para-2025-0010</summary>
   </entry>
   <entry>
-    <title>Digitale Kultur ist Living Heritage</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0031/html"/>
-    <id>https://doi.org/10.1515/para-2024-0031</id>
-    <updated>2025-05-06T05:03:35.347789+00:00</updated>
-    <summary>Article by Andreas Lange
-DOI: https://doi.org/10.1515/para-2024-0031</summary>
+    <title>Die Ungleichheit der Vulnerabilität</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0011/html"/>
+    <id>https://doi.org/10.1515/para-2025-0011</id>
+    <updated>2025-08-07T15:45:14.981825+00:00</updated>
+    <summary>Article by Jörg Zirfas
+DOI: https://doi.org/10.1515/para-2025-0011</summary>
   </entry>
   <entry>
-    <title>Moderner Tanz in Deutschland</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0032/html"/>
-    <id>https://doi.org/10.1515/para-2024-0032</id>
-    <updated>2025-05-06T05:03:35.347794+00:00</updated>
-    <summary>Article by Vicky Kämpfe
-DOI: https://doi.org/10.1515/para-2024-0032</summary>
+    <title>Die Geburt der Daseinsanalyse aus dem Geist des Antinaturalismus</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0012/html"/>
+    <id>https://doi.org/10.1515/para-2025-0012</id>
+    <updated>2025-08-07T15:45:14.981831+00:00</updated>
+    <summary>Article by Martin G. Weiß
+DOI: https://doi.org/10.1515/para-2025-0012</summary>
   </entry>
   <entry>
-    <title>Heiterkeit als immaterielles Kulturerbe</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0033/html"/>
-    <id>https://doi.org/10.1515/para-2024-0033</id>
-    <updated>2025-05-06T05:03:35.347800+00:00</updated>
-    <summary>Article by Anja Kraus
-DOI: https://doi.org/10.1515/para-2024-0033</summary>
+    <title>„Der Narzissmus der kleinen Differenzen“</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0013/html"/>
+    <id>https://doi.org/10.1515/para-2025-0013</id>
+    <updated>2025-08-07T15:45:14.981837+00:00</updated>
+    <summary>Article by Werner Pohlmann
+DOI: https://doi.org/10.1515/para-2025-0013</summary>
   </entry>
   <entry>
-    <title>Trockensteinbau: immaterielle Praktiken und UNESCO Welterbe Kulturlandschaften</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0034/html"/>
-    <id>https://doi.org/10.1515/para-2024-0034</id>
-    <updated>2025-05-06T05:03:35.347805+00:00</updated>
-    <summary>Article by Mechtild Rössler
-DOI: https://doi.org/10.1515/para-2024-0034</summary>
-  </entry>
-  <entry>
-    <title>Renewing Museum Meanings and Action with Intangible Cultural Heritage</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0035/html"/>
-    <id>https://doi.org/10.1515/para-2024-0035</id>
-    <updated>2025-05-06T05:03:35.347811+00:00</updated>
-    <summary>Article by Michelle L. Stefano
-DOI: https://doi.org/10.1515/para-2024-0035</summary>
-  </entry>
-  <entry>
-    <title>Museen und ihre Verantwortung für die Bewahrung des immateriellen Kulturerbes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0036/html"/>
-    <id>https://doi.org/10.1515/para-2024-0036</id>
-    <updated>2025-05-06T05:03:35.347816+00:00</updated>
-    <summary>Article by Hartwig Lüdtke
-DOI: https://doi.org/10.1515/para-2024-0036</summary>
-  </entry>
-  <entry>
-    <title>Immaterielles Kulturerbe und Museumspraxis: Zum Beispiel Alltagskultur</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0037/html"/>
-    <id>https://doi.org/10.1515/para-2024-0037</id>
-    <updated>2025-05-06T05:03:35.347821+00:00</updated>
-    <summary>Article by Sabine Zinn-Thomas
-DOI: https://doi.org/10.1515/para-2024-0037</summary>
-  </entry>
-  <entry>
-    <title>Museen, Objekte und Praktiken</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0038/html"/>
-    <id>https://doi.org/10.1515/para-2024-0038</id>
-    <updated>2025-05-06T05:03:35.347827+00:00</updated>
-    <summary>Article by Bernd Wagner, Klaus-Christian Zehbe
-DOI: https://doi.org/10.1515/para-2024-0038</summary>
-  </entry>
-  <entry>
-    <title>Lasst uns zusammenkommen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0039/html"/>
-    <id>https://doi.org/10.1515/para-2024-0039</id>
-    <updated>2025-05-06T05:03:35.347832+00:00</updated>
-    <summary>Article by Chiara Bortolotto
-DOI: https://doi.org/10.1515/para-2024-0039</summary>
-  </entry>
-  <entry>
-    <title>Immaterielles Kulturerbe im Strukturwandel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0040/html"/>
-    <id>https://doi.org/10.1515/para-2024-0040</id>
-    <updated>2025-05-06T05:03:35.347838+00:00</updated>
-    <summary>Article by Marlen Meißner
-DOI: https://doi.org/10.1515/para-2024-0040</summary>
-  </entry>
-  <entry>
-    <title>Empfehlungen zum künftigen Umgang mit dem Immateriellen Kulturerbe in Deutschland</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0041/html"/>
-    <id>https://doi.org/10.1515/para-2024-0041</id>
-    <updated>2025-05-06T05:03:35.347845+00:00</updated>
-    <summary>Article by Benjamin Hanke
-DOI: https://doi.org/10.1515/para-2024-0041</summary>
-  </entry>
-  <entry>
-    <title>Bildung durch immaterielles kulturelles Erbe</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0042/html"/>
-    <id>https://doi.org/10.1515/para-2024-0042</id>
-    <updated>2025-05-06T05:03:35.347850+00:00</updated>
-    <summary>Article by Christoph Wulf
-DOI: https://doi.org/10.1515/para-2024-0042</summary>
-  </entry>
-  <entry>
-    <title>Digital-kulturelle Praktiken als Immaterielles Kulturerbe</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0043/html"/>
-    <id>https://doi.org/10.1515/para-2024-0043</id>
-    <updated>2025-05-06T05:03:35.347856+00:00</updated>
-    <summary>Article by Leopold Klepacki, Benjamin Jörissen
-DOI: https://doi.org/10.1515/para-2024-0043</summary>
+    <title>Anthropologie als Ungleichheitsmaschine</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0014/html"/>
+    <id>https://doi.org/10.1515/para-2025-0014</id>
+    <updated>2025-08-07T15:45:14.981843+00:00</updated>
+    <summary>Article by Olaf Sanders
+DOI: https://doi.org/10.1515/para-2025-0014</summary>
   </entry>
   <entry>
     <title>Autorinnen und Autoren</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2024-0044/html"/>
-    <id>https://doi.org/10.1515/para-2024-0044</id>
-    <updated>2025-05-06T05:03:35.347862+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/para-2024-0044</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/para-2025-0015/html"/>
+    <id>https://doi.org/10.1515/para-2025-0015</id>
+    <updated>2025-08-07T15:45:14.981848+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/para-2025-0015</summary>
   </entry>
 </feed>

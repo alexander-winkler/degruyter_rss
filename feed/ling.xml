@@ -1,82 +1,74 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Linguistics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ling/63/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ling/63/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ling.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/ling/html" rel="related"/>
-  <updated>2025-05-06T05:01:32.717398+00:00</updated>
+  <updated>2025-08-07T15:36:38.374451+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ling.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Linguistics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2025-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/ling-2025-frontmatter3</id>
-    <updated>2025-05-06T05:01:32.717429+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/ling-2025-frontmatter3</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/ling-2025-frontmatter4</id>
+    <updated>2025-08-07T15:36:38.374477+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ling-2025-frontmatter4</summary>
   </entry>
   <entry>
-    <title>A register approach to negative concord versus negative polarity items in English</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0016/html"/>
-    <id>https://doi.org/10.1515/ling-2023-0016</id>
-    <updated>2025-05-06T05:01:32.717438+00:00</updated>
-    <summary>Article by Stephanie Rotter, Mingya Liu
-DOI: https://doi.org/10.1515/ling-2023-0016</summary>
+    <title>What a nominal predicate may mean: eel, merfolk, and other creatures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0126/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0126</id>
+    <updated>2025-08-07T15:36:38.374486+00:00</updated>
+    <summary>Article by David Y. Oshima
+DOI: https://doi.org/10.1515/ling-2023-0126</summary>
   </entry>
   <entry>
-    <title>Sociolinguistic monitoring and L2 speakers of English</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0073/html"/>
-    <id>https://doi.org/10.1515/ling-2023-0073</id>
-    <updated>2025-05-06T05:01:32.717447+00:00</updated>
-    <summary>Article by Jana Pflaeging, Bradley Mackay, Erik Schleef
-DOI: https://doi.org/10.1515/ling-2023-0073</summary>
+    <title>Left Dislocation in Spoken Hebrew, it is neither topicalizing nor a construction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0174/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0174</id>
+    <updated>2025-08-07T15:36:38.374495+00:00</updated>
+    <summary>Article by Pavel Ozerov
+DOI: https://doi.org/10.1515/ling-2023-0174</summary>
   </entry>
   <entry>
-    <title>The controller-first constraint beyond the Basic Variety: how do instructed learner varieties solve contexts of competition?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0086/html"/>
-    <id>https://doi.org/10.1515/ling-2023-0086</id>
-    <updated>2025-05-06T05:01:32.717459+00:00</updated>
-    <summary>Article by Isabel Repiso
-DOI: https://doi.org/10.1515/ling-2023-0086</summary>
+    <title>Semantic variation and semantic change in the color lexicon</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0161/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0161</id>
+    <updated>2025-08-07T15:36:38.374502+00:00</updated>
+    <summary>Article by Carlotta Viti
+DOI: https://doi.org/10.1515/ling-2023-0161</summary>
   </entry>
   <entry>
-    <title>The count-mass distinction in Hong Kong Sign Language: an intra- and cross-modal comparison</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2021-0215/html"/>
-    <id>https://doi.org/10.1515/ling-2021-0215</id>
-    <updated>2025-05-06T05:01:32.717467+00:00</updated>
-    <summary>Article by Emily Koenders
-DOI: https://doi.org/10.1515/ling-2021-0215</summary>
+    <title>Creativity, paradigms and morphological constructions: evidence from Dutch pseudoparticiples</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0194/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0194</id>
+    <updated>2025-08-07T15:36:38.374510+00:00</updated>
+    <summary>Article by Muriel Norde, Graeme Trousdale
+DOI: https://doi.org/10.1515/ling-2023-0194</summary>
   </entry>
   <entry>
-    <title>Resultative secondary predicates in cooking recipes: an empirical study of Germanic and Romance languages</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2022-0130/html"/>
-    <id>https://doi.org/10.1515/ling-2022-0130</id>
-    <updated>2025-05-06T05:01:32.717477+00:00</updated>
-    <summary>Article by Justine Métairy
-DOI: https://doi.org/10.1515/ling-2022-0130</summary>
+    <title>Referential means in German: an experimental study comparing feminine epicene nouns with masculine generic nouns</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0049/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0049</id>
+    <updated>2025-08-07T15:36:38.374517+00:00</updated>
+    <summary>Article by Olga Steriopolo, Christin Schütze
+DOI: https://doi.org/10.1515/ling-2023-0049</summary>
   </entry>
   <entry>
-    <title>A formal approach to reanalysis and the Early Semantic Stability Hypothesis: exploring the test case of the negative counterfactual markerʾilmalein Hebrew and Aramaic</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0022/html"/>
-    <id>https://doi.org/10.1515/ling-2023-0022</id>
-    <updated>2025-05-06T05:01:32.717485+00:00</updated>
-    <summary>Article by Elitzur A. Bar-Asher Siegal
-DOI: https://doi.org/10.1515/ling-2023-0022</summary>
+    <title>Between (anti-)grammar and identity: a quantitative and qualitative study of hyperdialectisms in Brabantish</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0148/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0148</id>
+    <updated>2025-08-07T15:36:38.374524+00:00</updated>
+    <summary>Article by Kristel Doreleijers, Stefan Grondelaers
+DOI: https://doi.org/10.1515/ling-2023-0148</summary>
   </entry>
   <entry>
-    <title>The colonisation of the colour pink: variation and change in Māori’s colour lexicon</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0059/html"/>
-    <id>https://doi.org/10.1515/ling-2023-0059</id>
-    <updated>2025-05-06T05:01:32.717493+00:00</updated>
-    <summary>Article by Neil Dodgson, Victoria Chen, Meimuna Zahido
-DOI: https://doi.org/10.1515/ling-2023-0059</summary>
-  </entry>
-  <entry>
-    <title>Corrigendum to: Diachronic evolution of the subordinatorkakin Russian</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2024-2001/html"/>
-    <id>https://doi.org/10.1515/ling-2024-2001</id>
-    <updated>2025-05-06T05:01:32.717500+00:00</updated>
-    <summary>Article by Natalia Serdobolskaya, Irina Kobozeva
-DOI: https://doi.org/10.1515/ling-2024-2001</summary>
+    <title>Dialogical and monological functions of the discourse markerbuenoin spoken and written Spanish</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ling-2023-0113/html"/>
+    <id>https://doi.org/10.1515/ling-2023-0113</id>
+    <updated>2025-08-07T15:36:38.374531+00:00</updated>
+    <summary>Article by Pekka Posio, Malte Rosemeyer
+DOI: https://doi.org/10.1515/ling-2023-0113</summary>
   </entry>
 </feed>

@@ -1,58 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Integrative Bioinformatics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jib/21/4/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jib/22/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jib.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jib/html" rel="related"/>
-  <updated>2025-05-06T04:59:43.091601+00:00</updated>
+  <updated>2025-08-07T15:27:59.526776+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jib.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Integrative Bioinformatics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-frontmatter4/html"/>
-    <id>https://doi.org/10.1515/jib-2024-frontmatter4</id>
-    <updated>2025-05-06T04:59:43.091634+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jib-2024-frontmatter4</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/jib-2025-frontmatter1</id>
+    <updated>2025-08-07T15:27:59.526803+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jib-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>TREMSUCS-TCGA – an integrated workflow for the identification of biomarkers for treatment success</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-0031/html"/>
-    <id>https://doi.org/10.1515/jib-2024-0031</id>
-    <updated>2025-05-06T04:59:43.091645+00:00</updated>
-    <summary>Article by Gabor Balogh, Natasha Jorge, Célia Dupain, Maud Kamal, Nicolas Servant, Christophe Le Tourneau, Peter F. Stadler, Stephan H. Bernhart
-DOI: https://doi.org/10.1515/jib-2024-0031</summary>
+    <title>Editorial – 20 years Journal of Integrative Bioinformatics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2025-0034/html"/>
+    <id>https://doi.org/10.1515/jib-2025-0034</id>
+    <updated>2025-08-07T15:27:59.526812+00:00</updated>
+    <summary>Article by Ralf Hofestädt
+DOI: https://doi.org/10.1515/jib-2025-0034</summary>
   </entry>
   <entry>
-    <title>Exploring the therapeutic potential ofAsparagus africanusin polycystic ovarian syndrome: a computational analysis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-0019/html"/>
-    <id>https://doi.org/10.1515/jib-2024-0019</id>
-    <updated>2025-05-06T04:59:43.091658+00:00</updated>
-    <summary>Article by Sania Riaz, Fatima Haider, Rizwan- ur-Rehman, Aqsa Zafar
-DOI: https://doi.org/10.1515/jib-2024-0019</summary>
+    <title>Data management in balance – a decade of balancing pragmatism, sustainability and innovation at plant research center IPK Gatersleben</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2025-0012/html"/>
+    <id>https://doi.org/10.1515/jib-2025-0012</id>
+    <updated>2025-08-07T15:27:59.526822+00:00</updated>
+    <summary>Article by Danuta Schüler, Matthias Lange, Thomas Altmann, Maria Cuacos, Daniel Arend, John Charles D’Auria, Anne Fiebig, Jochen Kumlehn, Kerstin Neumann, Michael Melzer, Elena Rey-Mazón, Hardy Rolletschek, Uwe Scholz, Evelin Willner, Jochen C. Reif
+DOI: https://doi.org/10.1515/jib-2025-0012</summary>
   </entry>
   <entry>
-    <title>MiRNA target enrichment analysis of co-expression network modules reveals important miRNAs and their roles in breast cancer progression</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2022-0036/html"/>
-    <id>https://doi.org/10.1515/jib-2022-0036</id>
-    <updated>2025-05-06T04:59:43.091669+00:00</updated>
-    <summary>Article by Mohammad Javad Bazyari, Seyed Hamid Aghaee-Bakhtiari
-DOI: https://doi.org/10.1515/jib-2022-0036</summary>
+    <title>Bioinformatic analysis of the regulatory potential of tagging SNPs provides evidence of the involvement of genes encoding the heat-resistant obscure (Hero) proteins in the pathogenesis of cardiovascular diseases</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-0043/html"/>
+    <id>https://doi.org/10.1515/jib-2024-0043</id>
+    <updated>2025-08-07T15:27:59.526835+00:00</updated>
+    <summary>Article by Vladislav V. Shilenok, Irina V. Shilenok, Vladislav O. Soldatov, Yuriy L. Orlov, Ksenia A. Kobzeva, Alexey V. Deykin, Olga Yu Bushueva
+DOI: https://doi.org/10.1515/jib-2024-0043</summary>
   </entry>
   <entry>
-    <title>The potential ofMitragyna speciosaleaves as a natural source of antioxidants for disease prevention</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2023-0030/html"/>
-    <id>https://doi.org/10.1515/jib-2023-0030</id>
-    <updated>2025-05-06T04:59:43.091678+00:00</updated>
-    <summary>Article by Ihsanul Arief, Gagus Ketut Sunnardianto, Syahrul Khairi, Wahyu Dita Saputri
-DOI: https://doi.org/10.1515/jib-2023-0030</summary>
+    <title>Sustainable software development in science – insights from 20 years of Vanted</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2025-0007/html"/>
+    <id>https://doi.org/10.1515/jib-2025-0007</id>
+    <updated>2025-08-07T15:27:59.526843+00:00</updated>
+    <summary>Article by Falk Schreiber, Tobias Czauderna, Dimitar Garkov, Niklas Gröne, Karsten Klein, Matthias Lange, Uwe Scholz, Björn Sommer
+DOI: https://doi.org/10.1515/jib-2025-0007</summary>
   </entry>
   <entry>
-    <title>Ion channel classification through machine learning and protein language model embeddings</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2023-0047/html"/>
-    <id>https://doi.org/10.1515/jib-2023-0047</id>
-    <updated>2025-05-06T04:59:43.091690+00:00</updated>
-    <summary>Article by Hamed Ghazikhani, Gregory Butler
-DOI: https://doi.org/10.1515/jib-2023-0047</summary>
+    <title>Petri net modeling and simulation of post-transcriptional regulatory networks of human embryonic stem cell (hESC) differentiation to cardiomyocytes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2024-0037/html"/>
+    <id>https://doi.org/10.1515/jib-2024-0037</id>
+    <updated>2025-08-07T15:27:59.526851+00:00</updated>
+    <summary>Article by Aruana F. F. Hansel-Fröse, Christoph Brinkrolf, Marcel Friedrichs, Bruno Dallagiovanna, Lucia Spangenberg
+DOI: https://doi.org/10.1515/jib-2024-0037</summary>
+  </entry>
+  <entry>
+    <title>Designing an optimized theta-defensin peptide for HIV therapy using in-silico approaches</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jib-2023-0053/html"/>
+    <id>https://doi.org/10.1515/jib-2023-0053</id>
+    <updated>2025-08-07T15:27:59.526858+00:00</updated>
+    <summary>Article by Zahra Mosalanejad, Seyed Nooreddin Faraji, Mohammad Reza Rahbar, Ahmad Gholami
+DOI: https://doi.org/10.1515/jib-2023-0053</summary>
   </entry>
 </feed>

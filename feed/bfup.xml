@@ -1,234 +1,122 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bibliothek Forschung und Praxis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/bfup/49/1/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bfup/49/2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bfup.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/bfup/html" rel="related"/>
-  <updated>2025-05-06T04:53:14.971752+00:00</updated>
+  <updated>2025-08-07T14:59:26.558885+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bfup.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Bibliothek Forschung und Praxis</subtitle>
   <entry>
     <title>Titelseiten</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-frontmatter1/html"/>
-    <id>https://doi.org/10.1515/bfp-2025-frontmatter1</id>
-    <updated>2025-05-06T04:53:14.971771+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bfp-2025-frontmatter1</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-frontmatter2/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-frontmatter2</id>
+    <updated>2025-08-07T14:59:26.558915+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bfp-2025-frontmatter2</summary>
   </entry>
   <entry>
-    <title>Teaching Library und die Vermittlung von Informationskompetenz</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0007/html"/>
-    <id>https://doi.org/10.1515/bfp-2025-0007</id>
-    <updated>2025-05-06T04:53:14.971777+00:00</updated>
-    <summary>Article by Margot Werner, Alice Keller, Cornelia Vonhof
-DOI: https://doi.org/10.1515/bfp-2025-0007</summary>
+    <title>Digitale Erschließung historischer Bibliotheken: Erkenntnisse und Perspektiven aus dem Projekt Bibliotheca Eugeniana Digital</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0074/html"/>
+    <id>https://doi.org/10.1515/bfp-2024-0074</id>
+    <updated>2025-08-07T14:59:26.558925+00:00</updated>
+    <summary>Article by Annerose Tartler, Eva Mayr, Florian Windhager, Simon Mayer
+DOI: https://doi.org/10.1515/bfp-2024-0074</summary>
   </entry>
   <entry>
-    <title>30 Jahre Teaching Library (D-A-CH): Von der Katalogschulung zum Lernort Bibliothek?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0079/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0079</id>
-    <updated>2025-05-06T04:53:14.971785+00:00</updated>
-    <summary>Article by Ulrike Wuttke, Timo Steyer
-DOI: https://doi.org/10.1515/bfp-2024-0079</summary>
+    <title>Umgang mit dem Unsichtbaren – Neurodiversity-Management in Bibliotheken</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0005/html"/>
+    <id>https://doi.org/10.1515/bfp-2024-0005</id>
+    <updated>2025-08-07T14:59:26.558935+00:00</updated>
+    <summary>Article by Sandra Stecker, Miriam Albers
+DOI: https://doi.org/10.1515/bfp-2024-0005</summary>
   </entry>
   <entry>
-    <title>Das Framework for Information Literacy for Higher Education der ACRL: Sein Potenzial für die Vermittlung von Informationskompetenz und seine Auswirkungen auf die Vermittlungspraxis der Teaching Librarians im deutschen Sprachraum</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0083/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0083</id>
-    <updated>2025-05-06T04:53:14.971792+00:00</updated>
-    <summary>Article by Michaela Zemanek
-DOI: https://doi.org/10.1515/bfp-2024-0083</summary>
+    <title>Visionieren, beschreiben, verpacken – ein Praxisbericht zum Forschungsdatenmanagement in den Künsten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0017/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0017</id>
+    <updated>2025-08-07T14:59:26.558943+00:00</updated>
+    <summary>Article by Tabea Lurk, Jürgen Enge
+DOI: https://doi.org/10.1515/bfp-2025-0017</summary>
   </entry>
   <entry>
-    <title>Und ja, IK soll auch Spaß machen: Meine Kurse sind keine Vorlesungen, sondern Infotainment</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0030/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0030</id>
-    <updated>2025-05-06T04:53:14.971798+00:00</updated>
-    <summary>Article by Alice Keller, Gary Seitz
-DOI: https://doi.org/10.1515/bfp-2024-0030</summary>
+    <title>KI-Tools für die wissenschaftliche Literaturrecherche: Potenziale, Problematiken, Didaktik und Zukunftsperspektiven</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0002/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0002</id>
+    <updated>2025-08-07T14:59:26.558952+00:00</updated>
+    <summary>Article by Miriam Lahrsow
+DOI: https://doi.org/10.1515/bfp-2025-0002</summary>
   </entry>
   <entry>
-    <title>Von Forschenden oft unterschätzt: Erfolgreicher forschen mit Informationskompetenz</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0088/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0088</id>
-    <updated>2025-05-06T04:53:14.971804+00:00</updated>
-    <summary>Article by Oliver Renn
-DOI: https://doi.org/10.1515/bfp-2024-0088</summary>
+    <title>What May Be Expected from the OMC Work on Libraries (2023–2026)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0018/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0018</id>
+    <updated>2025-08-07T14:59:26.558960+00:00</updated>
+    <summary>Article by Giuseppe Vitiello
+DOI: https://doi.org/10.1515/bfp-2025-0018</summary>
   </entry>
   <entry>
-    <title>Medienbildung in Öffentlichen Bibliotheken</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0090/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0090</id>
-    <updated>2025-05-06T04:53:14.971810+00:00</updated>
-    <summary>Article by Lambert Zumbrägel, Martha Maucher
-DOI: https://doi.org/10.1515/bfp-2024-0090</summary>
+    <title>Erfassung von Publikationskosten an wissenschaftlichen Einrichtungen in Deutschland</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0008/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0008</id>
+    <updated>2025-08-07T14:59:26.558967+00:00</updated>
+    <summary>Article by Dorothea Strecker, Heinz Pampel, Jonas Höfting
+DOI: https://doi.org/10.1515/bfp-2025-0008</summary>
   </entry>
   <entry>
-    <title>Desinformation auf der Spur: Konzept einer Bibliotheksschulung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0084/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0084</id>
-    <updated>2025-05-06T04:53:14.971816+00:00</updated>
-    <summary>Article by Valentin Umlauft
-DOI: https://doi.org/10.1515/bfp-2024-0084</summary>
+    <title>Wie schreibt man die Bibliotheksgeschichte Chinas?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0009/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0009</id>
+    <updated>2025-08-07T14:59:26.558975+00:00</updated>
+    <summary>Article by Ulrich Johannes Schneider
+DOI: https://doi.org/10.1515/bfp-2025-0009</summary>
   </entry>
   <entry>
-    <title>Praxisbericht: Das Konzept des neuen Centers für Informations- und Medienkompetenz der Österreichischen Nationalbibliothek</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0077/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0077</id>
-    <updated>2025-05-06T04:53:14.971824+00:00</updated>
-    <summary>Article by Margot Werner
-DOI: https://doi.org/10.1515/bfp-2024-0077</summary>
-  </entry>
-  <entry>
-    <title>Demokratiepädagogisch Agieren in (Öffentlichen) Bibliotheken</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0089/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0089</id>
-    <updated>2025-05-06T04:53:14.971830+00:00</updated>
-    <summary>Article by Tom Becker, Yvonne Fischer
-DOI: https://doi.org/10.1515/bfp-2024-0089</summary>
-  </entry>
-  <entry>
-    <title>PISA, IGLU, IQB &amp; Co – Einsatz von aktuellen Studien und Untersuchungen in der bildungspolitischen Arbeit von Bibliotheken</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0080/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0080</id>
-    <updated>2025-05-06T04:53:14.971836+00:00</updated>
-    <summary>Article by Kathrin Reckling-Freitag
-DOI: https://doi.org/10.1515/bfp-2024-0080</summary>
-  </entry>
-  <entry>
-    <title>Gestaltung von E-Learning-Angeboten in Bibliotheken zur Förderung der Medien- und Informationskompetenz</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0087/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0087</id>
-    <updated>2025-05-06T04:53:14.971841+00:00</updated>
-    <summary>Article by Anke Petschenka
-DOI: https://doi.org/10.1515/bfp-2024-0087</summary>
-  </entry>
-  <entry>
-    <title>Vision und Realität: Liaison Librarians und Informationskompetenz an der Universitäts- und Zentralbibliothek Zürich</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0092/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0092</id>
-    <updated>2025-05-06T04:53:14.971847+00:00</updated>
-    <summary>Article by Ladina Tschander, Andrea Sommaruga, Bettina Bernasconi
-DOI: https://doi.org/10.1515/bfp-2024-0092</summary>
-  </entry>
-  <entry>
-    <title>Künstliche Intelligenz in der Literaturrecherche</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0063/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0063</id>
-    <updated>2025-05-06T04:53:14.971852+00:00</updated>
-    <summary>Article by Anton Walder
-DOI: https://doi.org/10.1515/bfp-2024-0063</summary>
-  </entry>
-  <entry>
-    <title>Forschungsperspektiven zu KI, Informationsverhalten und Informationskompetenz</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0081/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0081</id>
-    <updated>2025-05-06T04:53:14.971858+00:00</updated>
-    <summary>Article by Antje Michel, Joachim Griesbaum
-DOI: https://doi.org/10.1515/bfp-2024-0081</summary>
-  </entry>
-  <entry>
-    <title>Professionalisierung durch Kollaboration: OER im Verbund</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0093/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0093</id>
-    <updated>2025-05-06T04:53:14.971863+00:00</updated>
-    <summary>Article by Daniela Clauss, Andreas Hirsch-Weber, Kevin Schumacher, Lisa Sielaff, Diana M. Tangen
-DOI: https://doi.org/10.1515/bfp-2024-0093</summary>
-  </entry>
-  <entry>
-    <title>Erstellung eines Moodle-Selbstlernkurses zur Recherche- und Informationskompetenz an der Universitätsbibliothek Wien: ein Werkstattbericht</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0069/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0069</id>
-    <updated>2025-05-06T04:53:14.971869+00:00</updated>
-    <summary>Article by Sonja Fiala
-DOI: https://doi.org/10.1515/bfp-2024-0069</summary>
-  </entry>
-  <entry>
-    <title>Das Bibliothekspraktikum „Studierende beraten Studierende“</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0068/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0068</id>
-    <updated>2025-05-06T04:53:14.971874+00:00</updated>
-    <summary>Article by Ariella Sobel
-DOI: https://doi.org/10.1515/bfp-2024-0068</summary>
-  </entry>
-  <entry>
-    <title>Der neue Zertifikatskurs „Teaching Librarian“ am Postgraduate Center der Universität Wien</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0082/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0082</id>
-    <updated>2025-05-06T04:53:14.971880+00:00</updated>
-    <summary>Article by Ulrike Scholle, Ariella Sobel
-DOI: https://doi.org/10.1515/bfp-2024-0082</summary>
-  </entry>
-  <entry>
-    <title>Multimediale Lernangebote und physischer Lernraum zur Förderung von Informations- und Medienkompetenz in den Geowissenschaften – hybrid, kreativ, nachhaltig</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0097/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0097</id>
-    <updated>2025-05-06T04:53:14.971887+00:00</updated>
-    <summary>Article by Anja Helena Becker-Haumann
-DOI: https://doi.org/10.1515/bfp-2024-0097</summary>
-  </entry>
-  <entry>
-    <title>Weiterbildung in wissenschaftlichen Bibliotheken: Status quo und Perspektiven</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0011/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0011</id>
-    <updated>2025-05-06T04:53:14.971892+00:00</updated>
-    <summary>Article by Mareike Dotzauer, Cornelia Vonhof
-DOI: https://doi.org/10.1515/bfp-2024-0011</summary>
-  </entry>
-  <entry>
-    <title>Stand und Perspektive von ORCID in Deutschland</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0014/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0014</id>
-    <updated>2025-05-06T04:53:14.971898+00:00</updated>
-    <summary>Article by Heinz Pampel, Antonia C. Schrader, Paul Vierkant, Britta Dreyer, Stephanie Glagla-Dietz, Sarah Hartmann, Jochen Schirrwagen, Friedrich Summann
-DOI: https://doi.org/10.1515/bfp-2024-0014</summary>
-  </entry>
-  <entry>
-    <title>Agiles Service Engineering für digitale forschungsunterstützende Dienste in Hochschulbibliotheken</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0028/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0028</id>
-    <updated>2025-05-06T04:53:14.971903+00:00</updated>
-    <summary>Article by Patrick Dinger, Marc Schutzeichel
-DOI: https://doi.org/10.1515/bfp-2024-0028</summary>
-  </entry>
-  <entry>
-    <title>Fachkonferenz der Bibliotheksfachstellen in Deutschland (Hrsg.): Handreichung zu Bau und Ausstattung Öffentlicher Bibliotheken, 2024. 105 S., aktual. und erw. Fassung. Zum Download verfügbar unter https://bibliotheksportal.de/ressourcen/management/strategie-und-planung/planungsgrundlagen/</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0061/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0061</id>
-    <updated>2025-05-06T04:53:14.971910+00:00</updated>
-    <summary>Article by Bettina Scheurer
-DOI: https://doi.org/10.1515/bfp-2024-0061</summary>
-  </entry>
-  <entry>
-    <title>Barbian, Jan-Pieter:Literaturpolitik im NS-Staat. Von der „Gleichschaltung“ bis zum Ruin. Überarbeitete und aktualisierte Neuausgabe. Frankfurt/M.: S. Fischer, 2024. 511 S., ISBN 978-3-10-397583-3. Hardcover € 36,-</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0031/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0031</id>
-    <updated>2025-05-06T04:53:14.971916+00:00</updated>
+    <title>Geschichte des deutschen Buchhandels im 19. und 20. Jahrhundert.Im Auftrag des Börsenvereins des Deutschen Buchhandels, hg. von der Historischen Kommission. Band 5. Im Auftrag der Historischen Kommission, hg. von Thomas Keiderling, Christoph Links und Klaus G. Saur, in Zusammenarbeit mit Carsten Wurm: Deutsche Demokratische Republik. Teil 3: Verlage 3, Verbreitender Buchhandel und Bibliotheken. IX, 624 S. Abb. und Tab. Berlin, Boston: De Gruyter, 2024. ISBN 978-3-11-077950-9. € 189,95</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0101/html"/>
+    <id>https://doi.org/10.1515/bfp-2024-0101</id>
+    <updated>2025-08-07T14:59:26.558990+00:00</updated>
     <summary>Article by Peter Vodosek
-DOI: https://doi.org/10.1515/bfp-2024-0031</summary>
+DOI: https://doi.org/10.1515/bfp-2024-0101</summary>
   </entry>
   <entry>
-    <title>Die Bibliothek für alle. Der Büchereientwicklungsplan des Bundes. Wien: Büchereiverband Österreichs, 2024 (= Büchereiperspektiven Sonderausgabe 2024). 56 S., ISSN 1607-7172</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0065/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0065</id>
-    <updated>2025-05-06T04:53:14.971922+00:00</updated>
-    <summary>Article by Andreas Brandtner
-DOI: https://doi.org/10.1515/bfp-2024-0065</summary>
+    <title>Hans-Christoph Hobohm: Informationsverhalten. (Age of Access? Grundfragen der Informationsgesellschaft, Band 5). Berlin, Boston: De Gruyter Saur, 2024. 444 S., 28 Illustr. Online-Ausgabe: ISBN: 978-3-11-039618-8</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0096/html"/>
+    <id>https://doi.org/10.1515/bfp-2024-0096</id>
+    <updated>2025-08-07T14:59:26.558999+00:00</updated>
+    <summary>Article by Joachim Griesbaum
+DOI: https://doi.org/10.1515/bfp-2024-0096</summary>
   </entry>
   <entry>
-    <title>Am Anfang waren die Bücher. 250 Jahre bibliotheca publica. 25 Jahre Oö. Landesbibliothek. Hrsg. von der Oberösterreichischen Landesbibliothek und dem Oberösterreichischen Landesarchiv. Redaktion: Renate Plöchl, Julian Sagmeister, Martin Vejvar. Linz: Oö.Landesarchiv, 2024. 192 S., 223 Abb. ISBN 978-3-902801-51-7. Hardcover, € 28,60</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0100/html"/>
-    <id>https://doi.org/10.1515/bfp-2024-0100</id>
-    <updated>2025-05-06T04:53:14.971928+00:00</updated>
+    <title>Andreas Degkwitz und Barbara Schleihagen (Hrsg.): Demokratie und Politik in Öffentlichen und Wissenschaftlichen Bibliotheken. Politikfelder deutscher Bibliotheken. Berlin, Boston: De Gruyter, 2024. https://doi.org/10.1515/9783111053240, ISBN: 9783111053080, geb. Ausg., € 74,95</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0013/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0013</id>
+    <updated>2025-08-07T14:59:26.559009+00:00</updated>
+    <summary>Article by Hermann Rösch
+DOI: https://doi.org/10.1515/bfp-2025-0013</summary>
+  </entry>
+  <entry>
+    <title>Ute Engelkenmeier, Kerstin Keller-Loibl, Bernd Schmid-Ruhe, Richard Stang (Hrsg.): Handbuch Bibliothekspädagogik. Berlin, Boston: De Gruyter Saur, 2024. X, 507 S., ISBN 9783111032030, https://doi.org/10.1515/9783111032030, geb. Ausg., ISBN 9783111028057, € 124,95</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0014/html"/>
+    <id>https://doi.org/10.1515/bfp-2025-0014</id>
+    <updated>2025-08-07T14:59:26.559017+00:00</updated>
+    <summary>Article by Andrea Ketterl
+DOI: https://doi.org/10.1515/bfp-2025-0014</summary>
+  </entry>
+  <entry>
+    <title>Helmut Rohlfing (Hrsg.): Inkunabelkatalog der Niedersächsischen Staats- und Universitätsbibliothek Göttingen. Wiesbaden: Harrassowitz, 2024 (Inkunabelkatalog der Niedersächsischen Staats- und Universitätsbibliothek Göttingen, Bd. 4). 382 Seiten; ISBN 978-3-447-12225-2; 98,00 €</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0086/html"/>
+    <id>https://doi.org/10.1515/bfp-2024-0086</id>
+    <updated>2025-08-07T14:59:26.559025+00:00</updated>
+    <summary>Article by Wolfgang Schmitz
+DOI: https://doi.org/10.1515/bfp-2024-0086</summary>
+  </entry>
+  <entry>
+    <title>Ulrich JohannesSchneider: Andrew Carnegies Bibliotheken. Über Moderne und Öffentlichkeit (Themen: 110). München: Carl Friedrich von Siemens Stiftung, 2024. 110 S., ISBN 978-3-938593-39-4. Brosch. € 18,-</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2024-0102/html"/>
+    <id>https://doi.org/10.1515/bfp-2024-0102</id>
+    <updated>2025-08-07T14:59:26.559034+00:00</updated>
     <summary>Article by Peter Vodosek
-DOI: https://doi.org/10.1515/bfp-2024-0100</summary>
-  </entry>
-  <entry>
-    <title>Call for Papers</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bfp-2025-0010/html"/>
-    <id>https://doi.org/10.1515/bfp-2025-0010</id>
-    <updated>2025-05-06T04:53:14.971933+00:00</updated>
-    <summary>Article by Ellen Euler
-DOI: https://doi.org/10.1515/bfp-2025-0010</summary>
+DOI: https://doi.org/10.1515/bfp-2024-0102</summary>
   </entry>
 </feed>

@@ -1,105 +1,57 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Kerntechnik</title>
-  <link href="https://www.degruyterbrill.com/journal/key/kern/90/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/kern/90/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kern.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/kern/html" rel="related"/>
-  <updated>2025-06-04T13:37:12.242956+00:00</updated>
+  <updated>2025-08-07T15:34:16.894223+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/kern.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Kerntechnik</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/kern-2025-frontmatter3</id>
-    <updated>2025-06-04T13:37:12.242984+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/kern-2025-frontmatter3</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/kern-2025-frontmatter4</id>
+    <updated>2025-08-07T15:34:16.894245+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/kern-2025-frontmatter4</summary>
   </entry>
   <entry>
-    <title>Investigations into the development of a new type of internal pipe cutting device for difficult to access pipelines</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0014/html"/>
-    <id>https://doi.org/10.1515/kern-2025-0014</id>
-    <updated>2025-06-04T13:37:12.242993+00:00</updated>
-    <summary>Article by Madeleine Bachmann
-DOI: https://doi.org/10.1515/kern-2025-0014</summary>
+    <title>Study on the diffusion behavior of rhenium in CTAB-modified bentonite</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0006/html"/>
+    <id>https://doi.org/10.1515/kern-2025-0006</id>
+    <updated>2025-08-07T15:34:16.894251+00:00</updated>
+    <summary>Article by Jiacheng Guo, Qiang Zhao, Chenghua Liao, Yuanzhe Jia, Hao Jin, Qifeng Jiang, Rong Hua, Xuebin Su
+DOI: https://doi.org/10.1515/kern-2025-0006</summary>
   </entry>
   <entry>
-    <title>Study on flow field characteristics of regulator in uranium enrichment centrifugal cascade</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0135/html"/>
-    <id>https://doi.org/10.1515/kern-2024-0135</id>
-    <updated>2025-06-04T13:37:12.243005+00:00</updated>
-    <summary>Article by Er-bing Shi, Qing-cheng Zeng, Jun Che, Hang Li, Zheng-guo Cui, Jia-qi Han
-DOI: https://doi.org/10.1515/kern-2024-0135</summary>
+    <title>Optimization and range expansion of IRIS reactor accident diagnosis model based on LSTM neural network</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0026/html"/>
+    <id>https://doi.org/10.1515/kern-2025-0026</id>
+    <updated>2025-08-07T15:34:16.894258+00:00</updated>
+    <summary>Article by Tianze Bai, Changhong Peng
+DOI: https://doi.org/10.1515/kern-2025-0026</summary>
   </entry>
   <entry>
-    <title>Innovative materials for enhancing safety, efficiency, and sustainability in nuclear waste management</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0009/html"/>
-    <id>https://doi.org/10.1515/kern-2025-0009</id>
-    <updated>2025-06-04T13:37:12.243015+00:00</updated>
-    <summary>Article by Yuvarajan Devarajan, Chenniappan Thiagarajan
-DOI: https://doi.org/10.1515/kern-2025-0009</summary>
+    <title>Thermal integrity assessment of the limiter for Pakistan Spherical Tokamak (PST)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0123/html"/>
+    <id>https://doi.org/10.1515/kern-2024-0123</id>
+    <updated>2025-08-07T15:34:16.894265+00:00</updated>
+    <summary>Article by Ali Hussain, Shahab Ud-Din Khan, Waseem Siddique
+DOI: https://doi.org/10.1515/kern-2024-0123</summary>
   </entry>
   <entry>
-    <title>Double solitary waves reactor</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0140/html"/>
-    <id>https://doi.org/10.1515/kern-2024-0140</id>
-    <updated>2025-06-04T13:37:12.243022+00:00</updated>
-    <summary>Article by Jin Feng Huang, Guang Chun Zhang, Yu Jie Zhao
-DOI: https://doi.org/10.1515/kern-2024-0140</summary>
-  </entry>
-  <entry>
-    <title>Advancing the safety design of heat pipe cooled reactors: a case study of lead liquid bath and monolith stainless steel core</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0149/html"/>
-    <id>https://doi.org/10.1515/kern-2024-0149</id>
-    <updated>2025-06-04T13:37:12.243030+00:00</updated>
-    <summary>Article by Taiwo Saheed Yinusa, Huaping Mei, Chao Chen, Isaac Kwasi Baidoo, Size Chen, Shuyong Liu, Taosheng Li
-DOI: https://doi.org/10.1515/kern-2024-0149</summary>
-  </entry>
-  <entry>
-    <title>Evaluation of various calculational models of FA containing burnable absorber rod in the VVER-1000</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0001/html"/>
-    <id>https://doi.org/10.1515/kern-2025-0001</id>
-    <updated>2025-06-04T13:37:12.243045+00:00</updated>
-    <summary>Article by Sahar Ghaseminejad, Mohammadhadi Porhemmat
-DOI: https://doi.org/10.1515/kern-2025-0001</summary>
-  </entry>
-  <entry>
-    <title>Accurate departure from nucleate boiling ratio (DNBR) prediction using SIMCA’s partial least squares regression and clustering</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0015/html"/>
-    <id>https://doi.org/10.1515/kern-2025-0015</id>
-    <updated>2025-06-04T13:37:12.243062+00:00</updated>
-    <summary>Article by Mohamed Y.M. Mohsen, Mohy Sabry, Wassim I. Shalaby, Tarek F. Nagla, A. Abdelghafar Galahom, Mohamed A.E. Abdel-Rahman
-DOI: https://doi.org/10.1515/kern-2025-0015</summary>
-  </entry>
-  <entry>
-    <title>Effect of glass cooling method on thermal shock behavior of nuclear waste container</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0133/html"/>
-    <id>https://doi.org/10.1515/kern-2024-0133</id>
-    <updated>2025-06-04T13:37:12.243072+00:00</updated>
-    <summary>Article by Xinyi Yang, Bensheng Huang, Tianning Li, Yi Gan, Yongyou Zhu, Jianneng Zheng
-DOI: https://doi.org/10.1515/kern-2024-0133</summary>
-  </entry>
-  <entry>
-    <title>Study on the impact of containment mesh refinement and PAR installation on hydrogen distribution during severe accidents</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0129/html"/>
-    <id>https://doi.org/10.1515/kern-2024-0129</id>
-    <updated>2025-06-04T13:37:12.243079+00:00</updated>
-    <summary>Article by Tzu-En Huang, Chia-Yi Liu, Sheng-Yuan Fan, Yu-Huai Shih
-DOI: https://doi.org/10.1515/kern-2024-0129</summary>
-  </entry>
-  <entry>
-    <title>Preliminary analysis of typical accidents of CFETR helium-cooled solid breeder blanket system based on COSINE</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2024-0148/html"/>
-    <id>https://doi.org/10.1515/kern-2024-0148</id>
-    <updated>2025-06-04T13:37:12.243085+00:00</updated>
-    <summary>Article by Zhenze Zhang, Tianze Bai, Changhong Peng, Yifei Wang, Bin Luo
-DOI: https://doi.org/10.1515/kern-2024-0148</summary>
+    <title>The effect of ambient temperature variation on the spectrometric performance of NaI (Tl) scintillation detector; an experimental study</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0016/html"/>
+    <id>https://doi.org/10.1515/kern-2025-0016</id>
+    <updated>2025-08-07T15:34:16.894270+00:00</updated>
+    <summary>Article by Meysam Mohammadnia, Seyed Mohsen Hoseyni
+DOI: https://doi.org/10.1515/kern-2025-0016</summary>
   </entry>
   <entry>
     <title>Calendar of events</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0039/html"/>
-    <id>https://doi.org/10.1515/kern-2025-0039</id>
-    <updated>2025-06-04T13:37:12.243097+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/kern-2025-0039</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/kern-2025-0057/html"/>
+    <id>https://doi.org/10.1515/kern-2025-0057</id>
+    <updated>2025-08-07T15:34:16.894276+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/kern-2025-0057</summary>
   </entry>
 </feed>

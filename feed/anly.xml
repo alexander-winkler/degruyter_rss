@@ -1,58 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Analysis</title>
-  <link href="https://www.degruyterbrill.com/journal/key/anly/45/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/anly/45/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anly.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/anly/html" rel="related"/>
-  <updated>2025-05-06T04:52:23.290413+00:00</updated>
+  <updated>2025-08-07T14:55:33.156917+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/anly.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Analysis</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/anly-2025-frontmatter2</id>
-    <updated>2025-05-06T04:52:23.290431+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/anly-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/anly-2025-frontmatter3</id>
+    <updated>2025-08-07T14:55:33.156947+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/anly-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Colombeau algebras of asymptotically almost automorphic generalized functions: Properties and applications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2023-0030/html"/>
-    <id>https://doi.org/10.1515/anly-2023-0030</id>
-    <updated>2025-05-06T04:52:23.290436+00:00</updated>
-    <summary>Article by Mohamed Chaib, Abdellah Taqbibt, Said Melliani, M’hamed El Omari
-DOI: https://doi.org/10.1515/anly-2023-0030</summary>
+    <title>Unified finite integrals involving multivariable 𝐴-functions and hypergeometric functions</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0123/html"/>
+    <id>https://doi.org/10.1515/anly-2024-0123</id>
+    <updated>2025-08-07T14:55:33.156957+00:00</updated>
+    <summary>Article by Dinesh Kumar, Frédéric Ayant
+DOI: https://doi.org/10.1515/anly-2024-0123</summary>
   </entry>
   <entry>
-    <title>Lie symmetries, exact solution and conservation laws of (2 + 1)-dimensional time fractional Kadomtsev–Petviashvili system</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0048/html"/>
-    <id>https://doi.org/10.1515/anly-2024-0048</id>
-    <updated>2025-05-06T04:52:23.290442+00:00</updated>
-    <summary>Article by Jicheng Yu, Yuqiang Feng
-DOI: https://doi.org/10.1515/anly-2024-0048</summary>
+    <title>On Baernstein’s theorem for minimal surfaces</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2025-0012/html"/>
+    <id>https://doi.org/10.1515/anly-2025-0012</id>
+    <updated>2025-08-07T14:55:33.156969+00:00</updated>
+    <summary>Article by Arnold Kowalski, Ivan I. Marchenko
+DOI: https://doi.org/10.1515/anly-2025-0012</summary>
   </entry>
   <entry>
-    <title>Complex analytic solutions for the TQG model</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0062/html"/>
-    <id>https://doi.org/10.1515/anly-2024-0062</id>
-    <updated>2025-05-06T04:52:23.290447+00:00</updated>
-    <summary>Article by Prince Romeo Mensah
-DOI: https://doi.org/10.1515/anly-2024-0062</summary>
+    <title>Behaviour of solutions of a class of 2nd order 2D neutral delay difference systems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2025-0016/html"/>
+    <id>https://doi.org/10.1515/anly-2025-0016</id>
+    <updated>2025-08-07T14:55:33.156977+00:00</updated>
+    <summary>Article by Sunita Das, Arun K. Tripathy
+DOI: https://doi.org/10.1515/anly-2025-0016</summary>
   </entry>
   <entry>
-    <title>On spherical shells containing all the zeros of a quaternionic polynomial</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0069/html"/>
-    <id>https://doi.org/10.1515/anly-2024-0069</id>
-    <updated>2025-05-06T04:52:23.290451+00:00</updated>
-    <summary>Article by Gradimir V. Milovanović, Abdullah Mir, Wasim Ahmad Thoker, Ashiq Hussain Bhat
-DOI: https://doi.org/10.1515/anly-2024-0069</summary>
-  </entry>
-  <entry>
-    <title>The fourth term of the asymptotic behavior near the boundary of a large solution to semilinear Poisson equation with double-power nonlinearity</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2024-0095/html"/>
-    <id>https://doi.org/10.1515/anly-2024-0095</id>
-    <updated>2025-05-06T04:52:23.290456+00:00</updated>
-    <summary>Article by Kazuhiro Takimoto, Yuxiao Zhang
-DOI: https://doi.org/10.1515/anly-2024-0095</summary>
+    <title>Classes of maps with upper semicontinuous KKM-type selections: Coincidence theory and minimax inequalities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/anly-2025-0018/html"/>
+    <id>https://doi.org/10.1515/anly-2025-0018</id>
+    <updated>2025-08-07T14:55:33.156986+00:00</updated>
+    <summary>Article by Donal O’Regan
+DOI: https://doi.org/10.1515/anly-2025-0018</summary>
   </entry>
 </feed>
