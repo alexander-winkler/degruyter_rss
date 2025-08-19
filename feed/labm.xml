@@ -1,74 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Laboratory Medicine</title>
-  <link href="https://www.degruyterbrill.com/journal/key/labm/49/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/labm/49/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/labm.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/labm/html" rel="related"/>
-  <updated>2025-06-04T13:37:25.577983+00:00</updated>
+  <updated>2025-08-19T11:31:03.321800+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/labm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Laboratory Medicine</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2025-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/labmed-2025-frontmatter3</id>
-    <updated>2025-06-04T13:37:25.578037+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/labmed-2025-frontmatter3</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/labmed-2025-frontmatter4</id>
+    <updated>2025-08-19T11:31:03.321816+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/labmed-2025-frontmatter4</summary>
   </entry>
   <entry>
-    <title>Contact phase inhibitors: the future of anticoagulation?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0167/html"/>
-    <id>https://doi.org/10.1515/labmed-2024-0167</id>
-    <updated>2025-06-04T13:37:25.578051+00:00</updated>
-    <summary>Article by Angèle Veyrat, François Depasse, Joffrey Feriel
-DOI: https://doi.org/10.1515/labmed-2024-0167</summary>
+    <title>A comparative study between the Chrono-log 700 and the Sysmex CS-2100i analyzers for assessing ristocetin cofactor activity in patients with von Willebrand disease</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0160/html"/>
+    <id>https://doi.org/10.1515/labmed-2024-0160</id>
+    <updated>2025-08-19T11:31:03.321822+00:00</updated>
+    <summary>Article by Mohamed-Rachid Boulassel, Hussein Abdellatif, Karima Al-Falahi, Fatma Al-Hashmi, Yassine Bouchareb, Buthaina Al-Abri, Habib Al-Jahdhami
+DOI: https://doi.org/10.1515/labmed-2024-0160</summary>
   </entry>
   <entry>
-    <title>Validation and implementation of an intraoperative parathyroid hormone assay and workflow: practical advice for endocrine surgery centres</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0181/html"/>
-    <id>https://doi.org/10.1515/labmed-2024-0181</id>
-    <updated>2025-06-04T13:37:25.578062+00:00</updated>
-    <summary>Article by Phillip Staibano, Basma Ahmed, Josko Ivica, Joseph Macri, Michael Au, Han Zhang, Jesse D. Pasternak, Mohit Bhandari, Peter Kavsak
-DOI: https://doi.org/10.1515/labmed-2024-0181</summary>
+    <title>Evaluation of hemolysis index thresholds for 18 biochemistry assays: implications for laboratory-developed tests in the era of the IVDR</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0206/html"/>
+    <id>https://doi.org/10.1515/labmed-2024-0206</id>
+    <updated>2025-08-19T11:31:03.321827+00:00</updated>
+    <summary>Article by Martin Muehlbauer, Gunnar Brandhorst, Daniel Rosenkranz, Karen Friederike Gauß, Astrid Petersmann
+DOI: https://doi.org/10.1515/labmed-2024-0206</summary>
   </entry>
   <entry>
-    <title>Serum soluble endorphin combined with BISAP score predicts severe acute pancreatitis combined with septic shock</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0127/html"/>
-    <id>https://doi.org/10.1515/labmed-2024-0127</id>
-    <updated>2025-06-04T13:37:25.578085+00:00</updated>
-    <summary>Article by JinBei Yuan, QiuBao Yang, Chao Chen
-DOI: https://doi.org/10.1515/labmed-2024-0127</summary>
+    <title>Elevation of plasma podoplanin in Kawasaki disease</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0214/html"/>
+    <id>https://doi.org/10.1515/labmed-2024-0214</id>
+    <updated>2025-08-19T11:31:03.321833+00:00</updated>
+    <summary>Article by Ling Xu, Wei Li, Zhimin Geng, Zhaoyang Peng, Anna Sun, Wenjun Qin, Chunhong Xie, Fangqi Gong, Hongqiang Shen
+DOI: https://doi.org/10.1515/labmed-2024-0214</summary>
   </entry>
   <entry>
-    <title>Serum LDH and its isoenzymes (LDH2 and LDH5) associated with predictive value for refractory mycoplasma pneumoniae pneumonia in children</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0067/html"/>
-    <id>https://doi.org/10.1515/labmed-2024-0067</id>
-    <updated>2025-06-04T13:37:25.578094+00:00</updated>
-    <summary>Article by Jun Lv, Yu Wan, Fei Jiang, Fei Fan
-DOI: https://doi.org/10.1515/labmed-2024-0067</summary>
+    <title>Epidemiology characteristics of Epstein-Barr virus among children in Hangzhou from 2019 to 2023</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0220/html"/>
+    <id>https://doi.org/10.1515/labmed-2024-0220</id>
+    <updated>2025-08-19T11:31:03.321837+00:00</updated>
+    <summary>Article by Lin Chen, Shuangshuang Huang, Hao Wang, Fengqing Cai, Zhijian Song, Xiaoshuai Bao, Wei Li, Hongqiang Shen
+DOI: https://doi.org/10.1515/labmed-2024-0220</summary>
   </entry>
   <entry>
-    <title>Upregulation of hsa_circ_0000745/hsa_circRNA_101996 in peripheral blood monocytes is associated with coronary heart disease</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2024-0088/html"/>
-    <id>https://doi.org/10.1515/labmed-2024-0088</id>
-    <updated>2025-06-04T13:37:25.578101+00:00</updated>
-    <summary>Article by Shanshan Li, Miaomiao Shi, Teri Gele, Aimin Zhang, Wenyi Li, Yi Sun, Chunyan Wang, Jie Zhao, Lin Pei, Jian Liu, Mei Jia
-DOI: https://doi.org/10.1515/labmed-2024-0088</summary>
-  </entry>
-  <entry>
-    <title>Congress report: 6th German POCT symposium, September 25–26, 2024, Bremen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2025-0019/html"/>
-    <id>https://doi.org/10.1515/labmed-2025-0019</id>
-    <updated>2025-06-04T13:37:25.578112+00:00</updated>
-    <summary>Article by Peter B. Luppa, Astrid Petersmann
-DOI: https://doi.org/10.1515/labmed-2025-0019</summary>
-  </entry>
-  <entry>
-    <title>Gelatinous urine</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2025-0034/html"/>
-    <id>https://doi.org/10.1515/labmed-2025-0034</id>
-    <updated>2025-06-04T13:37:25.578119+00:00</updated>
-    <summary>Article by Yonggang Hu, Tianji Li, Jie Lü
-DOI: https://doi.org/10.1515/labmed-2025-0034</summary>
+    <title>Mean platelet volume vs. optical platelet volume measurement: which is a better indicator for neonatal sepsis?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/labmed-2025-0032/html"/>
+    <id>https://doi.org/10.1515/labmed-2025-0032</id>
+    <updated>2025-08-19T11:31:03.321841+00:00</updated>
+    <summary>Article by Hao Yang, Jiqian Bao, Siqi Guo, Jiajing He, Lei Ye, Yingjun Zhang, Qingkai Dai, Ge Zhang
+DOI: https://doi.org/10.1515/labmed-2025-0032</summary>
   </entry>
 </feed>

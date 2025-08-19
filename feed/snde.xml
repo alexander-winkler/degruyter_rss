@@ -1,66 +1,74 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Studies in Nonlinear Dynamics &amp; Econometrics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/snde/29/3/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/snde/29/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/snde/html" rel="related"/>
-  <updated>2025-07-04T16:38:31.553433+00:00</updated>
+  <updated>2025-08-19T11:34:36.902424+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/snde.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Studies in Nonlinear Dynamics &amp; Econometrics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter3/html"/>
-    <id>https://doi.org/10.1515/snde-2025-frontmatter3</id>
-    <updated>2025-07-04T16:38:31.553449+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter3</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-frontmatter4/html"/>
+    <id>https://doi.org/10.1515/snde-2025-frontmatter4</id>
+    <updated>2025-08-19T11:34:36.902452+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/snde-2025-frontmatter4</summary>
   </entry>
   <entry>
-    <title>Multivariate Stochastic Volatility with Co-Heteroscedasticity</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0056/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0056</id>
-    <updated>2025-07-04T16:38:31.553454+00:00</updated>
-    <summary>Article by Joshua Chan, Arnaud Doucet, Roberto León-González, Rodney W. Strachan
-DOI: https://doi.org/10.1515/snde-2023-0056</summary>
+    <title>From Model Misspecification to Multidimensional Welfare: A Conversation with Professor Esfandiar Maasoumi</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2025-0089/html"/>
+    <id>https://doi.org/10.1515/snde-2025-0089</id>
+    <updated>2025-08-19T11:34:36.902462+00:00</updated>
+    <summary>Article by Fredj Jawadi
+DOI: https://doi.org/10.1515/snde-2025-0089</summary>
   </entry>
   <entry>
-    <title>Extreme Return Spillover Between the WTI, the VIX, and Six Latin American Stock Markets: A Quantile Connectedness Approach</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0076/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0076</id>
-    <updated>2025-07-04T16:38:31.553459+00:00</updated>
-    <summary>Article by Maximiliano Kruel, Paulo Sergio Ceretta
-DOI: https://doi.org/10.1515/snde-2023-0076</summary>
+    <title>A Test for Time-Varying Smooth Transition Conditional Covariance Models in Multivariate Time Series</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0109/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0109</id>
+    <updated>2025-08-19T11:34:36.902473+00:00</updated>
+    <summary>Article by Bilel Sanhaji
+DOI: https://doi.org/10.1515/snde-2023-0109</summary>
   </entry>
   <entry>
-    <title>A Regression-based Method for Estimating Generalised Entropy and Atkinson Inequality Indices and their Standard Errors</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2024-0021/html"/>
-    <id>https://doi.org/10.1515/snde-2024-0021</id>
-    <updated>2025-07-04T16:38:31.553464+00:00</updated>
-    <summary>Article by Sriram Shankar
-DOI: https://doi.org/10.1515/snde-2024-0021</summary>
+    <title>Quasi-Maximum Likelihood for Estimating Structural Models</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0052/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0052</id>
+    <updated>2025-08-19T11:34:36.902481+00:00</updated>
+    <summary>Article by Malek Ben-Abdellatif, Hatem Ben-Ameur, Rim Chérif, Tarek Fakhfakh
+DOI: https://doi.org/10.1515/snde-2023-0052</summary>
   </entry>
   <entry>
-    <title>Homogeneity Pursuit in the Functional-Coefficient Quantile Regression Model for Panel Data with Censored Data</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0024/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0024</id>
-    <updated>2025-07-04T16:38:31.553468+00:00</updated>
-    <summary>Article by Lu Li, Yue Xia, Shuyi Ren, Xiaorong Yang
-DOI: https://doi.org/10.1515/snde-2023-0024</summary>
+    <title>Monetary Policy Uncertainty in the United States and Investment Sentiment in Advanced Economies</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0108/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0108</id>
+    <updated>2025-08-19T11:34:36.902490+00:00</updated>
+    <summary>Article by Nahiyan Faisal Azad, Apostolos Serletis
+DOI: https://doi.org/10.1515/snde-2023-0108</summary>
   </entry>
   <entry>
-    <title>Asymptotic Efficiency of Joint Estimator Relative to Two-Stage Estimator Under Misspecified Likelihoods</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0009/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0009</id>
-    <updated>2025-07-04T16:38:31.553472+00:00</updated>
-    <summary>Article by Doosoo Kim
-DOI: https://doi.org/10.1515/snde-2023-0009</summary>
+    <title>Inflation: Demand Pull or Cost Push? A Markov Switching Approach</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0119/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0119</id>
+    <updated>2025-08-19T11:34:36.902498+00:00</updated>
+    <summary>Article by Pu Chen, Willi Semmler
+DOI: https://doi.org/10.1515/snde-2023-0119</summary>
   </entry>
   <entry>
-    <title>Chinese Crude Oil Futures and Sectoral Stocks: Copula-Based Dependence Structure and Connectedness</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0083/html"/>
-    <id>https://doi.org/10.1515/snde-2023-0083</id>
-    <updated>2025-07-04T16:38:31.553476+00:00</updated>
-    <summary>Article by Zulfiqar A. Imran, Muhammad Ahad, Mobeen Ahmad, Imran Hameed
-DOI: https://doi.org/10.1515/snde-2023-0083</summary>
+    <title>Divisia Monetary Aggregates for India</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0106/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0106</id>
+    <updated>2025-08-19T11:34:36.902505+00:00</updated>
+    <summary>Article by Anirban Sengupta, Apostolos Serletis, Libo Xu
+DOI: https://doi.org/10.1515/snde-2023-0106</summary>
+  </entry>
+  <entry>
+    <title>Introducingsspaneltvp: A Code to Estimating State-Space Time-Varying Parameter Models in Panels. An Application to Okun’s Law</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/snde-2023-0054/html"/>
+    <id>https://doi.org/10.1515/snde-2023-0054</id>
+    <updated>2025-08-19T11:34:36.902514+00:00</updated>
+    <summary>Article by Mariam Camarero, Juan Sapena, Cecilio Tamarit
+DOI: https://doi.org/10.1515/snde-2023-0054</summary>
   </entry>
 </feed>

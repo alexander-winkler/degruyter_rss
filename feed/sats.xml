@@ -1,74 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SATS</title>
-  <link href="https://www.degruyterbrill.com/journal/key/sats/25/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/sats/26/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/sats/html" rel="related"/>
-  <updated>2025-05-06T05:05:27.659713+00:00</updated>
+  <updated>2025-08-19T11:34:21.454355+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/sats.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in SATS</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/sats-2024-frontmatter2</id>
-    <updated>2025-05-06T05:05:27.659749+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/sats-2024-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/sats-2025-frontmatter1</id>
+    <updated>2025-08-19T11:34:21.454377+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/sats-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>A Brief Note from the Editors</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0017/html"/>
-    <id>https://doi.org/10.1515/sats-2024-0017</id>
-    <updated>2025-05-06T05:05:27.659758+00:00</updated>
-    <summary>Article by Hans Marius Hansteen
-DOI: https://doi.org/10.1515/sats-2024-0017</summary>
+    <title>Why Does Sovereignty Matter, Professor Kant?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2025-0007/html"/>
+    <id>https://doi.org/10.1515/sats-2025-0007</id>
+    <updated>2025-08-19T11:34:21.454383+00:00</updated>
+    <summary>Article by Carola Freiin von Villiez
+DOI: https://doi.org/10.1515/sats-2025-0007</summary>
   </entry>
   <entry>
-    <title>Philosophy as Passion for Knowledge: What Kind of History of Philosophy for the 21st Century?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0016/html"/>
-    <id>https://doi.org/10.1515/sats-2024-0016</id>
-    <updated>2025-05-06T05:05:27.659769+00:00</updated>
-    <summary>Article by Sabrina Ebbersmeyer
-DOI: https://doi.org/10.1515/sats-2024-0016</summary>
+    <title>Communication of Uncertainty: The Concept of Probability in Government Press-Conferences during the Early Covid-19 Crisis in Denmark</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0021/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0021</id>
+    <updated>2025-08-19T11:34:21.454389+00:00</updated>
+    <summary>Article by Anders Kruse Ljungdalh
+DOI: https://doi.org/10.1515/sats-2024-0021</summary>
   </entry>
   <entry>
-    <title>Scientific Testability Following the Assumption of Insufficient Knowledge and Resources</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2023-0020/html"/>
-    <id>https://doi.org/10.1515/sats-2023-0020</id>
-    <updated>2025-05-06T05:05:27.659776+00:00</updated>
-    <summary>Article by Miguel López-Astorga
-DOI: https://doi.org/10.1515/sats-2023-0020</summary>
+    <title>How Movies About the Climate Crisis Work to Make Us Forget About the Climate Crises</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0014/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0014</id>
+    <updated>2025-08-19T11:34:21.454394+00:00</updated>
+    <summary>Article by Niklas Forsberg
+DOI: https://doi.org/10.1515/sats-2024-0014</summary>
   </entry>
   <entry>
-    <title>Do Logical Aliens Think? Frege’s Agent-Relative View of Logic’s Constitutive Role for Thinking</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0002/html"/>
-    <id>https://doi.org/10.1515/sats-2024-0002</id>
-    <updated>2025-05-06T05:05:27.659786+00:00</updated>
-    <summary>Article by Kristoffer Balslev Willert
-DOI: https://doi.org/10.1515/sats-2024-0002</summary>
+    <title>From the Notebooks to the Investigations and Beyond</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0015/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0015</id>
+    <updated>2025-08-19T11:34:21.454398+00:00</updated>
+    <summary>Article by Ruy J.G.B. de Queiroz
+DOI: https://doi.org/10.1515/sats-2024-0015</summary>
   </entry>
   <entry>
-    <title>Niklas Forsberg:Lectures on a Philosophy Less Ordinary: Language and Morality in J. L. Austin’s Philosophy</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2003/html"/>
-    <id>https://doi.org/10.1515/sats-2024-2003</id>
-    <updated>2025-05-06T05:05:27.659794+00:00</updated>
-    <summary>Article by Rachael Wiseman
-DOI: https://doi.org/10.1515/sats-2024-2003</summary>
+    <title>Linguistic Mistakes and Semantic Rules</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0018/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0018</id>
+    <updated>2025-08-19T11:34:21.454402+00:00</updated>
+    <summary>Article by Aleksi Honkasalo
+DOI: https://doi.org/10.1515/sats-2024-0018</summary>
   </entry>
   <entry>
-    <title>Ditte Marie Munch-Jurisic:Perpetrator Disgust. The Moral Limits of Gut Feelings</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2002/html"/>
-    <id>https://doi.org/10.1515/sats-2024-2002</id>
-    <updated>2025-05-06T05:05:27.659802+00:00</updated>
-    <summary>Article by Anne-Marie Søndergaard Christensen
-DOI: https://doi.org/10.1515/sats-2024-2002</summary>
-  </entry>
-  <entry>
-    <title>Axel Hutter:Narrative Ontology</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-2001/html"/>
-    <id>https://doi.org/10.1515/sats-2024-2001</id>
-    <updated>2025-05-06T05:05:27.659810+00:00</updated>
-    <summary>Article by Alexander Knopf
-DOI: https://doi.org/10.1515/sats-2024-2001</summary>
+    <title>What Logicians Do (and What They Ought to do)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/sats-2024-0010/html"/>
+    <id>https://doi.org/10.1515/sats-2024-0010</id>
+    <updated>2025-08-19T11:34:21.454407+00:00</updated>
+    <summary>Article by Bruce E. R. Thompson
+DOI: https://doi.org/10.1515/sats-2024-0010</summary>
   </entry>
 </feed>

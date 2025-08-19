@@ -1,82 +1,170 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>tm - Technisches Messen</title>
-  <link href="https://www.degruyterbrill.com/journal/key/teme/92/7-8/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/teme/92/s1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/teme/html" rel="related"/>
-  <updated>2025-08-07T15:55:27.221813+00:00</updated>
+  <updated>2025-08-19T11:35:04.248622+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/teme.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in tm - Technisches Messen</subtitle>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter7-8/html"/>
-    <id>https://doi.org/10.1515/teme-2025-frontmatter7-8</id>
-    <updated>2025-08-07T15:55:27.221842+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter7-8</summary>
+    <title>Table of Content/ Inhaltsverzeichnis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-frontmatter92s1/html"/>
+    <id>https://doi.org/10.1515/teme-2025-frontmatter92s1</id>
+    <updated>2025-08-19T11:35:04.248638+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/teme-2025-frontmatter92s1</summary>
   </entry>
   <entry>
-    <title>Image Processing Forum – Forum Bildverarbeitung 2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0076/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0076</id>
-    <updated>2025-08-07T15:55:27.221848+00:00</updated>
-    <summary>Article by Michael Heizmann, Thomas Längle
-DOI: https://doi.org/10.1515/teme-2025-0076</summary>
+    <title>XXXIX. Messtechnisches Symposium</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0098/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0098</id>
+    <updated>2025-08-19T11:35:04.248648+00:00</updated>
+    <summary>Article by Olfa Kanoun
+DOI: https://doi.org/10.1515/teme-2025-0098</summary>
   </entry>
   <entry>
-    <title>Optimizing speed and quality in rendering of sensor-realistic images</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0016/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0016</id>
-    <updated>2025-08-07T15:55:27.221858+00:00</updated>
-    <summary>Article by Christian Kludt, Frederik Seiler, Verena Eichinger, Johannes Meyer, Ira Effenberger, Thomas Längle, Jürgen Beyerer
-DOI: https://doi.org/10.1515/teme-2025-0016</summary>
+    <title>Testing aspherical lenses by compensated wavefront measurement using a polarization-based two-phase-shift interferometer</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0064/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0064</id>
+    <updated>2025-08-19T11:35:04.248654+00:00</updated>
+    <summary>Article by Oday Alrifaei, Christian Rembe
+DOI: https://doi.org/10.1515/teme-2025-0064</summary>
   </entry>
   <entry>
-    <title>Characterisation metrics for performance comparison of area scan and event-based sensors</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0018/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0018</id>
-    <updated>2025-08-07T15:55:27.221863+00:00</updated>
-    <summary>Article by Alkhazur Manakov, Helmut Herrmann, Bernd Jähne
-DOI: https://doi.org/10.1515/teme-2025-0018</summary>
+    <title>Kompakter interferometrischer Freistrahlsensor auf Basis der Range-Resolved Interferometry für rückführbare Längen- und Geschwindigkeitsmessungen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0059/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0059</id>
+    <updated>2025-08-19T11:35:04.248659+00:00</updated>
+    <summary>Article by Vitalii Shmagun, Thomas Fröhlich, Thomas Kissinger
+DOI: https://doi.org/10.1515/teme-2025-0059</summary>
   </entry>
   <entry>
-    <title>A comparative study on multi-task uncertainty quantification in semantic segmentation and monocular depth estimation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0004/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0004</id>
-    <updated>2025-08-07T15:55:27.221869+00:00</updated>
-    <summary>Article by Steven Landgraf, Markus Hillemann, Theodor Kapler, Markus Ulrich
-DOI: https://doi.org/10.1515/teme-2025-0004</summary>
+    <title>Modern differential confocal microscopy for closed-loop measurement of technical surfaces</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0055/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0055</id>
+    <updated>2025-08-19T11:35:04.248663+00:00</updated>
+    <summary>Article by Johannes Belkner, Thomas Fröhlich
+DOI: https://doi.org/10.1515/teme-2025-0055</summary>
   </entry>
   <entry>
-    <title>Comparing fast semantic segmentation CNNs for FPGAs with standard methods</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0015/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0015</id>
-    <updated>2025-08-07T15:55:27.221874+00:00</updated>
-    <summary>Article by Simon Wezstein, Muen Jin, Michael Stelzl, Michael Heizmann
-DOI: https://doi.org/10.1515/teme-2025-0015</summary>
+    <title>Concept and application of the three-dimensional transfer function in optical surface topography measurement</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0057/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0057</id>
+    <updated>2025-08-19T11:35:04.248668+00:00</updated>
+    <summary>Article by Felix Rosenthal, Tobias Pahl, Tim Eckhardt, Marco Künne, Peter Lehmann
+DOI: https://doi.org/10.1515/teme-2025-0057</summary>
   </entry>
   <entry>
-    <title>A comparative study of Q-Seg, quantum-inspired techniques, and U-Net for crack image segmentation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0017/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0017</id>
-    <updated>2025-08-07T15:55:27.221878+00:00</updated>
-    <summary>Article by Akshaya Srinivasan, Alexander Geng, Antonio Macaluso, Maximilian Kiefer-Emmanouilidis, Ali Moghiseh
-DOI: https://doi.org/10.1515/teme-2025-0017</summary>
+    <title>Enhancing 3D point accuracy of laser scanner through multi-stage convolutional neural network for applications in construction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0045/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0045</id>
+    <updated>2025-08-19T11:35:04.248672+00:00</updated>
+    <summary>Article by Qinyuan Fan, Clemens Gühmann
+DOI: https://doi.org/10.1515/teme-2025-0045</summary>
   </entry>
   <entry>
-    <title>Bayesian optimization of single-pulse laser drilling using advanced image processing</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0012/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0012</id>
-    <updated>2025-08-07T15:55:27.221886+00:00</updated>
-    <summary>Article by Manuel Klaiber, Mathias Hug, Lukas Schneller, Ömer Can, Andreas Jahn, Axel Fehrenbacher, Michael Haas, Peter Reimann, Andreas Michalowski
-DOI: https://doi.org/10.1515/teme-2025-0012</summary>
+    <title>Demonstrator für zyklische Probennahme und schnelle Gaschromatografie in der Kunststoffaufbereitung</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0058/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0058</id>
+    <updated>2025-08-19T11:35:04.248676+00:00</updated>
+    <summary>Article by Wolfhard Reimringer, Andreas Schütze, Tilman Sauerwald
+DOI: https://doi.org/10.1515/teme-2025-0058</summary>
   </entry>
   <entry>
-    <title>Robuste Ampeldetektion und Haltelinienfreigabe durch HD-Karten Assoziation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0013/html"/>
-    <id>https://doi.org/10.1515/teme-2025-0013</id>
-    <updated>2025-08-07T15:55:27.221894+00:00</updated>
-    <summary>Article by Richard Fehler, Kevin Rösch, Fabian Immel, Christoph Stiller
-DOI: https://doi.org/10.1515/teme-2025-0013</summary>
+    <title>In-situ laser reduced LrGO-SnO2 chemoresistive sensor for highly selective and room-temperature isoprene detection</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0053/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0053</id>
+    <updated>2025-08-19T11:35:04.248680+00:00</updated>
+    <summary>Article by Tianqi Lu, Shiqi You, Ge Shi, Ankang Lyu, Ines Chihi, Olfa Kanoun
+DOI: https://doi.org/10.1515/teme-2025-0053</summary>
+  </entry>
+  <entry>
+    <title>Electrochemical in vivo oxygen sensing on cochlear implants</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0054/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0054</id>
+    <updated>2025-08-19T11:35:04.248685+00:00</updated>
+    <summary>Article by Stefan Reinelt, Aline R. Xavier, Susan Arndt, Nicole Rosskothen-Kuhl, Andreas Weltin, Jochen Kieninger, Stefan J. Rupitsch
+DOI: https://doi.org/10.1515/teme-2025-0054</summary>
+  </entry>
+  <entry>
+    <title>Machine learning-based prediction of remaining useful lifetime for solder joints based on real mission profile data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0056/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0056</id>
+    <updated>2025-08-19T11:35:04.248693+00:00</updated>
+    <summary>Article by Darshankumar Bhat, Stefan Münch, Mike Röllig, Thomas Härtling
+DOI: https://doi.org/10.1515/teme-2025-0056</summary>
+  </entry>
+  <entry>
+    <title>Roboterunterstützte in situ optische Messmethode zur Verschleißmessung an Wendeschneidplatten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0049/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0049</id>
+    <updated>2025-08-19T11:35:04.248697+00:00</updated>
+    <summary>Article by Jiuzhou Xiang, Dirk Stöbener, Sabrina Stemmer, Jens Sölter, Bernhard Karpuschewski, Andreas Fischer
+DOI: https://doi.org/10.1515/teme-2025-0049</summary>
+  </entry>
+  <entry>
+    <title>Developing a measurement setup and investigating impact-induced wave propagation in glassfiber-reinforced plastic using acceleration sensors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0062/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0062</id>
+    <updated>2025-08-19T11:35:04.248701+00:00</updated>
+    <summary>Article by Johanna Hetterscheidt, Lukas Tristl, Alexander Sutor
+DOI: https://doi.org/10.1515/teme-2025-0062</summary>
+  </entry>
+  <entry>
+    <title>Acoustic condition monitoring of milling tools using the Rayleigh-Ritz autoencoder</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0070/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0070</id>
+    <updated>2025-08-19T11:35:04.248709+00:00</updated>
+    <summary>Article by David Neussl, Dimitar Ninevski, Thomas Thurner
+DOI: https://doi.org/10.1515/teme-2025-0070</summary>
+  </entry>
+  <entry>
+    <title>Nanometrologie und Nanofabrikation auf Basis spitzenbasierter Technologien in erweiterbaren makroskopischen Arbeitsbereichen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0061/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0061</id>
+    <updated>2025-08-19T11:35:04.248714+00:00</updated>
+    <summary>Article by Jaqueline Stauffenberg, Eberhard Manske
+DOI: https://doi.org/10.1515/teme-2025-0061</summary>
+  </entry>
+  <entry>
+    <title>Kalibriereinrichtung für dünne Platten-Wärmestromsensoren</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0060/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0060</id>
+    <updated>2025-08-19T11:35:04.248719+00:00</updated>
+    <summary>Article by Joseph Beerel, Thomas Fröhlich
+DOI: https://doi.org/10.1515/teme-2025-0060</summary>
+  </entry>
+  <entry>
+    <title>Optimal aperture settings for generic camera calibration</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0037/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0037</id>
+    <updated>2025-08-19T11:35:04.248723+00:00</updated>
+    <summary>Article by Carsten Schmerbeck, Hesheng Wang, Michael Heizmann
+DOI: https://doi.org/10.1515/teme-2025-0037</summary>
+  </entry>
+  <entry>
+    <title>Verbesserung des Kontrast-Rausch-Verhältnisses bei Optical Gas Imaging mit Differenzbild-Methoden</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0052/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0052</id>
+    <updated>2025-08-19T11:35:04.248727+00:00</updated>
+    <summary>Article by Lars Kistner, Robert Schmoll, Andreas Kroll
+DOI: https://doi.org/10.1515/teme-2025-0052</summary>
+  </entry>
+  <entry>
+    <title>Fully automated calibration of an eddy current sensor for high-precision feedback in pick-and-place applications using bioinspired dry adhesives</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0067/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0067</id>
+    <updated>2025-08-19T11:35:04.248731+00:00</updated>
+    <summary>Article by Simon Herter, Sarah C. L. Fischer
+DOI: https://doi.org/10.1515/teme-2025-0067</summary>
+  </entry>
+  <entry>
+    <title>Measurement setup for characterization of inductive rotary position sensors</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/teme-2025-0080/html"/>
+    <id>https://doi.org/10.1515/teme-2025-0080</id>
+    <updated>2025-08-19T11:35:04.248735+00:00</updated>
+    <summary>Article by Stefan Kuntz, Arne Fränznick, Nils Oppel, Gerald Gerlach, Sina Fella
+DOI: https://doi.org/10.1515/teme-2025-0080</summary>
   </entry>
 </feed>
