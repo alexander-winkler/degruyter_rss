@@ -1,66 +1,66 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Monte Carlo Methods and Applications</title>
-  <link href="https://www.degruyterbrill.com/journal/key/mcma/31/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/mcma/31/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mcma.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/mcma/html" rel="related"/>
-  <updated>2025-05-29T05:00:01.411992+00:00</updated>
+  <updated>2025-09-19T13:47:27.687006+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/mcma.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Monte Carlo Methods and Applications</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-frontmatter2</id>
-    <updated>2025-05-29T05:00:01.412024+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/mcma-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-frontmatter3</id>
+    <updated>2025-09-19T13:47:27.687040+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/mcma-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Impact of psychrometry on the aerosol distribution pattern in human lungs</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2004/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-2004</id>
-    <updated>2025-05-29T05:00:01.412035+00:00</updated>
-    <summary>Article by Alok Dhaundiyal, Gábor Albrecht
-DOI: https://doi.org/10.1515/mcma-2025-2004</summary>
+    <title>A nested MLMC framework for efficient simulations on FPGAs</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2010/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2010</id>
+    <updated>2025-09-19T13:47:27.687048+00:00</updated>
+    <summary>Article by Irina-Beatrice Haas, Michael B. Giles
+DOI: https://doi.org/10.1515/mcma-2025-2010</summary>
   </entry>
   <entry>
-    <title>Bayesian inference of traffic intensity inM/M/1 queue under symmetric and asymmetric loss functions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2005/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-2005</id>
-    <updated>2025-05-29T05:00:01.412048+00:00</updated>
-    <summary>Article by Bhaskar Kushvaha, Dhruba Das, Asmita Tamuli
-DOI: https://doi.org/10.1515/mcma-2025-2005</summary>
+    <title>On the applicability of Feynman–Kac path integral simulation to space-time fractional Schrödinger equations</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2011/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2011</id>
+    <updated>2025-09-19T13:47:27.687063+00:00</updated>
+    <summary>Article by Sumita Datta, Radhika Prosad Datta, James M. Rejcek
+DOI: https://doi.org/10.1515/mcma-2025-2011</summary>
   </entry>
   <entry>
-    <title>On the variance of Schattenp-norm estimation with Gaussian sketching matrices</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2006/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-2006</id>
-    <updated>2025-05-29T05:00:01.412057+00:00</updated>
-    <summary>Article by Lior Horesh, Vasileios Kalantzis, Yingdong Lu, Tomasz Nowicki
-DOI: https://doi.org/10.1515/mcma-2025-2006</summary>
+    <title>Monte Carlo solvers of large linear systems with Toeplitz matrices, preconditioning, iterative refinement with applications to integral equations and acoustic inverse problem</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2012/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2012</id>
+    <updated>2025-09-19T13:47:27.687072+00:00</updated>
+    <summary>Article by Karl K. Sabelfeld, Igor Shafigulin
+DOI: https://doi.org/10.1515/mcma-2025-2012</summary>
   </entry>
   <entry>
-    <title>A meshfree Random Walk on Boundary algorithm with iterative refinement</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2007/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-2007</id>
-    <updated>2025-05-29T05:00:01.412068+00:00</updated>
-    <summary>Article by Irina Shalimova, Karl K. Sabelfeld
-DOI: https://doi.org/10.1515/mcma-2025-2007</summary>
+    <title>Vanilla options as controls for estimating the conditional expectation of a European derivative payoff</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2013/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2013</id>
+    <updated>2025-09-19T13:47:27.687080+00:00</updated>
+    <summary>Article by Eddie W. K. Chiu
+DOI: https://doi.org/10.1515/mcma-2025-2013</summary>
   </entry>
   <entry>
-    <title>Combining randomized and deterministic iterative algorithms for high accuracy solution of large linear systems and boundary integral equations</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2008/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-2008</id>
-    <updated>2025-05-29T05:00:01.412078+00:00</updated>
-    <summary>Article by Karl K. Sabelfeld, Georgy Agarkov
-DOI: https://doi.org/10.1515/mcma-2025-2008</summary>
+    <title>Parameters estimation of the Rayleigh diffusion process: Inference aspects and application to real data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2014/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2014</id>
+    <updated>2025-09-19T13:47:27.687088+00:00</updated>
+    <summary>Article by Yassine Chakroune, Ahmed Nafidi, Abdenbi El Azri
+DOI: https://doi.org/10.1515/mcma-2025-2014</summary>
   </entry>
   <entry>
-    <title>Preservation of structural properties of the CIR model by θ-Milstein schemes</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2009/html"/>
-    <id>https://doi.org/10.1515/mcma-2025-2009</id>
-    <updated>2025-05-29T05:00:01.412088+00:00</updated>
-    <summary>Article by Samir Llamazares-Elias, Ángel Andrés Tocino
-DOI: https://doi.org/10.1515/mcma-2025-2009</summary>
+    <title>Generation of nonrecursive 𝑛-bit pseudorandom numbers based on 𝛽-transformation on [1, 2) (𝑛 = 64, 128, 192, …, 8192)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/mcma-2025-2015/html"/>
+    <id>https://doi.org/10.1515/mcma-2025-2015</id>
+    <updated>2025-09-19T13:47:27.687097+00:00</updated>
+    <summary>Article by Hirotake Yaguchi
+DOI: https://doi.org/10.1515/mcma-2025-2015</summary>
   </entry>
 </feed>

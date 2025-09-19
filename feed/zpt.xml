@@ -1,113 +1,97 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Zeitschrift für Pädagogik und Theologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/zpt/77/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/zpt/77/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpt.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/zpt/html" rel="related"/>
-  <updated>2025-06-06T09:47:36.344559+00:00</updated>
+  <updated>2025-09-19T13:52:46.559534+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/zpt.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Zeitschrift für Pädagogik und Theologie</subtitle>
   <entry>
     <title>Titelseiten</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-frontmatter2</id>
-    <updated>2025-06-06T09:47:36.344598+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zpt-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-frontmatter3</id>
+    <updated>2025-09-19T13:52:46.559558+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zpt-2025-frontmatter3</summary>
   </entry>
   <entry>
     <title>Editorial</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2013/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2013</id>
-    <updated>2025-06-06T09:47:36.344605+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/zpt-2025-2013</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2026/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2026</id>
+    <updated>2025-09-19T13:52:46.559570+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/zpt-2025-2026</summary>
   </entry>
   <entry>
-    <title>Religionskunde – Einblicke in einen verzwickten Diskurs</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2015/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2015</id>
-    <updated>2025-06-06T09:47:36.344629+00:00</updated>
-    <summary>Article by Burkard Porzelt
-DOI: https://doi.org/10.1515/zpt-2025-2015</summary>
+    <title>Erziehung, Religion und Schule in der kritisch-operativen Pädagogik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2027/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2027</id>
+    <updated>2025-09-19T13:52:46.559577+00:00</updated>
+    <summary>Article by Sebastian Engelmann
+DOI: https://doi.org/10.1515/zpt-2025-2027</summary>
   </entry>
   <entry>
-    <title>Religionskunde – Status Quo und Potential im deutschen Kontext</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2016/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2016</id>
-    <updated>2025-06-06T09:47:36.344653+00:00</updated>
-    <summary>Article by Wanda Alberts
-DOI: https://doi.org/10.1515/zpt-2025-2016</summary>
+    <title>Erziehung als Grundbegriff inklusiver Anthropologie. Erzieherisches Handeln im Spannungsfeld von individueller Verantwortung und struktureller Lernsteuerung.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2028/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2028</id>
+    <updated>2025-09-19T13:52:46.559587+00:00</updated>
+    <summary>Article by Lena Köhler
+DOI: https://doi.org/10.1515/zpt-2025-2028</summary>
   </entry>
   <entry>
-    <title>Religionskunde – Kann sie die gegenwärtigen Herausforderungen des Religionsunterrichts lösen?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2017/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2017</id>
-    <updated>2025-06-06T09:47:36.344660+00:00</updated>
+    <title>Erziehung als Grundbegriff der Antisemitismuskritik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2029/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2029</id>
+    <updated>2025-09-19T13:52:46.559595+00:00</updated>
+    <summary>Article by Christoph Schröder
+DOI: https://doi.org/10.1515/zpt-2025-2029</summary>
+  </entry>
+  <entry>
+    <title>Erziehung als Grundbegriff des historisch-politischen Lernens. Überlegungen zu Erziehung auf Kriegsgräberstätten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2030/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2030</id>
+    <updated>2025-09-19T13:52:46.559602+00:00</updated>
+    <summary>Article by Sarah Ganss, Astrid Wolters
+DOI: https://doi.org/10.1515/zpt-2025-2030</summary>
+  </entry>
+  <entry>
+    <title>Erziehung und Bildung als Grundbegriffe der Religionspädagogik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2031/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2031</id>
+    <updated>2025-09-19T13:52:46.559610+00:00</updated>
+    <summary>Article by Birte Platow
+DOI: https://doi.org/10.1515/zpt-2025-2031</summary>
+  </entry>
+  <entry>
+    <title>Förderung emotionaler Kompetenzen im Religionsunterricht der Grundschule: Eine quasi-experimentelle Studie zur Psalmendidaktik</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2032/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2032</id>
+    <updated>2025-09-19T13:52:46.559616+00:00</updated>
+    <summary>Article by Carsten Gennerich, Elisa Nonnenmann
+DOI: https://doi.org/10.1515/zpt-2025-2032</summary>
+  </entry>
+  <entry>
+    <title>Ulrike Baumann:Perspektiven religiöser Bildung. Ein Gespräch mit frühen Klassikern. Könighausen &amp; Neumann. Wiesbaden 2024. 563 S., € 58,00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2033/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2033</id>
+    <updated>2025-09-19T13:52:46.559624+00:00</updated>
+    <summary>Article by Michael Meyer-Blanck
+DOI: https://doi.org/10.1515/zpt-2025-2033</summary>
+  </entry>
+  <entry>
+    <title>Johannes Lähnemann, Interreligious and Peace Education in Times of Crisis. A History of Religions for Peace. (Pädagogische Beiträge zur Kulturbegegnung, 35). Berlin (EB-Verlag) 2024, 198 S., € 20,00.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2034/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2034</id>
+    <updated>2025-09-19T13:52:46.559634+00:00</updated>
     <summary>Article by Friedrich Schweitzer
-DOI: https://doi.org/10.1515/zpt-2025-2017</summary>
+DOI: https://doi.org/10.1515/zpt-2025-2034</summary>
   </entry>
   <entry>
-    <title>Religious Education in Sweden – Current Developments and Challenges</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2018/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2018</id>
-    <updated>2025-06-06T09:47:36.344666+00:00</updated>
-    <summary>Article by Kerstin von Brömssen
-DOI: https://doi.org/10.1515/zpt-2025-2018</summary>
-  </entry>
-  <entry>
-    <title>Religionsunterricht in der Schweiz – religionskundlich oder religionsbezogen? Ein religionswissenschaftlich-theologischer Dialog</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2019/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2019</id>
-    <updated>2025-06-06T09:47:36.344673+00:00</updated>
-    <summary>Article by Philipp Hetmanczyk, Thomas Schlag
-DOI: https://doi.org/10.1515/zpt-2025-2019</summary>
-  </entry>
-  <entry>
-    <title>The Theological Turn of Gert Biesta – Towards an Eschatological Education</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2020/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2020</id>
-    <updated>2025-06-06T09:47:36.344682+00:00</updated>
-    <summary>Article by Peter Karlsson
-DOI: https://doi.org/10.1515/zpt-2025-2020</summary>
-  </entry>
-  <entry>
-    <title>Aktuelle Perspektiven und Herausforderungen der Promotion in der Gemeindepädagogik. Eine Untersuchung der Studierenden an konfessionellen Hochschulen für angewandte Wissenschaften</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2021/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2021</id>
-    <updated>2025-06-06T09:47:36.344688+00:00</updated>
-    <summary>Article by Stefan van der Hoek
-DOI: https://doi.org/10.1515/zpt-2025-2021</summary>
-  </entry>
-  <entry>
-    <title>Evelyn Krimmer:Das Schülerbild der Religionspädagogik. Eine kritische Analyse der Konstruktion von Schüler:innen im Religionsunterricht, Paderborn: Brill Schöningh 2024, 412 S., € 99.00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2022/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2022</id>
-    <updated>2025-06-06T09:47:36.344696+00:00</updated>
-    <summary>Article by Alexander Unser
-DOI: https://doi.org/10.1515/zpt-2025-2022</summary>
-  </entry>
-  <entry>
-    <title>Christiane Caspary / Daniela Zahneisen(Hg.): Wenn der Tod im Klassenzimmer ankommt. Tod und Trauer in der Schule – (religions-)pädagogische Perspektiven. Stuttgart: Kohlhammer 2022, 298 S., € 24,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2023/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2023</id>
-    <updated>2025-06-06T09:47:36.344725+00:00</updated>
-    <summary>Article by Stefanie Lorenzen
-DOI: https://doi.org/10.1515/zpt-2025-2023</summary>
-  </entry>
-  <entry>
-    <title>Dorothea M. Salzer:Mit der Bibel in die Moderne. Entstehung und Entwicklung jüdischer Kinderbibeln. Studia Judaica; 122, Berlin/Boston 2023, 367 Seiten, e-book und gebundene Ausgabe je 109,95 Euro.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2024/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2024</id>
-    <updated>2025-06-06T09:47:36.344733+00:00</updated>
-    <summary>Article by Marion Keuchen
-DOI: https://doi.org/10.1515/zpt-2025-2024</summary>
-  </entry>
-  <entry>
-    <title>Arnulf von Scheliha/Hinnerk Wißmann,Religionsunterricht 4.0. Eine religionspolitische Erörterung in rechtswissenschaftlicher und ethischer Respektive. Tübingen (Mohr Siebeck) 2024, 182 S., € 19,00.</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2025/html"/>
-    <id>https://doi.org/10.1515/zpt-2025-2025</id>
-    <updated>2025-06-06T09:47:36.344740+00:00</updated>
-    <summary>Article by Friedrich Schweitzer
-DOI: https://doi.org/10.1515/zpt-2025-2025</summary>
+    <title>„…dann nutzen wir sie auch: Digitalisierung first – Bedenken second“!? Jugendtheologie und Digitalisierung(Jahrbuch für Kinder- und Jugendtheologie, Bd. 6, hrsg. von Thomas Schlag und Jasmine Suhner), Stuttgart, Calwer Verlag GmbH Bücher und Medien 2023. 167 S., 26,99 €.</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/zpt-2025-2035/html"/>
+    <id>https://doi.org/10.1515/zpt-2025-2035</id>
+    <updated>2025-09-19T13:52:46.559651+00:00</updated>
+    <summary>Article by Stefanie Pfister
+DOI: https://doi.org/10.1515/zpt-2025-2035</summary>
   </entry>
 </feed>

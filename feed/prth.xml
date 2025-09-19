@@ -1,159 +1,168 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Praktische Theologie</title>
-  <link href="https://www.degruyterbrill.com/journal/key/prth/60/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/prth/60/4/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prth.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/prth/html" rel="related"/>
-  <updated>2025-05-06T05:04:13.626142+00:00</updated>
+  <updated>2025-09-19T13:49:30.917039+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/prth.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Praktische Theologie</subtitle>
   <entry>
-    <title>Impressum</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600201/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600201</id>
-    <updated>2025-05-06T05:04:13.626161+00:00</updated>
-    <summary>DOI: https://doi.org/10.14315/prth-2025-600201</summary>
+    <title>Titelei</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-frontmatter6004/html"/>
+    <id>https://doi.org/10.14315/prth-2025-frontmatter6004</id>
+    <updated>2025-09-19T13:49:30.917057+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-frontmatter6004</summary>
   </entry>
   <entry>
-    <title>Titelei</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-frontmatter6002/html"/>
-    <id>https://doi.org/10.14315/prth-2025-frontmatter6002</id>
-    <updated>2025-05-06T05:04:13.626168+00:00</updated>
-    <summary>DOI: https://doi.org/10.14315/prth-2025-frontmatter6002</summary>
+    <title>Impressum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600401/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600401</id>
+    <updated>2025-09-19T13:49:30.917064+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-600401</summary>
   </entry>
   <entry>
     <title>Inhaltsverzeichnis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-toc6002/html"/>
-    <id>https://doi.org/10.14315/prth-2025-toc6002</id>
-    <updated>2025-05-06T05:04:13.626174+00:00</updated>
-    <summary>DOI: https://doi.org/10.14315/prth-2025-toc6002</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-toc6004/html"/>
+    <id>https://doi.org/10.14315/prth-2025-toc6004</id>
+    <updated>2025-09-19T13:49:30.917070+00:00</updated>
+    <summary>DOI: https://doi.org/10.14315/prth-2025-toc6004</summary>
   </entry>
   <entry>
-    <title>Literatur / Medien / Kultur</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600217/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600217</id>
-    <updated>2025-05-06T05:04:13.626180+00:00</updated>
-    <summary>DOI: https://doi.org/10.14315/prth-2025-600217</summary>
+    <title>Editorial</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600402/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600402</id>
+    <updated>2025-09-19T13:49:30.917075+00:00</updated>
+    <summary>Article by David Plüss, Claudia Schulz
+DOI: https://doi.org/10.14315/prth-2025-600402</summary>
   </entry>
   <entry>
-    <title>Wozu Erlösung?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600202/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600202</id>
-    <updated>2025-05-06T05:04:13.626186+00:00</updated>
-    <summary>Article by Birgit Klostermeier, Christopher Zarnow
-DOI: https://doi.org/10.14315/prth-2025-600202</summary>
+    <title>Aus der Not eine Tugend machen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600403/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600403</id>
+    <updated>2025-09-19T13:49:30.917083+00:00</updated>
+    <summary>Article by David Plüss
+DOI: https://doi.org/10.14315/prth-2025-600403</summary>
   </entry>
   <entry>
-    <title>Erlösungshoffnungen in Kirche und Pfarramt</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600203/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600203</id>
-    <updated>2025-05-06T05:04:13.626193+00:00</updated>
-    <summary>Article by Anne Grohn
-DOI: https://doi.org/10.14315/prth-2025-600203</summary>
+    <title>Studium und Ausbildung anders wagen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600404/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600404</id>
+    <updated>2025-09-19T13:49:30.917090+00:00</updated>
+    <summary>Article by Andreas Köhler-Andereggen, Monika Wilhelm
+DOI: https://doi.org/10.14315/prth-2025-600404</summary>
   </entry>
   <entry>
-    <title>Rette sich, wer kann?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600204/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600204</id>
-    <updated>2025-05-06T05:04:13.626202+00:00</updated>
-    <summary>Article by Johannes F. Lehmann
-DOI: https://doi.org/10.14315/prth-2025-600204</summary>
+    <title>Was ich von hier aus sehen kann</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600405/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600405</id>
+    <updated>2025-09-19T13:49:30.917096+00:00</updated>
+    <summary>Article by Emilia Handke, Claudia Schulz
+DOI: https://doi.org/10.14315/prth-2025-600405</summary>
   </entry>
   <entry>
-    <title>»… du bist erlöst von deiner Krankheit!« (Lk 13,12)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600205/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600205</id>
-    <updated>2025-05-06T05:04:13.626208+00:00</updated>
-    <summary>Article by Thorsten Moos
-DOI: https://doi.org/10.14315/prth-2025-600205</summary>
+    <title>Der Rückgang von Pfarrpersonen als Chance zur Neugestaltung der Kirche</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600406/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600406</id>
+    <updated>2025-09-19T13:49:30.917102+00:00</updated>
+    <summary>Article by Uta Pohl-Patalong
+DOI: https://doi.org/10.14315/prth-2025-600406</summary>
   </entry>
   <entry>
-    <title>Die Hand von außen</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600206/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600206</id>
-    <updated>2025-05-06T05:04:13.626214+00:00</updated>
-    <summary>Article by Birgit Klostermeier, Johanna Hußmann
-DOI: https://doi.org/10.14315/prth-2025-600206</summary>
+    <title>Priestertum aller Gläubigen und Zusammenarbeit aller Engagierten</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600407/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600407</id>
+    <updated>2025-09-19T13:49:30.917108+00:00</updated>
+    <summary>Article by Claudia Schulz
+DOI: https://doi.org/10.14315/prth-2025-600407</summary>
   </entry>
   <entry>
-    <title>Erlöst von sich selbst?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600207/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600207</id>
-    <updated>2025-05-06T05:04:13.626224+00:00</updated>
-    <summary>Article by Jochen Schmidt
-DOI: https://doi.org/10.14315/prth-2025-600207</summary>
+    <title>Der kompetente Seelsorger und die große Kommunikatorin</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600408/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600408</id>
+    <updated>2025-09-19T13:49:30.917114+00:00</updated>
+    <summary>Article by Christoph Morgenthaler
+DOI: https://doi.org/10.14315/prth-2025-600408</summary>
   </entry>
   <entry>
-    <title>Mehr Entwicklung bringt auch keine (Er-)Lösung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600208/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600208</id>
-    <updated>2025-05-06T05:04:13.626230+00:00</updated>
-    <summary>Article by Stefan Kühl, Marcel Schütz
-DOI: https://doi.org/10.14315/prth-2025-600208</summary>
+    <title>Kirche jenseits der Ortsgemeinde</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600409/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600409</id>
+    <updated>2025-09-19T13:49:30.917120+00:00</updated>
+    <summary>Article by Philipp Elhaus
+DOI: https://doi.org/10.14315/prth-2025-600409</summary>
   </entry>
   <entry>
-    <title>Practical theology in the present Dutch context</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600209/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600209</id>
-    <updated>2025-05-06T05:04:13.626237+00:00</updated>
-    <summary>Article by Mirella Klomp
-DOI: https://doi.org/10.14315/prth-2025-600209</summary>
+    <title>Ein Blick aus der Ferne</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600410/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600410</id>
+    <updated>2025-09-19T13:49:30.917126+00:00</updated>
+    <summary>Article by Tobias Braune-Krickau
+DOI: https://doi.org/10.14315/prth-2025-600410</summary>
   </entry>
   <entry>
-    <title>Horizonte eröffnen, Leitungshandeln stärken</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600210/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600210</id>
-    <updated>2025-05-06T05:04:13.626242+00:00</updated>
-    <summary>Article by Steffen Bauer
-DOI: https://doi.org/10.14315/prth-2025-600210</summary>
+    <title>Pointiert politisch im Religionsunterricht</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600411/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600411</id>
+    <updated>2025-09-19T13:49:30.917134+00:00</updated>
+    <summary>Article by Moritz Emmelmann
+DOI: https://doi.org/10.14315/prth-2025-600411</summary>
   </entry>
   <entry>
-    <title>Kirchentheorie für Menschen in der kirchlichen Praxis</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600211/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600211</id>
-    <updated>2025-05-06T05:04:13.626248+00:00</updated>
-    <summary>Article by Michael Herbst
-DOI: https://doi.org/10.14315/prth-2025-600211</summary>
+    <title>Kasualien als Fälle des Rechts</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600412/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600412</id>
+    <updated>2025-09-19T13:49:30.917139+00:00</updated>
+    <summary>Article by Johannes Greifenstein
+DOI: https://doi.org/10.14315/prth-2025-600412</summary>
   </entry>
   <entry>
-    <title>Sich versöhnen mit da oben?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600212/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600212</id>
-    <updated>2025-05-06T05:04:13.626253+00:00</updated>
-    <summary>Article by Andreas Kubik
-DOI: https://doi.org/10.14315/prth-2025-600212</summary>
+    <title>Queering as in</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600413/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600413</id>
+    <updated>2025-09-19T13:49:30.917148+00:00</updated>
+    <summary>Article by Florence Häneke
+DOI: https://doi.org/10.14315/prth-2025-600413</summary>
   </entry>
   <entry>
-    <title>Praktisch – kurz – gut</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600213/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600213</id>
-    <updated>2025-05-06T05:04:13.626259+00:00</updated>
+    <title>Erprobung kybernetisch reflektiert – vielstimmig oder kurzatmig</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600414/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600414</id>
+    <updated>2025-09-19T13:49:30.917154+00:00</updated>
+    <summary>Article by Jan Hermelink
+DOI: https://doi.org/10.14315/prth-2025-600414</summary>
+  </entry>
+  <entry>
+    <title>Urbane Aushandlungen der Räumlichkeit der Religion</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600415/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600415</id>
+    <updated>2025-09-19T13:49:30.917160+00:00</updated>
+    <summary>Article by Sonja Keller
+DOI: https://doi.org/10.14315/prth-2025-600415</summary>
+  </entry>
+  <entry>
+    <title>Der Trost des Ästhetischen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600416/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600416</id>
+    <updated>2025-09-19T13:49:30.917166+00:00</updated>
+    <summary>Article by Inge Kirsner
+DOI: https://doi.org/10.14315/prth-2025-600416</summary>
+  </entry>
+  <entry>
+    <title>Predigen lehren und lernen</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600417/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600417</id>
+    <updated>2025-09-19T13:49:30.917171+00:00</updated>
     <summary>Article by Michael Meyer-Blanck
-DOI: https://doi.org/10.14315/prth-2025-600213</summary>
+DOI: https://doi.org/10.14315/prth-2025-600417</summary>
   </entry>
   <entry>
-    <title>Religiös bei Gelegenheit</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600214/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600214</id>
-    <updated>2025-05-06T05:04:13.626265+00:00</updated>
-    <summary>Article by Traugott Roser
-DOI: https://doi.org/10.14315/prth-2025-600214</summary>
-  </entry>
-  <entry>
-    <title>Zu viel versprochen?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600215/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600215</id>
-    <updated>2025-05-06T05:04:13.626270+00:00</updated>
-    <summary>Article by Matthias Rost
-DOI: https://doi.org/10.14315/prth-2025-600215</summary>
-  </entry>
-  <entry>
-    <title>Auferstehung</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600216/html"/>
-    <id>https://doi.org/10.14315/prth-2025-600216</id>
-    <updated>2025-05-06T05:04:13.626282+00:00</updated>
+    <title>Gott, heilger Schöpfer aller Stern (EG 3)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.14315/prth-2025-600418/html"/>
+    <id>https://doi.org/10.14315/prth-2025-600418</id>
+    <updated>2025-09-19T13:49:30.917177+00:00</updated>
     <summary>Article by Harald Schroeter-Wittke
-DOI: https://doi.org/10.14315/prth-2025-600216</summary>
+DOI: https://doi.org/10.14315/prth-2025-600418</summary>
   </entry>
 </feed>

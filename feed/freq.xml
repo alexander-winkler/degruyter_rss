@@ -1,98 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Frequenz</title>
-  <link href="https://www.degruyterbrill.com/journal/key/freq/79/7-8/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/freq/79/9-10/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/freq/html" rel="related"/>
-  <updated>2025-07-04T16:31:10.652000+00:00</updated>
+  <updated>2025-09-19T13:43:00.009683+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/freq.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Frequenz</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2025-frontmatter7-8/html"/>
-    <id>https://doi.org/10.1515/freq-2025-frontmatter7-8</id>
-    <updated>2025-07-04T16:31:10.652024+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/freq-2025-frontmatter7-8</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2025-frontmatter9-10/html"/>
+    <id>https://doi.org/10.1515/freq-2025-frontmatter9-10</id>
+    <updated>2025-09-19T13:43:00.009706+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/freq-2025-frontmatter9-10</summary>
   </entry>
   <entry>
-    <title>Microwave-based breast cancer detection using a high-gain Vivaldi antenna and metasurface neural network approach for medical diagnostics</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0190/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0190</id>
-    <updated>2025-07-04T16:31:10.652030+00:00</updated>
-    <summary>Article by Rasool M. Al-Gburi, Mohammad Alibakhshikenari, Bal S. Virdee, Teba M. Hameed, Dion Mariyanayagam, Sandra Fernando, Innocent Lubangakene, Yi Tang, Salah Uddin Khan, Taha A. Elwi
-DOI: https://doi.org/10.1515/freq-2024-0190</summary>
+    <title>Advances in antenna design through characteristic modes: a review of simulation techniques and development</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0358/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0358</id>
+    <updated>2025-09-19T13:43:00.009714+00:00</updated>
+    <summary>Article by Sumon Modak, Vikrant Kaim, Taimoor Khan, Binod Kumar Kanaujia, Sembiam R. Rengarajan, Ahmed A. Kishk, Yahia M. M. Antar
+DOI: https://doi.org/10.1515/freq-2024-0358</summary>
   </entry>
   <entry>
-    <title>Design and implementation of on-body PEC backed 2 × 2 MIMO antenna</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0062/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0062</id>
-    <updated>2025-07-04T16:31:10.652038+00:00</updated>
-    <summary>Article by Ribitha Elizabeth Mariadhason, Vadivel Muniyappan
-DOI: https://doi.org/10.1515/freq-2024-0062</summary>
+    <title>A review on soft computing optimization techniques for electromagnetics</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0307/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0307</id>
+    <updated>2025-09-19T13:43:00.009723+00:00</updated>
+    <summary>Article by Prashansa, Bharat Singh, Nidhi Kushwaha
+DOI: https://doi.org/10.1515/freq-2024-0307</summary>
   </entry>
   <entry>
-    <title>Horn integrated 3-D printed four-port MIMO DRA for CubeSats</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0141/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0141</id>
-    <updated>2025-07-04T16:31:10.652049+00:00</updated>
-    <summary>Article by Arvind Kumar, Pramod Kumar, Utkarsh Karnwal
-DOI: https://doi.org/10.1515/freq-2024-0141</summary>
+    <title>Design of wideband filtering phase shifters with wide stopband</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0328/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0328</id>
+    <updated>2025-09-19T13:43:00.009730+00:00</updated>
+    <summary>Article by Meng Liu, Lei Chen, Jin Yi Liu, Huan Xue
+DOI: https://doi.org/10.1515/freq-2024-0328</summary>
   </entry>
   <entry>
-    <title>On the performance investigation of a low profile UWB antenna backed with conjointly connected sickle shaped AMC structure for on-/off body communications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0204/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0204</id>
-    <updated>2025-07-04T16:31:10.652054+00:00</updated>
-    <summary>Article by Venkatesh Pandi Ravichandran, Narmadha Velayudham
-DOI: https://doi.org/10.1515/freq-2024-0204</summary>
+    <title>Balanced BPFs with wideband CM suppression and high selectivity based on double-sided parallel-strip line</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0312/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0312</id>
+    <updated>2025-09-19T13:43:00.009737+00:00</updated>
+    <summary>Article by Hong-Yu Liu, Xing-Chen Zhou, Rui Li, Feng Wei
+DOI: https://doi.org/10.1515/freq-2024-0312</summary>
   </entry>
   <entry>
-    <title>Frequency and pattern reconfigurable patch antenna for multi-standard wireless applications</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0293/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0293</id>
-    <updated>2025-07-04T16:31:10.652064+00:00</updated>
-    <summary>Article by Bhaben Saikia, Kunal Borah
-DOI: https://doi.org/10.1515/freq-2024-0293</summary>
+    <title>Balanced dual-band BPF with enhanced DM selectivity and stopband suppression</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0321/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0321</id>
+    <updated>2025-09-19T13:43:00.009743+00:00</updated>
+    <summary>Article by Ming Hua Liu
+DOI: https://doi.org/10.1515/freq-2024-0321</summary>
   </entry>
   <entry>
-    <title>A novel high isolation quad-port multiband MIMO antenna for V2X applications at Sub-6 GHz band</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0288/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0288</id>
-    <updated>2025-07-04T16:31:10.652069+00:00</updated>
-    <summary>Article by E. Kusuma Kumari, Jerzy R. Szymański, Marta Żurek-Mortka, Mithileysh Sathiyanarayanan
-DOI: https://doi.org/10.1515/freq-2024-0288</summary>
+    <title>Balanced dual-wideband BPF utilizing quad-mode slotline resonator</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0335/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0335</id>
+    <updated>2025-09-19T13:43:00.009750+00:00</updated>
+    <summary>Article by Xu Jiang, Hong-Yu Liu, Xin-Peng Ding, Gang Jin, Feng Wei
+DOI: https://doi.org/10.1515/freq-2024-0335</summary>
   </entry>
   <entry>
-    <title>Axial ratio control of circularly polarized microstrip antenna using miniaturized multilayer graphene resistive pads</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0194/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0194</id>
-    <updated>2025-07-04T16:31:10.652075+00:00</updated>
-    <summary>Article by Sai Haranadh Akkapanthula, Srujana Kagita
-DOI: https://doi.org/10.1515/freq-2024-0194</summary>
+    <title>Design, fabrication and testing of microwave bandpass filter using metamaterial integrated rectangular waveguide</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0206/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0206</id>
+    <updated>2025-09-19T13:43:00.009757+00:00</updated>
+    <summary>Article by Paresh R. Sagar, Arpan H. Shah, Subhra Sankha Sarma
+DOI: https://doi.org/10.1515/freq-2024-0206</summary>
   </entry>
   <entry>
-    <title>Subspace estimation of coherent wideband OFDM signals</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0238/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0238</id>
-    <updated>2025-07-04T16:31:10.652080+00:00</updated>
-    <summary>Article by Ahcene Bellabas, Tahar Ziani, Ammar Mesloub, Abdelmadjid Maali, Djamel Teguig
-DOI: https://doi.org/10.1515/freq-2024-0238</summary>
+    <title>High-gain UWB Fabry–Perot cavity antenna with dual-notched band for high-resolution imaging applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0348/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0348</id>
+    <updated>2025-09-19T13:43:00.009764+00:00</updated>
+    <summary>Article by Imen Merabet, Khaled Rouabah, Massinissa Belazzoug, Youcef Braham Chaouche, Tayeb A. Denidni
+DOI: https://doi.org/10.1515/freq-2024-0348</summary>
   </entry>
   <entry>
-    <title>Dual-band SIW filter using slot perturbation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0267/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0267</id>
-    <updated>2025-07-04T16:31:10.652085+00:00</updated>
-    <summary>Article by Shraddha Sood, Vandana Niranjan, Vibhav Kumar Sachan
-DOI: https://doi.org/10.1515/freq-2024-0267</summary>
+    <title>A four port MIMO antenna using chip resistor based decoupling in 5G and 6G applications</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0103/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0103</id>
+    <updated>2025-09-19T13:43:00.009773+00:00</updated>
+    <summary>Article by Anandhan Chandrasekhar, Phani Kumar Polasi, Ramasubramanian Bhoopalan
+DOI: https://doi.org/10.1515/freq-2024-0103</summary>
   </entry>
   <entry>
-    <title>Cuckoo search-ExtraTrees model for Radio-frequency power amplifier under different temperatures</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0298/html"/>
-    <id>https://doi.org/10.1515/freq-2024-0298</id>
-    <updated>2025-07-04T16:31:10.652089+00:00</updated>
-    <summary>Article by Jun Sun, Shaohua Zhou
-DOI: https://doi.org/10.1515/freq-2024-0298</summary>
+    <title>Contactless early-stage deep seated breast tumor detection using circular slotted patch antenna</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0326/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0326</id>
+    <updated>2025-09-19T13:43:00.009783+00:00</updated>
+    <summary>Article by Sujit Tripathy, Vishwajeet Mukherjee, Pranaba K. Mishro
+DOI: https://doi.org/10.1515/freq-2024-0326</summary>
+  </entry>
+  <entry>
+    <title>An ultraminiaturized implantable antenna with low SAR for biotelemetry</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/freq-2024-0332/html"/>
+    <id>https://doi.org/10.1515/freq-2024-0332</id>
+    <updated>2025-09-19T13:43:00.009790+00:00</updated>
+    <summary>Article by K. Ramasamy, B. A. Sapna
+DOI: https://doi.org/10.1515/freq-2024-0332</summary>
   </entry>
 </feed>

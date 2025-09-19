@@ -1,71 +1,142 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Practical Metallography</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pm/62/8/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pm/62/9-10/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/pm/html" rel="related"/>
-  <updated>2025-08-07T15:46:59.985291+00:00</updated>
+  <updated>2025-09-19T13:49:18.261131+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pm.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Practical Metallography</subtitle>
   <entry>
     <title>Contents</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-frontmatter8/html"/>
-    <id>https://doi.org/10.1515/pm-2025-frontmatter8</id>
-    <updated>2025-08-07T15:46:59.985317+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/pm-2025-frontmatter8</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-frontmatter9-10/html"/>
+    <id>https://doi.org/10.1515/pm-2025-frontmatter9-10</id>
+    <updated>2025-09-19T13:49:18.261161+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-frontmatter9-10</summary>
   </entry>
   <entry>
     <title>Editorial</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0048/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0048</id>
-    <updated>2025-08-07T15:46:59.985325+00:00</updated>
-    <summary>Article by Frank Mücklich
-DOI: https://doi.org/10.1515/pm-2025-0048</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0055/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0055</id>
+    <updated>2025-09-19T13:49:18.261169+00:00</updated>
+    <summary>Article by Michael Pohl, Sebastian Weber
+DOI: https://doi.org/10.1515/pm-2025-0055</summary>
   </entry>
   <entry>
-    <title>Practical application of an automated 3D metallography system for the reconstruction and microstructural analysis of porosity in a sintered steel</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0049/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0049</id>
-    <updated>2025-08-07T15:46:59.985335+00:00</updated>
-    <summary>Article by A. Lemiasheuski, F. Wehrkamp, E. Bajer, M. Buchheim, E. Sonnenburg, A. Göbel, I. Porohovoj, D. Bettge, A. Pfennig
-DOI: https://doi.org/10.1515/pm-2025-0049</summary>
+    <title>Evaluation of damage mechanisms in full-forward rod extruded AISI 5115 steel by AI-based image segmentation</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0056/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0056</id>
+    <updated>2025-09-19T13:49:18.261177+00:00</updated>
+    <summary>Article by L. A. Lingnau, J. Heermant, F. Walther
+DOI: https://doi.org/10.1515/pm-2025-0056</summary>
   </entry>
   <entry>
-    <title>A quasi-in situ EBSD study of the mechanism of cubic texture formation in a large strain Ni5W alloy substrates</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0051/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0051</id>
-    <updated>2025-08-07T15:46:59.985342+00:00</updated>
-    <summary>Article by X. Wang, H. Suo, L. Wang, Z. Zhang, L. Ma, L. Wang, J. Liu, Q. Wang
-DOI: https://doi.org/10.1515/pm-2025-0051</summary>
+    <title>A roll-headed pin from Getzersdorf, Austria, opens up interesting questions about iron metallurgy in the Hallstatt period</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0057/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0057</id>
+    <updated>2025-09-19T13:49:18.261184+00:00</updated>
+    <summary>Article by R. Haubner, S. Strobl, A. M. Jaklin, K. Rebay-Salisbury
+DOI: https://doi.org/10.1515/pm-2025-0057</summary>
   </entry>
   <entry>
-    <title>Metallographic characterization of axial shims surface damaged upon assembly</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0050/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0050</id>
-    <updated>2025-08-07T15:46:59.985351+00:00</updated>
-    <summary>Article by M. Giller, T. Gädicke, A. Neidel
-DOI: https://doi.org/10.1515/pm-2025-0050</summary>
+    <title>Magneto-optical Kerr effect analysis of strain-induced martensite formation during flow forming of metastable austenitic steel AISI 304L</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0059/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0059</id>
+    <updated>2025-09-19T13:49:18.261191+00:00</updated>
+    <summary>Article by J. Rozo Vasquez, J. Tappe, B. Arian, L. Kersting, W. Homberg, A. Trächtler, F. Walther
+DOI: https://doi.org/10.1515/pm-2025-0059</summary>
+  </entry>
+  <entry>
+    <title>Materials scientific challenges of a circular economy of high-alloy tool steels</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0060/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0060</id>
+    <updated>2025-09-19T13:49:18.261199+00:00</updated>
+    <summary>Article by F. Großwendt, M. Bram, M. Treppmann, M. Keszler, T. Ottink, S. Weber
+DOI: https://doi.org/10.1515/pm-2025-0060</summary>
+  </entry>
+  <entry>
+    <title>Cavitation-induced damage on a ship propeller’s Kort nozzle made of AISI 316L and investigation of the near-surface microstructural changes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0058/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0058</id>
+    <updated>2025-09-19T13:49:18.261206+00:00</updated>
+    <summary>Article by R. Haubner, P. Linhardt, S. Strobl, M. V. Biezma
+DOI: https://doi.org/10.1515/pm-2025-0058</summary>
+  </entry>
+  <entry>
+    <title>Preparation of aluminum thin films and laminates</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0062/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0062</id>
+    <updated>2025-09-19T13:49:18.261213+00:00</updated>
+    <summary>Article by W. Preuner, M. Hofinger, M. Kornfeld
+DOI: https://doi.org/10.1515/pm-2025-0062</summary>
+  </entry>
+  <entry>
+    <title>Preparation and microstructural examination of additively manufactured alloys 316L and 17-4PH</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0064/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0064</id>
+    <updated>2025-09-19T13:49:18.261220+00:00</updated>
+    <summary>Article by A. Triebe, A. Hebestreit, E. Kerscher
+DOI: https://doi.org/10.1515/pm-2025-0064</summary>
+  </entry>
+  <entry>
+    <title>Results of a round robin test on grain boundary determination by image analysis in the DGM working group ‘Quantitative Structural Analysis’</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0065/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0065</id>
+    <updated>2025-09-19T13:49:18.261232+00:00</updated>
+    <summary>Article by M. Witte
+DOI: https://doi.org/10.1515/pm-2025-0065</summary>
+  </entry>
+  <entry>
+    <title>Deep learning-based precipitate quantification in STEM images of complex steel microstructures</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0066/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0066</id>
+    <updated>2025-09-19T13:49:18.261239+00:00</updated>
+    <summary>Article by M. Müller, J. Barrirero, E. Detemple, T. Staudt, P. Lalley, D. Britz, F. Mücklich
+DOI: https://doi.org/10.1515/pm-2025-0066</summary>
+  </entry>
+  <entry>
+    <title>A bronze fibula foot from the Roman Carnuntum, Lower Austria</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0063/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0063</id>
+    <updated>2025-09-19T13:49:18.261246+00:00</updated>
+    <summary>Article by R. Haubner, A. Pronina, S. Strobl
+DOI: https://doi.org/10.1515/pm-2025-0063</summary>
+  </entry>
+  <entry>
+    <title>Optimization of preparation methods for EBSD analysis of highly metastable austenitic steels</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0061/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0061</id>
+    <updated>2025-09-19T13:49:18.261252+00:00</updated>
+    <summary>Article by P. Jadzinski, J. Rogmann, P. König, M. Huber, J. Lentz, S. Weber
+DOI: https://doi.org/10.1515/pm-2025-0061</summary>
   </entry>
   <entry>
     <title>Picture of the Month</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0052/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0052</id>
-    <updated>2025-08-07T15:46:59.985358+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/pm-2025-0052</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0067/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0067</id>
+    <updated>2025-09-19T13:49:18.261259+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0067</summary>
+  </entry>
+  <entry>
+    <title>Interview with Gaby Ketzer-Raichle on the occasion of the new edition of “Schumann Metallography”, published by Heinrich Oettel and Gaby Ketzer-Raichle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0068/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0068</id>
+    <updated>2025-09-19T13:49:18.261267+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0068</summary>
   </entry>
   <entry>
     <title>News</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0053/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0053</id>
-    <updated>2025-08-07T15:46:59.985364+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/pm-2025-0053</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0069/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0069</id>
+    <updated>2025-09-19T13:49:18.261272+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0069</summary>
   </entry>
   <entry>
     <title>Meeting Diary</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0054/html"/>
-    <id>https://doi.org/10.1515/pm-2025-0054</id>
-    <updated>2025-08-07T15:46:59.985369+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/pm-2025-0054</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pm-2025-0070/html"/>
+    <id>https://doi.org/10.1515/pm-2025-0070</id>
+    <updated>2025-09-19T13:49:18.261277+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pm-2025-0070</summary>
   </entry>
 </feed>

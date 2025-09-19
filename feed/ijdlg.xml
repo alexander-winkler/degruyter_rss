@@ -1,82 +1,90 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>International Journal of Digital Law and Governance</title>
-  <link href="https://www.degruyterbrill.com/journal/key/ijdlg/1/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/ijdlg/2/1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijdlg.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/ijdlg/html" rel="related"/>
-  <updated>2025-05-06T04:57:49.258538+00:00</updated>
+  <updated>2025-09-19T13:44:08.748631+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/ijdlg.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in International Journal of Digital Law and Governance</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-frontmatter2</id>
-    <updated>2025-05-06T04:57:49.258567+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/ijdlg-2024-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-frontmatter1/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-frontmatter1</id>
+    <updated>2025-09-19T13:44:08.748665+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/ijdlg-2025-frontmatter1</summary>
   </entry>
   <entry>
-    <title>How Digital Power Shapes the Rule of Law: The Logic and Mission of Digital Rule of Law</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0017/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0017</id>
-    <updated>2025-05-06T04:57:49.258577+00:00</updated>
-    <summary>Article by Xiaoxia Sun, Yang Xiao
-DOI: https://doi.org/10.1515/ijdlg-2024-0017</summary>
+    <title>Profiling Elements, Risks, and Governance of Artificial Intelligence: Implications from DeepSeek</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0008/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0008</id>
+    <updated>2025-09-19T13:44:08.748674+00:00</updated>
+    <summary>Article by Le Cheng, Ming Hu, Tao Hong
+DOI: https://doi.org/10.1515/ijdlg-2025-0008</summary>
   </entry>
   <entry>
-    <title>Governing Consumer Information in the Digital Age: Lessons from a Controversy Between a Food Rating App and Processed Meat Manufacturers</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2023-0005/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2023-0005</id>
-    <updated>2025-05-06T04:57:49.258588+00:00</updated>
-    <summary>Article by Élisabeth Lambert, Jan Smolinski
-DOI: https://doi.org/10.1515/ijdlg-2023-0005</summary>
+    <title>Big Data Versus Big GPU: Evolving Requirements and Governance Dynamics of AI Training Data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0004/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0004</id>
+    <updated>2025-09-19T13:44:08.748684+00:00</updated>
+    <summary>Article by Le Cheng, Xuan Gong, Yun Zhao
+DOI: https://doi.org/10.1515/ijdlg-2025-0004</summary>
   </entry>
   <entry>
-    <title>Appraising Regulatory Framework Towards Artificial General Intelligence (AGI) Under Digital Humanism</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0015/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0015</id>
-    <updated>2025-05-06T04:57:49.258598+00:00</updated>
-    <summary>Article by Le Cheng, Xuan Gong
-DOI: https://doi.org/10.1515/ijdlg-2024-0015</summary>
+    <title>Towards Just AI: Challenges and Solution Framework for Algorithmic Discrimination in Judicial System</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0020/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2024-0020</id>
+    <updated>2025-09-19T13:44:08.748690+00:00</updated>
+    <summary>Article by Landuo Dou, Xiaodong Dou
+DOI: https://doi.org/10.1515/ijdlg-2024-0020</summary>
   </entry>
   <entry>
-    <title>Biometric Technology at the Borders of Citizenship: Identifying Technical Standards for Introducer-Based Remote Onboarding in Global Contexts of Statelessness, Nomadism, Displacement, and Refuge</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0010/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0010</id>
-    <updated>2025-05-06T04:57:49.258607+00:00</updated>
-    <summary>Article by Riccardo Vecellio Segate
-DOI: https://doi.org/10.1515/ijdlg-2024-0010</summary>
+    <title>Opportunities, Challenges, and Regulatory Responses to China’s AI Computing Power Development under DeepSeek’s Changing Landscape</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0002/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0002</id>
+    <updated>2025-09-19T13:44:08.748701+00:00</updated>
+    <summary>Article by Tao Hong, Ming Hu
+DOI: https://doi.org/10.1515/ijdlg-2025-0002</summary>
   </entry>
   <entry>
-    <title>Artificial Intelligence Through the Lens of Metaphor: Analyzing the EU AIA</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0016/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0016</id>
-    <updated>2025-05-06T04:57:49.258615+00:00</updated>
-    <summary>Article by Zhanglei Ye, Jian Li
-DOI: https://doi.org/10.1515/ijdlg-2024-0016</summary>
+    <title>Privacy Protection on Social Media Platforms: Overdisclosure of Online Behavioral Data is Labeling Users</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0001/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0001</id>
+    <updated>2025-09-19T13:44:08.748717+00:00</updated>
+    <summary>Article by Le Cheng, Yijin Guo
+DOI: https://doi.org/10.1515/ijdlg-2025-0001</summary>
   </entry>
   <entry>
-    <title>Tackling Hate Speech in the Digital Space: Germany’s Plans on an Act Against Digital Violence and its Impact on Ethno-Cultural Minorities</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0013/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0013</id>
-    <updated>2025-05-06T04:57:49.258631+00:00</updated>
-    <summary>Article by Kyriaki Topidi, Moritz Malkmus
-DOI: https://doi.org/10.1515/ijdlg-2024-0013</summary>
+    <title>Charting the Landscape of Artificial Intelligence Ethics: A Bibliometric Analysis</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0007/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0007</id>
+    <updated>2025-09-19T13:44:08.748723+00:00</updated>
+    <summary>Article by Jiaxuan Qiu, Le Cheng, Jin Huang
+DOI: https://doi.org/10.1515/ijdlg-2025-0007</summary>
   </entry>
   <entry>
-    <title>Data Transactions in China: Legislation, Promotion, and Regulation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0018/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0018</id>
-    <updated>2025-05-06T04:57:49.258642+00:00</updated>
-    <summary>Article by Li Yang, Jieren Hu
-DOI: https://doi.org/10.1515/ijdlg-2024-0018</summary>
+    <title>The Alignment of Values: Embedding Human Dignity in Algorithmic Bias Governance for the AGI Era</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0006/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0006</id>
+    <updated>2025-09-19T13:44:08.748729+00:00</updated>
+    <summary>Article by Yilin Zhao, Zeshen Ren
+DOI: https://doi.org/10.1515/ijdlg-2025-0006</summary>
   </entry>
   <entry>
-    <title>Sergio Maruenda-Bataller, Laura Mercé and Elena Castellano-Ortolà:Discourse, Gender, and Violence: Insights from News and Social Media Texts</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2024-0014/html"/>
-    <id>https://doi.org/10.1515/ijdlg-2024-0014</id>
-    <updated>2025-05-06T04:57:49.258650+00:00</updated>
-    <summary>Article by Anne Wagner
-DOI: https://doi.org/10.1515/ijdlg-2024-0014</summary>
+    <title>Navigating the Ethical Landscape of AI Innovation: Challenges and Opportunities</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0005/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0005</id>
+    <updated>2025-09-19T13:44:08.748735+00:00</updated>
+    <summary>Article by Qiyan Mao, Ming Xu
+DOI: https://doi.org/10.1515/ijdlg-2025-0005</summary>
+  </entry>
+  <entry>
+    <title>Integration of Soft and Hard Laws: Profiling Legal Protection for “AI for All”</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/ijdlg-2025-0003/html"/>
+    <id>https://doi.org/10.1515/ijdlg-2025-0003</id>
+    <updated>2025-09-19T13:44:08.748748+00:00</updated>
+    <summary>Article by Yang Xiao, Xiaoxia Sun
+DOI: https://doi.org/10.1515/ijdlg-2025-0003</summary>
   </entry>
 </feed>

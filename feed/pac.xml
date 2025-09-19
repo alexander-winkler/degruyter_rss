@@ -1,42 +1,130 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Pure and Applied Chemistry</title>
-  <link href="https://www.degruyterbrill.com/journal/key/pac/97/7/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/pac/97/9/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pac.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/pac/html" rel="related"/>
-  <updated>2025-07-04T16:36:44.154071+00:00</updated>
+  <updated>2025-09-19T13:48:56.419072+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/pac.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Pure and Applied Chemistry</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-frontmatter6/html"/>
-    <id>https://doi.org/10.1515/pac-2025-frontmatter6</id>
-    <updated>2025-07-04T16:36:44.154088+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/pac-2025-frontmatter6</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-frontmatter9/html"/>
+    <id>https://doi.org/10.1515/pac-2025-frontmatter9</id>
+    <updated>2025-09-19T13:48:56.419093+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/pac-2025-frontmatter9</summary>
   </entry>
   <entry>
-    <title>Definitions and preferred symbols for mass diffusion coefficients in multicomponent fluid mixtures including electrolytes (IUPAC Technical Report)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0251/html"/>
-    <id>https://doi.org/10.1515/pac-2024-0251</id>
-    <updated>2025-07-04T16:36:44.154094+00:00</updated>
-    <summary>Article by Tobias Klein, Chathura J. Kankanamge, Thomas M. Koller, Michael H. Rausch, Andreas P. Fröba, Marc J. Assael, William A. Wakeham, Gabriela Guevara-Carrion, Jadran Vrabec
-DOI: https://doi.org/10.1515/pac-2024-0251</summary>
+    <title>Acid dissociation constants in selected dipolar non-hydrogen-bond-donor solvents (IUPAC Technical Report)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2024-0276/html"/>
+    <id>https://doi.org/10.1515/pac-2024-0276</id>
+    <updated>2025-09-19T13:48:56.419101+00:00</updated>
+    <summary>Article by Ivo Leito, Ivari Kaljurand, Mare Piirsalu, Sofja Tshepelevitsh, Jonathan Wenyuan Zheng, Martí Rosés, Jean-François Gal
+DOI: https://doi.org/10.1515/pac-2024-0276</summary>
   </entry>
   <entry>
-    <title>IUPAC/CITAC guide: interlaboratory comparison of categorical characteristics of a substance, material, or object (IUPAC Technical Report)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0408/html"/>
-    <id>https://doi.org/10.1515/pac-2025-0408</id>
-    <updated>2025-07-04T16:36:44.154101+00:00</updated>
-    <summary>Article by Ilya Kuselman, Tamar Gadrich, Francesca R. Pennecchi, D. Brynn Hibbert, Anastasia A. Semenova, Angelique Botha
-DOI: https://doi.org/10.1515/pac-2025-0408</summary>
+    <title>Introduction to the Special Issue of “The International Year of Quantum”</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0592/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0592</id>
+    <updated>2025-09-19T13:48:56.419110+00:00</updated>
+    <summary>Article by Russell Jaye Boyd, Manuel Yanez
+DOI: https://doi.org/10.1515/pac-2025-0592</summary>
   </entry>
   <entry>
-    <title>Highly sensitive and eco-friendly molecular imprinting technique for determination of albumin</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0419/html"/>
-    <id>https://doi.org/10.1515/pac-2025-0419</id>
-    <updated>2025-07-04T16:36:44.154106+00:00</updated>
-    <summary>Article by Nasori Nasori, Vinda Zakiyatuz Zulfa, Ulya Farahdina, Rini Khamimatul Ula
-DOI: https://doi.org/10.1515/pac-2025-0419</summary>
+    <title>Quantum chemistry of molecules in solution. A brief historical perspective</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0476/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0476</id>
+    <updated>2025-09-19T13:48:56.419117+00:00</updated>
+    <summary>Article by Manuel F. Ruiz-López
+DOI: https://doi.org/10.1515/pac-2025-0476</summary>
+  </entry>
+  <entry>
+    <title>From Hückel to Clar: a block-localized description of aromatic systems</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0495/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0495</id>
+    <updated>2025-09-19T13:48:56.419124+00:00</updated>
+    <summary>Article by Fabien Barrois, Yannick Carissan, Nicolas Goudard, Denis Hagebaum-Reignier, Stéphane Humbel
+DOI: https://doi.org/10.1515/pac-2025-0495</summary>
+  </entry>
+  <entry>
+    <title>Exploring potential energy surfaces</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0486/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0486</id>
+    <updated>2025-09-19T13:48:56.419131+00:00</updated>
+    <summary>Article by H. Bernhard Schlegel
+DOI: https://doi.org/10.1515/pac-2025-0486</summary>
+  </entry>
+  <entry>
+    <title>Unlocking the chemistry facilitated by enzymes that process nucleic acids using quantum mechanical and combined quantum mechanics–molecular mechanics techniques</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0507/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0507</id>
+    <updated>2025-09-19T13:48:56.419138+00:00</updated>
+    <summary>Article by Dylan J. Nikkel, Stacey D. Wetmore
+DOI: https://doi.org/10.1515/pac-2025-0507</summary>
+  </entry>
+  <entry>
+    <title>Hypothetical heterocyclic carbenes</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0472/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0472</id>
+    <updated>2025-09-19T13:48:56.419144+00:00</updated>
+    <summary>Article by Brian F. Yates
+DOI: https://doi.org/10.1515/pac-2025-0472</summary>
+  </entry>
+  <entry>
+    <title>Is relativistic quantum chemistry a good theory of everything?</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0460/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0460</id>
+    <updated>2025-09-19T13:48:56.419150+00:00</updated>
+    <summary>Article by Pekka Pyykkö
+DOI: https://doi.org/10.1515/pac-2025-0460</summary>
+  </entry>
+  <entry>
+    <title>When theory came first: a review of theoretical chemical predictions ahead of experiments</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0455/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0455</id>
+    <updated>2025-09-19T13:48:56.419157+00:00</updated>
+    <summary>Article by Mario Barbatti
+DOI: https://doi.org/10.1515/pac-2025-0455</summary>
+  </entry>
+  <entry>
+    <title>Exploring reaction dynamics involving post-transition state bifurcations based on quantum mechanical ambimodal transition states</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0462/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0462</id>
+    <updated>2025-09-19T13:48:56.419166+00:00</updated>
+    <summary>Article by Ching Ching Lam, Kendall N. Houk
+DOI: https://doi.org/10.1515/pac-2025-0462</summary>
+  </entry>
+  <entry>
+    <title>Molecular aromaticity: a quantum phenomenon</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0465/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0465</id>
+    <updated>2025-09-19T13:48:56.419172+00:00</updated>
+    <summary>Article by Miquel Solà, Dariusz W. Szczepanik
+DOI: https://doi.org/10.1515/pac-2025-0465</summary>
+  </entry>
+  <entry>
+    <title>Using topology for understanding your computational results</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0466/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0466</id>
+    <updated>2025-09-19T13:48:56.419178+00:00</updated>
+    <summary>Article by Ángel Martín Pendás, Julia Contreras-García
+DOI: https://doi.org/10.1515/pac-2025-0466</summary>
+  </entry>
+  <entry>
+    <title>The role of ion-pair on the olefin polymerization reactivity of zirconium bis(phenoxy-imine) catalyst: quantum mechanical study and its beyond</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0463/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0463</id>
+    <updated>2025-09-19T13:48:56.419185+00:00</updated>
+    <summary>Article by Soumen Saha, Kentaro Matsumoto, Masayoshi Takayanagi, Hirokazu Moriya, Nana Misawa, Nobuaki Koga, Masataka Nagaoka
+DOI: https://doi.org/10.1515/pac-2025-0463</summary>
+  </entry>
+  <entry>
+    <title>Theoretical insights on the structure and stability of the [C2, H3, P, O] isomeric family</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/pac-2025-0467/html"/>
+    <id>https://doi.org/10.1515/pac-2025-0467</id>
+    <updated>2025-09-19T13:48:56.419191+00:00</updated>
+    <summary>Article by Carmen Barrientos, Miguel Sanz-Novo, Clara Isabel Sánchez, Antonio Largo, Pilar Redondo
+DOI: https://doi.org/10.1515/pac-2025-0467</summary>
   </entry>
 </feed>

@@ -1,50 +1,50 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Journal of Numerical Mathematics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/jnma/33/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/jnma/33/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnma.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/jnma/html" rel="related"/>
-  <updated>2025-05-29T04:58:48.506955+00:00</updated>
+  <updated>2025-09-19T13:46:09.383428+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/jnma.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Journal of Numerical Mathematics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/jnma-2025-frontmatter2</id>
-    <updated>2025-05-29T04:58:48.506984+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/jnma-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/jnma-2025-frontmatter3</id>
+    <updated>2025-09-19T13:46:09.383467+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/jnma-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Effective highly accurate time integrators for linear Klein–Gordon equations across the scales</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0070/html"/>
-    <id>https://doi.org/10.1515/jnma-2023-0070</id>
-    <updated>2025-05-29T04:58:48.506991+00:00</updated>
-    <summary>Article by Karolina Kropielnicka, Karolina Lademann, Katharina Schratz
-DOI: https://doi.org/10.1515/jnma-2023-0070</summary>
+    <title>A subspace framework forL∞model reduction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0115/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0115</id>
+    <updated>2025-09-19T13:46:09.383477+00:00</updated>
+    <summary>Article by Emre Mengi
+DOI: https://doi.org/10.1515/jnma-2023-0115</summary>
   </entry>
   <entry>
-    <title>Optimal complexity of goal-oriented adaptive FEM for nonsymmetric linear elliptic PDEs</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0150/html"/>
-    <id>https://doi.org/10.1515/jnma-2023-0150</id>
-    <updated>2025-05-29T04:58:48.506998+00:00</updated>
-    <summary>Article by Philipp Bringmann, Maximilian Brunner, Dirk Praetorius, Julian Streitberger
-DOI: https://doi.org/10.1515/jnma-2023-0150</summary>
+    <title>Long time behavior of the field–road diffusion model: an entropy method and a finite volume scheme</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0137/html"/>
+    <id>https://doi.org/10.1515/jnma-2023-0137</id>
+    <updated>2025-09-19T13:46:09.383487+00:00</updated>
+    <summary>Article by Matthieu Alfaro, Claire Chainais-Hillairet
+DOI: https://doi.org/10.1515/jnma-2023-0137</summary>
   </entry>
   <entry>
-    <title>Stability and error analysis of a semi-implicit scheme for incompressible flows with variable density and viscosity</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2024-0033/html"/>
-    <id>https://doi.org/10.1515/jnma-2024-0033</id>
-    <updated>2025-05-29T04:58:48.507008+00:00</updated>
-    <summary>Article by An Vu, Loic Cappanera
-DOI: https://doi.org/10.1515/jnma-2024-0033</summary>
+    <title>A medius error analysis for the conforming discontinuous Galerkin finite element methods</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2024-0005/html"/>
+    <id>https://doi.org/10.1515/jnma-2024-0005</id>
+    <updated>2025-09-19T13:46:09.383495+00:00</updated>
+    <summary>Article by Yuping Zeng, Shangyou Zhang
+DOI: https://doi.org/10.1515/jnma-2024-0005</summary>
   </entry>
   <entry>
-    <title>Error analysis of virtual element method for the Poisson–Boltzmann equation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2023-0085/html"/>
-    <id>https://doi.org/10.1515/jnma-2023-0085</id>
-    <updated>2025-05-29T04:58:48.507013+00:00</updated>
-    <summary>Article by Linghan Huang, Shi Shu, Ying Yang
-DOI: https://doi.org/10.1515/jnma-2023-0085</summary>
+    <title>A Robin–Robin strongly coupled partitioned method for fluid–poroelastic structure interaction</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/jnma-2024-0057/html"/>
+    <id>https://doi.org/10.1515/jnma-2024-0057</id>
+    <updated>2025-09-19T13:46:09.383503+00:00</updated>
+    <summary>Article by Connor Parrow, Martina Bukač
+DOI: https://doi.org/10.1515/jnma-2024-0057</summary>
   </entry>
 </feed>

@@ -1,82 +1,74 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Random Operators and Stochastic Equations</title>
-  <link href="https://www.degruyterbrill.com/journal/key/rose/33/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/rose/33/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/rose/html" rel="related"/>
-  <updated>2025-05-29T05:02:46.151346+00:00</updated>
+  <updated>2025-09-19T13:50:30.418849+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/rose.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Random Operators and Stochastic Equations</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/rose-2025-frontmatter2</id>
-    <updated>2025-05-29T05:02:46.151377+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/rose-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/rose-2025-frontmatter3</id>
+    <updated>2025-09-19T13:50:30.418878+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/rose-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>On nonlocal PDEs with small equipollent parameters</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2004/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2004</id>
-    <updated>2025-05-29T05:02:46.151394+00:00</updated>
-    <summary>Article by Alioune Coulibaly
-DOI: https://doi.org/10.1515/rose-2025-2004</summary>
+    <title>Truncated Euler–Maruyama approximation for solving perturbed stochastic differential equations with reflected boundary</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2011/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2011</id>
+    <updated>2025-09-19T13:50:30.418889+00:00</updated>
+    <summary>Article by Faiz Bahaj, Kamal Hiderah
+DOI: https://doi.org/10.1515/rose-2025-2011</summary>
   </entry>
   <entry>
-    <title>Extended two-tailed Lindley distribution: An updated model based on the Lindley distribution</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2005/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2005</id>
-    <updated>2025-05-29T05:02:46.151405+00:00</updated>
-    <summary>Article by C. Satheesh Kumar, Rosmi Jose
-DOI: https://doi.org/10.1515/rose-2025-2005</summary>
+    <title>Nonparametric local linear estimation of the conditional distribution for functional and censored data</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2014/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2014</id>
+    <updated>2025-09-19T13:50:30.418898+00:00</updated>
+    <summary>Article by Abdelmalek Gagui, Abdelhak Chouaf
+DOI: https://doi.org/10.1515/rose-2025-2014</summary>
   </entry>
   <entry>
-    <title>On mixtures of bivariate generalized hypergeometric factorial moment distributions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2006/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2006</id>
-    <updated>2025-05-29T05:02:46.151413+00:00</updated>
-    <summary>Article by C. Satheesh Kumar, S. Nikhil Chandra
-DOI: https://doi.org/10.1515/rose-2025-2006</summary>
+    <title>On RBSDELs with time-delayed generators and RCLL obstacle</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2015/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2015</id>
+    <updated>2025-09-19T13:50:30.418906+00:00</updated>
+    <summary>Article by Mohamed El Jamali
+DOI: https://doi.org/10.1515/rose-2025-2015</summary>
   </entry>
   <entry>
-    <title>Stochastic Sumudu transform and its applications for solving stochastic differential equations</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2007/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2007</id>
-    <updated>2025-05-29T05:02:46.151423+00:00</updated>
-    <summary>Article by Mohsen Alhassoun, Khalil Yahya, Mohammed Amer, Ahmed M. Abdallah
-DOI: https://doi.org/10.1515/rose-2025-2007</summary>
+    <title>Stochastic integral for non-adapted processes with respect to the Rosenblatt process</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2016/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2016</id>
+    <updated>2025-09-19T13:50:30.418917+00:00</updated>
+    <summary>Article by Sakina Benkaddour, Abdeldjebber Kandouci, Omar Kebiri
+DOI: https://doi.org/10.1515/rose-2025-2016</summary>
   </entry>
   <entry>
-    <title>On the existence and uniqueness of solutions to natural equations with non-Lipschitz conditions</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2008/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2008</id>
-    <updated>2025-05-29T05:02:46.151431+00:00</updated>
-    <summary>Article by Elias Taki Eddine Mohammed Chikouche, Fatima Benziadi, Tomás Caraballo, Abdeldjebbar Kandouci
-DOI: https://doi.org/10.1515/rose-2025-2008</summary>
+    <title>A note on Euler approximations for stochastic differential equations involving the local time at point zero</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2017/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2017</id>
+    <updated>2025-09-19T13:50:30.418925+00:00</updated>
+    <summary>Article by Kamal Hiderah
+DOI: https://doi.org/10.1515/rose-2025-2017</summary>
   </entry>
   <entry>
-    <title>The global elliptic law, sand clock density andV-law. 40 years of theG-elliptic law</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2009/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2009</id>
-    <updated>2025-05-29T05:02:46.151440+00:00</updated>
-    <summary>Article by Vyacheslav L. Girko
-DOI: https://doi.org/10.1515/rose-2025-2009</summary>
+    <title>A formula for the density of local time of the Brox diffusion in a time-window</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2018/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2018</id>
+    <updated>2025-09-19T13:50:30.418932+00:00</updated>
+    <summary>Article by Jonathan Gutierrez-Pavón, Carlos G. Pacheco
+DOI: https://doi.org/10.1515/rose-2025-2018</summary>
   </entry>
   <entry>
-    <title>Backward stochastic differential equations with time-delayed generators and integrable parameters</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2010/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2010</id>
-    <updated>2025-05-29T05:02:46.151448+00:00</updated>
-    <summary>Article by Auguste Aman, Yong Ren
-DOI: https://doi.org/10.1515/rose-2025-2010</summary>
-  </entry>
-  <entry>
-    <title>Euler–Maruyama schemes for Caputo stochastic fractional delay differential equations</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2013/html"/>
-    <id>https://doi.org/10.1515/rose-2025-2013</id>
-    <updated>2025-05-29T05:02:46.151456+00:00</updated>
-    <summary>Article by Phan Thi Huong
-DOI: https://doi.org/10.1515/rose-2025-2013</summary>
+    <title>Controllability of neutral stochastic integro-differential evolution equations driven by a fractional Brownian motion with Hurst parameter lesser than 1/2</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/rose-2025-2019/html"/>
+    <id>https://doi.org/10.1515/rose-2025-2019</id>
+    <updated>2025-09-19T13:50:30.418941+00:00</updated>
+    <summary>Article by Ahmed Lahmoudi, Salah Hajji, El Hassan Lakhel
+DOI: https://doi.org/10.1515/rose-2025-2019</summary>
   </entry>
 </feed>

@@ -1,130 +1,162 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Advances in Laboratory Medicine / Avances en Medicina de Laboratorio </title>
-  <link href="https://www.degruyterbrill.com/journal/key/almed/6/2/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/almed/6/3/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/almed.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/almed/html" rel="related"/>
-  <updated>2025-05-23T19:30:46.775272+00:00</updated>
+  <updated>2025-09-19T13:39:29.711952+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/almed.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Advances in Laboratory Medicine / Avances en Medicina de Laboratorio </subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-frontmatter2/html"/>
-    <id>https://doi.org/10.1515/almed-2025-frontmatter2</id>
-    <updated>2025-05-23T19:30:46.775293+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/almed-2025-frontmatter2</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-frontmatter3/html"/>
+    <id>https://doi.org/10.1515/almed-2025-frontmatter3</id>
+    <updated>2025-09-19T13:39:29.711981+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/almed-2025-frontmatter3</summary>
   </entry>
   <entry>
-    <title>Implementation of circulating cell-free DNA screening for fetal aneuploidies</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0055/html"/>
-    <id>https://doi.org/10.1515/almed-2025-0055</id>
-    <updated>2025-05-23T19:30:46.775301+00:00</updated>
-    <summary>Article by Irene Madrigal Bajo, Meritxell Jodar Bifet, Celia Badenas Orquin
-DOI: https://doi.org/10.1515/almed-2025-0055</summary>
+    <title>Liquid biopsy: a step forward in laboratory medicine</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0116/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0116</id>
+    <updated>2025-09-19T13:39:29.711990+00:00</updated>
+    <summary>Article by Angel Díaz-Lagares, Wladimiro Jiménez
+DOI: https://doi.org/10.1515/almed-2025-0116</summary>
   </entry>
   <entry>
-    <title>Implementación del ADN libre circulante para la detección de aneuploidías fetales</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0110/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0110</id>
-    <updated>2025-05-23T19:30:46.775314+00:00</updated>
-    <summary>Article by Irene Madrigal Bajo, Meritxell Jodar Bifet, Celia Badenas Orquin
-DOI: https://doi.org/10.1515/almed-2024-0110</summary>
+    <title>Biopsia líquida: Un paso adelante en la medicina de laboratorio</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0117/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0117</id>
+    <updated>2025-09-19T13:39:29.712000+00:00</updated>
+    <summary>Article by Angel Díaz-Lagares, Wladimiro Jiménez
+DOI: https://doi.org/10.1515/almed-2025-0117</summary>
   </entry>
   <entry>
-    <title>Data science applied to the assessment of biological variation estimates</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0042/html"/>
-    <id>https://doi.org/10.1515/almed-2025-0042</id>
-    <updated>2025-05-23T19:30:46.775321+00:00</updated>
-    <summary>Article by Fernando Marques-Garcia, Ana Nieto-Librero, Nerea Gonzalez-García, Xavier Tejedor-Ganduxé, Cristina Martinez-Bravo
-DOI: https://doi.org/10.1515/almed-2025-0042</summary>
+    <title>Integrating ctDNA testing forEGFRanalysis in advanced non-small cell lung cancer: strategies for clinical laboratories</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0012/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0012</id>
+    <updated>2025-09-19T13:39:29.712009+00:00</updated>
+    <summary>Article by Esther Fernández-Galán, Joan Anton Puig-Butillé
+DOI: https://doi.org/10.1515/almed-2025-0012</summary>
   </entry>
   <entry>
-    <title>Ciencia de datos aplicada a la obtención de estimados de variación biológica</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0163/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0163</id>
-    <updated>2025-05-23T19:30:46.775329+00:00</updated>
-    <summary>Article by Fernando Marques-Garcia, Ana Nieto-Librero, Nerea Gonzalez-García, Xavier Tejedor-Ganduxé, Cristina Martinez-Bravo
-DOI: https://doi.org/10.1515/almed-2024-0163</summary>
+    <title>La integración de la prueba de ctDNA en el análisis deEGFRen el carcinoma pulmonar no microcítico: estrategias para el laboratorio clínico</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0092/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0092</id>
+    <updated>2025-09-19T13:39:29.712017+00:00</updated>
+    <summary>Article by Esther Fernández-Galán, Joan Anton Puig-Butillé
+DOI: https://doi.org/10.1515/almed-2025-0092</summary>
   </entry>
   <entry>
-    <title>How to handle lipemic CBC samples on Sysmex hematology analyzers?</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0206/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0206</id>
-    <updated>2025-05-23T19:30:46.775336+00:00</updated>
-    <summary>Article by Vanja Radišić Biljak, Lucija Dolovčak, Iva Bakarić, Ana Nikler, Andrea Saračević, Marija Grdić Rajković
-DOI: https://doi.org/10.1515/almed-2024-0206</summary>
+    <title>Circulating tumor DNA in patients with cancer: insights from clinical laboratory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0010/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0010</id>
+    <updated>2025-09-19T13:39:29.712023+00:00</updated>
+    <summary>Article by Francisco J. Illana, Esther Fernández-Galán, José Luis Muñoz-Bravo, Laura Valiña Amado, Carme García Martín, Carolina González-Fernández, Sílvia Miró-Cañís, Jaume Trapé, Antonio Martínez-Peinado, Xavier Filella, Alvaro González, Antonio Barco Sánchez, Angel Díaz-Lagares, On behalf of the Commission on Biological Markers of Cancer of the Spanish Society of Laboratory Medicine
+DOI: https://doi.org/10.1515/almed-2025-0010</summary>
   </entry>
   <entry>
-    <title>Cómo manejar las muestras lipémicas para realización de contaje de células sanguíneas (CBC) en los analizadores hematológicos Sysmex</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0037/html"/>
-    <id>https://doi.org/10.1515/almed-2025-0037</id>
-    <updated>2025-05-23T19:30:46.775345+00:00</updated>
-    <summary>Article by Vanja Radišić Biljak, Lucija Dolovčak, Iva Bakarić, Ana Nikler, Andrea Saračević, Marija Grdić Rajković
-DOI: https://doi.org/10.1515/almed-2025-0037</summary>
+    <title>ADN tumoral circulante en pacientes con cáncer: perspectivas desde el laboratorio clínico</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0093/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0093</id>
+    <updated>2025-09-19T13:39:29.712034+00:00</updated>
+    <summary>Article by Francisco J. Illana, Esther Fernández-Galán, José Luis Muñoz-Bravo, Laura Valiña Amado, Carme García Martín, Carolina González-Fernández, Sílvia Miró-Cañís, Jaume Trapé, Antonio Martínez-Peinado, Xavier Filella, Alvaro González, Antonio Barco Sánchez, Angel Díaz-Lagares, en nombre de la Comisión de Marcadores Biológicos del Cáncer de la Sociedad Española de Medicina de Laboratorio
+DOI: https://doi.org/10.1515/almed-2025-0093</summary>
   </entry>
   <entry>
-    <title>Use of artificial intelligence to assess genetic predisposition to develop critical COVID-19 disease: a comparative study of machine learning models</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0073/html"/>
-    <id>https://doi.org/10.1515/almed-2025-0073</id>
-    <updated>2025-05-23T19:30:46.775355+00:00</updated>
-    <summary>Article by Salomón Martín Pérez, Flora Sanchez Jimenez, Sandra Fuentes Cantero, Marta Jímenez Barragan, Catalina Sanchez Mora, Juan M. Borreguero Leon, Arrobas Velilla Teresa, Agustín Valido Morales, Juan A. Delgado Torralbo, Antonio León Justel
-DOI: https://doi.org/10.1515/almed-2025-0073</summary>
+    <title>BRAF V600Eliquid biopsy-based detection in precision oncology</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0110/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0110</id>
+    <updated>2025-09-19T13:39:29.712043+00:00</updated>
+    <summary>Article by Gabriela R. Mendeluk, Verónica A. Alonso
+DOI: https://doi.org/10.1515/almed-2025-0110</summary>
   </entry>
   <entry>
-    <title>Uso de inteligencia artificial en la predisposición genética a enfermedad crítica por COVID-19: evaluación comparativa de modelos de aprendizaje automático</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0129/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0129</id>
-    <updated>2025-05-23T19:30:46.775364+00:00</updated>
-    <summary>Article by Salomon Martin Perez, Flora Sanchez Jimenez, Sandra Fuentes Cantero, Marta Jímenez Barragan, Catalina Sanchez Mora, Juan M. Borreguero Leon, Teresa Arrobas Velilla, Agustín Valido Morales, Juan A. Delgado Torralbo, Antonio León-Justel
-DOI: https://doi.org/10.1515/almed-2024-0129</summary>
+    <title>Determinación deBRAF V600Epor biopsia líquida en oncología de precisión</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0167/html"/>
+    <id>https://doi.org/10.1515/almed-2024-0167</id>
+    <updated>2025-09-19T13:39:29.712050+00:00</updated>
+    <summary>Article by Verónica A. Alonso, Gabriela R. Mendeluk
+DOI: https://doi.org/10.1515/almed-2024-0167</summary>
   </entry>
   <entry>
-    <title>Use of external quality assessment in extra-analytical phases in clinical laboratories in Spain: a survey by the Spanish Society of Laboratory Medicine (SEQCML)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0067/html"/>
-    <id>https://doi.org/10.1515/almed-2025-0067</id>
-    <updated>2025-05-23T19:30:46.775372+00:00</updated>
-    <summary>Article by Andrea Caballero Garralda, Immaculada Comas Reixach, Carlos García Miralles, Rubén Gómez Rioja, María Antonia Llopis Díaz, Débora Martínez Espartosa, Reyes Nicolás de Blas, Mariona Panadès Turró, Laura Puigví Fernández, Laura Rodelgo Jiménez, Berta Sufrate-Vergara, Emma Ventura Orriols
-DOI: https://doi.org/10.1515/almed-2025-0067</summary>
+    <title>Detection ofChlamydia trachomatis ompADNA in urine by loop-mediated isothermal amplification (LAMP) assay</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0117/html"/>
+    <id>https://doi.org/10.1515/almed-2024-0117</id>
+    <updated>2025-09-19T13:39:29.712062+00:00</updated>
+    <summary>Article by Hemali Attanayake, Charitha Goonasekara, Nalaka Abeygunasekera, Jayanthi Elvitigala, Kamani Mangalika Gunasekera
+DOI: https://doi.org/10.1515/almed-2024-0117</summary>
   </entry>
   <entry>
-    <title>Uso de la evaluación externa de la calidad en las fases extraanalíticas de los laboratorios clínicos españoles: una encuesta de la Sociedad Española de Medicina de Laboratorio (SEQCML)</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0160/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0160</id>
-    <updated>2025-05-23T19:30:46.775381+00:00</updated>
-    <summary>Article by Andrea Caballero Garralda, Immaculada Comas Reixach, Carlos García Miralles, Rubén Gómez Rioja, María Antonia Llopis Díaz, Débora Martínez Espartosa, Reyes Nicolás de Blas, Mariona Panadès Turró, Laura Puigví Fernández, Laura Rodelgo Jiménez, Berta Sufrate-Vergara, Emma Ventura Orriols
-DOI: https://doi.org/10.1515/almed-2024-0160</summary>
+    <title>Detección de ADN del genompAdeChlamydia trachomatisen orina mediante amplificación isotérmica mediada por bucle (LAMP)</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0061/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0061</id>
+    <updated>2025-09-19T13:39:29.712069+00:00</updated>
+    <summary>Article by Hemali Attanayake, Charitha Goonasekara, Nalaka Abeygunasekera, Jayanthi Elvitigala, Kamani Mangalika Gunasekera
+DOI: https://doi.org/10.1515/almed-2025-0061</summary>
   </entry>
   <entry>
-    <title>Diagnosis of hemogobinopathies in the clinical laboratory: an occult Hofu hemoglobin on HPLC</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0175/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0175</id>
-    <updated>2025-05-23T19:30:46.775389+00:00</updated>
-    <summary>Article by Maitane Echeverría Urroz, Ana Isabel López Delgado, Raquel Oliveros Conejero, David Álvarez Nistal
-DOI: https://doi.org/10.1515/almed-2024-0175</summary>
+    <title>Impact of six sigma estimated using the Schmidt-Launsbyn vs. the Westgard equation in the Spanish type I EQA program</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0091/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0091</id>
+    <updated>2025-09-19T13:39:29.712076+00:00</updated>
+    <summary>Article by Fernando Marqués-García, Elisabeth González-Lao, Xavier Tejedor-Ganduxé, Beatriz Boned, Jorge Díaz-Garzón, Margarida Simón, Jose Vicente García-Lario, Carme Perich, María Pilar Fernández-Fernández, Luisa María Martínez-Sánchez, María Muñoz-Calero, Ricardo González-Tarancón, Pilar Fernández-Calle
+DOI: https://doi.org/10.1515/almed-2025-0091</summary>
   </entry>
   <entry>
-    <title>Diagnóstico de hemoglobinopatías en el laboratorio clínico: hallazgo de una hemoglobina hofu oculta en HPLC</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0081/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0081</id>
-    <updated>2025-05-23T19:30:46.775399+00:00</updated>
-    <summary>Article by Maitane Echeverría Urroz, Ana Isabel López Delgado, Raquel Oliveros Conejero, David Álvarez Nistal
-DOI: https://doi.org/10.1515/almed-2024-0081</summary>
+    <title>Impacto del cálculo del valor seis sigma utilizando la ecuación de Schmidt-Launsbyn vs. la ecuación de Westgard en el programa español EQA tipo I</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0209/html"/>
+    <id>https://doi.org/10.1515/almed-2024-0209</id>
+    <updated>2025-09-19T13:39:29.712085+00:00</updated>
+    <summary>Article by Fernando Marqués-García, Elisabeth González-Lao, Xavier Tejedor-Ganduxé, Beatriz Boned, Jorge Díaz-Garzón, Margarida Simón, Jose Vicente García-Lario, Carme Perich, María Pilar Fernández-Fernández, Luisa María Martínez-Sánchez, María Muñoz-Calero, Ricardo González-Tarancón, Pilar Fernández-Calle
+DOI: https://doi.org/10.1515/almed-2024-0209</summary>
   </entry>
   <entry>
-    <title>Biomarker repurposing: opportunities and challenges in the evolving field of laboratory medicine</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0158/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0158</id>
-    <updated>2025-05-23T19:30:46.775407+00:00</updated>
-    <summary>Article by Damien Gruson, Nassiba Menghoun, Anne-Catherine Pouleur, Antoni Bayes Genis
-DOI: https://doi.org/10.1515/almed-2024-0158</summary>
+    <title>Evaluation of urine albumin-to-creatinine ratio analysis using strip test as a screening method for urinary albumin determination in primary care</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0068/html"/>
+    <id>https://doi.org/10.1515/almed-2024-0068</id>
+    <updated>2025-09-19T13:39:29.712094+00:00</updated>
+    <summary>Article by Paula Liébanas García, Silvia Montolio Breva, Teresa Sans Mateu
+DOI: https://doi.org/10.1515/almed-2024-0068</summary>
   </entry>
   <entry>
-    <title>La reutilización de biomarcadores para otros fines: oportunidades y dificultades en el cambiante campo de la medicina de laboratorio</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0196/html"/>
-    <id>https://doi.org/10.1515/almed-2024-0196</id>
-    <updated>2025-05-23T19:30:46.775414+00:00</updated>
-    <summary>Article by Damien Gruson, Nassiba Menghoun, Anne-Catherine Pouleur, Antoni Bayes Genis
-DOI: https://doi.org/10.1515/almed-2024-0196</summary>
+    <title>Evaluación del análisis de la relación albúmina-creatinina mediante tira reactiva como método de cribado para la determinación de albúmina en orina en atención primaria</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0102/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0102</id>
+    <updated>2025-09-19T13:39:29.712102+00:00</updated>
+    <summary>Article by Paula Liébanas García, Silvia Montolio Breva, Teresa Sans Mateu
+DOI: https://doi.org/10.1515/almed-2025-0102</summary>
+  </entry>
+  <entry>
+    <title>Real-time immunophenotypic shifts in pediatric B lymphoblastic leukemia providing implications for minimal residual disease detection</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2024-0202/html"/>
+    <id>https://doi.org/10.1515/almed-2024-0202</id>
+    <updated>2025-09-19T13:39:29.712109+00:00</updated>
+    <summary>Article by Omer Javed, Neelum Mansoor, Naeem Jabbar, Hamza Khan, Talha Israr, Sidra Maqsood, Saba Jamal, Fatima Meraj
+DOI: https://doi.org/10.1515/almed-2024-0202</summary>
+  </entry>
+  <entry>
+    <title>Los cambios inmunofenotípicos en tiempo real en la leucemia linfoblástica pediátrica de tipo B tienen implicaciones para la detección de la enfermedad mínima residual</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0104/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0104</id>
+    <updated>2025-09-19T13:39:29.712114+00:00</updated>
+    <summary>Article by Omer Javed, Neelum Mansoor, Naeem Jabbar, Hamza Khan, Talha Israr, Sidra Maqsood, Saba Jamal, Fatima Meraj
+DOI: https://doi.org/10.1515/almed-2025-0104</summary>
+  </entry>
+  <entry>
+    <title>Adjusting natriuretic peptide decision limits for BMI for a more personalized diagnosis of heart failure</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0020/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0020</id>
+    <updated>2025-09-19T13:39:29.712120+00:00</updated>
+    <summary>Article by Damien Gruson, Sergio Bernardini, Marco Perrone
+DOI: https://doi.org/10.1515/almed-2025-0020</summary>
+  </entry>
+  <entry>
+    <title>Necesidad de ajustar al IMC los valores límite de los péptidos natriuréticos para un diagnóstico más personalizado de la insuficiencia cardíaca</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/almed-2025-0060/html"/>
+    <id>https://doi.org/10.1515/almed-2025-0060</id>
+    <updated>2025-09-19T13:39:29.712127+00:00</updated>
+    <summary>Article by Damien Gruson, Sergio Bernardini, Marco Perrone
+DOI: https://doi.org/10.1515/almed-2025-0060</summary>
   </entry>
 </feed>

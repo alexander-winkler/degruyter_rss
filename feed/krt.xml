@@ -1,74 +1,58 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>KRITERION – Journal of Philosophy</title>
-  <link href="https://www.degruyterbrill.com/journal/key/krt/38/3-4/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/krt/39/1-2/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/krt.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/krt/html" rel="related"/>
-  <updated>2025-05-06T05:01:12.711035+00:00</updated>
+  <updated>2025-09-19T13:46:57.413172+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/krt.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in KRITERION – Journal of Philosophy</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-frontmatter3-4/html"/>
-    <id>https://doi.org/10.1515/krt-2024-frontmatter3-4</id>
-    <updated>2025-05-06T05:01:12.711053+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/krt-2024-frontmatter3-4</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2025-frontmatter1-2/html"/>
+    <id>https://doi.org/10.1515/krt-2025-frontmatter1-2</id>
+    <updated>2025-09-19T13:46:57.413200+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/krt-2025-frontmatter1-2</summary>
   </entry>
   <entry>
-    <title>The Duty of the Highest Good and the Ethical Community in Kant</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0010/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0010</id>
-    <updated>2025-05-06T05:01:12.711059+00:00</updated>
-    <summary>Article by Neşe Aksoy
-DOI: https://doi.org/10.1515/krt-2024-0010</summary>
+    <title>More than a Decade in the Set-Theoretic Multiverse</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2025-0032/html"/>
+    <id>https://doi.org/10.1515/krt-2025-0032</id>
+    <updated>2025-09-19T13:46:57.413211+00:00</updated>
+    <summary>Article by Matteo de Ceglie
+DOI: https://doi.org/10.1515/krt-2025-0032</summary>
   </entry>
   <entry>
-    <title>Intuitions as Arrows. Moral Knowledge and Kantian Schematism</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0003/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0003</id>
-    <updated>2025-05-06T05:01:12.711065+00:00</updated>
-    <summary>Article by Mario Graziano
-DOI: https://doi.org/10.1515/krt-2024-0003</summary>
+    <title>Every Countable Model of Arithmetic or Set Theory has a Pointwise-Definable End Extension</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2023-0029/html"/>
+    <id>https://doi.org/10.1515/krt-2023-0029</id>
+    <updated>2025-09-19T13:46:57.413222+00:00</updated>
+    <summary>Article by Joel David Hamkins
+DOI: https://doi.org/10.1515/krt-2023-0029</summary>
   </entry>
   <entry>
-    <title>Branching Time, Fatalism, and Possibilities</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0024/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0024</id>
-    <updated>2025-05-06T05:01:12.711070+00:00</updated>
-    <summary>Article by Giacomo Andreoletti
-DOI: https://doi.org/10.1515/krt-2024-0024</summary>
+    <title>The Multiverse View and Set-Theoretic Practice</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0001/html"/>
+    <id>https://doi.org/10.1515/krt-2024-0001</id>
+    <updated>2025-09-19T13:46:57.413230+00:00</updated>
+    <summary>Article by Deborah Kant
+DOI: https://doi.org/10.1515/krt-2024-0001</summary>
   </entry>
   <entry>
-    <title>Vague Disagreements: Vagueness Without Arbitrary Stipulation</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0016/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0016</id>
-    <updated>2025-05-06T05:01:12.711075+00:00</updated>
-    <summary>Article by Elsa Magnell
-DOI: https://doi.org/10.1515/krt-2024-0016</summary>
+    <title>Measurement in Set Theory</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2023-0013/html"/>
+    <id>https://doi.org/10.1515/krt-2023-0013</id>
+    <updated>2025-09-19T13:46:57.413238+00:00</updated>
+    <summary>Article by Shoshana Friedman, Sheila K. Miller Edwards
+DOI: https://doi.org/10.1515/krt-2023-0013</summary>
   </entry>
   <entry>
-    <title>Conference Report: Probabilistic Reasoning in the Sciences, 29–31 August 2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0039/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0039</id>
-    <updated>2025-05-06T05:01:12.711079+00:00</updated>
-    <summary>Article by Matteo Michelini
-DOI: https://doi.org/10.1515/krt-2024-0039</summary>
-  </entry>
-  <entry>
-    <title>Conference Report: The Fifth Conference of the East European Network for Philosophy of Science, 9-10 September, Kraków</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0046/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0046</id>
-    <updated>2025-05-06T05:01:12.711084+00:00</updated>
-    <summary>Article by Ewa Grzeszczak
-DOI: https://doi.org/10.1515/krt-2024-0046</summary>
-  </entry>
-  <entry>
-    <title>Conference Report: SOPhiA 2024</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2024-0044/html"/>
-    <id>https://doi.org/10.1515/krt-2024-0044</id>
-    <updated>2025-05-06T05:01:12.711088+00:00</updated>
-    <summary>Article by Sarah Fischbacher
-DOI: https://doi.org/10.1515/krt-2024-0044</summary>
+    <title>Petrification in Contemporary Set Theory: The Multiverse and the Later Wittgenstein</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/krt-2023-0016/html"/>
+    <id>https://doi.org/10.1515/krt-2023-0016</id>
+    <updated>2025-09-19T13:46:57.413247+00:00</updated>
+    <summary>Article by José Antonio Pérez-Escobar, Colin Jakob Rittberg, Deniz Sarikaya
+DOI: https://doi.org/10.1515/krt-2023-0016</summary>
   </entry>
 </feed>

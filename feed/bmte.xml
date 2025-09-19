@@ -1,90 +1,18 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Biomedical Engineering / Biomedizinische Technik </title>
-  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/4/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/bmte/70/s1/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/bmte/html" rel="related"/>
-  <updated>2025-08-07T15:00:02.831371+00:00</updated>
+  <updated>2025-09-19T13:40:30.677197+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/bmte.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Biomedical Engineering / Biomedizinische Technik </subtitle>
   <entry>
-    <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-frontmatter4/html"/>
-    <id>https://doi.org/10.1515/bmt-2025-frontmatter4</id>
-    <updated>2025-08-07T15:00:02.831393+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/bmt-2025-frontmatter4</summary>
-  </entry>
-  <entry>
-    <title>Design and optimization of a high-definition transcranial electrical stimulation device with envelope wave</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0284/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0284</id>
-    <updated>2025-08-07T15:00:02.831401+00:00</updated>
-    <summary>Article by Renling Zou, Linpeng Jin, Yuhao Liu, Liang Zhao, Li Cao, Xiufang Hu, Xuezhi Yin
-DOI: https://doi.org/10.1515/bmt-2024-0284</summary>
-  </entry>
-  <entry>
-    <title>Free gas micro-/nano-bubble water: a novel dispersion system to prepare ultrasound imaging vehicles</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0280/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0280</id>
-    <updated>2025-08-07T15:00:02.831409+00:00</updated>
-    <summary>Article by Lu Jin, Zhen Yang, Xu Wang, Shixiao Wan, Huanhuan Zhao, Ying Zhang, Juan Jin, Jilai Tian
-DOI: https://doi.org/10.1515/bmt-2024-0280</summary>
-  </entry>
-  <entry>
-    <title>MEMS-based narrow-bandwidth magnetic field sensors: preliminary assessment of prototypes regarding coercivity, remanence, and sensitivity</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0415/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0415</id>
-    <updated>2025-08-07T15:00:02.831415+00:00</updated>
-    <summary>Article by Negar Ziehm, Johan Arbustini, Eric Elzenheimer, Mohsen Samadi, Giuseppe Barbieri, Martina Gerken, Michael Höft, Robert Rieger, Andreas Bahr
-DOI: https://doi.org/10.1515/bmt-2024-0415</summary>
-  </entry>
-  <entry>
-    <title>Novel low-cost approach to build large-scale flexible sensors for spatially distributed ground reaction force measurements</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0453/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0453</id>
-    <updated>2025-08-07T15:00:02.831423+00:00</updated>
-    <summary>Article by Louis F. Straub, Peter P. Pott
-DOI: https://doi.org/10.1515/bmt-2024-0453</summary>
-  </entry>
-  <entry>
-    <title>Does helical plating for proximal humeral shaft fractures benefit bone healing? – anin silicoanalysis in fracture healing</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0445/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0445</id>
-    <updated>2025-08-07T15:00:02.831430+00:00</updated>
-    <summary>Article by Christian Halbauer, Felix Capanni, Lucas Engelhardt, Andreas Paech, Christian Knop, Tobias Merkle, Tomas Da Silva
-DOI: https://doi.org/10.1515/bmt-2024-0445</summary>
-  </entry>
-  <entry>
-    <title>Meta-analysis of animal experiments on osteogenic effects of trace element doped calcium phosphate ceramic/PLGA composites</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0593/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0593</id>
-    <updated>2025-08-07T15:00:02.831436+00:00</updated>
-    <summary>Article by Hongwei He, Meng Zhong, Panxianzhi Ni, Tun Yuan, Jie Liang, Yujiang Fan, Xingdong Zhang
-DOI: https://doi.org/10.1515/bmt-2024-0593</summary>
-  </entry>
-  <entry>
-    <title>Classification of anemic condition based on photoplethysmography signals and clinical dataset</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0433/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0433</id>
-    <updated>2025-08-07T15:00:02.831442+00:00</updated>
-    <summary>Article by Neven Saleh, Ahmed M. Salaheldin, Yasser Ismail, Heba M. Afify
-DOI: https://doi.org/10.1515/bmt-2024-0433</summary>
-  </entry>
-  <entry>
-    <title>Improving the cleaning quality of tube lumen instruments by imaging analysis and deep learning techniques</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2023-0527/html"/>
-    <id>https://doi.org/10.1515/bmt-2023-0527</id>
-    <updated>2025-08-07T15:00:02.831448+00:00</updated>
-    <summary>Article by Changjun Chen, Yewen Feng, Lijun Lu, Linze Qian, Ling Wang, Quchao Zou, Yonghua Chu, Panpan Xu, Yuhang Pan
-DOI: https://doi.org/10.1515/bmt-2023-0527</summary>
-  </entry>
-  <entry>
-    <title>Machine learning prediction of effective radiation doses in various computed tomography applications: a virtual human phantom study</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2024-0620/html"/>
-    <id>https://doi.org/10.1515/bmt-2024-0620</id>
-    <updated>2025-08-07T15:00:02.831455+00:00</updated>
-    <summary>Article by Handan Tanyildizi-Kokkulunk
-DOI: https://doi.org/10.1515/bmt-2024-0620</summary>
+    <title>Abstracts of the 2025 Joint Annual Conference of the Austrian (ÖGBMT), German (VDE DGBMT) and Swiss (SSBE) Societies for Biomedical Engineering</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/bmt-2025-1001/html"/>
+    <id>https://doi.org/10.1515/bmt-2025-1001</id>
+    <updated>2025-09-19T13:40:30.677236+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/bmt-2025-1001</summary>
   </entry>
 </feed>

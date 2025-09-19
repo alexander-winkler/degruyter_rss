@@ -1,114 +1,106 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nanophotonics</title>
-  <link href="https://www.degruyterbrill.com/journal/key/nanoph/14/16/html" rel="via"/>
+  <link href="https://www.degruyterbrill.com/journal/key/nanoph/14/18/html" rel="via"/>
   <link href="https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nanoph.xml" type="application/rss+xml" rel="self"/>
   <link href="https://www.degruyterbrill.com/journal/key/nanoph/html" rel="related"/>
-  <updated>2025-08-19T11:32:11.967070+00:00</updated>
+  <updated>2025-09-19T13:48:12.294095+00:00</updated>
   <id>https://raw.githubusercontent.com/alexander-winkler/degruyter_rss/main/feed/nanoph.xml</id>
   <generator>https://github.com/alexander-winkler/degruyter_rss/blob/main/degruyter_feedgenerator.py</generator>
   <subtitle>A RSS feed containing the latest articles published in Nanophotonics</subtitle>
   <entry>
     <title>Frontmatter</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-frontmatter16/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-frontmatter16</id>
-    <updated>2025-08-19T11:32:11.967093+00:00</updated>
-    <summary>DOI: https://doi.org/10.1515/nanoph-2025-frontmatter16</summary>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-frontmatter18/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-frontmatter18</id>
+    <updated>2025-09-19T13:48:12.294124+00:00</updated>
+    <summary>DOI: https://doi.org/10.1515/nanoph-2025-frontmatter18</summary>
   </entry>
   <entry>
-    <title>Guided nonlinear optics for information processing</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0348/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0348</id>
-    <updated>2025-08-19T11:32:11.967101+00:00</updated>
-    <summary>Article by Daniel Brunner, Birgit Stiller, Demetri Psaltis
-DOI: https://doi.org/10.1515/nanoph-2025-0348</summary>
+    <title>Direct measurement of two-photon absorption and refraction properties of SZ2080TM-based resists at 515 nm: insights into 3D printing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0066/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0066</id>
+    <updated>2025-09-19T13:48:12.294136+00:00</updated>
+    <summary>Article by Michalis Stavrou, Dimitra Ladika, Edvinas Skliutas, Vytautas Jukna, David Gray, Maria Farsari, Saulius Juodkazis, Mangirdas Malinauskas
+DOI: https://doi.org/10.1515/nanoph-2025-0066</summary>
   </entry>
   <entry>
-    <title>All-optical nonlinear activation function based on stimulated Brillouin scattering</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0513/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0513</id>
-    <updated>2025-08-19T11:32:11.967109+00:00</updated>
-    <summary>Article by Grigorii Slinkov, Steven Becker, Dirk Englund, Birgit Stiller
-DOI: https://doi.org/10.1515/nanoph-2024-0513</summary>
+    <title>Exploring 2D-LIPSS formation under circular polarization in ultrafast laser processing</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0147/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0147</id>
+    <updated>2025-09-19T13:48:12.294146+00:00</updated>
+    <summary>Article by Sylvain Georges, Anthony Nakhoul, Vladimir Fedorov, Paul Saby, Nicolas Faure, Hugo Bruhier, Nicolas Compère, Yoan Di Maio, Xxx Sedao, Jean-Philippe Colombier
+DOI: https://doi.org/10.1515/nanoph-2025-0147</summary>
   </entry>
   <entry>
-    <title>Photonic neural networks at the edge of spatiotemporal chaos in multimode fibers</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0593/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0593</id>
-    <updated>2025-08-19T11:32:11.967116+00:00</updated>
-    <summary>Article by Bahadır Utku Kesgin, Uğur Teğin
-DOI: https://doi.org/10.1515/nanoph-2024-0593</summary>
+    <title>Enhancement of second-harmonic generation through Brillouin zone folding in a waveguide-coupled metasurface</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0167/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0167</id>
+    <updated>2025-09-19T13:48:12.294153+00:00</updated>
+    <summary>Article by Tsafrir Abir, Tal Ellenbogen
+DOI: https://doi.org/10.1515/nanoph-2025-0167</summary>
   </entry>
   <entry>
-    <title>Principles and metrics of extreme learning machines using a highly nonlinear fiber</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0012/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0012</id>
-    <updated>2025-08-19T11:32:11.967124+00:00</updated>
-    <summary>Article by Mathilde Hary, Daniel Brunner, Lev Leybov, Piotr Ryczkowski, John M. Dudley, Goëry Genty
-DOI: https://doi.org/10.1515/nanoph-2025-0012</summary>
+    <title>Efficient and tunable frequency conversion using periodically poled thin-film lithium tantalate nanowaveguides</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0201/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0201</id>
+    <updated>2025-09-19T13:48:12.294160+00:00</updated>
+    <summary>Article by Simin Yu, Mingyue Qi, Huizong Zhu, Bofu Zhao, Jingchun Qian, Yiqun Wu, Qiushi Chen, Juanjuan Lu
+DOI: https://doi.org/10.1515/nanoph-2025-0201</summary>
   </entry>
   <entry>
-    <title>Nonlinear inference capacity of fiber-optical extreme learning machines</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0045/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0045</id>
-    <updated>2025-08-19T11:32:11.967131+00:00</updated>
-    <summary>Article by Sobhi Saeed, Mehmet Müftüoğlu, Glitta R. Cheeran, Thomas Bocklitz, Bennet Fischer, Mario Chemnitz
-DOI: https://doi.org/10.1515/nanoph-2025-0045</summary>
+    <title>Efficient high-quality photon pair generation in modal phase-matched thin-film lithium niobate micro-ring resonators</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0211/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0211</id>
+    <updated>2025-09-19T13:48:12.294175+00:00</updated>
+    <summary>Article by Tingting Chen, Feihong Xue, Ryan Hogan, Xiaofei Ma, Jiaxuan Zhou, Yule Zhao, Yanling Xiao, Zhilin Ye, Chong Sheng, Qiang Wang, Shining Zhu, Hui Liu
+DOI: https://doi.org/10.1515/nanoph-2025-0211</summary>
   </entry>
   <entry>
-    <title>Optical neuromorphic computing via temporal up-sampling and trainable encoding on a telecom device platform</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0614/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0614</id>
-    <updated>2025-08-19T11:32:11.967139+00:00</updated>
-    <summary>Article by Egor Manuylovich, Dmitrii Stoliarov, David Saad, Sergei K. Turitsyn
-DOI: https://doi.org/10.1515/nanoph-2024-0614</summary>
+    <title>Engineering cm-scale true push-pull electro-optic modulators in a suspended GaAs photonic integrated circuit platform by exploiting the orientation induced asymmetry of the Pockelsr41coefficient</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0212/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0212</id>
+    <updated>2025-09-19T13:48:12.294186+00:00</updated>
+    <summary>Article by Haoyang Li, Robert Thomas, Pisu Jiang, Krishna C. Balram
+DOI: https://doi.org/10.1515/nanoph-2025-0212</summary>
   </entry>
   <entry>
-    <title>In-situ training in programmable photonic frequency circuits</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0125/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0125</id>
-    <updated>2025-08-19T11:32:11.967146+00:00</updated>
-    <summary>Article by Philip Rübeling, Oleksandr V. Marchukov, Filipe F. Bellotti, Ulrich B. Hoff, Nikolaj T. Zinner, Michael Kues
-DOI: https://doi.org/10.1515/nanoph-2025-0125</summary>
+    <title>Cascades of quasi-bound states in the continuum</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0238/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0238</id>
+    <updated>2025-09-19T13:48:12.294193+00:00</updated>
+    <summary>Article by Nikolay Solodovchenko, Mikhail Bochkarev, Kirill Samusev, Mikhail Limonov
+DOI: https://doi.org/10.1515/nanoph-2025-0238</summary>
   </entry>
   <entry>
-    <title>Training hybrid neural networks with multimode optical nonlinearities using digital twins</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0002/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0002</id>
-    <updated>2025-08-19T11:32:11.967152+00:00</updated>
-    <summary>Article by Ilker Oguz, Louis J.E. Suter, Jih-Liang Hsieh, Mustafa Yildirim, Niyazi Ulas Dinc, Christophe Moser, Demetri Psaltis
-DOI: https://doi.org/10.1515/nanoph-2025-0002</summary>
+    <title>Dual-mode varifocal Moiré metalens for quantitative phase and edge-enhanced imaging</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0245/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0245</id>
+    <updated>2025-09-19T13:48:12.294199+00:00</updated>
+    <summary>Article by Yi Lian, Yongqi Liu, Dewen Cheng, Cheng Chi, Yanjun Bao, Yongtian Wang
+DOI: https://doi.org/10.1515/nanoph-2025-0245</summary>
   </entry>
   <entry>
-    <title>Reliable, efficient, and scalable photonic inverse design empowered by physics-inspired deep learning</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0504/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0504</id>
-    <updated>2025-08-19T11:32:11.967160+00:00</updated>
-    <summary>Article by Guocheng Shao, Tiankuang Zhou, Tao Yan, Yanchen Guo, Yun Zhao, Ruqi Huang, Lu Fang
-DOI: https://doi.org/10.1515/nanoph-2024-0504</summary>
+    <title>Frequency-multiplexed optical reservoir computing using a microcomb</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0260/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0260</id>
+    <updated>2025-09-19T13:48:12.294209+00:00</updated>
+    <summary>Article by Jonathan Cuevas, Yue Hu, Baoqi Shi, Junqiu Liu, Kaoru Minoshima, Naoya Kuse
+DOI: https://doi.org/10.1515/nanoph-2025-0260</summary>
   </entry>
   <entry>
-    <title>Intermodal all-optical pulse switching and frequency conversion using temporal reflection and refraction in multimode fibers</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0653/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0653</id>
-    <updated>2025-08-19T11:32:11.967167+00:00</updated>
-    <summary>Article by Alexis C. Sparapani, Yifan Sun, Fabio Mangini, Mario Ferraro, Govind P. Agrawal, Stefan Wabnitz
-DOI: https://doi.org/10.1515/nanoph-2024-0653</summary>
+    <title>Self-accelerating topological edge states</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0268/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0268</id>
+    <updated>2025-09-19T13:48:12.294216+00:00</updated>
+    <summary>Article by Zhuo Zhang, Yaroslav V. Kartashov, Milivoj R. Belić, Yongdong Li, Yiqi Zhang
+DOI: https://doi.org/10.1515/nanoph-2025-0268</summary>
   </entry>
   <entry>
-    <title>Modulation instability control via evolutionarily optimized optical seeding</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0070/html"/>
-    <id>https://doi.org/10.1515/nanoph-2025-0070</id>
-    <updated>2025-08-19T11:32:11.967173+00:00</updated>
-    <summary>Article by Lynn Sader, Yassin Boussafa, Van Thuy Hoang, Raktim Haldar, Michael Kues, Benjamin Wetzel
-DOI: https://doi.org/10.1515/nanoph-2025-0070</summary>
-  </entry>
-  <entry>
-    <title>From signal processing of telecommunication signals to high pulse energy lasers: the Mamyshev regenerator case</title>
-    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2024-0712/html"/>
-    <id>https://doi.org/10.1515/nanoph-2024-0712</id>
-    <updated>2025-08-19T11:32:11.967180+00:00</updated>
-    <summary>Article by Christophe Finot, Martin Rochette
-DOI: https://doi.org/10.1515/nanoph-2024-0712</summary>
+    <title>Rapid adiabatic couplers with arbitrary split ratios for broadband DWDM interleaver application</title>
+    <link href="https://www.degruyterbrill.com/document/doi/10.1515/nanoph-2025-0288/html"/>
+    <id>https://doi.org/10.1515/nanoph-2025-0288</id>
+    <updated>2025-09-19T13:48:12.294223+00:00</updated>
+    <summary>Article by Daehan Choi, Woo-Joo Kim, Young-Ik Sohn
+DOI: https://doi.org/10.1515/nanoph-2025-0288</summary>
   </entry>
 </feed>
